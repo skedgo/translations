@@ -5,7 +5,7 @@ Translation files used across the SkedGo family of products
 
 format
 ------
-.properties files must be in ISO-8859-1
+.properties files must be in ISO-8859-1.  You can create the files in UTF-8 and use `native2ascii` to convert them.
 
 howto
 -----
