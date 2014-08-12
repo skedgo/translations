@@ -1,0 +1,5 @@
+NSCalendarsUsageDescription = "Obtenez des itinéraires depuis et vers les évènements de votre calendrier, et recherchez des évènements dans votre calendrier.";
+
+NSContactsUsageDescription = "Recherchez des adresses dans vos contacts.";
+
+NSLocationUsageDescription = "Voyagez depuis ou vers votre position actuelle. Localisez-vous sur la carte.";

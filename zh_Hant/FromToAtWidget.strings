@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30"; */
+"30.accessibilityLabel" = "對調出發地與目的地";
+
+/* Class = "IBUIButton"; normalTitle = "Time"; ObjectID = "44"; */
+"44.normalTitle" = "時刻";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Route"; ObjectID = "57"; */
+"57.accessibilityLabel" = "規劃旅程";
+
+/* Class = "IBUIButton"; normalTitle = "Route"; ObjectID = "57"; */
+"57.normalTitle" = "規劃旅程";
+
+/* Class = "IBUIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo"; */
+"JFm-H4-fOo.accessibilityLabel" = "出發地";
+
+/* Class = "IBUIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL"; */
+"bs1-li-naL.accessibilityLabel" = "目的地";

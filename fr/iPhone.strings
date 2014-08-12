@@ -1,0 +1,39 @@
+
+/* Class = "IBUITabBarItem"; title = "Search"; ObjectID = "3d9-Hg-2Fe"; */
+"3d9-Hg-2Fe.title" = "Recherche";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
+"5WK-au-VFq.title" = "Réglages";
+
+/* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN"; */
+"IFX-i9-ymN.title" = "Trajets";
+
+/* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
+"JMk-5m-B22.title" = "Service";
+
+/* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "KGR-eg-uwA"; */
+"KGR-eg-uwA.title" = "Favoris";
+
+/* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
+"QTR-Ae-g7f.title" = "Trajet";
+
+/* Class = "IBUITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
+"TNA-bx-79H.title" = "Agenda";
+
+/* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "TYM-9i-XBA"; */
+"TYM-9i-XBA.title" = "Réglages";
+
+/* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "ayF-Zr-HVM"; */
+"ayF-Zr-HVM.text" = "L’Agenda planifie automatiquement les déplacements entre votre domicile, votre travail et les évènements de votre calendrier.";
+
+/* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "egT-4w-rf0"; */
+"egT-4w-rf0.normalTitle" = "Configurez votre Agenda";
+
+/* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "hZa-ep-5Uu"; */
+"hZa-ep-5Uu.title" = "Agenda";
+
+/* Class = "IBUITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
+"ye4-ch-zSe.title" = "Favoris";
+
+/* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n"; */
+"zCk-Ai-u6n.title" = "Calendrier";

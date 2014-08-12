@@ -1,0 +1,39 @@
+
+/* Class = "IBUITabBarItem"; title = "Search"; ObjectID = "3d9-Hg-2Fe"; */
+"3d9-Hg-2Fe.title" = "搜尋";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
+"5WK-au-VFq.title" = "設定";
+
+/* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN"; */
+"IFX-i9-ymN.title" = "旅程";
+
+/* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
+"JMk-5m-B22.title" = "路線";
+
+/* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "KGR-eg-uwA"; */
+"KGR-eg-uwA.title" = "常用";
+
+/* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
+"QTR-Ae-g7f.title" = "旅程";
+
+/* Class = "IBUITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
+"TNA-bx-79H.title" = "行程";
+
+/* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "TYM-9i-XBA"; */
+"TYM-9i-XBA.title" = "設定";
+
+/* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "ayF-Zr-HVM"; */
+"ayF-Zr-HVM.text" = "行程功能將自動幫您規劃從您住家到公司或任何在行事曆中的事件之間的旅程";
+
+/* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "egT-4w-rf0"; */
+"egT-4w-rf0.normalTitle" = "設定您的行程";
+
+/* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "hZa-ep-5Uu"; */
+"hZa-ep-5Uu.title" = "行程";
+
+/* Class = "IBUITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
+"ye4-ch-zSe.title" = "常用";
+
+/* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n"; */
+"zCk-Ai-u6n.title" = "時刻表";
