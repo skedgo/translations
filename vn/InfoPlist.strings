@@ -1,0 +1,5 @@
+NSCalendarsUsageDescription = "Get automated trips from and to events in your calendar, and search your calendar for events.";
+
+NSContactsUsageDescription = "Tìm kiếm địa điểm từ danh sách liên lạc của bạn";
+
+NSLocationUsageDescription = "Tìm đường đi đến hoặc từ vị trí hiện tại của bạn. Định vị vị trí của bạn trên bản đồ.";

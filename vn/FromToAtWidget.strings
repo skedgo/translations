@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30"; */
+"30.accessibilityLabel" = "Hoán đổi địa điểm đi và đến";
+
+/* Class = "IBUIButton"; normalTitle = "Time"; ObjectID = "44"; */
+"44.normalTitle" = "Thời gian";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Route"; ObjectID = "57"; */
+"57.accessibilityLabel" = "Tuyến đường";
+
+/* Class = "IBUIButton"; normalTitle = "Route"; ObjectID = "57"; */
+"57.normalTitle" = "Tuyến đường";
+
+/* Class = "IBUIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo"; */
+"JFm-H4-fOo.accessibilityLabel" = "Điểm đến";
+
+/* Class = "IBUIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL"; */
+"bs1-li-naL.accessibilityLabel" = "Điểm xuất phát";
