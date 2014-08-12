@@ -36,11 +36,15 @@ action_label_ReportProblem=回報問題
 #Time (generic)
 label_minutes=分鐘
 label_mins=分鐘
+label_min=min
 label_hr=小時
 label_hour=小時
 label_hours=小時
 label_day=天
 label_days=天
+
+#Preposition 'for' to be used for time duration, e.g., 'Ride bike for 3 mins'
+time_duration_for=for
 
 #Transport selector tooltips
 transportSel_tooltip_PublicTransport=大眾交通
@@ -77,3 +81,18 @@ btn_Cancel=取消
 btn_Done=完成
 btn_Save = 儲存
 btn_Close = 關閉
+
+# Filler for last trip segment title, e.g., 'Arrive at Argyle St near Harrington St'
+arrive_At='Arrive at '
+
+# Filler for last trip segment title, e.g., 'Arrive at destination'
+destination = destination
+
+# From <location>, e.g., 'From Redfern Station Platform 2'
+From = 'From '
+
+# To <location>, e.g. 'To Redfern Station Platform 2'
+To = 'To '
+
+# Filler for a stationary trip segment (e.g. parking, or toll) asking to stay 'at' location, e.g., 'At Redfern Station Platform 2'
+stationary_segment_At = 'At '
