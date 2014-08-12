@@ -1,0 +1,5 @@
+NSCalendarsUsageDescription = "Krijg automatisch de reizen van en naar uw activiteiten in uw kalender. U kunt ook uw kalender zoeken voor activiteiten.";
+
+NSContactsUsageDescription = "Zoek uw contacten voor adressen en locaties.";
+
+NSLocationUsageDescription = "Zoek vanuit of naar uw huidige locatie. Bekijk waar u zich bevindt op de kaart.";
