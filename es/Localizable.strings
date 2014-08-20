@@ -259,6 +259,9 @@
 "Fast" = "Rápido";
 
 /* No comment provided by engineer. */
+"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Favorites from a previous TripGo version have been found on your device. What do you want to do with them?"; // TODO
+
+/* No comment provided by engineer. */
 "Favourite" = "Favorito";
 
 /* Add favourite HUD notice */
@@ -358,6 +361,9 @@
 
 /* Map mode 'streets + satellite' */
 "Hybrid" = "Híbrido";
+
+/* Import action title */
+"Import" = "Import"; // TODO
 
 /* Action title to include an event in routing
    Include event action */
