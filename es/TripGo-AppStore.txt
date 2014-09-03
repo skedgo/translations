@@ -11,6 +11,7 @@ TripGo: Planificador de viajes considerando la agenda con sugerencias de transpo
 - "Alertas en tiempo real para tus viajes."
 - "Personalizado para tu vida"
 
+
 # DESCRIPTION
 
 ¿Qué hace que TripGo sea la mejor aplicación de planificación de transporte?
@@ -21,7 +22,7 @@ Nuestra premiada aplicación te permite viajar más inteligentemente, conectando
 
 Indicale a TripGo tus preferencias de transporte, tu calendario, tus vehículos y tus ubicaciones frecuentes; y TripGo te proporcionará planificaciones puerta a puerta de acuerdo a tu estilo de vida.
 
-Funciona en las principales ciudades de Australia, Nueva Zelanda, Estados Unidos y Europa. => Works across an increasing number of major cities in Australia, Canada, Europe, New Zealand, and United States. (TODO)
+Funciona en un número cada vez mayor de ciudades de Australia, Canadá, Europa, Nueva Zelanda y Estados Unidos. 
 
 MODOS DE TRANSPORTE SOPORTADOS:
 
@@ -42,38 +43,39 @@ No sólo proporciona resultados para cada uno de estos transportes, sino tambié
 
 CARACTERÍSTICAS:
 
-+ Información de transporte público en tiempo real
++ Viajes automáticos entre tu casa, tu trabajo y los eventos de tu calendario
 + Opciones puerta a puerta para comparar fácilmente por precio, tiempo e impacto ambiental, incluyendo transporte público, taxi y bicis públicas.
++ Información sobre el transporte público en tiempo real
++ Horarios de transporte público
 + Planificación de viajes de acuerdo a tus preferencias de transporte.
 + Recordatorios de tus próximos viajes, para que siempre llegues a tiempo a tus eventos. 
 + Precios de transporte público
 + Información de peajes y estacionamientos
 + Tarifas de Taxi
 + Búsqueda de negocios y púntos de interés
-+ Guarda tus viajes en la agenda
 + Abrir desde Mapas de Apple
 + Iniciar navegación paso a paso
 + Funciona en iPhone y iPad
 + Hecho en Australia
 
 
-SUPPORTED CITIES:
+CIUDADES SOPORTADAS:
 
-- Argentina: Bahia Blanca
-- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
-- Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Alemania: Berlin, Potsdam
+- Argentina: Bahía Blanca
+- Australia: Adelaida, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
+- Canadá: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chile: Santiago
-- Estados Unidos: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
-- Finland: Helsinki [*]
-- France: Rennes, Toulouse
-- Germany: Berlin, Potsdam
-- Hungary: Budapest
-- Irlanda: Dublin
-- Italy: Milan, Rome, Trentino
+- España: Madrid
+- Estados Unidos: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, Nueva York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- Finlandia: Helsinki [*]
+- Francia: Rennes, Toulouse
+- Holanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Hungría: Budapest
+- Irlanda: Dublín
+- Italia: Milán, Roma, Trentino
 - México: Ciudad de México
-- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Nueva Zelanda: Auckland, Christchurch [*], Wellington
-- Reino Unido:: London, Manchester
-- Spain: Madrid
+- Reino Unido: Londres, Mánchester
 
-[*] incluye información de tiempo real
+[*] incluye información en tiempo real
