@@ -1,6 +1,6 @@
 # APP TITLE (255 Characters)
 
-TripGo : Planificateur de trajets pour votre calendrier avec des indications en temps-réel des transports
+TripGo : Planificateur d'itinéraires pour votre calendrier avec indication des transports en temps-réel.
 
 
 # SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
@@ -19,7 +19,7 @@ TripGo est un service tout-en-un de transport et de cartographie qui s’intègr
 
 Notre application, plusieurs fois récompensée, vous fait voyager plus intelligemment en connectant votre calendrier aux indications en temps-réel des services de transport, et vous propose différentes options pour une comparaison facile.
 
-Renseignez TripGo avec vos moyens de transport préférés, votre emploi du temps, vos véhicules et adresses fréquentes et ce dernier se chargera de vous fournir une planification de trajets adaptée à votre style de vie.
+Renseignez TripGo avec vos moyens de transport préférés, votre emploi du temps, vos véhicules et adresses fréquentes et ce dernier se chargera de vous fournir une planification d'itinéraires adaptée à votre style de vie.
 
 Service dont la couverture, en pleine croissance, s’étend dans de nombreuses grandes villes d’Australie, du Canada, d’Europe, de Nouvelle-Zélande et des États-Unis.
 
@@ -30,7 +30,7 @@ TripGo supporte les modes de transport suivants :
 + Taxi
 + Services de navette
 + Voiture
-+ Co-voiturage
++ Voitures en libre-service
 + Moto
 + Vélo
 + Vélos en libre-service
@@ -55,23 +55,23 @@ FONCTIONNALITÉS :
 + Faite en Australie
 
 
-SUPPORTED CITIES:
+VILLES COUVERTES :
 
-- Argentina: Bahia Blanca
-- Australie: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
-- Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
-- Chile: Santiago
-- Royaume-Uni: London, Manchester
-- Finland: Helsinki [*]
-- France: Rennes, Toulouse
-- Allemagne: Berlin, Potsdam
-- Hungary: Budapest
-- Irlande: Dublin
-- Italy: Milan, Rome, Trentino
-- Mexique: Mexico City
-- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
-- Nouvelle-Zélande: Auckland, Christchurch [*], Wellington
-- Spain: Madrid
-- États-Unis: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- Argentine : Bahia Blanca
+- Australie : Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
+- Canada : Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Chili : Santiago
+- Royaume-Uni : Londres, Manchester
+- Finlande : Helsinki [*]
+- France : Rennes, Toulouse
+- Allemagne : Berlin, Potsdam
+- Hongrie : Budapest
+- Irlande : Dublin
+- Italie : Milan, Rome, Trentino
+- Mexique : Mexico City
+- Pays-Bas : Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Nouvelle-Zélande : Auckland, Christchurch [*], Wellington
+- Espagne : Madrid
+- États-Unis : Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphie, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
 
-[*] incluant des données en temps-réel
+[*] incluent des données en temps-réel
