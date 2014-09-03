@@ -1,0 +1,77 @@
+# APP TITLE (255 Characters)
+
+TripGo : Planificateur de trajets pour votre calendrier avec des indications en temps-réel des transports
+
+
+# SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
+
+- « Connaît votre emploi du temps. Planifie vos déplacements ».
+- « Tous vos véhicules et transports en commun ».
+- « Comparez les coûts, les durées et les émissions de CO2 ».
+- « Alertes en temps-réel pour vos itinéraires ».
+- « Adapté à votre vie ».
+
+# DESCRIPTION
+
+Qu’est-ce qui fait de TripGo la meilleure application de planification d’itinéraires ?
+
+TripGo est un service tout-en-un de transport et de cartographie qui s’intègre dans votre vie et qui vous donne les informations dont vous avez besoin, quand vous en avez besoin.
+
+Notre application, plusieurs fois récompensée, vous fait voyager plus intelligemment en connectant votre calendrier aux indications en temps-réel des services de transport, et vous propose différentes options pour une comparaison facile.
+
+Renseignez TripGo avec vos moyens de transport préférés, votre emploi du temps, vos véhicules et adresses fréquentes et ce dernier se chargera de vous fournir une planification de trajets adaptée à votre style de vie.
+
+Service dont la couverture, en pleine croissance, s’étend dans de nombreuses grandes villes d’Australie, du Canada, d’Europe, de Nouvelle-Zélande et des États-Unis.
+
+MODES DE TRANSPORT SUPPORTÉS : 
+
+TripGo supporte les modes de transport suivants :
++ Transports en commun : bus, ferries, métros, trains, tramways et plus
++ Taxi
++ Services de navette
++ Voiture
++ Co-voiturage
++ Moto
++ Vélo
++ Vélos en libre-service
++ Marche à pied
+
+Les résultats proposés combinent plusieurs modes de transport et non pas un seul.
+
+FONCTIONNALITÉS : 
+
++ Des informations en temps-réel sur les transports en commun
++ Des options étape après étape pour une comparaison facile basée sur le prix, la durée ou l’impact environnemental - incluant les transports en commun, taxis et vélos en libre-service
++ Des itinéraires adaptés à vos modes de transport préférés
++ Des rappels pour vos trajets à venir pour toujours arriver à l’heure à vos rendez-vous
++ Les prix des transports en commun
++ Les informations sur les péages et parkings
++ Les prix des taxis
++ Recherchez des points d’intérêt et des commerces
++ Enregistrez vos trajets dans votre calendrier
++ Ouvrez TripGo depuis l’application Maps d’Apple
++ Lancez une navigation étape par étape
++ Application universelle pour iPhone et iPad
++ Faite en Australie
+
+
+SUPPORTED CITIES:
+
+- Argentina: Bahia Blanca
+- Australie: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
+- Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Chile: Santiago
+- Royaume-Uni: London, Manchester
+- Finland: Helsinki [*]
+- France: Rennes, Toulouse
+- Allemagne: Berlin, Potsdam
+- Hungary: Budapest
+- Irlande: Dublin
+- Italy: Milan, Rome, Trentino
+- Mexique: Mexico City
+- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Nouvelle-Zélande: Auckland, Christchurch [*], Wellington
+- Spain: Madrid
+- États-Unis: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+
+[*] incluant des données en temps-réel

@@ -1,0 +1,79 @@
+# APP TITLE (255 Characters)
+
+TripGo: Planificador de viajes considerando la agenda con sugerencias de transporte en tiempo real.
+
+
+# SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
+
+- "Conoce tu calendario. Planifica tus viajes."
+- "Todos tus transportes, públicos y privados." 
+- "Compara costo, tiempo y combustible." 
+- "Alertas en tiempo real para tus viajes."
+- "Personalizado para tu vida"
+
+# DESCRIPTION
+
+¿Qué hace que TripGo sea la mejor aplicación de planificación de transporte?
+
+TripGo provee una solución que incluye transporte y mapas, integrándose con tu vida y proproporcionándote la información que necesitás, cuando la necesitás.
+
+Nuestra premiada aplicación te permite viajar más inteligentemente, conectando tu calendario con sugerencias de transporte público en tiempo real, proporcionándote opciones para una fácil comparación.
+
+Indicale a TripGo tus preferencias de transporte, tu calendario, tus vehículos y tus ubicaciones frecuentes; y TripGo te proporcionará planificaciones puerta a puerta de acuerdo a tu estilo de vida.
+
+Funciona en las principales ciudades de Australia, Nueva Zelanda, Estados Unidos y Europa. => Works across an increasing number of major cities in Australia, Canada, Europe, New Zealand, and United States. (TODO)
+
+MODOS DE TRANSPORTE SOPORTADOS:
+
+TripGo soporta los suguientes medios de transporte:
+
++ Transporte público: autobuses, ferries, subtes, trenes, tranvías y más
++ Taxi
++ Servicios de traslado
++ Automóvil
++ Vehículos compartidos
++ Motocicleta
++ Bicicleta
++ Bicicletas públicas
++ Caminando
+
+No sólo proporciona resultados para cada uno de estos transportes, sino también combinados.
+
+
+CARACTERÍSTICAS:
+
++ Información de transporte público en tiempo real
++ Opciones puerta a puerta para comparar fácilmente por precio, tiempo e impacto ambiental, incluyendo transporte público, taxi y bicis públicas.
++ Planificación de viajes de acuerdo a tus preferencias de transporte.
++ Recordatorios de tus próximos viajes, para que siempre llegues a tiempo a tus eventos. 
++ Precios de transporte público
++ Información de peajes y estacionamientos
++ Tarifas de Taxi
++ Búsqueda de negocios y púntos de interés
++ Guarda tus viajes en la agenda
++ Abrir desde Mapas de Apple
++ Iniciar navegación paso a paso
++ Funciona en iPhone y iPad
++ Hecho en Australia
+
+
+SUPPORTED CITIES:
+
+- Argentina: Bahia Blanca
+- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
+- Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Chile: Santiago
+- Estados Unidos: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- Finland: Helsinki [*]
+- France: Rennes, Toulouse
+- Germany: Berlin, Potsdam
+- Hungary: Budapest
+- Irlanda: Dublin
+- Italy: Milan, Rome, Trentino
+- México: Ciudad de México
+- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Nueva Zelanda: Auckland, Christchurch [*], Wellington
+- Reino Unido:: London, Manchester
+- Spain: Madrid
+
+[*] incluye información de tiempo real
