@@ -1,6 +1,6 @@
 
 /* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "1dD-nX-UbO"; */
-"1dD-nX-UbO.text" = "De agenda plant automatisch het transport naar uw activiteiten in uw kalender.";
+"1dD-nX-UbO.text" = "De agenda plant automatisch het vervoer naar de activiteiten in uw kalender.";
 
 /* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "5XA-VY-lvO"; */
 "5XA-VY-lvO.normalTitle" = "Uw agenda instellen";
@@ -9,7 +9,7 @@
 "A61-q2-DtW.title" = "Routes";
 
 /* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "Ae9-5l-gdh"; */
-"Ae9-5l-gdh.title" = "Trip";
+"Ae9-5l-gdh.title" = "Reis";
 
 /* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "Coq-sX-wUc"; */
 "Coq-sX-wUc.title" = "Favorieten";
