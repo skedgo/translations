@@ -1,4 +1,4 @@
-﻿/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
+/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
 " at " = " om ";
 
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
@@ -622,7 +622,7 @@
 "Send Real-time SMS" = "Verzend Real-time SMS";
 
 /* No comment provided by engineer. */
-"Set location..." = "Selecteer locatie…";
+"Set location..." = "Selecteer locatie...";
 
 /* No comment provided by engineer. */
 "Settings" = "Instellingen";
