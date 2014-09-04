@@ -15,7 +15,7 @@
 "KGR-eg-uwA.title" = "Favorieten";
 
 /* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
-"QTR-Ae-g7f.title" = "Trip";
+"QTR-Ae-g7f.title" = "Reis";
 
 /* Class = "IBUITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
 "TNA-bx-79H.title" = "Agenda";
@@ -24,7 +24,7 @@
 "TYM-9i-XBA.title" = "Instellingen";
 
 /* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "ayF-Zr-HVM"; */
-"ayF-Zr-HVM.text" = "De agenda plant automatisch het transport naar de activiteiten in uw kalender.";
+"ayF-Zr-HVM.text" = "De agenda plant automatisch het vervoer naar de activiteiten in uw kalender.";
 
 /* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "egT-4w-rf0"; */
 "egT-4w-rf0.normalTitle" = "Uw agenda instellen";
