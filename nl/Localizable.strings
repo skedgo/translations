@@ -108,13 +108,13 @@
 "Cache cleared" = "Cache is leeggemaakt";
 
 /* Calendar */
-"Calendar" = "Kalender";
+"Calendar" = "Agenda";
 
 /* Type for regular events that go in the phone's calendar. */
 "Calendar Event" = "Activiteit";
 
 /* No comment provided by engineer. */
-"Calendars" = "Kalenders";
+"Calendars" = "Agenda's";
 
 /* No comment provided by engineer. */
 "Call Taxi" = "Bel Taxi";
@@ -193,7 +193,7 @@
 "Distances" = "Afstanden";
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
-"Don't have a fixed place of work or study? Skip this step." = "Geen vaste werk of studeer plek? Dan kunt u deze stap overslaan.";
+"Don't have a fixed place of work or study? Skip this step." = "Geen vaste werk- of studeerplek? Dan kunt u deze stap overslaan.";
 
 /* Done button */
 "Done" = "Kies";
@@ -205,13 +205,13 @@
 "Environment" = "Milieu";
 
 /* No comment provided by engineer. */
-"Error clearing agenda" = "Fout bij leegmaken agenda";
+"Error clearing agenda" = "Fout leegmaken agenda";
 
 /* No comment provided by engineer. */
-"Error clearing cache" = "Fout bij leegmaken cache";
+"Error clearing cache" = "Fout leegmaken cache";
 
 /* No comment provided by engineer. */
-"Error clearing history" = "Fout bij leegmaken geschiedenis";
+"Error clearing history" = "Fout leegmaken geschiedenis";
 
 /* No comment provided by engineer. */
 "Event" = "Activiteit";
@@ -251,13 +251,13 @@
 "Exclude" = "Uitsluiten";
 
 /* There goes my excuse for being late... */
-"ExcuseDueToLate" = "TripGo - Daar gaat mijn goede excuus om te laat te komen...";
+"ExcuseDueToLate" = "TripGo - Daar gaat mijn excuus om te laat te komen...";
 
 /* Speed preference 'fast' */
 "Fast" = "Snel";
 
 /* No comment provided by engineer. */
-"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Er zijn favorieten van een vorige TripGo versie aangetroffen. Wat wilt u met deze doen?"; // TODO
+"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Er zijn favorieten van een vorige TripGo versie aangetroffen. Wat wilt u doen?"; // TODO
 
 /* No comment provided by engineer. */
 "Favourite" = "Favouriet";
@@ -285,7 +285,7 @@
 "Flight" = "Vlucht";
 
 /* Flight number prompt */
-"Flight number" = "Vlucht nummer";
+"Flight number" = "Vluchtnummer";
 
 /* Date of the flight */
 "FlightDate" = "Datum";
@@ -306,7 +306,7 @@
 "For when to leave" = "Voor vertrek";
 
 /* Free directions */
-"FreeDirections" = "TripGo - Gratis routebeschrijvingen";
+"FreeDirections" = "TripGo - Gratis reisadvies";
 
 /* Route here... ...from Current location */
 "From current location" = "Vanuit huidige locatie";
@@ -315,7 +315,7 @@
 "FromToForEventLocationFormat" = "Van %@ naar %@";
 
 /* Header for list of vehicles garaged at this location */
-"Garaged Vehicles" = "Gestalde voertuigen";
+"Garaged Vehicles" = "Geparkeerde voertuigen";
 
 /* Title of settings for generic transport stuff */
 "General" = "Algemeen";
@@ -348,7 +348,7 @@
 "Habitual Visits" = "Routines";
 
 /* Explanation for what habitual events are. Can be long-ish. */
-"HabitualEventDescription" = "Routines zijn activiteiten die je bijna elke dag doet, maar niet echt in je kalender wilt. Werk en thuis zijn hier goede voorbeelden van.";
+"HabitualEventDescription" = "Routines zijn pleken waar je vaak bent, maar normaal niet in je kalender zet. Werk en thuis zijn hier goede voorbeelden van.";
 
 /* No comment provided by engineer. */
 "History cleared" = "Geschiedenis is leeggemaakt";
@@ -364,10 +364,10 @@
 
 /* Action title to include an event in routing
    Include event action */
-"Include" = "Meetellen";
+"Include" = "Erbij doen";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
-"Include in routes" = "Meetellen bij routes";
+"Include in routes" = "Meetellen bij routebepalingen";
 
 /* School services footer */
 "Information on school services and concession pricing is subject to availability." = "De informatie over schooldiensten en kortingen is alleen op basis van beschikbaarheid.";
@@ -412,7 +412,7 @@
 "LocationWantToGo" = "Waar wilt u naartoe?";
 
 /* No comment provided by engineer. */
-"Long press on the map to choose a location" = "Houdt ingedrukt op de kaart om een locatie te kiezen";
+"Long press on the map to choose a location" = "Houd de vinger ingedrukt om een locatie te kiezen";
 
 /* I once was lost but now I have found... TripGo */
 "LostOnce" = "Ik was erg verdwaald.. totdat ik TripGo vond!";
@@ -423,10 +423,10 @@
 "Map" = "Kaart";
 
 /* No comment provided by engineer. */
-"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Een opgeslagen favoriet helpt u sneller op uw favoriete bestemming to komen, met uw huidige locatie als het vertrekpunt.";
+"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Een opgeslagen favoriet helpt u om sneller op uw favoriete bestemming to komen, met uw huidige locatie als het vertrekpunt.";
 
 /* No comment provided by engineer. */
-"Marking a transit stop as a favourite will allow quick access to its timetable." = "Als u een bus of treinstation als een favoriet opslaat, kunt u sneller de dienstregeling hiervan bekijken.";
+"Marking a transit stop as a favourite will allow quick access to its timetable." = "Als u een bus of treinstation als een favoriet opslaat, kunt u direct de dienstregeling hiervan bekijken.";
 
 /* Speed preference 'medium' */
 "Medium" = "Normaal";
@@ -567,7 +567,7 @@
 "RequestErrorFormat" = "'%@' niet gevonden.";
 
 /* segment membership required action */
-"Requires membership" = "Vereist lidmaatschap";
+"Requires membership" = "Lidmaatschap vereist";
 
 /* Reset button for my priorities
  Title of group of settings related to resetting settings */
@@ -613,7 +613,7 @@
 "Select a date to get flight details." = "Selecteer een datum voor de vluchtresultatens.";
 
 /* Walkthrough */
-"Select the place where you stay at the end of each day" = "Selecteer een plek waar u verblijft aan het einde van elke dag.";
+"Select the place where you stay at the end of each day" = "Selecteer een plek waar u verblijft aan het eind van elke dag.";
 
 /* No comment provided by engineer. */
 "Select Vehicle" = "Selecteer voertuig";
@@ -785,5 +785,5 @@
 "Zoom in" = "Zoom in";
 
 /* Walkthrough */
-"Zoom into map to view public transport stops" = "Zoom in op de kaart om bus en treinstations te zien.";
+"Zoom into map to view public transport stops" = "Zoom in op de kaart om bus- en treinstations te zien.";
 
