@@ -57,21 +57,21 @@ FONCTIONNALITÉS :
 
 VILLES COUVERTES :
 
+- Allemagne : Berlin, Potsdam
 - Argentine : Bahia Blanca
 - Australie : Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
 - Canada : Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chili : Santiago
-- Royaume-Uni : Londres, Manchester
+- Espagne : Madrid
+- États-Unis : Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphie, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
 - Finlande : Helsinki [*]
 - France : Rennes, Toulouse
-- Allemagne : Berlin, Potsdam
 - Hongrie : Budapest
 - Irlande : Dublin
 - Italie : Milan, Rome, Trentino
 - Mexique : Mexico City
-- Pays-Bas : Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Nouvelle-Zélande : Auckland, Christchurch [*], Wellington
-- Espagne : Madrid
-- États-Unis : Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphie, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- Pays-Bas : Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Royaume-Uni : Londres, Manchester
 
 [*] incluent des données en temps-réel
