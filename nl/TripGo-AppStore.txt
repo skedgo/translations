@@ -57,19 +57,19 @@ FUNCTIES:
 + Gemaakt in Australië met Nederlandse invloed
 
 ONDERSTEUNDE STEDEN:
-- Nederland: Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Argentinië: Bahia Blanca
 - Australië: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmanië
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chile: Santiago
+- Duitsland: Berlijn, Potsdam
 - Engeland: Londen, Manchester
 - Finland: Helsinki [*]
 - Frankrijk: Rennes, Toulouse
-- Duitsland: Berlijn, Potsdam
 - Hungarije: Boedapest
 - Ierland: Dublin
 - Italië: Milaan, Rome, Trentino
 - Mexico: Mexico City
+- Nederland: Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Nieuw Zeeland: Auckland, Christchurch [*], Wellington
 - Spanje: Madrid
 - USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
