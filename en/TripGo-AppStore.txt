@@ -1,6 +1,6 @@
 # APP TITLE (255 Characters)
 
-TripGo: Calendar-aware Directions for Train, Bus, Subway, Tram, Bicycle, Taxi, Bike/Car Sharing and more.
+TripGo: Calendar-integrated Directions for Train, Bus, Subway, Tram, Bicycle, Taxi, Bike/Car Sharing and more.
 
 
 # SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
