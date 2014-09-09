@@ -64,12 +64,12 @@ ONDERSTEUNDE STEDEN:
 - Duitsland: Berlijn, Potsdam
 - Engeland: Londen, Manchester
 - Finland: Helsinki [*]
-- Frankrijk: Rennes, Toulouse
+- Frankrijk: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
 - Hungarije: Boedapest
 - Ierland: Dublin
 - Italië: Milaan, Rome, Trentino
 - Mexico: Mexico City
-- Nederland: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Nederland: Amsterdam [*], Den Haag [*], Rotterdam [*], Utrecht [*]
 - Nieuw Zeeland: Auckland, Christchurch [*], Wellington
 - Spanje: Madrid
 - USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
