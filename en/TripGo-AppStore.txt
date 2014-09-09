@@ -68,13 +68,13 @@ SUPPORTED CITIES:
 - Chile: Santiago
 - England: London, Manchester
 - Finland: Helsinki [*]
-- France: Rennes, Toulouse
+- France: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
 - Germany: Berlin, Potsdam
 - Hungary: Budapest
 - Ireland: Dublin
 - Italy: Milan, Rome, Trentino
 - Mexico: Mexico City
-- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Netherlands: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
 - New Zealand: Auckland, Christchurch [*], Wellington
 - Spain: Madrid
 - USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
