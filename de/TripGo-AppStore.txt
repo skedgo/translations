@@ -65,13 +65,13 @@ UNTERSTÜTZTE STÄDTE:
 - Deutschland: Berlin, Potsdam
 - England: London, Manchester
 - Finnland: Helsinki [*]
-- Frankreich: Rennes, Toulouse
+- Frankreich: Bordeaux, Nantes, Rennes, Straßburg, Toulouse
 - Kanada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Irland: Dublin
 - Italien: Mailand, Rom, Trient
 - Mexiko: Mexiko-Stadt
 - Neuseeland: Auckland, Christchurch [*], Wellington
-- Niederlande: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Niederlande: Amsterdam [*], Den Haag [*], Rotterdam [*], Utrecht [*]
 - Spanien: Madrid
 - Ungarn: Budapest
 - Vereinigte Staaten: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, Saint Paul, Tampa, Washington (DC) [*]
