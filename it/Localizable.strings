@@ -5,168 +5,168 @@
 " every " = " ogni ";
 
 /* Action title for adding another habitual visit to a favourite */
-"Add habitual visit" = "Add routine";
+"Add habitual visit" = "Aggiungi la visita abituale";
 
 /* Add reminder activity title */
-"Add Reminder" = "Agiungere Alerta";
+"Add Reminder" = "Aggiungi Avviso";
 
 /* Save trip action */
-"Add to Agenda" = "Add to Agenda";
+"Add to Agenda" = "Aggiungi alla Agenda";
 
 /* Add to calendar activity title */
-"Add to Calendar" = "Add to Calendar";
+"Add to Calendar" = "Aggiungi al Calendario";
 
 /* Add favourite activity title */
-"Add to Favourites" = "Add to Favourites";
+"Add to Favourites" = "Aggiungi ai Preferiti";
 
 /* No comment provided by engineer. */
-"Add to favourites" = "Add to favourites";
+"Add to favourites" = "Aggiungi ai preferiti";
 
 /* Action title for adding a vehicle */
-"Add vehicle" = "Add vehicle";
+"Add vehicle" = "Aggiungi veicolo";
 
 /* Add to agenda HUD notice */
-"Added to Agenda" = "Added to Agenda";
+"Added to Agenda" = "Aggiunto alla Agenda";
 
 /* Added to calendar HUD message */
-"Added to calendar" = "Added to calendar";
+"Added to calendar" = "Aggiunto al calendario";
 
 /* Add a new stopover */
-"AddStopover" = "Add stopover...";
+"AddStopover" = "Aggiungi sosta...";
 
 /* Agenda title */
 "Agenda" = "Agenda";
 
 /* No comment provided by engineer. */
-"Agenda cleared" = "Agenda cleared";
+"Agenda cleared" = "Agenda cancellata";
 
 /* Agenda button name
    Agenda tab bar name */
-"AgendaButton" = "Agenda";
+"AgendaButton" = "Tasto di Agenda";
 
 /* Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1' */
-"AirlineFlightNumber" = "%@ flight %@";
+"AirlineFlightNumber" = "%@ numero di volo %@";
 
 /* Flight from a city to an other one */
-"AirlineFromTo" = "%@ (%@) to %@ (%@)";
+"AirlineFromTo" = "%@ (%@) Linea aerea da a %@ (%@)";
 
 /* No comment provided by engineer. */
-"Alert" = "Alert";
+"Alert" = "Avviso";
 
 /* Description of alert with %title */
-"AlertTitleFormat" = "Alert: %@";
+"AlertTitleFormat" = "Formato dell titolo di Avviso: %@";
 
 /* Option to delete only all related events in a recurence */
-"All" = "All";
+"All" = "Tutto";
 
 /* Option to delete this event and all after in a recurence */
-"All From Here" = "All From Here";
+"All From Here" = "Tutto da qui";
 
 /* Action button title to see alternative options for the case where you can't make the next connection. */
-"Alternative routes" = "Alternative routes";
+"Alternative routes" = "percorsi alternativi";
 
 /* No comment provided by engineer. */
-"Ambiguous event address." = "Ambiguous address.";
+"Ambiguous event address." = "indirizzo di evento ambiguo.";
 
 /* apple maps directions action */
-"Apple Maps" = "Apple Maps";
+"Apple Maps" = "Mappe di Apple";
 
 /* Arrival time sorter title */
-"Arrival" = "Arrival";
+"Arrival" = "Arrivo";
 
 /* Arrive field title */
-"Arrive " = "Arrive ";
+"Arrive " = "Arrivo ";
 
 /* Arrive before button */
-"ArriveBefore" = "Arrive by";
+"ArriveBefore" = "Arrivo entro le";
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
-"At " = "At ";
+"At " = "Alle ";
 
 /* Distance 'automatic' */
-"Auto" = "Auto";
+"Auto" = "Automatico";
 
 /* Agenda item for going back to a previous event which has %name */
-"BackToPreviousLocationFormat" = "Back to %@";
+"BackToPreviousLocationFormat" = "Tornare al formato di posizione precedente %@";
 
 /* No comment provided by engineer. */
-"Book a shuttle" = "Book a shuttle";
+"Book a shuttle" = "Prenota una navetta";
 
 /* vehicle booking action */
-"Book vehicle" = "Book vehicle";
+"Book vehicle" = "Prenota veicolo";
 
 /* Book a shuttle */
-"BookShuttle" = "Book Shuttle";
+"BookShuttle" = "PrenotaNavetta";
 
 /* Book a taxi */
-"BookTaxi" = "Book Taxi";
+"BookTaxi" = "PrenotaTaxi";
 
 /* No comment provided by engineer. */
-"Cache" = "Cache";
+"Cache" = "nascondiglio";
 
 /* No comment provided by engineer. */
-"Cache cleared" = "Cache cleared";
+"Cache cleared" = "Nascondiglio cancellato";
 
 /* Calendar */
-"Calendar" = "Calendar";
+"Calendar" = "Calendario";
 
 /* Type for regular events that go in the phone's calendar. */
-"Calendar Event" = "Event";
+"Calendar Event" = "Evento";
 
 /* No comment provided by engineer. */
-"Calendars" = "Calendars";
+"Calendars" = "Calendari";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "Call Taxi";
+"Call Taxi" = "Chiamare Taxi";
 
 /* Action title for calling taxi provider of %name */
-"CallTaxiFormat" = "Call %@";
+"CallTaxiFormat" = "Chiamare formato Taxi %@";
 
 /* Cancel - for action sheets
    Cancel action */
-"Cancel" = "Cancel";
+"Cancel" = "Cancella";
 
 /* No comment provided by engineer. */
-"Change time" = "Change time";
+"Change time" = "Cambiare orario";
 
 /* Agenda cleaner title */
-"Cleaner" = "Cleaner";
+"Cleaner" = "Pulitore";
 
 /* clear cache preference */
-"Clear cache" = "Clear cache";
+"Clear cache" = "Elimina nascondiglio";
 
 /* clear search history preference */
-"Clear search history" = "Clear search history";
+"Clear search history" = "Cancella cronologia ricerche";
 
 /* No comment provided by engineer. */
-"Clearing agenda..." = "Clearing agenda...";
+"Clearing agenda..." = "Cancellando Agenda...";
 
 /* No comment provided by engineer. */
-"Clearing cache..." = "Clearing cache...";
+"Clearing cache..." = "Cancellando cache...";
 
 /* No comment provided by engineer. */
-"Clearing history..." = "Clearing history...";
+"Clearing history..." = "Cancellando cronologia...";
 
 /* School pricing preference */
-"Concession Pricing" = "Concession Pricing";
+"Concession Pricing" = "Concessione Prezzi";
 
 /* Hassle preference */
-"Convenience" = "Convenience";
+"Convenience" = "convenienza";
 
 /* Convenience description */
-"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.";
+"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Convenienza è influenzato da cose come cambiare i servizi di trasporti puplici, la quantita di caminare, e trovare un taxi.";
 
 /* Location manager failure error message */
-"Could not determine your current location. Please set your location manually." = "Could not determine your current location. Please set your location manually.";
+"Could not determine your current location. Please set your location manually." = "Impossibile determinare la posizione corrente.Si prega di impostare la propria posizione manualmente.";
 
 /* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Could not download supported regions from TripGo's server. Please try again later.";
+"CouldNotDownloadSupportedRegions" = "Impossibile scaricare regioni supportati dal server di TripGo.Riprova più tardi.";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Enter coupon code '%@' when registering to claim your free $5 credit (only valid for new registrations)";
+"CouponCodeIngogoFormat" = "Inserisci il codice coupon '%@'al momento della registrazione per richiedere il tuo credito libero di $ 5 (valido solo per le nuove registrazioni)";
 
 /* Title for critical error */
-"CriticalError" = "Critical Error";
+"CriticalError" = "Errore critico";
 
 /* Description for critical error where %errorMessage is provided. */
 "CriticalErrorFormat" = "The application encountered a critical error and can't recover:\n\n%@";
