@@ -276,7 +276,7 @@
 "FavouritesButton" = "Preferiti";
 
 /* Help title */
-"Feedback & Support" = "Suggerimento & Supporto";
+"Feedback & Support" = "Feedback & Supporto";
 
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "filtro";
@@ -312,31 +312,31 @@
 "From current location" = "Dalla posizione corrente";
 
 /* Location for trip exported as event going from %location1 to %location2 */
-"FromToForEventLocationFormat" = "From %@ to %@";
+"FromToForEventLocationFormat" = "Da %@ A %@";
 
 /* Header for list of vehicles garaged at this location */
-"Garaged Vehicles" = "Garaged Vehicles";
+"Garaged Vehicles" = "Veicoli nel garage";
 
 /* Title of settings for generic transport stuff */
-"General" = "General";
+"General" = "generale";
 
 /* Action button title for getting turn-by-turn directions */
-"Get directions" = "Get directions";
+"Get directions" = "Ottieni indicazioni";
 
 /* No comment provided by engineer. */
-"Get ingogo" = "Get ingogo";
+"Get ingogo" = "Ottieni ingogo";
 
 /* Header for settings for feedback, recommending and rating TripGo */
-"Get Involved" = "Get Involved";
+"Get Involved" = "Supporta Tripgo";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "Get Uber ($20 credit^)";
+"Get Uber ($20 credit^)" = "Ottenere Uber ($20 credit^)";
 
 /* I use TripGo to get around */
-"GetAround" = "I use TripGo to get around.";
+"GetAround" = "Io uso TripGo per andare in giro.";
 
 /* goCatch action */
-"goCatch a Taxi" = "goCatch a Taxi";
+"goCatch a Taxi" = "prendere un goCatch";
 
 /* google maps directions action */
 "Google Maps" = "Google Maps";
@@ -345,65 +345,65 @@
 "Habitual Visit" = "Routine";
 
 /* Header for habitual visits, i.e., when a user is typically at this location */
-"Habitual Visits" = "Routines";
+"Habitual Visits" = "Routine";
 
 /* Explanation for what habitual events are. Can be long-ish. */
-"HabitualEventDescription" = "Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.";
+"HabitualEventDescription" = "Le routine sono parte del vostro movimento quotidiano,ma sono gli eventi che non desideri di avere nel calendario(ad esempio, il lavoro).Sono importanti per l'agenda a portarti nel posto giusto al momento giusto.";
 
 /* No comment provided by engineer. */
-"History cleared" = "History cleared";
+"History cleared" = "Cronologia cancellata";
 
 /* Typical name that you'd give your home location */
-"Home" = "Home";
+"Home" = "Casa";
 
 /* Map mode 'streets + satellite' */
 "Hybrid" = "Hybrid";
 
 /* Import action title */
-"Import" = "Import";
+"Import" = "Importare";
 
 /* Action title to include an event in routing
    Include event action */
-"Include" = "Include";
+"Include" = "includere";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
-"Include in routes" = "Include in routes";
+"Include in routes" = "Includi in percorsi";
 
 /* School services footer */
-"Information on school services and concession pricing is subject to availability." = "Information on school services and concession pricing is subject to availability.";
+"Information on school services and concession pricing is subject to availability." = "Informazioni su i servizi del scuola bus secondo disponibilita.";
 
 /* No comment provided by engineer. */
-"ingogo a Taxi" = "ingogo a Taxi";
+"ingogo a Taxi" = "prendere un ingogo";
 
 /* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "ingogo a Taxi ($5 credit^)";
+"ingogo a Taxi ($5 credit^)" = "prendere un ingogo ($5 credito^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
-"Jump to today" = "Jump to today";
+"Jump to today" = "Vai ad oggi";
 
 /* Distance 'kilometers' */
 "Km" = "Km";
 
 /* Leave field title */
-"Leave " = "Leave ";
+"Leave " = "Partenza ";
 
 /* No comment provided by engineer. */
-"Leave now" = "Leave now";
+"Leave now" = "Partire ora";
 
 /* Leave after button */
-"LeaveAfter" = "Leave at";
+"LeaveAfter" = "Partire dopo le";
 
 /* Button title to switch view to list mode */
-"List" = "List";
+"List" = "elenco";
 
 /* list providers action */
-"List Taxi Numbers" = "List Taxi Numbers";
+"List Taxi Numbers" = "mostrare numeri di Taxi";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
-"Location" = "Location";
+"Location" = "posizione";
 
 /* No comment provided by engineer. */
-"Location missing." = "Location missing.";
+"Location missing." = "Posizione mancante.";
 
 /* Where are you going from? */
 "LocationComingFrom" = "Where are you going from?";
