@@ -45,28 +45,28 @@
 "AgendaButton" = "Agenda";
 
 /* Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1' */
-"AirlineFlightNumber" = "%@ volo %@";
+"AirlineFlightNumber" = "%@ Volo %@";
 
 /* Flight from a city to an other one */
-"AirlineFromTo" = "%@ (%@) Linea aerea da a %@ (%@)";
+"AirlineFromTo" = "%@ (%@) A %@ (%@)";
 
 /* No comment provided by engineer. */
-"Alert" = "Avviso";
+"Alert" = "Attenzione";
 
 /* Description of alert with %title */
-"AlertTitleFormat" = "Formato dell titolo di Avviso: %@";
+"AlertTitleFormat" = " Attenzione: %@";
 
 /* Option to delete only all related events in a recurence */
-"All" = "Tutto";
+"All" = "Tutti";
 
 /* Option to delete this event and all after in a recurence */
-"All From Here" = "Tutto da qui";
+"All From Here" = "Tutti da qui";
 
 /* Action button title to see alternative options for the case where you can't make the next connection. */
-"Alternative routes" = "percorsi alternativi";
+"Alternative routes" = "Percorsi alternativi";
 
 /* No comment provided by engineer. */
-"Ambiguous event address." = "indirizzo non definito.";
+"Ambiguous event address." = "Indirizzo non definito.";
 
 /* apple maps directions action */
 "Apple Maps" = "Mappe di Apple";
@@ -142,7 +142,7 @@
 "Clearing agenda..." = "Cancellando Agenda...";
 
 /* No comment provided by engineer. */
-"Clearing cache..." = "Cancellando cache...";
+"Clearing cache..." = "Cancellando Cache...";
 
 /* No comment provided by engineer. */
 "Clearing history..." = "Cancellando cronologia...";
@@ -151,7 +151,7 @@
 "Concession Pricing" = "Concessione Prezzi";
 
 /* Hassle preference */
-"Convenience" = "convenienza";
+"Convenience" = "Convenienza";
 
 /* Convenience description */
 "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Convenienza è influenzato da quante volte si deve cambiare i trasporti puplici, da quanto si deve caminare, la difficulta di trovare un taxi,ect.";
@@ -175,7 +175,7 @@
 "Custom trip does not fit" = "Viaggio abituale non ci sta";
 
 /* Cycling speed preference */
-"Cycle speed" = "velocità ciclica";
+"Cycle speed" = "Velocità ciclata";
 
 /* From %date */
 "DateFromFormat" = "Dal %@";
@@ -187,10 +187,10 @@
 "Departure" = "Partenza";
 
 /* Dismiss accessibility label */
-"Dismiss" = "rimuovere";
+"Dismiss" = "Rimuovere";
 
 /* Distances preference */
-"Distances" = "distanze";
+"Distances" = "Distanze";
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Non ha un posto fisso di lavoro o di studio? Salta questo passaggio.";
@@ -202,16 +202,16 @@
 "End Date" = "Fine";
 
 /* Carbon preference */
-"Environment" = "ambiente";
+"Environment" = "Ambiente";
 
 /* No comment provided by engineer. */
-"Error clearing agenda" = "Errore a cancellare l'agenda";
+"Error clearing agenda" = "Errore a cancellare l'Agenda";
 
 /* No comment provided by engineer. */
-"Error clearing cache" = "Errore a svuotare il cache";
+"Error clearing cache" = "Errore a svuotare il Cache";
 
 /* No comment provided by engineer. */
-"Error clearing history" = "Errore a cancellare la cronologia";
+"Error clearing history" = "Errore a cancellare la Cronologia";
 
 /* No comment provided by engineer. */
 "Event" = "Evento";
@@ -248,13 +248,13 @@
 
 /* Action title to exclude an event from routing
    Exclude event action */
-"Exclude" = "escludere";
+"Exclude" = "Escludere";
 
 /* There goes my excuse for being late... */
 "ExcuseDueToLate" = "TripGo - Niente più scuse per essere in ritardo...";
 
 /* Speed preference 'fast' */
-"Fast" = "veloce";
+"Fast" = "Veloce";
 
 /* No comment provided by engineer. */
 "Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Preferiti da una versione precedente di TripGo sono stati trovati sul tuo dispositivo. Cosa ne vuoi fare?";
@@ -279,22 +279,22 @@
 "Feedback & Support" = "Feedback & Supporto";
 
 /* Placeholder text for search bar that is used for filtering */
-"Filter" = "filtro";
+"Filter" = "Filtro";
 
 /* Flight */
 "Flight" = "Volo";
 
 /* Flight number prompt */
-"Flight number" = "numero del volo";
+"Flight number" = "Numero del volo";
 
 /* Date of the flight */
-"FlightDate" = "data";
+"FlightDate" = "Data";
 
 /* Details of a flight */
 "FlightDetails" = "Dettagli";
 
 /* Note concerning the flight */
-"FlightNote" = "commento";
+"FlightNote" = "Commento";
 
 /* Title for flight with %flightNumber */
 "FlightNumberFormat" = "Volo %@";
@@ -306,7 +306,7 @@
 "For when to leave" = "Per quando devo andare";
 
 /* Free directions */
-"FreeDirections" = "TripGo - indicazioni gratuiti";
+"FreeDirections" = "TripGo - Indicazioni gratuiti";
 
 /* Route here... ...from Current location */
 "From current location" = "Dalla posizione corrente";
@@ -318,7 +318,7 @@
 "Garaged Vehicles" = "Veicoli nel garage";
 
 /* Title of settings for generic transport stuff */
-"General" = "generale";
+"General" = "Generale";
 
 /* Action button title for getting turn-by-turn directions */
 "Get directions" = "Ottieni indicazioni";
@@ -364,7 +364,7 @@
 
 /* Action title to include an event in routing
    Include event action */
-"Include" = "includere";
+"Include" = "Includere";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
 "Include in routes" = "Includi in percorsi";
@@ -394,13 +394,13 @@
 "LeaveAfter" = "Partire dopo le";
 
 /* Button title to switch view to list mode */
-"List" = "elenco";
+"List" = "Elenco";
 
 /* list providers action */
 "List Taxi Numbers" = "mostrare numeri di Taxi";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
-"Location" = "posizione";
+"Location" = "Posizione";
 
 /* No comment provided by engineer. */
 "Location missing." = "Posizione mancante.";
@@ -476,94 +476,93 @@
 "No 'To' location selected" = "Non e stato selezionato il punto di arrivo";
 
 /* Error for when no calendar found. */
-"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "No calendar found. Please check your Calendar app and make sure you have a calendar configured.";
-
+"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "Nessun calendario trovato. Si prega di controllare il calendario app e assicuratevi di avere un calendario configurato ".;
 /* No comment provided by engineer. */
-"No locations set" = "No locations set";
+"No locations set" = "Non ci sono posizioni impostate";
 
 /* Countdown cell 'now' indicator */
-"Now" = "Now";
+"Now" = "Adesso";
 
 /* Title for route number %1 of %total, where %total > 1. */
-"NumberRouteFormat" = "Route %ld of %ld";
+"NumberRouteFormat" = "Route %ld di %ld";
 
 /* Results screen error ok button */
 "OK" = "OK";
 
 /* Option to delete only this event in a recurence */
-"Only This" = "Only This";
+"Only This" = "Solo questo";
 
 /* Open in Safari action */
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "Apri in Safari";
 
 /* No comment provided by engineer. */
-"Open Uber" = "Open Uber";
+"Open Uber" = "Apri Uber";
 
 /* Button title to open URL */
-"Open URL" = "Open URL";
+"Open URL" = "Apri URL";
 
 /* shuttle website action */
-"Open Website" = "Open Website";
+"Open Website" = "Aprire Sito";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
-"Permission was granted. Please go back and try again." = "Permission was granted. Please go back and try again.";
+"Permission was granted. Please go back and try again." = "È stato concesso il permesso. Torna indietro e prova di nuovo.";
 
 /* No comment provided by engineer. */
-"Permissions" = "Permissions";
+"Permissions" = "Autorizzazioni";
 
 /* Timetable screen title */
-"Pick a Time" = "Pick a Time";
+"Pick a Time" = "Scegli un orario";
 
 /* Description of the pricing */
-"pricingDescription" = "Price";
+"pricingDescription" = "Prezzo";
 
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
-"PrivateTimeToLeave" = "Time to leave! Your trip to %@ commences at %@";
+"PrivateTimeToLeave" = "Ora di partire! Il tuo viaggio per %@ inizia alle %@";
 
 /* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = "Time to leave! Your %@ trip to %@ commences at %@";
+"PublicTimeToLeaveToFormat" = Ora di partire"! Il tuo %@ viaggio per %@ inizia alle %@";
 
 /* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "Your %@ trip on %@ to %@ commences at %@";
+"PublicTimeToLeaveToOnFormat" = "Il tuo %@ viaggio su %@ per %@ inizia alle %@";
 
 /* Rate us preference */
-"Rate TripGo" = "Rate TripGo";
+"Rate TripGo" = "Valutare TripGo";
 
 /* Refining current location HUD notice */
-"Refining location" = "Refining location";
+"Refining location" = "Determinare la posizione";
 
 /* Added reminder notice */
-"Reminder added" = "Reminder added";
+"Reminder added" = "Promemoria aggiunto";
 
 /* Removed reminder HUD notice */
-"Reminder removed" = "Reminder removed";
+"Reminder removed" = "Promemoria rimosso";
 
 /* Reminders title */
-"Reminders" = "Reminders";
+"Reminders" = "Promemoria";
 
 /* Remove favourite activity title */
-"Remove Favourite" = "Remove Favourite";
+"Remove Favourite" = "Rimuovere Preferito";
 
 /* Unsave trip action */
-"Remove from Agenda" = "Remove from Agenda";
+"Remove from Agenda" = "Rimuovere dalla Agenda";
 
 /* Remove reminder activity title */
-"Remove Reminder" = "Remove Reminder";
+"Remove Reminder" = "Rimuovere Promemoria";
 
 /* Remove from agenda HUD notice */
-"Removed from Agenda" = "Removed from Agenda";
+"Removed from Agenda" = "Rimosso dalla Agenda";
 
 /* Title for switch indicating if an event repeats or not */
-"Repeat does end" = "Repeat does end";
+"Repeat does end" = "Ripetizione finisce";
 
 /* Report problem */
-"Report Problem" = "Report Problem";
+"Report Problem" = "Segnala il problema";
 
 /* Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event. */
-"Request..." = "Request...";
+"Request..." = "Richiedi...";
 
 /* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' not found.";
+"RequestErrorFormat" = "'%@' non trovato.";
 
 /* segment membership required action */
 "Requires membership" = "Requires membership";
