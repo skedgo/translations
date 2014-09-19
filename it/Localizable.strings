@@ -406,75 +406,74 @@
 "Location missing." = "Posizione mancante.";
 
 /* Where are you going from? */
-"LocationComingFrom" = "Where are you going from?";
+"LocationComingFrom" = "Da dove parti?";
 
 /* Where do you want to go? */
-"LocationWantToGo" = "Where do you want to go?";
+"LocationWantToGo" = "Dove vuoi andare?";
 
 /* No comment provided by engineer. */
-"Long press on the map to choose a location" = "Long press on the map to choose a location";
+"Long press on the map to choose a location" = "Premere a lungo sulla mappa per scegliere una posizione";
 
 /* I once was lost but now I have found... TripGo */
-"LostOnce" = "I once was lost but now I have found... TripGo.";
+"LostOnce" = "Mai più perdersi con... TripGo.";
 
 /* Button title to switch agenda view to map mode
    Button title to switch to map
    Map preference */
-"Map" = "Map";
+"Map" = "Mappa";
 
 /* No comment provided by engineer. */
-"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Favorite locations give you quick trip solutions from wherever you are.";
-
+"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Segnare una localita come Preferito ti permette ad avere risultati veloci per arrivarci dalla tua localita corrente."
 /* No comment provided by engineer. */
-"Marking a transit stop as a favourite will allow quick access to its timetable." = "Marking a transit stop as a favourite will allow quick access to its timetable.";
+"Marking a transit stop as a favourite will allow quick access to its timetable." = "Segnare una fermata come preferiti per un rapido accesso al calendario.";
 
 /* Speed preference 'medium' */
-"Medium" = "Medium";
+"Medium" = "Medio";
 
 /* Distance 'miles' */
 "Mi" = "Mi";
 
 /* Minimum transfer time preference */
-"Min transfer time" = "Min transfer time";
+"Min transfer time" = "Tempo di trasferimento (min)";
 
 /* Number of minutes */
-"Minutes" = "%.0f minutes";
+"Minutes" = "%.0f Minuti";
 
 /* Reminder to leave preference */
-"Minutes before trip" = "Minutes before trip";
+"Minutes before trip" = "Minuti prima del viaggio";
 
 /* Number of minutes before departure */
-"MinutesBefore" = "%.0f minutes before";
+"MinutesBefore" = "%.0f Minuti prima";
 
 /* More button accessibility label */
-"More" = "More";
+"More" = "Di più";
 
 /* No comment provided by engineer. */
-"More Options" = "More Options";
+"More Options" = "Altre opzioni";
 
 /* User preferences title */
-"My Priorities" = "My Priorities";
+"My Priorities" = "Le mie priorità";
 
 /* No comment provided by engineer. */
-"My Vehicles" = "My Vehicles";
+"My Vehicles" = "I miei veicoli";
 
 /* Name of the vehicle */
-"NameVehicle" = "Name";
+"NameVehicle" = "Nome";
 
 /* No comment provided by engineer. */
-"New Favourite" = "New Favourite";
+"New Favourite" = "Nuovo Preferito";
 
 /* Title for unnamed new event */
-"NewEvent" = "New event";
+"NewEvent" = "Nuovo evento";
 
 /* Button title to complete this step and advance to next */
-"Next" = "Next";
+"Next" = "Seguente";
 
 /* No comment provided by engineer. */
-"No 'From' location selected" = "No 'From' location selected";
+"No 'From' location selected" = "Non e stato selezionato il punto di partenza";
 
 /* No comment provided by engineer. */
-"No 'To' location selected" = "No 'To' location selected";
+"No 'To' location selected" = "Non e stato selezionato il punto di arrivo";
 
 /* Error for when no calendar found. */
 "No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "No calendar found. Please check your Calendar app and make sure you have a calendar configured.";
