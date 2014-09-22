@@ -175,7 +175,7 @@
 "Custom trip does not fit" = "Viaggio abituale non ci sta";
 
 /* Cycling speed preference */
-"Cycle speed" = "Velocità ciclata";
+"Cycle speed" = "Velocità della bicicletta";
 
 /* From %date */
 "DateFromFormat" = "Dal %@";
@@ -276,7 +276,7 @@
 "FavouritesButton" = "Preferiti";
 
 /* Help title */
-"Feedback & Support" = "Feedback & Supporto";
+"Feedback & Support" = Recensione & Supporto";
 
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "Filtro";
@@ -388,7 +388,7 @@
 "Leave " = "Partenza ";
 
 /* No comment provided by engineer. */
-"Leave now" = "Partire ora";
+"Leave now" = "Partire adesso";
 
 /* Leave after button */
 "LeaveAfter" = "Partire dopo le";
@@ -424,6 +424,7 @@
 
 /* No comment provided by engineer. */
 "Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Segnare una localita come Preferito ti permette ad avere risultati veloci per arrivarci dalla tua localita corrente."
+
 /* No comment provided by engineer. */
 "Marking a transit stop as a favourite will allow quick access to its timetable." = "Segnare una fermata come preferiti per un rapido accesso al calendario.";
 
@@ -477,6 +478,7 @@
 
 /* Error for when no calendar found. */
 "No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "Nessun calendario trovato. Si prega di controllare il calendario app e assicuratevi di avere un calendario configurato ".;
+
 /* No comment provided by engineer. */
 "No locations set" = "Non ci sono posizioni impostate";
 
@@ -599,189 +601,189 @@
 "Search for a city" = "Cerca una città";
 
 /* Agenda onboarding: placeholder text for search bar for 'home'. */
-"Search for your home address" = "Search for your home address";
+"Search for your home address" = "Cerca il tuo indirizzo di casa";
 
 /* Agenda onboarding: placeholder text for search bar for 'work'. */
-"Search for your work address" = "Search for your work address";
+"Search for your work address" = "Cerca il tuo indirizzo di lavoro";
 
 /* Search tab bar name */
-"SearchButton" = "Search";
+"SearchButton" = "Cerca";
 
 /* Details of a flight prompt to enter date first. */
-"Select a date to get flight details." = "Select a date to get flight details.";
+"Select a date to get flight details." = "Selezionare una data per avere i dettagli del volo.";
 
 /* Walkthrough */
-"Select the place where you stay at the end of each day" = "Select the place where you stay at the end of each day.";
+"Select the place where you stay at the end of each day" = "Selezionare il luogo dove soggiornare alla fine di ogni giornata.";
 
 /* No comment provided by engineer. */
-"Select Vehicle" = "Select Vehicle";
+"Select Vehicle" = "Selezione veicolo";
 
 /* Action button title for composing an SMS to a real-time service */
-"Send Real-time SMS" = "Send Real-time SMS";
+"Send Real-time SMS" = "Invia SMS in tempo reale";
 
 /* No comment provided by engineer. */
-"Set location..." = "Set location...";
+"Set location..." = "Imposta posizione...";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "Impostazioni";
 
 /* Settings tab bar name */
-"SettingsButton" = "Settings";
+"SettingsButton" = "Impostazioni";
 
 /* Action button title for sharing when you arrive
    Share arrival */
-"Share Arrival" = "Share Arrival";
+"Share Arrival" = "Condividi arrivo";
 
 /* Share trip */
-"Share Trip" = "Share Trip";
+"Share Trip" = "Condividi viaggio";
 
 /* Button title on trips to show alternatives for it */
-"Show alternatives" = "Show alternatives";
+"Show alternatives" = "Mostra alternative";
 
 /* No comment provided by engineer. */
-"Show booking options" = "Show booking options";
+"Show booking options" = "Mostra opzioni di prenotazione";
 
 /* No comment provided by engineer. */
-"Show details" = "Show details";
+"Show details" = "Mostra i dettagli";
 
 /* No comment provided by engineer. */
-"Show info" = "Show info";
+"Show info" = "Mostra info";
 
 /* Action button title for viewing timetable for public transport */
-"Show timetable" = "Show timetable";
+"Show timetable" = "Visualizza calendario";
 
 /* Show trip */
-"ShowTrip" = "Show Trip";
+"ShowTrip" = "Mostra viaggio";
 
 /* Button title to skip a certain step */
-"Skip" = "Skip";
+"Skip" = "Salta";
 
 /* Speed preference 'slow' */
-"Slow" = "Slow";
+"Slow" = "Piano";
 
 /* Results screen error title */
-"Sorry" = "Sorry";
+"Sorry" = "Scusa";
 
 /* No comment provided by engineer. */
-"Sorry. TripGo doesn't work here yet!" = "Sorry. TripGo doesn't work here yet!";
+"Sorry. TripGo doesn't work here yet!" = "Scusa. TripGo non funziona ancora qui!";
 
 /* Spread the word preference */
-"Spread the word" = "Spread the word";
+"Spread the word" = "Spargi la voce";
 
 /* Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4) */
-"SrcToDstFormat" = "%@ (%@) to %@ (%@)";
+"SrcToDstFormat" = "%@ (%@) a %@ (%@)";
 
 /* No comment provided by engineer. */
-"Start of Week" = "Start of Week";
+"Start of Week" = "Inizio della Settimana";
 
 /* Number of steps */
-"StepsNumber" = "%@ steps taken";
+"StepsNumber" = "%@ Passi percorsi";
 
 /* Map mode 'streets' */
-"Streets" = "Streets";
+"Streets" = "Strade";
 
 /* Contact support error button */
-"Support" = "Support";
+"Support" = "Supporto";
 
 /* Walkthrough */
-"Swipe dates to navigate between weeks" = "Swipe dates to navigate between weeks.";
+"Swipe dates to navigate between weeks" = "Swipe le date per navigare tra le settimane.";
 
 /* No comment provided by engineer. */
-"Tab Bar" = "Tab Bar";
+"Tab Bar" = "Barra Tab";
 
 /* Walkthrough - should match translation for '\"Routes\"' */
-"Tap 'Routes' for alternative routes" = "Tap 'Routes' for alternative routes.";
+"Tap 'Routes' for alternative routes" = "Toccare" itinerari "per percorsi alternativi.";
 
 /* Walkthrough */
-"Tap and hold title to jump directly to a specified date." = "Tap and hold title to jump directly to a specified date.";
+"Tap and hold title to jump directly to a specified date." = "Toccare e tenere premuto il titolo per passare direttamente a una data specificata.";
 
 /* Walkthrough */
-"Tap public transport stops for access to timetable" = "Tap public transport stops for access to timetable.";
+"Tap public transport stops for access to timetable" = "Toccare fermate dei mezzi pubblici per l'accesso al calendario.";
 
 /* Walkthrough */
-"Tap title to go to 'today'" = "Tap title to go to 'today'";
+"Tap title to go to 'today'" = "Toccare il titolo per andare ad 'oggi'";
 
 /* No comment provided by engineer. */
-"Tap to set garage" = "Tap to set garage";
+"Tap to set garage" = "Toccare per impostare garage";
 
 /* No comment provided by engineer. */
-"Taxi Providers" = "Taxi Providers";
+"Taxi Providers" = "Fornitori di Taxi";
 
 /* Description of the terminal */
-"terminalDescription" = "Terminal";
+"terminalDescription" = "Terminale";
 
 /* Thank you HUD notice */
-"Thank you!" = "Thank you!";
+"Thank you!" = "Grazie!";
 
 /* Results screen internal error message */
-"There was a problem on our side. We will investigate." = "There was a problem on our side. We will investigate.";
+"There was a problem on our side. We will investigate." = "C'è stato un problema-dalla nostra parte. Indagheremo.";
 
 /* Title for screen to pick your working hours */
-"Time at Work" = "Time at Work";
+"Time at Work" = "Tempo al lavoro";
 
 /* Timetable title */
-"Timetable" = "Timetable";
+"Timetable" = "Orario";
 
 /* Title event name */
-"TitleEventName" = "Title";
+"TitleEventName" = "Titolo";
 
 /* Title favourite name */
-"TitleFavouriteName" = "Title";
+"TitleFavouriteName" = "Titolo";
 
 /* Title of settings for generic transport stuff */
-"Transport" = "Transport";
+"Transport" = "Trasporto";
 
 /* Transport genius */
-"TransportGenius" = "TripGo - Transport genius";
+"TransportGenius" = "TripGo - Genio del Trasporto";
 
 /* How do you want to go today? */
-"TransportModeWish" = "TripGo - How do you want to go today?";
+"TransportModeWish" = "TripGo - Come vuoi andare oggi?";
 
 /* No comment provided by engineer. */
-"Trip" = "Trip";
+"Trip" = "Viaggio";
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.";
+"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo non funziona ancora in questo settore. Si prega di navigare su delle nostre regioni supportati e riprovare ".
 
 /* Confirmation that tutorial was reset. */
-"Tutorial reset" = "Tutorial reset";
+"Tutorial reset" = "Reset Tutorial";
 
 /* Type of the vehicle */
-"TypeVehicle" = "Type";
+"TypeVehicle" = "Tipo";
 
 /* No comment provided by engineer. */
 "Uber" = "Uber";
 
 /* No comment provided by engineer. */
-"Verify location..." = "Verify location...";
+"Verify location..." = "verificare posizione...";
 
 /* View alternative times for this trip */
-"View times" = "View times";
+"View times" = "Visualizza tempi";
 
 /* Duration button */
-"ViewDurationButton" = "Duration";
+"ViewDurationButton" = "Durata";
 
 /* Overall button */
-"ViewOverallButton" = "Preferred";
+"ViewOverallButton" = "Preferita";
 
 /* Price button */
-"ViewPriceButton" = "Price";
+"ViewPriceButton" = "Prezzo";
 
 /* Walking speed preference */
-"Walk speed" = "Walk speed";
+"Walk speed" = "velocità di camminata";
 
 /* Results screen no results error */
-"We didn't find any results for your query." = "We didn't find any results for your query.";
+"We didn't find any results for your query." = "Non abbiamo trovato nessun risultato per la tua ricerca.";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
-"Which would you like to delete" = "Which would you like to delete";
+"Which would you like to delete" = ""Che cosa si desidera eliminare?";
 
 /* Typical name that you'd give your work location */
-"Work" = "Work";
+"Work" = "Lavoro";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Zoom in";
 
 /* Walkthrough */
-"Zoom into map to view public transport stops" = "Zoom into map to view public transport stops.";
+"Zoom into map to view public transport stops" = "Zoom in mappa per visualizzare le fermate dei trasporti pubblici.";
 
