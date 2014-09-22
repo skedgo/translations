@@ -565,11 +565,11 @@
 "RequestErrorFormat" = "'%@' non trovato.";
 
 /* segment membership required action */
-"Requires membership" = "Requires membership";
+"Requires membership" = "Serve l'Abbonamento";
 
 /* Reset button for my priorities
    Title of group of settings related to resetting settings */
-"Reset" = "Reset";
+"Reset" = Reset"";
 
 /* Action title to reset agenda content. */
 "Reset agenda" = "Reset agenda";
@@ -578,25 +578,25 @@
 "Reset tutorial" = "Reset tutorial";
 
 /* No comment provided by engineer. */
-"Route" = "Route";
+"Route" = "Percorso";
 
 /* Title for options for routing to this location, options are: current location, <some previously selected location>. */
-"Route here" = "Route here";
+"Route here" = "Percorso per qui";
 
 /* Results screen title */
-"Routes" = "Routes";
+"Routes" = "Percorsi";
 
 /* Map mode 'satellite' */
 "Satellite" = "Satellite";
 
 /* Price preference */
-"Save Money" = "Save Money";
+"Save Money" = "Risparmia denaro";
 
 /* Time preference */
-"Save Time" = "Save Time";
+"Save Time" = "Risparmia tempo";
 
 /* No comment provided by engineer. */
-"Search for a city" = "Search for a city";
+"Search for a city" = "Cerca una città";
 
 /* Agenda onboarding: placeholder text for search bar for 'home'. */
 "Search for your home address" = "Search for your home address";
