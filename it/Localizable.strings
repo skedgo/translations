@@ -102,10 +102,10 @@
 "BookTaxi" = "PrenotaTaxi";
 
 /* No comment provided by engineer. */
-"Cache" = "nascondiglio";
+"Cache" = "Cache";
 
 /* No comment provided by engineer. */
-"Cache cleared" = "Nascondiglio cancellato";
+"Cache cleared" = "Cache cancellato";
 
 /* Calendar */
 "Calendar" = "Calendario";
@@ -148,7 +148,7 @@
 "Clearing history..." = "Cancellando cronologia...";
 
 /* School pricing preference */
-"Concession Pricing" = "Concessione Prezzi";
+"Concession Pricing" = "Concessione prezzi";
 
 /* Hassle preference */
 "Convenience" = "Convenienza";
@@ -175,7 +175,7 @@
 "Custom trip does not fit" = "Viaggio abituale non ci sta";
 
 /* Cycling speed preference */
-"Cycle speed" = "Velocità della bicicletta";
+"Cycle speed" = "In bicicletta";
 
 /* From %date */
 "DateFromFormat" = "Dal %@";
@@ -348,7 +348,7 @@
 "Habitual Visits" = "Routine";
 
 /* Explanation for what habitual events are. Can be long-ish. */
-"HabitualEventDescription" = "Le routine sono parte del vostro movimento quotidiano,ma sono gli eventi che non desideri di avere nel calendario(ad esempio, il lavoro).Sono importanti per l'agenda a portarti nel posto giusto al momento giusto.";
+"HabitualEventDescription" = "Le routine sono parte del vostro movimento quotidiano, ma sono gli eventi che non desideri di avere nel calendario(ad esempio, il lavoro).Sono importanti per l'agenda a portarti nel posto giusto al momento giusto.";
 
 /* No comment provided by engineer. */
 "History cleared" = "Cronologia cancellata";
@@ -468,7 +468,7 @@
 "NewEvent" = "Nuovo evento";
 
 /* Button title to complete this step and advance to next */
-"Next" = "Seguente";
+"Next" = "Prossimo";
 
 /* No comment provided by engineer. */
 "No 'From' location selected" = "Non e stato selezionato il punto di partenza";
@@ -571,13 +571,13 @@
 
 /* Reset button for my priorities
    Title of group of settings related to resetting settings */
-"Reset" = Reset"";
+"Reset" = Reseta"";
 
 /* Action title to reset agenda content. */
-"Reset agenda" = "Reset agenda";
+"Reset agenda" = "Reseta agenda";
 
 /* Action title to reset tutorial progress. */
-"Reset tutorial" = "Reset tutorial";
+"Reset tutorial" = "Reseta tutorial";
 
 /* No comment provided by engineer. */
 "Route" = "Percorso";
@@ -698,7 +698,7 @@
 "Tap and hold title to jump directly to a specified date." = "Toccare e tenere premuto il titolo per passare direttamente a una data specificata.";
 
 /* Walkthrough */
-"Tap public transport stops for access to timetable" = "Toccare fermate dei mezzi pubblici per l'accesso al calendario.";
+"Tap public transport stops for access to timetable" = "Toccare fermate dei mezzi pubblici per l'accesso ai orari.";
 
 /* Walkthrough */
 "Tap title to go to 'today'" = "Toccare il titolo per andare ad 'oggi'";
@@ -725,10 +725,10 @@
 "Timetable" = "Orario";
 
 /* Title event name */
-"TitleEventName" = "Titolo";
+"TitleEventName" = "Nome";
 
 /* Title favourite name */
-"TitleFavouriteName" = "Titolo";
+"TitleFavouriteName" = "Nome";
 
 /* Title of settings for generic transport stuff */
 "Transport" = "Trasporto";
@@ -746,7 +746,7 @@
 "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo non funziona ancora in questo settore. Si prega di navigare su delle nostre regioni supportati e riprovare ".
 
 /* Confirmation that tutorial was reset. */
-"Tutorial reset" = "Reset Tutorial";
+"Tutorial reset" = "Reseta Tutorial";
 
 /* Type of the vehicle */
 "TypeVehicle" = "Tipo";
@@ -755,7 +755,7 @@
 "Uber" = "Uber";
 
 /* No comment provided by engineer. */
-"Verify location..." = "verificare posizione...";
+"Verify location..." = "Verificare posizione...";
 
 /* View alternative times for this trip */
 "View times" = "Visualizza tempi";
@@ -770,7 +770,7 @@
 "ViewPriceButton" = "Prezzo";
 
 /* Walking speed preference */
-"Walk speed" = "velocità di camminata";
+"Walk speed" = "A piedi";
 
 /* Results screen no results error */
 "We didn't find any results for your query." = "Non abbiamo trovato nessun risultato per la tua ricerca.";
