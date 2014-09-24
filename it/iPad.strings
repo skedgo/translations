@@ -1,27 +1,27 @@
 
 /* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "1dD-nX-UbO"; */
-"1dD-nX-UbO.text" = "Agenda automatically plans trips between home, work and events in your calendar.";
+"1dD-nX-UbO.text" = "Agenda organizza automaticamente viaggi tra casa, lavoro ed eventi nel tuo calendario.";
 
 /* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "5XA-VY-lvO"; */
-"5XA-VY-lvO.normalTitle" = "Set up your Agenda";
+"5XA-VY-lvO.normalTitle" = "Imposta la tua Agenda";
 
 /* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "A61-q2-DtW"; */
-"A61-q2-DtW.title" = "Routes";
+"A61-q2-DtW.title" = "Rotta";
 
 /* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "Ae9-5l-gdh"; */
-"Ae9-5l-gdh.title" = "Trip";
+"Ae9-5l-gdh.title" = "Viaggio";
 
 /* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "Coq-sX-wUc"; */
-"Coq-sX-wUc.title" = "Favourites";
+"Coq-sX-wUc.title" = "Preferiti";
 
 /* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "Evj-sr-WmQ"; */
-"Evj-sr-WmQ.title" = "Service";
+"Evj-sr-WmQ.title" = "Servizio";
 
 /* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "Zm3-OW-yUo"; */
-"Zm3-OW-yUo.title" = "Timetable";
+"Zm3-OW-yUo.title" = "Orario";
 
 /* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "wgq-Og-y2a"; */
 "wgq-Og-y2a.title" = "Agenda";
 
 /* Class = "IBUINavigationItem"; title = "Search"; ObjectID = "zLA-pv-5AY"; */
-"zLA-pv-5AY.title" = "Search";
+"zLA-pv-5AY.title" = "Cerca";
