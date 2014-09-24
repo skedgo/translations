@@ -179,71 +179,71 @@
 "Please select a location" = "Si prega di selezionare una posizione";
 
 /* Please verify the location prompt */
-"Please verify the location" = "Please verify the location";
+"Please verify the location" = "Si prega di verificare la posizione";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
-"Press 'search' for more..." = "Press 'search' for more...";
+"Press 'search' for more..." = "Premere 'cerca' per altro...";
 
 /* Repeats daily */
-"Repeats daily" = "Repeats daily";
+"Repeats daily" = "Ripete tutti i giorni";
 
 /* Repeats monthly */
-"Repeats monthly" = "Repeats monthly";
+"Repeats monthly" = "Ripete mensile";
 
 /* Repeats weekly */
-"Repeats weekly" = "Repeats weekly";
+"Repeats weekly" = "Ripete settimanale";
 
 /* Repeats yearly */
-"Repeats yearly" = "Repeats yearly";
+"Repeats yearly" = "Ripete annuale";
 
 /* Sort by overall score, like a ranking. */
-"Score" = "Score";
+"Score" = "Punteggio";
 
 /* Empty search bar placeholder */
-"Search" = "Search";
+"Search" = "Cerca";
 
 /* No comment provided by engineer. */
-"Search Results" = "Search Results";
+"Search Results" = "Risultati della ricerca";
 
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
 
 /* Tap to set location */
-"SetLocation" = "Tap to set location";
+"SetLocation" = "Seleziona una località";
 
 /* Error alert title */
-"Sorry" = "Sorry";
+"Sorry" = "Scusa";
 
 /* Short indicator of start-time */
-"starts at %@" = "starts at %@";
+"starts at %@" = "inizia alle %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "SUV";
 
 /* Accessibility - user location button - off */
-"Tracking - off" = "Tracking - off";
+"Tracking - off" = "Orientamento - spento";
 
 /* user location button - follow */
-"Tracking - on" = "Tracking - on";
+"Tracking - on" = "Orientamento - acceso";
 
 /* user location button - follow with heading */
-"Tracking - on with heading" = "Tracking - on with heading";
+"Tracking - on with heading" = "Orientamento - acceso, compreso la direzione";
 
 /* No comment provided by engineer. */
-"We were unable to find a location with that name." = "We were unable to find a location with that name.";
+"We were unable to find a location with that name." = "Non siamo stati in grado di trovare un luogo con quel nome.";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Hai già negato questa applicazione l'accesso al tuo calendario. Per favore, vai a Impostazioni app> Privacy> Calendario e autorizza questa applicazione di utilizzare questa funzione.
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature.";
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Hai già negato questa applicazione l'acceso ai tui contatti. Si prega di andare alle Impostazioni di app> Privacy> Contatti e autorizza questa applicazione di utilizzare questa funzione ".;
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
 "{Name}'s" = "%@'s";
 
 /* No comment provided by engineer. */
-"{Name}'s Home" = "%@'s Home";
+"{Name}'s Home" = "%@'s Casa";
 
 /* No comment provided by engineer. */
-"{Name}'s Work" = "%@'s Work";
+"{Name}'s Work" = "%@'s Lavoro";
 
