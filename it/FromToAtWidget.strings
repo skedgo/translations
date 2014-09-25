@@ -1,15 +1,15 @@
 
 /* Class = "IBUIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30"; */
-"30.accessibilityLabel" = "Sostituire inizio e fine";
+"30.accessibilityLabel" = "Scambiare inizio e fine";
 
 /* Class = "IBUIButton"; normalTitle = "Time"; ObjectID = "44"; */
 "44.normalTitle" = "Tempo";
 
 /* Class = "IBUIButton"; accessibilityLabel = "Route"; ObjectID = "57"; */
-"57.accessibilityLabel" = "Route";
+"57.accessibilityLabel" = "Percorso";
 
 /* Class = "IBUIButton"; normalTitle = "Route"; ObjectID = "57"; */
-"57.normalTitle" = "Route";
+"57.normalTitle" = "Percorso";
 
 /* Class = "IBUIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo"; */
 "JFm-H4-fOo.accessibilityLabel" = "Destinazione";
