@@ -1,8 +1,8 @@
 ﻿/* No comment provided by engineer. */
-"1 stop" = "1 Fermata";
+"1 stop" = "Una fermata";
 
 /* Indication of an activity */
-"ActivityIndication" = "Prendero %@ alle %@ da %@.";
+"ActivityIndication" = "Prendo il %@ alle %@ da %@.";
 
 /* Arrival time sorter title */
 "Arrival" = "Arrivo";
@@ -36,10 +36,10 @@
 "Leave" = "Partire";
 
 /* The place of departure */
-"LeaveLocation" = "Parte %@";
+"LeaveLocation" = "Parte da %@";
 
 /* The place of departure with time */
-"LeaveLocationTime" = "Parte %@ alle %@";
+"LeaveLocationTime" = "Parte da %@ alle %@";
 
 /* Time departure */
 "LeaveTime" = "Parte alle %@";e
@@ -75,8 +75,8 @@
 "TimeToLeaveTo" = "Ora di andare! Il tuo %@ viaggio a %@ inizia alle %@";
 
 /* Vehicle 'x' updated */
-"VehicleCalledUpdated" = "Veicolo %@ aggiornato %@ da";
+"VehicleCalledUpdated" = "Veicolo %@ aggiornato dal %@ ";
 
 /* Vehicle updated */
-"VehicleUpdated" = "Aggiornato %@ da";
+"VehicleUpdated" = "Aggiornato dal %@ ";
 
