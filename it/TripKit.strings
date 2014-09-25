@@ -1,5 +1,5 @@
 ﻿/* No comment provided by engineer. */
-"1 stop" = "1 stop";
+"1 stop" = "1 Fermata";
 
 /* Indication of an activity */
 "ActivityIndication" = "Prendero %@ alle %@ da %@.";
@@ -63,7 +63,7 @@
 "Shuttle" = "Navetta";
 
 /* Number of stops before you get off a vehicle */
-"Stops" = "%ld fermate";
+"Stops" = "%ld Fermate";
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ a %@";
