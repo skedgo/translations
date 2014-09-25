@@ -8,13 +8,13 @@
 "all-day" = "tutto il giorno";
 
 /* Estimated time of arrival */
-"ArrivalTimeIndication" = " (arrivo ";
+"ArrivalTimeIndication" = "arrivo";
 
 /* Authorisation needed title */
 "Authorisation needed" = "Autorizzazione necessaria";
 
 /* Type of vehicle : bicycle */
-"Bicycle" = "bicicletta";
+"Bicycle" = "Bicicletta";
 
 /* Cancel - for action sheets */
 "Cancel" = "Cancellare";
@@ -41,7 +41,7 @@
 "Delete" = "Cancella";
 
 /* Estimated time of departure */
-"DepartureTimeIndication" = " (partenza ";
+"DepartureTimeIndication" = "Partenza";
 
 /* Sort by distance */
 "Distance" = "Distanza";
@@ -169,7 +169,7 @@
 "Now" = "Adesso";
 
 /* Number of repeats */
-"NumberReccurences" = "%lu ricorrenze.";
+"NumberReccurences" = "%lu Ricorrenze.";
 
 /* Authorisation ok button
    Error alert cancel */
@@ -230,7 +230,7 @@
 "Tracking - on with heading" = "Orientamento - acceso, compreso la direzione";
 
 /* No comment provided by engineer. */
-"We were unable to find a location with that name." = "Non siamo stati in grado di trovare un luogo con quel nome.";
+"We were unable to find a location with that name." = "Non siamo in grado di trovare un luogo con quel nome.";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Hai già negato questa applicazione l'accesso al tuo calendario. Per favore, vai a Impostazioni app> Privacy> Calendario e autorizza questa applicazione di utilizzare questa funzione.
