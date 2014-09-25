@@ -24,7 +24,7 @@
 "TYM-9i-XBA.title" = "Impostazioni";
 
 /* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "ayF-Zr-HVM"; */
-"ayF-Zr-HVM.text" = "Agenda organizza automaticamente i viaggi tra casa, lavoro e gli eventi nel calendario.";
+"ayF-Zr-HVM.text" = "L'agenda organizza automaticamente viaggi tra casa, lavoro e gli eventi del tuo calendario.";
 
 /* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "egT-4w-rf0"; */
 "egT-4w-rf0.normalTitle" = "Imposta la tua Agenda";
