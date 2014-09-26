@@ -87,7 +87,7 @@
 "Auto" = "Automatico";
 
 /* Agenda item for going back to a previous event which has %name */
-"BackToPreviousLocationFormat" = "Tornare a %@";
+"BackToPreviousLocationFormat" = "Torna a %@";
 
 /* No comment provided by engineer. */
 "Book a shuttle" = "Prenota una navetta";
@@ -117,10 +117,10 @@
 "Calendars" = "Calendari";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "Chiamare Taxi";
+"Call Taxi" = "Chiama Taxi";
 
 /* Action title for calling taxi provider of %name */
-"CallTaxiFormat" = "Chiamare %@";
+"CallTaxiFormat" = "Chiama %@";
 
 /* Cancel - for action sheets
    Cancel action */
@@ -154,16 +154,16 @@
 "Convenience" = "Convenienza";
 
 /* Convenience description */
-"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Convenienza è influenzato da quante volte si deve cambiare i trasporti puplici, da quanto si deve caminare, la difficulta di trovare un taxi,ect.";
+"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Convenienza è influenzato da quante volte devi cambiare i trasporti puplici, da quanto devi caminare, la difficulta di trovare un taxi,ect.";
 
 /* Location manager failure error message */
-"Could not determine your current location. Please set your location manually." = "Impossibile determinare la posizione corrente.Si prega di impostare la propria posizione manualmente.";
+"Could not determine your current location. Please set your location manually." = "Impossibile determinare la posizione corrente. Si prega di impostare la propria posizione manualmente.";
 
 /* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Impossibile scaricare regioni supportati dal server di TripGo.Riprova più tardi.";
+"CouldNotDownloadSupportedRegions" = "Impossibile scaricare regioni supportati dal server di TripGo. Riprova più tardi.";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Inserisci il codice coupon '%@'al momento della registrazione per richiedere il tuo credito libero di $ 5 (valido solo per le nuove registrazioni)";
+"CouponCodeIngogoFormat" = "Inserisci il codice coupon '%@'al momento della registrazione per ricevere il tuo credito libero di $ 5 (valido solo per le nuove registrazioni)";
 
 /* Title for critical error */
 "CriticalError" = "Errore critico";
@@ -187,7 +187,7 @@
 "Departure" = "Partenza";
 
 /* Dismiss accessibility label */
-"Dismiss" = "Rimuovere";
+"Dismiss" = "Ignora";
 
 /* Distances preference */
 "Distances" = "Distanze";
@@ -303,7 +303,7 @@
 "FlightSearch" = "Cerca un volo";
 
 /* Reminder to leave preference */
-"For when to leave" = "Per quando devo andare";
+"For when to leave" = "Per quando devi andare";
 
 /* Free directions */
 "FreeDirections" = "TripGo - Indicazioni gratuiti";
@@ -333,10 +333,10 @@
 "Get Uber ($20 credit^)" = "Ottenere Uber ($20 credit^)";
 
 /* I use TripGo to get around */
-"GetAround" = "Io uso TripGo per andare in giro.";
+"GetAround" = "Io uso TripGo per spostarmi.";
 
 /* goCatch action */
-"goCatch a Taxi" = "prendere un goCatch";
+"goCatch a Taxi" = "prendi un goCatch";
 
 /* google maps directions action */
 "Google Maps" = "Google Maps";
@@ -397,7 +397,7 @@
 "List" = "Elenco";
 
 /* list providers action */
-"List Taxi Numbers" = "mostrare numeri di Taxi";
+"List Taxi Numbers" = "Mostra numeri di Taxi";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "Posizione";
@@ -412,7 +412,7 @@
 "LocationWantToGo" = "Dove vuoi andare?";
 
 /* No comment provided by engineer. */
-"Long press on the map to choose a location" = "Premere a lungo sulla mappa per scegliere una posizione";
+"Long press on the map to choose a location" = "Premi a lungo sulla mappa per scegliere una posizione";
 
 /* I once was lost but now I have found... TripGo */
 "LostOnce" = "Mai più perdersi con... TripGo.";
@@ -426,7 +426,7 @@
 "Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Segnare una localita come Preferito ti permette ad avere risultati veloci per arrivarci dalla tua localita corrente."
 
 /* No comment provided by engineer. */
-"Marking a transit stop as a favourite will allow quick access to its timetable." = "Segnare una fermata come preferiti per un rapido accesso al calendario.";
+"Marking a transit stop as a favourite will allow quick access to its timetable." = "Segnare una fermata come preferiti per un rapido accesso ai sui orari.";
 
 /* Speed preference 'medium' */
 "Medium" = "Medio";
@@ -447,7 +447,7 @@
 "MinutesBefore" = "%.0f Minuti prima";
 
 /* More button accessibility label */
-"More" = "Di più";
+"More" = "Altro";
 
 /* No comment provided by engineer. */
 "More Options" = "Altre opzioni";
@@ -477,7 +477,7 @@
 "No 'To' location selected" = "Non e stato selezionato il punto di arrivo";
 
 /* Error for when no calendar found. */
-"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "Nessun calendario trovato. Si prega di controllare il calendario app e assicuratevi di avere un calendario configurato ".;
+"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "Nessun calendario trovato. Controlla il calendario app e assicurati di avere un calendario configurato ".;
 
 /* No comment provided by engineer. */
 "No locations set" = "Non ci sono posizioni impostate";
@@ -486,7 +486,7 @@
 "Now" = "Adesso";
 
 /* Title for route number %1 of %total, where %total > 1. */
-"NumberRouteFormat" = "Route %ld di %ld";
+"NumberRouteFormat" = "Percorso %ld di %ld";
 
 /* Results screen error ok button */
 "OK" = "OK";
@@ -528,10 +528,10 @@
 "PublicTimeToLeaveToOnFormat" = "Il tuo %@ viaggio su %@ per %@ inizia alle %@";
 
 /* Rate us preference */
-"Rate TripGo" = "Valutare TripGo";
+"Rate TripGo" = "Valuta TripGo";
 
 /* Refining current location HUD notice */
-"Refining location" = "Determinare la posizione";
+"Refining location" = "Determina la posizione";
 
 /* Added reminder notice */
 "Reminder added" = "Promemoria aggiunto";
@@ -543,13 +543,13 @@
 "Reminders" = "Promemoria";
 
 /* Remove favourite activity title */
-"Remove Favourite" = "Rimuovere Preferito";
+"Remove Favourite" = "Rimuovi Preferito";
 
 /* Unsave trip action */
-"Remove from Agenda" = "Rimuovere dalla Agenda";
+"Remove from Agenda" = "Rimuovi dalla Agenda";
 
 /* Remove reminder activity title */
-"Remove Reminder" = "Rimuovere Promemoria";
+"Remove Reminder" = "Rimuovi Promemoria";
 
 /* Remove from agenda HUD notice */
 "Removed from Agenda" = "Rimosso dalla Agenda";
@@ -610,13 +610,13 @@
 "SearchButton" = "Cerca";
 
 /* Details of a flight prompt to enter date first. */
-"Select a date to get flight details." = "Selezionare una data per avere i dettagli del volo.";
+"Select a date to get flight details." = "Seleziona una data per avere i dettagli del volo.";
 
 /* Walkthrough */
-"Select the place where you stay at the end of each day" = "Selezionare il luogo dove soggiornare alla fine di ogni giornata.";
+"Select the place where you stay at the end of each day" = "Seleziona il luogo dove soggiornare alla fine di ogni giornata.";
 
 /* No comment provided by engineer. */
-"Select Vehicle" = "Selezione veicolo";
+"Select Vehicle" = "Seleziona veicolo";
 
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "Invia SMS in tempo reale";
@@ -692,19 +692,19 @@
 "Tab Bar" = "Barra Tab";
 
 /* Walkthrough - should match translation for '\"Routes\"' */
-"Tap 'Routes' for alternative routes" = "Toccare" itinerari "per percorsi alternativi.";
+"Tap 'Routes' for alternative routes" = "Premi "itinerari" per percorsi alternativi.";
 
 /* Walkthrough */
-"Tap and hold title to jump directly to a specified date." = "Toccare e tenere premuto il titolo per passare direttamente a una data specificata.";
+"Tap and hold title to jump directly to a specified date." = "Premi e tenere premuto il titolo per passare direttamente a una data specificata.";
 
 /* Walkthrough */
-"Tap public transport stops for access to timetable" = "Toccare fermate dei mezzi pubblici per l'accesso ai orari.";
+"Tap public transport stops for access to timetable" = "Premi fermate dei mezzi pubblici per l'accesso ai orari.";
 
 /* Walkthrough */
-"Tap title to go to 'today'" = "Toccare il titolo per andare ad 'oggi'";
+"Tap title to go to 'today'" = "Premi il titolo per andare ad 'oggi'";
 
 /* No comment provided by engineer. */
-"Tap to set garage" = "Toccare per impostare garage";
+"Tap to set garage" = "Premi per impostare garage";
 
 /* No comment provided by engineer. */
 "Taxi Providers" = "Fornitori di Taxi";
@@ -743,7 +743,7 @@
 "Trip" = "Viaggio";
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo non funziona ancora in questo settore. Si prega di navigare su delle nostre regioni supportati e riprovare ".
+"TripGo does not work in this area yet. Please navigate to one of our supported regions and try again." = "TripGo non funziona ancora in questo settore. Si prega di navigare su una delle nostre regioni supportati e riprovare ".
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Reseta Tutorial";
@@ -755,10 +755,10 @@
 "Uber" = "Uber";
 
 /* No comment provided by engineer. */
-"Verify location..." = "Verificare posizione...";
+"Verify location..." = "Verifica posizione...";
 
 /* View alternative times for this trip */
-"View times" = "Visualizza tempi";
+"View times" = "Visualizza orari";
 
 /* Duration button */
 "ViewDurationButton" = "Durata";
@@ -776,7 +776,7 @@
 "We didn't find any results for your query." = "Non abbiamo trovato nessun risultato per la tua ricerca.";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
-"Which would you like to delete" = ""Che cosa si desidera eliminare?";
+"Which would you like to delete" = ""Che cosa desideri eliminare?";
 
 /* Typical name that you'd give your work location */
 "Work" = "Lavoro";
@@ -785,5 +785,5 @@
 "Zoom in" = "Zoom in";
 
 /* Walkthrough */
-"Zoom into map to view public transport stops" = "Zoom in mappa per visualizzare le fermate dei trasporti pubblici.";
+"Zoom into map to view public transport stops" = "Zoom in nella mappa per visualizzare le fermate dei trasporti pubblici.";
 
