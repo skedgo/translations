@@ -72,7 +72,7 @@
 "TimeToLeaveFrom" = "È ora di andare! Il tuo% @ viaggio su%@ da %@ inizia alle %@";
 
 /* Time to leave! */
-"TimeToLeaveTo" = "Ora di andare! Il tuo %@ viaggio a %@ inizia alle %@";
+"TimeToLeaveTo" = "È ora di andare! Il tuo %@ viaggio a %@ inizia alle %@";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Veicolo %@ aggiornato dal %@ ";
