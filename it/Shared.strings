@@ -1,5 +1,5 @@
 ﻿/* Authorization restricted alert message */
-"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "L'accesso a questa funzione è stata limitata per il tuo dispositivo. Si prega di controllare l'applicazione Impostazioni, sotto Generali> Restrizioni.";
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "L'accesso a questa funzione è stata limitata per il tuo dispositivo. Per favore controlla l'applicazione Impostazioni, sotto Generali> Restrizioni.";
 
 /* Accessibility label for action button */
 "Action" = "Azione";
@@ -8,7 +8,7 @@
 "all-day" = "tutto il giorno";
 
 /* Estimated time of arrival */
-"ArrivalTimeIndication" = "arrivo";
+"ArrivalTimeIndication" = "Arrivo";
 
 /* Authorisation needed title */
 "Authorisation needed" = "Autorizzazione necessaria";
@@ -66,7 +66,7 @@
 "Getting a lift" = "Prendere Carpool";
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "Ha promemoria";
+"Has reminder" = "Tiene promemoria";
 
 /* Location picker include contacts. */
 "Include contacts" = "Includi contatti";
@@ -82,7 +82,7 @@
 "Location" = "Posizione";
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Servizi di localizzazione sono tenuti ad utilizzare questa funzione. Vai a Impostazioni app> Privacy> servizi di localizzazione, assicurarsi che siano accesi e autorizzare questa app.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Servizi di localizzazione sono tenuti ad utilizzare questa funzione. Vai a Impostazioni app> Privacy> servizi di localizzazione, assicurati che siano accesi e autorizza questa app.";
 
 /* ex: 1min */
 "Min==1" = "1min";
@@ -176,10 +176,10 @@
 "OK" = "OK";
 
 /* Please select a location prompt */
-"Please select a location" = "Si prega di selezionare una posizione";
+"Please select a location" = "Per favore seleziona una posizione";
 
 /* Please verify the location prompt */
-"Please verify the location" = "Si prega di verificare la posizione";
+"Please verify the location" = "Per favore verifica la posizione";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "Premere 'cerca' per altro...";
@@ -236,7 +236,7 @@
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Hai già negato questa applicazione l'accesso al tuo calendario. Per favore, vai a Impostazioni app> Privacy> Calendario e autorizza questa applicazione di utilizzare questa funzione.
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Hai già negato questa applicazione l'acceso ai tui contatti. Si prega di andare alle Impostazioni di app> Privacy> Contatti e autorizza questa applicazione di utilizzare questa funzione ".;
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Hai già negato questa applicazione l'acceso ai tui contatti. Per favore vai alle Impostazioni di app> Privacy> Contatti e autorizza questa applicazione di utilizzare questa funzione ".;
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
 "{Name}'s" = "%@'s";
