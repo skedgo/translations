@@ -336,7 +336,7 @@
 "GetAround" = "Io uso TripGo per spostarmi.";
 
 /* goCatch action */
-"goCatch a Taxi" = "prendi un goCatch";
+"goCatch a Taxi" = "Prendi un goCatch";
 
 /* google maps directions action */
 "Google Maps" = "Google Maps";
@@ -348,7 +348,7 @@
 "Habitual Visits" = "Routine";
 
 /* Explanation for what habitual events are. Can be long-ish. */
-"HabitualEventDescription" = "Le routine sono parte del vostro movimento quotidiano, ma sono gli eventi che non desideri di avere nel calendario(ad esempio, il lavoro).Sono importanti per l'agenda a portarti nel posto giusto al momento giusto.";
+"HabitualEventDescription" = "Le consuetudini sono parte dei tuoi spostamenti quotidiani, ma sono gli eventi che non desideri di avere nel calendario(ad esempio, il lavoro). Sono importanti per far si che l'agenda ti porti nel posto giusto al momento giusto.";
 
 /* No comment provided by engineer. */
 "History cleared" = "Cronologia cancellata";
@@ -364,7 +364,7 @@
 
 /* Action title to include an event in routing
    Include event action */
-"Include" = "Includere";
+"Include" = "Includi";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
 "Include in routes" = "Includi in percorsi";
@@ -373,10 +373,10 @@
 "Information on school services and concession pricing is subject to availability." = "Informazioni su i servizi del scuola bus secondo disponibilita.";
 
 /* No comment provided by engineer. */
-"ingogo a Taxi" = "prendere un ingogo";
+"ingogo a Taxi" = "Prendi un ingogo";
 
 /* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "prendere un ingogo ($5 credito^)";
+"ingogo a Taxi ($5 credit^)" = "Prendi un ingogo ($5 credito^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Vai ad oggi";
@@ -504,7 +504,7 @@
 "Open URL" = "Apri URL";
 
 /* shuttle website action */
-"Open Website" = "Aprire Sito";
+"Open Website" = "Apri Sito";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "È stato concesso il permesso. Torna indietro e prova di nuovo.";
