@@ -69,8 +69,8 @@ CIUDADES SOPORTADAS:
 - España: Madrid
 - Estados Unidos: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, Nueva York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
 - Finlandia: Helsinki [*]
-- Francia: Rennes, Toulouse
-- Holanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Francia: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
+- Holanda: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
 - Hungría: Budapest
 - Irlanda: Dublín
 - Italia: Milán, Roma, Trentino

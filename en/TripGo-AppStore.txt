@@ -1,6 +1,6 @@
 # APP TITLE (255 Characters)
 
-TripGo: Calendar-aware trip planner with real-time transport suggestions.
+TripGo: Calendar-integrated Directions for Train, Bus, Subway, Tram, Bicycle, Taxi, Bike/Car Sharing and more.
 
 
 # SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
@@ -68,13 +68,13 @@ SUPPORTED CITIES:
 - Chile: Santiago
 - England: London, Manchester
 - Finland: Helsinki [*]
-- France: Rennes, Toulouse
+- France: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
 - Germany: Berlin, Potsdam
 - Hungary: Budapest
 - Ireland: Dublin
 - Italy: Milan, Rome, Trentino
 - Mexico: Mexico City
-- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Netherlands: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
 - New Zealand: Auckland, Christchurch [*], Wellington
 - Spain: Madrid
 - USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
