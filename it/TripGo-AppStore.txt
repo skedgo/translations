@@ -1,81 +1,80 @@
 # APP TITLE (255 Characters)
 
-TripGo: Calendar-aware trip planner with real-time transport suggestions.
+Agenda di viaggio basato sul Calendario con possibilità di trasporto in tempo reale.
 
 
 # SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
 
-- "Knows your schedule. Plans your moves."
-- "All your private and public transports." 
-- "Compare cost, time and carbon." 
-- "Real-time alerts for your trips."
-- "Personalized to your life"
+- "Conosce il tuo programma. Pianifica i tui movimenti."
+- "Tutti i vostri mezzi di trasporto pubblici e privati​​."
+- "Confrontare costo, tempo e carbonio."
+- "Avvisi in tempo reale per i tuoi viaggi."
+- "Personalizzata per la tua vita"
 
 
 # DESCRIPTION
 
-What makes TripGo the best transport planner app?
+Cosa rende TripGo la miglior app per organizare il trasporto ?
 
-TripGo is an all-in-one transport and map solution that integrates with your life and gives you the information you need, when you need it. 
+TripGo è una soluzione di trasporto e cartina tutto-in-uno che si integra con la vostra vita e ti dà le informazioni necessarie, quando ne hai bisogno.
 
-Our award-winning app lets you travel smarter by connecting your calendar with real-time transport suggestions, providing you options for easy comparison.
+Il nostro premiato app permette di viaggiare intelligente collegando il calendario con suggerimenti di trasporto in tempo reale, fornendo opzioni per un facile confronto.
 
-Tell TripGo your transport preferences; schedule; vehicles and frequent locations and it will provide you with a door-to-door trip planner to suit your lifestyle. 
+Dite le vostre preferenze di trasporto a TripGo; pianificazione; veicoli e luoghi frequenti e vi fornirà un pianificatore di viaggio porta a porta per soddisfare il vostro stile di vita.
 
-Works across an increasing number of major cities in Australia, Canada, Europe, New Zealand, and United States.
+Funziona su un numero in aumento di grandi città in Australia, Canada, Europa, Nuova Zelanda e Stati Uniti.
 
 
-TRANSPORT MODES SUPPORTED:
+MODI DI TRASPORTO SUPPORTATI:
 
-TripGo supports the following modes of transport:
+TripGo supporta le seguenti modalità di trasporto:
 
-+ Public transport: buses, ferries, subways, trains, trams and more
++ Trasporto pubblico: autobus, traghetti, metropolitane, treni, tram e altro
 + Taxi
-+ Shuttle services
-+ Car
-+ Car Sharing
-+ Motorbike
-+ Bicycle
-+ Bike Sharing
-+ Walking
++ Servizi navetta
++ Auto
++ Condividere la auto
++ Motocicletta
++ Bicicletta
++ Condividere la bicicletta
++ Camminare
 
-Not only do you get results for each of these but also combinations thereof.
-
-
-FEATURES:
-
-+ Automatic trips between home, work and events in your calendar
-+ Door-to-door options for easy comparison on price, time and environmental impact - including public transport, taxi and bike share.
-+ Real-time public transport information
-+ Public transport timetables
-+ Plans trips according to your transport preferences. 
-+ Get reminders for your upcoming planned trips so you always arrive at your events on time. 
-+ Public transport pricing
-+ Tolls and car park information
-+ Taxi fares
-+ Search for points of interest and businesses
-+ Open from Apple Maps
-+ Launch turn-by-turn navigation
-+ Universal for iPhone and iPad
-+ Australian-made
+TripGo mostra entrambi i risultati per ciascuna di queste opzioni, come anche combinazioni.
 
 
-SUPPORTED CITIES:
+CARATTERISTICHE:
+
++ Viaggi automatici tra casa, lavoro ed eventi in calendario
++ Opzioni porta a porta per facilitare il confronto sul prezzo, tempi e impatto ambientale - compresi i trasporti pubblici, taxi e condividere bicicletta.
++ Informazioni in tempo reale sui trasporti pubblici
++ Orari dei trasporti pubblici
++ Pianifica i viaggi secondo alle vostre preferenze di trasporto.
++ Ricevi promemoria per i vostri prossimi viaggi pianificati così si arriva sempre ai eventi in orario.
++ Tariffa dei trasporti pubblici
++ Informazioni su pedaggi e parcheggi
++ Tariffe dei taxi
++ Cerca i punti di interesse e le imprese
++ Aperto dalle Mappe di Apple
++ Apri le indicazioni dettagliate
++ Universale per iPhone e iPad
++ Realizzato in Australia
+
+CITTÀ SUPPORTATI:
 - Argentina: Bahia Blanca
 - Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chile: Santiago
-- England: London, Manchester
-- Finland: Helsinki [*]
-- France: Rennes, Toulouse
-- Germany: Berlin, Potsdam
-- Hungary: Budapest
-- Ireland: Dublin
-- Italy: Milan, Rome, Trentino
+- Inghilterra: London, Manchester
+- Finlandia: Helsinki [*]
+- Francia: Rennes, Toulouse
+- Germania: Berlin, Potsdam
+- Ungheria: Budapest
+- Irlanda: Dublin
+- Italia : Milano, Roma, Trento, Trentino
 - Mexico: Mexico City
-- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
-- New Zealand: Auckland, Christchurch [*], Wellington
-- Spain: Madrid
+- Olanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Nuova Zelanda: Auckland, Christchurch [*], Wellington
+- Spagna: Madrid
 - USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
 
-[*] including real-time data
+[*] compresi i dati in tempo reale
