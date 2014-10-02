@@ -1,60 +1,59 @@
 # APP TITLE (255 Characters)
 
-Agenda di viaggio basato sul Calendario con possibilità di trasporto in tempo reale.
+TripGo: Agenda di viaggio basato sul Calendario con possibilità di trasporto in tempo reale.
 
 
 # SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
 
-- "Conosce il tuo programma. Pianifica i tui movimenti."
+- "Conosce il tuoi programmi. Pianifica i tuoi movimenti."
 - "Tutti i vostri mezzi di trasporto pubblici e privati​​."
-- "Confrontare costo, tempo e carbonio."
+- "Confronta costi, tempi e CO2."
 - "Avvisi in tempo reale per i tuoi viaggi."
 - "Personalizzata per la tua vita"
 
 
 # DESCRIPTION
 
-Cosa rende TripGo la miglior app per organizare il trasporto ?
+Cosa rende TripGo la miglior app per organizzare gli spostamenti?
 
-TripGo è una soluzione di trasporto e cartina tutto-in-uno che si integra con la vostra vita e ti dà le informazioni necessarie, quando ne hai bisogno.
+TripGo è un sistema che integra mappe e mezzi di trasporto con la tua vita e ti da le informazioni di cui hai bisogno quando ne hai bisogno.
 
-Il nostro premiato app permette di viaggiare intelligente collegando il calendario con suggerimenti di trasporto in tempo reale, fornendo opzioni per un facile confronto.
+La nostra premiata app permette di viaggiare intelligentemente collegando il calendario con suggerimenti di trasporto in tempo reale, fornendo opzioni per un facile confronto.
 
-Dite le vostre preferenze di trasporto a TripGo; pianificazione; veicoli e luoghi frequenti e vi fornirà un pianificatore di viaggio porta a porta per soddisfare il vostro stile di vita.
+Indica a TripGo le tue preferenze per trasporti, impegni, veicoli e luoghi che frequenti e ti fornirà istruzioni di viaggio passo passo per soddisfare il tuo stile di vita.
 
-Funziona su un numero in aumento di grandi città in Australia, Canada, Europa, Nuova Zelanda e Stati Uniti.
+Funziona su un numero crescente di grandi città in Australia, Canada, Europa, Nuova Zelanda e Stati Uniti.
 
 
 MODI DI TRASPORTO SUPPORTATI:
 
 TripGo supporta le seguenti modalità di trasporto:
-
-+ Trasporto pubblico: autobus, traghetti, metropolitane, treni, tram e altro
++ Trasporti pubblici: autobus, traghetti, metropolitane, treni, tram e altro
 + Taxi
 + Servizi navetta
 + Auto
-+ Condividere la auto
++ Car Sharing
 + Motocicletta
 + Bicicletta
-+ Condividere la bicicletta
-+ Camminare
++ Bike Sharing
++ A piedi
 
-TripGo mostra entrambi i risultati per ciascuna di queste opzioni, come anche combinazioni.
+Non ottieni solo risultati per ogni opzione ma anche loro combinazioni.
 
 
 CARATTERISTICHE:
 
-+ Viaggi automatici tra casa, lavoro ed eventi in calendario
-+ Opzioni porta a porta per facilitare il confronto sul prezzo, tempi e impatto ambientale - compresi i trasporti pubblici, taxi e condividere bicicletta.
++ Organizza automaticamente i tuoi viaggi tra casa, lavoro ed eventi nel calendario
++ Opzioni passo passo per facilitare il confronto sui prezzi, tempi e impatto ambientale - compresi i trasporti pubblici, taxi e bike sharing.
 + Informazioni in tempo reale sui trasporti pubblici
 + Orari dei trasporti pubblici
-+ Pianifica i viaggi secondo alle vostre preferenze di trasporto.
-+ Ricevi promemoria per i vostri prossimi viaggi pianificati così si arriva sempre ai eventi in orario.
-+ Tariffa dei trasporti pubblici
++ Pianifica i viaggi secondo le tue preferenze di trasporto.
++ Ricevi promemoria per i tuoi viaggi pianificati in modo da arrivare sempre in orario ai tuoi eventi.
++ Tariffe dei trasporti pubblici
 + Informazioni su pedaggi e parcheggi
 + Tariffe dei taxi
-+ Cerca i punti di interesse e le imprese
-+ Aperto dalle Mappe di Apple
++ Cerca i punti di interesse e le attività
++ Compatibile con le mappe di Apple
 + Apri le indicazioni dettagliate
 + Universale per iPhone e iPad
 + Realizzato in Australia
@@ -63,15 +62,15 @@ CITTÀ SUPPORTATI:
 - Argentina: Bahia Blanca
 - Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
-- Chile: Santiago
+- Cile: Santiago
 - Inghilterra: London, Manchester
 - Finlandia: Helsinki [*]
 - Francia: Rennes, Toulouse
 - Germania: Berlin, Potsdam
 - Ungheria: Budapest
-- Irlanda: Dublin
-- Italia : Milano, Roma, Trento, Trentino
-- Mexico: Mexico City
+- Irlanda: Dublino
+- Italia : Milano, Roma, Trento, Trentino Alto Adig, Veneto
+- Messico: Città del Messico
 - Olanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Nuova Zelanda: Auckland, Christchurch [*], Wellington
 - Spagna: Madrid
