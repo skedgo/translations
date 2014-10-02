@@ -1,8 +1,8 @@
 ﻿/* Authorization restricted alert message */
-"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "L'accesso a questa funzione è stata limitata per il tuo dispositivo. Per favore controlla l'applicazione Impostazioni, sotto Generali> Restrizioni.";
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "L'accesso a questa funzione è stato limitato sul tuo dispositivo. Controllare le impostazioni, sotto Generali> Restrizioni.";
 
 /* Accessibility label for action button */
-"Action" = "Azione";
+"Action" = "Avvio";
 
 /* Indicator that an event is all-day */
 "all-day" = "tutto il giorno";
@@ -47,7 +47,7 @@
 "Distance" = "Distanza";
 
 /* Drop new pin */
-"DropNewPin" = "Inserisci nuovo perno";
+"DropNewPin" = "Inserisci nuovo punto";
 
 /* Short indicator of end-time */
 "ends at %@" = "termina alle %@";
@@ -66,7 +66,7 @@
 "Getting a lift" = "Prendere Carpool";
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "Tiene promemoria";
+"Has reminder" = "Ha un promemoria";
 
 /* Location picker include contacts. */
 "Include contacts" = "Includi contatti";
@@ -82,7 +82,7 @@
 "Location" = "Posizione";
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Servizi di localizzazione sono tenuti ad utilizzare questa funzione. Vai a Impostazioni app> Privacy> servizi di localizzazione, assicurati che siano accesi e autorizza questa app.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Per utilizzare questa funzione è necessario abilitare i servizi di localizzazione. Vai su Impostazioni> Privacy> servizi di localizzazione, assicurati che siano abilitati e autorizza questa app.";
 
 /* ex: 1min */
 "Min==1" = "1min";
@@ -94,13 +94,13 @@
 "Min>=60%30==0" = "%.1ora";
 
 /* ex: 1h */
-"Min>=60%60==0" = "%.0ora";
+"Min>=60%60==0" = "%.0h";
 
 /* ex: 1h 1min */
-"Min>=60%60==1" = "%lora 1min";
+"Min>=60%60==1" = "%lh 1min";
 
 /* ex: 1h 17 mins */
-"Min>=60%60!=1" = "%lora %ldmin";
+"Min>=60%60!=1" = "%lh %ldmin";
 
 /* ex: 1 minute */
 "Minute" = "1 minuto";
@@ -151,7 +151,7 @@
 "Minutes>=60%60!=1" = "%ld ora %ld minuti";
 
 /* More results proposal */
-"More results" = "Più risultati";
+"More results" = "Ulteriori risultati";
 
 /* Type of vehicle : motorbike */
 "Motorbike" = "Motocicletta";
@@ -169,7 +169,7 @@
 "Now" = "Adesso";
 
 /* Number of repeats */
-"NumberReccurences" = "%lu Ricorrenze.";
+"NumberReccurences" = "%lu Ripetizioni.";
 
 /* Authorisation ok button
    Error alert cancel */
@@ -185,16 +185,16 @@
 "Press 'search' for more..." = "Premere 'cerca' per altro...";
 
 /* Repeats daily */
-"Repeats daily" = "Ripete tutti i giorni";
+"Repeats daily" = "Ripeti tutti i giorni";
 
 /* Repeats monthly */
-"Repeats monthly" = "Ripete mensile";
+"Repeats monthly" = "Ripeti mensilmente";
 
 /* Repeats weekly */
-"Repeats weekly" = "Ripete settimanale";
+"Repeats weekly" = "Ripeti settimanalmente";
 
 /* Repeats yearly */
-"Repeats yearly" = "Ripete annuale";
+"Repeats yearly" = "Ripeti annualmente";
 
 /* Sort by overall score, like a ranking. */
 "Score" = "Punteggio";
@@ -209,7 +209,7 @@
 "Seconds<120" = "%.0fs";
 
 /* Tap to set location */
-"SetLocation" = "Seleziona una località";
+"SetLocation" = "Seleziona un luogo";
 
 /* Error alert title */
 "Sorry" = "Scusa";
@@ -221,22 +221,22 @@
 "SUV" = "SUV";
 
 /* Accessibility - user location button - off */
-"Tracking - off" = "Orientamento - spento";
+"Tracking - off" = "Ricerca posizione - spento";
 
 /* user location button - follow */
-"Tracking - on" = "Orientamento - acceso";
+"Tracking - on" = "Ricerca posizione - acceso";
 
 /* user location button - follow with heading */
-"Tracking - on with heading" = "Orientamento - acceso, compreso la direzione";
+"Tracking - on with heading" = "Ricerca posizione - acceso, destinazione compresa";
 
 /* No comment provided by engineer. */
 "We were unable to find a location with that name." = "Non siamo in grado di trovare un luogo con quel nome.";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Hai già negato questa applicazione l'accesso al tuo calendario. Per favore, vai a Impostazioni app> Privacy> Calendario e autorizza questa applicazione di utilizzare questa funzione.
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "A questa applicazione è stato negato l'accesso al tuo calendario. Per favore, vai su Impostazioni> Privacy> Calendario e autorizza questa applicazione ad utilizzare questa funzione".;
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Hai già negato questa applicazione l'acceso ai tui contatti. Per favore vai alle Impostazioni di app> Privacy> Contatti e autorizza questa applicazione di utilizzare questa funzione ".;
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "A questa applicazione è stato negato l'accesso ai tuoi contatti. Per favore, vai su Impostazioni> Privacy> Contatti e autorizza questa applicazione ad utilizzare questa funzione ".;
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
 "{Name}'s" = "%@'s";
