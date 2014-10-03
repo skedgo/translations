@@ -63,16 +63,16 @@ CITTÀ SUPPORTATI:
 - Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Cile: Santiago
-- Inghilterra: London, Manchester
 - Finlandia: Helsinki [*]
 - Francia: Rennes, Toulouse
 - Germania: Berlin, Potsdam
-- Ungheria: Budapest
+- Inghilterra: London, Manchester
 - Irlanda: Dublino
-- Italia : Milano, Roma, Trento, Trentino Alto Adig, Veneto
+- Italia : Milano, Roma, Trento, Trentino/Alto Adige
 - Messico: Città del Messico
-- Olanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Nuova Zelanda: Auckland, Christchurch [*], Wellington
+- Olanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Ungheria: Budapest
 - Spagna: Madrid
 - USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
 
