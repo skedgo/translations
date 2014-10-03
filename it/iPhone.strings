@@ -1,39 +1,39 @@
 
 /* Class = "IBUITabBarItem"; title = "Search"; ObjectID = "3d9-Hg-2Fe"; */
-"3d9-Hg-2Fe.title" = "Search";
+"3d9-Hg-2Fe.title" = "Cerca";
 
 /* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
-"5WK-au-VFq.title" = "Settings";
+"5WK-au-VFq.title" = "Impostazioni";
 
 /* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN"; */
-"IFX-i9-ymN.title" = "Routes";
+"IFX-i9-ymN.title" = "Percorsi";
 
 /* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
-"JMk-5m-B22.title" = "Service";
+"JMk-5m-B22.title" = "Servizio";
 
 /* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "KGR-eg-uwA"; */
-"KGR-eg-uwA.title" = "Favourites";
+"KGR-eg-uwA.title" = "Preferiti";
 
 /* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
-"QTR-Ae-g7f.title" = "Trip";
+"QTR-Ae-g7f.title" = "Viaggio";
 
 /* Class = "IBUITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
 "TNA-bx-79H.title" = "Agenda";
 
 /* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "TYM-9i-XBA"; */
-"TYM-9i-XBA.title" = "Settings";
+"TYM-9i-XBA.title" = "Impostazioni";
 
 /* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "ayF-Zr-HVM"; */
-"ayF-Zr-HVM.text" = "Agenda automatically plans trips between home, work and events in your calendar.";
+"ayF-Zr-HVM.text" = "L'agenda organizza automaticamente viaggi tra casa, lavoro e gli eventi del tuo calendario.";
 
 /* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "egT-4w-rf0"; */
-"egT-4w-rf0.normalTitle" = "Set up your Agenda";
+"egT-4w-rf0.normalTitle" = "Imposta la tua Agenda";
 
 /* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "hZa-ep-5Uu"; */
 "hZa-ep-5Uu.title" = "Agenda";
 
 /* Class = "IBUITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
-"ye4-ch-zSe.title" = "Favourites";
+"ye4-ch-zSe.title" = "Preferiti";
 
 /* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n"; */
-"zCk-Ai-u6n.title" = "Timetable";
+"zCk-Ai-u6n.title" = "Orario";
