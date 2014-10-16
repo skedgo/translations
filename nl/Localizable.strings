@@ -122,10 +122,6 @@
 /* Action title for calling taxi provider of %name */
 "CallTaxiFormat" = "Bel %@";
 
-/* Cancel - for action sheets
-   Cancel action */
-"Cancel" = "Annuleer";
-
 /* No comment provided by engineer. */
 "Change time" = "Tijd veranderen";
 
@@ -257,7 +253,7 @@
 "Fast" = "Snel";
 
 /* No comment provided by engineer. */
-"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Er zijn favorieten van een vorige TripGo versie aangetroffen. Wat wilt u doen?"; // TODO
+"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Er zijn favorieten van een vorige TripGo versie aangetroffen. Wat wilt u doen?";
 
 /* No comment provided by engineer. */
 "Favourite" = "Favouriet";
@@ -360,7 +356,7 @@
 "Hybrid" = "Hybride";
 
 /* Import action title */
-"Import" = "Importeren"; // TODO
+"Import" = "Importeren";
 
 /* Action title to include an event in routing
    Include event action */
@@ -646,6 +642,9 @@
 /* No comment provided by engineer. */
 "Show details" = "Bekijk details";
 
+/* Button to show disclaimers, e.g., info of public transport data. */
+"Show disclaimer" = "Bekijk disclaimer";
+
 /* No comment provided by engineer. */
 "Show info" = "Bekijk info";
 
@@ -747,6 +746,9 @@
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutorial reset";
+
+/* Type of the event (calendar event, stay, routine) */
+"TypeEvent" = "Type";
 
 /* Type of the vehicle */
 "TypeVehicle" = "Type";
