@@ -1,4 +1,4 @@
-﻿/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
+/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
 " at " = " 於 ";
 
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
@@ -121,10 +121,6 @@
 
 /* Action title for calling taxi provider of %name */
 "CallTaxiFormat" = "聯繫%@";
-
-/* Cancel - for action sheets
-   Cancel action */
-"Cancel" = "取消";
 
 /* No comment provided by engineer. */
 "Change time" = "更改時間";
@@ -486,7 +482,7 @@
 "Now" = "現在";
 
 /* Title for route number %1 of %total, where %total > 1. */
-"NumberRouteFormat" = "%1ld個旅程中的第%2ld個";
+"NumberRouteFormat" = "%1$ld個旅程中的第%2$ld個";
 
 /* Results screen error ok button */
 "OK" = "好";
@@ -525,7 +521,7 @@
 "PublicTimeToLeaveToFormat" = "請準備出發！您搭乘%@到%@的旅程即將在%@開始";
 
 /* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "您搭乘%2$@到%1$@的旅程將在%3$@開始";
+"PublicTimeToLeaveToOnFormat" = "您搭乘%1$@，班次%2$@，到%3$@將在%4$@開始";
 
 /* Rate us preference */
 "Rate TripGo" = "給我們評價";
@@ -646,6 +642,9 @@
 /* No comment provided by engineer. */
 "Show details" = "顯示詳細資料";
 
+/* Button to show disclaimers, e.g., info of public transport data. */
+"Show disclaimer" = "顯示免責聲明";
+
 /* No comment provided by engineer. */
 "Show info" = "顯示資料";
 
@@ -747,6 +746,9 @@
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "已重置教學";
+
+/* Type of the event (calendar event, stay, routine) */
+"TypeEvent" = "種類";
 
 /* Type of the vehicle */
 "TypeVehicle" = "車輛種類";
