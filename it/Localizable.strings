@@ -139,7 +139,7 @@
 "Clear search history" = "Cancella cronologia ricerche";
 
 /* No comment provided by engineer. */
-"Clearing agenda..." = Sto cancellando l'Agenda...";
+"Clearing agenda..." = "Sto cancellando l'Agenda...";
 
 /* No comment provided by engineer. */
 "Clearing cache..." = "Sto svuotando la Cache...";
@@ -276,7 +276,7 @@
 "FavouritesButton" = "Preferiti";
 
 /* Help title */
-"Feedback & Support" = Recensione & Supporto";
+"Feedback & Support" = "Recensione & Supporto";
 
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "Filtro";
@@ -423,7 +423,7 @@
 "Map" = "Mappa";
 
 /* No comment provided by engineer. */
-"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Aggiungere un luogo come preferito ti permetterà di ottenere risultati veloci per raggiungerlo dalla tua posizione corrente."
+"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Aggiungere un luogo come preferito ti permetterà di ottenere risultati veloci per raggiungerlo dalla tua posizione corrente.";
 
 /* No comment provided by engineer. */
 "Marking a transit stop as a favourite will allow quick access to its timetable." = "Aggiungere una sosta nei preferiti ti permetterà di ottenere un rapido accesso agli orari.";
@@ -477,7 +477,7 @@
 "No 'To' location selected" = "Non e stato selezionato il punto di arrivo";
 
 /* Error for when no calendar found. */
-"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "Nessun calendario trovato. Controlla l'app Calendario e assicurati di avere un calendario configurato ".;
+"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "Nessun calendario trovato. Controlla l'app Calendario e assicurati di avere un calendario configurato.";
 
 /* No comment provided by engineer. */
 "No locations set" = "Non ci sono posizioni impostate";
@@ -522,7 +522,7 @@
 "PrivateTimeToLeave" = "E'ora di partire! Il tuo viaggio per %@ inizia alle %@";
 
 /* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = E'ora di partire"! Il tuo %@ viaggio per %@ inizia alle %@";
+"PublicTimeToLeaveToFormat" = "E'ora di partire! Il tuo %@ viaggio per %@ inizia alle %@";
 
 /* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
 "PublicTimeToLeaveToOnFormat" = "Il tuo %@ viaggio su %@ per %@ inizia alle %@";
@@ -571,7 +571,7 @@
 
 /* Reset button for my priorities
    Title of group of settings related to resetting settings */
-"Reset" = Resetta"";
+"Reset" = "Resetta";
 
 /* Action title to reset agenda content. */
 "Reset agenda" = "Resetta agenda";
@@ -692,7 +692,7 @@
 "Tab Bar" = "Tab Bar";
 
 /* Walkthrough - should match translation for '\"Routes\"' */
-"Tap 'Routes' for alternative routes" = "Premi "itinerari" per percorsi alternativi.";
+"Tap 'Routes' for alternative routes" = "Premi \"itinerari\" per percorsi alternativi.";
 
 /* Walkthrough */
 "Tap and hold title to jump directly to a specified date." = "Tieni premuto il titolo per passare direttamente ad una data specificata.";
@@ -743,7 +743,7 @@
 "Trip" = "Viaggio";
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to one of our supported regions and try again." = "TripGo non funziona ancora in questa zona. Si prega di navigare in una delle nostre regioni supportate e riprovare ".
+"TripGo does not work in this area yet. Please navigate to one of our supported regions and try again." = "TripGo non funziona ancora in questa zona. Si prega di navigare in una delle nostre regioni supportate e riprovare ";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Resetta Tutorial";
@@ -776,7 +776,7 @@
 "We didn't find any results for your query." = "Non abbiamo trovato nessun risultato per la tua ricerca.";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
-"Which would you like to delete" = ""Che cosa desideri eliminare?";
+"Which would you like to delete" = "Che cosa desideri eliminare?";
 
 /* Typical name that you'd give your work location */
 "Work" = "Lavoro";

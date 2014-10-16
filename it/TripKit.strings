@@ -42,7 +42,7 @@
 "LeaveLocationTime" = "Parte da %@ alle %@";
 
 /* Time departure */
-"LeaveTime" = "Parte alle %@";e
+"LeaveTime" = "Parte alle %@";
 
 /* ArrivalTime */
 "MessageArrivalTime" = "Arrivo a %@ alle %@.";
