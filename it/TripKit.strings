@@ -69,7 +69,7 @@
 "TimeFromToShortFormat" = "%@ a %@";
 
 /* Time to leave! */
-"TimeToLeaveFrom" = "È ora di andare! Il tuo% @ viaggio su%@ da %@ inizia alle %@";
+"TimeToLeaveFrom" = "È ora di andare! Il tuo %@ viaggio su %@ da %@ inizia alle %@";
 
 /* Time to leave! */
 "TimeToLeaveTo" = "È ora di andare! Il tuo %@ viaggio a %@ inizia alle %@";

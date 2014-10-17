@@ -91,16 +91,16 @@
 "Min!=1" = "%ldmin";
 
 /* ex: 1.5h */
-"Min>=60%30==0" = "%.1ora";
+"Min>=60%30==0" = "%.1fh";
 
 /* ex: 1h */
-"Min>=60%60==0" = "%.0h";
+"Min>=60%60==0" = "%.0fh";
 
 /* ex: 1h 1min */
-"Min>=60%60==1" = "%lh 1min";
+"Min>=60%60==1" = "%ldh 1min";
 
 /* ex: 1h 17 mins */
-"Min>=60%60!=1" = "%lh %ldmin";
+"Min>=60%60!=1" = "%ldh %ldmin";
 
 /* ex: 1 minute */
 "Minute" = "1 minuto";
@@ -127,10 +127,10 @@
 "Minutes>119%60!=1" = "%ld ore %ld minuti";
 
 /* ex: 2h */
-"Minutes>140%2==0" = "%l ore";
+"Minutes>140%2==0" = "%ldh";
 
 /* ex: 2.3h */
-"Minutes>140%2!=0" = "%.1 ore";
+"Minutes>140%2!=0" = "%.1fh";
 
 /* ex: 2 Hours */
 "Minutes>89%2==0" = "%ld ore";
