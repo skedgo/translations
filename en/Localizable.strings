@@ -200,7 +200,7 @@
 "Done" = "Done";
 
 /* Title for page for modifying a routine/stay at a specific location */
-"EditItemHereTitle" = "When I'm Here";
+"EditItemHereTitle" = "Agenda Item";
 
 /* Title for date when an event ends repeating */
 "End Date" = "End Date";
@@ -476,10 +476,10 @@
 "NewItemAwayActionTitle" = "Stay at a different location";
 
 /* Action title for adding another habitual visit to a favourite */
-"NewItemHereActionTitle" = "Add time I'm here";
+"NewItemHereActionTitle" = "Add to Agenda";
 
 /* Title for page for adding a new routine/stay at a specific location */
-"NewItemHereTitle" = "When I'm Here";
+"NewItemHereTitle" = "Agenda Item";
 
 /* Title for page for adding a new routing/stay at a specific location */
 "NewStayTitle" = "New Stay";
@@ -808,7 +808,7 @@
 "WhenIAmAwayHeader" = "Stays";
 
 /* Header for routines and accommodations, i.e., when a user is typically at this location */
-"WhenIAmHereHeader" = "When I'm Here";
+"WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
 "Which would you like to delete" = "Which would you like to delete";
