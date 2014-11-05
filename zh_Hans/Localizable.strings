@@ -1,11 +1,8 @@
-﻿/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
+/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
 " at " = " at ";
 
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " every ";
-
-/* Action title for adding another habitual visit to a favourite */
-"Add habitual visit" = "Add routine";
 
 /* Add reminder activity title */
 "Add Reminder" = "Add Reminder";
@@ -71,7 +68,8 @@
 /* apple maps directions action */
 "Apple Maps" = "Apple Maps";
 
-/* Arrival time sorter title */
+/* Arrival date+time for overnight stay
+   Arrival time sorter title */
 "Arrival" = "Arrival";
 
 /* Arrive field title */
@@ -113,6 +111,9 @@
 /* Type for regular events that go in the phone's calendar. */
 "Calendar Event" = "Event";
 
+/* Explanation for what calendar events are compared to habituals and stays. Can be long-ish. */
+"CalendarEventDescription" = "Regular events which will be saved in your device's calendar.";
+
 /* No comment provided by engineer. */
 "Calendars" = "Calendars";
 
@@ -121,10 +122,6 @@
 
 /* Action title for calling taxi provider of %name */
 "CallTaxiFormat" = "Call %@";
-
-/* Cancel - for action sheets
-   Cancel action */
-"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Change time" = "Change time";
@@ -183,7 +180,8 @@
 /* From %date1 to %date2 */
 "DateFromToFormat" = "From %@ to %@";
 
-/* Departure time sorter title */
+/* Departure date+time for overnight stay
+   Departure time sorter title */
 "Departure" = "Departure";
 
 /* Dismiss accessibility label */
@@ -192,11 +190,17 @@
 /* Distances preference */
 "Distances" = "Distances";
 
+/* Title for switch indicating if a stay has an end or is 'onward' */
+"Does end" = "Does end";
+
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Don't have a fixed place of work or study? Skip this step.";
 
 /* Done button */
 "Done" = "Done";
+
+/* Title for page for modifying a routine/stay at a specific location */
+"EditItemHereTitle" = "Agenda Item";
 
 /* Title for date when an event ends repeating */
 "End Date" = "End Date";
@@ -255,6 +259,9 @@
 
 /* Speed preference 'fast' */
 "Fast" = "Fast";
+
+/* No comment provided by engineer. */
+"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Favourites from a previous TripGo version have been found on your device. What do you want to do with them?";
 
 /* No comment provided by engineer. */
 "Favourite" = "Favourite";
@@ -338,13 +345,11 @@
 /* google maps directions action */
 "Google Maps" = "Google Maps";
 
-/* Type for events that are regular visit's to one of the user's favorites */
+/* Routine, i.e., type for regular times when at one of the user's favorites
+   Type for events that are regular visit's to one of the user's favorites */
 "Habitual Visit" = "Routine";
 
-/* Header for habitual visits, i.e., when a user is typically at this location */
-"Habitual Visits" = "Routines";
-
-/* Explanation for what habitual events are. Can be long-ish. */
+/* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
 "HabitualEventDescription" = "Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.";
 
 /* No comment provided by engineer. */
@@ -355,6 +360,9 @@
 
 /* Map mode 'streets + satellite' */
 "Hybrid" = "Hybrid";
+
+/* Import action title */
+"Import" = "Import";
 
 /* Action title to include an event in routing
    Include event action */
@@ -417,7 +425,7 @@
 "Map" = "Map";
 
 /* No comment provided by engineer. */
-"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Favorite locations give you quick trip solutions from wherever you are.";
+"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Favourite locations give you quick trip solutions from wherever you are.";
 
 /* No comment provided by engineer. */
 "Marking a transit stop as a favourite will allow quick access to its timetable." = "Marking a transit stop as a favourite will allow quick access to its timetable.";
@@ -460,6 +468,18 @@
 
 /* Title for unnamed new event */
 "NewEvent" = "New event";
+
+/* Action title for adding a habitual item away from some location */
+"NewItemAwayActionTitle" = "Stay at a different location";
+
+/* Action title for adding another habitual visit to a favourite */
+"NewItemHereActionTitle" = "Add to Agenda";
+
+/* Title for page for adding a new routine/stay at a specific location */
+"NewItemHereTitle" = "Agenda Item";
+
+/* Title for page for adding a new routing/stay at a specific location */
+"NewStayTitle" = "New Stay";
 
 /* Button title to complete this step and advance to next */
 "Next" = "Next";
@@ -640,6 +660,9 @@
 /* No comment provided by engineer. */
 "Show details" = "Show details";
 
+/* Button to show disclaimers, e.g., info of public transport data. */
+"Show disclaimer" = "Show disclaimer";
+
 /* No comment provided by engineer. */
 "Show info" = "Show info";
 
@@ -669,6 +692,15 @@
 
 /* No comment provided by engineer. */
 "Start of Week" = "Start of Week";
+
+/* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
+"Stay" = "Stay";
+
+/* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
+"StayEventDescription" = "A 'Stay' is where the Agenda will start on a given day and where it'll end. Use for hotels while travelling or when moving.";
+
+/* Title for identifying a location where you stay overnight */
+"StayTitle" = "Stay";
 
 /* Number of steps */
 "StepsNumber" = "%@ steps taken";
@@ -737,10 +769,13 @@
 "Trip" = "Trip";
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.";
+"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo does not work in this area yet. Please navigate to one of our supported regions and try again.";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutorial reset";
+
+/* Type of the event (calendar event, stay, routine) */
+"TypeEvent" = "Type";
 
 /* Type of the vehicle */
 "TypeVehicle" = "Type";
@@ -768,6 +803,12 @@
 
 /* Results screen no results error */
 "We didn't find any results for your query." = "We didn't find any results for your query.";
+
+/* Header for staying away form home, i.e., when a user is NOT at their home */
+"WhenIAmAwayHeader" = "Stays";
+
+/* Header for routines and accommodations, i.e., when a user is typically at this location */
+"WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
 "Which would you like to delete" = "Which would you like to delete";

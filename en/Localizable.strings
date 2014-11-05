@@ -1,11 +1,8 @@
-﻿/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
+/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
 " at " = " at ";
 
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " every ";
-
-/* Action title for adding another habitual visit to a favourite */
-"Add habitual visit" = "Add routine";
 
 /* Add reminder activity title */
 "Add Reminder" = "Add Reminder";
@@ -113,6 +110,9 @@
 
 /* Type for regular events that go in the phone's calendar. */
 "Calendar Event" = "Event";
+
+/* Explanation for what calendar events are compared to habituals and stays. Can be long-ish. */
+"CalendarEventDescription" = "Regular events which will be saved in your device's calendar.";
 
 /* No comment provided by engineer. */
 "Calendars" = "Calendars";
@@ -349,10 +349,7 @@
    Type for events that are regular visit's to one of the user's favorites */
 "Habitual Visit" = "Routine";
 
-/* Header for habitual visits, i.e., when a user is typically at this location */
-"Habitual Visits" = "Routines";
-
-/* Explanation for what habitual events are. Can be long-ish. */
+/* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
 "HabitualEventDescription" = "Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.";
 
 /* No comment provided by engineer. */
@@ -698,6 +695,9 @@
 
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
 "Stay" = "Stay";
+
+/* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
+"StayEventDescription" = "A 'Stay' is where the Agenda will start on a given day and where it'll end. Use for hotels while travelling or when moving.";
 
 /* Title for identifying a location where you stay overnight */
 "StayTitle" = "Stay";

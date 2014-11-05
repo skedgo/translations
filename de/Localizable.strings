@@ -1,11 +1,8 @@
-﻿/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
+/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
 " at " = " um ";
 
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " alle ";
-
-/* Action title for adding another habitual visit to a favourite */
-"Add habitual visit" = "Routine hinzufügen";
 
 /* Add reminder activity title */
 "Add Reminder" = "Erinnerung hinzufügen";
@@ -71,7 +68,8 @@
 /* apple maps directions action */
 "Apple Maps" = "Apple Karten";
 
-/* Arrival time sorter title */
+/* Arrival date+time for overnight stay
+   Arrival time sorter title */
 "Arrival" = "Ankunft";
 
 /* Arrive field title */
@@ -112,6 +110,9 @@
 
 /* Type for regular events that go in the phone's calendar. */
 "Calendar Event" = "Ereignis"; // event = Ereignis in Apple's Kalender
+
+/* Explanation for what calendar events are compared to habituals and stays. Can be long-ish. */
+"CalendarEventDescription" = "Reguläre Ereignisse werden in den Kalendern deines Geräts gespeichert.";
 
 /* No comment provided by engineer. */
 "Calendars" = "Kalender";
@@ -179,7 +180,8 @@
 /* From %date1 to %date2 */
 "DateFromToFormat" = "Von %@ bis %@";
 
-/* Departure time sorter title */
+/* Departure date+time for overnight stay
+   Departure time sorter title */
 "Departure" = "Abfahrt";
 
 /* Dismiss accessibility label */
@@ -188,11 +190,17 @@
 /* Distances preference */
 "Distances" = "Entfernungen";
 
+/* Title for switch indicating if a stay has an end or is 'onward' */
+"Does end" = "Endet";
+
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Keinen regelmäßigen Arbeits- oder Studiumsplatz? Schritt überspringen.";
 
 /* Done button */
 "Done" = "Fertig";
+
+/* Title for page for modifying a routine/stay at a specific location */
+"EditItemHereTitle" = "Agenda-Eintrag";
 
 /* Title for date when an event ends repeating */
 "End Date" = "Ende";
@@ -337,13 +345,11 @@
 /* google maps directions action */
 "Google Maps" = "Google Maps";
 
-/* Type for events that are regular visit's to one of the user's favorites */
+/* Routine, i.e., type for regular times when at one of the user's favorites
+   Type for events that are regular visit's to one of the user's favorites */
 "Habitual Visit" = "Routine";
 
-/* Header for habitual visits, i.e., when a user is typically at this location */
-"Habitual Visits" = "Routinen";
-
-/* Explanation for what habitual events are. Can be long-ish. */
+/* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
 "HabitualEventDescription" = "Routinen sind Trips die du regelmäßig machst aber nicht im Kalender haben möchtest (z.B. zur Arbeit). Sie sind wichtig damit die Agenda dich rechtzeitig dahin bringt wo du hin musst.";
 
 /* No comment provided by engineer. */
@@ -462,6 +468,18 @@
 
 /* Title for unnamed new event */
 "NewEvent" = "Neues Ereignis";
+
+/* Action title for adding a habitual item away from some location */
+"NewItemAwayActionTitle" = "Übernachtung hinzufügen";
+
+/* Action title for adding another habitual visit to a favourite */
+"NewItemHereActionTitle" = "Zur Agenda hinzufügen";
+
+/* Title for page for adding a new routine/stay at a specific location */
+"NewItemHereTitle" = "Agenda-Eintrag";
+
+/* Title for page for adding a new routing/stay at a specific location */
+"NewStayTitle" = "Übernachtung";
 
 /* Button title to complete this step and advance to next */
 "Next" = "Weiter";
@@ -675,6 +693,15 @@
 /* No comment provided by engineer. */
 "Start of Week" = "Wochenanfang";
 
+/* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
+"Stay" = "Übernachtung";
+
+/* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
+"StayEventDescription" = "Übernachtungen werden in der Agenda verwendet um jeden Tag an dem richtigen Ort zu starten und zu beenden. Praktisch für Hotels und Umzüge.";
+
+/* Title for identifying a location where you stay overnight */
+"StayTitle" = "Übernachtung";
+
 /* Number of steps */
 "StepsNumber" = "%@ Schritte gelaufen";
 
@@ -776,6 +803,12 @@
 
 /* Results screen no results error */
 "We didn't find any results for your query." = "Wir haben nichts für deine Suche gefunden.";
+
+/* Header for staying away form home, i.e., when a user is NOT at their home */
+"WhenIAmAwayHeader" = "Übernachtungen";
+
+/* Header for routines and accommodations, i.e., when a user is typically at this location */
+"WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
 "Which would you like to delete" = "Was möchtest du löschen?";
