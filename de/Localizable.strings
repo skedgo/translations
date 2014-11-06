@@ -190,9 +190,6 @@
 /* Distances preference */
 "Distances" = "Entfernungen";
 
-/* Title for switch indicating if a stay has an end or is 'onward' */
-"Does end" = "Endet";
-
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Keinen regelmäßigen Arbeits- oder Studiumsplatz? Schritt überspringen.";
 
@@ -697,7 +694,7 @@
 "Stay" = "Übernachtung";
 
 /* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
-"StayEventDescription" = "Übernachtungen werden in der Agenda verwendet um jeden Tag an dem richtigen Ort zu starten und zu beenden. Praktisch für Hotels und Umzüge.";
+"StayEventDescription" = "Übernachtungen werden von der Agenda berücksichtigt um an den entsprechenden Tagen am richtigen Ort zu beginnen und enden.";
 
 /* Title for identifying a location where you stay overnight */
 "StayTitle" = "Übernachtung";

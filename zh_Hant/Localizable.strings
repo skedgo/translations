@@ -190,9 +190,6 @@
 /* Distances preference */
 "Distances" = "距離";
 
-/* Title for switch indicating if a stay has an end or is 'onward' */
-"Does end" = "Does end"; // TODO
-
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "如果您沒有固定的上班或是上學地點，您可以略過此步驟";
 

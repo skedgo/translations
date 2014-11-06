@@ -190,9 +190,6 @@
 /* Distances preference */
 "Distances" = "Distanze";
 
-/* Title for switch indicating if a stay has an end or is 'onward' */
-"Does end" = "Does end"; // TODO
-
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Non hai un posto regolare di lavoro o di studio? Salta questo passaggio.";
 
@@ -697,7 +694,7 @@
 "Stay" = "Stay"; // TODO
 
 /* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
-"StayEventDescription" = "A 'Stay' is where the Agenda will start on a given day and where it'll end. Use for hotels while travelling or when moving."; // TODO
+"StayEventDescription" = "Use for hotels while travelling, so that the Agenda starts and ends at the correct location."; // TODO
 
 /* Title for identifying a location where you stay overnight */
 "StayTitle" = "Stay"; // TODO
