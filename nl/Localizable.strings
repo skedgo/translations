@@ -112,7 +112,7 @@
 "Calendar Event" = "Activiteit";
 
 /* Explanation for what calendar events are compared to habituals and stays. Can be long-ish. */
-"CalendarEventDescription" = "Regular events which will be saved in your device's calendar."; // TODO
+"CalendarEventDescription" = "Eenmalige activiteit die in de kalender van uw telefoon wordt opgeslagen.";
 
 /* No comment provided by engineer. */
 "Calendars" = "Agenda's";
@@ -197,7 +197,7 @@
 "Done" = "Kies";
 
 /* Title for page for modifying a routine/stay at a specific location */
-"EditItemHereTitle" = "Agenda Item"; // TODO
+"EditItemHereTitle" = "Agenda Item";
 
 /* Title for date when an event ends repeating */
 "End Date" = "Eind Datum";
@@ -467,16 +467,16 @@
 "NewEvent" = "Nieuwe activiteit";
 
 /* Action title for adding a habitual item away from some location */
-"NewItemAwayActionTitle" = "Stay at a different location"; // TODO
+"NewItemAwayActionTitle" = "Verblijf op een andere locatie";
 
 /* Action title for adding another habitual visit to a favourite */
-"NewItemHereActionTitle" = "Add when I'm here"; // TODO
+"NewItemHereActionTitle" = "Aan Agenda toevoegen";
 
 /* Title for page for adding a new routine/stay at a specific location */
-"NewItemHereTitle" = "Agenda Item"; // TODO
+"NewItemHereTitle" = "Agenda Item";
 
 /* Title for page for adding a new routing/stay at a specific location */
-"NewStayTitle" = "New Stay"; // TODO
+"NewStayTitle" = "Niew Verblijf";
 
 /* Button title to complete this step and advance to next */
 "Next" = "Volgende";
@@ -624,7 +624,7 @@
 "Select a date to get flight details." = "Selecteer een datum voor de vluchtresultatens.";
 
 /* Walkthrough */
-"Select the place where you stay at the end of each day" = "Selecteer een plek waar u verblijft aan het eind van elke dag.";
+"Select the place where you stay at the end of each day" = "Selecteer uw woonplaats of een andere plek waar u vaak verblijft aan het einde van elke dag";
 
 /* No comment provided by engineer. */
 "Select Vehicle" = "Selecteer voertuig";
@@ -691,13 +691,13 @@
 "Start of Week" = "Begin van de week";
 
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
-"Stay" = "Stay"; // TODO
+"Stay" = "Veblijf";
 
 /* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
-"StayEventDescription" = "Use for hotels while travelling, so that the Agenda starts and ends at the correct location."; // TODO
+"StayEventDescription" = "Gebruik op reis voor hotels etc. zodat de agenda begint en endigt op de juiste locatie.";
 
 /* Title for identifying a location where you stay overnight */
-"StayTitle" = "Stay"; // TODO
+"StayTitle" = "Verblijf";
 
 /* Number of steps */
 "StepsNumber" = "%@ stappen gelopen";
@@ -801,11 +801,11 @@
 /* Results screen no results error */
 "We didn't find any results for your query." = "We konden geen resultaten vinden.";
 
-/* Header for staying away form home, i.e., when a user is NOT at their home */
-"WhenIAmAwayHeader" = "Stays"; // TODO
+/* Header for staying away from home, i.e., when a user is NOT at their home */
+"WhenIAmAwayHeader" = "Op Reis";
 
 /* Header for routines and accommodations, i.e., when a user is typically at this location */
-"WhenIAmHereHeader" = "Agenda"; // TODO
+"WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
 "Which would you like to delete" = "Welke wilt u verwijderen";
