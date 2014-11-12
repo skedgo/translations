@@ -470,7 +470,7 @@
 "NewItemAwayActionTitle" = "Stay at a different location"; // TODO
 
 /* Action title for adding another habitual visit to a favourite */
-"NewItemHereActionTitle" = "Add to Agenda"; // TODO
+"NewItemHereActionTitle" = "Add when I'm here"; // TODO
 
 /* Title for page for adding a new routine/stay at a specific location */
 "NewItemHereTitle" = "Agenda Item"; // TODO
