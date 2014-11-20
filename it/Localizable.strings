@@ -247,6 +247,9 @@
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
 "Every " = "Ogni ";
 
+/* Text do mark an example */
+"Example" = "Example"; // TODO
+
 /* Action title to exclude an event from routing
    Exclude event action */
 "Exclude" = "Escludere";
@@ -767,6 +770,9 @@
 
 /* No comment provided by engineer. */
 "TripGo does not work in this area yet. Please navigate to one of our supported regions and try again." = "TripGo non funziona ancora in questa zona. Si prega di navigare in una delle nostre regioni supportate e riprovare ";
+
+/* Trips tab bar name */
+"TripsButton" = "Trips"; // TODO
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Resetta Tutorial";
