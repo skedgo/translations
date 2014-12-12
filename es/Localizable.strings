@@ -5,10 +5,10 @@
 " every " = " cada ";
 
 /* No comment provided by engineer. */
-"Add address..." = "Add address..."; // TODO
+"Add address..." = "Agregar dirección...";
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Add another recurrence"; // TODO
+"Add another recurrence" = "Agregar otra recurrencia";
 
 /* Add reminder activity title */
 "Add Reminder" = "Agregar Recordatorio";
@@ -245,7 +245,7 @@
 "Every " = "Cada ";
 
 /* Text do mark an example */
-"Example" = "Example"; // TODO
+"Example" = "Ejemplo";
 
 /* Action title to exclude an event from routing
  Exclude event action */
@@ -452,7 +452,7 @@
 "More Options" = "Más Opciones";
 
 /* Sample event name ('Movie') */
-"Movie" = "Movie"; // TODO
+"Movie" = "Película";
 
 /* User preferences title */
 "My Priorities" = "Mis Prioridades";
@@ -557,7 +557,7 @@
 "Reminders" = "Recordatorios";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // TODO
+"Remove" = "Eliminar";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "Eliminar Favorito";
@@ -730,13 +730,13 @@
 "Tap title to go to 'today'" = "Presione el título para ir a 'hoy'.";
 
 /* No comment provided by engineer. */
-"Tap to confirm hours or swipe to delete" = "Tap to confirm hours or swipe to delete"; // TODO
+"Tap to confirm hours or swipe to delete" = "Presione para confirmar horas o deslice para eliminar";
 
 /* No comment provided by engineer. */
-"Tap to set address" = "Tap to set address"; // TODO
+"Tap to set address" = "Presione para configurar la dirección";
 
 /* No comment provided by engineer. */
-"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete"; // TODO
+"Tap to set address or swipe to delete" = "Presione para configurar la dirección o deslice para eliminar";
 
 /* No comment provided by engineer. */
 "Tap to set garage" = "Presione aquí para definir el garage";
@@ -757,10 +757,10 @@
 "Time at Work" = "Horas de trabajo";
 
 /* Time zone (typically for an event) */
-"Time zone" = "Time zone"; // TODO
+"Time zone" = "Zona Horaria";
 
 /* Header for times a user is typically at this location, e.g., working hours */
-"Times" = "Times"; // TODO
+"Times" = "Horas";
 
 /* Timetable title */
 "Timetable" = "Horarios";
@@ -787,7 +787,7 @@
 "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo no funciona en este área aún. Por favor, busque una de nuestras regiones soportadas y vuelva a intentarlo.";
 
 /* Trips tab bar name */
-"TripsButton" = "Trips"; // TODO
+"TripsButton" = "Viajes";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutorial Reiniciado";
