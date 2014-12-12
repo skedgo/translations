@@ -63,7 +63,7 @@
 "Shuttle" = "Navette";
 
 /* Number of stops before you get off a vehicle */
-""Stops" = "%ld arrêts";
+"Stops" = "%ld arrêts";
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ à %@";
