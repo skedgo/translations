@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "1 stop" = "1 arrêt";
 
 /* Indication of an activity */
@@ -13,7 +13,8 @@
 /* The place of arrival with time */
 "ArrivalLocationTime" = "Arrivée à %@ à %@";
 
-/* Time arrival */
+/* Arrival %time.
+   Time arrival */
 "ArrivalTime" = "Arrivée à %@";
 
 /* Single line instruction to arrive */
@@ -52,26 +53,20 @@
 /* Departure Location */
 "PrimaryLocationStart" = "À %@";
 
-/* Location of the parking */
+/* 'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park */
 "PrimaryLocationStationary" = "À %@";
 
 /* No comment provided by engineer. */
 "Real-time" = "Temps-réel";
 
-/* No comment provided by engineer. */
+/* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
 "Shuttle" = "Navette";
 
-/* Number of stops */
-"Stops" = "%ld arrêts";
+/* Number of stops before you get off a vehicle */
+""Stops" = "%ld arrêts";
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ à %@";
-
-/* Time to leave! */
-"TimeToLeaveFrom" = "Il est l'heure de partir ! Votre voyage %@ sur %@ depuis %@ commence à %@";
-
-/* Time to leave! */
-"TimeToLeaveTo" = "Il est l'heure de partir ! Votre voyage %@ à destination de %@ commence à %@";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Véhicule %@ mis à jour il y a %@";

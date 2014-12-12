@@ -4,6 +4,12 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " alle ";
 
+/* No comment provided by engineer. */
+"Add address..." = "Adresse hinzufügen...";
+
+/* No comment provided by engineer. */
+"Add another recurrence" = "Weitere Zeit hinzufügen";
+
 /* Add reminder activity title */
 "Add Reminder" = "Erinnerung hinzufügen";
 
@@ -102,9 +108,6 @@
 /* No comment provided by engineer. */
 "Cache" = "Cache";
 
-/* No comment provided by engineer. */
-"Cache cleared" = "Cache geleert";
-
 /* Calendar */
 "Calendar" = "Kalender";
 
@@ -139,9 +142,6 @@
 "Clearing agenda..." = "Agenda löschen...";
 
 /* No comment provided by engineer. */
-"Clearing cache..." = "Cache leeren...";
-
-/* No comment provided by engineer. */
 "Clearing history..." = "Chronik löschen...";
 
 /* School pricing preference */
@@ -165,8 +165,8 @@
 /* Title for critical error */
 "CriticalError" = "Kritischer Fehler";
 
-/* Description for critical error where %errorMessage is provided. */
-"CriticalErrorFormat" = "Die Anwendung hat einen kritischen Fehler gefunden und kann nicht wiederhergestellt werden:\n\n%@";
+/* Description for critical error where error will be shown below. */
+"CriticalErrorFormat" = "Die Anwendung hat einen kritischen Fehler gefunden und kann nicht wiederhergestellt werden:";
 
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "Eigener Trip passt nicht";
@@ -207,9 +207,6 @@
 
 /* No comment provided by engineer. */
 "Error clearing agenda" = "Fehler beim Löschen der Agenda";
-
-/* No comment provided by engineer. */
-"Error clearing cache" = "Fehler beim Leeren des Caches";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "Fehler beim Löschen der Chronik";
@@ -334,7 +331,7 @@
 "Get Involved" = "Unterstütze TripGo";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "Uber nehmen ($20 Guthaben^)";
+"Get Uber" = "Uber nehmen";
 
 /* I use TripGo to get around */
 "GetAround" = "Ich benutze TripGo um von A nach B zu kommen.";
@@ -454,6 +451,9 @@
 /* No comment provided by engineer. */
 "More Options" = "Mehr Optionen";
 
+/* Sample event name ('Movie') */
+"Movie" = "Kino";
+
 /* User preferences title */
 "My Priorities" = "Prioritäten";
 
@@ -556,6 +556,9 @@
 /* Reminders title */
 "Reminders" = "Erinnerungen";
 
+/* No comment provided by engineer. */
+"Remove" = "Löschen";
+
 /* Remove favourite activity title */
 "Remove Favourite" = "Favourit gelöscht";
 
@@ -634,9 +637,6 @@
 
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "SMS zu Echtzeitservice schicken";
-
-/* No comment provided by engineer. */
-"Set location..." = "Adresse hinzufügen...";
 
 /* No comment provided by engineer. */
 "Settings" = "Einstellungen";
@@ -730,7 +730,16 @@
 "Tap title to go to 'today'" = "Um zu 'heute' zu gelangen, Titel tippen.";
 
 /* No comment provided by engineer. */
-"Tap to set garage" = "Garage speichern";
+"Tap to confirm hours or swipe to delete" = "Zeit bestätigen oder streichen zum Löschen";
+
+/* No comment provided by engineer. */
+"Tap to set address" = "Adresse hinzufügen";
+
+/* No comment provided by engineer. */
+"Tap to set address or swipe to delete" = "Adresse hinzufügen oder streichen zum Löschen";
+
+/* No comment provided by engineer. */
+"Tap to set garage" = "Garage hinzufügen";
 
 /* No comment provided by engineer. */
 "Taxi Providers" = "Taxianbieter";
@@ -746,6 +755,12 @@
 
 /* Title for screen to pick your working hours */
 "Time at Work" = "Arbeitszeiten";
+
+/* Time zone (typically for an event) */
+"Time zone" = "Zeitzone";
+
+/* Header for times a user is typically at this location, e.g., working hours */
+"Times" = "Zeiten";
 
 /* Timetable title */
 "Timetable" = "Fahrplan";
@@ -810,7 +825,8 @@
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Übernachtungen";
 
-/* Header for routines and accommodations, i.e., when a user is typically at this location */
+/* Header for accommodations, i.e., when a user is typically at this location
+   Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */

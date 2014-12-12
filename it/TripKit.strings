@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "1 stop" = "Una fermata";
 
 /* Indication of an activity */
@@ -67,12 +67,6 @@
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ a %@";
-
-/* Time to leave! */
-"TimeToLeaveFrom" = "È ora di andare! Il tuo %@ viaggio su %@ da %@ inizia alle %@";
-
-/* Time to leave! */
-"TimeToLeaveTo" = "È ora di andare! Il tuo %@ viaggio a %@ inizia alle %@";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Veicolo %@ aggiornato dal %@ ";

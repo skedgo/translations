@@ -1,4 +1,4 @@
-﻿/* Authorization restricted alert message */
+/* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider.";
 
 /* Accessibility label for action button */
@@ -72,7 +72,7 @@
 "Include contacts" = "Include contacts";
 
 /* Location picker include events. */
-"Include events" = "Include events";
+"Include events" = "Include calendar events";
 
 /* Instant results proposal */
 "Instant results" = "Instant results";
@@ -175,6 +175,9 @@
    Error alert cancel */
 "OK" = "OK";
 
+/* Button to open Settings app section for this app */
+"Open Settings" = "Open Settings";
+
 /* Please select a location prompt */
 "Please select a location" = "Please select a location";
 
@@ -231,6 +234,12 @@
 
 /* No comment provided by engineer. */
 "We were unable to find a location with that name." = "We were unable to find a location with that name.";
+
+/* Every weekday in context of repetitions (especially recurring events) */
+"Weekdays" = "Weekdays";
+
+/* Every weekend day in context of repetitions (especially recurring events) */
+"Weekends" = "Weekends";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature.";

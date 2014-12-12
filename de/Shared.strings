@@ -1,4 +1,4 @@
-﻿/* Authorization restricted alert message */
+/* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Zugriff zu diesem Feature wurde eingeschränkt. Bitte überprüfe die Einstellungen-App unter Allgemein > Einschränkungen.";
 
 /* Accessibility label for action button */
@@ -159,7 +159,7 @@
 /* Sort by name */
 "Name" = "Name";
 
-/* Never */
+/* Never in context of repetitions (especially recurring events) */
 "Never" = "Niemals";
 
 /* No comment provided by engineer. */
@@ -174,6 +174,9 @@
 /* Authorisation ok button
    Error alert cancel */
 "OK" = "OK";
+
+/* Button to open Settings app section for this app */
+"Open Settings" = "Einstellungen öffnen";
 
 /* Please select a location prompt */
 "Please select a location" = "Bitte Ort auswählen";
@@ -231,6 +234,12 @@
 
 /* No comment provided by engineer. */
 "We were unable to find a location with that name." = "Wir konnten keinen Ort mit dem Namen finden.";
+
+/* Every weekday in context of repetitions (especially recurring events) */
+"Weekdays" = "Wochentags";
+
+/* Every weekend day in context of repetitions (especially recurring events) */
+"Weekends" = "Wochenende";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Kalenderzugriffsautorisierung benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz > Kalender > TripGo";

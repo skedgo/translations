@@ -1,10 +1,4 @@
 
-/* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "1dD-nX-UbO"; */
-"1dD-nX-UbO.text" = "行程功能將自動幫您規劃從您住家到公司或任何在行事曆中的事件之間的旅程";
-
-/* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "5XA-VY-lvO"; */
-"5XA-VY-lvO.normalTitle" = "設定您的行程";
-
 /* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "A61-q2-DtW"; */
 "A61-q2-DtW.title" = "旅程";
 
@@ -19,9 +13,6 @@
 
 /* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "Zm3-OW-yUo"; */
 "Zm3-OW-yUo.title" = "時刻表";
-
-/* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "wgq-Og-y2a"; */
-"wgq-Og-y2a.title" = "行程";
 
 /* Class = "IBUINavigationItem"; title = "Search"; ObjectID = "zLA-pv-5AY"; */
 "zLA-pv-5AY.title" = "搜尋";

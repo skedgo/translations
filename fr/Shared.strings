@@ -1,4 +1,4 @@
-﻿/* Authorization restricted alert message */
+/* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "L'accès à cette fonctionnalité a été limité pour votre appareil. Veuillez vérifier les réglages de l'application > Général > Restrictions ou contactez votre fournisseur.";
 
 /* Accessibility label for action button */
@@ -171,6 +171,9 @@
    Error alert cancel */
 "OK" = "OK";
 
+/* Button to open Settings app section for this app */
+"Open Settings" = "Open Settings"; // TODO
+
 /* Please select a location prompt */
 "Please select a location" = "Veuillez sélectionner une adresse";
 
@@ -227,6 +230,12 @@
 
 /* No comment provided by engineer. */
 "We were unable to find a location with that name." = "Impossible de trouver une adresse associée à ce nom.";
+
+/* Every weekday in context of repetitions (especially recurring events) */
+"Weekdays" = "Weekdays"; // TODO
+
+/* Every weekend day in context of repetitions (especially recurring events) */
+"Weekends" = "Weekends"; // TODO
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Vous avez préalablement refusé l'accès de cette application à votre calendrier. Veuillez autoriser l'accès dans Réglages > Confidentialité > Calendriers pour utiliser cette fonctionnalité.";

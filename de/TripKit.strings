@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "1 stop" = "1 Stop";
 
 /* Indication of an activity */
@@ -67,12 +67,6 @@
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ bis %@";
-
-/* Time to leave! */
-"TimeToLeaveFrom" = "Zeit zu gehen! Dein %@ Trip auf %@ von %@ beginnt um %@";
-
-/* Time to leave! */
-"TimeToLeaveTo" = "Zeit zu gehen! Dein %@ Trip nach %@ beginng um %@";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Fahrzeug %@, aktualisiert vor %@";

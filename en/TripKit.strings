@@ -68,12 +68,6 @@
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ to %@";
 
-/* Time to leave! */
-"TimeToLeaveFrom" = "Time to leave! Your %@ trip on %@ from %@ commences at %@";
-
-/* Time to leave! */
-"TimeToLeaveTo" = "Time to leave! Your %@ trip to %@ commences at %@";
-
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Vehicle %@ updated %@ ago";
 

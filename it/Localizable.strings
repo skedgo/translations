@@ -4,6 +4,12 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " ogni ";
 
+/* No comment provided by engineer. */
+"Add address..." = "Add address..."; // TODO
+
+/* No comment provided by engineer. */
+"Add another recurrence" = "Add another recurrence"; // TODO
+
 /* Add reminder activity title */
 "Add Reminder" = "Aggiungi avviso";
 
@@ -102,9 +108,6 @@
 /* No comment provided by engineer. */
 "Cache" = "Cache";
 
-/* No comment provided by engineer. */
-"Cache cleared" = "Cache cancellata";
-
 /* Calendar */
 "Calendar" = "Calendario";
 
@@ -139,9 +142,6 @@
 "Clearing agenda..." = "Sto cancellando l'Agenda...";
 
 /* No comment provided by engineer. */
-"Clearing cache..." = "Sto svuotando la Cache...";
-
-/* No comment provided by engineer. */
 "Clearing history..." = "Sto cancellando la cronologia...";
 
 /* School pricing preference */
@@ -166,7 +166,7 @@
 "CriticalError" = "Errore grave";
 
 /* Description for critical error where %errorMessage is provided. */
-"CriticalErrorFormat" = "L'applicazione ha rilevato un grave errore e non può recuperare:\n\n%@";
+"CriticalErrorFormat" = "L'applicazione ha rilevato un grave errore e non può recuperare:";
 
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "Il tuo viaggio non è fattibile";
@@ -207,9 +207,6 @@
 
 /* No comment provided by engineer. */
 "Error clearing agenda" = "Errore cancellando l'Agenda";
-
-/* No comment provided by engineer. */
-"Error clearing cache" = "Errore svuotando la Cache";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "Errore cancellando la Cronologia";
@@ -334,7 +331,7 @@
 "Get Involved" = "Supporta Tripgo";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "Prendere Uber ($20 credit^)";
+"Get Uber" = "Prendere Uber";
 
 /* I use TripGo to get around */
 "GetAround" = "Io uso TripGo per spostarmi.";
@@ -454,6 +451,9 @@
 /* No comment provided by engineer. */
 "More Options" = "Altre opzioni";
 
+/* Sample event name ('Movie') */
+"Movie" = "Movie"; // TODO
+
 /* User preferences title */
 "My Priorities" = "Le mie priorità";
 
@@ -556,6 +556,9 @@
 /* Reminders title */
 "Reminders" = "Promemoria";
 
+/* No comment provided by engineer. */
+"Remove" = "Remove"; // TODO
+
 /* Remove favourite activity title */
 "Remove Favourite" = "Rimuovi Preferito";
 
@@ -634,9 +637,6 @@
 
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "Invia SMS in tempo reale";
-
-/* No comment provided by engineer. */
-"Set location..." = "Imposta posizione...";
 
 /* No comment provided by engineer. */
 "Settings" = "Impostazioni";
@@ -733,6 +733,15 @@
 "Tap to set garage" = "Premi per impostare garage";
 
 /* No comment provided by engineer. */
+"Tap to set address" = "Tap to set address"; // TODO
+
+/* No comment provided by engineer. */
+"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete"; // TODO
+
+/* No comment provided by engineer. */
+"Tap to set garage" = "Tap to set garage"; // TODO
+
+/* No comment provided by engineer. */
 "Taxi Providers" = "Fornitori di Taxi";
 
 /* Description of the terminal */
@@ -746,6 +755,12 @@
 
 /* Title for screen to pick your working hours */
 "Time at Work" = "Tempo al lavoro";
+
+/* Time zone (typically for an event) */
+"Time zone" = "Time zone"; // TODO
+
+/* Header for times a user is typically at this location, e.g., working hours */
+"Times" = "Times"; // TODO
 
 /* Timetable title */
 "Timetable" = "Orario";
@@ -810,7 +825,8 @@
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Stays"; // TODO
 
-/* Header for routines and accommodations, i.e., when a user is typically at this location */
+/* Header for accommodations, i.e., when a user is typically at this location
+   Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda"; // TODO
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */

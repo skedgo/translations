@@ -4,6 +4,12 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " every ";
 
+/* No comment provided by engineer. */
+"Add address..." = "Add address...";
+
+/* No comment provided by engineer. */
+"Add another recurrence" = "Add another recurrence";
+
 /* Add reminder activity title */
 "Add Reminder" = "Add Reminder";
 
@@ -100,9 +106,6 @@
 "BookTaxi" = "Book Taxi";
 
 /* No comment provided by engineer. */
-"Cache" = "Cache";
-
-/* No comment provided by engineer. */
 "Cache cleared" = "Cache cleared";
 
 /* Calendar */
@@ -139,9 +142,6 @@
 "Clearing agenda..." = "Clearing agenda...";
 
 /* No comment provided by engineer. */
-"Clearing cache..." = "Clearing cache...";
-
-/* No comment provided by engineer. */
 "Clearing history..." = "Clearing history...";
 
 /* School pricing preference */
@@ -165,8 +165,8 @@
 /* Title for critical error */
 "CriticalError" = "Critical Error";
 
-/* Description for critical error where %errorMessage is provided. */
-"CriticalErrorFormat" = "The application encountered a critical error and can't recover:\n\n%@";
+/* Description for critical error where error will be shown below. */
+"CriticalErrorFormat" = "The application encountered a critical error and can't recover:";
 
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "Custom trip does not fit";
@@ -207,9 +207,6 @@
 
 /* No comment provided by engineer. */
 "Error clearing agenda" = "Error clearing agenda";
-
-/* No comment provided by engineer. */
-"Error clearing cache" = "Error clearing cache";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "Error clearing history";
@@ -334,7 +331,7 @@
 "Get Involved" = "Get Involved";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "Get Uber ($20 credit^)";
+"Get Uber" = "Get Uber";
 
 /* I use TripGo to get around */
 "GetAround" = "I use TripGo to get around.";
@@ -454,6 +451,9 @@
 /* No comment provided by engineer. */
 "More Options" = "More Options";
 
+/* Sample event name ('Movie') */
+"Movie" = "Movie";
+
 /* User preferences title */
 "My Priorities" = "My Priorities";
 
@@ -556,6 +556,9 @@
 /* Reminders title */
 "Reminders" = "Reminders";
 
+/* No comment provided by engineer. */
+"Remove" = "Remove";
+
 /* Remove favourite activity title */
 "Remove Favourite" = "Remove Favourite";
 
@@ -634,9 +637,6 @@
 
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "Send Real-time SMS";
-
-/* No comment provided by engineer. */
-"Set location..." = "Set location...";
 
 /* No comment provided by engineer. */
 "Settings" = "Settings";
@@ -730,6 +730,15 @@
 "Tap title to go to 'today'" = "Tap title to go to 'today'";
 
 /* No comment provided by engineer. */
+"Tap to confirm hours or swipe to delete" = "Tap to confirm hours or swipe to delete";
+
+/* No comment provided by engineer. */
+"Tap to set address" = "Tap to set address";
+
+/* No comment provided by engineer. */
+"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete";
+
+/* No comment provided by engineer. */
 "Tap to set garage" = "Tap to set garage";
 
 /* No comment provided by engineer. */
@@ -746,6 +755,12 @@
 
 /* Title for screen to pick your working hours */
 "Time at Work" = "Time at Work";
+
+/* Time zone (typically for an event) */
+"Time zone" = "Time zone";
+
+/* Header for times a user is typically at this location, e.g., working hours */
+"Times" = "Times";
 
 /* Timetable title */
 "Timetable" = "Timetable";
@@ -810,7 +825,8 @@
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Stays";
 
-/* Header for routines and accommodations, i.e., when a user is typically at this location */
+/* Header for accommodations, i.e., when a user is typically at this location
+   Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */

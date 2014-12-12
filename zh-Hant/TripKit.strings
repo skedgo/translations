@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "1 stop" = "1站";
 
 /* Indication of an activity */
@@ -53,26 +53,20 @@
 /* Departure Location */
 "PrimaryLocationStart" = "出發地: %@";
 
-/* Location of the parking */
+/* 'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park */
 "PrimaryLocationStationary" = "時刻 %@";
 
 /* No comment provided by engineer. */
 "Real-time" = "即時";
 
-/* No comment provided by engineer. */
+/* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
 "Shuttle" = "接駁車";
 
-/* Number of stops */
+/* Number of stops before you get off a vehicle */
 "Stops" = "%ld站";
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ ～ %@";
-
-/* Time to leave! */
-"TimeToLeaveFrom" = "請準備出發！您搭乘%2$@到%1$@的旅程即將在%3$@開始";
-
-/* Time to leave! */
-"TimeToLeaveTo" = "請準備出發！您到%2$@的%1$@旅程將在%3$@開始";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "車輛%@的位置在%@前更新";

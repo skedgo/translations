@@ -4,6 +4,12 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " 每 ";
 
+/* No comment provided by engineer. */
+"Add address..." = "Add address..."; // TODO
+
+/* No comment provided by engineer. */
+"Add another recurrence" = "Add another recurrence"; // TODO
+
 /* Add reminder activity title */
 "Add Reminder" = "新增提醒事項";
 
@@ -102,9 +108,6 @@
 /* No comment provided by engineer. */
 "Cache" = "暫存檔";
 
-/* No comment provided by engineer. */
-"Cache cleared" = "暫存檔已刪除";
-
 /* Calendar */
 "Calendar" = "行事曆";
 
@@ -139,9 +142,6 @@
 "Clearing agenda..." = "正在清除行程...";
 
 /* No comment provided by engineer. */
-"Clearing cache..." = "正在清除暫存檔...";
-
-/* No comment provided by engineer. */
 "Clearing history..." = "正在清除歷史記錄...";
 
 /* School pricing preference */
@@ -166,7 +166,7 @@
 "CriticalError" = "嚴重錯誤";
 
 /* Description for critical error where %errorMessage is provided. */
-"CriticalErrorFormat" = "本App遭遇嚴重無法還原的嚴重錯誤:\n\n%@";
+"CriticalErrorFormat" = "本App遭遇嚴重無法還原的嚴重錯誤:";
 
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "自定旅程與既定行程無法配合";
@@ -207,9 +207,6 @@
 
 /* No comment provided by engineer. */
 "Error clearing agenda" = "在清除行程中發生錯誤";
-
-/* No comment provided by engineer. */
-"Error clearing cache" = "在清除暫存檔中發生錯誤";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "在清除歷史記錄中發生錯誤";
@@ -334,7 +331,7 @@
 "Get Involved" = "使用者參與";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "使用Uber ($20元回饋金^)";
+"Get Uber" = "使用Uber";
 
 /* I use TripGo to get around */
 "GetAround" = "我使用TripGo來趴趴走";
@@ -454,6 +451,9 @@
 /* No comment provided by engineer. */
 "More Options" = "更多選項";
 
+/* Sample event name ('Movie') */
+"Movie" = "Movie"; // TODO
+
 /* User preferences title */
 "My Priorities" = "重要性";
 
@@ -556,6 +556,9 @@
 /* Reminders title */
 "Reminders" = "提醒事項";
 
+/* No comment provided by engineer. */
+"Remove" = "Remove"; // TODO
+
 /* Remove favourite activity title */
 "Remove Favourite" = "移除常用";
 
@@ -634,9 +637,6 @@
 
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "發送及時簡訊";
-
-/* No comment provided by engineer. */
-"Set location..." = "選擇地點...";
 
 /* No comment provided by engineer. */
 "Settings" = "設定";
@@ -730,6 +730,15 @@
 "Tap title to go to 'today'" = "點選頁面標題可立即轉換到今日";
 
 /* No comment provided by engineer. */
+"Tap to confirm hours or swipe to delete" = "Tap to confirm hours or swipe to delete"; // TODO
+
+/* No comment provided by engineer. */
+"Tap to set address" = "Tap to set address"; // TODO
+
+/* No comment provided by engineer. */
+"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete"; // TODO
+
+/* No comment provided by engineer. */
 "Tap to set garage" = "按此來設定車庫";
 
 /* No comment provided by engineer. */
@@ -746,6 +755,12 @@
 
 /* Title for screen to pick your working hours */
 "Time at Work" = "上班時間";
+
+/* Time zone (typically for an event) */
+"Time zone" = "Time zone"; // TODO
+
+/* Header for times a user is typically at this location, e.g., working hours */
+"Times" = "Times"; // TODO
 
 /* Timetable title */
 "Timetable" = "時刻表";
@@ -810,7 +825,8 @@
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Stays"; // TODO
 
-/* Header for routines and accommodations, i.e., when a user is typically at this location */
+/* Header for accommodations, i.e., when a user is typically at this location
+   Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda"; // TODO
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
