@@ -230,133 +230,133 @@
 "Event was cancelled" = "Tapahtuma peruttiin";
 
 /* Title for the time an event ends (including date information) */
-"EventEndDateTime" = "End";
+"EventEndDateTime" = "Päättyy";
 
 /* Title for the time an event ends (without date information) */
-"EventEndTime" = "End";
+"EventEndTime" = "Päättyy";
 
 /* Title for when an event repeats */
-"EventRepeat" = "Repeats";
+"EventRepeat" = "Toistaa";
 
 /* Title for the time an event starts (including date information) */
-"EventStartDateTime" = "Start";
+"EventStartDateTime" = "Alku";
 
 /* Title for the time an event starts (without date information) */
-"EventStartTime" = "Start";
+"EventStartTime" = "Alku";
 
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
-"Every " = "Every ";
+"Every " = "Joka ";
 
 /* Text do mark an example */
-"Example" = "Example";
+"Example" = "Esim";
 
 /* Action title to exclude an event from routing
    Exclude event action */
-"Exclude" = "Exclude";
+"Exclude" = "Poissulje";
 
 /* There goes my excuse for being late... */
-"ExcuseDueToLate" = "TripGo - There goes my excuse for being late...";
+"ExcuseDueToLate" = "TripGo - Siinä menee minun tekosyy myöhästymiseen...";
 
 /* Speed preference 'fast' */
-"Fast" = "Fast";
+"Fast" = "Nopea";
 
 /* No comment provided by engineer. */
-"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Favourites from a previous TripGo version have been found on your device. What do you want to do with them?";
+"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Suosikit aiemmasta TripGo versiosta on löydetty laitteesta. Mitä haluat tehdä?";
 
 /* No comment provided by engineer. */
-"Favourite" = "Favourite";
+"Favourite" = "Suosikki";
 
 /* Add favourite HUD notice */
-"Favourite added" = "Favourite added";
+"Favourite added" = "Suosikki lisätty";
 
 /* Remove trip from favourites HUD notice */
-"Favourite removed" = "Favourite removed";
+"Favourite removed" = "Suosikki poistettu";
 
 /* No comment provided by engineer. */
-"Favourites" = "Favourites";
+"Favourites" = "Suosikit";
 
 /* Favourites button name
    Favourites tab bar name */
-"FavouritesButton" = "Favourites";
+"FavouritesButton" = "Suosikit";
 
 /* Help title */
-"Feedback & Support" = "Feedback & Support";
+"Feedback & Support" = "Palaute ja tuki";
 
 /* Placeholder text for search bar that is used for filtering */
-"Filter" = "Filter";
+"Filter" = "Suodatin";
 
 /* Flight */
-"Flight" = "Flight";
+"Flight" = "Lento";
 
 /* Flight number prompt */
-"Flight number" = "Flight number";
+"Flight number" = "Lentonumero";
 
 /* Date of the flight */
-"FlightDate" = "Date";
+"FlightDate" = "Päivämäärä";
 
 /* Details of a flight */
-"FlightDetails" = "Details";
+"FlightDetails" = "Tarkemmat tiedot";
 
 /* Note concerning the flight */
-"FlightNote" = "Note";
+"FlightNote" = "Huom";
 
 /* Title for flight with %flightNumber */
-"FlightNumberFormat" = "Flight %@";
+"FlightNumberFormat" = "Lento %@";
 
 /* Search for a flight */
-"FlightSearch" = "Search for a flight";
+"FlightSearch" = "Etsi Lento";
 
 /* Reminder to leave preference */
-"For when to leave" = "For when to leave";
+"For when to leave" = "lähtöajan varten";
 
 /* Free directions */
-"FreeDirections" = "TripGo - Free directions";
+"FreeDirections" = "Tripgo - Ilmaisia ohjeita";
 
 /* Route here... ...from Current location */
-"From current location" = "From current location";
+"From current location" = "Nykyisestä sijainnista";
 
 /* Location for trip exported as event going from %location1 to %location2 */
-"FromToForEventLocationFormat" = "From %@ to %@";
+"FromToForEventLocationFormat" = "%@:sta to %@:iin";
 
 /* Header for list of vehicles garaged at this location */
-"Garaged Vehicles" = "Garaged Vehicles";
+"Garaged Vehicles" = "Autotallitut ajoneuvot";
 
 /* Title of settings for generic transport stuff */
-"General" = "General";
+"General" = "Yleinen";
 
 /* Action button title for getting turn-by-turn directions */
-"Get directions" = "Get directions";
+"Get directions" = "Hae reitti";
 
 /* No comment provided by engineer. */
-"Get ingogo" = "Get ingogo";
+"Get ingogo" = "Hae Ingogo";
 
 /* Header for settings for feedback, recommending and rating TripGo */
-"Get Involved" = "Get Involved";
+"Get Involved" = "Osallistu";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "Get Uber ($20 credit^)";
+"Get Uber ($20 credit^)" = "Hae Uber ($20 luotto^)";
 
 /* I use TripGo to get around */
-"GetAround" = "I use TripGo to get around.";
+"GetAround" = "Käytän TripGo kiertää.";
 
 /* goCatch action */
-"goCatch a Taxi" = "goCatch a Taxi";
+"goCatch a Taxi" = "goCatch Taksi";
 
 /* google maps directions action */
 "Google Maps" = "Google Maps";
 
 /* Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites */
-"Habitual Visit" = "Routine";
+"Habitual Visit" = "Rutiini";
 
 /* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
-"HabitualEventDescription" = "Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.";
+"HabitualEventDescription" = "Rutiinit ovat osa päivittäistä liikkumista, mutta ne eivät ole tapahtumia, jotka haluat kalenterissa (esim työ). Ne ovat tärkeitä toimintaohjelman saada sinut oikeaan paikkaan oikeaan aikaan.";
 
 /* No comment provided by engineer. */
-"History cleared" = "History cleared";
+"History cleared" = "Historia tyhjennetty";
 
 /* Typical name that you'd give your home location */
-"Home" = "Home";
+"Home" = "Koti";
 
 /* Map mode 'streets + satellite' */
 "Hybrid" = "Hybrid";
@@ -366,13 +366,13 @@
 
 /* Action title to include an event in routing
    Include event action */
-"Include" = "Include";
+"Include" = "sisällä";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
-"Include in routes" = "Include in routes";
+"Include in routes" = "Sisällä reitteissä";
 
 /* School services footer */
-"Information on school services and concession pricing is subject to availability." = "Information on school services and concession pricing is subject to availability.";
+"Information on school services and concession pricing is subject to availability." = "Tietoa koulu palveluja ja toimiluvan hinnoittelu riippuu saatavuudesta.";
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "ingogo a Taxi";
