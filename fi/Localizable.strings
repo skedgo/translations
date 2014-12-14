@@ -375,99 +375,99 @@
 "Information on school services and concession pricing is subject to availability." = "Tietoa koulu palveluja ja toimiluvan hinnoittelu riippuu saatavuudesta.";
 
 /* No comment provided by engineer. */
-"ingogo a Taxi" = "ingogo a Taxi";
+"ingogo a Taxi" = "ingogo Taksi";
 
 /* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "ingogo a Taxi ($5 credit^)";
+"ingogo a Taxi ($5 credit^)" = "ingogo Taksi ($5 luotto^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
-"Jump to today" = "Jump to today";
+"Jump to today" = "Tänään";
 
 /* Distance 'kilometers' */
 "Km" = "Km";
 
 /* Leave field title */
-"Leave " = "Leave ";
+"Leave " = "Lahde ";
 
 /* No comment provided by engineer. */
-"Leave now" = "Leave now";
+"Leave now" = "lähde nyt";
 
 /* Leave after button */
-"LeaveAfter" = "Leave at";
+"LeaveAfter" = "Lähde";
 
 /* Button title to switch view to list mode */
-"List" = "List";
+"List" = "Lista";
 
 /* list providers action */
-"List Taxi Numbers" = "List Taxi Numbers";
+"List Taxi Numbers" = "Lista Taksi Numerot";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
-"Location" = "Location";
+"Location" = "Sijainti";
 
 /* No comment provided by engineer. */
-"Location missing." = "Location missing.";
+"Location missing." = "Sijainti puuttuu.";
 
 /* Where are you going from? */
-"LocationComingFrom" = "Where are you going from?";
+"LocationComingFrom" = "Missä lähdet?";
 
 /* Where do you want to go? */
-"LocationWantToGo" = "Where do you want to go?";
+"LocationWantToGo" = "Minne menet?";
 
 /* No comment provided by engineer. */
-"Long press on the map to choose a location" = "Long press on the map to choose a location";
+"Long press on the map to choose a location" = "Pitkä painallus kartalla valitsemaan sijainnin";
 
 /* I once was lost but now I have found... TripGo */
-"LostOnce" = "I once was lost but now I have found... TripGo.";
+"LostOnce" = "Olin menettänyt, mutta nyt olen löytynyt.... TripGo.";
 
 /* Button title to switch agenda view to map mode
    Button title to switch to map
    Map preference */
-"Map" = "Map";
+"Map" = "Kartta";
 
 /* No comment provided by engineer. */
-"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Favourite locations give you quick trip solutions from wherever you are.";
+"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Suosikki sijainnit mahdollistavat nopean matkan ratkaisuja, missä tahansa oletkin.";
 
 /* No comment provided by engineer. */
-"Marking a transit stop as a favourite will allow quick access to its timetable." = "Marking a transit stop as a favourite will allow quick access to its timetable.";
+"Marking a transit stop as a favourite will allow quick access to its timetable." = "Merkintä välilasku suosikkina mahdollistaa nopean pääsyn sen aikatauluun.";
 
 /* Speed preference 'medium' */
-"Medium" = "Medium";
+"Medium" = "Keski";
 
 /* Distance 'miles' */
 "Mi" = "Mi";
 
 /* Minimum transfer time preference */
-"Min transfer time" = "Min transfer time";
+"Min transfer time" = "Minimi siirtoaika";
 
 /* Number of minutes */
-"Minutes" = "%.0f minutes";
+"Minutes" = "%.0f min";
 
 /* Reminder to leave preference */
-"Minutes before trip" = "Minutes before trip";
+"Minutes before trip" = "Minuuttia ennen matkaa";
 
 /* Number of minutes before departure */
-"MinutesBefore" = "%.0f minutes before";
+"MinutesBefore" = "%.0f min sitä ennen";
 
 /* More button accessibility label */
-"More" = "More";
+"More" = "Enemman";
 
 /* No comment provided by engineer. */
-"More Options" = "More Options";
+"More Options" = "Lisää vaihtoehtoja";
 
 /* User preferences title */
-"My Priorities" = "My Priorities";
+"My Priorities" = "Mun painopisteet";
 
 /* No comment provided by engineer. */
-"My Vehicles" = "My Vehicles";
+"My Vehicles" = "Mun ajoneuvot";
 
 /* Name of the vehicle */
-"NameVehicle" = "Name";
+"NameVehicle" = "Nimi";
 
 /* No comment provided by engineer. */
-"New Favourite" = "New Favourite";
+"New Favourite" = "Uusi suosikki";
 
 /* Title for unnamed new event */
-"NewEvent" = "New event";
+"NewEvent" = "Uusi tapahtuma";
 
 /* Action title for adding a habitual item away from some location */
 "NewItemAwayActionTitle" = "Stay at a different location";
