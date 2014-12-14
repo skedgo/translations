@@ -1,94 +1,94 @@
 ﻿/* Authorization restricted alert message */
-"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider.";
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Pääsy tähän ominaisuuteen on rajoitettu laitteesi. Tarkista Settings > Yleiset> Rajoitukset tai kysy laitteen toimittajalta.";
 
 /* Accessibility label for action button */
-"Action" = "Action";
+"Action" = "Toiminta";
 
 /* Indicator that an event is all-day */
-"all-day" = "all-day";
+"all-day" = "Koko päivä";
 
 /* Estimated time of arrival */
-"ArrivalTimeIndication" = " (arrive ";
+"ArrivalTimeIndication" = " (saapu ";
 
 /* Authorisation needed title */
-"Authorisation needed" = "Authorisation needed";
+"Authorisation needed" = "Lupa tarvitaan";
 
 /* Type of vehicle : bicycle */
-"Bicycle" = "Bicycle";
+"Bicycle" = "Polkupyörä";
 
 /* Cancel - for action sheets */
-"Cancel" = "Cancel";
+"Cancel" = "Peruuta";
 
 /* Type of vehicle : car */
-"Car" = "Car";
+"Car" = "Auto";
 
 /* Accessibility - user location button - hint */
-"Change tracking options" = "Change tracking options";
+"Change tracking options" = "Muuta seurantavaihtoehtoja";
 
 /* Accessibility title for a checkmark/tick button */
-"Checkmark" = "Checkmark";
+"Checkmark" = "Valintamerkki";
 
 /* Close action */
-"Close" = "Close";
+"Close" = "Sulje";
 
 /* Current location */
-"Current Location" = "Current Location";
+"Current Location" = "Nykyinen sijainti";
 
 /* to %date */
-"DateToFormat" = "to %@";
+"DateToFormat" = "%@:iin";
 
 /* Delete action */
-"Delete" = "Delete";
+"Delete" = "Poista";
 
 /* Estimated time of departure */
-"DepartureTimeIndication" = " (depart ";
+"DepartureTimeIndication" = " (lähde ";
 
 /* Sort by distance */
-"Distance" = "Distance";
+"Distance" = "Etäisyys";
 
 /* Drop new pin */
-"DropNewPin" = "Drop new pin";
+"DropNewPin" = "Pudota uusi pin";
 
 /* Short indicator of end-time */
-"ends at %@" = "ends at %@";
+"ends at %@" = "loppuu klo %@";
 
 /* Everyday in context of repetitions (especially recurring events) */
-"Everyday" = "Every day";
+"Everyday" = "Joka päivä";
 
 /* 'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'
    Every %day, e.g., 'Every Monday' */
-"EveryDayFormat" = "Every %@";
+"EveryDayFormat" = "Joka %@";
 
 /* Free as in beer */
-"Free" = "Free";
+"Free" = "Ilmaista";
 
 /* No comment provided by engineer. */
-"Getting a lift" = "Getting a lift";
+"Getting a lift" = "Saaen kyydin";
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "Has reminder";
+"Has reminder" = "On muistutus";
 
 /* Location picker include contacts. */
-"Include contacts" = "Include contacts";
+"Include contacts" = "Sisällytä yhteystiedot";
 
 /* Location picker include events. */
-"Include events" = "Include events";
+"Include events" = "Sisällytä tapahtumat";
 
 /* Instant results proposal */
-"Instant results" = "Instant results";
+"Instant results" = "Tuloksia heti";
 
 /* Location name
    Title for location search screen */
-"Location" = "Location";
+"Location" = "Sijainti";
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Sijainti palveluja tarvitaan käyttää tätä ominaisuutta. Mene Settings> Tietosuoja> Location Services, varmista, että ne ovat päällä ja valtuuttaa tämän appin.";
 
 /* ex: 1min */
 "Min==1" = "1min";
 
 /* ex: 17mins */
-"Min!=1" = "%ldmins";
+"Min!=1" = "%ldmin";
 
 /* ex: 1.5h */
 "Min>=60%30==0" = "%.1fh";
@@ -100,31 +100,31 @@
 "Min>=60%60==1" = "%ldh 1min";
 
 /* ex: 1h 17 mins */
-"Min>=60%60!=1" = "%ldh %ldmins";
+"Min>=60%60!=1" = "%ldh %ldmin";
 
 /* ex: 1 minute */
-"Minute" = "1 minute";
+"Minute" = "1 minuuttia";
 
 /* ex: 17 minutes */
-"Minutes!=1" = "%ld minutes";
+"Minutes!=1" = "%ld minuuttia";
 
 /* ex: 1 Min */
 "Minutes<89==1" = "1 Min";
 
 /* ex: 17 Mins */
-"Minutes<89!=1" = "%ld Mins";
+"Minutes<89!=1" = "%ld Min";
 
 /* ex: 2.5 Hours" */
-"Minutes>119%30==0" = "%.1f hours";
+"Minutes>119%30==0" = "%.1f tuntia";
 
 /* ex: 2 Hours */
-"Minutes>119%60==0" = "%.0f hours";
+"Minutes>119%60==0" = "%.0f tuntia";
 
 /* ex: 2 Hours 1 minute */
-"Minutes>119%60==1" = "%ld hours 1 minute";
+"Minutes>119%60==1" = "%ld tuntia 1 minuutti";
 
 /* ex: 2 Hours 17 minutes */
-"Minutes>119%60!=1" = "%ld hours %ld minutes";
+"Minutes>119%60!=1" = "%ld tuntia %ld minuuttia";
 
 /* ex: 2h */
 "Minutes>140%2==0" = "%ldh";
@@ -133,117 +133,117 @@
 "Minutes>140%2!=0" = "%.1fh";
 
 /* ex: 2 Hours */
-"Minutes>89%2==0" = "%ld Hours";
+"Minutes>89%2==0" = "%ld Tuntia";
 
 /* ex: 2.3 Hours */
-"Minutes>89%2!=0" = "%.1f Hours";
+"Minutes>89%2!=0" = "%.1f Tuntia";
 
 /* ex: 1.5 Hour */
-"Minutes>=60%30==0" = "%.1f hour";
+"Minutes>=60%30==0" = "%.1f tuntia";
 
 /* ex: 1 Hour */
-"Minutes>=60%60==0" = "%.0f hour";
+"Minutes>=60%60==0" = "%.0f tuntia";
 
 /* ex: 1 Hour 1 minute */
-"Minutes>=60%60==1" = "%ld hour 1 minute";
+"Minutes>=60%60==1" = "%ld tunti 1 minuuttia";
 
 /* ex: 1 Hour 17 minutes */
-"Minutes>=60%60!=1" = "%ld hour %ld minutes";
+"Minutes>=60%60!=1" = "%ld tunti %ld minuuttia";
 
 /* More results proposal */
-"More results" = "More results";
+"More results" = "Lisää tuloksia";
 
 /* Type of vehicle : motorbike */
-"Motorbike" = "Motorbike";
+"Motorbike" = "Moottoripyörä";
 
 /* Sort by name */
-"Name" = "Name";
+"Name" = "Nimi";
 
 /* Never in context of repetitions (especially recurring events) */
-"Never" = "Never";
+"Never" = "Ei koskaan";
 
 /* No comment provided by engineer. */
-"No CO₂" = "No CO₂";
+"No CO₂" = "Ei CO₂";
 
 /* Countdown cell 'now' indicator */
-"Now" = "Now";
+"Now" = "Nyt";
 
 /* Number of repeats */
-"NumberReccurences" = "%lu recurrences.";
+"NumberReccurences" = "%lu kertaa.";
 
 /* Authorisation ok button
    Error alert cancel */
 "OK" = "OK";
 
 /* Please select a location prompt */
-"Please select a location" = "Please select a location";
+"Please select a location" = "Valitse sijainti";
 
 /* Please verify the location prompt */
-"Please verify the location" = "Please verify the location";
+"Please verify the location" = "Tarkista sijainti";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
-"Press 'search' for more..." = "Press 'search' for more...";
+"Press 'search' for more..." = "Paina 'Etsi' saamaan lisää...";
 
 /* Repeats daily */
-"Repeats daily" = "Repeats daily";
+"Repeats daily" = "Toistuu päivittäin";
 
 /* Repeats monthly */
-"Repeats monthly" = "Repeats monthly";
+"Repeats monthly" = "Toistaa kuukausittain";
 
 /* Repeats weekly */
-"Repeats weekly" = "Repeats weekly";
+"Repeats weekly" = "Toistaa viikoittain";
 
 /* Repeats yearly */
-"Repeats yearly" = "Repeats yearly";
+"Repeats yearly" = "Toistaa vuosittain";
 
 /* Sort by overall score, like a ranking. */
-"Score" = "Score";
+"Score" = "Pisteet";
 
 /* Empty search bar placeholder */
-"Search" = "Search";
+"Search" = "Etsi";
 
 /* No comment provided by engineer. */
-"Search Results" = "Search Results";
+"Search Results" = "Tuloksia";
 
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
 
 /* Tap to set location */
-"SetLocation" = "Tap to set location";
+"SetLocation" = "Napauta asettaamaan sijainti";
 
 /* Error alert title */
-"Sorry" = "Sorry";
+"Sorry" = "Anteeksi";
 
 /* Short indicator of start-time */
-"starts at %@" = "starts at %@";
+"starts at %@" = "Alkaa klo %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "SUV";
 
 /* Accessibility - user location button - off */
-"Tracking - off" = "Tracking - off";
+"Tracking - off" = "Seuranta - pois";
 
 /* user location button - follow */
-"Tracking - on" = "Tracking - on";
+"Tracking - on" = "Seuranta - päällä";
 
 /* user location button - follow with heading */
-"Tracking - on with heading" = "Tracking - on with heading";
+"Tracking - on with heading" = "Seuranta - päällä (sis. suunto)";
 
 /* No comment provided by engineer. */
-"We were unable to find a location with that name." = "We were unable to find a location with that name.";
+"We were unable to find a location with that name." = "Emme voineet löytää paikkaan tällä nimellä.";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn kalenteriisi. Mene Settings> Tietosuoja> Kalenteri ja valtuuttaa tämän appin käyttää tätä ominaisuutta.";
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature.";
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn yhteystietoihin. Mene Settings> Tietosuoja> Yhteystiedot ja valtuuttaa tämän appin käyttää tätä ominaisuutta.";
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
 "{Name}'s" = "%@'s";
 
 /* No comment provided by engineer. */
-"{Name}'s Home" = "%@'s Home";
+"{Name}'s Home" = "%@'s Koti";
 
 /* No comment provided by engineer. */
-"{Name}'s Work" = "%@'s Work";
+"{Name}'s Work" = "%@'s Työpaikka";
 
