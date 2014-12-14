@@ -45,7 +45,7 @@
 "AirlineFlightNumber" = "%@ lento %@";
 
 /* Flight from a city to an other one */
-"AirlineFromTo" = "%@ (%@):sta %@ (%@):iin";
+"AirlineFromTo" = "%@ (%@):stä %@ (%@):iin";
 
 /* No comment provided by engineer. */
 "Alert" = "hälytys";
@@ -175,10 +175,10 @@
 "Cycle speed" = "polkupyörän nopeus";
 
 /* From %date */
-"DateFromFormat" = "%@:sta";
+"DateFromFormat" = "%@:stä";
 
 /* From %date1 to %date2 */
-"DateFromToFormat" = "%@:sta to %@:iin";
+"DateFromToFormat" = "%@:stä to %@:iin";
 
 /* Departure date+time for overnight stay
    Departure time sorter title */
@@ -316,7 +316,7 @@
 "From current location" = "Nykyisestä sijainnista";
 
 /* Location for trip exported as event going from %location1 to %location2 */
-"FromToForEventLocationFormat" = "%@:sta to %@:iin";
+"FromToForEventLocationFormat" = "%@:stä to %@:iin";
 
 /* Header for list of vehicles garaged at this location */
 "Garaged Vehicles" = "Autotallitut ajoneuvot";
