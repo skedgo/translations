@@ -1,81 +1,81 @@
 # APP TITLE (255 Characters)
 
-TripGo: Calendar-aware trip planner with real-time transport suggestions.
+TripGo: Kalenteri-tietoinen reittiopas, reaaliaikaisen liikenteen ehdotuksilla.
 
 
 # SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
 
-- "Knows your schedule. Plans your moves."
-- "All your private and public transports." 
-- "Compare cost, time and carbon." 
-- "Real-time alerts for your trips."
-- "Personalized to your life"
+- "Tietää aikataulusi. Suunnittelee liikkumista."
+- "Kaikki yksityiset ja julkiset liikenteet." 
+- "Vertaa kustannuksia, aikaa ja hiiltä." 
+- "Reaaliaikainen hälytykset matkoillesi."
+- "Muokattu elämääsi."
 
 
 # DESCRIPTION
 
-What makes TripGo the best transport planner app?
+Mikä tekee TripGon parhaaksi reittiopas appiksi?
 
-TripGo is an all-in-one transport and map solution that integrates with your life and gives you the information you need, when you need it. 
+TripGo on all-in-one liikenteen ja kartta ratkaisu, joka integroituu elämääsi ja antaa sinulle tiedot, joita tarvitset, kun sitä tarvitset.
 
-Our award-winning app lets you travel smarter by connecting your calendar with real-time transport suggestions, providing you options for easy comparison.
+Palkittu sovellus avulla voit matkustaa älykkäämpi liittämällä kalenterin reaaliaikaisen liikenteen ehdotuksia, jotka tarjoavat sinulle vaihtoehtoja helpon vertailun.
 
-Tell TripGo your transport preferences; schedule; vehicles and frequent locations and it will provide you with a door-to-door trip planner to suit your lifestyle. 
+Kerro TripGo:lle teidän liikenteen mieltymykset; aikataulu; ajoneuvojen ja lempipaikoja ja se antaa sinulle ovelta ovelle reittiohjeet sopivaksi elämäntapa.
 
-Works across an increasing number of major cities in Australia, Canada, Europe, New Zealand, and United States.
-
-
-TRANSPORT MODES SUPPORTED:
-
-TripGo supports the following modes of transport:
-
-+ Public transport: buses, ferries, subways, trains, trams and more
-+ Taxi
-+ Shuttle services
-+ Car
-+ Car Sharing
-+ Motorbike
-+ Bicycle
-+ Bike Sharing
-+ Walking
-
-Not only do you get results for each of these but also combinations thereof.
+Toimii kaikkialla yhä enemmän suurissa kaupungeissa Australiassa, Kanadassa, Euroopassa, Uudessa-Seelannissa, ja Yhdysvalloissa.
 
 
-FEATURES:
+LIIKENNE Tuetut tilat:
 
-+ Automatic trips between home, work and events in your calendar
-+ Door-to-door options for easy comparison on price, time and environmental impact - including public transport, taxi and bike share.
-+ Real-time public transport information
-+ Public transport timetables
-+ Plans trips according to your transport preferences. 
-+ Get reminders for your upcoming planned trips so you always arrive at your events on time. 
-+ Public transport pricing
-+ Tolls and car park information
-+ Taxi fares
-+ Search for points of interest and businesses
-+ Open from Apple Maps
-+ Launch turn-by-turn navigation
-+ Universal for iPhone and iPad
-+ Australian-made
+TripGo tukee seuraavia liikennemuotojen:
+
++ Joukkoliikenne: bussit, lautat, metro, junat, raitiovaunut ja enemmän
++ Taksi
++ Shuttles
++ Auto
++ Auton jakaminen
++ Moottoripyörä
++ Polkupyörien
++ Kaupunkipyöräjärjestelmä
++ Käveleminen
+
+Saat tulokset kutakin näistä vaan myös niiden yhdistelmöistä.
 
 
-SUPPORTED CITIES:
-- Argentina: Bahia Blanca
+OMINAISUUDET:
+
++ Automaattisia matkoja kodin/työpaikan/tapahtumien välillä kalenterissa
++ Ovelta ovelle vaihtoehtoja - helposti vertaile hinnat, aikaa ja ympäristövaikutukset - kuten julkinen liikenne, taksi ja kaupunkipyöräjärjestelmät.
++ Reaaliaikainen joukkoliikenteen tiedot
++ Joukkoliikenteen aikatauluista
++ Suunnitelmat matkoja mukaan teidän liikenteen mieltymykset.
++ Saat muistutuksia tulevista suunniteltuista matkoista, joten voit aina saapua tapahtumiin ajoissa.
++ Joukkoliikenne hinnoittelu
++ Tietullejen ja parkkipaikkojen tiedot
++ Taksit
++ Etsi kiinnostavia kohteita ja yrityksiä
++ Avaa Apple Mapsista
++ Käynnistä turn-by-turn navigoinnin
++ Universal iPhone ja iPad
++ Australiassa tehty
+
+
+TUETTU kaupungit:
+- Argentiina: Bahia Blanca
 - Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
-- Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Kanada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chile: Santiago
-- England: London, Manchester
-- Finland: Helsinki [*]
-- France: Rennes, Toulouse
-- Germany: Berlin, Potsdam
-- Hungary: Budapest
-- Ireland: Dublin
-- Italy: Milan, Rome, Trentino
-- Mexico: Mexico City
-- Netherlands: Amsterdam [*], Rotterdam [*], Utrecht [*]
-- New Zealand: Auckland, Christchurch [*], Wellington
-- Spain: Madrid
-- USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- Englanti: Lontoo, Manchester
+- Suomessa: Helsinki [*]
+- Ranska: Rennes, Toulouse
+- Saksa: Berliini, Potsdam
+- Unkari: Budapest
+- Irlanti: Dublin
+- Italia: Milano, Rooma, Trentino
+- Meksiko: Mexico City
+- Alankomaat: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Uusi-Seelanti: Auckland, Christchurch [*], Wellington
+- Espanja: Madrid
+- USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*] , San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
 
-[*] including real-time data
+[*] Sisältää reaaliaikaista tietoa
