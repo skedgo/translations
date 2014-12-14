@@ -470,118 +470,118 @@
 "NewEvent" = "Uusi tapahtuma";
 
 /* Action title for adding a habitual item away from some location */
-"NewItemAwayActionTitle" = "Stay at a different location";
+"NewItemAwayActionTitle" = "Ole eri paikkassa";
 
 /* Action title for adding another habitual visit to a favourite */
-"NewItemHereActionTitle" = "Add when I'm here";
+"NewItemHereActionTitle" = "Lisää milloin olen tässä";
 
 /* Title for page for adding a new routine/stay at a specific location */
-"NewItemHereTitle" = "Agenda Item";
+"NewItemHereTitle" = "Agenda kohta";
 
 /* Title for page for adding a new routing/stay at a specific location */
-"NewStayTitle" = "New Stay";
+"NewStayTitle" = "Uusi paikka";
 
 /* Button title to complete this step and advance to next */
-"Next" = "Next";
+"Next" = "Seuraava";
 
 /* No comment provided by engineer. */
-"No 'From' location selected" = "No 'From' location selected";
+"No 'From' location selected" = "Ei 'sielta' sijainti valittu";
 
 /* No comment provided by engineer. */
-"No 'To' location selected" = "No 'To' location selected";
+"No 'To' location selected" = "Ei 'sinne' sijainti valittu";
 
 /* Error for when no calendar found. */
-"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "No calendar found. Please check your Calendar app and make sure you have a calendar configured.";
+"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "Ei kalenteri löytynyt. Tarkista kalenteri app ja varmista, että sulla on kalenterin määritetty.";
 
 /* No comment provided by engineer. */
-"No locations set" = "No locations set";
+"No locations set" = "Ei valittuja sijainteja";
 
 /* Countdown cell 'now' indicator */
-"Now" = "Now";
+"Now" = "Nyt";
 
 /* Title for route number %1 of %total, where %total > 1. */
-"NumberRouteFormat" = "Route %ld of %ld";
+"NumberRouteFormat" = "Reitti %ld %ld:stä";
 
 /* Results screen error ok button */
 "OK" = "OK";
 
 /* Option to delete only this event in a recurence */
-"Only This" = "Only This";
+"Only This" = "Vaan tämä";
 
 /* Open in Safari action */
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "Avaa Safarissa";
 
 /* No comment provided by engineer. */
-"Open Uber" = "Open Uber";
+"Open Uber" = "Avaa Uber";
 
 /* Button title to open URL */
-"Open URL" = "Open URL";
+"Open URL" = "Avaa URL";
 
 /* shuttle website action */
-"Open Website" = "Open Website";
+"Open Website" = "Avaa Website";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
-"Permission was granted. Please go back and try again." = "Permission was granted. Please go back and try again.";
+"Permission was granted. Please go back and try again." = "Lupa myönnettiin. Palaa takaisin ja yritä uudelleen.";
 
 /* No comment provided by engineer. */
-"Permissions" = "Permissions";
+"Permissions" = "Luvat";
 
 /* Timetable screen title */
-"Pick a Time" = "Pick a Time";
+"Pick a Time" = "Valitse Aika";
 
 /* Description of the pricing */
-"pricingDescription" = "Price";
+"pricingDescription" = "Hinta";
 
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
-"PrivateTimeToLeave" = "Time to leave! Your trip to %@ commences at %@";
+"PrivateTimeToLeave" = "Aika lähteä! Matkasi %@:iin alkaa klo %@";
 
 /* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = "Time to leave! Your %@ trip to %@ commences at %@";
+"PublicTimeToLeaveToFormat" = "Aika lähteä! Matkasi %@:iin alkaa klo %@";
 
 /* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "Your %@ trip on %@ to %@ commences at %@";
+"PublicTimeToLeaveToOnFormat" = "%@ matkasi klo %@ %@:iin alkaa klo %@";
 
 /* Rate us preference */
-"Rate TripGo" = "Rate TripGo";
+"Rate TripGo" = "Arvostele TripGo";
 
 /* Refining current location HUD notice */
-"Refining location" = "Refining location";
+"Refining location" = "Parantaen sijaintia";
 
 /* Added reminder notice */
-"Reminder added" = "Reminder added";
+"Reminder added" = "Muistutus lisätty";
 
 /* Removed reminder HUD notice */
-"Reminder removed" = "Reminder removed";
+"Reminder removed" = "Muistutus poistettu";
 
 /* Reminders title */
-"Reminders" = "Reminders";
+"Reminders" = "Muistutukset";
 
 /* Remove favourite activity title */
-"Remove Favourite" = "Remove Favourite";
+"Remove Favourite" = "Poista suosikki";
 
 /* Unsave trip action */
-"Remove from Agenda" = "Remove from Agenda";
+"Remove from Agenda" = "Poista Agendalta";
 
 /* Remove reminder activity title */
-"Remove Reminder" = "Remove Reminder";
+"Remove Reminder" = "Poista Muistutus";
 
 /* Remove from agenda HUD notice */
-"Removed from Agenda" = "Removed from Agenda";
+"Removed from Agenda" = "Poistettu Agendalta";
 
 /* Title for switch indicating if an event repeats or not */
-"Repeat does end" = "Repeat does end";
+"Repeat does end" = "Sarja loppuu";
 
 /* Report problem */
-"Report Problem" = "Report Problem";
+"Report Problem" = "Ilmoita Ongelma";
 
 /* Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event. */
-"Request..." = "Request...";
+"Request..." = "Pyydä...";
 
 /* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' not found.";
+"RequestErrorFormat" = "'%@' ei löytynyt.";
 
 /* segment membership required action */
-"Requires membership" = "Requires membership";
+"Requires membership" = "Vaatii jäsenyyttä";
 
 /* Reset button for my priorities
    Title of group of settings related to resetting settings */
@@ -594,167 +594,167 @@
 "Reset tutorial" = "Reset tutorial";
 
 /* No comment provided by engineer. */
-"Route" = "Route";
+"Route" = "Reitti";
 
 /* Title for options for routing to this location, options are: current location, <some previously selected location>. */
-"Route here" = "Route here";
+"Route here" = "Reitti tänne";
 
 /* Results screen title */
-"Routes" = "Routes";
+"Routes" = "Reitit";
 
 /* Map mode 'satellite' */
 "Satellite" = "Satellite";
 
 /* Price preference */
-"Save Money" = "Save Money";
+"Save Money" = "Säästä Rahaa";
 
 /* Time preference */
-"Save Time" = "Save Time";
+"Save Time" = "Säästä Aikaa";
 
 /* No comment provided by engineer. */
-"Search for a city" = "Search for a city";
+"Search for a city" = "Etsi kaupunki";
 
 /* Agenda onboarding: placeholder text for search bar for 'home'. */
-"Search for your home address" = "Search for your home address";
+"Search for your home address" = "Etsi kotiosoiteesi";
 
 /* Agenda onboarding: placeholder text for search bar for 'work'. */
-"Search for your work address" = "Search for your work address";
+"Search for your work address" = "Etsi työpaikaasi";
 
 /* Search tab bar name */
-"SearchButton" = "Search";
+"SearchButton" = "Etsi";
 
 /* Details of a flight prompt to enter date first. */
-"Select a date to get flight details." = "Select a date to get flight details.";
+"Select a date to get flight details." = "Valitse päivämäärä saamaan lennon tiedot.";
 
 /* Walkthrough */
-"Select the place where you stay at the end of each day" = "Select the place where you stay at the end of each day.";
+"Select the place where you stay at the end of each day" = "Valitse paikka, jossa yövyt joka päivän lopussa.";
 
 /* No comment provided by engineer. */
-"Select Vehicle" = "Select Vehicle";
+"Select Vehicle" = "Valitse ajoneuvo";
 
 /* Action button title for composing an SMS to a real-time service */
-"Send Real-time SMS" = "Send Real-time SMS";
+"Send Real-time SMS" = "Lähetä Reaaliaikainen SMS";
 
 /* No comment provided by engineer. */
-"Set location..." = "Set location...";
+"Set location..." = "Aseta sijainti...";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "Asetukset";
 
 /* Settings tab bar name */
-"SettingsButton" = "Settings";
+"SettingsButton" = "Asetukset";
 
 /* Action button title for sharing when you arrive
    Share arrival */
-"Share Arrival" = "Share Arrival";
+"Share Arrival" = "Jaa saapumista";
 
 /* Share trip */
-"Share Trip" = "Share Trip";
+"Share Trip" = "Jaa matkaa";
 
 /* Button title on trips to show alternatives for it */
-"Show alternatives" = "Show alternatives";
+"Show alternatives" = "Näytä vaihtoehdot";
 
 /* No comment provided by engineer. */
-"Show booking options" = "Show booking options";
+"Show booking options" = "Näytä varaus vaihtoehtoja";
 
 /* No comment provided by engineer. */
-"Show details" = "Show details";
+"Show details" = "Näytä tiedot";
 
 /* Button to show disclaimers, e.g., info of public transport data. */
-"Show disclaimer" = "Show disclaimer";
+"Show disclaimer" = "Näytä vastuuvapauslauseke";
 
 /* No comment provided by engineer. */
-"Show info" = "Show info";
+"Show info" = "Näytä tiedot";
 
 /* Action button title for viewing timetable for public transport */
-"Show timetable" = "Show timetable";
+"Show timetable" = "Näytä aikataulua";
 
 /* Show trip */
-"ShowTrip" = "Show Trip";
+"ShowTrip" = "Näytä Matkaa";
 
 /* Button title to skip a certain step */
-"Skip" = "Skip";
+"Skip" = "Ohita";
 
 /* Speed preference 'slow' */
-"Slow" = "Slow";
+"Slow" = "Hidas";
 
 /* Results screen error title */
-"Sorry" = "Sorry";
+"Sorry" = "Anteeksi";
 
 /* No comment provided by engineer. */
-"Sorry. TripGo doesn't work here yet!" = "Sorry. TripGo doesn't work here yet!";
+"Sorry. TripGo doesn't work here yet!" = "Anteeksi. TripGo ei toimi täällä vielä!";
 
 /* Spread the word preference */
-"Spread the word" = "Spread the word";
+"Spread the word" = "Levitä sanaa";
 
 /* Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4) */
-"SrcToDstFormat" = "%@ (%@) to %@ (%@)";
+"SrcToDstFormat" = "%@ (%@):stä %@ (%@):iin";
 
 /* No comment provided by engineer. */
-"Start of Week" = "Start of Week";
+"Start of Week" = "Viikon alku";
 
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
-"Stay" = "Stay";
+"Stay" = "Yövy";
 
 /* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
-"StayEventDescription" = "Use for hotels while travelling, so that the Agenda starts and ends at the correct location.";
+"StayEventDescription" = "Käytä hotelleja matkoilla, jotta Agenda alkaa ja päättyy oikeaan paikkaan.";
 
 /* Title for identifying a location where you stay overnight */
-"StayTitle" = "Stay";
+"StayTitle" = "Yövy";
 
 /* Number of steps */
-"StepsNumber" = "%@ steps taken";
+"StepsNumber" = "%@ askelta";
 
 /* Map mode 'streets' */
-"Streets" = "Streets";
+"Streets" = "Kadut";
 
 /* Contact support error button */
-"Support" = "Support";
+"Support" = "Tuki";
 
 /* Walkthrough */
-"Swipe dates to navigate between weeks" = "Swipe dates to navigate between weeks.";
+"Swipe dates to navigate between weeks" = "Huitaisu paivoja navigoimaan välillä viikkoja";
 
 /* No comment provided by engineer. */
 "Tab Bar" = "Tab Bar";
 
 /* Walkthrough - should match translation for '\"Routes\"' */
-"Tap 'Routes' for alternative routes" = "Tap 'Routes' for alternative routes.";
+"Tap 'Routes' for alternative routes" = "Napauta "Reitit" näkemään vaihtoehtoisia reittejä.";
 
 /* Walkthrough */
-"Tap and hold title to jump directly to a specified date." = "Tap and hold title to jump directly to a specified date.";
+"Tap and hold title to jump directly to a specified date." = "Napauta ja pidä otsikko hypämään suoraan tiettyyn määräpäivään.";
 
 /* Walkthrough */
-"Tap public transport stops for access to timetable" = "Tap public transport stops for access to timetable.";
+"Tap public transport stops for access to timetable" = "Napauta joukkoliikenteen pysäkit pääsymään aikatauluihin.";
 
 /* Walkthrough */
-"Tap title to go to 'today'" = "Tap title to go to 'today'";
+"Tap title to go to 'today'" = "Napauta otsikko menemään 'tänään'";
 
 /* No comment provided by engineer. */
-"Tap to set garage" = "Tap to set garage";
+"Tap to set garage" = "Napauta asetamaan autotalli";
 
 /* No comment provided by engineer. */
-"Taxi Providers" = "Taxi Providers";
+"Taxi Providers" = "Taksi Hankkija";
 
 /* Description of the terminal */
 "terminalDescription" = "Terminal";
 
 /* Thank you HUD notice */
-"Thank you!" = "Thank you!";
+"Thank you!" = "Kiitos!";
 
 /* Results screen internal error message */
-"There was a problem on our side. We will investigate." = "There was a problem on our side. We will investigate.";
+"There was a problem on our side. We will investigate." = "Oli ongelma meidän puolellamme. Tutkimme.";
 
 /* Title for screen to pick your working hours */
-"Time at Work" = "Time at Work";
+"Time at Work" = "Aika työpaikalla";
 
 /* Timetable title */
-"Timetable" = "Timetable";
+"Timetable" = "Aikataulu";
 
 /* Title event name */
-"TitleEventName" = "Title";
+"TitleEventName" = "Otsikko";
 
 /* Title favourite name */
-"TitleFavouriteName" = "Title";
+"TitleFavouriteName" = "Otsikko";
 
 /* Title of settings for generic transport stuff */
 "Transport" = "Transport";
@@ -763,65 +763,65 @@
 "TransportGenius" = "TripGo - Transport genius";
 
 /* How do you want to go today? */
-"TransportModeWish" = "TripGo - How do you want to go today?";
+"TransportModeWish" = "TripGo - Miten haluat mennä tänään?";
 
 /* No comment provided by engineer. */
-"Trip" = "Trip";
+"Trip" = "Matka";
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo does not work in this area yet. Please navigate to one of our supported regions and try again.";
+"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo ei toimi tällä alalla vielä. Ole hyvä ja siirry yksi meidän tuettujen alueiden ja yritä uudelleen.";
 
 /* Trips tab bar name */
-"TripsButton" = "Trips";
+"TripsButton" = "Matkat";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutorial reset";
 
 /* Type of the event (calendar event, stay, routine) */
-"TypeEvent" = "Type";
+"TypeEvent" = "Tyyppi";
 
 /* Type of the vehicle */
-"TypeVehicle" = "Type";
+"TypeVehicle" = "Tyyppi";
 
 /* No comment provided by engineer. */
 "Uber" = "Uber";
 
 /* No comment provided by engineer. */
-"Verify location..." = "Verify location...";
+"Verify location..." = "Tarkista sijainti...";
 
 /* View alternative times for this trip */
-"View times" = "View times";
+"View times" = "Katso aikoja";
 
 /* Duration button */
-"ViewDurationButton" = "Duration";
+"ViewDurationButton" = "Kesto";
 
 /* Overall button */
-"ViewOverallButton" = "Preferred";
+"ViewOverallButton" = "Suositut";
 
 /* Price button */
-"ViewPriceButton" = "Price";
+"ViewPriceButton" = "Hinta";
 
 /* Walking speed preference */
-"Walk speed" = "Walk speed";
+"Walk speed" = "Kävely nopeus";
 
 /* Results screen no results error */
-"We didn't find any results for your query." = "We didn't find any results for your query.";
+"We didn't find any results for your query." = "Emme löytäneet tuloksia kyselyysi.";
 
-/* Header for staying away form home, i.e., when a user is NOT at their home */
-"WhenIAmAwayHeader" = "Stays";
+/* Header for staying away from home, i.e., when a user is NOT at their home */
+"WhenIAmAwayHeader" = "Yöpyy";
 
 /* Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
-"Which would you like to delete" = "Which would you like to delete";
+"Which would you like to delete" = "Minka haluaisit poistaa";
 
 /* Typical name that you'd give your work location */
-"Work" = "Work";
+"Work" = "Työ";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Zoom in";
 
 /* Walkthrough */
-"Zoom into map to view public transport stops" = "Zoom into map to view public transport stops.";
+"Zoom into map to view public transport stops" = "Zoomata karttaa nähdäkseesi joukkoliikenteen pysäkit.";
 
