@@ -70,7 +70,7 @@ VILLES COUVERTES :
 - Irlande : Dublin
 - Italie : Milan, Rome, Trentino, Turin
 - Mexique : Mexico City
-- Norway: Oslo, Stavanger
+- Norway : Oslo, Stavanger
 - Nouvelle-Zélande : Auckland, Christchurch [*], Wellington
 - Pays-Bas : Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Royaume-Uni : Londres, Manchester

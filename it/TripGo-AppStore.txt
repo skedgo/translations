@@ -59,6 +59,7 @@ CARATTERISTICHE:
 + Realizzato in Australia
 
 CITTÀ SUPPORTATI:
+
 - Argentina: Bahia Blanca
 - Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg

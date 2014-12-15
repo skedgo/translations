@@ -57,6 +57,7 @@ FUNCTIES:
 + Gemaakt in Australië met Nederlandse invloed
 
 ONDERSTEUNDE STEDEN:
+
 - Argentinië: Bahia Blanca
 - Australië: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmanië
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg

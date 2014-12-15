@@ -64,7 +64,7 @@ SUPPORTED CITIES:
 - Germany: Berlin, Potsdam
 - Hungary: Budapest
 - Ireland: Dublin
-- Italy: Milan, Rome, Turin, Trentino
+- Italy: Milan, Rome, Trentino, Turin
 - Mexico: Mexico City
 - Netherlands: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
 - New Zealand: Auckland, Christchurch [*], Wellington
