@@ -718,7 +718,7 @@
 "Tab Bar" = "Tab Bar";
 
 /* Walkthrough - should match translation for '\"Routes\"' */
-"Tap 'Routes' for alternative routes" = "Napauta "Reitit" näkemään vaihtoehtoisia reittejä.";
+"Tap 'Routes' for alternative routes" = "Napauta \"Reitit\" näkemään vaihtoehtoisia reittejä.";
 
 /* Walkthrough */
 "Tap and hold title to jump directly to a specified date." = "Napauta ja pidä otsikko hypämään suoraan tiettyyn määräpäivään.";
