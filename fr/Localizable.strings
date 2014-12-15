@@ -5,10 +5,10 @@
 " every " = " chaque ";
 
 /* No comment provided by engineer. */
-"Add address..." = "Add address..."; // TODO
+"Add address..." = "Ajouter une adresse...";
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Add another recurrence"; // TODO
+"Add another recurrence" = "Ajouter une autre récurrence";
 
 /* Add reminder activity title */
 "Add Reminder" = "Ajouter un rappel";
@@ -245,7 +245,7 @@
 "Every " =  "Chaque ";
 
 /* Text do mark an example */
-"Example" = "Example"; // TODO
+"Example" = "Exemple";
 
 /* Action title to exclude an event from routing
    Exclude event action */
@@ -452,7 +452,7 @@
 "More Options" = "Plus d'options";
 
 /* Sample event name ('Movie') */
-"Movie" = "Movie"; // TODO
+"Movie" = "Film";
 
 /* User preferences title */
 "My Priorities" = "Mes priorités";
@@ -557,7 +557,7 @@
 "Reminders" = "Rappels";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // TODO
+"Remove" = "Supprimer";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "Supprimer des favoris";
@@ -630,7 +630,7 @@
 "Select a date to get flight details." = "Choisir une date pour obtenir les détails.";
 
 /* Walkthrough */
-"Select the place where you stay at the end of each day" = "Sélectionnez l'endroit où vous serez à la fin de chaque journée";
+"Select the place where you stay at the end of each day" = "Sélectionnez le lieu où vous serez à la fin de chaque journée";
 
 /* No comment provided by engineer. */
 "Select Vehicle" = "Sélectionner un véhicule";
@@ -730,13 +730,13 @@
 "Tap title to go to 'today'" = "Cliquez sur le titre pour revenir à 'aujourd'hui'";
 
 /* No comment provided by engineer. */
-"Tap to confirm hours or swipe to delete" = "Tap to confirm hours or swipe to delete"; // TODO
+"Tap to confirm hours or swipe to delete" = "Appuyez pour confirmer les heures ou glissez pour supprimer";
 
 /* No comment provided by engineer. */
-"Tap to set address" = "Tap to set address"; // TODO
+"Tap to set address" = "Appuyez pour régler l'adresse";
 
 /* No comment provided by engineer. */
-"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete"; // TODO
+"Tap to set address or swipe to delete" = "Appuyez pour régler l'adresse ou glissez pour supprimer";
 
 /* No comment provided by engineer. */
 "Tap to set garage" = "Appuyez pour localiser un garage";
@@ -757,10 +757,10 @@
 "Time at Work" = "Temps passé au travail";
 
 /* Time zone (typically for an event) */
-"Time zone" = "Time zone"; // TODO
+"Time zone" = "Fuseau horaire";
 
 /* Header for times a user is typically at this location, e.g., working hours */
-"Times" = "Times"; // TODO
+"Times" = "Heures";
 
 /* Timetable title */
 "Timetable" = "Horaires";
@@ -787,7 +787,7 @@
 "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo ne couvre pas encore cette région du monde. Veuillez essayer à nouveau sur une région couverte par TripGo.";
 
 /* Trips tab bar name */
-"TripsButton" = "Trips"; // TODO
+"TripsButton" = "Voyages";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutoriel réinitialisé";
@@ -840,4 +840,3 @@
 
 /* Walkthrough */
 "Zoom into map to view public transport stops" = "Zoomez sur la carte pour que les stations de transport en commun s'affichent";
-
