@@ -172,7 +172,7 @@
 "OK" = "OK";
 
 /* Button to open Settings app section for this app */
-"Open Settings" = "Open Settings"; // TODO
+"Open Settings" = "Ouvrir Réglages";
 
 /* Please select a location prompt */
 "Please select a location" = "Veuillez sélectionner une adresse";
@@ -232,10 +232,10 @@
 "We were unable to find a location with that name." = "Impossible de trouver une adresse associée à ce nom.";
 
 /* Every weekday in context of repetitions (especially recurring events) */
-"Weekdays" = "Weekdays"; // TODO
+"Weekdays" = "Chaque jour de la semaine";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Weekends"; // TODO
+"Weekends" = "Chaque jour du week-end";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Vous avez préalablement refusé l'accès de cette application à votre calendrier. Veuillez autoriser l'accès dans Réglages > Confidentialité > Calendriers pour utiliser cette fonctionnalité.";
