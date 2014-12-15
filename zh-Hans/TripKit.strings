@@ -50,7 +50,7 @@
 /* Arrival Location */
 "PrimaryLocationEnd" = "目的地: %@";
 
-/* Departure Location */
+/* 'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park */
 "PrimaryLocationStart" = "出发地: %@";
 
 /* Location of the parking */
@@ -59,10 +59,10 @@
 /* No comment provided by engineer. */
 "Real-time" = "即时";
 
-/* No comment provided by engineer. */
+/* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
 "Shuttle" = "接驳车";
 
-/* Number of stops */
+/* Number of stops before you get off a vehicle */
 "Stops" = "%ld站";
 
 /* From %time1 to %time2 */
