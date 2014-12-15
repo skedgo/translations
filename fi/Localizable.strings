@@ -5,10 +5,10 @@
 " every " = " joka ";
 
 /* No comment provided by engineer. */
-"Add address..." = "Add address..."; // TODO
+"Add address..." = "Lisää osoite..."; 
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Add another recurrence"; // TODO
+"Add another recurrence" = "Lisää  vielä sarja"; 
 
 /* Add reminder activity title */
 "Add Reminder" = "Lisää Muistutus";
@@ -452,7 +452,7 @@
 "More Options" = "Lisää vaihtoehtoja";
 
 /* Sample event name ('Movie') */
-"Movie" = "Movie"; // TODO
+"Movie" = "Elokuva";
 
 /* User preferences title */
 "My Priorities" = "Mun painopisteet";
