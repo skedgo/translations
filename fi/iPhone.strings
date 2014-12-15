@@ -1,6 +1,6 @@
 
-/* Class = "IBUITabBarItem"; title = "Search"; ObjectID = "3d9-Hg-2Fe"; */
-"3d9-Hg-2Fe.title" = "Etsi";
+/* Class = "IBUITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe"; */
+"3d9-Hg-2Fe.title" = "Trips"; // TODO
 
 /* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
 "5WK-au-VFq.title" = "Asetukset";
@@ -22,15 +22,6 @@
 
 /* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "TYM-9i-XBA"; */
 "TYM-9i-XBA.title" = "Asetukset";
-
-/* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "ayF-Zr-HVM"; */
-"ayF-Zr-HVM.text" = "Agenda automaattisesti suunnittelee matkoja kodin, työpaikan ja tapahtumien välillä kalenteriin.";
-
-/* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "egT-4w-rf0"; */
-"egT-4w-rf0.normalTitle" = "Perusta Agendasi";
-
-/* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "hZa-ep-5Uu"; */
-"hZa-ep-5Uu.title" = "Agenda";
 
 /* Class = "IBUITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
 "ye4-ch-zSe.title" = "Suosikit";

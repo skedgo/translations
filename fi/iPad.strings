@@ -1,10 +1,4 @@
 
-/* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "1dD-nX-UbO"; */
-"1dD-nX-UbO.text" = "Agenda automaattisesti suunnittelee matkoja kodin, työpaikan ja tapahtumien välillä kalenteriin.";
-
-/* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "5XA-VY-lvO"; */
-"5XA-VY-lvO.normalTitle" = "Perusta Agendasi";
-
 /* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "A61-q2-DtW"; */
 "A61-q2-DtW.title" = "Reitit";
 
@@ -19,9 +13,6 @@
 
 /* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "Zm3-OW-yUo"; */
 "Zm3-OW-yUo.title" = "Aikataulu";
-
-/* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "wgq-Og-y2a"; */
-"wgq-Og-y2a.title" = "Agenda";
 
 /* Class = "IBUINavigationItem"; title = "Search"; ObjectID = "zLA-pv-5AY"; */
 "zLA-pv-5AY.title" = "Etsi";
