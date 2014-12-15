@@ -61,21 +61,23 @@ OMINAISUUDET:
 
 
 TUETTU kaupungit:
+- Alankomaat: Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Argentiina: Bahia Blanca
-- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
-- Kanada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*]
 - Chile: Santiago
 - Englanti: Lontoo, Manchester
-- Suomessa: Helsinki [*]
-- Ranska: Rennes, Toulouse
-- Saksa: Berliini, Potsdam
-- Unkari: Budapest
-- Irlanti: Dublin
-- Italia: Milano, Rooma, Trentino
-- Meksiko: Mexico City
-- Alankomaat: Amsterdam [*], Rotterdam [*], Utrecht [*]
-- Uusi-Seelanti: Auckland, Christchurch [*], Wellington
 - Espanja: Madrid
-- USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*] , San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- Irlanti: Dublin
+- Italia: Milano, Rooma, Trentino, Turin
+- Kanada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Meksiko: Mexico City
+- Norway: Oslo, Stavanger
+- Ranska: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
+- Saksa: Berliini, Potsdam
+- Suomessa: Helsinki [*]
+- Unkari: Budapest
+- Uusi-Seelanti: Auckland, Christchurch [*], Wellington
+- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
+- Vietnam: Ho Chi Minh City
 
 [*] Sisältää reaaliaikaista tietoa

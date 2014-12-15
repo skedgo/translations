@@ -67,11 +67,13 @@ ONDERSTEUNDE STEDEN:
 - Frankrijk: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
 - Hungarije: Boedapest
 - Ierland: Dublin
-- Italië: Milaan, Rome, Trentino
+- Italië: Milaan, Rome, Trentino, Turin
 - Mexico: Mexico City
 - Nederland: Amsterdam [*], Den Haag [*], Rotterdam [*], Utrecht [*]
 - Nieuw Zeeland: Auckland, Christchurch [*], Wellington
+- Norway: Oslo, Stavanger
 - Spanje: Madrid
-- USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
+- Vietnam: Ho Chi Minh City
 
 [*] Heeft real-time data

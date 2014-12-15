@@ -63,19 +63,21 @@ CIUDADES SOPORTADAS:
 
 - Alemania: Berlin, Potsdam
 - Argentina: Bahía Blanca
-- Australia: Adelaida, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
+- Australia: Adelaida, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*]
 - Canadá: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chile: Santiago
 - España: Madrid
-- Estados Unidos: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, Nueva York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- Estados Unidos: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
 - Finlandia: Helsinki [*]
 - Francia: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
 - Holanda: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
 - Hungría: Budapest
 - Irlanda: Dublín
-- Italia: Milán, Roma, Trentino
+- Italia: Milán, Roma, Trentino, Turin
 - México: Ciudad de México
+- Norway: Oslo, Stavanger
 - Nueva Zelanda: Auckland, Christchurch [*], Wellington
 - Reino Unido: Londres, Mánchester
+- Vietnam: Ho Chi Minh City
 
 [*] incluye información en tiempo real
