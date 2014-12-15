@@ -1,18 +1,18 @@
 
 /* Class = "IBUIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30"; */
-"30.accessibilityLabel" = "Swap from and to";
+"30.accessibilityLabel" = "Vaihda alkuperä ja määränpää";
 
 /* Class = "IBUIButton"; normalTitle = "Time"; ObjectID = "44"; */
-"44.normalTitle" = "Time";
+"44.normalTitle" = "Aika";
 
 /* Class = "IBUIButton"; accessibilityLabel = "Route"; ObjectID = "57"; */
-"57.accessibilityLabel" = "Route";
+"57.accessibilityLabel" = "Reitti";
 
 /* Class = "IBUIButton"; normalTitle = "Route"; ObjectID = "57"; */
-"57.normalTitle" = "Route";
+"57.normalTitle" = "Reitti";
 
 /* Class = "IBUIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo"; */
-"JFm-H4-fOo.accessibilityLabel" = "To Location";
+"JFm-H4-fOo.accessibilityLabel" = "Määränpää";
 
 /* Class = "IBUIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL"; */
-"bs1-li-naL.accessibilityLabel" = "From Location";
+"bs1-li-naL.accessibilityLabel" = "Alkuperä";

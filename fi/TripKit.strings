@@ -1,82 +1,82 @@
 ﻿/* No comment provided by engineer. */
-"1 stop" = "1 stop";
+"1 stop" = "1 pysäkki";
 
 /* Indication of an activity */
-"ActivityIndication" = "I'll take a %@ at %@ from %@.";
+"ActivityIndication" = "Vien %@ klo %@ %@:stä.";
 
 /* Arrival time sorter title */
-"Arrival" = "Arrival";
+"Arrival" = "Saapumis";
 
 /* The place of arrival */
-"ArrivalLocation" = "Arrive at %@";
+"ArrivalLocation" = "Saavu klo %@";
 
 /* The place of arrival with time */
-"ArrivalLocationTime" = "Arrive at %@ at %@";
+"ArrivalLocationTime" = "Saavu %@:lla klo %@";
 
 /* Arrival %time.
    Time arrival */
-"ArrivalTime" = "Arrive at %@";
+"ArrivalTime" = "Ssavu klo %@";
 
 /* Single line instruction to arrive */
-"Arrive" = "Arrive";
+"Arrive" = "Saavu";
 
 /* Departure time sorter title */
-"Departure" = "Departure";
+"Departure" = "Lähtö";
 
 /* Time of the bus departure */
-"DepartureTime" = " at %@";
+"DepartureTime" = " klo %@";
 
 /* Destination of the bus */
-"Direction" = "Direction: %@";
+"Direction" = "Suunta: %@";
 
 /* Walking time */
-"Duration" = " for %@";
+"Duration" = " %@";
 
 /* Single line instruction to leave */
-"Leave" = "Leave";
+"Leave" = "Lähde";
 
 /* The place of departure */
-"LeaveLocation" = "Leave %@";
+"LeaveLocation" = "Lähde %@:stä";
 
 /* The place of departure with time */
-"LeaveLocationTime" = "Leave %@ at %@";
+"LeaveLocationTime" = "Lähde %@:stä klo %@";
 
 /* Time departure */
-"LeaveTime" = "Leave at %@";
+"LeaveTime" = "Lähde klo %@";
 
 /* ArrivalTime */
-"MessageArrivalTime" = "I'll arrive at %@ at %@.";
+"MessageArrivalTime" = "Saavun %@:iin klo %@.";
 
 /* Arrival Location */
-"PrimaryLocationEnd" = "To %@";
+"PrimaryLocationEnd" = "%@:iin";
 
 /* Departure Location */
-"PrimaryLocationStart" = "From %@";
+"PrimaryLocationStart" = "%@:stä";
 
 /* 'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park */
-"PrimaryLocationStationary" = "At %@";
+"PrimaryLocationStationary" = "%@:ssä";
 
 /* No comment provided by engineer. */
-"Real-time" = "Real-time";
+"Real-time" = "Reaaliaikai";
 
 /* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
 "Shuttle" = "Shuttle";
 
 /* Number of stops before you get off a vehicle */
-"Stops" = "%ld stops";
+"Stops" = "%ld  pysäkkiä";
 
 /* From %time1 to %time2 */
-"TimeFromToShortFormat" = "%@ to %@";
+"TimeFromToShortFormat" = "%@ - %@";
 
 /* Time to leave! */
-"TimeToLeaveFrom" = "Time to leave! Your %@ trip on %@ from %@ commences at %@";
+"TimeToLeaveFrom" = "Aika lähteä! Sun %@ matka (%@) %@:stä alkaa klo %@";
 
 /* Time to leave! */
-"TimeToLeaveTo" = "Time to leave! Your %@ trip to %@ commences at %@";
+"TimeToLeaveTo" = "Aika lähteä! Sun %@ matka %@:iin alkaa klo %@";
 
 /* Vehicle 'x' updated */
-"VehicleCalledUpdated" = "Vehicle %@ updated %@ ago";
+"VehicleCalledUpdated" = "Ajoneuvo %@ päivitty %@ sitten";
 
 /* Vehicle updated */
-"VehicleUpdated" = "Updated %@ ago";
+"VehicleUpdated" = "Päivitty %@ sitten";
 
