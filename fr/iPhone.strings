@@ -1,6 +1,6 @@
 
 /* Class = "IBUITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe"; */
-"3d9-Hg-2Fe.title" = "Trips"; // TODO
+"3d9-Hg-2Fe.title" = "Voyages";
 
 /* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
 "5WK-au-VFq.title" = "Réglages";
@@ -15,7 +15,7 @@
 "KGR-eg-uwA.title" = "Favoris";
 
 /* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
-"QTR-Ae-g7f.title" = "Trajet";
+"QTR-Ae-g7f.title" = "Voyage";
 
 /* Class = "IBUITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
 "TNA-bx-79H.title" = "Agenda";
