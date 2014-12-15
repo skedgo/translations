@@ -557,7 +557,7 @@
 "Reminders" = "Muistutukset";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // TODO
+"Remove" = "Poista"; 
 
 /* Remove favourite activity title */
 "Remove Favourite" = "Poista suosikki";
