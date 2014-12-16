@@ -5,13 +5,13 @@
 " every " = " 每 ";
 
 /* No comment provided by engineer. */
-"Add address..." = "Add address..."; // TODO
+"Add address..." = "新增地址...";
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Add another recurrence"; // TODO
+"Add another recurrence" = "新增另一個重複事件";
 
 /* Add reminder activity title */
-"Add Reminder" = "加提醒提示";
+"Add Reminder" = "新增提醒提示";
 
 /* Save trip action */
 "Add to Agenda" = "加到行程";
@@ -245,7 +245,7 @@
 "Every " = "每 ";
 
 /* Text do mark an example */
-"Example" = "Example"; // TODO
+"Example" = "范例";
 
 /* Action title to exclude an event from routing
    Exclude event action */
@@ -452,7 +452,7 @@
 "More Options" = "更多选项";
 
 /* Sample event name ('Movie') */
-"Movie" = "Movie"; // TODO
+"Movie" = "影片";
 
 /* User preferences title */
 "My Priorities" = "重要性";
@@ -557,7 +557,7 @@
 "Reminders" = "事件提醒";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // TODO
+"Remove" = "移除";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "删除常用";
@@ -730,13 +730,13 @@
 "Tap title to go to 'today'" = "点选页面标题可立即转换到今日";
 
 /* No comment provided by engineer. */
-"Tap to confirm hours or swipe to delete" = "Tap to confirm hours or swipe to delete"; // TODO
+"Tap to confirm hours or swipe to delete" = "轻触确认时间或滑动删除";
 
 /* No comment provided by engineer. */
-"Tap to set address" = "Tap to set address"; // TODO
+"Tap to set address" = "轻触设置地址";
 
 /* No comment provided by engineer. */
-"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete"; // TODO
+"Tap to set address or swipe to delete" = "轻触设置地址或滑动删除";
 
 /* No comment provided by engineer. */
 "Tap to set garage" = "按此来设定车库";
@@ -757,10 +757,10 @@
 "Time at Work" = "上班时间";
 
 /* Time zone (typically for an event) */
-"Time zone" = "Time zone"; // TODO
+"Time zone" = "时区";
 
 /* Header for times a user is typically at this location, e.g., working hours */
-"Times" = "Times"; // TODO
+"Times" = "时间";
 
 /* Timetable title */
 "Timetable" = "时刻表";
@@ -787,7 +787,7 @@
 "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo目前不覆盖此地区．请到我们覆盖的其中一个地区并再试一次";
 
 /* Trips tab bar name */
-"TripsButton" = "Trips"; // TODO
+"TripsButton" = "旅程";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "已重置教学";
