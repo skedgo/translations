@@ -5,10 +5,10 @@
 " every " = " ogni ";
 
 /* No comment provided by engineer. */
-"Add address..." = "Aggiungi indirizzo..."; // TODO
+"Add address..." = "Aggiungi indirizzo...";
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Aggiungi un'altra recidiva"; // TODO
+"Add another recurrence" = "Aggiungi un'altra recidiva";
 
 /* Add reminder activity title */
 "Add Reminder" = "Aggiungi avviso";
