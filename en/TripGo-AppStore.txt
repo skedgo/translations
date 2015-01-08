@@ -42,8 +42,8 @@ FEATURES:
 
 + Door-to-door options for easy comparison on price, time and environmental impact
 + Automatic trips between home, work and events in your calendar
++ Real-time driving times for Sydney
 + Real-time transit information
-+ Real-time driving times
 + Public transport schedules/timetables
 + Plan trips according to your preferences.
 + Get reminders for your upcoming trips—always arrive at your events on time.
