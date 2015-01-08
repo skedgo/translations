@@ -14,20 +14,16 @@ TripGo: Calendar-integrated Directions for Train, Bus, Subway, Tram, Bicycle, Ta
 
 # DESCRIPTION
 
-What makes TripGo the best transport planner app?
+Get directions from A to B and choose the fastest route based on real-time data.
 
-TripGo is an all-in-one transport and map solution that integrates with your life and gives you the information you need, when you need it. 
+Plan your trip, check timetables and get live service alerts. Connect your calendar to get automatic trips & leave alerts.
 
-Our award-winning app lets you travel smarter by connecting your calendar with real-time transport suggestions, providing you options for easy comparison.
+Time poor? Money poor? Environment focused? TripGo gives you transport solutions that fit your priorities.
 
-Tell TripGo your transport preferences; schedule; vehicles and frequent locations and it will provide you with a door-to-door trip planner to suit your lifestyle. 
-
-Works across an increasing number of major cities in Australia, Canada, Europe, New Zealand, and United States.
+Works in major cities across the US, Canada, Europe & Australia.
 
 
-TRANSPORT MODES SUPPORTED:
-
-TripGo supports the following modes of transport:
+TRANSPORT MODES:
 
 + Public transport: buses, ferries, subways, trains, trams and more
 + Taxi
@@ -39,31 +35,27 @@ TripGo supports the following modes of transport:
 + Bike Sharing
 + Walking
 
-Not only do you get results for each of these but also combinations thereof.
+You'll get results for each of those, and also combinations thereof!
 
 
 FEATURES:
 
++ Door-to-door options for easy comparison on price, time and environmental impact
 + Automatic trips between home, work and events in your calendar
-+ Door-to-door options for easy comparison on price, time and environmental impact - including public transport, taxi and bike share.
-+ Real-time public transport information
-+ Public transport timetables
-+ Plans trips according to your transport preferences. 
-+ Get reminders for your upcoming planned trips so you always arrive at your events on time. 
-+ Public transport pricing
-+ Tolls and car park information
-+ Taxi fares
++ Real-time transit information
++ Public transport schedules/timetables
++ Plan trips according to your preferences.
++ Get reminders for your upcoming trips—always arrive at your events on time.
++ Pricing for public transport, taxis, tolls and car parks
 + Search for points of interest and businesses
 + Open from Apple Maps
 + Launch turn-by-turn navigation
-+ Universal for iPhone and iPad
-+ Australian-made
 
 
 SUPPORTED CITIES:
 
 - Argentina: Bahia Blanca
-- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
+- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*]
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chile: Santiago
 - England: London, Manchester
@@ -72,11 +64,13 @@ SUPPORTED CITIES:
 - Germany: Berlin, Potsdam
 - Hungary: Budapest
 - Ireland: Dublin
-- Italy: Milan, Rome, Trentino
+- Italy: Milan, Rome, Trentino, Turin
 - Mexico: Mexico City
 - Netherlands: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
 - New Zealand: Auckland, Christchurch [*], Wellington
+- Norway: Oslo, Stavanger
 - Spain: Madrid
-- USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
+- Vietnam: Ho Chi Minh City
 
 [*] including real-time data

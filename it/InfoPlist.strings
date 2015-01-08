@@ -1,5 +1,5 @@
-NSCalendarsUsageDescription = "Get automated trips from and to events in your calendar, and search your calendar for events.";
+NSCalendarsUsageDescription = "Organizzare automaticamente i viaggi da e verso eventi nel tuo calendario, e cerca il tuo calendario per gli eventi.";
 
-NSContactsUsageDescription = "Search your contacts for locations.";
+NSContactsUsageDescription = "Per cercare i tuoi contatti.";
 
-NSLocationUsageDescription = "Search from or to your current location. Locate yourself on the map.";
+NSLocationUsageDescription = "Per i percorsi da o verso la posizione corrente è per localizzarti sulla mappa.";

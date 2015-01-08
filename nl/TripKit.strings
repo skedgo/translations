@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "1 stop" = "1 station";
 
 /* Indication of an activity */
@@ -67,12 +67,6 @@
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ tot %@";
-
-/* Time to leave! */
-"TimeToLeaveFrom" = "Tijd om te vertrekken! Uw %@ reis %@ vanuit %@ vertrekt om %@";
-
-/* Time to leave! */
-"TimeToLeaveTo" = "Tijd om te vertrekken! Uw %@ reis naar %@ vetrekt om %@";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Voertuig %@ bijgewerkt %@ geleden";

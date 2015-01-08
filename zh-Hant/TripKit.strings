@@ -1,76 +1,76 @@
 /* No comment provided by engineer. */
-"1 stop" = "1 parada";
+"1 stop" = "1站";
 
 /* Indication of an activity */
-"ActivityIndication" = "Voy a tomar un %@ a las %@ desde %@.";
+"ActivityIndication" = "我將於%2$@從%3$@搭乘%1$@.";
 
 /* Arrival time sorter title */
-"Arrival" = "Llegada";
+"Arrival" = "到達";
 
 /* The place of arrival */
-"ArrivalLocation" = "Llegada a %@";
+"ArrivalLocation" = "到達%@";
 
 /* The place of arrival with time */
-"ArrivalLocationTime" = "Llegada a %@ a las %@";
+"ArrivalLocationTime" = "在%2$@到達%1$@";
 
 /* Arrival %time.
-   Time arrival */
-"ArrivalTime" = "Llegada a las %@";
+ Time arrival */
+"ArrivalTime" = "在%@到達";
 
 /* Single line instruction to arrive */
-"Arrive" = "Llegada";
+"Arrive" = "到達";
 
 /* Departure time sorter title */
-"Departure" = "Partida";
+"Departure" = "離站";
 
 /* Time of the bus departure */
-"DepartureTime" = " a las %@";
+"DepartureTime" = " 於%@";
 
 /* Destination of the bus */
-"Direction" = "Dirección: %@";
+"Direction" = "方向: %@";
 
 /* Walking time */
-"Duration" = " por %@";
+"Duration" = " %@";
 
 /* Single line instruction to leave */
-"Leave" = "Partida";
+"Leave" = "出發";
 
 /* The place of departure */
-"LeaveLocation" = "Salir de %@";
+"LeaveLocation" = "離開%@";
 
 /* The place of departure with time */
-"LeaveLocationTime" = "Salir de %@ a las %@";
+"LeaveLocationTime" = "在%2$@離開%1$@";
 
 /* Time departure */
-"LeaveTime" = "Salir a las %@";
+"LeaveTime" = "於%@離開";
 
 /* ArrivalTime */
-"MessageArrivalTime" = "Voy a llegar a %@ a las %@.";
+"MessageArrivalTime" = "我將於%2$@到達%1$@.";
 
 /* Arrival Location */
-"PrimaryLocationEnd" = "Hacia %@";
+"PrimaryLocationEnd" = "目的地: %@";
 
 /* Departure Location */
-"PrimaryLocationStart" = "Desde %@";
+"PrimaryLocationStart" = "出發地: %@";
 
 /* 'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park */
-"PrimaryLocationStationary" = "En %@";
+"PrimaryLocationStationary" = "時刻 %@";
 
 /* No comment provided by engineer. */
-"Real-time" = "Tiempo Real";
+"Real-time" = "即時";
 
 /* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
-"Shuttle" = "Shuttle";
+"Shuttle" = "接駁車";
 
 /* Number of stops before you get off a vehicle */
-"Stops" = "%ld paradas";
+"Stops" = "%ld站";
 
 /* From %time1 to %time2 */
-"TimeFromToShortFormat" = "%@ hasta %@";
+"TimeFromToShortFormat" = "%@ ～ %@";
 
 /* Vehicle 'x' updated */
-"VehicleCalledUpdated" = "Vehículo %@ actualizado hace %@";
+"VehicleCalledUpdated" = "車輛%@的位置在%@前更新";
 
 /* Vehicle updated */
-"VehicleUpdated" = "Actualizado hace %@";
+"VehicleUpdated" = "%@前更新";
 

@@ -1,0 +1,5 @@
+NSCalendarsUsageDescription = "从日历中的事件自动产生旅程，这将搜索您的日历．";
+
+NSContactsUsageDescription = "从联络表中搜索地址";
+
+NSLocationUsageDescription = "从目前所在地进行搜索，这将在地图上进行定位";

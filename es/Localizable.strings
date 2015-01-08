@@ -1,11 +1,14 @@
-﻿/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
+/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
 " at " = " a las ";
 
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " cada ";
 
-/* Action title for adding another habitual visit to a favourite */
-"Add habitual visit" = "Agregar rutina";
+/* No comment provided by engineer. */
+"Add address..." = "Agregar dirección...";
+
+/* No comment provided by engineer. */
+"Add another recurrence" = "Agregar otra recurrencia";
 
 /* Add reminder activity title */
 "Add Reminder" = "Agregar Recordatorio";
@@ -41,7 +44,7 @@
 "Agenda cleared" = "Agenda borrada";
 
 /* Agenda button name
-   Agenda tab bar name */
+ Agenda tab bar name */
 "AgendaButton" = "Agenda";
 
 /* Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1' */
@@ -71,7 +74,8 @@
 /* apple maps directions action */
 "Apple Maps" = "Mapa de Apple";
 
-/* Arrival time sorter title */
+/* Arrival date+time for overnight stay
+   Arrival time sorter title */
 "Arrival" = "Llegada";
 
 /* Arrive field title */
@@ -102,9 +106,6 @@
 "BookTaxi" = "Reservar Taxi";
 
 /* No comment provided by engineer. */
-"Cache" = "Cache";
-
-/* No comment provided by engineer. */
 "Cache cleared" = "Cache borrada";
 
 /* Calendar */
@@ -112,6 +113,9 @@
 
 /* Type for regular events that go in the phone's calendar. */
 "Calendar Event" = "Evento";
+
+/* Explanation for what calendar events are compared to habituals and stays. Can be long-ish. */
+"CalendarEventDescription" = "Los eventos habituales que van a ser grabados en la agenda del dispositivo.";
 
 /* No comment provided by engineer. */
 "Calendars" = "Calendarios";
@@ -121,10 +125,6 @@
 
 /* Action title for calling taxi provider of %name */
 "CallTaxiFormat" = "Llamar a %@";
-
-/* Cancel - for action sheets
-   Cancel action */
-"Cancel" = "Cancelar";
 
 /* No comment provided by engineer. */
 "Change time" = "Cambiar tiempo";
@@ -142,9 +142,6 @@
 "Clearing agenda..." = "Borrando agenda...";
 
 /* No comment provided by engineer. */
-"Clearing cache..." = "Borrando cache...";
-
-/* No comment provided by engineer. */
 "Clearing history..." = "Borrando historial...";
 
 /* School pricing preference */
@@ -160,18 +157,16 @@
 "Could not determine your current location. Please set your location manually." = "No se puedo determinar su ubicación actual. Por favor, indique su ubicación manualmente.";
 
 /* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = 
-"No se pudo descargar la información relacionada con las regiones soportadas. Por favor, vuelva a intentarlo más tarde.";
+"CouldNotDownloadSupportedRegions" = "No se pudo descargar la información relacionada con las regiones soportadas. Por favor, vuelva a intentarlo más tarde.";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = 
-"Ingrese el código del cupón '%@' al momento de registrarse para obtener sus $5 de crédito gratuitos (sólo válido para nuevos usuarios)";
+"CouponCodeIngogoFormat" = "Ingrese el código del cupón '%@' al momento de registrarse para obtener sus $5 de crédito gratuitos (sólo válido para nuevos usuarios)";
 
 /* Title for critical error */
 "CriticalError" = "Error Crítico";
 
-/* Description for critical error where %errorMessage is provided. */
-"CriticalErrorFormat" = "La aplicación encontró un error crítico y no se pudo recuperar:\n\n%@";
+/* Description for critical error where error will be shown below. */
+"CriticalErrorFormat" = "La aplicación encontró un error crítico y no se pudo recuperar:";
 
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "El viaje personalizado no se ajusta";
@@ -185,7 +180,8 @@
 /* From %date1 to %date2 */
 "DateFromToFormat" = "Desde %@ hasta %@";
 
-/* Departure time sorter title */
+/* Departure date+time for overnight stay
+   Departure time sorter title */
 "Departure" = "Partida";
 
 /* Dismiss accessibility label */
@@ -200,6 +196,9 @@
 /* Done button */
 "Done" = "Listo";
 
+/* Title for page for modifying a routine/stay at a specific location */
+"EditItemHereTitle" = "Item en Agenda";
+
 /* Title for date when an event ends repeating */
 "End Date" = "Hasta el";
 
@@ -208,9 +207,6 @@
 
 /* No comment provided by engineer. */
 "Error clearing agenda" = "Error borrando la agenda";
-
-/* No comment provided by engineer. */
-"Error clearing cache" = "Error borrando la cache";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "Error borrando el historial";
@@ -248,8 +244,11 @@
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
 "Every " = "Cada ";
 
+/* Text do mark an example */
+"Example" = "Ejemplo";
+
 /* Action title to exclude an event from routing
-   Exclude event action */
+ Exclude event action */
 "Exclude" = "Excluir";
 
 /* There goes my excuse for being late... */
@@ -274,7 +273,7 @@
 "Favourites" = "Favoritos";
 
 /* Favourites button name
-   Favourites tab bar name */
+ Favourites tab bar name */
 "FavouritesButton" = "Favoritos";
 
 /* Help title */
@@ -332,7 +331,7 @@
 "Get Involved" = "Participar";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "Obtener Uber ($20 de crédito^)";
+"Get Uber" = "Obtener Uber";
 
 /* I use TripGo to get around */
 "GetAround" = "Utilizo TripGo para moverme.";
@@ -343,15 +342,12 @@
 /* google maps directions action */
 "Google Maps" = "Google Maps";
 
-/* Type for events that are regular visit's to one of the user's favorites */
+/* Routine, i.e., type for regular times when at one of the user's favorites
+   Type for events that are regular visit's to one of the user's favorites */
 "Habitual Visit" = "Rutina";
 
-/* Header for habitual visits, i.e., when a user is typically at this location */
-"Habitual Visits" = "Rutinas";
-
-/* Explanation for what habitual events are. Can be long-ish. */
-"HabitualEventDescription" = 
-"Las Rutinas son parte de su movimiento diario, pero no son eventos que quisiera en el calendario (ej., trabajo). Son importantes para que la funcionalidad Agenda pueda llevarlo al lugar indicado en el momento indicado.";
+/* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
+"HabitualEventDescription" = "Las Rutinas son parte de su movimiento diario, pero no son eventos que quisiera en el calendario (ej., trabajo). Son importantes para que la funcionalidad Agenda pueda llevarlo al lugar indicado en el momento indicado.";
 
 /* No comment provided by engineer. */
 "History cleared" = "Historial borrado";
@@ -366,7 +362,7 @@
 "Import" = "Importar";
 
 /* Action title to include an event in routing
-   Include event action */
+ Include event action */
 "Include" = "Incluir";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
@@ -421,8 +417,8 @@
 "LostOnce" = "Estaba perdido hasta que encontré a... TripGo.";
 
 /* Button title to switch agenda view to map mode
-   Button title to switch to map
-   Map preference */
+ Button title to switch to map
+ Map preference */
 "Map" = "Mapa";
 
 /* No comment provided by engineer. */
@@ -455,6 +451,9 @@
 /* No comment provided by engineer. */
 "More Options" = "Más Opciones";
 
+/* Sample event name ('Movie') */
+"Movie" = "Película";
+
 /* User preferences title */
 "My Priorities" = "Mis Prioridades";
 
@@ -470,6 +469,18 @@
 /* Title for unnamed new event */
 "NewEvent" = "Agregar evento";
 
+/* Action title for adding a habitual item away from some location */
+"NewItemAwayActionTitle" = "Quedarse en un lugar diferente";
+
+/* Action title for adding another habitual visit to a favourite */
+"NewItemHereActionTitle" = "Agregar a la Agenda";
+
+/* Title for page for adding a new routine/stay at a specific location */
+"NewItemHereTitle" = "Item en Agenda";
+
+/* Title for page for adding a new routing/stay at a specific location */
+"NewStayTitle" = "Nueva Estancia";
+
 /* Button title to complete this step and advance to next */
 "Next" = "Siguiente";
 
@@ -480,8 +491,7 @@
 "No 'To' location selected" = "Falta seleccionar la ubicación 'Hasta'";
 
 /* Error for when no calendar found. */
-"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = 
-"No se encontró ningún calendario. Por favor, controle su aplicación Calendario y asegúrese de tener un calendario configurado.";
+"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "No se encontró ningún calendario. Por favor, controle su aplicación Calendario y asegúrese de tener un calendario configurado.";
 
 /* No comment provided by engineer. */
 "No locations set" = "No seleccionó ninguna ubicación";
@@ -546,6 +556,9 @@
 /* Reminders title */
 "Reminders" = "Recordatorios";
 
+/* No comment provided by engineer. */
+"Remove" = "Eliminar";
+
 /* Remove favourite activity title */
 "Remove Favourite" = "Eliminar Favorito";
 
@@ -574,7 +587,7 @@
 "Requires membership" = "Requiere registrarse";
 
 /* Reset button for my priorities
-   Title of group of settings related to resetting settings */
+ Title of group of settings related to resetting settings */
 "Reset" = "Resetear";
 
 /* Action title to reset agenda content. */
@@ -626,16 +639,13 @@
 "Send Real-time SMS" = "Enviar SMS en tiempo real";
 
 /* No comment provided by engineer. */
-"Set location..." = "Seleccionar ubicación...";
-
-/* No comment provided by engineer. */
 "Settings" = "Configuraciones";
 
 /* Settings tab bar name */
 "SettingsButton" = "Configuración";
 
 /* Action button title for sharing when you arrive
-   Share arrival */
+ Share arrival */
 "Share Arrival" = "Compartir Llegada";
 
 /* Share trip */
@@ -649,6 +659,9 @@
 
 /* No comment provided by engineer. */
 "Show details" = "Mostrar detalles";
+
+/* Button to show disclaimers, e.g., info of public transport data. */
+"Show disclaimer" = "Aviso Legal";
 
 /* No comment provided by engineer. */
 "Show info" = "Mostrar información";
@@ -680,6 +693,15 @@
 /* No comment provided by engineer. */
 "Start of Week" = "Inicio de Semana";
 
+/* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
+"Stay" = "Alojamiento";
+
+/* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
+"StayEventDescription" = "Usar para hoteles, cuando viaja, así la agenda inicia y termina en el lugar correcto.";
+
+/* Title for identifying a location where you stay overnight */
+"StayTitle" = "Alojamiento";
+
 /* Number of steps */
 "StepsNumber" = "%@ pasos realizados";
 
@@ -699,14 +721,22 @@
 "Tap 'Routes' for alternative routes" = "Presione 'Rutas' para ver rutas alternativas.";
 
 /* Walkthrough */
-"Tap and hold title to jump directly to a specified date." = 
-"Presione y mantenga sobre el título para saltar directamente a la fecha específica.";
+"Tap and hold title to jump directly to a specified date." = "Presione y mantenga sobre el título para saltar directamente a la fecha específica.";
 
 /* Walkthrough */
 "Tap public transport stops for access to timetable" = "Presione sobre las paradas de transporte público para acceder a los horarios.";
 
 /* Walkthrough */
 "Tap title to go to 'today'" = "Presione el título para ir a 'hoy'.";
+
+/* No comment provided by engineer. */
+"Tap to confirm hours or swipe to delete" = "Presione para confirmar horas o deslice para eliminar";
+
+/* No comment provided by engineer. */
+"Tap to set address" = "Presione para configurar la dirección";
+
+/* No comment provided by engineer. */
+"Tap to set address or swipe to delete" = "Presione para configurar la dirección o deslice para eliminar";
 
 /* No comment provided by engineer. */
 "Tap to set garage" = "Presione aquí para definir el garage";
@@ -725,6 +755,12 @@
 
 /* Title for screen to pick your working hours */
 "Time at Work" = "Horas de trabajo";
+
+/* Time zone (typically for an event) */
+"Time zone" = "Zona Horaria";
+
+/* Header for times a user is typically at this location, e.g., working hours */
+"Times" = "Horas";
 
 /* Timetable title */
 "Timetable" = "Horarios";
@@ -750,8 +786,14 @@
 /* No comment provided by engineer. */
 "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo no funciona en este área aún. Por favor, busque una de nuestras regiones soportadas y vuelva a intentarlo.";
 
+/* Trips tab bar name */
+"TripsButton" = "Viajes";
+
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutorial Reiniciado";
+
+/* Type of the event (calendar event, stay, routine) */
+"TypeEvent" = "Tipo";
 
 /* Type of the vehicle */
 "TypeVehicle" = "Tipo";
@@ -779,6 +821,13 @@
 
 /* Results screen no results error */
 "We didn't find any results for your query." = "No encontramos ningún resultado para tu consulta.";
+
+/* Header for staying away form home, i.e., when a user is NOT at their home */
+"WhenIAmAwayHeader" = "Alojamiento";
+
+/* Header for accommodations, i.e., when a user is typically at this location
+   Header for routines and accommodations, i.e., when a user is typically at this location */
+"WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
 "Which would you like to delete" = "¿Qué evento quieres eliminar?";

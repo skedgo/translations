@@ -63,13 +63,14 @@ VILLES COUVERTES :
 - Canada : Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Chili : Santiago
 - Espagne : Madrid
-- États-Unis : Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphie, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- États-Unis : Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
 - Finlande : Helsinki [*]
-- France : Rennes, Toulouse
+- France : Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
 - Hongrie : Budapest
 - Irlande : Dublin
-- Italie : Milan, Rome, Trentino
+- Italie : Milan, Rome, Trentino, Turin
 - Mexique : Mexico City
+- Norway : Oslo, Stavanger
 - Nouvelle-Zélande : Auckland, Christchurch [*], Wellington
 - Pays-Bas : Amsterdam [*], Rotterdam [*], Utrecht [*]
 - Royaume-Uni : Londres, Manchester

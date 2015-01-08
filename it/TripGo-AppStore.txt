@@ -59,21 +59,24 @@ CARATTERISTICHE:
 + Realizzato in Australia
 
 CITTÀ SUPPORTATI:
+
 - Argentina: Bahia Blanca
 - Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmania
 - Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Cile: Santiago
-- Inghilterra: London, Manchester
 - Finlandia: Helsinki [*]
-- Francia: Rennes, Toulouse
+- Francia: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
 - Germania: Berlin, Potsdam
-- Ungheria: Budapest
+- Inghilterra: London, Manchester
 - Irlanda: Dublino
-- Italia : Milano, Roma, Trento, Trentino Alto Adig, Veneto
+- Italia : Milano, Roma, Trento, Trentino/Alto Adige, Turino
 - Messico: Città del Messico
-- Olanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Norway: Oslo, Stavanger
 - Nuova Zelanda: Auckland, Christchurch [*], Wellington
+- Olanda: Amsterdam [*], Rotterdam [*], Utrecht [*]
+- Ungheria: Budapest
 - Spagna: Madrid
-- USA: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, St. Paul, Tampa, Washington DC [*]
+- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
+- Vietnam: Ho Chi Minh City
 
 [*] compresi i dati in tempo reale

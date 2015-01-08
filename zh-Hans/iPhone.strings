@@ -1,30 +1,30 @@
 
 /* Class = "IBUITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe"; */
-"3d9-Hg-2Fe.title" = "Matkat"; 
+"3d9-Hg-2Fe.title" = "旅程";
 
 /* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
-"5WK-au-VFq.title" = "Asetukset";
+"5WK-au-VFq.title" = "设定";
 
 /* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN"; */
-"IFX-i9-ymN.title" = "Reitit";
+"IFX-i9-ymN.title" = "旅程";
 
 /* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
-"JMk-5m-B22.title" = "Yhteys";
+"JMk-5m-B22.title" = "路线";
 
 /* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "KGR-eg-uwA"; */
-"KGR-eg-uwA.title" = "Suosikit";
+"KGR-eg-uwA.title" = "常用";
 
 /* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
-"QTR-Ae-g7f.title" = "Matka";
+"QTR-Ae-g7f.title" = "旅程";
 
 /* Class = "IBUITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
-"TNA-bx-79H.title" = "Agenda";
+"TNA-bx-79H.title" = "行程";
 
 /* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "TYM-9i-XBA"; */
-"TYM-9i-XBA.title" = "Asetukset";
+"TYM-9i-XBA.title" = "设定";
 
 /* Class = "IBUITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
-"ye4-ch-zSe.title" = "Suosikit";
+"ye4-ch-zSe.title" = "常用";
 
 /* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n"; */
-"zCk-Ai-u6n.title" = "Aikataulu";
+"zCk-Ai-u6n.title" = "时刻表";

@@ -60,7 +60,7 @@ FUNKTIONEN:
 UNTERSTÜTZTE STÄDTE:
 
 - Argentinien: Bahia Blanca
-- Australien: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*], Tasmanien
+- Australien: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [*]
 - Chile: Santiago
 - Deutschland: Berlin, Potsdam
 - England: London, Manchester
@@ -68,12 +68,14 @@ UNTERSTÜTZTE STÄDTE:
 - Frankreich: Bordeaux, Nantes, Rennes, Straßburg, Toulouse
 - Kanada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
 - Irland: Dublin
-- Italien: Mailand, Rom, Trient
+- Italien: Mailand, Rom, Trient, Turin
 - Mexiko: Mexiko-Stadt
 - Neuseeland: Auckland, Christchurch [*], Wellington
 - Niederlande: Amsterdam [*], Den Haag [*], Rotterdam [*], Utrecht [*]
+- Norwegen: Oslo, Stavanger
 - Spanien: Madrid
 - Ungarn: Budapest
-- Vereinigte Staaten: Austin, Baltimore [*], Boston [*], Boulder, Chicago, Dallas, Denver, Fort Worth, Houston, Los Angeles [*], Miami, Minneapolis, New York [*], Philadelphia, Portland [*], San Antonio, San Francisco [*], Seattle, Saint Paul, Tampa, Washington (DC) [*]
+- Vereinigte Staaten: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
+- Vietnam: Ho-Chi-Minh-Stadt
 
 [*] mit Echtzeit-Informationen

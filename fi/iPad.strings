@@ -1,27 +1,18 @@
 
-/* Class = "IBUILabel"; text = "Agenda automatically plans trips between home, work and events in your calendar."; ObjectID = "1dD-nX-UbO"; */
-"1dD-nX-UbO.text" = "Agenda automatically plans trips between home, work and events in your calendar.";
-
-/* Class = "IBUIButton"; normalTitle = "Set up your Agenda"; ObjectID = "5XA-VY-lvO"; */
-"5XA-VY-lvO.normalTitle" = "Set up your Agenda";
-
 /* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "A61-q2-DtW"; */
-"A61-q2-DtW.title" = "Routes";
+"A61-q2-DtW.title" = "Reitit";
 
 /* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "Ae9-5l-gdh"; */
-"Ae9-5l-gdh.title" = "Trip";
+"Ae9-5l-gdh.title" = "Matka";
 
 /* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "Coq-sX-wUc"; */
-"Coq-sX-wUc.title" = "Favourites";
+"Coq-sX-wUc.title" = "Suosikit";
 
 /* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "Evj-sr-WmQ"; */
-"Evj-sr-WmQ.title" = "Service";
+"Evj-sr-WmQ.title" = "Yhteys";
 
 /* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "Zm3-OW-yUo"; */
-"Zm3-OW-yUo.title" = "Timetable";
-
-/* Class = "IBUINavigationItem"; title = "Agenda"; ObjectID = "wgq-Og-y2a"; */
-"wgq-Og-y2a.title" = "Agenda";
+"Zm3-OW-yUo.title" = "Aikataulu";
 
 /* Class = "IBUINavigationItem"; title = "Search"; ObjectID = "zLA-pv-5AY"; */
-"zLA-pv-5AY.title" = "Search";
+"zLA-pv-5AY.title" = "Etsi";

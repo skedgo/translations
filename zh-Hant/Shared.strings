@@ -1,0 +1,257 @@
+/* Authorization restricted alert message */
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "在此裝置上使用本功能是受到限制的. 請到設定 > 一般 > 取用限制檢查您的設定或詢問您的裝置提供商.";
+
+/* Accessibility label for action button */
+"Action" = "動作";
+
+/* Indicator that an event is all-day */
+"all-day" = "整天";
+
+/* Estimated time of arrival */
+"ArrivalTimeIndication" = " (到達時間 ";
+
+/* Authorisation needed title */
+"Authorisation needed" = "需要用戶授權";
+
+/* Type of vehicle : bicycle */
+"Bicycle" = "自行車";
+
+/* Cancel - for action sheets */
+"Cancel" = "取消";
+
+/* Type of vehicle : car */
+"Car" = "轎車";
+
+/* Accessibility - user location button - hint */
+"Change tracking options" = "變更追蹤選項";
+
+/* No comment provided by engineer. */
+"Checkmark" = "選取標記";
+
+/* Close action */
+"Close" = "關閉";
+
+/* Current location */
+"Current Location" = "目前位置";
+
+/* to %date */
+"DateToFormat" = "到%@";
+
+/* Delete action */
+"Delete" = "刪除";
+
+/* Estimated time of departure */
+"DepartureTimeIndication" = " (離站 ";
+
+/* Sort by distance */
+"Distance" = "距離";
+
+/* Drop new pin */
+"DropNewPin" = "放置新的大頭針";
+
+/* Short indicator of end-time */
+"ends at %@" = "在%@結束";
+
+/* Everyday */
+"Everyday" = "每天";
+
+/* Every %day, e.g., 'Every Monday' */
+"EveryDayFormat" = "每%@";
+
+/* Free */
+"Free" = "免費";
+
+/* No comment provided by engineer. */
+"Getting a lift" = "與人共乘";
+
+/* Accessibility annotation for trips which have a reminder set. */
+"Has reminder" = "有提醒事項";
+
+/* Location picker include contacts. */
+"Include contacts" = "包含聯絡人";
+
+/* Location picker include events. */
+"Include events" = "包含事件";
+
+/* Instant results proposal */
+"Instant results" = "快速搜尋結果";
+
+/* Location name
+ Title for location search screen */
+"Location" = "地點";
+
+/* Location iOS6+ authorisation needed text */
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "本功能需要使用定位服務. 請到設定 > 隱私 > 定位服務確認服務是開啟的，同時也請確認您已授權本App使用定位服務.";
+
+/* ex: 1min */
+"Min==1" = "1分鐘";
+
+/* ex: 17mins */
+"Min!=1" = "%ld分鐘";
+
+/* ex: 1.5h */
+"Min>=60%30==0" = "%.1f小時";
+
+/* ex: 1h */
+"Min>=60%60==0" = "%.0f小時";
+
+/* ex: 1h 1min */
+"Min>=60%60==1" = "%ld小時1分鐘";
+
+/* ex: 1h 17 mins */
+"Min>=60%60!=1" = "%ld小時%ld分鐘";
+
+/* ex: 1 minute */
+"Minute" = "1分鐘";
+
+/* ex: 17 minutes */
+"Minutes!=1" = "%ld分鐘";
+
+/* ex: 1 Min */
+"Minutes<89==1" = "1分鐘";
+
+/* ex: 17 Mins */
+"Minutes<89!=1" = "%ld分鐘";
+
+/* ex: 2.5 Hours" */
+"Minutes>119%30==0" = "%.1f小時";
+
+/* ex: 2 Hours */
+"Minutes>119%60==0" = "%.0f小時";
+
+/* ex: 2 Hours 1 minute */
+"Minutes>119%60==1" = "%ld小時1分鐘";
+
+/* ex: 2 Hours 17 minutes */
+"Minutes>119%60!=1" = "%ld小時%ld分鐘";
+
+/* ex: 2h */
+"Minutes>140%2==0" = "%ld小時";
+
+/* ex: 2.3h */
+"Minutes>140%2!=0" = "%.1f小時";
+
+/* ex: 2 Hours */
+"Minutes>89%2==0" = "%ld小時";
+
+/* ex: 2.3 Hours */
+"Minutes>89%2!=0" = "%.1f小時";
+
+/* ex: 1.5 Hour */
+"Minutes>=60%30==0" = "%.1f小時";
+
+/* ex: 1 Hour */
+"Minutes>=60%60==0" = "%.0f小時";
+
+/* ex: 1 Hour 1 minute */
+"Minutes>=60%60==1" = "%ld小時1分鐘";
+
+/* ex: 1 Hour 17 minutes */
+"Minutes>=60%60!=1" = "%ld小時%ldminutes";
+
+/* More results proposal */
+"More results" = "更多搜尋結果";
+
+/* Type of vehicle : motorbike */
+"Motorbike" = "摩托車";
+
+/* Sort by name */
+"Name" = "名稱";
+
+/* Never */
+"Never" = "永不重複";
+
+/* No comment provided by engineer. */
+"No CO₂" = "無碳足跡";
+
+/* Countdown cell 'now' indicator */
+"Now" = "現在";
+
+/* Number of repeats */
+"NumberReccurences" = "重複%lu次";
+
+/* Authorisation ok button
+ Error alert cancel */
+"OK" = "好";
+
+/* Button to open Settings app section for this app */
+"Open Settings" = "開啟設定";
+
+/* Please select a location prompt */
+"Please select a location" = "請選擇地點";
+
+/* Please verify the location prompt */
+"Please verify the location" = "請確認地點";
+
+/* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
+"Press 'search' for more..." = "點擊'搜尋'來取得更多結果...";
+
+/* Repeats daily */
+"Repeats daily" = "每天重複";
+
+/* Repeats monthly */
+"Repeats monthly" = "每月重複";
+
+/* Repeats weekly */
+"Repeats weekly" = "每週重複";
+
+/* Repeats yearly */
+"Repeats yearly" = "每年重複";
+
+/* Sort by score */
+"Score" = "評分";
+
+/* Empty search bar placeholder */
+"Search" = "搜尋";
+
+/* No comment provided by engineer. */
+"Search Results" = "搜尋結果";
+
+/* ex: 87s */
+"Seconds<120" = "%.0f秒";
+
+/* Tap to set location */
+"SetLocation" = "點擊來選取地點";
+
+/* Error alert title */
+"Sorry" = "抱歉";
+
+/* Short indicator of start-time */
+"starts at %@" = "從%@開始";
+
+/* Sports utility vehicle abbreviation */
+"SUV" = "休旅車";
+
+/* Accessibility - user location button - off */
+"Tracking - off" = "關閉使用者位置追蹤功能";
+
+/* user location button - follow */
+"Tracking - on" = "開啟使用者位置追蹤功能";
+
+/* user location button - follow with heading */
+"Tracking - on with heading" = "開啟使用者位置與航向追蹤功能";
+
+/* No comment provided by engineer. */
+"We were unable to find a location with that name." = "我們無法找到跟這個名稱相符的地點";
+
+/* Every weekday in context of repetitions (especially recurring events) */
+"Weekdays" = "平日";
+
+/* Every weekend day in context of repetitions (especially recurring events) */
+"Weekends" = "週末";
+
+/* Calendar authorisation needed text */
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "您之前拒絕了App使用您的行事曆．如想要使用本功能，請到設定 > 隱私 > 行事曆中更新您的授權.";
+
+/* Contacts authorisation needed text */
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "您之前拒絕了App使用您的聯絡資訊．如想要使用本功能，請到設定 > 隱私 > 聯絡資訊中更新您的授權.";
+
+/* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
+"{Name}'s" = "%@'s";
+
+/* No comment provided by engineer. */
+"{Name}'s Home" = "%@的住家";
+
+/* No comment provided by engineer. */
+"{Name}'s Work" = "%@的公司";
+
