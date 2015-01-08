@@ -71,7 +71,7 @@ SUPPORTED CITIES:
 - New Zealand: Auckland, Christchurch [*], Wellington
 - Norway: Oslo, Stavanger
 - Spain: Madrid
-- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Luois, St. Paul, Tampa, Washington DC [*]
+- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Louis, St. Paul, Tampa, Washington DC [*]
 - Vietnam: Ho Chi Minh City
 
 [*] including real-time transit
