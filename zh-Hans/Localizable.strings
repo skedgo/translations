@@ -4,6 +4,12 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " 每 ";
 
+/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+
+/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+
 /* No comment provided by engineer. */
 "Add address..." = "新增地址...";
 
@@ -90,11 +96,11 @@
 /* Distance 'automatic' */
 "Auto" = "自动";
 
+/* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
+"Awesome! How about rating us?" = "Awesome! How about rating us?"; // TODO
+
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "返回到%@";
-
-/* No comment provided by engineer. */
-"Book a shuttle" = "预订接驳车";
 
 /* vehicle booking action */
 "Book vehicle" = "预订车辆";
@@ -104,6 +110,9 @@
 
 /* Book a taxi */
 "BookTaxi" = "预定计程车";
+
+/* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
+"Bummer... How about some feedback?" = "Bummer... How about some feedback?"; // TODO
 
 /* No comment provided by engineer. */
 "Cache" = "暂存档";
@@ -282,6 +291,9 @@
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "筛选";
 
+/* Find a ride, using a ride sharing service such as Uber or Lyft */
+"Find a ride" = "Find a ride"; // TODO
+
 /* Flight */
 "Flight" = "航班";
 
@@ -331,6 +343,21 @@
 "Get Involved" = "使用者参与";
 
 /* No comment provided by engineer. */
+"Get Lyft" = "使用Lyft";
+
+/* No comment provided by engineer. */
+"Get off here" = "Get off here"; // TODO
+
+/* No comment provided by engineer. */
+"Get on here" = "Get on here"; // TODO
+
+/* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
+"Get on or off here" = "Get on or off here"; // TODO
+
+/* No comment provided by engineer. */
+"Get Sidecar" = "使用Sidecar";
+
+/* No comment provided by engineer. */
 "Get Uber" = "使用Uber";
 
 /* I use TripGo to get around */
@@ -348,6 +375,9 @@
 
 /* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
 "HabitualEventDescription" = "例行事件是您每天需要做的事情，但是您并不想将它们纪录在您的日历中（例如：上班）．指定例行事件可以让行程功能在对的时间帶您到对的地点．";
+
+/* No comment provided by engineer. */
+"Has TripGo been useful to you?" = "Has TripGo been useful to you?"; // TODO
 
 /* No comment provided by engineer. */
 "History cleared" = "历史纪录已清除";
@@ -496,6 +526,12 @@
 /* No comment provided by engineer. */
 "No locations set" = "未设定任何地点";
 
+/* Negative answer to follow-up question for rating or feedback. */
+"No, thanks" = "No, thanks"; // TODO
+
+/* Negative answer to question whether TripGo is useful. */
+"Not really" = "Not really"; // TODO
+
 /* Countdown cell 'now' indicator */
 "Now" = "现在";
 
@@ -510,6 +546,12 @@
 
 /* Open in Safari action */
 "Open in Safari" = "在Safari中开启";
+
+/* No comment provided by engineer. */
+"Open Lyft" = "开启Lyft";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "开启Sidecar";
 
 /* No comment provided by engineer. */
 "Open Uber" = "开启Uber";
@@ -799,9 +841,6 @@
 "TypeVehicle" = "车辆种类";
 
 /* No comment provided by engineer. */
-"Uber" = "Uber";
-
-/* No comment provided by engineer. */
 "Verify location..." = "确认地点...";
 
 /* View alternative times for this trip */
@@ -834,6 +873,15 @@
 
 /* Typical name that you'd give your work location */
 "Work" = "公司";
+
+/* Positive answer to follow-up question for rating or feedback. */
+"Yeah, ok!" = "Yeah, ok!"; // TODO
+
+/* Positive answer to question whether TripGo is useful. */
+"Yes!" = "Yes!"; // TODO
+
+/* Alert if service running late/early, meaning that the user might not make the next service. */
+"You might not make this transfer." = "You might not make this transfer."; // TODO
 
 /* No comment provided by engineer. */
 "Zoom in" = "放大";

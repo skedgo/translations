@@ -4,6 +4,12 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " alle ";
 
+/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ early (%2$@ service)" = "%1$@ früh (%2$@ Service)";
+
+/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ late (%2$@ service)" = "%1$@ spät (%2$@ Service)";
+
 /* No comment provided by engineer. */
 "Add address..." = "Adresse hinzufügen...";
 
@@ -90,11 +96,11 @@
 /* Distance 'automatic' */
 "Auto" = "Auto";
 
+/* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
+"Awesome! How about rating us?" = "Wunderbar! Willst du TripGo bewerten?";
+
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "Zurück zu %@";
-
-/* No comment provided by engineer. */
-"Book a shuttle" = "Shuttle buchen";
 
 /* vehicle booking action */
 "Book vehicle" = "Fahrzeug buchen";
@@ -104,6 +110,9 @@
 
 /* Book a taxi */
 "BookTaxi" = "Taxi buchen";
+
+/* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
+"Bummer... How about some feedback?" = "Schade. Willst du uns sagen warum?";
 
 /* No comment provided by engineer. */
 "Cache" = "Cache";
@@ -282,6 +291,9 @@
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "Filter";
 
+/* Find a ride, using a ride sharing service such as Uber or Lyft */
+"Find a ride" = "Ride finden";
+
 /* Flight */
 "Flight" = "Flug";
 
@@ -325,13 +337,28 @@
 "Get directions" = "Detaillierte Wegbeschreibung";
 
 /* No comment provided by engineer. */
-"Get ingogo" = "ingogo nehmen";
+"Get ingogo" = "ingogo herunterladen";
 
 /* Header for settings for feedback, recommending and rating TripGo */
 "Get Involved" = "Unterstütze TripGo";
 
 /* No comment provided by engineer. */
-"Get Uber" = "Uber nehmen";
+"Get Lyft" = "Lyft herunterladen";
+
+/* No comment provided by engineer. */
+"Get off here" = "Hier aussteigen";
+
+/* No comment provided by engineer. */
+"Get on here" = "Hier einsteigen";
+
+/* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
+"Get on or off here" = "Hier ein- oder aussteigen";
+
+/* No comment provided by engineer. */
+"Get Sidecar" = "Sidecar herunterladen";
+
+/* No comment provided by engineer. */
+"Get Uber" = "Uber herunterladen";
 
 /* I use TripGo to get around */
 "GetAround" = "Ich benutze TripGo um von A nach B zu kommen.";
@@ -348,6 +375,9 @@
 
 /* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
 "HabitualEventDescription" = "Routinen sind Trips die du regelmäßig machst aber nicht im Kalender haben möchtest (z.B. zur Arbeit). Sie sind wichtig damit die Agenda dich rechtzeitig dahin bringt wo du hin musst.";
+
+/* No comment provided by engineer. */
+"Has TripGo been useful to you?" = "Findest du TripGo nützlich?";
 
 /* No comment provided by engineer. */
 "History cleared" = "Chronik gelöscht";
@@ -496,6 +526,12 @@
 /* No comment provided by engineer. */
 "No locations set" = "Keine Orte ausgewählt";
 
+/* Negative answer to follow-up question for rating or feedback. */
+"No, thanks" = "Nein, danke";
+
+/* Negative answer to question whether TripGo is useful. */
+"Not really" = "Nicht wirklich";
+
 /* Countdown cell 'now' indicator */
 "Now" = "Jetzt";
 
@@ -510,6 +546,12 @@
 
 /* Open in Safari action */
 "Open in Safari" = "In Safari öffnen";
+
+/* No comment provided by engineer. */
+"Open Lyft" = "Lyft öffnen";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Sidecar öffnen";
 
 /* No comment provided by engineer. */
 "Open Uber" = "Uber öffnen";
@@ -799,9 +841,6 @@
 "TypeVehicle" = "Art";
 
 /* No comment provided by engineer. */
-"Uber" = "Uber";
-
-/* No comment provided by engineer. */
 "Verify location..." = "Adresse bestätigen...";
 
 /* View alternative times for this trip */
@@ -834,6 +873,15 @@
 
 /* Typical name that you'd give your work location */
 "Work" = "Arbeit";
+
+/* Positive answer to follow-up question for rating or feedback. */
+"Yeah, ok!" = "Ja, klar!";
+
+/* Positive answer to question whether TripGo is useful. */
+"Yes!" = "Ja!";
+
+/* Alert if service running late/early, meaning that the user might not make the next service. */
+"You might not make this transfer." = "Nächste Verbindung wird knapp.";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Vergrößern";

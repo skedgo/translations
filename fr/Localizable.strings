@@ -4,6 +4,12 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " chaque ";
 
+/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+
+/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+
 /* No comment provided by engineer. */
 "Add address..." = "Ajouter une adresse...";
 
@@ -90,11 +96,11 @@
 /* Distance 'automatic' */
 "Auto" = "Auto";
 
+/* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
+"Awesome! How about rating us?" = "Awesome! How about rating us?"; // TODO
+
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "Retourner chez %@";
-
-/* No comment provided by engineer. */
-"Book a shuttle" = "Réserver une navette";
 
 /* vehicle booking action */
 "Book vehicle" = "Réserver un véhicule";
@@ -103,7 +109,10 @@
 "BookShuttle" = "Réserver une navette";
 
 /* Book a taxi */
-"BookTaxi" = "Réserver un Taxi";
+"BookTaxi" = "Réserver un taxi";
+
+/* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
+"Bummer... How about some feedback?" = "Bummer... How about some feedback?"; // TODO
 
 /* No comment provided by engineer. */
 "Cache" = "Cache";
@@ -282,6 +291,9 @@
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "Filtrer";
 
+/* Find a ride, using a ride sharing service such as Uber or Lyft */
+"Find a ride" = "Find a ride"; // TODO
+
 /* Flight */
 "Flight" = "Vol";
 
@@ -331,6 +343,21 @@
 "Get Involved" = "Restez impliqués";
 
 /* No comment provided by engineer. */
+"Get Lyft" = "Obtenir Lyft";
+
+/* No comment provided by engineer. */
+"Get off here" = "Get off here"; // TODO
+
+/* No comment provided by engineer. */
+"Get on here" = "Get on here"; // TODO
+
+/* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
+"Get on or off here" = "Get on or off here"; // TODO
+
+/* No comment provided by engineer. */
+"Get Sidecar" = "Obtenir Sidecar";
+
+/* No comment provided by engineer. */
 "Get Uber" = "Obtenir Uber";
 
 /* I use TripGo to get around */
@@ -348,6 +375,9 @@
 
 /* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
 "HabitualEventDescription" = "Les faits courants font partis de vos déplacements quotidiens, mais ne sont pas des évènements qui apparaissent dans votre calendrier (e.g., travail). Ils sont importants pour l'Agenda afin de vous diriger au bon endroit à la bonne heure.";
+
+/* No comment provided by engineer. */
+"Has TripGo been useful to you?" = "Has TripGo been useful to you?"; // TODO
 
 /* No comment provided by engineer. */
 "History cleared" = "Historique effacé";
@@ -496,6 +526,12 @@
 /* No comment provided by engineer. */
 "No locations set" = "Aucune position définie";
 
+/* Negative answer to follow-up question for rating or feedback. */
+"No, thanks" = "No, thanks"; // TODO
+
+/* Negative answer to question whether TripGo is useful. */
+"Not really" = "Not really"; // TODO
+
 /* Countdown cell 'now' indicator */
 "Now" = "Immédiat.";
 
@@ -510,6 +546,12 @@
 
 /* Open in Safari action */
 "Open in Safari" = "Ouvrir dans Safari";
+
+/* No comment provided by engineer. */
+"Open Lyft" = "Ouvrir Lyft";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Ouvrir Sidecar";
 
 /* No comment provided by engineer. */
 "Open Uber" = "Ouvrir Uber";
@@ -799,9 +841,6 @@
 "TypeVehicle" = "Type";
 
 /* No comment provided by engineer. */
-"Uber" = "Uber";
-
-/* No comment provided by engineer. */
 "Verify location..." = "Vérification de la position...";
 
 /* View alternative times for this trip */
@@ -834,6 +873,15 @@
 
 /* Typical name that you'd give your work location */
 "Work" = "Bureau";
+
+/* Positive answer to follow-up question for rating or feedback. */
+"Yeah, ok!" = "Yeah, ok!"; // TODO
+
+/* Positive answer to question whether TripGo is useful. */
+"Yes!" = "Yes!"; // TODO
+
+/* Alert if service running late/early, meaning that the user might not make the next service. */
+"You might not make this transfer." = "You might not make this transfer."; // TODO
 
 /* No comment provided by engineer. */
 "Zoom in" = "Zoomer";
