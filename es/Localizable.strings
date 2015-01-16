@@ -5,10 +5,10 @@
 " every " = " cada ";
 
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+"%1$@ early (%2$@ service)" = "%1$@ antes (Servicio de las %2$@)";
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+"%1$@ late (%2$@ service)" = "%1$@ tarde (Servicio de las %2$@)";
 
 /* No comment provided by engineer. */
 "Add address..." = "Agregar dirección...";
@@ -97,7 +97,7 @@
 "Auto" = "Auto";
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
-"Awesome! How about rating us?" = "Awesome! How about rating us?"; // TODO
+"Awesome! How about rating us?" = "Excelente! ¿Qué tal si nos calificas?";
 
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "Volver a %@";
@@ -112,7 +112,7 @@
 "BookTaxi" = "Reservar taxi";
 
 /* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
-"Bummer... How about some feedback?" = "Bummer... How about some feedback?"; // TODO
+"Bummer... How about some feedback?" = "Que mál... ¿Puedes proveer algo de feedback?";
 
 /* No comment provided by engineer. */
 "Cache cleared" = "Cache borrada";
@@ -292,7 +292,7 @@
 "Filter" = "Filtro";
 
 /* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Find a ride"; // TODO
+"Find a ride" = "Encontrar un viaje";
 
 /* Flight */
 "Flight" = "Vuelo";
@@ -346,13 +346,13 @@
 "Get Lyft" = "Obtener Lyft";
 
 /* No comment provided by engineer. */
-"Get off here" = "Get off here"; // TODO
+"Get off here" = "Bajar aquí";
 
 /* No comment provided by engineer. */
-"Get on here" = "Get on here"; // TODO
+"Get on here" = "Subir aquí";
 
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
-"Get on or off here" = "Get on or off here"; // TODO
+"Get on or off here" = "Subir o bajar aquí";
 
 /* No comment provided by engineer. */
 "Get Sidecar" = "Obtener Sidecar";
@@ -377,7 +377,7 @@
 "HabitualEventDescription" = "Las Rutinas son parte de su movimiento diario, pero no son eventos que quisiera en el calendario (ej., trabajo). Son importantes para que la funcionalidad Agenda pueda llevarlo al lugar indicado en el momento indicado.";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "Has TripGo been useful to you?"; // TODO
+"Has TripGo been useful to you?" = "¿Te ha servico TripGo?";
 
 /* No comment provided by engineer. */
 "History cleared" = "Historial borrado";
@@ -527,10 +527,10 @@
 "No locations set" = "No seleccionó ninguna ubicación";
 
 /* Negative answer to follow-up question for rating or feedback. */
-"No, thanks" = "No, thanks"; // TODO
+"No, thanks" = "No, gracias";
 
 /* Negative answer to question whether TripGo is useful. */
-"Not really" = "Not really"; // TODO
+"Not really" = "En realidad no";
 
 /* Countdown cell 'now' indicator */
 "Now" = "Ahora";
@@ -875,13 +875,13 @@
 "Work" = "Trabajo";
 
 /* Positive answer to follow-up question for rating or feedback. */
-"Yeah, ok!" = "Yeah, ok!";  // TODO
+"Yeah, ok!" = "Si, gracias!";
 
 /* Positive answer to question whether TripGo is useful. */
-"Yes!" = "Yes!"; // TODO
+"Yes!" = "Si!";
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "You might not make this transfer."; // TODO
+"You might not make this transfer." = "Es posible que pueda hacer esta transferencia.";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Acercar";
