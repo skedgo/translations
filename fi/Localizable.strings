@@ -88,7 +88,7 @@
 "Arrive " = "Saapu ";
 
 /* Arrive before button */
-"ArriveBefore" = "Saapu ennen";
+"ArriveBefore" = "Perillä";
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
 "At " = "Klo ";
@@ -414,13 +414,13 @@
 "Km" = "Km";
 
 /* Leave field title */
-"Leave " = "Lahde ";
+"Leave " = "Lähde ";
 
 /* No comment provided by engineer. */
 "Leave now" = "lähde nyt";
 
 /* Leave after button */
-"LeaveAfter" = "Lähde";
+"LeaveAfter" = "Lähtöaika";
 
 /* Button title to switch view to list mode */
 "List" = "Lista";
