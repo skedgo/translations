@@ -86,8 +86,7 @@ take.the.<vehicle>.at.<from>.to.<to>=從{1}到{2}搭乘{0}
 take.<serviceName>.for.<duration> = Take {0} for {1}
 share.taxi.with.<number>.others=跟其他{0}人共乘計程車
 ride.taxi=搭乘計程車
-# TODO
-ride.TNC=Ride
+ride.TNC=搭乘
 take.shuttle.with.<number>.others=跟其他{0}人共乘接駁車
 take.shuttle=搭乘接駁車
 drive.<vehicleName>.=駕駛{0}
@@ -103,8 +102,7 @@ your.<vehicleName>=您的{0}
 <owner>_s.<vehicleName>={0}的{1}
 subject.to.availability=視情況而定
 fare.applies=適用票價
-# TODO
-fare.from.<moneyCost>=Fare from {0}
+fare.from.<moneyCost>=票價從{0}
 fare.of.about.<moneyCost>.may.vary=票價大約{0} (可能有所不同)
 includes.toll.<moneyCost>=包含通行費({0})
 

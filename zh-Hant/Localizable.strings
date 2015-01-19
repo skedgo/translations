@@ -5,10 +5,10 @@
 " every " = " 每 ";
 
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+"%1$@ early (%2$@ service)" = 提前"%1$@ (%2$@ 的班次)";
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+"%1$@ late (%2$@ service)" = "延誤%1$@ (%2$@ 的班次)";
 
 /* No comment provided by engineer. */
 "Add address..." = "新增地址...";
@@ -97,7 +97,7 @@
 "Auto" = "自動";
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
-"Awesome! How about rating us?" = "Awesome! How about rating us?"; // TODO
+"Awesome! How about rating us?" = "太棒了！給我們評價吧?";
 
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "返回到%@";
@@ -112,7 +112,7 @@
 "BookTaxi" = "預定計程車";
 
 /* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
-"Bummer... How about some feedback?" = "Bummer... How about some feedback?"; // TODO
+"Bummer... How about some feedback?" = "真遺憾．可以給我們一些建議嗎？";
 
 /* No comment provided by engineer. */
 "Cache" = "暫存檔";
@@ -292,7 +292,7 @@
 "Filter" = "篩選";
 
 /* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Find a ride"; // TODO
+"Find a ride" = "搜尋共乘夥伴";
 
 /* Flight */
 "Flight" = "航班";
@@ -346,13 +346,13 @@
 "Get Lyft" = "使用Lyft";
 
 /* No comment provided by engineer. */
-"Get off here" = "Get off here"; // TODO
+"Get off here" = "在這裡結束搭乘";
 
 /* No comment provided by engineer. */
-"Get on here" = "Get on here"; // TODO
+"Get on here" = "在這裡開始搭乘";
 
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
-"Get on or off here" = "Get on or off here"; // TODO
+"Get on or off here" = "在這裡開始/結束搭乘";
 
 /* No comment provided by engineer. */
 "Get Sidecar" = "使用Sidecar";
@@ -377,7 +377,7 @@
 "HabitualEventDescription" = "例行事件是您每天需要做的事情，但是您並不想將它們記錄在您的行事曆中（例如：上班）．指定例行事件可以讓行程功能在對的時間帶您到對的地方．";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "Has TripGo been useful to you?"; // TODO
+"Has TripGo been useful to you?" = "TripGo對您來說有幫助嗎?";
 
 /* No comment provided by engineer. */
 "History cleared" = "歷史記錄已清除";
@@ -527,10 +527,10 @@
 "No locations set" = "為設定任何地點";
 
 /* Negative answer to follow-up question for rating or feedback. */
-"No, thanks" = "No, thanks"; // TODO
+"No, thanks" = "不用．謝謝．";
 
 /* Negative answer to question whether TripGo is useful. */
-"Not really" = "Not really"; // TODO
+"Not really" = "並不願意";
 
 /* Countdown cell 'now' indicator */
 "Now" = "現在";
@@ -874,13 +874,13 @@
 "Work" = "公司";
 
 /* Positive answer to follow-up question for rating or feedback. */
-"Yeah, ok!" = "Yeah, ok!"; // TODO
+"Yeah, ok!" = "好的．沒問題！";
 
 /* Positive answer to question whether TripGo is useful. */
-"Yes!" = "Yes!"; // TODO
+"Yes!" = "是的！";
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "You might not make this transfer."; // TODO
+"You might not make this transfer." = "您有可能錯過這次的轉乘";
 
 /* No comment provided by engineer. */
 "Zoom in" = "放大";
