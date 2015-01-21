@@ -5,10 +5,10 @@
 " every " = " ogni ";
 
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+"%1$@ early (%2$@ service)" = "%1$@ presto (%2$@ servizio)"; // TODO
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+"%1$@ late (%2$@ service)" = "%1$@ tardi (%2$@ servizio)"; // TODO
 
 /* No comment provided by engineer. */
 "Add address..." = "Aggiungi indirizzo...";
@@ -97,7 +97,7 @@
 "Auto" = "Automatico";
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
-"Awesome! How about rating us?" = "Awesome! How about rating us?"; // TODO
+"Awesome! How about rating us?" = "Impressionante! Ci daresti una valutazione?"; // TODO
 
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "Torna a %@";
@@ -112,7 +112,7 @@
 "BookTaxi" = "Prenota taxi";
 
 /* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
-"Bummer... How about some feedback?" = "Bummer... How about some feedback?"; // TODO
+"Bummer... How about some feedback?" = "Peccato... Che ne dite di un feedback?"; // TODO
 
 /* No comment provided by engineer. */
 "Cache" = "Cache";
@@ -124,7 +124,7 @@
 "Calendar Event" = "Evento";// event = evento nel calendario di Apple
 
 /* Explanation for what calendar events are compared to habituals and stays. Can be long-ish. */
-"CalendarEventDescription" = "Regular events which will be saved in your device's calendar."; // TODO
+"CalendarEventDescription" = "Eventi regolari che verranno salvati nel calendario del dispositivo."; // TODO
 
 /* No comment provided by engineer. */
 "Calendars" = "Calendari";
@@ -292,7 +292,7 @@
 "Filter" = "Filtro";
 
 /* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Find a ride"; // TODO
+"Find a ride" = "Trova un passaggio"; // TODO
 
 /* Flight */
 "Flight" = "Volo";
@@ -346,13 +346,13 @@
 "Get Lyft" = "Prendere Lyft";
 
 /* No comment provided by engineer. */
-"Get off here" = "Get off here"; // TODO
+"Get off here" = "Scendi qui"; // TODO
 
 /* No comment provided by engineer. */
-"Get on here" = "Get on here"; // TODO
+"Get on here" = "Sali qui"; // TODO
 
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
-"Get on or off here" = "Get on or off here"; // TODO
+"Get on or off here" = "Sali o scendi qui"; // TODO
 
 /* No comment provided by engineer. */
 "Get Sidecar" = "Prendere Sidecar";
@@ -377,7 +377,7 @@
 "HabitualEventDescription" = "Le consuetudini sono parte dei tuoi spostamenti quotidiani, ma sono gli eventi che non desideri avere nel calendario (ad esempio, il lavoro...). Sono importanti per far si che l'agenda ti porti nel posto giusto al momento giusto.";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "Has TripGo been useful to you?"; // TODO
+"Has TripGo been useful to you?" = "TripGo è stata utile per voi?"; // TODO
 
 /* No comment provided by engineer. */
 "History cleared" = "Cronologia cancellata";
@@ -527,10 +527,10 @@
 "No locations set" = "Non ci sono posizioni impostate";
 
 /* Negative answer to follow-up question for rating or feedback. */
-"No, thanks" = "No, thanks"; // TODO
+"No, thanks" = "No, grazie"; // TODO
 
 /* Negative answer to question whether TripGo is useful. */
-"Not really" = "Not really"; // TODO
+"Not really" = "Non veramente"; // TODO
 
 /* Countdown cell 'now' indicator */
 "Now" = "Adesso";
@@ -739,7 +739,7 @@
 "Stay" = "Rimani"; // TODO
 
 /* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
-"StayEventDescription" = "Use for hotels while travelling, so that the Agenda starts and ends at the correct location."; // TODO
+"StayEventDescription" = "Use for hotels while travelling, so that the Agenda starts and ends at the correct location."; // "Utilizza per i Alberghi durante il viaggio, in modo che l'agenda inizia e termina nella posizione corretta." TODO
 
 /* Title for identifying a location where you stay overnight */
 "StayTitle" = "Luogo"; // TODO
@@ -775,13 +775,13 @@
 "Tap to set garage" = "Premi per impostare garage";
 
 /* No comment provided by engineer. */
-"Tap to set address" = "Tap to set address"; // TODO
+"Tap to set address" = "Premi per impostare l'indirizzo"; // TODO
 
 /* No comment provided by engineer. */
-"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete"; // TODO
+"Tap to set address or swipe to delete" = "Premi per impostare l'indirizzo o swipe per cancelare"; // TODO
 
 /* No comment provided by engineer. */
-"Tap to set garage" = "Tap to set garage"; // TODO
+"Tap to set garage" = "Premi per impostare garage"; // TODO
 
 /* No comment provided by engineer. */
 "Taxi Providers" = "Fornitori di Taxi";
@@ -799,7 +799,7 @@
 "Time at Work" = "Tempo al lavoro";
 
 /* Time zone (typically for an event) */
-"Time zone" = "Time zone"; // TODO
+"Time zone" = "Fuso orario"; // TODO
 
 /* Header for times a user is typically at this location, e.g., working hours */
 "Times" = "Orari"; // TODO
@@ -875,13 +875,13 @@
 "Work" = "Lavoro";
 
 /* Positive answer to follow-up question for rating or feedback. */
-"Yeah, ok!" = "Yeah, ok!"; // TODO
+"Yeah, ok!" = "Sì, ok!"; // TODO
 
 /* Positive answer to question whether TripGo is useful. */
-"Yes!" = "Yes!"; // TODO
+"Yes!" = "Si!"; // TODO
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "You might not make this transfer."; // TODO
+"You might not make this transfer." = "Potreste non riuscire di fare questo trasferimento."; // TODO
 
 /* No comment provided by engineer. */
 "Zoom in" = "Zoom in";
