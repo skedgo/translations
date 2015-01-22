@@ -5,10 +5,10 @@
 " every " = " ogni ";
 
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "%1$@ presto (%2$@ servizio)"; // TODO
+"%1$@ early (%2$@ service)" = "%1$@ presto (%2$@ servizio)";
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "%1$@ tardi (%2$@ servizio)"; // TODO
+"%1$@ late (%2$@ service)" = "%1$@ tardi (%2$@ servizio)";
 
 /* No comment provided by engineer. */
 "Add address..." = "Aggiungi indirizzo...";
@@ -97,7 +97,7 @@
 "Auto" = "Automatico";
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
-"Awesome! How about rating us?" = "Impressionante! Ci daresti una valutazione?"; // TODO
+"Awesome! How about rating us?" = "Impressionante! Ci daresti una valutazione?";
 
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "Torna a %@";
@@ -112,7 +112,7 @@
 "BookTaxi" = "Prenota taxi";
 
 /* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
-"Bummer... How about some feedback?" = "Peccato... Che ne dite di un feedback?"; // TODO
+"Bummer... How about some feedback?" = "Peccato... Che ne dite di un feedback?";
 
 /* No comment provided by engineer. */
 "Cache" = "Cache";
@@ -124,7 +124,7 @@
 "Calendar Event" = "Evento";// event = evento nel calendario di Apple
 
 /* Explanation for what calendar events are compared to habituals and stays. Can be long-ish. */
-"CalendarEventDescription" = "Eventi regolari che verranno salvati nel calendario del dispositivo."; // TODO
+"CalendarEventDescription" = "Eventi regolari che verranno salvati nel calendario del dispositivo.";
 
 /* No comment provided by engineer. */
 "Calendars" = "Calendari";
@@ -206,7 +206,7 @@
 "Done" = "Fatto";
 
 /* Title for page for modifying a routine/stay at a specific location */
-"EditItemHereTitle" = "Oggetto di Agenda"; // TODO
+"EditItemHereTitle" = "Oggetto di Agenda";
 
 /* Title for date when an event ends repeating */
 "End Date" = "Fine";
@@ -254,7 +254,7 @@
 "Every " = "Ogni ";
 
 /* Text do mark an example */
-"Example" = "Esempio"; // TODO
+"Example" = "Esempio";
 
 /* Action title to exclude an event from routing
    Exclude event action */
@@ -292,7 +292,7 @@
 "Filter" = "Filtro";
 
 /* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Trova un passaggio"; // TODO
+"Find a ride" = "Trova un passaggio";
 
 /* Flight */
 "Flight" = "Volo";
@@ -346,13 +346,13 @@
 "Get Lyft" = "Prendere Lyft";
 
 /* No comment provided by engineer. */
-"Get off here" = "Scendi qui"; // TODO
+"Get off here" = "Scendi qui";
 
 /* No comment provided by engineer. */
-"Get on here" = "Sali qui"; // TODO
+"Get on here" = "Sali qui";
 
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
-"Get on or off here" = "Sali o scendi qui"; // TODO
+"Get on or off here" = "Sali o scendi qui";
 
 /* No comment provided by engineer. */
 "Get Sidecar" = "Prendere Sidecar";
@@ -377,7 +377,7 @@
 "HabitualEventDescription" = "Le consuetudini sono parte dei tuoi spostamenti quotidiani, ma sono gli eventi che non desideri avere nel calendario (ad esempio, il lavoro...). Sono importanti per far si che l'agenda ti porti nel posto giusto al momento giusto.";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "TripGo è stata utile per voi?"; // TODO
+"Has TripGo been useful to you?" = "TripGo è stata utile per voi?";
 
 /* No comment provided by engineer. */
 "History cleared" = "Cronologia cancellata";
@@ -482,7 +482,7 @@
 "More Options" = "Altre opzioni";
 
 /* Sample event name ('Movie') */
-"Movie" = "Film"; // TODO
+"Movie" = "Film";
 
 /* User preferences title */
 "My Priorities" = "Le mie priorità";
@@ -500,16 +500,16 @@
 "NewEvent" = "Nuovo evento";
 
 /* Action title for adding a habitual item away from some location */
-"NewItemAwayActionTitle" = "Rimani in un luogo diverso"; // TODO
+"NewItemAwayActionTitle" = "Rimani in un luogo diverso";
 
 /* Action title for adding another habitual visit to a favourite */
-"NewItemHereActionTitle" = "Aggiungi quando sono qui"; // TODO
+"NewItemHereActionTitle" = "Aggiungi quando sono qui";
 
 /* Title for page for adding a new routine/stay at a specific location */
-"NewItemHereTitle" = "Oggetto di Agenda"; // TODO
+"NewItemHereTitle" = "Oggetto di Agenda";
 
 /* Title for page for adding a new routing/stay at a specific location */
-"NewStayTitle" = "nuova posizione"; // TODO
+"NewStayTitle" = "nuova posizione";
 
 /* Button title to complete this step and advance to next */
 "Next" = "Prossimo";
@@ -527,10 +527,10 @@
 "No locations set" = "Non ci sono posizioni impostate";
 
 /* Negative answer to follow-up question for rating or feedback. */
-"No, thanks" = "No, grazie"; // TODO
+"No, thanks" = "No, grazie";
 
 /* Negative answer to question whether TripGo is useful. */
-"Not really" = "Non veramente"; // TODO
+"Not really" = "Non veramente";
 
 /* Countdown cell 'now' indicator */
 "Now" = "Adesso";
@@ -599,7 +599,7 @@
 "Reminders" = "Promemoria";
 
 /* No comment provided by engineer. */
-"Remove" = "Rimuovi"; // TODO
+"Remove" = "Rimuovi";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "Rimuovi Preferito";
@@ -703,7 +703,7 @@
 "Show details" = "Mostra i dettagli";
 
 /* Button to show disclaimers, e.g., info of public transport data. */
-"Show disclaimer" = "Mostra disconoscimento"; // TODO
+"Show disclaimer" = "Mostra disconoscimento";
 
 /* No comment provided by engineer. */
 "Show info" = "Mostra info";
@@ -736,13 +736,13 @@
 "Start of Week" = "Inizio della Settimana";
 
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
-"Stay" = "Rimani"; // TODO
+"Stay" = "Rimani";
 
 /* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
-"StayEventDescription" = "Use for hotels while travelling, so that the Agenda starts and ends at the correct location."; // "Utilizza per i Alberghi durante il viaggio, in modo che l'agenda inizia e termina nella posizione corretta." TODO
+"StayEventDescription" = "Utilizza per i Alberghi durante il viaggio, in modo che l'agenda inizia e termina nella posizione corretta.";
 
 /* Title for identifying a location where you stay overnight */
-"StayTitle" = "Luogo"; // TODO
+"StayTitle" = "Luogo";
 
 /* Number of steps */
 "StepsNumber" = "%@Numero di passi";
@@ -775,13 +775,13 @@
 "Tap to set garage" = "Premi per impostare garage";
 
 /* No comment provided by engineer. */
-"Tap to set address" = "Premi per impostare l'indirizzo"; // TODO
+"Tap to set address" = "Premi per impostare l'indirizzo";
 
 /* No comment provided by engineer. */
-"Tap to set address or swipe to delete" = "Premi per impostare l'indirizzo o swipe per cancelare"; // TODO
+"Tap to set address or swipe to delete" = "Premi per impostare l'indirizzo o swipe per cancelare";
 
 /* No comment provided by engineer. */
-"Tap to set garage" = "Premi per impostare garage"; // TODO
+"Tap to set garage" = "Premi per impostare garage";
 
 /* No comment provided by engineer. */
 "Taxi Providers" = "Fornitori di Taxi";
@@ -799,10 +799,10 @@
 "Time at Work" = "Tempo al lavoro";
 
 /* Time zone (typically for an event) */
-"Time zone" = "Fuso orario"; // TODO
+"Time zone" = "Fuso orario";
 
 /* Header for times a user is typically at this location, e.g., working hours */
-"Times" = "Orari"; // TODO
+"Times" = "Orari";
 
 /* Timetable title */
 "Timetable" = "Orario";
@@ -829,7 +829,7 @@
 "TripGo does not work in this area yet. Please navigate to one of our supported regions and try again." = "TripGo non funziona ancora in questa zona. Si prega di navigare in una delle nostre regioni supportate e riprovare ";
 
 /* Trips tab bar name */
-"TripsButton" = "Viaggi"; // TODO
+"TripsButton" = "Viaggi";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Resetta Tutorial";
@@ -875,13 +875,13 @@
 "Work" = "Lavoro";
 
 /* Positive answer to follow-up question for rating or feedback. */
-"Yeah, ok!" = "Sì, ok!"; // TODO
+"Yeah, ok!" = "Sì, ok!";
 
 /* Positive answer to question whether TripGo is useful. */
-"Yes!" = "Si!"; // TODO
+"Yes!" = "Si!";
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "Potreste non riuscire di fare questo trasferimento."; // TODO
+"You might not make this transfer." = "Potreste non riuscire di fare questo trasferimento.";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Zoom in";
