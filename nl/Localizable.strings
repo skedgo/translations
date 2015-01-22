@@ -5,16 +5,16 @@
 " every " = " elke ";
 
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+"%1$@ early (%2$@ service)" = "%1$@ te vroeg (%2$@ dienst)";
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+"%1$@ late (%2$@ service)" = "%1$@ te laat (%2$@ dienst)";
 
 /* No comment provided by engineer. */
-"Add address..." = "Add address..."; // TODO
+"Add address..." = "Voeg adres toe...";
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Add another recurrence"; // TODO
+"Add another recurrence" = "Voeg een nieuwe herhaling toe";
 
 /* Add reminder activity title */
 "Add Reminder" = "Herinnering instellen";
@@ -97,7 +97,7 @@
 "Auto" = "Auto";
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
-"Awesome! How about rating us?" = "Awesome! How about rating us?"; // TODO
+"Awesome! How about rating us?" = "Super! Wilt u ons een waardering geven?";
 
 /* Agenda item for going back to a previous event which has %name */
 "BackToPreviousLocationFormat" = "Terug naar %@";
@@ -112,7 +112,7 @@
 "BookTaxi" = "Boek taxi";
 
 /* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
-"Bummer... How about some feedback?" = "Bummer... How about some feedback?"; // TODO
+"Bummer... How about some feedback?" = "Vertel ons waarom?";
 
 /* No comment provided by engineer. */
 "Cache" = "Cache";
@@ -254,7 +254,7 @@
 "Every " = "Elke ";
 
 /* Text do mark an example */
-"Example" = "Example"; // TODO
+"Example" = "Voorbeeld";
 
 /* Action title to exclude an event from routing
    Exclude event action */
@@ -292,7 +292,7 @@
 "Filter" = "Filter";
 
 /* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Find a ride"; // TODO
+"Find a ride" = "Vind een rit";
 
 /* Flight */
 "Flight" = "Vlucht";
@@ -346,13 +346,13 @@
 "Get Lyft" = "Lyft aanvragen";
 
 /* No comment provided by engineer. */
-"Get off here" = "Get off here"; // TODO
+"Get off here" = "Hier uitstappen";
 
 /* No comment provided by engineer. */
-"Get on here" = "Get on here"; // TODO
+"Get on here" = "Hier instappen";
 
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
-"Get on or off here" = "Get on or off here"; // TODO
+"Get on or off here" = "Hier in/uitstappen";
 
 /* No comment provided by engineer. */
 "Get Sidecar" = "Sidecar aanvragen";
@@ -377,7 +377,7 @@
 "HabitualEventDescription" = "Routines zijn pleken waar je vaak bent, maar normaal niet in je kalender zet. Werk en thuis zijn hier goede voorbeelden van.";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "Has TripGo been useful to you?"; // TODO
+"Has TripGo been useful to you?" = "Is TripGO nuttig voor jou?";
 
 /* No comment provided by engineer. */
 "History cleared" = "Geschiedenis is leeggemaakt";
@@ -482,7 +482,7 @@
 "More Options" = "Meer opties";
 
 /* Sample event name ('Movie') */
-"Movie" = "Movie"; // TODO
+"Movie" = "Film";
 
 /* User preferences title */
 "My Priorities" = "Mijn voorkeuren";
@@ -527,10 +527,10 @@
 "No locations set" = "Geen vertrekpunt of bestemming ingevoerd";
 
 /* Negative answer to follow-up question for rating or feedback. */
-"No, thanks" = "No, thanks"; // TODO
+"No, thanks" = "Nee, dankuwel";
 
 /* Negative answer to question whether TripGo is useful. */
-"Not really" = "Not really"; // TODO
+"Not really" = "Niet echt";
 
 /* Countdown cell 'now' indicator */
 "Now" = "Nu";
@@ -599,7 +599,7 @@
 "Reminders" = "Herinneringen";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // TODO
+"Remove" = "Verwijder";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "Verwijder favoriet";
@@ -772,13 +772,13 @@
 "Tap title to go to 'today'" = "Tik op de titel om naar 'vandaag' te gaan.";
 
 /* No comment provided by engineer. */
-"Tap to confirm hours or swipe to delete" = "Tap to confirm hours or swipe to delete"; // TODO
+"Tap to confirm hours or swipe to delete" = "Tik om de tijd te bevestigen of swipe om te verwijderen";
 
 /* No comment provided by engineer. */
-"Tap to set address" = "Tap to set address"; // TODO
+"Tap to set address" = "Tik om adres in te voeren";
 
 /* No comment provided by engineer. */
-"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete"; // TODO
+"Tap to set address or swipe to delete" = "Tik om adres in te voeren of swipe om te verwijderen";
 
 /* No comment provided by engineer. */
 "Tap to set garage" = "Tik om de garage in te stellen";
@@ -799,10 +799,10 @@
 "Time at Work" = "Werktijden";
 
 /* Time zone (typically for an event) */
-"Time zone" = "Time zone"; // TODO
+"Time zone" = "Tijd zone";
 
 /* Header for times a user is typically at this location, e.g., working hours */
-"Times" = "Times"; // TODO
+"Times" = "Tijden";
 
 /* Timetable title */
 "Timetable" = "Dienstregeling";
@@ -829,7 +829,7 @@
 "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo werkt helaas nog niet in dit gebied. Navigeer naar een plek waar het wel werkt (opgelichte vakken) en probeer het opnieuw.";
 
 /* Trips tab bar name */
-"TripsButton" = "Trips"; // TODO
+"TripsButton" = "Trips";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutorial reset";
@@ -875,13 +875,13 @@
 "Work" = "Werk";
 
 /* Positive answer to follow-up question for rating or feedback. */
-"Yeah, ok!" = "Yeah, ok!"; // TODO
+"Yeah, ok!" = "Ja, prima!";
 
 /* Positive answer to question whether TripGo is useful. */
-"Yes!" = "Yes!"; // TODO
+"Yes!" = "Ja!";
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "You might not make this transfer."; // TODO
+"You might not make this transfer." = "U zou deze connectie misschien niet kunnen halen.";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Zoom in";
