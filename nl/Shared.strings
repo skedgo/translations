@@ -179,7 +179,7 @@
 "OK" = "OK";
 
 /* Button to open Settings app section for this app */
-"Open Settings" = "Open Settings"; // TODO
+"Open Settings" = "Instellingen openen";
 
 /* Please select a location prompt */
 "Please select a location" = "Selecteer een locatie";
@@ -239,10 +239,10 @@
 "We were unable to find a location with that name." = "We konden geen locatie vinden met deze naam.";
 
 /* Every weekday in context of repetitions (especially recurring events) */
-"Weekdays" = "Weekdays"; // TODO
+"Weekdays" = "Weekdagen";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Weekends"; // TODO
+"Weekends" = "Weekeinden";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "U heeft eerder de toegang van deze app naar uw kalender geweigerd. Ga naar Instellingen > Privacy > Kalender en geef deze app toestemming om deze functie te gebruiken.";
