@@ -177,7 +177,7 @@
 "OK" = "Aceptar";
 
 /* Button to open Settings app section for this app */
-"Open Settings" = "Open Settings"; // TODO
+"Open Settings" = "Configuración";
 
 /* Please select a location prompt */
 "Please select a location" = "Seleccione una ubicación";
@@ -237,10 +237,10 @@
 "We were unable to find a location with that name." = "No pudimos encontrar una ubicación con ese nombre.";
 
 /* Every weekday in context of repetitions (especially recurring events) */
-"Weekdays" = "Weekdays"; // TODO
+"Weekdays" = "Días de semana";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Weekends"; // TODO
+"Weekends" = "Fines de semana";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "El permiso para acceder al calendario fue denegado previamente. Por favor, vaya a Ajustes > Privacidad > Calendario y autorize a esta aplicación para utilizar esta funcionalidad.";
