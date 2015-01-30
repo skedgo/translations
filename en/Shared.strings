@@ -19,6 +19,9 @@
 /* Cancel - for action sheets */
 "Cancel" = "Cancel";
 
+/* Label for when a service is cancelled. */
+"Cancelled" = "Cancelled";
+
 /* Type of vehicle : car */
 "Car" = "Car";
 

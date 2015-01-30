@@ -1,3 +1,6 @@
+/* Duration without traffic */
+"%@ w/o traffic" = "%@ w/o traffic"; // TODO
+
 /* No comment provided by engineer. */
 "1 stop" = "1站";
 
@@ -44,6 +47,9 @@
 /* Time departure */
 "LeaveTime" = "于%@离开";
 
+/* No comment provided by engineer. */
+"Live traffic" = "Live traffic"; // TODO
+
 /* ArrivalTime */
 "MessageArrivalTime" = "我将于%2$@到达%1$@.";
 
@@ -58,6 +64,9 @@
 
 /* No comment provided by engineer. */
 "Real-time" = "即时";
+
+/* Indicator for a ride share vehicle such as Uber, Lyft */
+"Ride share" = "Ride share"; // TODO
 
 /* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
 "Shuttle" = "接驳车";

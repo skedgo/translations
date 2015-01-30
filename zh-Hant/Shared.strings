@@ -19,13 +19,16 @@
 /* Cancel - for action sheets */
 "Cancel" = "取消";
 
+/* Label for when a service is cancelled. */
+"Cancelled" = "Cancelled"; // TODO
+
 /* Type of vehicle : car */
 "Car" = "轎車";
 
 /* Accessibility - user location button - hint */
 "Change tracking options" = "變更追蹤選項";
 
-/* No comment provided by engineer. */
+/* Accessibility title for a checkmark/tick button */
 "Checkmark" = "選取標記";
 
 /* Close action */
@@ -52,10 +55,11 @@
 /* Short indicator of end-time */
 "ends at %@" = "在%@結束";
 
-/* Everyday */
+/* Everyday in context of repetitions (especially recurring events) */
 "Everyday" = "每天";
 
-/* Every %day, e.g., 'Every Monday' */
+/* 'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'
+   Every %day, e.g., 'Every Monday' */
 "EveryDayFormat" = "每%@";
 
 /* Free */
@@ -158,7 +162,7 @@
 /* Sort by name */
 "Name" = "名稱";
 
-/* Never */
+/* Never in context of repetitions (especially recurring events) */
 "Never" = "永不重複";
 
 /* No comment provided by engineer. */
@@ -198,7 +202,7 @@
 /* Repeats yearly */
 "Repeats yearly" = "每年重複";
 
-/* Sort by score */
+/* Sort by overall score, like a ranking. */
 "Score" = "評分";
 
 /* Empty search bar placeholder */

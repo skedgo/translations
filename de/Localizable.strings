@@ -49,6 +49,9 @@
 /* No comment provided by engineer. */
 "Agenda cleared" = "Agenda geleert";
 
+/* Title for agenda screen while it's still in setup mode. */
+"Agenda Setup" = "Agenda-Setup";
+
 /* Agenda button name
  Agenda tab bar name */
 "AgendaButton" = "Agenda";
@@ -881,7 +884,7 @@
 "Yes!" = "Ja!";
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "Nächste Verbindung wird knapp.";
+"You might not make this transfer." = "Anschluss wird ggf. nicht erreicht.";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Vergrößern";

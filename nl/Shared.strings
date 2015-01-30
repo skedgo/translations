@@ -19,6 +19,9 @@
 /* Cancel - for action sheets */
 "Cancel" = "Annuleer";
 
+/* Label for when a service is cancelled. */
+"Cancelled" = "Cancelled"; // TODO
+
 /* Type of vehicle : car */
 "Car" = "Auto";
 
@@ -30,9 +33,6 @@
 
 /* Close action */
 "Close" = "Sluiten";
-
-/* Current location */
-"Current location" = "Huidige locatie";
 
 /* No comment provided by engineer. */
 "Current Location" = "Huidige Locatie";

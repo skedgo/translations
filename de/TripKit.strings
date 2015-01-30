@@ -1,3 +1,6 @@
+/* Duration without traffic */
+"%@ w/o traffic" = "%@ ohne Verkehr";
+
 /* No comment provided by engineer. */
 "1 stop" = "1 Stop";
 
@@ -44,6 +47,9 @@
 /* Time departure */
 "LeaveTime" = "Abfahrt um %@";
 
+/* No comment provided by engineer. */
+"Live traffic" = "Live-Verkehr";
+
 /* ArrivalTime */
 "MessageArrivalTime" = "Ich komme bei %@ um %@ an.";
 
@@ -58,6 +64,9 @@
 
 /* No comment provided by engineer. */
 "Real-time" = "Echtzeit";
+
+/* Indicator for a ride share vehicle such as Uber, Lyft */
+"Ride share" = "Ride-Share";
 
 /* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
 "Shuttle" = "Shuttlebus";

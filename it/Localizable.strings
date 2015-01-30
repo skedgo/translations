@@ -49,6 +49,9 @@
 /* No comment provided by engineer. */
 "Agenda cleared" = "Agenda cancellata";
 
+/* Title for agenda screen while it's still in setup mode. */
+"Agenda Setup" = "Agenda Setup"; // TODO
+
 /* Agenda button name
    Agenda tab bar name */
 "AgendaButton" = "Agenda";
