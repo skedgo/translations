@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!--English string in settings, need translation-->
+    
+    <string name="settings_category_results">Trip Results</string>
+    <string name="settings_category_usage">Anonymous Data Tracking</string>
+    <string name="settings_category_reminders">Notifications</string>
+    <string name="settings_category_searching">Searching</string>
+
+    <!--English strings -->
+	
+	<!-- Tung, remember to wrap <small>  </small> for below string--> 
+    <string name="filter_timetable_hint">Filter by service name, number or stop</string>
+	
+    <string name="clear">Clear</string>
+    <string name="about">About</string>
+    <string name="arrived">Arrived</string>
+    <string name="settings">Settings</string>
+    <string name="remove">Remove</string>
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+    <string name="go_here">Go Here</string>
+    <string name="done">Done</string>
+    <string name="leave_after">Leave after</string>
+    <string name="arrive_by">Arrive by</string>
+    <string name="set_time">Set time</string>
+    <string name="navigate">Navigate</string>
+    <string name="public_transport">Public Transport</string>
+    <string name="car">Car</string>
+    <string name="taxi">Taxi</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="motorbike">Motorbike</string>
+    <string name="show_more">Show more..</string>
+    <string name="current_location">Current Location</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="favourites_description">View favorite locations</string>
+    <string name="route_description">View list of results</string>
+    <string name="go_to_current_location">Go to current location</string>
+    <string name="add_to_favourite">Add to favorites</string>
+    <string name="favourite_added">Added to favorites</string>
+    <string name="favourite_removed">Removed from favorites</string>
+    <string name="favourite_saved">Favorite saved</string>
+    <string name="add_reminder">Add to agenda</string>
+    <string name="reminder_added">Added to agenda</string>
+    <string name="remove_reminder">Remove from agenda</string>
+    <string name="reminders">Reminders</string>
+    <string name="reminder_removed">Removed from agenda</string>
+    <string name="cannot_add_reminder_for_past_trip">Cannot add reminder for past trip</string>
+    <string name="remove_from_favourites">Remove from favorites</string>
+    <string name="routines_del_warning">routines at this location will also be removed</string>
+    <string name="edit_favourite">Edit favorite</string>
+    <string name="report_problem">Report Problem</string>
+    <string name="go_to_today">Go to today</string>
+    <string name="go_to_date">Go to date</string>
+    <string name="add_an_event">Add an event</string>
+    <string name="add_a_routine">Add a routine</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="sort_by">Sort By</string>
+    <string name="time">Time</string>
+    <string name="duration">Duration</string>
+    <string name="cost">Cost</string>
+    <string name="carbon">Carbon</string>
+    <string name="alerts">Alerts</string>
+    <string name="did_you_mean">Did you mean&#8230;</string>
+    <string name="segment_image">Segment Image</string>
+    <string name="send_real_time_sms">Send real time SMS</string>
+    <string name="book_a_shuttle">Book a Shuttle</string>
+    <string name="choose_an_alternative">Choose an Alternative</string>
+    <string name="might_not_make_this_transfer">You might not make this transfer</string>
+    <!-- \n is a marker, no need to translate --> 
+	
+	<string name="real_time_enabled">\nReal time data is available</string>
+    <string name="email_optional">Email (Optional)</string>
+    <string name="feedback_type">Feedback Type</string>
+    <string name="other_comments">Other Comments</string>
+    <string name="send">Send</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="upcoming_services">Upcoming Services</string>
+    <string name="no_results_available">No results available</string>
+    <string name="no_services_available">No services available</string>
+    <string name="no_reminders_set">No reminders set</string>
+    <string name="no_favourites_saved">No favorite locations saved</string>
+    <string name="loading">Loading..</string>
+    <string name="wait_for_search_result">Sorry, can not search for both "From" and "To" at the same time!</string>
+	
+	<!--   the backward slash is the escape character in string, in plain English it would be TripGo's range -->
+    <string name="outside_region_error">Sorry, that location is outside of TripGo\'s range!</string>
+    <string name="error_sharing_trip">Error sharing this trip, please check your network connection!</string>
+    <string name="request_not_supported">Sorry, the requested data is not supported by TripGo for now.</string>
+    <string name="location_too_close_errors">Locations are too close to each other</string>
+    <string name="current_location_outside_region">Sorry, you are outside of TripGo\'s range!</string>
+    <string name="from_location_outside_region">Sorry, starting location is of outside TripGo\'s range!</string>
+    <string name="to_location_outside_region">Sorry, destination is outside of TripGo\'s range!</string>
+    <string name="save_as_favourite">Save as favorite</string>
+    <string name="go_to_here">Go to here</string>
+    <string name="select_canlendar_event">Pick time from event</string>
+    <string name="select_date_time_hint">Or select specific time</string>
+    <string name="call">Call</string>
+    <string name="view_on_yelp">View on Yelp</string>
+    <string name="no_ratings_received">No ratings received</string>
+    <string name="cant_call_error">Error placing call</string>
+    <string name="show_traffic">Show traffic</string>
+    <string name="hide_traffic">Hide traffic</string>
+    <string name="drop_pin_on_map">Drop pin on map</string>
+    <string name="stops">Stops</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="skip">Skip</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="get_started">Get Started!</string>
+    <string name="use_contact_data">Use contact data</string>
+    <string name="use_calendar_data">Use calendar data</string>
+    <string name="add_to_contacts">Add to contacts</string>
+    <string name="vehicle_modes">Vehicle Modes</string>
+    <string name="page_title_welcome">Welcome!</string>
+    <string name="search">Search</string>
+    <string name="page_title_save">Save</string>
+    <string name="page_title_timetables">Timetables</string>
+    <string name="page_title_real_time">Real-time</string>
+
+    <string name="trip_preferences">Trip Preferences</string>
+    <string name="priority_budget">Budget</string>
+    <string name="priority_time">Time</string>
+    <string name="priority_environment">Environment</string>
+    <string name="priority_convenience">Convenience</string>
+    <string name="priority_budget_subtext">Trip cost</string>
+    <string name="priority_time_subtext">Trip duration</string>
+    <string name="priority_environment_subtext">Impact of the trip</string>
+    <string name="priority_convenience_subtext">Hassle of the trip</string>
+    <string name="sorted_by_departure">Sorted by Departure Time</string>
+    <string name="sorted_by_arrival">Sorted by Arrival Time</string>
+    <string name="sorted_by_duration">Sorted by Trip Duration</string>
+    <string name="sorted_by_cost">Sorted by Cost</string>
+    <string name="sorted_by_carbon">Sorted by Carbon Cost</string>
+    <string name="no_google_play_services_title">No Google Play Services!</string>
+    <string name="no_google_play_services_message">This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</string>
+    <string name="get_google_play_services">Get Google Play Services</string>
+
+    <string name="tripgo_not_working_in_your_area">Try our other app </string>
+    <string name="ask_to_download_transit_plus">TripGo is not working in your area yet. However, we have a beta app that uses crowdsourced data. How about you give it a try?</string>
+	
+	<!-- Get  as in "Get Transit+", but the name may change later, so just needs the word Get to be translated" -->
+    <string name="get_transit_plus">Get</string>
+
+    <string name="view_timetable_subtitle">Upcoming services</string>
+    <string name="timetable_download_error">Error downloading services</string>
+    <string name="timetable_no_data">No services found for this stop</string>
+    <string name="facebook_link">https://www.facebook.com/SkedGo</string>
+    <string name="twitter_link">http://twitter.com/tripgo</string>
+    <string name="tripgo_twitter">TripGo on Twitter</string>
+    <string name="tripgo_facebook">TripGo on Facebook</string>
+
+    <string name="expand">Expand</string>
+    <string name="invalid_transfer_time">Invalid time, revert to last used value.</string>
+    <string name="swap_starting_and_destination_location">Swap starting and destination locations</string>
+    <string name="starting_location">Starting location</string>
+    <string name="destination_location">Destination location</string>
+    <string name="time_of_trip">Time of trip</string>
+    <string name="trip">Trip</string>
+    <string name="saved_trip">Opening Saved Trip</string>
+    <string name="page_between_upcoming_services">Page between upcoming services</string>
+    <string name="view_location_details">View location details</string>
+    <string name="view_timetable_for_stop">View timetable of upcoming services</string>
+    <string name="handle_external_act_title">Handling request&#8230;</string>
+    <string name="routes">Routes</string>
+    <string name="about_tripgo">About TripGo</string>
+    <string name="favourites">Favorites</string>
+    <string name="favourite_location">Favorite Location</string>
+    <string name="location_name">Location Name</string>
+    <string name="address">Address</string>
+    <string name="report_chooser_title">Send report via</string>
+    <string name="an_unexpected_network_error">An unexpected network error has occurred. Please retry.</string>
+    <string name="retry">Retry</string>
+
+    <string name="rate">Rate</string>
+    <string name="later">Later</string>
+    <string name="never">Never</string>
+    <string name="rate_title">Rate TripGo</string>
+    <string name="rate_message">Do you like TripGo? You can help us grow by rating it in the store. It only takes a moment. Thanks for your help!</string>
+
+    <string name="acknowledgement_feedback">Thanks for your feedback!</string>
+    <string name="you_are_here">You are here</string>
+	<!-- %s  is a template, will be replaced by number -->
+    <string name="approximately_s_away">Approximately %s away</string>
+    <string name="couldnt_find_curr_loc">Couldn\'t find your current location</string>
+    <string name="couldnt_find_curr_loc_suggest_drop_pin">Couldn\'t find your current location, please use drop pin</string>
+    <string name="unknown_location">Unknown location</string>
+    
+	<!-- %s  is a template, will be replaced by number -->
+	<string name="coordinates_s">Coordinates: %s</string>
+    <!-- %s  is a template, will be replaced by number -->
+	<string name="you_r_already_at_s">You are already at %s!</string>
+    <string name="this_loc">this location</string>
+    <string name="auto">Auto</string>
+    <string name="km_h">Km/h</string>
+    <string name="mph">Mph</string>
+    <string name="error_getting_trips">Error getting trips. Please try again.</string>
+    <string name="share_a_query">Share</string>
+    <string name="share_this_trip">Share this trip</string>
+    <string name="share_this_result">Share this result</string>
+    <string name="share_timetable">Share timetable info</string>
+    <string name="v4_agenda">Agenda</string>
+    <string name="exclude_cal_act">Exclude checked calendars</string>
+    <string name="include_cal_act">Include checked calendars</string>
+    <string name="exclude_from_routing">Exclude this event from agenda planning</string>
+    <string name="exclude_from_routing_brief">Exclude from agenda planning</string>
+    <string name="include_from_routing">Add this event to agenda planning</string>
+    <string name="include_from_routing_brief">Add to agenda planning</string>
+    <string name="location_save_by_gps">"Cannot find address, location will be saved by GPS coordinates"</string>
+    <string name="exclude_cal_explanation">Events from those calendars will not be used in planning your day</string>
+    <string name="include_cal_explanation">Events from those calendars will be used in planning your day</string>
+
+    <string name="exclusion">Exclusion </string>
+    <string name="select_calendars">Select calendars</string>
+    
+    <string name="all_cals_invisible">All your calendars are invisible, please switch them on in native calendar app or account settings</string>
+    <string name="waiting_for_gps_fix">Waiting for location signal, if it fails, you can try turning your GPS off and on..</string>
+    <string name="event_must_have_title">Event must have a title</string>
+    <string name="event_must_have_location">A location must be set</string>
+    <string name="event_detail_title">Event details</string>
+    
+    <string name="edit_event">Edit event</string>
+    <string name="show_agenda_list">Show agenda list</string>
+    <string name="show_agenda_map">Show agenda map</string>
+    <string name="agenda_tip">View your daily agenda and favourites in the tabs below</string>
+    <string name="tip_zoom_to_view">Zoom into the map to view public transport stops</string>
+    <string name="tip_add_fav">To add a new favourite, click the plus button</string>
+    <string name="you_havent_selected_loc">You haven\'t selected a location</string>
+    <string name="use_tripgo_agenda">Use TripGo agenda</string>
+    <string name="all_calendar_disabled">No calendars enabled in TripGo settings</string>
+    <string name="one_time_event">Don\'t repeat</string>
+    <string name="go_to_now">Go to Now</string>
+    <string name="timetable">Timetable</string>
+    <string name="at">" at "</string>
+    <string name="service_placeholder">Service</string>
+    <!-- %1$s and %2$s are templates, e.g, every 1 hour 30 minutes  -->
+	<string name="every_time_min">" every %1$s %2$s"</string>
+    <string name="save_to_external_calendar">Save to calendar</string>
+    <string name="cannot_find_that_location">Address not found</string>
+    <string name="view_times">View Times</string>
+    <string name="empty_event_not_saved">Empty event is not saved</string>
+    <!-- %1$ is template -->
+	<string name="from_location_name">From %1$s</string>
+    <!-- %1$ is template -->
+	<string name="to_location_name">To %1$s</string>
+    <string name="time_to_leave_for">Time to leave for</string>
+    <string name="leave_now_to_make_on_time">Leave now to make it on time</string>
+    <string name="trip_to_unknown_dest_about_to_start">It looks like you have a trip to make</string>
+    <string name="delete">Delete</string>
+    <string name="delete_event">Delete this event</string>
+    <string name="del_only_this_event">Only this event</string>
+    <string name="del_this_and_future_events">This and future events</string>
+    <string name="del_all_events">All events</string>
+    <string name="choose_recurrence_end_date">Choose recurrence end date</string>
+    <string name="add_location">Add Location</string>
+    <string name="network_error">Network error, please check your Internet connection and try again</string>
+    <string name="nicely_informed_error">There was an error and it was reported to us. Please try again</string>
+    <string name="at_least_one_mode">You must select at least one type of transport</string>
+    <string name="location_selected">Location selected</string>
+    <string name="start_time">Starts</string>
+    <string name="end_time">Ends</string>
+
+    <string name="enable_calendar_in_tripgo_settings">All your calendars are disabled in TripGo, please enable them in Settings section</string>
+    <string name="event_not_fit">Event does not fit</string>
+    <string name="event_excluded">Event excluded</string>
+    <string name="event_update_warning">Event updated, it may take a while to see the change</string>
+    <string name="set_start_time">Set start time</string>
+    <string name="set_end_time">Set end time</string>
+    <string name="tap_to_set_location">Tap to set a location</string>
+    <string name="title">Title</string>
+
+    <string name="edit">Edit</string>
+    <string name="more_options">More Options</string>
+    <string name="tab_bar">Tab Bar</string>
+    <string name="transport">Transport</string>
+
+    <string name="book_uber">Book with Uber</string>
+    <string name="get_off">Get Off</string>
+    <string name="get_on">Get On</string>
+    <string name="default_text_add_event_item">Add when I\'m here</string>
+    <!-- meaning like recurrences -->
+	<string name="agenda_times_uppercase">AGENDA TIMES</string>
+    <string name="times_uppercase">TIMES</string>
+    <string name="Add_vehicles">Add vehicles</string>
+    <string name="garaged_vehicles_uppercase">GARAGED VEHICLES</string>
+    <string name="location_name_normal_case">Location name</string>
+    <string name="location_name_uppercase">LOCATION NAME</string>
+    <string name="location_example">School, work, ...</string>
+    <string name="recurrences">recurrences</string>
+    <string name="remove_uppercase">REMOVE</string>
+
+    <string name="name_normal_case">Name</string>
+    <string name="type_uppercase">TYPE</string>
+    <string name="set_type">Set Type</string>
+    <string name="vehicle_types">Vehicle Types</string>
+
+</resources>
