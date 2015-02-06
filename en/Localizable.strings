@@ -26,10 +26,10 @@
 "Add to Calendar" = "Add to Calendar";
 
 /* Add favourite activity title */
-"Add to Favourites" = "Add to Favourites";
+"Add to Favourites" = "Add to Favorites";
 
 /* No comment provided by engineer. */
-"Add to favourites" = "Add to favourites";
+"Add to favourites" = "Add to favorites";
 
 /* Action title for adding a vehicle */
 "Add vehicle" = "Add vehicle";
@@ -273,20 +273,20 @@
 "Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Favourites from a previous TripGo version have been found on your device. What do you want to do with them?";
 
 /* No comment provided by engineer. */
-"Favourite" = "Favourite";
+"Favourite" = "Favorite";
 
 /* Add favourite HUD notice */
-"Favourite added" = "Favourite added";
+"Favourite added" = "Favorite added";
 
 /* Remove trip from favourites HUD notice */
-"Favourite removed" = "Favourite removed";
+"Favourite removed" = "Favorite removed";
 
 /* No comment provided by engineer. */
-"Favourites" = "Favourites";
+"Favourites" = "Favorites";
 
 /* Favourites button name
    Favourites tab bar name */
-"FavouritesButton" = "Favourites";
+"FavouritesButton" = "Favorites";
 
 /* Help title */
 "Feedback & Support" = "Feedback & Support";

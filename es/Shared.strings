@@ -85,8 +85,7 @@
 "Location" = "Ubicación";
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." =
-"Servicios de localización son requeridos para esta funcionalidad. Por favor, vaya a Ajustes > Privacidad > Localización, asegúrese de que estén habilitados y autorize esta aplicación.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Servicios de localización son requeridos para esta funcionalidad. Por favor, vaya a Ajustes > Privacidad > Localización, asegúrese de que estén habilitados y autorize esta aplicación.";
 
 /* ex: 1min */
 "Min==1" = "1min";
