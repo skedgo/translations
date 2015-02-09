@@ -238,7 +238,7 @@
     <string name="location_save_by_gps">"Cannot find address, location will be saved by GPS coordinates"</string>
     <string name="exclude_cal_explanation">Events from those calendars will not be used in planning your day</string>
     <string name="include_cal_explanation">Events from those calendars will be used in planning your day</string>
-    <string name="setting_key_calendar_inclusion">setting_key_calendar_inclusion</string>
+
     <string name="exclusion">Exclusion </string>
     <string name="select_calendars">Select calendars</string>
     <string name="all_cals_invisible">All your calendars are invisible, please switch them on in native calendar app or account settings</string>

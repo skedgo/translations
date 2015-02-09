@@ -293,7 +293,6 @@
   <string name="settings_summary_server">Server to use. Note this will override *ALL* server calls!</string>
   <string name="view_timetable_subtitle">Upcoming services</string>
   <string name="clear">Clear</string>
-  <string name="setting_key_calendar_inclusion">setting_key_calendar_inclusion</string>
   <string name="get_on">Get On</string>
   <string name="view_timetable_for_stop">View timetable of upcoming services</string>
   <string name="set_time">Set time</string>
