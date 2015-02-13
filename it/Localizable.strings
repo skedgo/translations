@@ -50,7 +50,7 @@
 "Agenda cleared" = "Agenda cancellata";
 
 /* Title for agenda screen while it's still in setup mode. */
-"Agenda Setup" = "Agenda Setup"; // TODO
+"Agenda Setup" = "Impostazione dell'Agenda"; // 
 
 /* Agenda button name
    Agenda tab bar name */
