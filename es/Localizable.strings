@@ -157,7 +157,7 @@
 "Clearing history..." = "Borrando historial...";
 
 /* School pricing preference */
-"Concession Pricing" = "Precios de Concesión";
+"Concession Pricing" = "Precios Bonificados";
 
 /* Hassle preference */
 "Convenience" = "Comodidad";
@@ -184,7 +184,7 @@
 "Custom trip does not fit" = "El viaje personalizado no se ajusta";
 
 /* Cycling speed preference */
-"Cycle speed" = "Vel. en Bici";
+"Cycle speed" = "Vel. en bici";
 
 /* From %date */
 "DateFromFormat" = "Desde %@";
@@ -402,7 +402,7 @@
 "Include in routes" = "Incluir en rutas";
 
 /* School services footer */
-"Information on school services and concession pricing is subject to availability." = "La información relacionada a servicios escolares y precios de conseción está sujeta a disponibilidad.";
+"Information on school services and concession pricing is subject to availability." = "La información relacionada a servicios escolares y precios bonificados está sujeta a disponibilidad.";
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "ingogo un Taxi";
