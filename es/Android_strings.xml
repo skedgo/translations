@@ -13,7 +13,7 @@
 	<!-- Tung, remember to wrap <small>  </small> for below string--> 
     <string name="filter_timetable_hint">Filter by service name, number or stop</string>
 	
-    <string name="clear">Clear</string>
+    <string name="clear">limpiar</string>
     <string name="about">About</string>
     <string name="arrived">Arrived</string>
     <string name="settings">Settings</string>
