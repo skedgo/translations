@@ -91,10 +91,10 @@
     <string name="add_a_routine">Add a routine</string>
     <string name="add_new_location">Add new location</string>
     <string name="sort_by">Sort By</string>
-    <string name="time">Time</string>
+    <string name="arrival">Arrival</string>
+    <string name="departure">Departure</string>
     <string name="duration">Duration</string>
-    <string name="cost">Cost</string>
-    <string name="carbon">Carbon</string>
+    <string name="price">Price</string>
     <string name="alerts">Alerts</string>
     <string name="did_you_mean">Did you mean</string>
     <string name="segment_image">Segment Image</string>
@@ -162,11 +162,11 @@
     <string name="priority_time_subtext">Trip duration</string>
     <string name="priority_environment_subtext">Impact of the trip</string>
     <string name="priority_convenience_subtext">Hassle of the trip</string>
-    <string name="sorted_by_departure">Sorted by Departure Time</string>
-    <string name="sorted_by_arrival">Sorted by Arrival Time</string>
-    <string name="sorted_by_duration">Sorted by Trip Duration</string>
-    <string name="sorted_by_cost">Sorted by Cost</string>
-    <string name="sorted_by_carbon">Sorted by Carbon Cost</string>
+    <string name="sorted_by_departure">Sorted by Departure</string>
+    <string name="sorted_by_arrival">Sorted by Arrival</string>
+    <string name="sorted_by_duration">Sorted by Duration</string>
+    <string name="sorted_by_price">Sorted by Price</string>
+    <string name="sorted_by_preferred">Sorted by Preferred</string>
     <string name="no_google_play_services_title">No Google Play Services!</string>
     <string name="no_google_play_services_message">This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</string>
     <string name="get_google_play_services">Get Google Play Services</string>
@@ -334,4 +334,5 @@
     <string name="location_missing">Location missing</string>
     <string name="show_alternatives">Show Alternatives</string>
     <string name="trip_not_fit">Trip does not fit</string>
+    <string name="preferred">Preferred</string>
 </resources>

@@ -23,13 +23,14 @@
   <string name="book_uber">Book with Uber</string>
   <string name="title">名称</string>
   <string name="yesterday">Yesterday</string>
-  <string name="sorted_by_carbon">Sorted by Carbon Cost</string>
   <string name="leave_after">Leave after</string>
   <string name="get_google_play_services">Get Google Play Services</string>
   <string name="settings_category_reminders">Notifications</string>
   <string name="send_real_time_sms">Send real time SMS</string>
   <string name="reset">重置</string>
+  <string name="sorted_by_arrival">Sorted by Arrival</string>
   <string name="send">Send</string>
+  <string name="departure">离站时刻</string>
   <string name="settings_title_contact">Contact Support</string>
   <string name="favourite_saved">Favorite saved</string>
   <string name="settings_summary_track_usage">Allow TripGo to anonymously track your app usage</string>
@@ -95,6 +96,7 @@
   <string name="priority_time">Time</string>
   <string name="event_must_have_title">Event must have a title</string>
   <string name="tripgo_twitter">TripGo on Twitter</string>
+  <string name="sorted_by_preferred">Sorted by Preferred</string>
   <string name="show_more">Show more..</string>
   <string name="priority_convenience">方便性</string>
   <string name="trip_to_unknown_dest_about_to_start">It looks like you have a trip to make</string>
@@ -135,6 +137,7 @@
   <string name="time_of_trip">Time of trip</string>
   <string name="outside_region_error">Sorry, that location is outside of TripGo\'s range!</string>
   <string name="settings_title_distance_units">Km/h or Mph</string>
+  <string name="sorted_by_departure">Sorted by Departure</string>
   <string name="share_this_trip">Share this trip</string>
   <string name="request_not_supported">Sorry, the requested data is not supported by TripGo for now.</string>
   <string name="priority_time_subtext">Trip duration</string>
@@ -154,11 +157,9 @@
   <string name="recurrences">recurrences</string>
   <string name="about_tripgo">About TripGo</string>
   <string name="go_to_date">Go to date</string>
-  <string name="sorted_by_departure">Sorted by Departure Time</string>
   <string name="today">Today</string>
   <string name="to_location_outside_region">Sorry, destination is outside of TripGo\'s range!</string>
   <string name="settings_summary_shuttle_bus">Show shuttle buses in result list</string>
-  <string name="carbon">Carbon</string>
   <string name="approximately_s_away">Approximately %s away</string>
   <string name="enable_calendar_in_tripgo_settings">All your calendars are disabled in TripGo, please enable them in Settings section</string>
   <string name="edit_favourite">Edit favorite</string>
@@ -198,7 +199,9 @@
   <string name="share_timetable">Share timetable info</string>
   <string name="change_stop_message">Get on or off %s here instead?</string>
   <string name="settings_summary_auto_faves">Automatically calculate trips to your favorite locations</string>
+  <string name="sorted_by_price">Sorted by Price</string>
   <string name="location_name_uppercase">LOCATION NAME</string>
+  <string name="sorted_by_duration">Sorted by Duration</string>
   <string name="exclude_cal_explanation">Events from those calendars will not be used in planning your day</string>
   <string name="page_title_timetables">Timetables</string>
   <string name="settings_title_searching_calendar">Search calendar events</string>
@@ -231,7 +234,6 @@
   <string name="settings_summary_reminder_start_pub_trans">Show an alert before any public transport on your trip</string>
   <string name="favourite_added">Added to favorites</string>
   <string name="refresh">Refresh</string>
-  <string name="sorted_by_duration">Sorted by Trip Duration</string>
   <string name="choose_recurrence_end_date">Choose recurrence end date</string>
   <string name="transport">交通工具</string>
   <string name="skip">略过</string>
@@ -245,10 +247,8 @@
   <string name="page_title_save">Save</string>
   <string name="you_r_already_at_s">You are already at %s!</string>
   <string name="get_off">Get Off</string>
-  <string name="sorted_by_cost">Sorted by Cost</string>
   <string name="service_placeholder">Service</string>
   <string name="address">Address</string>
-  <string name="cost">Cost</string>
   <string name="add_an_event">Add an event</string>
   <string name="no_results_available">No results available</string>
   <string name="all_cals_invisible">All your calendars are invisible, please switch them on in native calendar app or account settings</string>
@@ -262,6 +262,7 @@
   <string name="nicely_informed_error">There was an error and it was reported to us. Please try again</string>
   <string name="sort_by">Sort By</string>
   <string name="time_to_leave_for">Time to leave for</string>
+  <string name="arrival">到达</string>
   <string name="location_example">School, work, ...</string>
   <string name="taxi">Taxi</string>
   <string name="settings_summary_searching_contacts">Use your contact addresses as location suggestions. This information is not stored on any server</string>
@@ -289,10 +290,12 @@
   <string name="agenda_tip">View your daily agenda and favourites in the tabs below</string>
   <string name="auto">自动</string>
   <string name="favourite_location">Favorite Location</string>
+  <string name="price">票价</string>
   <string name="del_all_events">All events</string>
   <string name="settings_summary_server">Server to use. Note this will override *ALL* server calls!</string>
   <string name="view_timetable_subtitle">Upcoming services</string>
   <string name="clear">Clear</string>
+  <string name="preferred">自动</string>
   <string name="get_on">Get On</string>
   <string name="view_timetable_for_stop">View timetable of upcoming services</string>
   <string name="set_time">Set time</string>
@@ -302,7 +305,6 @@
   <string name="unknown_location">Unknown location</string>
   <string name="cannot_find_that_location">Address not found</string>
   <string name="routine_explanation">Routines are post of your daily movement, but they aren\'t events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</string>
-  <string name="sorted_by_arrival">Sorted by Arrival Time</string>
   <string name="car">轿车</string>
   <string name="search">搜索</string>
   <string name="event_detail_title">Event details</string>
