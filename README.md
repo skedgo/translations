@@ -3,21 +3,61 @@ Translations
 
 Translation files used across the SkedGo family of products
 
-You are very welcome to contribute:
+You are very welcome to contribute. 
+
+# For those NOT familiar with version control by git
+
+1. Go to a file in your language folder (de, en, es, fi, .etc) on this website.
+
+2. Edit a file by clicking the Edit icon
+![Imgur](http://i.imgur.com/skinRij.png?1)
+
+3. Click on Propose Change 
+![Imgur](http://i.imgur.com/id5ut0B.png)
+
+4. Click on Pull Request
+![Imgur](http://i.imgur.com/11v15V1.png)
+
+5. Click on Pull Request another time
+![Imgur](http://i.imgur.com/F9AyC1L.png)
+
+
+# For those familiar with Git
 
 1. Fork this repository (button in top right of this page)
 2. Edit the file in your fork
 3. Submit a pull request
 
 
-# Translating .strings files
 
-## Opening the file
+#Translation instructions
 
-Open the file in a plain text editor. Not Word or Pages but one which can modify plain text files like Notepad or TextEdit.
+## Translating for Android
+The file to translate is android_localizable_strings.xml
+The file are a list of items which need to be translated where each item has the following structure:
 
+    <!-- Comment meant to help to translate -->
+    <string name="key">Translation</string>
 
-## Translating the file
+For example:
+
+    <!-- Comment meant to help to translate -->
+    <string name="settings_title_cycling_speed">Cycling speed</string>
+
+You have been provided with the files used for the English translation of the app. Your task is to translate the 'Translation' bit. Modify the file directly and change what's between the
+
+    <string>  </string>
+
+tags. 
+
+So the above translated to Vietnamese would be:
+
+    <!-- Comment meant to help to translate -->
+    <string name="settings_title_cycling_speed">Tốc độ xe đạp</string>
+
+If it's unclear what the context of the 'key' and the comment doesn't help, please let us know.
+
+## Translation for iOS
 
 The files are a list of items which need to be translated where each item has the following structure:
 
@@ -37,7 +77,6 @@ So the above translated to German would be:
     "Add vehicle" = "Fahrzeug hinzufügen";
 
 If it's unclear what the context of the 'Internal Key' and the comment doesn't help, please let us know.
-
 
 ## Translating formats and percentage signs
 
@@ -68,7 +107,7 @@ Could be translated as:
 (Note that the semicolon after %2$@ is part of the translation, i.e., it will be visible in the app.)
 
 
-# Translating .properties files
+## Translating .properties files
 
 The .properties files follow a similar mechanism but have the structure
 
@@ -80,6 +119,7 @@ Where placeholders are using curly braces and numbering begins at 0 (!):
     stay.on.<vehicle>.at.<from>.to.<to>=Stay on {0} at {1} to {2}
 
 **Note**: .properties files must be in ISO-8859-1. You can create the files in UTF-8 and use `native2ascii` to convert them or just append to '.utf8' to the filename, to indicate to us that it needs conversion.
+
 
 
 # Tips and trips

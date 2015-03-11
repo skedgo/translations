@@ -20,7 +20,7 @@
 "Cancel" = "Cancelar";
 
 /* Label for when a service is cancelled. */
-"Cancelled" = "Cancelled"; // TODO
+"Cancelled" = "Cancelado";
 
 /* Type of vehicle : car */
 "Car" = "Auto";

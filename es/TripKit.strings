@@ -1,5 +1,5 @@
 /* Duration without traffic */
-"%@ w/o traffic" = "%@ w/o traffic"; // TODO
+"%@ w/o traffic" = "%@ sin tráfico";
 
 /* No comment provided by engineer. */
 "1 stop" = "1 parada";
@@ -48,7 +48,7 @@
 "LeaveTime" = "Salir a las %@";
 
 /* No comment provided by engineer. */
-"Live traffic" = "Live traffic"; // TODO
+"Live traffic" = "Tráfico en tiempo real";
 
 /* ArrivalTime */
 "MessageArrivalTime" = "Voy a llegar a %@ a las %@.";
@@ -66,7 +66,7 @@
 "Real-time" = "Tiempo Real";
 
 /* Indicator for a ride share vehicle such as Uber, Lyft */
-"Ride share" = "Ride share"; // TODO
+"Ride share" = "Vehículo compartido";
 
 /* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
 "Shuttle" = "Shuttle";
