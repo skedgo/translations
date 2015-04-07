@@ -34,6 +34,9 @@
 /* Close action */
 "Close" = "Sulje";
 
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "Ei voitu ladata tue alueita TripGo palvelimelle. Yritä myöhemmin uudelleen.";
+
 /* Current location */
 "Current Location" = "Nykyinen sijainti";
 
@@ -178,6 +181,9 @@
    Error alert cancel */
 "OK" = "OK";
 
+/* Open in Safari action */
+"Open in Safari" = "Avaa Safarissa";
+
 /* Button to open Settings app section for this app */
 "Open Settings" = "Avaa Asetukset";
 
@@ -202,6 +208,9 @@
 /* Repeats yearly */
 "Repeats yearly" = "Toistaa vuosittain";
 
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "'%@' ei löytynyt.";
+
 /* Sort by overall score, like a ranking. */
 "Score" = "Pisteet";
 
@@ -213,6 +222,9 @@
 
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
+
+/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
+"See more" = "See more"; // TODO
 
 /* Tap to set location */
 "SetLocation" = "Napauta asettaamaan sijainti";

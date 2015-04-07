@@ -77,6 +77,9 @@
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ tot %@";
 
+/* No comment provided by engineer. */
+"Trip" = "Trip";
+
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Voertuig %@ bijgewerkt %@ geleden";
 

@@ -10,6 +10,9 @@
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
 "%1$@ late (%2$@ service)" = "%1$@ tardi (%2$@ servizio)";
 
+/* Format string for going from one location to another. Used to name favourite trips. */
+"%@ to %@" = "%1$@ to %2$@"; // TODO
+
 /* No comment provided by engineer. */
 "Add address..." = "Aggiungi indirizzo...";
 
@@ -65,6 +68,9 @@
 /* No comment provided by engineer. */
 "Alert" = "Attenzione";
 
+/* No comment provided by engineer. */
+"Alerts" = "Alerts"; // TODO
+
 /* Description of alert with %title */
 "AlertTitleFormat" = " Attenzione: %@";
 
@@ -102,14 +108,8 @@
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
 "Awesome! How about rating us?" = "Impressionante! Ci daresti una valutazione?";
 
-/* Agenda item for going back to a previous event which has %name */
-"BackToPreviousLocationFormat" = "Torna a %@";
-
 /* vehicle booking action */
 "Book vehicle" = "Prenota veicolo";
-
-/* Book a shuttle */
-"BookShuttle" = "Prenota una navetta";
 
 /* Book a taxi */
 "BookTaxi" = "Prenota taxi";
@@ -168,9 +168,6 @@
 /* Location manager failure error message */
 "Could not determine your current location. Please set your location manually." = "Impossibile determinare la posizione corrente. Si prega di impostare la propria posizione manualmente.";
 
-/* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Impossibile scaricare regioni supportate dal server di TripGo. Riprova più tardi.";
-
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "Inserisci il codice coupon '%@'al momento della registrazione per ricevere il tuo credito gratuito di $ 5 (valido solo per le nuove registrazioni)";
 
@@ -201,6 +198,9 @@
 
 /* Distances preference */
 "Distances" = "Distanze";
+
+/* No comment provided by engineer. */
+"Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favourites?"; // TODO
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Non hai un posto regolare di lavoro o di studio? Salta questo passaggio.";
@@ -241,17 +241,11 @@
 /* Title for the time an event ends (including date information) */
 "EventEndDateTime" = "Fine";
 
-/* Title for the time an event ends (without date information) */
-"EventEndTime" = "Fine";
-
 /* Title for when an event repeats */
 "EventRepeat" = "Ripetizione";
 
 /* Title for the time an event starts (including date information) */
 "EventStartDateTime" = "Inizio";
-
-/* Title for the time an event starts (without date information) */
-"EventStartTime" = "Inizio";
 
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
 "Every " = "Ogni ";
@@ -282,6 +276,9 @@
 "Favourite removed" = "Preferito rimosso";
 
 /* No comment provided by engineer. */
+"Favourite Trip" = "Favourite Trip"; // TODO
+
+/* No comment provided by engineer. */
 "Favourites" = "Preferiti";
 
 /* Favourites button name
@@ -293,9 +290,6 @@
 
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "Filtro";
-
-/* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Trova un passaggio";
 
 /* Flight */
 "Flight" = "Volo";
@@ -323,6 +317,12 @@
 
 /* Free directions */
 "FreeDirections" = "TripGo - Indicazioni gratuite";
+
+/* Favorite trip 'from' title */
+"From" = "From"; // TODO
+
+/* Format string for going from one location to others. Used to name favourite stops. */
+"From %@" = "From %@"; // TODO
 
 /* Route here... ...from Current location */
 "From current location" = "Dalla posizione corrente";
@@ -427,9 +427,6 @@
 
 /* Button title to switch view to list mode */
 "List" = "Elenco";
-
-/* list providers action */
-"List Taxi Numbers" = "Mostra numeri di Taxi";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "Posizione";
@@ -547,9 +544,6 @@
 /* Option to delete only this event in a recurence */
 "Only This" = "Solo questo";
 
-/* Open in Safari action */
-"Open in Safari" = "Apri in Safari";
-
 /* No comment provided by engineer. */
 "Open Lyft" = "Apri Lyft";
 
@@ -561,9 +555,6 @@
 
 /* Button title to open URL */
 "Open URL" = "Apri URL";
-
-/* shuttle website action */
-"Open Website" = "Apri Sito";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "È stato concesso il permesso. Torna indietro e prova di nuovo.";
@@ -580,11 +571,8 @@
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "E'ora di partire! Il tuo viaggio per %@ inizia alle %@";
 
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = "E'ora di partire! Il tuo %@ viaggio per %@ inizia alle %@";
-
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "Il tuo %@ viaggio su %@ per %@ inizia alle %@";
+/* Notification message for a non-public transport trip. Provided is %time you need to leave. */
+"PrivateTimeToLeaveNoLocation" = "E'ora di partire! Il tuo viaggio inizia alle %@";
 
 /* Rate us preference */
 "Rate TripGo" = "Valuta TripGo";
@@ -604,6 +592,9 @@
 /* No comment provided by engineer. */
 "Remove" = "Rimuovi";
 
+/* No comment provided by engineer. */
+"Remove and exclude event" = "Remove and exclude event"; // TODO
+
 /* Remove favourite activity title */
 "Remove Favourite" = "Rimuovi Preferito";
 
@@ -616,6 +607,12 @@
 /* Remove from agenda HUD notice */
 "Removed from Agenda" = "Rimosso dall' Agenda";
 
+/* No comment provided by engineer. */
+"Removing this trip will exclude the following event from your agenda." = "Removing this trip will exclude the following event from your agenda."; // TODO
+
+/* No comment provided by engineer. */
+"Removing this trip will exclude the preceeding event from your agenda." = "Removing this trip will exclude the preceeding event from your agenda."; // TODO
+
 /* Title for switch indicating if an event repeats or not */
 "Repeat does end" = "Ripetizione finita";
 
@@ -624,12 +621,6 @@
 
 /* Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event. */
 "Request..." = "Richiedi...";
-
-/* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' non trovato.";
-
-/* segment membership required action */
-"Requires membership" = "Serve l'abbonamento";
 
 /* Reset button for my priorities
    Title of group of settings related to resetting settings */
@@ -674,6 +665,12 @@
 /* Details of a flight prompt to enter date first. */
 "Select a date to get flight details." = "Seleziona una data per avere i dettagli del volo.";
 
+/* No comment provided by engineer. */
+"Select Bike Share" = "Select Bike Share"; // TODO
+
+/* No comment provided by engineer. */
+"Select Car Park" = "Select Car Park"; // TODO
+
 /* Walkthrough */
 "Select the place where you stay at the end of each day" = "Seleziona il luogo dove soggiornare alla fine di ogni giornata.";
 
@@ -711,8 +708,14 @@
 /* No comment provided by engineer. */
 "Show info" = "Mostra info";
 
+/* No comment provided by engineer. */
+"Show parking options" = "Show parking options"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Visualizza calendario";
+
+/* Show website action */
+"Show website" = "Apri Sito";
 
 /* Show trip */
 "ShowTrip" = "Mostra viaggio";
@@ -786,9 +789,6 @@
 /* No comment provided by engineer. */
 "Tap to set garage" = "Premi per impostare garage";
 
-/* No comment provided by engineer. */
-"Taxi Providers" = "Fornitori di Taxi";
-
 /* Description of the terminal */
 "terminalDescription" = "Terminale";
 
@@ -815,6 +815,12 @@
 
 /* Title favourite name */
 "TitleFavouriteName" = "Nome";
+
+/* Favorite trip 'to' title */
+"To" = "To"; // TODO
+
+/* Format string for going from currently location to this one. Used to name favourite destinations. */
+"To %@" = "To %@"; // TODO
 
 /* Title of settings for generic transport stuff */
 "Transport" = "Trasporto";
@@ -845,6 +851,9 @@
 
 /* No comment provided by engineer. */
 "Verify location..." = "Verifica posizione...";
+
+/* Positive answer to displayed advertising. */
+"View" = "View"; // TODO
 
 /* View alternative times for this trip */
 "View times" = "Visualizza orari";

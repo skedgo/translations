@@ -34,6 +34,9 @@
 /* Close action */
 "Close" = "Fermer";
 
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "Échec du téléchargement des régions supportées depuis le serveur de TripGo. Veuillez réessayer plus tard.";
+
 /* Current location */
 "Current Location" = "Lieu Actuel";
 
@@ -67,6 +70,9 @@
 
 /* No comment provided by engineer. */
 "Getting a lift" = "Vous faire conduire";
+
+/* Accessibility annotation for trips which have a reminder set. */
+"Has reminder" = "Has reminder"; // TODO
 
 /* Location picker include contacts. */
 "Include contacts" = "Inclure les contacts";
@@ -174,6 +180,9 @@
    Error alert cancel */
 "OK" = "OK";
 
+/* Open in Safari action */
+"Open in Safari" = "Ouvrir dans Safari";
+
 /* Button to open Settings app section for this app */
 "Open Settings" = "Ouvrir Réglages";
 
@@ -198,6 +207,9 @@
 /* Repeats yearly */
 "Repeats yearly" = "Répétition annuelle";
 
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "'%@' Aucun résultat trouvé. Veuillez réessayer.";
+
 /* Sort by score */
 "Score" = "Score";
 
@@ -209,6 +221,9 @@
 
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
+
+/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
+"See more" = "See more"; // TODO
 
 /* Tap to set location */
 "SetLocation" = "Appuyez pour définir une position";

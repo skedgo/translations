@@ -77,11 +77,8 @@
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ - %@";
 
-/* Time to leave! */
-"TimeToLeaveFrom" = "Aika lähteä! Sun %@ matka (%@) %@:stä alkaa klo %@";
-
-/* Time to leave! */
-"TimeToLeaveTo" = "Aika lähteä! Sun %@ matka %@:iin alkaa klo %@";
+/* No comment provided by engineer. */
+"Trip" = "Matka";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Ajoneuvo %@ päivitty %@ sitten";

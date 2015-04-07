@@ -10,6 +10,9 @@
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
 "%1$@ late (%2$@ service)" = "%1$@ te laat (%2$@ dienst)";
 
+/* Format string for going from one location to another. Used to name favourite trips. */
+"%@ to %@" = "%1$@ to %2$@"; // TODO
+
 /* No comment provided by engineer. */
 "Add address..." = "Voeg adres toe...";
 
@@ -65,6 +68,9 @@
 /* No comment provided by engineer. */
 "Alert" = "Alarm";
 
+/* No comment provided by engineer. */
+"Alerts" = "Alerts"; // TODO
+
 /* Description of alert with %title */
 "AlertTitleFormat" = "Alarm: %@";
 
@@ -102,14 +108,8 @@
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
 "Awesome! How about rating us?" = "Super! Wilt u ons een waardering geven?";
 
-/* Agenda item for going back to a previous event which has %name */
-"BackToPreviousLocationFormat" = "Terug naar %@";
-
 /* vehicle booking action */
 "Book vehicle" = "Boek voertuig";
-
-/* Book a shuttle */
-"BookShuttle" = "Boek een shuttle";
 
 /* Book a taxi */
 "BookTaxi" = "Boek taxi";
@@ -168,9 +168,6 @@
 /* Location manager failure error message */
 "Could not determine your current location. Please set your location manually." = "De huidige locatie kan niet vastgesteld worden. Stel uw locatie handmatig in.";
 
-/* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Er konden geen ondersteunde gebieden worden gedownload. Probeer het later opnieuw.";
-
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "Voer deze code in '%@' bij uw registratie. U krijgt AU$5 cadeau (alleen geldig voor nieuwe aanmeldingen)";
 
@@ -201,6 +198,9 @@
 
 /* Distances preference */
 "Distances" = "Afstanden";
+
+/* No comment provided by engineer. */
+"Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favourites?"; // TODO
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Geen vaste werk- of studeerplek? Dan kunt u deze stap overslaan.";
@@ -241,17 +241,11 @@
 /* Title for the time an event ends (including date information) */
 "EventEndDateTime" = "Einde";
 
-/* Title for the time an event ends (without date information) */
-"EventEndTime" = "Einde";
-
 /* Title for when an event repeats */
 "EventRepeat" = "Herhaal";
 
 /* Title for the time an event starts (including date information) */
 "EventStartDateTime" = "Start";
-
-/* Title for the time an event starts (without date information) */
-"EventStartTime" = "Start";
 
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
 "Every " = "Elke ";
@@ -282,6 +276,9 @@
 "Favourite removed" = "Favoriet verwijderd";
 
 /* No comment provided by engineer. */
+"Favourite Trip" = "Favourite Trip"; // TODO
+
+/* No comment provided by engineer. */
 "Favourites" = "Favorieten";
 
 /* Favourites button name
@@ -293,9 +290,6 @@
 
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "Filter";
-
-/* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Vind een rit";
 
 /* Flight */
 "Flight" = "Vlucht";
@@ -323,6 +317,12 @@
 
 /* Free directions */
 "FreeDirections" = "TripGo - Gratis reisadvies";
+
+/* Favorite trip 'from' title */
+"From" = "From"; // TODO
+
+/* Format string for going from one location to others. Used to name favourite stops. */
+"From %@" = "From %@"; // TODO
 
 /* Route here... ...from Current location */
 "From current location" = "Vanuit huidige locatie";
@@ -427,9 +427,6 @@
 
 /* Button title to switch view to list mode */
 "List" = "Lijst";
-
-/* list providers action */
-"List Taxi Numbers" = "Lijst Taxi Nummers";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "Locatie";
@@ -547,9 +544,6 @@
 /* Option to delete only this event in a recurence */
 "Only This" = "Alleen deze";
 
-/* Open in Safari action */
-"Open in Safari" = "Open in Safari";
-
 /* No comment provided by engineer. */
 "Open Lyft" = "Open Lyft";
 
@@ -561,9 +555,6 @@
 
 /* Button title to open URL */
 "Open URL" = "Open URL";
-
-/* shuttle website action */
-"Open Website" = "Open Website";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "Toestemming is verleend. Ga terug en probeer opnieuw.";
@@ -580,11 +571,8 @@
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "Tijd om te vertrekken! Uw reis naar %@ vertrekt om %@";
 
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = "Tijd om te vertrekken! Uw %@ reis naar %@ vertrekt om %@";
-
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "Uw %@ reis %@ naar %@ vertrekt om %@";
+/* Notification message for a non-public transport trip. Provided is %time you need to leave. */
+"PrivateTimeToLeaveNoLocation" = "Tijd om te vertrekken! Uw reis vertrekt om %@";
 
 /* Rate us preference */
 "Rate TripGo" = "Beoordeel TripGo";
@@ -604,6 +592,9 @@
 /* No comment provided by engineer. */
 "Remove" = "Verwijder";
 
+/* No comment provided by engineer. */
+"Remove and exclude event" = "Remove and exclude event"; // TODO
+
 /* Remove favourite activity title */
 "Remove Favourite" = "Verwijder favoriet";
 
@@ -616,6 +607,12 @@
 /* Remove from agenda HUD notice */
 "Removed from Agenda" = "Uit agenda verwijdered";
 
+/* No comment provided by engineer. */
+"Removing this trip will exclude the following event from your agenda." = "Removing this trip will exclude the following event from your agenda."; // TODO
+
+/* No comment provided by engineer. */
+"Removing this trip will exclude the preceeding event from your agenda." = "Removing this trip will exclude the preceeding event from your agenda."; // TODO
+
 /* Title for switch indicating if an event repeats or not */
 "Repeat does end" = "Herhaling loopt af";
 
@@ -624,12 +621,6 @@
 
 /* Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event. */
 "Request..." = "Aanvragen...";
-
-/* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' niet gevonden.";
-
-/* segment membership required action */
-"Requires membership" = "Lidmaatschap vereist";
 
 /* Reset button for my priorities
  Title of group of settings related to resetting settings */
@@ -674,6 +665,12 @@
 /* Details of a flight prompt to enter date first. */
 "Select a date to get flight details." = "Selecteer een datum voor de vluchtresultatens.";
 
+/* No comment provided by engineer. */
+"Select Bike Share" = "Select Bike Share"; // TODO
+
+/* No comment provided by engineer. */
+"Select Car Park" = "Select Car Park"; // TODO
+
 /* Walkthrough */
 "Select the place where you stay at the end of each day" = "Selecteer uw woonplaats of een andere plek waar u vaak verblijft aan het einde van elke dag";
 
@@ -711,8 +708,14 @@
 /* No comment provided by engineer. */
 "Show info" = "Bekijk info";
 
+/* No comment provided by engineer. */
+"Show parking options" = "Show parking options"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Bekijk dienstregeling";
+
+/* Show website action */
+"Show website" = "Open Website";
 
 /* Show trip */
 "ShowTrip" = "Bekijk Reis";
@@ -786,9 +789,6 @@
 /* No comment provided by engineer. */
 "Tap to set garage" = "Tik om de garage in te stellen";
 
-/* No comment provided by engineer. */
-"Taxi Providers" = "Taxi Providers";
-
 /* Description of the terminal */
 "terminalDescription" = "Terminal";
 
@@ -815,6 +815,12 @@
 
 /* Title favourite name */
 "TitleFavouriteName" = "Titel";
+
+/* Favorite trip 'to' title */
+"To" = "To"; // TODO
+
+/* Format string for going from currently location to this one. Used to name favourite destinations. */
+"To %@" = "To %@"; // TODO
 
 /* Title of settings for generic transport stuff */
 "Transport" = "Transport";
@@ -845,6 +851,9 @@
 
 /* No comment provided by engineer. */
 "Verify location..." = "Bevestig locatie...";
+
+/* Positive answer to displayed advertising. */
+"View" = "View"; // TODO
 
 /* View alternative times for this trip */
 "View times" = "Bekijk tijden";

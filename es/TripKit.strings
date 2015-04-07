@@ -77,6 +77,9 @@
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ hasta %@";
 
+/* No comment provided by engineer. */
+"Trip" = "Viaje";
+
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Vehículo %@ actualizado hace %@";
 

@@ -34,7 +34,10 @@
 /* Close action */
 "Close" = "Sluiten";
 
-/* No comment provided by engineer. */
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "Er konden geen ondersteunde gebieden worden gedownload. Probeer het later opnieuw.";
+
+/* Current location */
 "Current Location" = "Huidige Locatie";
 
 /* to %date */
@@ -178,6 +181,9 @@
  Error alert cancel */
 "OK" = "OK";
 
+/* Open in Safari action */
+"Open in Safari" = "Open in Safari"; // TODO
+
 /* Button to open Settings app section for this app */
 "Open Settings" = "Instellingen openen";
 
@@ -202,6 +208,9 @@
 /* Repeats yearly */
 "Repeats yearly" = "Herhaald jaarlijks";
 
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "'%@' niet gevonden.";
+
 /* Sort by overall score, like a ranking. */
 "Score" = "Score";
 
@@ -213,6 +222,9 @@
 
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
+
+/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
+"See more" = "See more"; // TODO
 
 /* Tap to set location */
 "SetLocation" = "Tik om de locatie in te stellen";

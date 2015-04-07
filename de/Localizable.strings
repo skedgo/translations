@@ -10,6 +10,9 @@
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
 "%1$@ late (%2$@ service)" = "%1$@ spät (%2$@ Service)";
 
+/* Format string for going from one location to another. Used to name favourite trips. */
+"%@ to %@" = "Von %1$@ nach %2$@";
+
 /* No comment provided by engineer. */
 "Add address..." = "Adresse hinzufügen...";
 
@@ -65,6 +68,9 @@
 /* No comment provided by engineer. */
 "Alert" = "Warnung";
 
+/* No comment provided by engineer. */
+"Alerts" = "Warnungen";
+
 /* Description of alert with %title */
 "AlertTitleFormat" = "Warnung: %@";
 
@@ -102,14 +108,8 @@
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
 "Awesome! How about rating us?" = "Wunderbar! Willst du TripGo bewerten?";
 
-/* Agenda item for going back to a previous event which has %name */
-"BackToPreviousLocationFormat" = "Zurück zu %@";
-
 /* vehicle booking action */
 "Book vehicle" = "Fahrzeug buchen";
-
-/* Book a shuttle */
-"BookShuttle" = "Shuttle buchen";
 
 /* Book a taxi */
 "BookTaxi" = "Taxi buchen";
@@ -168,9 +168,6 @@
 /* Location manager failure error message */
 "Could not determine your current location. Please set your location manually." = "Wir konnten deinen Standort nicht ermitteln. Bitte gib ihn manuell ein.";
 
-/* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "TripGo konnte die Liste der verfügbaren Städte nicht herunterladen. Bitte versuche es später noch einmal.";
-
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "Gib Gutscheincode '%@' bei der Anmeldung ein um dein $5 Guthaben zu bekommen (nur für neue Anmeldungen).";
 
@@ -196,11 +193,15 @@
    Departure time sorter title */
 "Departure" = "Abfahrt";
 
-/* Dismiss accessibility label */
+/* Dismiss accessibility label
+   Negative answer to displayed advertising. */
 "Dismiss" = "Ausblenden";
 
 /* Distances preference */
 "Distances" = "Entfernungen";
+
+/* No comment provided by engineer. */
+"Do you want to always use this trip and add it to your favourites?" = "Möchtest du immer diesen Trip verwenden und ihn zu deinen Favoriten hinzufügen?";
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Keinen regelmäßigen Arbeits- oder Studiumsplatz? Schritt überspringen.";
@@ -241,17 +242,11 @@
 /* Title for the time an event ends (including date information) */
 "EventEndDateTime" = "Ende";
 
-/* Title for the time an event ends (without date information) */
-"EventEndTime" = "Ende";
-
 /* Title for when an event repeats */
 "EventRepeat" = "Wiederholen";
 
 /* Title for the time an event starts (including date information) */
 "EventStartDateTime" = "Beginn";
-
-/* Title for the time an event starts (without date information) */
-"EventStartTime" = "Beginn";
 
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
 "Every " = "Alle ";
@@ -282,6 +277,9 @@
 "Favourite removed" = "Favorit gelöscht";
 
 /* No comment provided by engineer. */
+"Favourite Trip" = "Tripfavorit";
+
+/* No comment provided by engineer. */
 "Favourites" = "Favoriten";
 
 /* Favourites button name
@@ -293,9 +291,6 @@
 
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "Filter";
-
-/* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "Ride finden";
 
 /* Flight */
 "Flight" = "Flug";
@@ -323,6 +318,12 @@
 
 /* Free directions */
 "FreeDirections" = "TripGo - kostenloser Routenplaner";
+
+/* Favorite trip 'from' title */
+"From" = "Von";
+
+/* Format string for going from one location to others. Used to name favourite stops. */
+"From %@" = "Von %@";
 
 /* Route here... ...from Current location */
 "From current location" = "Von aktuellem Standort";
@@ -427,9 +428,6 @@
 
 /* Button title to switch view to list mode */
 "List" = "Liste";
-
-/* list providers action */
-"List Taxi Numbers" = "Taxi anrufen";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "Ort";
@@ -547,9 +545,6 @@
 /* Option to delete only this event in a recurence */
 "Only This" = "Nur diesen";
 
-/* Open in Safari action */
-"Open in Safari" = "In Safari öffnen";
-
 /* No comment provided by engineer. */
 "Open Lyft" = "Lyft öffnen";
 
@@ -561,9 +556,6 @@
 
 /* Button title to open URL */
 "Open URL" = "Link öffnen";
-
-/* shuttle website action */
-"Open Website" = "Website öffnen";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "Erlaubnis erteilt. Bitte erneut versuchen.";
@@ -580,11 +572,8 @@
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "Zeit zu gehen! Dein Trip nach %@ beginnt um %@";
 
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = "Zeit zu gehen! Dein  %@ Trip nach %@ beginnt um %@";
-
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "Dein %@ Trip mit %@ nach %@ beginnt um %@";
+/* Notification message for a non-public transport trip. Provided is %time you need to leave. */
+"PrivateTimeToLeaveNoLocation" = "Zeit zu gehen! Dein Trip beginnt um %@";
 
 /* Rate us preference */
 "Rate TripGo" = "Bitte bewerte TripGo";
@@ -604,6 +593,9 @@
 /* No comment provided by engineer. */
 "Remove" = "Löschen";
 
+/* No comment provided by engineer. */
+"Remove and exclude event" = "Trip löschen und Ereignis ausschließen";
+
 /* Remove favourite activity title */
 "Remove Favourite" = "Favourit gelöscht";
 
@@ -616,6 +608,12 @@
 /* Remove from agenda HUD notice */
 "Removed from Agenda" = "Von der Agenda gelöscht";
 
+/* No comment provided by engineer. */
+"Removing this trip will exclude the following event from your agenda." = "Durch Löschung dieses Trips wird das nachfolgende Ereignis von deiner Agenda ausgeschlossen.";
+
+/* No comment provided by engineer. */
+"Removing this trip will exclude the preceeding event from your agenda." = "Durch Löschung dieses Trips wird das vorherige Ereignis von deiner Agenda ausgeschlossen.";
+
 /* Title for switch indicating if an event repeats or not */
 "Repeat does end" = "Wiederholung endet";
 
@@ -624,12 +622,6 @@
 
 /* Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event. */
 "Request..." = "Beantragen...";
-
-/* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "Wir konnten ‘%@' nicht finden.";
-
-/* segment membership required action */
-"Requires membership" = "Braucht Mitgliedschaft";
 
 /* Reset button for my priorities
  Title of group of settings related to resetting settings */
@@ -674,6 +666,12 @@
 /* Details of a flight prompt to enter date first. */
 "Select a date to get flight details." = "Wähle ein Datum um Flugdetails anzuzeigen.";
 
+/* No comment provided by engineer. */
+"Select Bike Share" = "Fahrradstationen";
+
+/* No comment provided by engineer. */
+"Select Car Park" = "Parkhäuser";
+
 /* Walkthrough */
 "Select the place where you stay at the end of each day" = "Der Ort an dem du normalerweise übernachtest";
 
@@ -711,8 +709,14 @@
 /* No comment provided by engineer. */
 "Show info" = "Info anzeigen";
 
+/* No comment provided by engineer. */
+"Show parking options" = "Parkmöglichkeiten anzeigen";
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Fahrplan anzeigen";
+
+/* Show website action */
+"Show website" = "Webseite öffnen";
 
 /* Show trip */
 "ShowTrip" = "Trip anzeigen";
@@ -786,9 +790,6 @@
 /* No comment provided by engineer. */
 "Tap to set garage" = "Garage hinzufügen";
 
-/* No comment provided by engineer. */
-"Taxi Providers" = "Taxianbieter";
-
 /* Description of the terminal */
 "terminalDescription" = "Gebäude";
 
@@ -815,6 +816,12 @@
 
 /* Title favourite name */
 "TitleFavouriteName" = "Name";
+
+/* Favorite trip 'to' title */
+"To" = "Nach";
+
+/* Format string for going from currently location to this one. Used to name favourite destinations. */
+"To %@" = "Nach %@";
 
 /* Title of settings for generic transport stuff */
 "Transport" = "Transport";
@@ -845,6 +852,9 @@
 
 /* No comment provided by engineer. */
 "Verify location..." = "Adresse bestätigen...";
+
+/* Positive answer to displayed advertising. */
+"View" = "Anzeigen";
 
 /* View alternative times for this trip */
 "View times" = "Zeiten anzeigen";

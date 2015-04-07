@@ -10,6 +10,9 @@
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
 "%1$@ late (%2$@ service)" = "延誤%1$@ (%2$@ 的班次)";
 
+/* Format string for going from one location to another. Used to name favourite trips. */
+"%@ to %@" = "%1$@ to %2$@"; // TODO
+
 /* No comment provided by engineer. */
 "Add address..." = "新增地址...";
 
@@ -65,6 +68,9 @@
 /* No comment provided by engineer. */
 "Alert" = "警示";
 
+/* No comment provided by engineer. */
+"Alerts" = "Alerts"; // TODO
+
 /* Description of alert with %title */
 "AlertTitleFormat" = "警示:%@";
 
@@ -102,14 +108,8 @@
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
 "Awesome! How about rating us?" = "太棒了！給我們評價吧?";
 
-/* Agenda item for going back to a previous event which has %name */
-"BackToPreviousLocationFormat" = "返回到%@";
-
 /* vehicle booking action */
 "Book vehicle" = "預訂車輛";
-
-/* Book a shuttle */
-"BookShuttle" = "預訂接駁車";
 
 /* Book a taxi */
 "BookTaxi" = "預定計程車";
@@ -168,9 +168,6 @@
 /* Location manager failure error message */
 "Could not determine your current location. Please set your location manually." = "無法確認您目前位置．請手動設定.";
 
-/* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "無法從我們的伺服器下載所支援地區的列表．請稍後再嘗試一次。";
-
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "註冊時使用優惠券代碼'%@'可立時折抵$5元 (只適用新註冊使用者)";
 
@@ -201,6 +198,9 @@
 
 /* Distances preference */
 "Distances" = "距離";
+
+/* No comment provided by engineer. */
+"Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favourites?"; // TODO
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "如果您沒有固定的上班或是上學地點，您可以略過此步驟";
@@ -241,17 +241,11 @@
 /* Title for the time an event ends (including date information) */
 "EventEndDateTime" = "結束日期";
 
-/* Title for the time an event ends (without date information) */
-"EventEndTime" = "結束時間";
-
 /* Title for when an event repeats */
 "EventRepeat" = "重複事件";
 
 /* Title for the time an event starts (including date information) */
 "EventStartDateTime" = "開始日期";
-
-/* Title for the time an event starts (without date information) */
-"EventStartTime" = "開始時間";
 
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
 "Every " = "每 ";
@@ -282,6 +276,9 @@
 "Favourite removed" = "已從常用移除";
 
 /* No comment provided by engineer. */
+"Favourite Trip" = "Favourite Trip"; // TODO
+
+/* No comment provided by engineer. */
 "Favourites" = "常用";
 
 /* Favourites button name
@@ -293,9 +290,6 @@
 
 /* Placeholder text for search bar that is used for filtering */
 "Filter" = "篩選";
-
-/* Find a ride, using a ride sharing service such as Uber or Lyft */
-"Find a ride" = "搜尋共乘夥伴";
 
 /* Flight */
 "Flight" = "航班";
@@ -323,6 +317,12 @@
 
 /* Free directions */
 "FreeDirections" = "TripGo - 免費的旅程規劃專家";
+
+/* Favorite trip 'from' title */
+"From" = "From"; // TODO
+
+/* Format string for going from one location to others. Used to name favourite stops. */
+"From %@" = "From %@"; // TODO
 
 /* Route here... ...from Current location */
 "From current location" = "從目前位置";
@@ -427,9 +427,6 @@
 
 /* Button title to switch agenda view to list mode */
 "List" = "列表";
-
-/* list providers action */
-"List Taxi Numbers" = "業者聯絡電話";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "地點詳情";
@@ -547,9 +544,6 @@
 /* Option to delete only this event in a recurence */
 "Only This" = "僅此事件";
 
-/* Open in Safari action */
-"Open in Safari" = "在Safari中開啟";
-
 /* No comment provided by engineer. */
 "Open Lyft" = "開啟Lyft";
 
@@ -561,9 +555,6 @@
 
 /* Button title to open URL */
 "Open URL" = "開啟URL";
-
-/* shuttle website action */
-"Open Website" = "開啟網站";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "已取得授權．請返回之前的畫面並重新嘗試一次.";
@@ -580,11 +571,8 @@
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "請準備出發！您到%@的旅程將在%@開始";
 
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = "請準備出發！您搭乘%@到%@的旅程即將在%@開始";
-
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "您搭乘%1$@，班次%2$@，到%3$@將在%4$@開始";
+/* Notification message for a non-public transport trip. Provided is %time you need to leave. */
+"PrivateTimeToLeaveNoLocation" = "請準備出發！Your trip commences at %@"; // TODO
 
 /* Rate us preference */
 "Rate TripGo" = "給我們評價";
@@ -604,6 +592,9 @@
 /* No comment provided by engineer. */
 "Remove" = "移除";
 
+/* No comment provided by engineer. */
+"Remove and exclude event" = "Remove and exclude event"; // TODO
+
 /* Remove favourite activity title */
 "Remove Favourite" = "移除常用";
 
@@ -616,6 +607,12 @@
 /* Remove from agenda HUD notice */
 "Removed from Agenda" = "已從行程中移除";
 
+/* No comment provided by engineer. */
+"Removing this trip will exclude the following event from your agenda." = "Removing this trip will exclude the following event from your agenda."; // TODO
+
+/* No comment provided by engineer. */
+"Removing this trip will exclude the preceeding event from your agenda." = "Removing this trip will exclude the preceeding event from your agenda."; // TODO
+
 /* Title for switch indicating if an event repeats or not */
 "Repeat does end" = "結束重複";
 
@@ -624,12 +621,6 @@
 
 /* Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event. */
 "Request..." = "要求...";
-
-/* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "無法找到'%@'.";
-
-/* segment membership required action */
-"Requires membership" = "需要會員身份";
 
 /* Reset button for my priorities
    Title of group of settings related to resetting settings */
@@ -674,6 +665,12 @@
 /* Details of a flight prompt to enter date first. */
 "Select a date to get flight details." = "選取一個日期來獲取航班詳細資料.";
 
+/* No comment provided by engineer. */
+"Select Bike Share" = "Select Bike Share"; // TODO
+
+/* No comment provided by engineer. */
+"Select Car Park" = "Select Car Park"; // TODO
+
 /* Walkthrough */
 "Select the place where you stay at the end of each day" = "選擇一個您在每一天結束後回到的地點";
 
@@ -711,8 +708,14 @@
 /* No comment provided by engineer. */
 "Show info" = "顯示資料";
 
+/* No comment provided by engineer. */
+"Show parking options" = "Show parking options"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "顯示時刻表";
+
+/* Show website action */
+"Show website" = "開啟網站";
 
 /* Show trip */
 "ShowTrip" = "顯示旅程";
@@ -786,9 +789,6 @@
 /* No comment provided by engineer. */
 "Tap to set garage" = "按此來設定車庫";
 
-/* No comment provided by engineer. */
-"Taxi Providers" = "計程車服務商";
-
 /* Description of the terminal */
 "terminalDescription" = "航廈";
 
@@ -815,6 +815,12 @@
 
 /* Title favourite name */
 "TitleFavouriteName" = "名稱";
+
+/* Favorite trip 'to' title */
+"To" = "To"; // TODO
+
+/* Format string for going from currently location to this one. Used to name favourite destinations. */
+"To %@" = "To %@"; // TODO
 
 /* Title of settings for generic transport stuff */
 "Transport" = "運輸工具";
@@ -845,6 +851,9 @@
 
 /* No comment provided by engineer. */
 "Verify location..." = "確認地點...";
+
+/* Positive answer to displayed advertising. */
+"View" = "View"; // TODO
 
 /* View alternative times for this trip */
 "View times" = "顯示時刻表";

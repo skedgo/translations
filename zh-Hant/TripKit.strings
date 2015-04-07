@@ -77,6 +77,9 @@
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ ～ %@";
 
+/* No comment provided by engineer. */
+"Trip" = "旅程";
+
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "車輛%@的位置在%@前更新";
 

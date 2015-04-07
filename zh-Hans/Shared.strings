@@ -34,6 +34,9 @@
 /* Close action */
 "Close" = "关闭";
 
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "无法从我们的服务器下载所覆盖地区的列表．请稍后再试一次。";
+
 /* Current location */
 "Current Location" = "目前位置";
 
@@ -178,6 +181,9 @@
  Error alert cancel */
 "OK" = "OK";
 
+/* Open in Safari action */
+"Open in Safari" = "在Safari中开启";
+
 /* Button to open Settings app section for this app */
 "Open Settings" = "打开设置";
 
@@ -202,6 +208,9 @@
 /* Repeats yearly */
 "Repeats yearly" = "每年重复";
 
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "无法找到'%@'.";
+
 /* Sort by overall score, like a ranking. */
 "Score" = "评分";
 
@@ -213,6 +222,9 @@
 
 /* ex: 87s */
 "Seconds<120" = "%.0f秒";
+
+/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
+"See more" = "See more"; // TODO
 
 /* Tap to set location */
 "SetLocation" = "点击来选取地点";

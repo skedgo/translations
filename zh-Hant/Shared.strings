@@ -34,6 +34,9 @@
 /* Close action */
 "Close" = "關閉";
 
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "無法從我們的伺服器下載所支援地區的列表．請稍後再嘗試一次。";
+
 /* Current location */
 "Current Location" = "目前位置";
 
@@ -178,6 +181,9 @@
  Error alert cancel */
 "OK" = "好";
 
+/* Open in Safari action */
+"Open in Safari" = "在Safari中開啟";
+
 /* Button to open Settings app section for this app */
 "Open Settings" = "開啟設定";
 
@@ -202,6 +208,9 @@
 /* Repeats yearly */
 "Repeats yearly" = "每年重複";
 
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "無法找到'%@'.";
+
 /* Sort by overall score, like a ranking. */
 "Score" = "評分";
 
@@ -213,6 +222,9 @@
 
 /* ex: 87s */
 "Seconds<120" = "%.0f秒";
+
+/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
+"See more" = "See more"; // TODO
 
 /* Tap to set location */
 "SetLocation" = "點擊來選取地點";

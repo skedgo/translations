@@ -34,6 +34,9 @@
 /* Close action */
 "Close" = "Chiudere";
 
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "Impossibile scaricare regioni supportate dal server di TripGo. Riprova più tardi.";
+
 /* Current location */
 "Current Location" = "Posizione attuale";
 
@@ -178,6 +181,9 @@
    Error alert cancel */
 "OK" = "OK";
 
+/* Open in Safari action */
+"Open in Safari" = "Apri in Safari";
+
 /* Button to open Settings app section for this app */
 "Open Settings" = "Apri Impostazioni";
 
@@ -202,6 +208,9 @@
 /* Repeats yearly */
 "Repeats yearly" = "Ripeti annualmente";
 
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "Wir konnten ‘%@' nicht finden.";
+
 /* Sort by overall score, like a ranking. */
 "Score" = "Punteggio";
 
@@ -213,6 +222,9 @@
 
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
+
+/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
+"See more" = "See more"; // TODO
 
 /* Tap to set location */
 "SetLocation" = "Seleziona un luogo";
