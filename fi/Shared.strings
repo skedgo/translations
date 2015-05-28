@@ -25,8 +25,8 @@
 /* Type of vehicle : car */
 "Car" = "Auto";
 
-/* Accessibility - user location button - hint */
-"Change tracking options" = "Muuta seurantavaihtoehtoja";
+/* Credit card number */
+"Card No." = "Card No."; // TODO
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "Valintamerkki";
@@ -34,11 +34,20 @@
 /* Close action */
 "Close" = "Sulje";
 
+/* Error title when GPS failed. */
+"Could not determine your current location." = "Could not determine your current location."; // TODO
+
 /* Could not download supported regions warning */
 "CouldNotDownloadSupportedRegions" = "Ei voitu ladata tue alueita TripGo palvelimelle. Yritä myöhemmin uudelleen.";
 
+/* Section title for credit card payment */
+"Credit card" = "Credit card"; // TODO
+
 /* Current location */
 "Current Location" = "Nykyinen sijainti";
+
+/* Credit card CVC */
+"CVC" = "CVC"; // TODO
 
 /* to %date */
 "DateToFormat" = "%@:iin";
@@ -52,8 +61,14 @@
 /* Sort by distance */
 "Distance" = "Etäisyys";
 
+/* Keyboard accessory button title */
+"Done" = "Tehty";
+
 /* Drop new pin */
 "DropNewPin" = "Pudota uusi pin";
+
+/* Email address where receipt is sent */
+"Email" = "Email"; // TODO
 
 /* Short indicator of end-time */
 "ends at %@" = "loppuu klo %@";
@@ -65,27 +80,38 @@
    Every %day, e.g., 'Every Monday' */
 "EveryDayFormat" = "Joka %@";
 
+/* Email placeholder text */
+"example@example.com" = "example@example.com"; // TODO
+
+/* Credit card expiry date */
+"Expiry Date" = "Expiry Date"; // TODO
+
+/* Option that allows users to indicate whether reminder is needed */
+"For when to leave" = "For when to leave"; // TODO
+
 /* Free as in beer */
 "Free" = "Ilmaista";
 
 /* No comment provided by engineer. */
 "Getting a lift" = "Saaen kyydin";
 
+/* Indicating that we are contacting Stripe for payment token */
+"Getting stripe token" = "Getting stripe token"; // TODO
+
 /* Accessibility annotation for trips which have a reminder set. */
 "Has reminder" = "On muistutus";
 
-/* Location picker include contacts. */
+/* Include contacts. */
 "Include contacts" = "Sisällytä yhteystiedot";
 
-/* Location picker include events. */
+/* Include events. */
 "Include events" = "Sisällytä tapahtumat";
 
 /* Instant results proposal */
 "Instant results" = "Tuloksia heti";
 
-/* Location name
-   Title for location search screen */
-"Location" = "Sijainti";
+/* Name placeholder text */
+"John Appleseed" = "John Appleseed"; // TODO
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Sijainti palveluja tarvitaan käyttää tätä ominaisuutta. Mene Settings> Tietosuoja> Location Services, varmista, että ne ovat päällä ja valtuuttaa tämän appin.";
@@ -110,6 +136,9 @@
 
 /* ex: 1 minute */
 "Minute" = "1 minuuttia";
+
+/* Option that allows users to indicate how eary to show trip reminder */
+"Minutes before trip" = "Minutes before trip"; // TODO
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld minuuttia";
@@ -156,17 +185,25 @@
 /* ex: 1 Hour 17 minutes */
 "Minutes>=60%60!=1" = "%ld tunti %ld minuuttia";
 
+/* 'more' indicator for truncated text. */
+"more" = "more"; // TODO
+
 /* More results proposal */
 "More results" = "Lisää tuloksia";
 
 /* Type of vehicle : motorbike */
 "Motorbike" = "Moottoripyörä";
 
-/* Sort by name */
+/* Name to which receipt is sent
+   Sort by name */
 "Name" = "Nimi";
 
 /* Never in context of repetitions (especially recurring events) */
 "Never" = "Ei koskaan";
+
+/* Button title to complete this step and advance to next
+   Keyboard accessory button title to complete this step and advance to next */
+"Next" = "Seuraava";
 
 /* No comment provided by engineer. */
 "No CO₂" = "Ei CO₂";
@@ -187,14 +224,26 @@
 /* Button to open Settings app section for this app */
 "Open Settings" = "Avaa Asetukset";
 
-/* Please select a location prompt */
-"Please select a location" = "Valitse sijainti";
+/* No comment provided by engineer. */
+"Password" = "Password"; // TODO
 
-/* Please verify the location prompt */
-"Please verify the location" = "Tarkista sijainti";
+/* Indicating a payment is successful */
+"Payment successful" = "Payment successful"; // TODO
+
+/* Section title for Paypal payment */
+"Paypal" = "Paypal"; // TODO
+
+/* Error recovery suggestion when GPS fails. */
+"Please try again or set your location manually." = "Please try again or set your location manually."; // TODO
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "Paina 'Etsi' saamaan lisää...";
+
+/* Title for section that asks users where payment receipt should be sent */
+"Receipt" = "Receipt"; // TODO
+
+/* Section title at the end of a booking that allows users to set reminders */
+"Reminder" = "Reminder"; // TODO
 
 /* Repeats daily */
 "Repeats daily" = "Toistuu päivittäin";
@@ -223,32 +272,14 @@
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
 
-/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
-"See more" = "See more"; // TODO
-
 /* Tap to set location */
 "SetLocation" = "Napauta asettaamaan sijainti";
-
-/* Error alert title */
-"Sorry" = "Anteeksi";
 
 /* Short indicator of start-time */
 "starts at %@" = "Alkaa klo %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "SUV";
-
-/* Accessibility - user location button - off */
-"Tracking - off" = "Seuranta - pois";
-
-/* user location button - follow */
-"Tracking - on" = "Seuranta - päällä";
-
-/* user location button - follow with heading */
-"Tracking - on with heading" = "Seuranta - päällä (sis. suunto)";
-
-/* No comment provided by engineer. */
-"We were unable to find a location with that name." = "Emme voineet löytää paikkaan tällä nimellä.";
 
 /* Every weekday in context of repetitions (especially recurring events) */
 "Weekdays" = "Arkisin";
