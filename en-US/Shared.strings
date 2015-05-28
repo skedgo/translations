@@ -1,4 +1,4 @@
-﻿/* Authorization restricted alert message */
+/* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider.";
 
 /* Accessibility label for action button */
@@ -19,11 +19,14 @@
 /* Cancel - for action sheets */
 "Cancel" = "Cancel";
 
+/* Label for when a service is cancelled. */
+"Cancelled" = "Cancelled";
+
 /* Type of vehicle : car */
 "Car" = "Car";
 
-/* Accessibility - user location button - hint */
-"Change tracking options" = "Change tracking options";
+/* Credit card number */
+"Card No." = "Card No.";
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "Checkmark";
@@ -31,8 +34,20 @@
 /* Close action */
 "Close" = "Close";
 
+/* Error title when GPS failed. */
+"Could not determine your current location." = "Could not determine your current location.";
+
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "Could not download supported regions from TripGo's server. Please try again later.";
+
+/* Section title for credit card payment */
+"Credit card" = "Credit card";
+
 /* Current location */
 "Current Location" = "Current Location";
+
+/* Credit card CVC */
+"CVC" = "CVC";
 
 /* to %date */
 "DateToFormat" = "to %@";
@@ -46,8 +61,14 @@
 /* Sort by distance */
 "Distance" = "Distance";
 
+/* Keyboard accessory button title */
+"Done" = "Done";
+
 /* Drop new pin */
 "DropNewPin" = "Drop new pin";
+
+/* Email address where receipt is sent */
+"Email" = "Email";
 
 /* Short indicator of end-time */
 "ends at %@" = "ends at %@";
@@ -59,27 +80,38 @@
    Every %day, e.g., 'Every Monday' */
 "EveryDayFormat" = "Every %@";
 
+/* Email placeholder text */
+"example@example.com" = "example@example.com";
+
+/* Credit card expiry date */
+"Expiry Date" = "Expiry Date";
+
+/* Option that allows users to indicate whether reminder is needed */
+"For when to leave" = "For when to leave";
+
 /* Free as in beer */
 "Free" = "Free";
 
 /* No comment provided by engineer. */
 "Getting a lift" = "Getting a lift";
 
+/* Indicating that we are contacting Stripe for payment token */
+"Getting stripe token" = "Getting stripe token";
+
 /* Accessibility annotation for trips which have a reminder set. */
 "Has reminder" = "Has reminder";
 
-/* Location picker include contacts. */
+/* Include contacts. */
 "Include contacts" = "Include contacts";
 
-/* Location picker include events. */
-"Include events" = "Include events";
+/* Include events. */
+"Include events" = "Include calendar events";
 
 /* Instant results proposal */
 "Instant results" = "Instant results";
 
-/* Location name
-   Title for location search screen */
-"Location" = "Location";
+/* Name placeholder text */
+"John Appleseed" = "John Appleseed";
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app.";
@@ -104,6 +136,9 @@
 
 /* ex: 1 minute */
 "Minute" = "1 minute";
+
+/* Option that allows users to indicate how eary to show trip reminder */
+"Minutes before trip" = "Minutes before trip";
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld minutes";
@@ -150,17 +185,25 @@
 /* ex: 1 Hour 17 minutes */
 "Minutes>=60%60!=1" = "%ld hour %ld minutes";
 
+/* 'more' indicator for truncated text. */
+"more" = "more";
+
 /* More results proposal */
 "More results" = "More results";
 
 /* Type of vehicle : motorbike */
 "Motorbike" = "Motorbike";
 
-/* Sort by name */
+/* Name to which receipt is sent
+   Sort by name */
 "Name" = "Name";
 
 /* Never in context of repetitions (especially recurring events) */
 "Never" = "Never";
+
+/* Button title to complete this step and advance to next
+   Keyboard accessory button title to complete this step and advance to next */
+"Next" = "Next";
 
 /* No comment provided by engineer. */
 "No CO₂" = "No CO₂";
@@ -175,14 +218,32 @@
    Error alert cancel */
 "OK" = "OK";
 
-/* Please select a location prompt */
-"Please select a location" = "Please select a location";
+/* Open in Safari action */
+"Open in Safari" = "Open in Safari";
 
-/* Please verify the location prompt */
-"Please verify the location" = "Please verify the location";
+/* Button to open Settings app section for this app */
+"Open Settings" = "Open Settings";
+
+/* No comment provided by engineer. */
+"Password" = "Password";
+
+/* Indicating a payment is successful */
+"Payment successful" = "Payment successful";
+
+/* Section title for Paypal payment */
+"Paypal" = "Paypal";
+
+/* Error recovery suggestion when GPS fails. */
+"Please try again or set your location manually." = "Please try again or set your location manually.";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "Press 'search' for more...";
+
+/* Title for section that asks users where payment receipt should be sent */
+"Receipt" = "Receipt";
+
+/* Section title at the end of a booking that allows users to set reminders */
+"Reminder" = "Reminder";
 
 /* Repeats daily */
 "Repeats daily" = "Repeats daily";
@@ -195,6 +256,9 @@
 
 /* Repeats yearly */
 "Repeats yearly" = "Repeats yearly";
+
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "'%@' not found.";
 
 /* Sort by overall score, like a ranking. */
 "Score" = "Score";
@@ -211,26 +275,17 @@
 /* Tap to set location */
 "SetLocation" = "Tap to set location";
 
-/* Error alert title */
-"Sorry" = "Sorry";
-
 /* Short indicator of start-time */
 "starts at %@" = "starts at %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "SUV";
 
-/* Accessibility - user location button - off */
-"Tracking - off" = "Tracking - off";
+/* Every weekday in context of repetitions (especially recurring events) */
+"Weekdays" = "Weekdays";
 
-/* user location button - follow */
-"Tracking - on" = "Tracking - on";
-
-/* user location button - follow with heading */
-"Tracking - on with heading" = "Tracking - on with heading";
-
-/* No comment provided by engineer. */
-"We were unable to find a location with that name." = "We were unable to find a location with that name.";
+/* Every weekend day in context of repetitions (especially recurring events) */
+"Weekends" = "Weekends";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature.";

@@ -25,8 +25,8 @@
 /* Type of vehicle : car */
 "Car" = "Auto";
 
-/* Accessibility - user location button - hint */
-"Change tracking options" = "Ortungsoptionen";
+/* Credit card number */
+"Card No." = "Kartennr.";
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "Haken";
@@ -34,11 +34,20 @@
 /* Close action */
 "Close" = "Schließen";
 
+/* Error title when GPS failed. */
+"Could not determine your current location." = "Ortung fehlgeschlagen.";
+
 /* Could not download supported regions warning */
 "CouldNotDownloadSupportedRegions" = "TripGo konnte die Liste der verfügbaren Städte nicht herunterladen. Bitte versuche es später noch einmal.";
 
+/* Section title for credit card payment */
+"Credit card" = "Kreditkarte";
+
 /* Current location */
 "Current Location" = "Aktueller Ort";
+
+/* Credit card CVC */
+"CVC" = "CVC"; // TODO
 
 /* to %date */
 "DateToFormat" = "bis %@";
@@ -52,8 +61,14 @@
 /* Sort by distance */
 "Distance" = "Distanz";
 
+/* Keyboard accessory button title */
+"Done" = "Fertig";
+
 /* Drop new pin */
 "DropNewPin" = "Stecknadel";
+
+/* Email address where receipt is sent */
+"Email" = "E-Mail";
 
 /* Short indicator of end-time */
 "ends at %@" = "endet um %@";
@@ -65,11 +80,23 @@
    Every %day, e.g., 'Every Monday' */
 "EveryDayFormat" = "Jeden %@";
 
+/* Email placeholder text */
+"example@example.com" = "name@firma.de";
+
+/* Credit card expiry date */
+"Expiry Date" = "Expiry Date"; // TODO
+
+/* Option that allows users to indicate whether reminder is needed */
+"For when to leave" = "Vor dem Trip";
+
 /* Free as in beer */
 "Free" = "Kostenlos";
 
 /* No comment provided by engineer. */
 "Getting a lift" = "Mitfahrgelegenheit";
+
+/* Indicating that we are contacting Stripe for payment token */
+"Getting stripe token" = "Zahlungsbestätigung beantragt";
 
 /* Accessibility annotation for trips which have a reminder set. */
 "Has reminder" = "Erinnerung aktiv";
@@ -83,9 +110,8 @@
 /* Instant results proposal */
 "Instant results" = "Autovervollständigung";
 
-/* Location name
-   Title for location search screen */
-"Location" = "Ort";
+/* Name placeholder text */
+"John Appleseed" = "John Appleseed";
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Ortungsdienste sind für dieses Feature benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz > Ortungsdiesten > TripGo.";
@@ -110,6 +136,9 @@
 
 /* ex: 1 minute */
 "Minute" = "1 Minute";
+
+/* Option that allows users to indicate how eary to show trip reminder */
+"Minutes before trip" = "Minuten vorher";
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld Minuten";
@@ -156,17 +185,25 @@
 /* ex: 1 Hour 17 minutes */
 "Minutes>=60%60!=1" = "%ld Stunde %ld MInuten";
 
+/* 'more' indicator for truncated text. */
+"more" = "mehr";
+
 /* More results proposal */
 "More results" = "Mehr Ergebnisse";
 
 /* Type of vehicle : motorbike */
 "Motorbike" = "Motorrad";
 
-/* Sort by name */
+/* Name to which receipt is sent
+   Sort by name */
 "Name" = "Name";
 
 /* Never in context of repetitions (especially recurring events) */
 "Never" = "Niemals";
+
+/* Button title to complete this step and advance to next
+   Keyboard accessory button title to complete this step and advance to next */
+"Next" = "Weiter";
 
 /* No comment provided by engineer. */
 "No CO₂" = "Kein CO₂";
@@ -187,14 +224,26 @@
 /* Button to open Settings app section for this app */
 "Open Settings" = "Einstellungen öffnen";
 
-/* Please select a location prompt */
-"Please select a location" = "Bitte Ort auswählen";
+/* No comment provided by engineer. */
+"Password" = "Passwort";
 
-/* Please verify the location prompt */
-"Please verify the location" = "Bitte Ort bestätigen";
+/* Indicating a payment is successful */
+"Payment successful" = "Bezahlung erfolgreich";
+
+/* Section title for Paypal payment */
+"Paypal" = "Paypal";
+
+/* Error recovery suggestion when GPS fails. */
+"Please try again or set your location manually." = "Bitte erneut versuchen oder Ort manuell auswählen.";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "'Suche' für mehr drücken...";
+
+/* Title for section that asks users where payment receipt should be sent */
+"Receipt" = "Bestätigung";
+
+/* Section title at the end of a booking that allows users to set reminders */
+"Reminder" = "Erinnerung";
 
 /* Repeats daily */
 "Repeats daily" = "Täglich";
@@ -223,32 +272,14 @@
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
 
-/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
-"See more" = "Mehr anzeigen";
-
 /* Tap to set location */
 "SetLocation" = "Ort auswählen";
-
-/* Error alert title */
-"Sorry" = "Sorry";
 
 /* Short indicator of start-time */
 "starts at %@" = "beginnt um %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "Jeep";
-
-/* Accessibility - user location button - off */
-"Tracking - off" = "Ortung - aus";
-
-/* user location button - follow */
-"Tracking - on" = "Ortung - ein";
-
-/* user location button - follow with heading */
-"Tracking - on with heading" = "Ortung - ein, inklusive Richtung";
-
-/* No comment provided by engineer. */
-"We were unable to find a location with that name." = "Wir konnten keinen Ort mit dem Namen finden.";
 
 /* Every weekday in context of repetitions (especially recurring events) */
 "Weekdays" = "Wochentags";
