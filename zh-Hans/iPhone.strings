@@ -1,6 +1,6 @@
 
 /* Class = "IBUITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe"; */
-"3d9-Hg-2Fe.title" = "旅程";
+"3d9-Hg-2Fe.title" = "路线";
 
 /* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
 "5WK-au-VFq.title" = "设定";
@@ -9,7 +9,7 @@
 "IFX-i9-ymN.title" = "旅程";
 
 /* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
-"JMk-5m-B22.title" = "路线";
+"JMk-5m-B22.title" = "公交线路";
 
 /* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "KGR-eg-uwA"; */
 "KGR-eg-uwA.title" = "常用";
