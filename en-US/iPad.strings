@@ -1,6 +1,6 @@
 
 /* Class = "UINavigationItem"; title = "Routes"; ObjectID = "A61-q2-DtW"; */
-"A61-q2-DtW.title" = "Routes";
+"A61-q2-DtW.title" = "Trips";
 
 /* Class = "UINavigationItem"; title = "Trip"; ObjectID = "Ae9-5l-gdh"; */
 "Ae9-5l-gdh.title" = "Trip";
@@ -9,10 +9,10 @@
 "Coq-sX-wUc.title" = "Favorites";
 
 /* Class = "UINavigationItem"; title = "Service"; ObjectID = "Evj-sr-WmQ"; */
-"Evj-sr-WmQ.title" = "Service";
+"Evj-sr-WmQ.title" = "Route";
 
 /* Class = "UINavigationItem"; title = "Timetable"; ObjectID = "Zm3-OW-yUo"; */
-"Zm3-OW-yUo.title" = "Schedule";
+"Zm3-OW-yUo.title" = "Stop";
 
 /* Class = "UINavigationItem"; title = "Search"; ObjectID = "zLA-pv-5AY"; */
-"zLA-pv-5AY.title" = "Search";
+"zLA-pv-5AY.title" = "Directions";
