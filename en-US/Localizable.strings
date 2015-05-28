@@ -1,7 +1,7 @@
-/* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
+/* Filler for a specific service running at a time, e.g., '396 at 11:56am'.  Shouldn't this be "%@ at %@"? */
 " at " = " at ";
 
-/* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
+/* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'  Shouldn't this be "%@ every %@"? */
 " every " = " every ";
 
 /* Format string for going from one location to another. Used to name favourite trips. */
@@ -10,57 +10,58 @@
 /* Error title when access to location hasn't been granted, but location is required. */
 "Access to location services required." = "Access to location services required.";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer. How come only this one has an ellipsis?*/
 "Add address..." = "Add address...";
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Add another recurrence";
+"Add another recurrence" = "Add more repeats";
 
 /* Add reminder activity title */
-"Add Reminder" = "Add Reminder";
+"Add Reminder" = "Add Alert";
 
 /* Add to agenda view title
    Save trip action */
-"Add to Agenda" = "Add to Agenda";
+"Add to Agenda" = "Save to Agenda";
 
 /* Add to calendar activity title */
-"Add to Calendar" = "Add to Calendar";
+"Add to Calendar" = "Save to Calendar";
 
 /* Add favourite activity title */
-"Add to Favourites" = "Add to Favorites";
+"Add to Favourites" = "Save to Favorites";
 
 /* No comment provided by engineer. */
-"Add to favourites" = "Add to favorites";
+"Add to favourites" = "Save to favorites";
 
 /* Action title for adding a vehicle */
 "Add vehicle" = "Add vehicle";
 
 /* Add to agenda HUD notice */
-"Added to Agenda" = "Added to Agenda";
+"Added to Agenda" = "Saved to Agenda";
 
 /* Added to calendar HUD message */
-"Added to calendar" = "Added to calendar";
+"Added to calendar" = "Saved to Calendar";
 
-/* Add a new stopover */
+/* Add a new stopover. How come only this one has an ellipsis? */
 "AddStopover" = "Add stopover...";
 
 /* Agenda title */
 "Agenda" = "Agenda";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  Cleared or reset? */
 "Agenda cleared" = "Agenda cleared";
 
 /* Title for agenda screen while it's still in setup mode. */
 "Agenda Setup" = "Agenda Setup";
 
 /* Agenda button name
-   Agenda tab bar name */
+   Agenda tab bar name
+   I thought Agenda tab bar name was in another file? */
 "AgendaButton" = "Agenda";
 
 /* Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1' */
-"AirlineFlightNumber" = "%@ flight %@";
+"AirlineFlightNumber" = "%@ #%@";
 
-/* Flight from a city to an other one */
+/* Flight from a city to an other one.  Need an e.g. here. */
 "AirlineFromTo" = "%@ (%@) to %@ (%@)";
 
 /* No comment provided by engineer. */
