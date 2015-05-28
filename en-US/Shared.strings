@@ -7,7 +7,7 @@
 /* Indicator that an event is all-day */
 "all-day" = "all-day";
 
-/* Estimated time of arrival */
+/* Estimated time of arrival. Should this be a fragment? */
 "ArrivalTimeIndication" = " (arrive ";
 
 /* Authorisation needed title */
@@ -28,17 +28,17 @@
 /* Credit card number */
 "Card No." = "Card No.";
 
-/* Accessibility title for a checkmark/tick button */
+/* Accessibility title for a checkmark/tick button.  Does this button toggle?  Is it a "checkbox"?  */
 "Checkmark" = "Checkmark";
 
 /* Close action */
 "Close" = "Close";
 
 /* Error title when GPS failed. */
-"Could not determine your current location." = "Could not determine your current location.";
+"Could not determine your current location." = "GPS failed.";
 
 /* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Could not download supported regions from TripGo's server. Please try again later.";
+"CouldNotDownloadSupportedRegions" = "Could not download from TripGo's servers. Check your internet connection or try again later.";
 
 /* Section title for credit card payment */
 "Credit card" = "Credit card";
@@ -49,26 +49,26 @@
 /* Credit card CVC */
 "CVC" = "CVC";
 
-/* to %date */
+/* to %date. ??? */
 "DateToFormat" = "to %@";
 
 /* Delete action */
 "Delete" = "Delete";
 
-/* Estimated time of departure */
+/* Estimated time of departure. Should this be a fragment? */
 "DepartureTimeIndication" = " (depart ";
 
 /* Sort by distance */
 "Distance" = "Distance";
 
-/* Keyboard accessory button title */
+/* Keyboard accessory button title.  For what action? */
 "Done" = "Done";
 
-/* Drop new pin */
+/* Drop new pin.  Does this remove old pins, if any?  'new' implies it won't. */
 "DropNewPin" = "Drop new pin";
 
 /* Email address where receipt is sent */
-"Email" = "Email";
+"Email" = "Email Address";
 
 /* Short indicator of end-time */
 "ends at %@" = "ends at %@";
@@ -84,7 +84,7 @@
 "example@example.com" = "example@example.com";
 
 /* Credit card expiry date */
-"Expiry Date" = "Expiry Date";
+"Expiry Date" = "Expiration Date";
 
 /* Option that allows users to indicate whether reminder is needed */
 "For when to leave" = "For when to leave";
@@ -96,10 +96,10 @@
 "Getting a lift" = "Getting a lift";
 
 /* Indicating that we are contacting Stripe for payment token */
-"Getting stripe token" = "Getting stripe token";
+"Getting stripe token" = "Checking with stripe...";
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "Has reminder";
+"Has reminder" = "Has alert";
 
 /* Include contacts. */
 "Include contacts" = "Include contacts";
@@ -111,7 +111,7 @@
 "Instant results" = "Instant results";
 
 /* Name placeholder text */
-"John Appleseed" = "John Appleseed";
+"John Appleseed" = "Johnny Appleseed";
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app.";
@@ -122,6 +122,7 @@
 /* ex: 17mins */
 "Min!=1" = "%ldmins";
 
+/* can't do hr & hrs */
 /* ex: 1.5h */
 "Min>=60%30==0" = "%.1fh";
 
@@ -137,17 +138,17 @@
 /* ex: 1 minute */
 "Minute" = "1 minute";
 
-/* Option that allows users to indicate how eary to show trip reminder */
+/* Option that allows users to indicate how early to show trip reminder */
 "Minutes before trip" = "Minutes before trip";
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld minutes";
 
 /* ex: 1 Min */
-"Minutes<89==1" = "1 Min";
+"Minutes<89==1" = "1 min";
 
 /* ex: 17 Mins */
-"Minutes<89!=1" = "%ld Mins";
+"Minutes<89!=1" = "%ld mins";
 
 /* ex: 2.5 Hours" */
 "Minutes>119%30==0" = "%.1f hours";
@@ -168,13 +169,13 @@
 "Minutes>140%2!=0" = "%.1fh";
 
 /* ex: 2 Hours */
-"Minutes>89%2==0" = "%ld Hours";
+"Minutes>89%2==0" = "%ld hours";
 
-/* ex: 2.3 Hours */
-"Minutes>89%2!=0" = "%.1f Hours";
+/* ex: 2.3 Hours ??? */
+"Minutes>89%2!=0" = "%.1f hours";
 
 /* ex: 1.5 Hour */
-"Minutes>=60%30==0" = "%.1f hour";
+"Minutes>=60%30==0" = "%.1f hours";
 
 /* ex: 1 Hour */
 "Minutes>=60%60==0" = "%.0f hour";
@@ -186,13 +187,13 @@
 "Minutes>=60%60!=1" = "%ld hour %ld minutes";
 
 /* 'more' indicator for truncated text. */
-"more" = "more";
+"more" = "...";
 
 /* More results proposal */
 "More results" = "More results";
 
 /* Type of vehicle : motorbike */
-"Motorbike" = "Motorbike";
+"Motorbike" = "Motorcycle";
 
 /* Name to which receipt is sent
    Sort by name */
@@ -211,7 +212,7 @@
 /* Countdown cell 'now' indicator */
 "Now" = "Now";
 
-/* Number of repeats */
+/* Number of repeats.  Not separate for singular and plural? */
 "NumberReccurences" = "%lu recurrences.";
 
 /* Authorisation ok button
@@ -222,55 +223,55 @@
 "Open in Safari" = "Open in Safari";
 
 /* Button to open Settings app section for this app */
-"Open Settings" = "Open Settings";
+"Open Settings" = "App Settings";
 
 /* No comment provided by engineer. */
 "Password" = "Password";
 
-/* Indicating a payment is successful */
-"Payment successful" = "Payment successful";
+/* Indicating a payment is successful.  No upsell? */
+"Payment successful" = "Thank you for your payment";
 
 /* Section title for Paypal payment */
-"Paypal" = "Paypal";
+"Paypal" = "PayPal";
 
-/* Error recovery suggestion when GPS fails. */
-"Please try again or set your location manually." = "Please try again or set your location manually.";
+/* Error recovery suggestion when GPS fails. Can't retry until a) it works or b) location is set manually?*/
+"Please try again or set your location manually." = "Please set your location manually.";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "Press 'search' for more...";
 
 /* Title for section that asks users where payment receipt should be sent */
-"Receipt" = "Receipt";
+"Receipt" = "Receipt Recipient";
 
 /* Section title at the end of a booking that allows users to set reminders */
-"Reminder" = "Reminder";
+"Reminder" = "Set alerts";
 
 /* Repeats daily */
-"Repeats daily" = "Repeats daily";
+"Repeats daily" = "Daily";
 
 /* Repeats monthly */
-"Repeats monthly" = "Repeats monthly";
+"Repeats monthly" = "Monthly";
 
 /* Repeats weekly */
-"Repeats weekly" = "Repeats weekly";
+"Repeats weekly" = "Weekly";
 
 /* Repeats yearly */
-"Repeats yearly" = "Repeats yearly";
+"Repeats yearly" = "Yearly";
 
-/* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' not found.";
+/* Error when location search for %input was not successful.  No suggested action? */
+"RequestErrorFormat" = "Sorry, '%@' not found.";
 
 /* Sort by overall score, like a ranking. */
-"Score" = "Score";
+"Score" = "Preferred";
 
-/* Empty search bar placeholder */
+/* Empty search bar placeholder.  Within what am I searching? */
 "Search" = "Search";
 
 /* No comment provided by engineer. */
 "Search Results" = "Search Results";
 
 /* ex: 87s */
-"Seconds<120" = "%.0fs";
+"Seconds<120" = "%.0fsec";
 
 /* Tap to set location */
 "SetLocation" = "Tap to set location";
@@ -285,7 +286,7 @@
 "Weekdays" = "Weekdays";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Weekends";
+"Weekends" = "Saturdays & Sundays";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature.";
@@ -294,7 +295,7 @@
 "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature.";
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
-"{Name}'s" = "%@'s";
+"{Name}'s" = "%@";
 
 /* No comment provided by engineer. */
 "{Name}'s Home" = "%@'s Home";
