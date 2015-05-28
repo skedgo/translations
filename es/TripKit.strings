@@ -1,3 +1,18 @@
+/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'. */
+"%1$@ early" = "%1$@ antes";
+
+/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ early (%2$@ service)" = "%1$@ antes (Servicio de las %2$@)";
+
+/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min' */
+"%1$@ late" = "%1$@ tarde";
+
+/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ late (%2$@ service)" = "%1$@ tarde (Servicio de las %2$@)";
+
+/* Duration without traffic */
+"%@ w/o traffic" = "%@ sin tráfico";
+
 /* No comment provided by engineer. */
 "1 stop" = "1 parada";
 
@@ -44,8 +59,14 @@
 /* Time departure */
 "LeaveTime" = "Salir a las %@";
 
+/* No comment provided by engineer. */
+"Live traffic" = "Tráfico en tiempo real";
+
 /* ArrivalTime */
 "MessageArrivalTime" = "Voy a llegar a %@ a las %@.";
+
+/* Indicator to show when a service is on time according to real-time data. */
+"On time" = "On time"; // TODO
 
 /* Arrival Location */
 "PrimaryLocationEnd" = "Hacia %@";
@@ -59,14 +80,14 @@
 /* No comment provided by engineer. */
 "Real-time" = "Tiempo Real";
 
-/* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
-"Shuttle" = "Shuttle";
-
 /* Number of stops before you get off a vehicle */
 "Stops" = "%ld paradas";
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ hasta %@";
+
+/* No comment provided by engineer. */
+"Trip" = "Viaje";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Vehículo %@ actualizado hace %@";

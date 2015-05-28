@@ -86,8 +86,7 @@ take.the.<vehicle>.at.<from>.to.<to>=從{1}到{2}搭乘{0}
 take.<serviceName>.for.<duration> = Take {0} for {1}
 share.taxi.with.<number>.others=跟其他{0}人共乘計程車
 ride.taxi=搭乘計程車
-# TODO
-ride.TNC=Ride
+ride.TNC=搭乘
 take.shuttle.with.<number>.others=跟其他{0}人共乘接駁車
 take.shuttle=搭乘接駁車
 drive.<vehicleName>.=駕駛{0}
@@ -103,8 +102,7 @@ your.<vehicleName>=您的{0}
 <owner>_s.<vehicleName>={0}的{1}
 subject.to.availability=視情況而定
 fare.applies=適用票價
-# TODO
-fare.from.<moneyCost>=Fare from {0}
+fare.from.<moneyCost>=票價從{0}
 fare.of.about.<moneyCost>.may.vary=票價大約{0} (可能有所不同)
 includes.toll.<moneyCost>=包含通行費({0})
 
@@ -127,3 +125,63 @@ routing.timed.out.and.found.no.result=Routing timed out and found no result.
 routing.timed.out.on.server=Routing timed out on server.
 routing.timed.out.but.it.found.something=Routing timed out, but it found something.
 error.occurred.check.server.logs=Error occurred. Check server logs.
+
+query_textf_From=從
+query_textf_To=到
+btn_Done=完成
+
+# TODO
+booking.trip=Trip
+booking.next.screen=Next
+booking.depart.time=Start
+booking.arrive.time=End
+booking.when=When
+booking.baggage=Baggage
+booking.ticket.one.way=One way
+booking.ticket.return=Return
+ticket.type=Type
+ticket.adult=Adult
+ticket.child=Child
+ticket.concession=Concession
+ticket.pensioner=Pensioner
+flight=Flight
+flight.number=Flight Number
+flight.time=Flight Time
+
+from.<moneyCost>=From {0}
+location=Location
+booking.interior.car=Interior
+booking.exterior.car=Exterior
+engine=Engine
+fuel=Fuel
+booking.login.to.car2go=Login to Car2Go
+booking.authorize=Authorize
+booking.go.to.car2go=Go to Car2Go
+booking.book.screen=Book
+booking.select.account=Select Account
+booking.account=Account
+
+email=Email
+a.confirmation.email.has.been.sent=A confirmation email has been sent
+booking.time=Time
+booking.retry=Retry
+error=Error
+
+scheduled.date=Scheduled Date
+vehicle=Vehicle
+image=Image
+booking.time.required=Time Required
+select.service=Select Service
+services=Services
+booking.requester.passenger=Requester Passenger
+first.name=First Name
+last.name=Last Name
+booking.passenger.count=Passenger Count
+booking.luggage.count=Luggage Count
+mr=Mr
+mrs=Mrs
+person.title=Title
+book.with.<company>=Book with {0}
+book.taxi=Book taxi
+find.a.ride=Find a ride
+an.error.occurred.please.try.again=An Error Occurred. Please try again.

@@ -19,11 +19,14 @@
 /* Cancel - for action sheets */
 "Cancel" = "Annuleer";
 
+/* Label for when a service is cancelled. */
+"Cancelled" = "Cancelled"; // TODO
+
 /* Type of vehicle : car */
 "Car" = "Auto";
 
-/* Accessibility - user location button - hint */
-"Change tracking options" = "Verander volgen opties";
+/* Credit card number */
+"Card No." = "Card No."; // TODO
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "Vinkje";
@@ -31,11 +34,20 @@
 /* Close action */
 "Close" = "Sluiten";
 
-/* Current location */
-"Current location" = "Huidige locatie";
+/* Error title when GPS failed. */
+"Could not determine your current location." = "Could not determine your current location."; // TODO
 
-/* No comment provided by engineer. */
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "Er konden geen ondersteunde gebieden worden gedownload. Probeer het later opnieuw.";
+
+/* Section title for credit card payment */
+"Credit card" = "Credit card"; // TODO
+
+/* Current location */
 "Current Location" = "Huidige Locatie";
+
+/* Credit card CVC */
+"CVC" = "CVC"; // TODO
 
 /* to %date */
 "DateToFormat" = "tot %@";
@@ -49,8 +61,14 @@
 /* Sort by distance */
 "Distance" = "Afstand";
 
+/* Keyboard accessory button title */
+"Done" = "Kies";
+
 /* Drop new pin */
 "DropNewPin" = "Plaats nieuwe speld";
+
+/* Email address where receipt is sent */
+"Email" = "Email"; // TODO
 
 /* Short indicator of end-time */
 "ends at %@" = "duurt tot %@";
@@ -62,27 +80,38 @@
    Every %day, e.g., 'Every Monday' */
 "EveryDayFormat" = "Elke %@";
 
+/* Email placeholder text */
+"example@example.com" = "example@example.com"; // TODO
+
+/* Credit card expiry date */
+"Expiry Date" = "Expiry Date"; // TODO
+
+/* Option that allows users to indicate whether reminder is needed */
+"For when to leave" = "For when to leave"; // TODO
+
 /* Free as in beer */
 "Free" = "Gratis";
 
 /* No comment provided by engineer. */
 "Getting a lift" = "Ik krijg een lift";
 
+/* Indicating that we are contacting Stripe for payment token */
+"Getting stripe token" = "Getting stripe token"; // TODO
+
 /* Accessibility annotation for trips which have a reminder set. */
 "Has reminder" = "Heeft een herinnering";
 
-/* Location picker include contacts. */
+/* Include contacts. */
 "Include contacts" = "Inclusief contacten";
 
-/* Location picker include events. */
+/* Include events. */
 "Include events" = "Inclusief activiteiten";
 
 /* Instant results proposal */
 "Instant results" = "Direct resultaten weergeven";
 
-/* Location name
-   Title for location search screen */
-"Location" = "Locatie";
+/* Name placeholder text */
+"John Appleseed" = "John Appleseed"; // TODO
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Locatievoorzieningen moet ingeschakeld zijn om deze functie te gebruiken. Ga naar Instellingen > Privacy > Locatievoorzieningen om deze in te schakelen en sta dit ook toe voor deze app.";
@@ -107,6 +136,9 @@
 
 /* ex: 1 minute */
 "Minute" = "1 minuut";
+
+/* Option that allows users to indicate how eary to show trip reminder */
+"Minutes before trip" = "Minutes before trip"; // TODO
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld minuten";
@@ -153,17 +185,25 @@
 /* ex: 1 Hour 17 minutes */
 "Minutes>=60%60!=1" = "%ld uur %ld minuten";
 
+/* 'more' indicator for truncated text. */
+"more" = "more"; // TODO
+
 /* More results proposal */
 "More results" = "Meer resultaten";
 
 /* Type of vehicle : motorbike */
 "Motorbike" = "Motorfiets";
 
-/* Sort by name */
+/* Name to which receipt is sent
+   Sort by name */
 "Name" = "Naam";
 
 /* Never in context of repetitions (especially recurring events) */
 "Never" = "Nooit";
+
+/* Button title to complete this step and advance to next
+   Keyboard accessory button title to complete this step and advance to next */
+"Next" = "Volgende";
 
 /* No comment provided by engineer. */
 "No CO₂" = "Geen CO₂";
@@ -178,17 +218,32 @@
  Error alert cancel */
 "OK" = "OK";
 
+/* Open in Safari action */
+"Open in Safari" = "Open in Safari"; // TODO
+
 /* Button to open Settings app section for this app */
-"Open Settings" = "Open Settings"; // TODO
+"Open Settings" = "Instellingen openen";
 
-/* Please select a location prompt */
-"Please select a location" = "Selecteer een locatie";
+/* No comment provided by engineer. */
+"Password" = "Password"; // TODO
 
-/* Please verify the location prompt */
-"Please verify the location" = "Bevestig de locatie";
+/* Indicating a payment is successful */
+"Payment successful" = "Payment successful"; // TODO
+
+/* Section title for Paypal payment */
+"Paypal" = "Paypal"; // TODO
+
+/* Error recovery suggestion when GPS fails. */
+"Please try again or set your location manually." = "Please try again or set your location manually."; // TODO
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "Druk op 'zoeken' voor meer...";
+
+/* Title for section that asks users where payment receipt should be sent */
+"Receipt" = "Receipt"; // TODO
+
+/* Section title at the end of a booking that allows users to set reminders */
+"Reminder" = "Reminder"; // TODO
 
 /* Repeats daily */
 "Repeats daily" = "Herhaald dagelijks";
@@ -201,6 +256,9 @@
 
 /* Repeats yearly */
 "Repeats yearly" = "Herhaald jaarlijks";
+
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "'%@' niet gevonden.";
 
 /* Sort by overall score, like a ranking. */
 "Score" = "Score";
@@ -217,32 +275,17 @@
 /* Tap to set location */
 "SetLocation" = "Tik om de locatie in te stellen";
 
-/* Error alert title */
-"Sorry" = "Sorry";
-
 /* Short indicator of start-time */
 "starts at %@" = "begint om %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "SUV";
 
-/* Accessibility - user location button - off */
-"Tracking - off" = "Volgen - uit";
-
-/* user location button - follow */
-"Tracking - on" = "Volgen - aan";
-
-/* user location button - follow with heading */
-"Tracking - on with heading" = "Volgen - aan met richting";
-
-/* No comment provided by engineer. */
-"We were unable to find a location with that name." = "We konden geen locatie vinden met deze naam.";
-
 /* Every weekday in context of repetitions (especially recurring events) */
-"Weekdays" = "Weekdays"; // TODO
+"Weekdays" = "Weekdagen";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Weekends"; // TODO
+"Weekends" = "Weekeinden";
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "U heeft eerder de toegang van deze app naar uw kalender geweigerd. Ga naar Instellingen > Privacy > Kalender en geef deze app toestemming om deze functie te gebruiken.";

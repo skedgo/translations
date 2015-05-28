@@ -19,20 +19,35 @@
 /* Cancel - for action sheets */
 "Cancel" = "取消";
 
+/* Label for when a service is cancelled. */
+"Cancelled" = "Cancelled"; // TODO
+
 /* Type of vehicle : car */
 "Car" = "轎車";
 
-/* Accessibility - user location button - hint */
-"Change tracking options" = "變更追蹤選項";
+/* Credit card number */
+"Card No." = "Card No."; // TODO
 
-/* No comment provided by engineer. */
+/* Accessibility title for a checkmark/tick button */
 "Checkmark" = "選取標記";
 
 /* Close action */
 "Close" = "關閉";
 
+/* Error title when GPS failed. */
+"Could not determine your current location." = "Could not determine your current location."; // TODO
+
+/* Could not download supported regions warning */
+"CouldNotDownloadSupportedRegions" = "無法從我們的伺服器下載所支援地區的列表．請稍後再嘗試一次。";
+
+/* Section title for credit card payment */
+"Credit card" = "Credit card"; // TODO
+
 /* Current location */
 "Current Location" = "目前位置";
+
+/* Credit card CVC */
+"CVC" = "CVC"; // TODO
 
 /* to %date */
 "DateToFormat" = "到%@";
@@ -46,39 +61,57 @@
 /* Sort by distance */
 "Distance" = "距離";
 
+/* Keyboard accessory button title */
+"Done" = "完成";
+
 /* Drop new pin */
 "DropNewPin" = "放置新的大頭針";
+
+/* Email address where receipt is sent */
+"Email" = "Email"; // TODO
 
 /* Short indicator of end-time */
 "ends at %@" = "在%@結束";
 
-/* Everyday */
+/* Everyday in context of repetitions (especially recurring events) */
 "Everyday" = "每天";
 
-/* Every %day, e.g., 'Every Monday' */
+/* 'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'
+   Every %day, e.g., 'Every Monday' */
 "EveryDayFormat" = "每%@";
 
 /* Free */
 "Free" = "免費";
 
+/* Credit card expiry date */
+"Expiry Date" = "Expiry Date"; // TODO
+
+/* Option that allows users to indicate whether reminder is needed */
+"For when to leave" = "For when to leave"; // TODO
+
+/* Free as in beer */
+"Free" = "免費";
+
 /* No comment provided by engineer. */
 "Getting a lift" = "與人共乘";
+
+/* Indicating that we are contacting Stripe for payment token */
+"Getting stripe token" = "Getting stripe token"; // TODO
 
 /* Accessibility annotation for trips which have a reminder set. */
 "Has reminder" = "有提醒事項";
 
-/* Location picker include contacts. */
+/* Include contacts. */
 "Include contacts" = "包含聯絡人";
 
-/* Location picker include events. */
+/* Include events. */
 "Include events" = "包含事件";
 
 /* Instant results proposal */
 "Instant results" = "快速搜尋結果";
 
-/* Location name
- Title for location search screen */
-"Location" = "地點";
+/* Name placeholder text */
+"John Appleseed" = "John Appleseed"; // TODO
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "本功能需要使用定位服務. 請到設定 > 隱私 > 定位服務確認服務是開啟的，同時也請確認您已授權本App使用定位服務.";
@@ -103,6 +136,9 @@
 
 /* ex: 1 minute */
 "Minute" = "1分鐘";
+
+/* Option that allows users to indicate how eary to show trip reminder */
+"Minutes before trip" = "Minutes before trip"; // TODO
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld分鐘";
@@ -149,17 +185,25 @@
 /* ex: 1 Hour 17 minutes */
 "Minutes>=60%60!=1" = "%ld小時%ldminutes";
 
+/* 'more' indicator for truncated text. */
+"more" = "more"; // TODO
+
 /* More results proposal */
 "More results" = "更多搜尋結果";
 
 /* Type of vehicle : motorbike */
 "Motorbike" = "摩托車";
 
-/* Sort by name */
+/* Name to which receipt is sent
+   Sort by name */
 "Name" = "名稱";
 
-/* Never */
+/* Never in context of repetitions (especially recurring events) */
 "Never" = "永不重複";
+
+/* Button title to complete this step and advance to next
+   Keyboard accessory button title to complete this step and advance to next */
+"Next" = "下一步";
 
 /* No comment provided by engineer. */
 "No CO₂" = "無碳足跡";
@@ -174,17 +218,32 @@
  Error alert cancel */
 "OK" = "好";
 
+/* Open in Safari action */
+"Open in Safari" = "在Safari中開啟";
+
 /* Button to open Settings app section for this app */
 "Open Settings" = "開啟設定";
 
-/* Please select a location prompt */
-"Please select a location" = "請選擇地點";
+/* No comment provided by engineer. */
+"Password" = "Password"; // TODO
 
-/* Please verify the location prompt */
-"Please verify the location" = "請確認地點";
+/* Indicating a payment is successful */
+"Payment successful" = "Payment successful"; // TODO
+
+/* Section title for Paypal payment */
+"Paypal" = "Paypal"; // TODO
+
+/* Error recovery suggestion when GPS fails. */
+"Please try again or set your location manually." = "Please try again or set your location manually."; // TODO
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "點擊'搜尋'來取得更多結果...";
+
+/* Title for section that asks users where payment receipt should be sent */
+"Receipt" = "Receipt"; // TODO
+
+/* Section title at the end of a booking that allows users to set reminders */
+"Reminder" = "Reminder"; // TODO
 
 /* Repeats daily */
 "Repeats daily" = "每天重複";
@@ -198,7 +257,10 @@
 /* Repeats yearly */
 "Repeats yearly" = "每年重複";
 
-/* Sort by score */
+/* Error when location search for %input was not successful. */
+"RequestErrorFormat" = "無法找到'%@'.";
+
+/* Sort by overall score, like a ranking. */
 "Score" = "評分";
 
 /* Empty search bar placeholder */
@@ -213,26 +275,11 @@
 /* Tap to set location */
 "SetLocation" = "點擊來選取地點";
 
-/* Error alert title */
-"Sorry" = "抱歉";
-
 /* Short indicator of start-time */
 "starts at %@" = "從%@開始";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "休旅車";
-
-/* Accessibility - user location button - off */
-"Tracking - off" = "關閉使用者位置追蹤功能";
-
-/* user location button - follow */
-"Tracking - on" = "開啟使用者位置追蹤功能";
-
-/* user location button - follow with heading */
-"Tracking - on with heading" = "開啟使用者位置與航向追蹤功能";
-
-/* No comment provided by engineer. */
-"We were unable to find a location with that name." = "我們無法找到跟這個名稱相符的地點";
 
 /* Every weekday in context of repetitions (especially recurring events) */
 "Weekdays" = "平日";

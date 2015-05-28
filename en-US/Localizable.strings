@@ -4,20 +4,33 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " every ";
 
+/* Format string for going from one location to another. Used to name favourite trips. */
+"%@ to %@" = "%1$@ to %2$@";
+
+/* Error title when access to location hasn't been granted, but location is required. */
+"Access to location services required." = "Access to location services required.";
+
+/* No comment provided by engineer. */
+"Add address..." = "Add address...";
+
+/* No comment provided by engineer. */
+"Add another recurrence" = "Add another recurrence";
+
 /* Add reminder activity title */
 "Add Reminder" = "Add Reminder";
 
-/* Save trip action */
+/* Add to agenda view title
+   Save trip action */
 "Add to Agenda" = "Add to Agenda";
 
 /* Add to calendar activity title */
 "Add to Calendar" = "Add to Calendar";
 
 /* Add favourite activity title */
-"Add to Favourites" = "Add to Favourites";
+"Add to Favourites" = "Add to Favorites";
 
 /* No comment provided by engineer. */
-"Add to favourites" = "Add to favourites";
+"Add to favourites" = "Add to favorites";
 
 /* Action title for adding a vehicle */
 "Add vehicle" = "Add vehicle";
@@ -37,6 +50,9 @@
 /* No comment provided by engineer. */
 "Agenda cleared" = "Agenda cleared";
 
+/* Title for agenda screen while it's still in setup mode. */
+"Agenda Setup" = "Agenda Setup";
+
 /* Agenda button name
    Agenda tab bar name */
 "AgendaButton" = "Agenda";
@@ -50,10 +66,13 @@
 /* No comment provided by engineer. */
 "Alert" = "Alert";
 
+/* No comment provided by engineer. */
+"Alerts" = "Alerts";
+
 /* Description of alert with %title */
 "AlertTitleFormat" = "Alert: %@";
 
-/* Option to delete only all related events in a recurence */
+/* Option to use this trip for all similar cases. */
 "All" = "All";
 
 /* Option to delete this event and all after in a recurence */
@@ -78,29 +97,29 @@
 /* Arrive before button */
 "ArriveBefore" = "Arrive by";
 
+/* Title for section to assign a trip to a vehicle. */
+"Assign to vehicle" = "Assign to vehicle";
+
 /* Filler for a service running at time, e.g., 'At 11:56am' */
 "At " = "At ";
 
 /* Distance 'automatic' */
 "Auto" = "Auto";
 
-/* Agenda item for going back to a previous event which has %name */
-"BackToPreviousLocationFormat" = "Back to %@";
+/* Header for settings of reminders automatically added by TripGo through the agenda */
+"Automatic Reminders" = "Automatic Reminders";
 
-/* No comment provided by engineer. */
-"Book a shuttle" = "Book a shuttle";
+/* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
+"Awesome! How about rating us?" = "Awesome! How about rating us?";
 
 /* vehicle booking action */
 "Book vehicle" = "Book vehicle";
 
-/* Book a shuttle */
-"BookShuttle" = "Book Shuttle";
-
 /* Book a taxi */
-"BookTaxi" = "Book Taxi";
+"BookTaxi" = "Book a taxi";
 
-/* No comment provided by engineer. */
-"Cache" = "Cache";
+/* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
+"Bummer... How about some feedback?" = "Bummer... How about some feedback?";
 
 /* No comment provided by engineer. */
 "Cache cleared" = "Cache cleared";
@@ -120,29 +139,17 @@
 /* No comment provided by engineer. */
 "Call Taxi" = "Call Taxi";
 
-/* Action title for calling taxi provider of %name */
+/* Action title for calling provider of %name */
 "CallTaxiFormat" = "Call %@";
 
 /* No comment provided by engineer. */
 "Change time" = "Change time";
-
-/* Agenda cleaner title */
-"Cleaner" = "Cleaner";
 
 /* clear cache preference */
 "Clear cache" = "Clear cache";
 
 /* clear search history preference */
 "Clear search history" = "Clear search history";
-
-/* No comment provided by engineer. */
-"Clearing agenda..." = "Clearing agenda...";
-
-/* No comment provided by engineer. */
-"Clearing cache..." = "Clearing cache...";
-
-/* No comment provided by engineer. */
-"Clearing history..." = "Clearing history...";
 
 /* School pricing preference */
 "Concession Pricing" = "Concession Pricing";
@@ -153,11 +160,8 @@
 /* Convenience description */
 "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.";
 
-/* Location manager failure error message */
-"Could not determine your current location. Please set your location manually." = "Could not determine your current location. Please set your location manually.";
-
-/* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Could not download supported regions from TripGo's server. Please try again later.";
+/* Error title when TripGo couldn't identify the user's current city. */
+"Could not find your city." = "Could not find your city.";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "Enter coupon code '%@' when registering to claim your free $5 credit (only valid for new registrations)";
@@ -165,14 +169,17 @@
 /* Title for critical error */
 "CriticalError" = "Critical Error";
 
-/* Description for critical error where %errorMessage is provided. */
-"CriticalErrorFormat" = "The application encountered a critical error and can't recover:\n\n%@";
+/* Description for critical error where error will be shown below. */
+"CriticalErrorFormat" = "The application encountered a critical error and can't recover:";
 
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "Custom trip does not fit";
 
 /* Cycling speed preference */
 "Cycle speed" = "Cycle speed";
+
+/* No comment provided by engineer. */
+"Database corrupted and lost." = "Database corrupted and lost.";
 
 /* From %date */
 "DateFromFormat" = "From %@";
@@ -184,17 +191,22 @@
    Departure time sorter title */
 "Departure" = "Departure";
 
-/* Dismiss accessibility label */
+/* Dismiss accessibility label
+   Dismiss button label
+   Negative answer to displayed advertising. */
 "Dismiss" = "Dismiss";
 
 /* Distances preference */
 "Distances" = "Distances";
 
+/* Title for transport modes that the user doesn't want included */
+"Do Not Include" = "Do Not Include";
+
+/* No comment provided by engineer. */
+"Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favorites?";
+
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Don't have a fixed place of work or study? Skip this step.";
-
-/* Done button */
-"Done" = "Done";
 
 /* Title for page for modifying a routine/stay at a specific location */
 "EditItemHereTitle" = "Agenda Item";
@@ -205,14 +217,11 @@
 /* Carbon preference */
 "Environment" = "Environment";
 
+/* Title to show when an error appears on watch */
+"Error" = "Error";
+
 /* No comment provided by engineer. */
 "Error clearing agenda" = "Error clearing agenda";
-
-/* No comment provided by engineer. */
-"Error clearing cache" = "Error clearing cache";
-
-/* No comment provided by engineer. */
-"Error clearing history" = "Error clearing history";
 
 /* No comment provided by engineer. */
 "Event" = "Event";
@@ -232,17 +241,11 @@
 /* Title for the time an event ends (including date information) */
 "EventEndDateTime" = "End";
 
-/* Title for the time an event ends (without date information) */
-"EventEndTime" = "End";
-
 /* Title for when an event repeats */
 "EventRepeat" = "Repeats";
 
 /* Title for the time an event starts (including date information) */
 "EventStartDateTime" = "Start";
-
-/* Title for the time an event starts (without date information) */
-"EventStartTime" = "Start";
 
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
 "Every " = "Every ";
@@ -250,8 +253,7 @@
 /* Text do mark an example */
 "Example" = "Example";
 
-/* Action title to exclude an event from routing
-   Exclude event action */
+/* Exclude event action */
 "Exclude" = "Exclude";
 
 /* There goes my excuse for being late... */
@@ -261,23 +263,23 @@
 "Fast" = "Fast";
 
 /* No comment provided by engineer. */
-"Favorites from a previous TripGo version have been found on your device. What do you want to do with them?" = "Favourites from a previous TripGo version have been found on your device. What do you want to do with them?";
-
-/* No comment provided by engineer. */
-"Favourite" = "Favourite";
+"Favourite" = "Favorite";
 
 /* Add favourite HUD notice */
-"Favourite added" = "Favourite added";
+"Favourite added" = "Favorite added";
 
 /* Remove trip from favourites HUD notice */
-"Favourite removed" = "Favourite removed";
+"Favourite removed" = "Favorite removed";
 
 /* No comment provided by engineer. */
-"Favourites" = "Favourites";
+"Favourite Trip" = "Favorite Trip";
+
+/* No comment provided by engineer. */
+"Favourites" = "Favorites";
 
 /* Favourites button name
-   Favourites tab bar name */
-"FavouritesButton" = "Favourites";
+ Favourites tab bar name */
+"FavouritesButton" = "Favorites";
 
 /* Help title */
 "Feedback & Support" = "Feedback & Support";
@@ -312,6 +314,12 @@
 /* Free directions */
 "FreeDirections" = "TripGo - Free directions";
 
+/* Favorite trip 'from' title */
+"From" = "From";
+
+/* Format string for going from one location to others. Used to name favourite stops. */
+"From %@" = "From %@";
+
 /* Route here... ...from Current location */
 "From current location" = "From current location";
 
@@ -334,10 +342,28 @@
 "Get Involved" = "Get Involved";
 
 /* No comment provided by engineer. */
-"Get Uber ($20 credit^)" = "Get Uber ($20 credit^)";
+"Get Lyft" = "Get Lyft";
+
+/* No comment provided by engineer. */
+"Get off here" = "Get off here";
+
+/* No comment provided by engineer. */
+"Get on here" = "Get on here";
+
+/* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
+"Get on or off here" = "Get on or off here";
+
+/* No comment provided by engineer. */
+"Get Sidecar" = "Get Sidecar";
+
+/* No comment provided by engineer. */
+"Get Uber" = "Get Uber";
 
 /* I use TripGo to get around */
 "GetAround" = "I use TripGo to get around.";
+
+/* Message to show when trying to get trip for a favorite */
+"Getting trip..." = "Getting trip...";
 
 /* goCatch action */
 "goCatch a Taxi" = "goCatch a Taxi";
@@ -353,6 +379,9 @@
 "HabitualEventDescription" = "Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.";
 
 /* No comment provided by engineer. */
+"Has TripGo been useful to you?" = "Has TripGo been useful to you?";
+
+/* No comment provided by engineer. */
 "History cleared" = "History cleared";
 
 /* Typical name that you'd give your home location */
@@ -361,18 +390,17 @@
 /* Map mode 'streets + satellite' */
 "Hybrid" = "Hybrid";
 
-/* Import action title */
-"Import" = "Import";
-
-/* Action title to include an event in routing
-   Include event action */
+/* Include event action */
 "Include" = "Include";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
 "Include in routes" = "Include in routes";
 
-/* School services footer */
-"Information on school services and concession pricing is subject to availability." = "Information on school services and concession pricing is subject to availability.";
+/* Title for setting to include step count on Agenda screen */
+"Include Step Count" = "Include Step Count";
+
+/* Concession pricing footer */
+"Information on concession pricing is subject to availability." = "Information on concession pricing is subject to availability.";
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "ingogo a Taxi";
@@ -398,14 +426,19 @@
 /* Button title to switch view to list mode */
 "List" = "List";
 
-/* list providers action */
-"List Taxi Numbers" = "List Taxi Numbers";
+/* Inidcating the watch app is loading
+   Text to display while watch is loading upcoming trip.
+   Title to show while loading/waiting for results */
+"Loading..." = "Loading...";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "Location";
 
 /* No comment provided by engineer. */
 "Location missing." = "Location missing.";
+
+/* Error title when favourite is missing a location.. */
+"Location not set." = "Location not set.";
 
 /* Where are you going from? */
 "LocationComingFrom" = "Where are you going from?";
@@ -419,16 +452,19 @@
 /* I once was lost but now I have found... TripGo */
 "LostOnce" = "I once was lost but now I have found... TripGo.";
 
+/* Header for settings of reminders that the user manually added */
+"Manual Reminders" = "Manual Reminders";
+
 /* Button title to switch agenda view to map mode
    Button title to switch to map
    Map preference */
 "Map" = "Map";
 
 /* No comment provided by engineer. */
-"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Favourite locations give you quick trip solutions from wherever you are.";
+"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Favorite locations give you quick trip solutions from wherever you are.";
 
 /* No comment provided by engineer. */
-"Marking a transit stop as a favourite will allow quick access to its timetable." = "Marking a transit stop as a favourite will allow quick access to its timetable.";
+"Marking a transit stop as a favourite will allow quick access to its timetable." = "Marking a transit stop as a favorite will allow quick access to its schedule.";
 
 /* Speed preference 'medium' */
 "Medium" = "Medium";
@@ -439,7 +475,7 @@
 /* Minimum transfer time preference */
 "Min transfer time" = "Min transfer time";
 
-/* Number of minutes */
+/* Minutes format (used for transfer times) */
 "Minutes" = "%.0f minutes";
 
 /* Reminder to leave preference */
@@ -451,20 +487,29 @@
 /* More button accessibility label */
 "More" = "More";
 
-/* No comment provided by engineer. */
-"More Options" = "More Options";
+/* Header for list of how to get more information (e.g., by opening a website) */
+"More Information" = "More Information";
+
+/* Sample event name ('Movie') */
+"Movie" = "Movie";
 
 /* User preferences title */
 "My Priorities" = "My Priorities";
 
-/* No comment provided by engineer. */
+/* Title for button to access transport modes */
+"My Transport" = "My Transport";
+
+/* Header for list of my vehicles */
 "My Vehicles" = "My Vehicles";
 
 /* Name of the vehicle */
 "NameVehicle" = "Name";
 
+/* Error recovery suggestion for when TripGo couldn't identify the user's current city. */
+"Navigate to a supported city on a map." = "Navigate to a supported city on a map.";
+
 /* No comment provided by engineer. */
-"New Favourite" = "New Favourite";
+"New Favourite" = "New Favorite";
 
 /* Title for unnamed new event */
 "NewEvent" = "New event";
@@ -473,7 +518,7 @@
 "NewItemAwayActionTitle" = "Stay at a different location";
 
 /* Action title for adding another habitual visit to a favourite */
-"NewItemHereActionTitle" = "Add to Agenda";
+"NewItemHereActionTitle" = "Add when I'm here";
 
 /* Title for page for adding a new routine/stay at a specific location */
 "NewItemHereTitle" = "Agenda Item";
@@ -481,20 +526,29 @@
 /* Title for page for adding a new routing/stay at a specific location */
 "NewStayTitle" = "New Stay";
 
-/* Button title to complete this step and advance to next */
-"Next" = "Next";
-
 /* No comment provided by engineer. */
 "No 'From' location selected" = "No 'From' location selected";
 
 /* No comment provided by engineer. */
 "No 'To' location selected" = "No 'To' location selected";
 
-/* Error for when no calendar found. */
-"No calendar found. Please check your Calendar app and make sure you have a calendar configured." = "No calendar found. Please check your Calendar app and make sure you have a calendar configured.";
+/* Error title for when no calendar found. */
+"No calendar found." = "No calendar found.";
 
 /* No comment provided by engineer. */
 "No locations set" = "No locations set";
+
+/* Indicating no trips have been planned within 24 hrs */
+"No planned trips" = "No planned trips";
+
+/* Error title when routing produced no results (but no specific error was returned from routing). */
+"No routes found." = "No routes found.";
+
+/* Negative answer to follow-up question for rating or feedback. */
+"No, thanks" = "No, thanks";
+
+/* Negative answer to question whether TripGo is useful. */
+"Not really" = "Not really";
 
 /* Countdown cell 'now' indicator */
 "Now" = "Now";
@@ -505,11 +559,21 @@
 /* Results screen error ok button */
 "OK" = "OK";
 
-/* Option to delete only this event in a recurence */
+/* Option to delete only this event in a recurence
+   Option to use this trip just this time. */
 "Only This" = "Only This";
 
-/* Open in Safari action */
-"Open in Safari" = "Open in Safari";
+/* No comment provided by engineer. */
+"Open Lyft" = "Open Lyft";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Open Sidecar";
+
+/* Error recovery suggestion for favourites with missing location. */
+"Open TripGo app and add the location of this favourite." = "Open TripGo app and add the location of this favorite.";
+
+/* Error recovery suggestion for when watch doesn't have access to location services. */
+"Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services.";
 
 /* No comment provided by engineer. */
 "Open Uber" = "Open Uber";
@@ -517,8 +581,8 @@
 /* Button title to open URL */
 "Open URL" = "Open URL";
 
-/* shuttle website action */
-"Open Website" = "Open Website";
+/* No comment provided by engineer. */
+"Open website" = "Open website";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "Permission was granted. Please go back and try again.";
@@ -529,23 +593,47 @@
 /* Timetable screen title */
 "Pick a Time" = "Pick a Time";
 
+/* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
+"Plan a trip on your phone" = "Plan a trip on your phone";
+
+/* Instruction for what to do if there are no planned trips in the next 24 hours */
+"Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favorites.";
+
+/* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
+"Please adjust your query and try again." = "Please adjust your query and try again.";
+
+/* Error recovery suggestion for when no calendar found. */
+"Please check your Calendar app and make sure you have a calendar configured." = "Please check your Calendar app and make sure you have a calendar configured.";
+
+/* Recovery suggestion when TripGo cannot access its local files */
+"Please delete the app and re-install from the App Store. Sorry for the inconvenience!" = "Please delete the app and re-install from the App Store. Sorry for the inconvenience!";
+
+/* Recovery suggestion when database got corrupted */
+"Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!";
+
+/* Recovery suggestion when TripGo cannot update its local files */
+"Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!";
+
+/* Header for settings about pricing */
+"Pricing" = "Pricing";
+
 /* Description of the pricing */
 "pricingDescription" = "Price";
 
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "Time to leave! Your trip to %@ commences at %@";
 
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %destination and %time you need to leave. */
-"PublicTimeToLeaveToFormat" = "Time to leave! Your %@ trip to %@ commences at %@";
-
-/* Notification message for catching public transport. Provided is %mode (e.g., bus), %busNumber, %destination and %time you need to leave. */
-"PublicTimeToLeaveToOnFormat" = "Your %@ trip on %@ to %@ commences at %@";
+/* Notification message for a non-public transport trip. Provided is %time you need to leave. */
+"PrivateTimeToLeaveNoLocation" = "Time to leave! Your trip commences at %@";
 
 /* Rate us preference */
 "Rate TripGo" = "Rate TripGo";
 
 /* Refining current location HUD notice */
 "Refining location" = "Refining location";
+
+/* Action title to add/remove reminder */
+"Reminder" = "Reminder";
 
 /* Added reminder notice */
 "Reminder added" = "Reminder added";
@@ -556,8 +644,14 @@
 /* Reminders title */
 "Reminders" = "Reminders";
 
+/* No comment provided by engineer. */
+"Remove" = "Remove";
+
+/* No comment provided by engineer. */
+"Remove and exclude event" = "Remove and exclude event";
+
 /* Remove favourite activity title */
-"Remove Favourite" = "Remove Favourite";
+"Remove Favourite" = "Remove Favorite";
 
 /* Unsave trip action */
 "Remove from Agenda" = "Remove from Agenda";
@@ -568,6 +662,12 @@
 /* Remove from agenda HUD notice */
 "Removed from Agenda" = "Removed from Agenda";
 
+/* No comment provided by engineer. */
+"Removing this trip will exclude the following event from your agenda." = "Removing this trip will exclude the following event from your agenda.";
+
+/* No comment provided by engineer. */
+"Removing this trip will exclude the preceeding event from your agenda." = "Removing this trip will exclude the preceeding event from your agenda.";
+
 /* Title for switch indicating if an event repeats or not */
 "Repeat does end" = "Repeat does end";
 
@@ -576,12 +676,6 @@
 
 /* Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event. */
 "Request..." = "Request...";
-
-/* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' not found.";
-
-/* segment membership required action */
-"Requires membership" = "Requires membership";
 
 /* Reset button for my priorities
    Title of group of settings related to resetting settings */
@@ -592,6 +686,12 @@
 
 /* Action title to reset tutorial progress. */
 "Reset tutorial" = "Reset tutorial";
+
+/* Title for selector of return time for a trip */
+"Return time" = "Return time";
+
+/* Header for section to configure return trip */
+"Return trip" = "Return trip";
 
 /* No comment provided by engineer. */
 "Route" = "Route";
@@ -626,6 +726,12 @@
 /* Details of a flight prompt to enter date first. */
 "Select a date to get flight details." = "Select a date to get flight details.";
 
+/* No comment provided by engineer. */
+"Select Bike Share" = "Select Bike Share";
+
+/* No comment provided by engineer. */
+"Select Car Park" = "Select Car Park";
+
 /* Walkthrough */
 "Select the place where you stay at the end of each day" = "Select the place where you stay at the end of each day.";
 
@@ -634,9 +740,6 @@
 
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "Send Real-time SMS";
-
-/* No comment provided by engineer. */
-"Set location..." = "Set location...";
 
 /* No comment provided by engineer. */
 "Settings" = "Settings";
@@ -666,8 +769,20 @@
 /* No comment provided by engineer. */
 "Show info" = "Show info";
 
+/* Action title to show map for a segment */
+"Show map" = "Show map";
+
+/* No comment provided by engineer. */
+"Show parking options" = "Show parking options";
+
 /* Action button title for viewing timetable for public transport */
-"Show timetable" = "Show timetable";
+"Show timetable" = "Show schedule";
+
+/* No comment provided by engineer. */
+"Show top four modes in tab bar" = "Show top four modes in tab bar";
+
+/* Show website action */
+"Show website" = "Show website";
 
 /* Show trip */
 "ShowTrip" = "Show Trip";
@@ -677,9 +792,6 @@
 
 /* Speed preference 'slow' */
 "Slow" = "Slow";
-
-/* Results screen error title */
-"Sorry" = "Sorry";
 
 /* No comment provided by engineer. */
 "Sorry. TripGo doesn't work here yet!" = "Sorry. TripGo doesn't work here yet!";
@@ -705,6 +817,9 @@
 /* Number of steps */
 "StepsNumber" = "%@ steps taken";
 
+/* Title for stopover event */
+"Stopover" = "Stopover";
+
 /* Map mode 'streets' */
 "Streets" = "Streets";
 
@@ -714,9 +829,6 @@
 /* Walkthrough */
 "Swipe dates to navigate between weeks" = "Swipe dates to navigate between weeks.";
 
-/* No comment provided by engineer. */
-"Tab Bar" = "Tab Bar";
-
 /* Walkthrough - should match translation for '\"Routes\"' */
 "Tap 'Routes' for alternative routes" = "Tap 'Routes' for alternative routes.";
 
@@ -724,16 +836,22 @@
 "Tap and hold title to jump directly to a specified date." = "Tap and hold title to jump directly to a specified date.";
 
 /* Walkthrough */
-"Tap public transport stops for access to timetable" = "Tap public transport stops for access to timetable.";
+"Tap public transport stops for access to timetable" = "Tap public transport stops for access to schedules.";
 
 /* Walkthrough */
 "Tap title to go to 'today'" = "Tap title to go to 'today'";
 
 /* No comment provided by engineer. */
-"Tap to set garage" = "Tap to set garage";
+"Tap to confirm hours or swipe to delete" = "Tap to confirm hours or swipe to delete";
 
 /* No comment provided by engineer. */
-"Taxi Providers" = "Taxi Providers";
+"Tap to set address" = "Tap to set address";
+
+/* No comment provided by engineer. */
+"Tap to set address or swipe to delete" = "Tap to set address or swipe to delete";
+
+/* No comment provided by engineer. */
+"Tap to set garage" = "Tap to set garage";
 
 /* Description of the terminal */
 "terminalDescription" = "Terminal";
@@ -741,14 +859,18 @@
 /* Thank you HUD notice */
 "Thank you!" = "Thank you!";
 
-/* Results screen internal error message */
-"There was a problem on our side. We will investigate." = "There was a problem on our side. We will investigate.";
-
 /* Title for screen to pick your working hours */
 "Time at Work" = "Time at Work";
 
-/* Timetable title */
-"Timetable" = "Timetable";
+/* Time zone (typically for an event) */
+"Time zone" = "Time zone";
+
+/* Header for times a user is typically at this location, e.g., working hours */
+"Times" = "Times";
+
+/* Action title to access timetable
+   Timetable title */
+"Timetable" = "Schedule";
 
 /* Title event name */
 "TitleEventName" = "Title";
@@ -765,11 +887,17 @@
 /* How do you want to go today? */
 "TransportModeWish" = "TripGo - How do you want to go today?";
 
-/* No comment provided by engineer. */
+/* Title for a trip */
 "Trip" = "Trip";
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo does not work in this area yet. Please navigate to one of our supported regions and try again.";
+"TripGo cannot access its local files." = "TripGo cannot access its local files.";
+
+/* No comment provided by engineer. */
+"TripGo cannot update its local files." = "TripGo cannot update its local files.";
+
+/* No comment provided by engineer. */
+"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.";
 
 /* Trips tab bar name */
 "TripsButton" = "Trips";
@@ -783,11 +911,15 @@
 /* Type of the vehicle */
 "TypeVehicle" = "Type";
 
-/* No comment provided by engineer. */
-"Uber" = "Uber";
+/* Which of my vehicles to assign this to */
+"Vehicle" = "Vehicle";
 
 /* No comment provided by engineer. */
 "Verify location..." = "Verify location...";
+
+/* Positive answer to displayed advertising.
+   Show content of notification. */
+"View" = "View";
 
 /* View alternative times for this trip */
 "View times" = "View times";
@@ -804,13 +936,11 @@
 /* Walking speed preference */
 "Walk speed" = "Walk speed";
 
-/* Results screen no results error */
-"We didn't find any results for your query." = "We didn't find any results for your query.";
-
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Stays";
 
-/* Header for routines and accommodations, i.e., when a user is typically at this location */
+/* Header for accommodations, i.e., when a user is typically at this location
+   Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
@@ -818,6 +948,15 @@
 
 /* Typical name that you'd give your work location */
 "Work" = "Work";
+
+/* Positive answer to follow-up question for rating or feedback. */
+"Yeah, ok!" = "Yeah, ok!";
+
+/* Positive answer to question whether TripGo is useful. */
+"Yes!" = "Yes!";
+
+/* Alert if service running late/early, meaning that the user might not make the next service. */
+"You might not make this transfer." = "You might not make this transfer.";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Zoom in";

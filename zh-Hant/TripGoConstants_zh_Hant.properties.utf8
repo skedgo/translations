@@ -97,3 +97,20 @@ To = 'To '
 
 # Filler for a stationary trip segment (e.g. parking, or toll) asking to stay 'at' location, e.g., 'At Redfern Station Platform 2'
 stationary_segment_At = 'At '
+search_for_a_city=搜尋您的城市
+
+Free=免費
+NoCo2=無碳足跡
+Real-time=即時
+Stop=1站
+Direction=方向\: {0}
+Stops={0}站
+services_share_text=我將於{1}從{2}搭乘{0}.
+ArrivalLocation=到達{0}
+ArrivalLocationTime=在{1}到达{0}
+ArrivalTime=在{0}到達
+Arrive=到達
+Leave=出發
+LeaveLocation=離開{0}
+LeaveLocationTime=在{1}離開{0}
+LeaveTime=於{0}離開

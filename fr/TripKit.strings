@@ -1,3 +1,18 @@
+/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'. */
+"%1$@ early" = "%1$@ early"; // TODO
+
+/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+
+/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min' */
+"%1$@ late" = "%1$@ late"; // TODO
+
+/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
+"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+
+/* Duration without traffic */
+"%@ w/o traffic" = "%@ w/o traffic"; // TODO
+
 /* No comment provided by engineer. */
 "1 stop" = "1 arrêt";
 
@@ -44,8 +59,14 @@
 /* Time departure */
 "LeaveTime" = "Partir à %@";
 
+/* No comment provided by engineer. */
+"Live traffic" = "Live traffic"; // TODO
+
 /* ArrivalTime */
 "MessageArrivalTime" = "Je vais arriver à %@ à %@.";
+
+/* Indicator to show when a service is on time according to real-time data. */
+"On time" = "On time"; // TODO
 
 /* Arrival Location */
 "PrimaryLocationEnd" = "Jusqu'à %@";
@@ -59,14 +80,14 @@
 /* No comment provided by engineer. */
 "Real-time" = "Temps-réel";
 
-/* A shuttle which are like big taxis with usually defined operating hours and limited service areas, e.g., an airport shuttle bus that takes you from the airport to your hotel. */
-"Shuttle" = "Navette";
-
 /* Number of stops before you get off a vehicle */
 "Stops" = "%ld arrêts";
 
 /* From %time1 to %time2 */
 "TimeFromToShortFormat" = "%@ à %@";
+
+/* No comment provided by engineer. */
+"Trip" = "Trajet";
 
 /* Vehicle 'x' updated */
 "VehicleCalledUpdated" = "Véhicule %@ mis à jour il y a %@";
