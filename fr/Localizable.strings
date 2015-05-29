@@ -91,9 +91,6 @@
    Arrival time sorter title */
 "Arrival" = "Arrivée";
 
-/* Arrive field title */
-"Arrive " = "Arrivée ";
-
 /* Arrive before button */
 "ArriveBefore" = "Arr. avant";
 
@@ -253,7 +250,7 @@
 /* Text do mark an example */
 "Example" = "Exemple";
 
-//* Exclude event action */
+/* Exclude event action */
 "Exclude" = "Supprimer";
 
 /* There goes my excuse for being late... */
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "Km";
 
-/* Leave field title */
-"Leave " = "Partir ";
-
-/* No comment provided by engineer. */
-"Leave now" = "Partir maintenant";
-
 /* Leave after button */
 "LeaveAfter" = "Par. après";
 
@@ -475,7 +466,14 @@
 /* Minimum transfer time preference */
 "Min transfer time" = "Temps de transfert min";
 
-/* Number of minutes */
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimised"; // TODO
+
+/* Minutes format (used for transfer times) */
 "Minutes" = "%.0f minutes";
 
 /* Reminder to leave preference */
@@ -532,7 +530,7 @@
 /* No comment provided by engineer. */
 "No 'To' location selected" = "Aucune position 'Arrivée à' sélectionnée";
 
-/* "Error title for when no calendar found." */
+/* Error title for when no calendar found. */
 "No calendar found." = "Aucun calendrier trouvé.";
 
 /* No comment provided by engineer. */
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Show parking options"; // TODO
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Afficher les horaires";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar"; // TODO
 
 /* Show website action */
 "Show website" = "Ouvrir le site Web";
@@ -878,7 +876,8 @@
 /* Title favourite name */
 "TitleFavouriteName" = "Titre";
 
-/* Title of settings for generic transport stuff */
+/* Title for button to access transport modes
+   Title of settings for generic transport stuff */
 "Transport" = "Transport";
 
 /* Transport genius */

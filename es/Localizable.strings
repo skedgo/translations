@@ -91,9 +91,6 @@
    Arrival time sorter title */
 "Arrival" = "Llegada";
 
-/* Arrive field title */
-"Arrive " = "Llegar ";
-
 /* Arrive before button */
 "ArriveBefore" = "Llegada";
 
@@ -274,7 +271,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "Favourite Trip"; // TODO
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "Favoritos";
 
 /* Favourites button name
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "Km";
 
-/* Leave field title */
-"Leave " = "Partir ";
-
-/* No comment provided by engineer. */
-"Leave now" = "Partir ahora";
-
 /* Leave after button */
 "LeaveAfter" = "Partida";
 
@@ -474,6 +465,13 @@
 
 /* Minimum transfer time preference */
 "Min transfer time" = "Mín. tiempo de transf.";
+
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimised"; // TODO
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f minutos";
@@ -532,7 +530,7 @@
 /* No comment provided by engineer. */
 "No 'To' location selected" = "Falta seleccionar la ubicación 'Hasta'";
 
-/* Error for when no calendar found. */
+/* Error title for when no calendar found. */
 "No calendar found." = "No se encontró ningún calendario.";
 
 /* No comment provided by engineer. */
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Show parking options"; // TODO
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Mostrar horarios";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar"; // TODO
 
 /* Show website action */
 "Show website" = "Ir al Sitio Web";
@@ -878,7 +876,8 @@
 /* Title favourite name */
 "TitleFavouriteName" = "Título";
 
-/* Title of settings for generic transport stuff */
+/* Title for button to access transport modes
+   Title of settings for generic transport stuff */
 "Transport" = "Transporte";
 
 /* Transport genius */

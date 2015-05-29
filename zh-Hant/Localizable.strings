@@ -91,9 +91,6 @@
    Arrival time sorter title */
 "Arrival" = "到達";
 
-/* Arrive field title */
-"Arrive " = "到達 ";
-
 /* Arrive before button */
 "ArriveBefore" = "此前到達";
 
@@ -274,7 +271,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "Favourite Trip"; // TODO
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "常用";
 
 /* Favourites button name
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "公里";
 
-/* Leave field title */
-"Leave " = "出發 ";
-
-/* No comment provided by engineer. */
-"Leave now" = "現在出發";
-
 /* Leave after button */
 "LeaveAfter" = "此後出發";
 
@@ -474,6 +465,13 @@
 
 /* Minimum transfer time preference */
 "Min transfer time" = "最短轉運時間";
+
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimised"; // TODO
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f分鐘";
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Show parking options"; // TODO
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "顯示時刻表";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar"; // TODO
 
 /* Show website action */
 "Show website" = "開啟網站";
@@ -878,7 +876,8 @@
 /* Title favourite name */
 "TitleFavouriteName" = "名稱";
 
-/* Title of settings for generic transport stuff */
+/* Title for button to access transport modes
+   Title of settings for generic transport stuff */
 "Transport" = "運輸工具";
 
 /* Transport genius */

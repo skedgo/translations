@@ -91,9 +91,6 @@
    Arrival time sorter title */
 "Arrival" = "Aankomst";
 
-/* Arrive field title */
-"Arrive " = "Aankomst ";
-
 /* Arrive before button */
 "ArriveBefore" = "Aankomst";
 
@@ -253,7 +250,7 @@
 /* Text do mark an example */
 "Example" = "Voorbeeld";
 
-//* Exclude event action */
+/* Exclude event action */
 "Exclude" = "Uitsluiten";
 
 /* There goes my excuse for being late... */
@@ -274,7 +271,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "Favourite Trip"; // TODO
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "Favorieten";
 
 /* Favourites button name
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "Km";
 
-/* Leave field title */
-"Leave " = "Vertrek ";
-
-/* No comment provided by engineer. */
-"Leave now" = "Vertrek nu";
-
 /* Leave after button */
 "LeaveAfter" = "Vertrek";
 
@@ -474,6 +465,13 @@
 
 /* Minimum transfer time preference */
 "Min transfer time" = "Min. overstaptijd";
+
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimised"; // TODO
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f minuten";
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Show parking options"; // TODO
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Bekijk dienstregeling";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar"; // TODO
 
 /* Show website action */
 "Show website" = "Open Website";
@@ -829,9 +827,6 @@
 /* Walkthrough */
 "Swipe dates to navigate between weeks" = "Swipe de datums om naar andere weken te navigeren.";
 
-/* No comment provided by engineer. */
-"Tab Bar" = "Tab Bar";
-
 /* Walkthrough - should match translation for '\"Routes\"' */
 "Tap 'Routes' for alternative routes" = "Tik 'Routes' voor alternatieve routes.";
 
@@ -861,9 +856,6 @@
 
 /* Thank you HUD notice */
 "Thank you!" = "Dankuwel!";
-
-/* Results screen internal error message */
-"There was a problem on our side. We will investigate." = "Er is een probleem aan onze kant. We gaan het onderzoeken!";
 
 /* Title for screen to pick your working hours */
 "Time at Work" = "Werktijden";

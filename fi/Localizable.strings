@@ -91,9 +91,6 @@
    Arrival time sorter title */
 "Arrival" = "Saapuminen";
 
-/* Arrive field title */
-"Arrive " = "Saapu ";
-
 /* Arrive before button */
 "ArriveBefore" = "Perillä";
 
@@ -274,7 +271,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "Favourite Trip"; // TODO
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "Suosikit";
 
 /* Favourites button name
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "Km";
 
-/* Leave field title */
-"Leave " = "Lähde ";
-
-/* No comment provided by engineer. */
-"Leave now" = "lähde nyt";
-
 /* Leave after button */
 "LeaveAfter" = "Lähtöaika";
 
@@ -474,6 +465,13 @@
 
 /* Minimum transfer time preference */
 "Min transfer time" = "Minimi siirtoaika";
+
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimised"; // TODO
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f min";
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Show parking options"; // TODO
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Näytä aikataulua";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar"; // TODO
 
 /* Show website action */
 "Show website" = "Avaa Website";
@@ -878,7 +876,8 @@
 /* Title favourite name */
 "TitleFavouriteName" = "Otsikko";
 
-/* Title of settings for generic transport stuff */
+/* Title for button to access transport modes
+   Title of settings for generic transport stuff */
 "Transport" = "Transport";
 
 /* Transport genius */
@@ -895,6 +894,9 @@
 
 /* No comment provided by engineer. */
 "TripGo cannot update its local files." = "TripGo cannot update its local files."; // TODO
+
+/* No comment provided by engineer. */
+"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo ei toimi tällä alalla vielä. Ole hyvä ja siirry yksi meidän tuettujen alueiden ja yritä uudelleen.";
 
 /* Trips tab bar name */
 "TripsButton" = "Matkat";
