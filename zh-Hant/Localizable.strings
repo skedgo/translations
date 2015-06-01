@@ -107,7 +107,7 @@
 "Auto" = "自動";
 
 /* Header for settings of reminders automatically added by TripGo through the agenda */
-"Automatic Reminders" = "Automatic Reminders"; // TODO
+"Automatic Reminders" = "自動提醒";
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
 "Awesome! How about rating us?" = "太棒了！給我們評價吧?";
@@ -161,7 +161,7 @@
 "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "旅程的方便性會受到是否需要更換大眾交通，您需要步行的距離及是否尋找計程車等的影響.";
 
 /* Error title when TripGo couldn't identify the user's current city. */
-"Could not find your city." = "Could not find your city."; // TODO
+"Could not find your city." = "無法找到您的城市";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "註冊時使用優惠券代碼'%@'可立時折抵$5元 (只適用新註冊使用者)";
@@ -179,7 +179,7 @@
 "Cycle speed" = "自行車騎速";
 
 /* No comment provided by engineer. */
-"Database corrupted and lost." = "Database corrupted and lost."; // TODO
+"Database corrupted and lost." = "資料庫損毀或遺失";
 
 /* From %date */
 "DateFromFormat" = "從%@";
@@ -200,7 +200,7 @@
 "Distances" = "距離";
 
 /* Title for transport modes that the user doesn't want included */
-"Do Not Include" = "Do Not Include"; // TODO
+"Do Not Include" = "不要包含";
 
 /* No comment provided by engineer. */
 "Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favourites?"; // TODO
@@ -218,7 +218,7 @@
 "Environment" = "減少碳足跡";
 
 /* Title to show when an error appears on watch */
-"Error" = "Error"; // TODO
+"Error" = "錯誤";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "在清除歷史記錄中發生錯誤";
