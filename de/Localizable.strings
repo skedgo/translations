@@ -91,9 +91,6 @@
    Arrival time sorter title */
 "Arrival" = "Ankunft";
 
-/* Arrive field title */
-"Arrive " = "Ankunft ";
-
 /* Arrive before button */
 "ArriveBefore" = "Ankunft";
 
@@ -274,7 +271,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "Tripfavorit";
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "Favoriten";
 
 /* Favourites button name
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "Km";
 
-/* Leave field title */
-"Leave " = "Abfahrt ";
-
-/* No comment provided by engineer. */
-"Leave now" = "Jetzt";
-
 /* Leave after button */
 "LeaveAfter" = "Abfahrt";
 
@@ -474,6 +465,13 @@
 
 /* Minimum transfer time preference */
 "Min transfer time" = "Umstiegszeit (mind.)";
+
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Um Ergebnisse für dieses Transportmittel auf der Routen-Seite zu minimieren. Praktisch für welche die du nur ab und an nimmst.";
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimiert";
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f Minuten";
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Parkmöglichkeiten anzeigen";
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Ticketinformationen anzeigen";
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Fahrplan anzeigen";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Vier obersten Transporte in Tableiste anzeigen";
 
 /* Show website action */
 "Show website" = "Webseite öffnen";
@@ -878,7 +876,8 @@
 /* Title favourite name */
 "TitleFavouriteName" = "Name";
 
-/* Title of settings for generic transport stuff */
+/* Title for button to access transport modes
+   Title of settings for generic transport stuff */
 "Transport" = "Transport";
 
 /* Transport genius */

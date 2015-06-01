@@ -91,9 +91,6 @@
    Arrival time sorter title */
 "Arrival" = "Arrival";
 
-/* Arrive field title */
-"Arrive " = "Arrive ";
-
 /* Arrive before button */
 "ArriveBefore" = "Arrive by";
 
@@ -274,7 +271,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "Favorite Trip";
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "Favorites";
 
 /* Favourites button name
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "Km";
 
-/* Leave field title */
-"Leave " = "Leave ";
-
-/* No comment provided by engineer. */
-"Leave now" = "Leave now";
-
 /* Leave after button */
 "LeaveAfter" = "Leave at";
 
@@ -474,6 +465,13 @@
 
 /* Minimum transfer time preference */
 "Min transfer time" = "Min transfer time";
+
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimize results for this mode on the routes screen. Great for transport options you only use occasionally.";
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimized";
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f minutes";
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Show parking options";
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info";
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Show schedule";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar";
 
 /* Show website action */
 "Show website" = "Show website";
@@ -878,7 +876,8 @@
 /* Title favourite name */
 "TitleFavouriteName" = "Title";
 
-/* Title of settings for generic transport stuff */
+/* Title for button to access transport modes
+   Title of settings for generic transport stuff */
 "Transport" = "Transport";
 
 /* Transport genius */
