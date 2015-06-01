@@ -8,7 +8,7 @@
 "%@ to %@" = "%1$@ to %2$@";
 
 /* Error title when access to location hasn't been granted, but location is required. */
-"Access to location services required." = "Access to location services required."; // TODO
+"Access to location services required." = "需要使用定位服務";
 
 /* No comment provided by engineer. */
 "Add address..." = "新增地址...";
@@ -51,7 +51,7 @@
 "Agenda cleared" = "所有行程已清除";
 
 /* Title for agenda screen while it's still in setup mode. */
-"Agenda Setup" = "Agenda Setup"; // TODO
+"Agenda Setup" = "設定行程";
 
 /* Agenda button name
    Agenda tab bar name */
@@ -67,7 +67,7 @@
 "Alert" = "警示";
 
 /* No comment provided by engineer. */
-"Alerts" = "Alerts"; // TODO
+"Alerts" = "警示";
 
 /* Description of alert with %title */
 "AlertTitleFormat" = "警示:%@";
@@ -95,7 +95,7 @@
 "ArriveBefore" = "此前到達";
 
 /* Title for section to assign a trip to a vehicle. */
-"Assign to vehicle" = "Assign to vehicle"; // TODO
+"Assign to vehicle" = "指定使用的車輛";
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
 "At " = "於 ";
@@ -200,7 +200,7 @@
 "Do Not Include" = "不要包含";
 
 /* No comment provided by engineer. */
-"Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favourites?"; // TODO
+"Do you want to always use this trip and add it to your favourites?" = "您想要每次都使用這個路線並將其加到常用清單嗎?";
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "如果您沒有固定的上班或是上學地點，您可以略過此步驟";
@@ -269,7 +269,7 @@
 "Favourite removed" = "已從常用移除";
 
 /* No comment provided by engineer. */
-"Favourite Trip" = "Favourite Trip"; // TODO
+"Favourite Trip" = "常用路線";
 
 /* Title for button to access favourites */
 "Favourites" = "常用";
@@ -312,10 +312,10 @@
 "FreeDirections" = "TripGo - 免費的旅程規劃專家";
 
 /* Favorite trip 'from' title */
-"From" = "From"; // TODO
+"From" = "從";
 
 /* Format string for going from one location to others. Used to name favourite stops. */
-"From %@" = "From %@"; // TODO
+"From %@" = "從 %@";
 
 /* Route here... ...from Current location */
 "From current location" = "從目前位置";
@@ -360,7 +360,7 @@
 "GetAround" = "我使用TripGo來趴趴走";
 
 /* Message to show when trying to get trip for a favorite */
-"Getting trip..." = "Getting trip..."; // TODO
+"Getting trip..." = "正在規劃路線";
 
 /* goCatch action */
 "goCatch a Taxi" = "使用goCatch";
@@ -394,10 +394,10 @@
 "Include in routes" = "包含在旅程中";
 
 /* Title for setting to include step count on Agenda screen */
-"Include Step Count" = "Include Step Count"; // TODO
+"Include Step Count" = "包含步行數";
 
 /* Concession pricing footer */
-"Information on concession pricing is subject to availability." = "Information on concession pricing is subject to availability."; // TODO
+"Information on concession pricing is subject to availability." = "優惠票價的資訊是視情況而定的.";
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "Ingogo叫車服務";
@@ -420,7 +420,7 @@
 /* Inidcating the watch app is loading
    Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
-"Loading..." = "Loading..."; // TODO
+"Loading..." = "正在載入...";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "地點詳情";
@@ -429,7 +429,7 @@
 "Location missing." = "缺乏地點.";
 
 /* Error title when favourite is missing a location.. */
-"Location not set." = "Location not set."; // TODO
+"Location not set." = "還未設置地點";
 
 /* Where are you going from? */
 "LocationComingFrom" = "您的出發地?";
@@ -444,7 +444,7 @@
 "LostOnce" = "我曾經到處迷路直到我發現TripGo.";
 
 /* Header for settings of reminders that the user manually added */
-"Manual Reminders" = "Manual Reminders"; // TODO
+"Manual Reminders" = "手動設定提醒";
 
 /* Button title to switch agenda view to map mode
    Button title to switch to map
@@ -467,11 +467,11 @@
 "Min transfer time" = "最短轉運時間";
 
 /* No comment provided by engineer. */
-"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "將此交通工具相關的結果最小化．您可以在不常使用的交通選項上啟用此功能";
 
 /* Indicator that a transport mode will appear minimised on the routes screen.
    Title for setting to minimise a transport mode. */
-"Minimised" = "Minimised"; // TODO
+"Minimised" = "最小化";
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f分鐘";
@@ -486,7 +486,7 @@
 "More" = "更多";
 
 /* Header for list of how to get more information (e.g., by opening a website) */
-"More Information" = "More Information"; // TODO
+"More Information" = "更多資訊";
 
 /* Sample event name ('Movie') */
 "Movie" = "電影";
@@ -495,7 +495,7 @@
 "My Priorities" = "重要性";
 
 /* Title for button to access transport modes */
-"My Transport" = "My Transport"; // TODO
+"My Transport" = "我的交通工具";
 
 /* Header for list of my vehicles */
 "My Vehicles" = "我的車輛";
@@ -504,7 +504,7 @@
 "NameVehicle" = "車輛名稱";
 
 /* Error recovery suggestion for when TripGo couldn't identify the user's current city. */
-"Navigate to a supported city on a map." = "Navigate to a supported city on a map."; // TODO
+"Navigate to a supported city on a map." = "請將地圖移到任何一個支援的城市上";
 
 /* No comment provided by engineer. */
 "New Favourite" = "新常用";
@@ -537,10 +537,10 @@
 "No locations set" = "為設定任何地點";
 
 /* Indicating no trips have been planned within 24 hrs */
-"No planned trips" = "No planned trips"; // TODO
+"No planned trips" = "沒有已計劃好的路線";
 
 /* Error title when routing produced no results (but no specific error was returned from routing). */
-"No routes found." = "No routes found."; // TODO
+"No routes found." = "無法找到任何合適的路線";
 
 /* Negative answer to follow-up question for rating or feedback. */
 "No, thanks" = "不用．謝謝．";
@@ -568,10 +568,10 @@
 "Open Sidecar" = "開啟Sidecar";
 
 /* Error recovery suggestion for favourites with missing location. */
-"Open TripGo app and add the location of this favourite." = "Open TripGo app and add the location of this favourite."; // TODO
+"Open TripGo app and add the location of this favourite." = "請在手機上開啟TripGo為此常用項目設定地點";
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
-"Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services."; // TODO
+"Open TripGo or Settings app on your phone and grant TripGo access to location services." = "請在手機上開啟TripGo或是設定來同意TripGo存取您的定位服務";
 
 /* No comment provided by engineer. */
 "Open Uber" = "開啟Uber";
@@ -580,7 +580,7 @@
 "Open URL" = "開啟URL";
 
 /* No comment provided by engineer. */
-"Open website" = "Open website"; // TODO
+"Open website" = "開啟網頁";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "已取得授權．請返回之前的畫面並重新嘗試一次.";
@@ -592,28 +592,28 @@
 "Pick a Time" = "選取一個時間";
 
 /* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
-"Plan a trip on your phone" = "Plan a trip on your phone"; // TODO
+"Plan a trip on your phone" = "請在您的手機上規劃一條路線";
 
 /* Instruction for what to do if there are no planned trips in the next 24 hours */
-"Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favourites."; // TODO
+"Plan a trip on your phone or press firmly to access your favourites." = "在您的手機上規劃一條路線或是下壓螢幕來查看常用路線";
 
 /* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
-"Please adjust your query and try again." = "Please adjust your query and try again."; // TODO
+"Please adjust your query and try again." = "請調整一下您的搜索條件並再次嘗試";
 
 /* Error recovery suggestion for when no calendar found. */
 "Please check your Calendar app and make sure you have a calendar configured." = "請確任您已在此裝置上設定的行事曆．";
 
 /* Recovery suggestion when TripGo cannot access its local files */
-"Please delete the app and re-install from the App Store. Sorry for the inconvenience!" = "Please delete the app and re-install from the App Store. Sorry for the inconvenience!"; // TODO
+"Please delete the app and re-install from the App Store. Sorry for the inconvenience!" = "請將本程式從手機上移除並再次從App Store下載．很抱歉造成您的不便";
 
 /* Recovery suggestion when database got corrupted */
-"Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!"; // TODO
+"Please restart the app. Sorry for the inconvenience!" = "請重新啟動本程式．很抱歉造成您的不便";
 
 /* Recovery suggestion when TripGo cannot update its local files */
-"Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!"; // TODO
+"Please try restarting the app. Sorry for the inconvenience!" = "請嘗試重新啟動本程式．很抱歉造成您的不便";
 
 /* Header for settings about pricing */
-"Pricing" = "Pricing"; // TODO
+"Pricing" = "價格";
 
 /* Description of the pricing */
 "pricingDescription" = "票價";
@@ -622,7 +622,7 @@
 "PrivateTimeToLeave" = "請準備出發！您到%@的旅程將在%@開始";
 
 /* Notification message for a non-public transport trip. Provided is %time you need to leave. */
-"PrivateTimeToLeaveNoLocation" = "請準備出發！Your trip commences at %@"; // TODO
+"PrivateTimeToLeaveNoLocation" = "請準備出發！您的旅程將從 %@ 開始";
 
 /* Rate us preference */
 "Rate TripGo" = "給我們評價";
@@ -631,7 +631,7 @@
 "Refining location" = "取得目前位置";
 
 /* Action title to add/remove reminder */
-"Reminder" = "Reminder"; // TODO
+"Reminder" = "提醒事項";
 
 /* Added reminder notice */
 "Reminder added" = "已新增提醒事項";
@@ -646,7 +646,7 @@
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
-"Remove and exclude event" = "Remove and exclude event"; // TODO
+"Remove and exclude event" = "排除此事件";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "移除常用";
@@ -661,10 +661,10 @@
 "Removed from Agenda" = "已從行程中移除";
 
 /* No comment provided by engineer. */
-"Removing this trip will exclude the following event from your agenda." = "Removing this trip will exclude the following event from your agenda."; // TODO
+"Removing this trip will exclude the following event from your agenda." = "移除此路線將會把它以後的事件從您的行程中排除";
 
 /* No comment provided by engineer. */
-"Removing this trip will exclude the preceeding event from your agenda." = "Removing this trip will exclude the preceeding event from your agenda."; // TODO
+"Removing this trip will exclude the preceeding event from your agenda." = "移除此路線將會把它之前的事件從您的行程中排除";
 
 /* Title for switch indicating if an event repeats or not */
 "Repeat does end" = "結束重複";
@@ -686,10 +686,10 @@
 "Reset tutorial" = "重置教學";
 
 /* Title for selector of return time for a trip */
-"Return time" = "Return time"; // TODO
+"Return time" = "回程時間";
 
 /* Header for section to configure return trip */
-"Return trip" = "Return trip"; // TODO
+"Return trip" = "回程路線";
 
 /* No comment provided by engineer. */
 "Route" = "旅程";
@@ -725,10 +725,10 @@
 "Select a date to get flight details." = "選取一個日期來獲取航班詳細資料.";
 
 /* No comment provided by engineer. */
-"Select Bike Share" = "Select Bike Share"; // TODO
+"Select Bike Share" = "選擇共享的自行車";
 
 /* No comment provided by engineer. */
-"Select Car Park" = "Select Car Park"; // TODO
+"Select Car Park" = "選擇停車場";
 
 /* Walkthrough */
 "Select the place where you stay at the end of each day" = "選擇一個您在每一天結束後回到的地點";
@@ -768,13 +768,13 @@
 "Show info" = "顯示資料";
 
 /* Action title to show map for a segment */
-"Show map" = "Show map"; // TODO
+"Show map" = "顯示地圖";
 
 /* No comment provided by engineer. */
-"Show parking options" = "Show parking options"; // TODO
+"Show parking options" = "顯示停車場選項";
 
 /* Button Title to get to website with ticket details. */
-"Show ticket Info" = "Show ticket Info"; // TODO
+"Show ticket Info" = "顯示票價資訊";
 
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "顯示時刻表";
@@ -816,7 +816,7 @@
 "StepsNumber" = "已走%@步";
 
 /* Title for stopover event */
-"Stopover" = "Stopover"; // TODO
+"Stopover" = "中轉站";
 
 /* Map mode 'streets' */
 "Streets" = "標準";
@@ -890,10 +890,10 @@
 "Trip" = "旅程";
 
 /* No comment provided by engineer. */
-"TripGo cannot access its local files." = "TripGo cannot access its local files."; // TODO
+"TripGo cannot access its local files." = "TripGo無法存取本地檔案";
 
 /* No comment provided by engineer. */
-"TripGo cannot update its local files." = "TripGo cannot update its local files."; // TODO
+"TripGo cannot update its local files." = "TripGo無法更新本地檔案";
 
 /* No comment provided by engineer. */
 "TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo目前不支援此地區．請到我們支援的其中一個地區並再嘗試一次";
@@ -911,14 +911,14 @@
 "TypeVehicle" = "車輛種類";
 
 /* Which of my vehicles to assign this to */
-"Vehicle" = "Vehicle"; // TODO
+"Vehicle" = "車輛";
 
 /* No comment provided by engineer. */
 "Verify location..." = "確認地點...";
 
 /* Positive answer to displayed advertising.
    Show content of notification. */
-"View" = "View"; // TODO
+"View" = "查看";
 
 /* View alternative times for this trip */
 "View times" = "顯示時刻表";
