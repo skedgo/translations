@@ -4,14 +4,8 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " 每 ";
 
-/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "提早 %1$@ (%2$@ 路公交)"; // TODO
-
-/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "延迟 %1$@ (%2$@ 路公交)"; // TODO
-
 /* Format string for going from one location to another. Used to name favourite trips. */
-"%@ to %@" = "%1$@ 到 %2$@"; // TODO
+"%@ to %@" = "%1$@ 到 %2$@";
 
 /* Error title when access to location hasn't been granted, but location is required. */
 "Access to location services required." = "Access to location services required."; // TODO
@@ -57,7 +51,7 @@
 "Agenda cleared" = "所有行程已清除";
 
 /* Title for agenda screen while it's still in setup mode. */
-"Agenda Setup" = "设置行程"; // TODO
+"Agenda Setup" = "设置行程";
 
 /* Agenda button name
    Agenda tab bar name */
@@ -73,7 +67,7 @@
 "Alert" = "提示";
 
 /* No comment provided by engineer. */
-"Alerts" = "提示"; // TODO
+"Alerts" = "提示";
 
 /* Description of alert with %title */
 "AlertTitleFormat" = "提示:%@";
@@ -113,7 +107,7 @@
 "Automatic Reminders" = "Automatic Reminders"; // TODO
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
-"Awesome! How about rating us?" = "太赞了! 给我们打个分吧?!"; // TODO
+"Awesome! How about rating us?" = "太赞了! 给我们打个分吧?!";
 
 /* vehicle booking action */
 "Book vehicle" = "预订车辆";
@@ -122,7 +116,7 @@
 "BookTaxi" = "预定计程车";
 
 /* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
-"Bummer... How about some feedback?" = "呃... 可以给我们一些反馈吗?"; // TODO
+"Bummer... How about some feedback?" = "呃... 可以给我们一些反馈吗?";
 
 /* No comment provided by engineer. */
 "Cache" = "缓存";
@@ -167,7 +161,7 @@
 "Could not determine your current location. Please set your location manually." = "无法确认您的当前位置，请手动设定。";
 
 /* Error title when TripGo couldn't identify the user's current city. */
-"Could not find your city." = "找不到您所在的城市！"; // TODO
+"Could not find your city." = "找不到您所在的城市！";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "注册时使用优惠券代码'%@'即可折扣$5元 (只适用新注册用户)";
@@ -209,7 +203,7 @@
 "Do Not Include" = "Do Not Include"; // TODO
 
 /* No comment provided by engineer. */
-"Do you want to always use this trip and add it to your favourites?" = "您想要经常使用这个行程并把它加到常用行程里吗?"; // TODO
+"Do you want to always use this trip and add it to your favourites?" = "您想要经常使用这个行程并把它加到常用行程里吗?";
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "如果您沒有固定的上班或是上学地点，您可以略过此步骤";
@@ -278,7 +272,7 @@
 "Favourite removed" = "已从常用删除";
 
 /* No comment provided by engineer. */
-"Favourite Trip" = "常用行程"; // TODO
+"Favourite Trip" = "常用行程";
 
 /* Title for button to access favourites */
 "Favourites" = "常用";
@@ -321,10 +315,10 @@
 "FreeDirections" = "TripGo - 免费的旅程规划专家";
 
 /* Favorite trip 'from' title */
-"From" = "起始于"; // TODO
+"From" = "起始于";
 
 /* Format string for going from one location to others. Used to name favourite stops. */
-"From %@" = "从 %@ 出发"; // TODO
+"From %@" = "从 %@ 出发";
 
 /* Route here... ...from Current location */
 "From current location" = "从目前位置";
@@ -351,13 +345,13 @@
 "Get Lyft" = "使用Lyft";
 
 /* No comment provided by engineer. */
-"Get off here" = "从这出发"; // TODO
+"Get off here" = "从这出发";
 
 /* No comment provided by engineer. */
-"Get on here" = "到这里去"; // TODO
+"Get on here" = "到这里去";
 
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
-"Get on or off here" = "从这上车或下车"; // TODO
+"Get on or off here" = "从这上车或下车";
 
 /* No comment provided by engineer. */
 "Get Sidecar" = "使用Sidecar";
@@ -385,7 +379,7 @@
 "HabitualEventDescription" = "例行事件是您每天需要做的事情，但是您并不想将它们纪录在您的日历中（例如：上班）。指定例行事件可以让行程功能在对的时间带您到对的地点。";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "TripGo对您有帮助吗?"; // TODO
+"Has TripGo been useful to you?" = "TripGo对您有帮助吗?";
 
 /* No comment provided by engineer. */
 "History cleared" = "历史记录已清除";
@@ -404,11 +398,12 @@
 
 /* School services footer */
 "Information on school services and concession pricing is subject to availability." = "取得校车和优惠票价的信息是视情况而定的。";
+
 /* Title for setting to include step count on Agenda screen */
 "Include Step Count" = "Include Step Count"; // TODO
 
 /* Concession pricing footer */
-"Information on concession pricing is subject to availability." = "取得优惠票价的信息是视情况而定的。"; // TODO
+"Information on concession pricing is subject to availability." = "取得优惠票价的信息是视情况而定的。";
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "Ingogo叫车服务";
@@ -505,9 +500,6 @@
 /* User preferences title */
 "My Priorities" = "重要性";
 
-/* Title for button to access transport modes */
-"My Transport" = "My Transport"; // TODO
-
 /* Header for list of my vehicles */
 "My Vehicles" = "我的车辆";
 
@@ -554,10 +546,10 @@
 "No routes found." = "No routes found."; // TODO
 
 /* Negative answer to follow-up question for rating or feedback. */
-"No, thanks" = "不用了, 谢谢！"; // TODO
+"No, thanks" = "不用了, 谢谢！";
 
 /* Negative answer to question whether TripGo is useful. */
-"Not really" = "不是很有用！"; // TODO
+"Not really" = "不是很有用！";
 
 /* Countdown cell 'now' indicator */
 "Now" = "现在";
@@ -633,7 +625,7 @@
 "PrivateTimeToLeave" = "请准备出发！您到%@的旅程将在%@开始";
 
 /* Notification message for a non-public transport trip. Provided is %time you need to leave. */
-"PrivateTimeToLeaveNoLocation" = "请准备出发！您的行程将从%@开始。"; // TODO
+"PrivateTimeToLeaveNoLocation" = "请准备出发！您的行程将从%@开始。";
 
 /* Rate us preference */
 "Rate TripGo" = "给我们打分";
@@ -657,7 +649,7 @@
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
-"Remove and exclude event" = "移除并清理事件"; // TODO
+"Remove and exclude event" = "移除并清理事件";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "删除常用";
@@ -672,10 +664,10 @@
 "Removed from Agenda" = "已从行程中删除";
 
 /* No comment provided by engineer. */
-"Removing this trip will exclude the following event from your agenda." = "移除这个行程会清理您后续的事件。"; // TODO
+"Removing this trip will exclude the following event from your agenda." = "移除这个行程会清理您后续的事件。";
 
 /* No comment provided by engineer. */
-"Removing this trip will exclude the preceeding event from your agenda." = "移除这个行程会清理您正在进行的事件。"; // TODO
+"Removing this trip will exclude the preceeding event from your agenda." = "移除这个行程会清理您正在进行的事件。";
 
 /* Title for switch indicating if an event repeats or not */
 "Repeat does end" = "结束重复";
@@ -736,10 +728,10 @@
 "Select a date to get flight details." = "选取一个日期来获取航班详细资料.";
 
 /* No comment provided by engineer. */
-"Select Bike Share" = "选择自行车停放处"; // TODO
+"Select Bike Share" = "选择自行车停放处";
 
 /* No comment provided by engineer. */
-"Select Car Park" = "选择停车场"; // TODO
+"Select Car Park" = "选择停车场";
 
 /* Walkthrough */
 "Select the place where you stay at the end of each day" = "选择一个您在每一天结束后回到的地点";
@@ -782,7 +774,7 @@
 "Show map" = "Show map"; // TODO
 
 /* No comment provided by engineer. */
-"Show parking options" = "显示可供选择的停车场"; // TODO
+"Show parking options" = "显示可供选择的停车场";
 
 /* Button Title to get to website with ticket details. */
 "Show ticket Info" = "Show ticket Info"; // TODO
@@ -887,12 +879,6 @@
 /* Title favourite name */
 "TitleFavouriteName" = "名称";
 
-/* Favorite trip 'to' title */
-"To" = "前往"; // TODO
-
-/* Format string for going from currently location to this one. Used to name favourite destinations. */
-"To %@" = "前往 %@"; // TODO
-
 /* Title for button to access transport modes
    Title of settings for generic transport stuff */
 "Transport" = "交通工具";
@@ -966,13 +952,13 @@
 "Work" = "公司";
 
 /* Positive answer to follow-up question for rating or feedback. */
-"Yeah, ok!" = "好的, 我很乐意!"; // TODO
+"Yeah, ok!" = "好的, 我很乐意!";
 
 /* Positive answer to question whether TripGo is useful. */
 "Yes!" = "是的，很有用!"; // TODO
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "您暂时还无法换乘噢！"; // TODO
+"You might not make this transfer." = "您暂时还无法换乘噢！";
 
 /* No comment provided by engineer. */
 "Zoom in" = "放大";

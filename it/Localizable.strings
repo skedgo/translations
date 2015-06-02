@@ -494,9 +494,6 @@
 /* User preferences title */
 "My Priorities" = "Le mie priorità";
 
-/* Title for button to access transport modes */
-"My Transport" = "My Transport"; // TODO
-
 /* Header for list of my vehicles */
 "My Vehicles" = "I miei veicoli";
 
