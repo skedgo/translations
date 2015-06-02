@@ -5,10 +5,10 @@
 " every " = " elke ";
 
 /* Format string for going from one location to another. Used to name favourite trips. */
-"%@ to %@" = "%1$@ to %2$@";
+"%@ to %@" = "%1$@ naar %2$@";
 
 /* Error title when access to location hasn't been granted, but location is required. */
-"Access to location services required." = "Access to location services required."; // TODO
+"Access to location services required." = "Toegang tot de locatie service is vereist.";
 
 /* No comment provided by engineer. */
 "Add address..." = "Voeg adres toe...";
@@ -51,7 +51,7 @@
 "Agenda cleared" = "Agenda is gereset";
 
 /* Title for agenda screen while it's still in setup mode. */
-"Agenda Setup" = "Agenda Setup"; // TODO
+"Agenda Setup" = "Agenda Instellen";
 
 /* Agenda button name
    Agenda tab bar name */
@@ -67,7 +67,7 @@
 "Alert" = "Alarm";
 
 /* No comment provided by engineer. */
-"Alerts" = "Alerts"; // TODO
+"Alerts" = "Alarm";
 
 /* Description of alert with %title */
 "AlertTitleFormat" = "Alarm: %@";
@@ -91,14 +91,11 @@
    Arrival time sorter title */
 "Arrival" = "Aankomst";
 
-/* Arrive field title */
-"Arrive " = "Aankomst ";
-
 /* Arrive before button */
 "ArriveBefore" = "Aankomst";
 
 /* Title for section to assign a trip to a vehicle. */
-"Assign to vehicle" = "Assign to vehicle"; // TODO
+"Assign to vehicle" = "Kies een voertuig";
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
 "At " = "Om ";
@@ -107,7 +104,7 @@
 "Auto" = "Auto";
 
 /* Header for settings of reminders automatically added by TripGo through the agenda */
-"Automatic Reminders" = "Automatic Reminders"; // TODO
+"Automatic Reminders" = "Herinneringen";
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
 "Awesome! How about rating us?" = "Super! Wilt u ons een waardering geven?";
@@ -161,7 +158,7 @@
 "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Het instellen van gemak bepaald voorkeuren zoals de hoeveelheid lopen, overstappen en het vinden van taxi's.";
 
 /* Error title when TripGo couldn't identify the user's current city. */
-"Could not find your city." = "Could not find your city."; // TODO
+"Could not find your city." = "Uw stad kon niet gevonden worden.";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "Voer deze code in '%@' bij uw registratie. U krijgt AU$5 cadeau (alleen geldig voor nieuwe aanmeldingen)";
@@ -179,7 +176,7 @@
 "Cycle speed" = "Fiets snelheid";
 
 /* No comment provided by engineer. */
-"Database corrupted and lost." = "Database corrupted and lost."; // TODO
+"Database corrupted and lost." = "Database beschadigd.";
 
 /* From %date */
 "DateFromFormat" = "Vanaf %@";
@@ -200,10 +197,10 @@
 "Distances" = "Afstanden";
 
 /* Title for transport modes that the user doesn't want included */
-"Do Not Include" = "Do Not Include"; // TODO
+"Do Not Include" = "Niet weergeven";
 
 /* No comment provided by engineer. */
-"Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favourites?"; // TODO
+"Do you want to always use this trip and add it to your favourites?" = "Wilt u deze reis vaker nemen en toevoegen aan uw favorieten?";
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Geen vaste werk- of studeerplek? Dan kunt u deze stap overslaan.";
@@ -253,7 +250,7 @@
 /* Text do mark an example */
 "Example" = "Voorbeeld";
 
-//* Exclude event action */
+/* Exclude event action */
 "Exclude" = "Uitsluiten";
 
 /* There goes my excuse for being late... */
@@ -274,7 +271,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "Favourite Trip"; // TODO
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "Favorieten";
 
 /* Favourites button name
@@ -315,10 +312,10 @@
 "FreeDirections" = "TripGo - Gratis reisadvies";
 
 /* Favorite trip 'from' title */
-"From" = "From"; // TODO
+"From" = "Van";
 
 /* Format string for going from one location to others. Used to name favourite stops. */
-"From %@" = "From %@"; // TODO
+"From %@" = "Van %@";
 
 /* Route here... ...from Current location */
 "From current location" = "Vanuit huidige locatie";
@@ -363,7 +360,7 @@
 "GetAround" = "Als ik ergens naar toe moet gebruik ik TripGo.";
 
 /* Message to show when trying to get trip for a favorite */
-"Getting trip..." = "Getting trip..."; // TODO
+"Getting trip..." = "Reis wordt geladen...";
 
 /* goCatch action */
 "goCatch a Taxi" = "goCatch een Taxi";
@@ -397,10 +394,10 @@
 "Include in routes" = "Meetellen bij routebepalingen";
 
 /* Title for setting to include step count on Agenda screen */
-"Include Step Count" = "Include Step Count"; // TODO
+"Include Step Count" = "Aantal stappen";
 
 /* Concession pricing footer */
-"Information on concession pricing is subject to availability." = "De informatie over kortingen is alleen op basis van beschikbaarheid."; // TODO
+"Information on concession pricing is subject to availability." = "De informatie mbt kortingen is alleen op basis van beschikbaarheid."; // TODO
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "ingogo een Taxi";
@@ -414,12 +411,6 @@
 /* Distance 'kilometers' */
 "Km" = "Km";
 
-/* Leave field title */
-"Leave " = "Vertrek ";
-
-/* No comment provided by engineer. */
-"Leave now" = "Vertrek nu";
-
 /* Leave after button */
 "LeaveAfter" = "Vertrek";
 
@@ -429,7 +420,7 @@
 /* Inidcating the watch app is loading
    Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
-"Loading..." = "Loading..."; // TODO
+"Loading..." = "Laden...";
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "Locatie";
@@ -438,7 +429,7 @@
 "Location missing." = "Locatie ontbreekt.";
 
 /* Error title when favourite is missing a location.. */
-"Location not set." = "Location not set."; // TODO
+"Location not set." = "Locatie niet ingevoerd.";
 
 /* Where are you going from? */
 "LocationComingFrom" = "Waar is uw vertrekpunt?";
@@ -453,7 +444,7 @@
 "LostOnce" = "Ik was erg verdwaald.. totdat ik TripGo vond!";
 
 /* Header for settings of reminders that the user manually added */
-"Manual Reminders" = "Manual Reminders"; // TODO
+"Manual Reminders" = "Herinneringen";
 
 /* Button title to switch agenda view to map mode
    Button title to switch to map
@@ -475,6 +466,13 @@
 /* Minimum transfer time preference */
 "Min transfer time" = "Min. overstaptijd";
 
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimised"; // TODO
+
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f minuten";
 
@@ -488,7 +486,7 @@
 "More" = "Meer";
 
 /* Header for list of how to get more information (e.g., by opening a website) */
-"More Information" = "More Information"; // TODO
+"More Information" = "Meer Informatie";
 
 /* Sample event name ('Movie') */
 "Movie" = "Film";
@@ -497,16 +495,16 @@
 "My Priorities" = "Mijn voorkeuren";
 
 /* Title for button to access transport modes */
-"My Transport" = "My Transport"; // TODO
+"My Transport" = "Mijn Transport";
 
 /* Header for list of my vehicles */
-"My Vehicles" = "Mijn voertuigen";
+"My Vehicles" = "Mijn Voertuigen";
 
 /* Name of the vehicle */
 "NameVehicle" = "Naam";
 
 /* Error recovery suggestion for when TripGo couldn't identify the user's current city. */
-"Navigate to a supported city on a map." = "Navigate to a supported city on a map."; // TODO
+"Navigate to a supported city on a map." = "Navigeer naar een stad die beschikbaar is.";
 
 /* No comment provided by engineer. */
 "New Favourite" = "Niewe favoriet";
@@ -539,10 +537,10 @@
 "No locations set" = "Geen vertrekpunt of bestemming ingevoerd";
 
 /* Indicating no trips have been planned within 24 hrs */
-"No planned trips" = "No planned trips"; // TODO
+"No planned trips" = "Geen geplannde trips";
 
 /* Error title when routing produced no results (but no specific error was returned from routing). */
-"No routes found." = "No routes found."; // TODO
+"No routes found." = "Geen reizen gevonden.";
 
 /* Negative answer to follow-up question for rating or feedback. */
 "No, thanks" = "Nee, dankuwel";
@@ -570,10 +568,10 @@
 "Open Sidecar" = "Open Sidecar";
 
 /* Error recovery suggestion for favourites with missing location. */
-"Open TripGo app and add the location of this favourite." = "Open TripGo app and add the location of this favourite."; // TODO
+"Open TripGo app and add the location of this favourite." = "Open de TripGo app en voeg de locatie toe voor deze favoriet.";
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
-"Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services."; // TODO
+"Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo of de Instellingen app en sta toegang toe tot de locatievoorzieningen.";
 
 /* No comment provided by engineer. */
 "Open Uber" = "Open Uber";
@@ -582,7 +580,7 @@
 "Open URL" = "Open URL";
 
 /* No comment provided by engineer. */
-"Open website" = "Open website"; // TODO
+"Open website" = "Open website";
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "Toestemming is verleend. Ga terug en probeer opnieuw.";
@@ -594,13 +592,13 @@
 "Pick a Time" = "Kies een tijd";
 
 /* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
-"Plan a trip on your phone" = "Plan a trip on your phone"; // TODO
+"Plan a trip on your phone" = "Plan een ries op je telefoon";
 
 /* Instruction for what to do if there are no planned trips in the next 24 hours */
-"Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favourites."; // TODO
+"Plan a trip on your phone or press firmly to access your favourites." = "Plan een trip op uw telefoon of tap stevig om naar uw favourieten te gaan.";
 
 /* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
-"Please adjust your query and try again." = "Please adjust your query and try again."; // TODO
+"Please adjust your query and try again." = "Verander de query en probeer opnieuw.";
 
 /* Error recovery suggestion for when no calendar found. */
 "Please check your Calendar app and make sure you have a calendar configured." = "Ga naar de Agenda app en kijk of er een agenda is ingesteld.";
@@ -609,13 +607,13 @@
 "Please delete the app and re-install from the App Store. Sorry for the inconvenience!" = "Please delete the app and re-install from the App Store. Sorry for the inconvenience!"; // TODO
 
 /* Recovery suggestion when database got corrupted */
-"Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!"; // TODO
+"Please restart the app. Sorry for the inconvenience!" = "Herstart de app astrublieft. Excuses voor het ongemak!";
 
 /* Recovery suggestion when TripGo cannot update its local files */
-"Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!"; // TODO
+"Please try restarting the app. Sorry for the inconvenience!" = "Probeer de app te herstarten. Excuses voor het ongemak!";
 
 /* Header for settings about pricing */
-"Pricing" = "Pricing"; // TODO
+"Pricing" = "Prijzen";
 
 /* Description of the pricing */
 "pricingDescription" = "Prijs";
@@ -633,7 +631,7 @@
 "Refining location" = "Locatie verfijnen";
 
 /* Action title to add/remove reminder */
-"Reminder" = "Reminder"; // TODO
+"Reminder" = "Herinnering";
 
 /* Added reminder notice */
 "Reminder added" = "Herinnering toegevoegd";
@@ -648,7 +646,7 @@
 "Remove" = "Verwijder";
 
 /* No comment provided by engineer. */
-"Remove and exclude event" = "Remove and exclude event"; // TODO
+"Remove and exclude event" = "Verwijder event ";
 
 /* Remove favourite activity title */
 "Remove Favourite" = "Verwijder favoriet";
@@ -775,11 +773,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "Show parking options"; // TODO
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Bekijk dienstregeling";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar"; // TODO
 
 /* Show website action */
 "Show website" = "Open Website";
@@ -829,9 +827,6 @@
 /* Walkthrough */
 "Swipe dates to navigate between weeks" = "Swipe de datums om naar andere weken te navigeren.";
 
-/* No comment provided by engineer. */
-"Tab Bar" = "Tab Bar";
-
 /* Walkthrough - should match translation for '\"Routes\"' */
 "Tap 'Routes' for alternative routes" = "Tik 'Routes' voor alternatieve routes.";
 
@@ -861,9 +856,6 @@
 
 /* Thank you HUD notice */
 "Thank you!" = "Dankuwel!";
-
-/* Results screen internal error message */
-"There was a problem on our side. We will investigate." = "Er is een probleem aan onze kant. We gaan het onderzoeken!";
 
 /* Title for screen to pick your working hours */
 "Time at Work" = "Werktijden";

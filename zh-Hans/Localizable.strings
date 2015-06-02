@@ -97,9 +97,6 @@
    Arrival time sorter title */
 "Arrival" = "到达";
 
-/* Arrive field title */
-"Arrive " = "到达 ";
-
 /* Arrive before button */
 "ArriveBefore" = "此前到达";
 
@@ -166,13 +163,11 @@
 /* Convenience description */
 "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "旅程的方便性会受到是否需要更换公共交通的影响，您需要步行的距离以及是否需要叫计程车等的影响。";
 
-<<<<<<< HEAD
 /* Location manager failure error message */
 "Could not determine your current location. Please set your location manually." = "无法确认您的当前位置，请手动设定。";
-=======
+
 /* Error title when TripGo couldn't identify the user's current city. */
-"Could not find your city." = "Could not find your city."; // TODO
->>>>>>> 464706b2b7b7843c831fc08c572e07a1acabf0d6
+"Could not find your city." = "找不到您所在的城市！"; // TODO
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
 "CouponCodeIngogoFormat" = "注册时使用优惠券代码'%@'即可折扣$5元 (只适用新注册用户)";
@@ -285,7 +280,7 @@
 /* No comment provided by engineer. */
 "Favourite Trip" = "常用行程"; // TODO
 
-/* No comment provided by engineer. */
+/* Title for button to access favourites */
 "Favourites" = "常用";
 
 /* Favourites button name
@@ -407,16 +402,13 @@
 /* Title for a switch indicating if this event should be included in all-day routes */
 "Include in routes" = "包含在旅程中";
 
-<<<<<<< HEAD
 /* School services footer */
 "Information on school services and concession pricing is subject to availability." = "取得校车和优惠票价的信息是视情况而定的。";
-=======
 /* Title for setting to include step count on Agenda screen */
 "Include Step Count" = "Include Step Count"; // TODO
 
 /* Concession pricing footer */
-"Information on concession pricing is subject to availability." = "Information on concession pricing is subject to availability."; // TODO
->>>>>>> 464706b2b7b7843c831fc08c572e07a1acabf0d6
+"Information on concession pricing is subject to availability." = "取得优惠票价的信息是视情况而定的。"; // TODO
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "Ingogo叫车服务";
@@ -429,12 +421,6 @@
 
 /* Distance 'kilometers' */
 "Km" = "公里";
-
-/* Leave field title */
-"Leave " = "出发 ";
-
-/* No comment provided by engineer. */
-"Leave now" = "现在出发";
 
 /* Leave after button */
 "LeaveAfter" = "此后出发";
@@ -490,6 +476,13 @@
 
 /* Minimum transfer time preference */
 "Min transfer time" = "最短中转时间";
+
+/* No comment provided by engineer. */
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+
+/* Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode. */
+"Minimised" = "Minimised"; // TODO
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f分钟";
@@ -791,11 +784,11 @@
 /* No comment provided by engineer. */
 "Show parking options" = "显示可供选择的停车场"; // TODO
 
+/* Button Title to get to website with ticket details. */
+"Show ticket Info" = "Show ticket Info"; // TODO
+
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "显示时刻表";
-
-/* No comment provided by engineer. */
-"Show top four modes in tab bar" = "Show top four modes in tab bar"; // TODO
 
 /* Show website action */
 "Show website" = "开启网站";
@@ -894,16 +887,14 @@
 /* Title favourite name */
 "TitleFavouriteName" = "名称";
 
-<<<<<<< HEAD
 /* Favorite trip 'to' title */
 "To" = "前往"; // TODO
 
 /* Format string for going from currently location to this one. Used to name favourite destinations. */
 "To %@" = "前往 %@"; // TODO
 
-=======
->>>>>>> 464706b2b7b7843c831fc08c572e07a1acabf0d6
-/* Title of settings for generic transport stuff */
+/* Title for button to access transport modes
+   Title of settings for generic transport stuff */
 "Transport" = "交通工具";
 
 /* Transport genius */
@@ -942,14 +933,9 @@
 /* No comment provided by engineer. */
 "Verify location..." = "确认地点...";
 
-<<<<<<< HEAD
-/* Positive answer to displayed advertising. */
-"View" = "显示"; // TODO
-=======
 /* Positive answer to displayed advertising.
    Show content of notification. */
 "View" = "View"; // TODO
->>>>>>> 464706b2b7b7843c831fc08c572e07a1acabf0d6
 
 /* View alternative times for this trip */
 "View times" = "显示时刻表";
