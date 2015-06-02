@@ -26,7 +26,7 @@
 "Car" = "轿车";
 
 /* Credit card number */
-"Card No." = "Card No."; // TODO
+"Card No." = "卡号";
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "选取标记";
@@ -35,19 +35,19 @@
 "Close" = "关闭";
 
 /* Error title when GPS failed. */
-"Could not determine your current location." = "Could not determine your current location."; // TODO
+"Could not determine your current location." = "无法定位您的当前位置。";
 
 /* Could not download supported regions warning */
 "CouldNotDownloadSupportedRegions" = "无法从我们的服务器下载所覆盖地区的列表．请稍后再试一次。";
 
 /* Section title for credit card payment */
-"Credit card" = "Credit card"; // TODO
+"Credit card" = "信用卡";
 
 /* Current location */
 "Current Location" = "当前位置";
 
 /* Credit card CVC */
-"CVC" = "CVC"; // TODO
+"CVC" = "卡背面3位数";
 
 /* to %date */
 "DateToFormat" = "到%@";
@@ -68,7 +68,7 @@
 "DropNewPin" = "放置新的大头针";
 
 /* Email address where receipt is sent */
-"Email" = "Email"; // TODO
+"Email" = "邮箱";
 
 /* Short indicator of end-time */
 "ends at %@" = "在%@结束";
@@ -81,13 +81,13 @@
 "EveryDayFormat" = "每%@";
 
 /* Email placeholder text */
-"example@example.com" = "example@example.com"; // TODO
+"example@example.com" = "example@example.com";
 
 /* Credit card expiry date */
-"Expiry Date" = "Expiry Date"; // TODO
+"Expiry Date" = "到期时间";
 
 /* Option that allows users to indicate whether reminder is needed */
-"For when to leave" = "For when to leave"; // TODO
+"For when to leave" = "何时离开";
 
 /* Free as in beer */
 "Free" = "免费";
@@ -96,7 +96,7 @@
 "Getting a lift" = "与人共乘";
 
 /* Indicating that we are contacting Stripe for payment token */
-"Getting stripe token" = "Getting stripe token"; // TODO
+"Getting stripe token" = "联系信用卡运营商";
 
 /* Accessibility annotation for trips which have a reminder set. */
 "Has reminder" = "提醒已设置";
@@ -111,7 +111,7 @@
 "Instant results" = "快速搜寻结果";
 
 /* Name placeholder text */
-"John Appleseed" = "John Appleseed"; // TODO
+"John Appleseed" = "John Appleseed";
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "本功能需要使用定位服务. 请到设定 > 隐私 > 定位服务确认服务是开启的，同时也请确认您已授权本App使用定位服务.";
@@ -138,7 +138,7 @@
 "Minute" = "1分钟";
 
 /* Option that allows users to indicate how eary to show trip reminder */
-"Minutes before trip" = "Minutes before trip"; // TODO
+"Minutes before trip" = "提前多久开始行程";
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld分钟";
@@ -186,7 +186,7 @@
 "Minutes>=60%60!=1" = "%ld小时%ld分钟";
 
 /* 'more' indicator for truncated text. */
-"more" = "more"; // TODO
+"more" = "更多";
 
 /* More results proposal */
 "More results" = "更多搜索结果";
@@ -225,25 +225,25 @@
 "Open Settings" = "打开设置";
 
 /* No comment provided by engineer. */
-"Password" = "Password"; // TODO
+"Password" = "密码";
 
 /* Indicating a payment is successful */
-"Payment successful" = "Payment successful"; // TODO
+"Payment successful" = "支付成功";
 
 /* Section title for Paypal payment */
-"Paypal" = "Paypal"; // TODO
+"Paypal" = "Paypal";
 
 /* Error recovery suggestion when GPS fails. */
-"Please try again or set your location manually." = "Please try again or set your location manually."; // TODO
+"Please try again or set your location manually." = "请再试一遍或者手动设置您的位置。";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "点击'搜寻'来取得更多结果...";
 
 /* Title for section that asks users where payment receipt should be sent */
-"Receipt" = "Receipt"; // TODO
+"Receipt" = "收据";
 
 /* Section title at the end of a booking that allows users to set reminders */
-"Reminder" = "Reminder"; // TODO
+"Reminder" = "提醒";
 
 /* Repeats daily */
 "Repeats daily" = "每天重复";
@@ -271,6 +271,9 @@
 
 /* ex: 87s */
 "Seconds<120" = "%.0f秒";
+
+/* Action text shown when a given description doesn't fit, is abbreviated and a button with this action title is added to expand the text. */
+"See more" = "查看更多";
 
 /* Tap to set location */
 "SetLocation" = "点击来选取地点";
