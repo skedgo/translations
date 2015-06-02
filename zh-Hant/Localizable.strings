@@ -324,7 +324,7 @@
 "FromToForEventLocationFormat" = "從%@到%@";
 
 /* Header for list of vehicles garaged at this location */
-"Garaged Vehicles" = "停放在此車庫的車輛";
+"Garaged Vehicles" = "停放在此處的車輛";
 
 /* Title of settings for generic transport stuff */
 "General" = "一般";
@@ -695,7 +695,7 @@
 "Route here" = "規劃到此的路線";
 
 /* Results screen title */
-"Routes" = "路線";
+"Routes" = "所有路線";
 
 /* Map mode 'satellite' */
 "Satellite" = "衛星";
@@ -871,7 +871,7 @@
 "TitleEventName" = "事件名稱";
 
 /* Title favourite name */
-"TitleFavouriteName" = "常用項目名稱";
+"TitleFavouriteName" = "名稱";
 
 /* Title for button to access transport modes
    Title of settings for generic transport stuff */
