@@ -64,7 +64,7 @@
   <string name="coordinates_s">Coordinaten: %s</string>
   <string name="network_error">Netwerk fout, controleer de verbinding en probeer opnieuw</string>
   <string name="error_sharing_trip">Fout bij het delen van de trip, controleer de internet verbinding en probeer opnieuw!</string>
-  <string name="exclude_from_routing_brief">Niet gebruiken bij de agenda planning</string>
+  <string name="exclude_from_routing_brief">Uitsluiten</string>
   <string name="settings_category_searching">Zoeken</string>
   <string name="settings_summary_school_bus">Geef schoolbussen weer in de resultaten lijst</string>
   <string name="go_to_here">Ga naar hier</string>
@@ -83,7 +83,7 @@
   <string name="invalid_transfer_time">Ongeldige tijd, gebruik de laatste gebruikte tijd.</string>
   <string name="add_a_routine">Routine toevoegen</string>
   <string name="select_date_time_hint">Of selecteer een specifieke tijd</string>
-  <string name="garaged_vehicles_uppercase">GESTALDE VOERTUIGEN</string>
+  <string name="garaged_vehicles_uppercase">GEPARKEERDE VOERTUIGEN</string>
   <string name="repeat_ends_on">Herhaling eindigt op</string>
   <string name="settings_title_reminder_end_pub_trans">Verlaten openbaar vervoer</string>
   <string name="go_to_now">Ga naar nu</string>
@@ -140,7 +140,7 @@
   <string name="request_not_supported">Sorry, de gevraagde data is voorlopig nog niet door TripGo ondersteund.</string>
   <string name="priority_time_subtext">Vind snellere reizen</string>
   <string name="trip_not_fit">Reis past niet</string>
-  <string name="agenda_times_uppercase">AGENDA TIJDEN</string>
+  <string name="agenda_times_uppercase">AANWEZIG OP DEZE TIJDEN</string>
   <string name="cant_call_error">Fout bij verbinden</string>
   <string name="times_uppercase">TIJDEN</string>
   <string name="arrive_by">Aankomst tijd</string>
@@ -197,7 +197,7 @@
   <string name="change_stop_message">Hier %s in - en uitstappen</string>
   <string name="settings_summary_auto_faves">Automatisch trips uitrekenen naar uw favoriete locaties</string>
   <string name="sorted_by_price">Gesort. op Prijs</string>
-  <string name="location_name_uppercase">LOCATIE NAAM</string>
+  <string name="location_name_uppercase">NAAM</string>
   <string name="sorted_by_duration">Gesort. op Reisduur</string>
   <string name="exclude_cal_explanation">Activiteiten in deze kalenders zijn niet zichtbaar in uw TripGo agenda</string>
   <string name="page_title_timetables">Dienstregelingen</string>
