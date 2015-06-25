@@ -152,10 +152,10 @@
 "Concession Pricing" = "Reizen met korting";
 
 /* Hassle preference */
-"Convenience" = "Gemak";
+"Convenience" = "Gemakkelijk";
 
 /* Convenience description */
-"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Gemak beinvloed de hoeveelheid lopen, het aantal overstappen en hoe snel tripgo een taxi aanbiedt.";
+"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Gemakkelijk bepaalt de hoeveelheid lopen, het aantal overstappen en hoe snel tripgo een taxi aanbiedt.";
 
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "Uw stad kon niet gevonden worden.";
@@ -212,7 +212,7 @@
 "End Date" = "Eind Datum";
 
 /* Carbon preference */
-"Environment" = "Milieu";
+"Environment" = "Schoon Milieu";
 
 /* Title to show when an error appears on watch */
 "Error" = "Fout";
@@ -622,7 +622,7 @@
 "PrivateTimeToLeaveNoLocation" = "Tijd om te vertrekken! Uw reis vertrekt om %@";
 
 /* Rate us preference */
-"Rate TripGo" = "Beoordeel TripGo";
+"Rate TripGo" = "Waardeer TripGo";
 
 /* Refining current location HUD notice */
 "Refining location" = "Locatie verfijnen";
@@ -701,10 +701,10 @@
 "Satellite" = "Satelliet";
 
 /* Price preference */
-"Save Money" = "Bespaar geld";
+"Save Money" = "Goedkoop";
 
 /* Time preference */
-"Save Time" = "Bespaar tijd";
+"Save Time" = "Snelheid";
 
 /* No comment provided by engineer. */
 "Search for a city" = "Zoek een stad";
@@ -874,7 +874,7 @@
 "TitleFavouriteName" = "Titel";
 
 /* Title of settings for generic transport stuff */
-"Transport" = "Transport";
+"Transport" = "Vervoer";
 
 /* Transport genius */
 "TransportGenius" = "TripGo - Transport genius";
