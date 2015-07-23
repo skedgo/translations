@@ -1,5 +1,5 @@
 /* Authorization restricted alert message */
-"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Pääsy tähän ominaisuuteen on rajoitettu laitteesi. Tarkista Settings > Yleiset> Rajoitukset tai kysy laitteen toimittajalta.";
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Pääsy tähän ominaisuuteen on rajoitettu laitteessasi. Tarkista laitteesi Asetukset > Yleiset> Rajoitukset tai kysy laitteen toimittajalta.";
 
 /* Accessibility label for action button */
 "Action" = "Toiminta";
@@ -114,7 +114,7 @@
 "John Appleseed" = "Malli Matkaaja"; 
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Sijaintipalveluja tarvitaan tähän ominaisuuteen. Mene Asetukset> Tietosuoja> Sijaintipalvelut ja varmista, että ne ovat päällä ja valtuuttavat TripGon käyttämään niitä.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Sijaintipalveluja tarvitaan tähän ominaisuuteen. Mene laitteen Asetukset> Tietosuoja> Sijaintipalvelut ja varmista, että ne ovat päällä ja valtuuttavat TripGon käyttämään niitä.";
 
 /* ex: 1min */
 "Min==1" = "1min";
@@ -234,10 +234,10 @@
 "Paypal" = "Paypal"; 
 
 /* Error recovery suggestion when GPS fails. */
-"Please try again or set your location manually." = "GPS haku epäonnistui, yritä uudelleen tai syötä sijainti manuaalisesti."; // TODO
+"Please try again or set your location manually." = "GPS haku epäonnistui, yritä uudelleen tai syötä sijainti manuaalisesti.";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
-"Press 'search' for more..." = "Klikkaa 'Etsi' lisätuloksiin...";
+"Press 'search' for more..." = "Paina 'Etsi' lisätuloksiin  ...";
 
 /* Title for section that asks users where payment receipt should be sent */
 "Receipt" = "Kuitti"; 
@@ -288,10 +288,10 @@
 "Weekends" = "Viikonloppuisin";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn kalenteriisi. Mene Asetukset> Tietosuoja> Kalenteri ja valtuuta TripGo käyttämään tätä ominaisuutta.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn kalenteriisi. Mene laitteen Asetukset> Tietosuoja> Kalenteri ja valtuuta TripGo käyttämään tätä ominaisuutta.";
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn yhteystietoihin. Mene Asetukset> Tietosuoja> Yhteystiedot ja valtuuta TripGo käyttämään tätä ominaisuutta.";
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn yhteystietoihin. Mene laitteen Asetukset> Tietosuoja> Yhteystiedot ja valtuuta TripGo käyttämään tätä ominaisuutta.";
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
 "{Name}'s" = "%@'s";
