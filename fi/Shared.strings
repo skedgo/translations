@@ -1,5 +1,5 @@
 /* Authorization restricted alert message */
-"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Pääsy tähän ominaisuuteen on rajoitettu laitteesi. Tarkista Settings > Yleiset> Rajoitukset tai kysy laitteen toimittajalta.";
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Pääsy tähän ominaisuuteen on rajoitettu laitteessasi. Tarkista laitteesi Asetukset > Yleiset> Rajoitukset tai kysy laitteen toimittajalta.";
 
 /* Accessibility label for action button */
 "Action" = "Toiminta";
@@ -8,7 +8,7 @@
 "all-day" = "Koko päivä";
 
 /* Estimated time of arrival */
-"ArrivalTimeIndication" = " (saapu ";
+"ArrivalTimeIndication" = " (saapuu ";
 
 /* Authorisation needed title */
 "Authorisation needed" = "Lupa tarvitaan";
@@ -20,13 +20,13 @@
 "Cancel" = "Peruuta";
 
 /* Label for when a service is cancelled. */
-"Cancelled" = "Cancelled"; // TODO
+"Cancelled" = "Peruttu"; // TODO
 
 /* Type of vehicle : car */
 "Car" = "Auto";
 
 /* Credit card number */
-"Card No." = "Card No."; // TODO
+"Card No." = "Luottokortin numero."; 
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "Valintamerkki";
@@ -35,19 +35,19 @@
 "Close" = "Sulje";
 
 /* Error title when GPS failed. */
-"Could not determine your current location." = "Could not determine your current location."; // TODO
+"Could not determine your current location." = "Nykyistä sijaintiasi ei voitu määrittää."; 
 
 /* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Ei voitu ladata tue alueita TripGo palvelimelle. Yritä myöhemmin uudelleen.";
+"CouldNotDownloadSupportedRegions" = "Tuettuja alueita ei voitu ladata TripGo palvelimelle. Yritä myöhemmin uudelleen.";
 
 /* Section title for credit card payment */
-"Credit card" = "Credit card"; // TODO
+"Credit card" = "Luottokortti"; 
 
 /* Current location */
 "Current Location" = "Nykyinen sijainti";
 
 /* Credit card CVC */
-"CVC" = "CVC"; // TODO
+"CVC" = "CVC tunniste";
 
 /* to %date */
 "DateToFormat" = "%@:iin";
@@ -56,50 +56,50 @@
 "Delete" = "Poista";
 
 /* Estimated time of departure */
-"DepartureTimeIndication" = " (lähde ";
+"DepartureTimeIndication" = " (Lähtöaika ";
 
 /* Sort by distance */
 "Distance" = "Etäisyys";
 
 /* Keyboard accessory button title */
-"Done" = "Tehty";
+"Done" = "Valmis";
 
 /* Drop new pin */
-"DropNewPin" = "Pudota uusi pin";
+"DropNewPin" = "Sijoita uusi piste";
 
 /* Email address where receipt is sent */
-"Email" = "Email"; // TODO
+"Email" = "Sähköposti"; 
 
 /* Short indicator of end-time */
 "ends at %@" = "loppuu klo %@";
 
 /* Everyday in context of repetitions (especially recurring events) */
-"Everyday" = "Joka päivä";
+"Everyday" = "Päivittäinen";
 
 /* 'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'
    Every %day, e.g., 'Every Monday' */
 "EveryDayFormat" = "Joka %@";
 
 /* Email placeholder text */
-"example@example.com" = "example@example.com"; // TODO
+"example@example.com" = "esimerkki@esimerkki.com"; 
 
 /* Credit card expiry date */
-"Expiry Date" = "Expiry Date"; // TODO
+"Expiry Date" = "Kortin voimassaolo";
 
 /* Option that allows users to indicate whether reminder is needed */
-"For when to leave" = "For when to leave"; // TODO
+"For when to leave" = "Muistutus"; 
 
 /* Free as in beer */
-"Free" = "Ilmaista";
+"Free" = "Ilmainen";
 
 /* No comment provided by engineer. */
-"Getting a lift" = "Saaen kyydin";
+"Getting a lift" = "Kyyti tulossa";
 
 /* Indicating that we are contacting Stripe for payment token */
-"Getting stripe token" = "Getting stripe token"; // TODO
+"Getting stripe token" = "Varmennetaan"; 
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "On muistutus";
+"Has reminder" = "Muistutus asetettu";
 
 /* Include contacts. */
 "Include contacts" = "Sisällytä yhteystiedot";
@@ -108,13 +108,13 @@
 "Include events" = "Sisällytä tapahtumat";
 
 /* Instant results proposal */
-"Instant results" = "Tuloksia heti";
+"Instant results" = "Suorat tulokset";
 
 /* Name placeholder text */
-"John Appleseed" = "John Appleseed"; // TODO
+"John Appleseed" = "Malli Matkaaja"; 
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Sijainti palveluja tarvitaan käyttää tätä ominaisuutta. Mene Settings> Tietosuoja> Location Services, varmista, että ne ovat päällä ja valtuuttaa tämän appin.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Sijaintipalveluja tarvitaan tähän ominaisuuteen. Mene laitteen Asetukset> Tietosuoja> Sijaintipalvelut ja varmista, että ne ovat päällä ja valtuuttavat TripGon käyttämään niitä.";
 
 /* ex: 1min */
 "Min==1" = "1min";
@@ -135,10 +135,10 @@
 "Min>=60%60!=1" = "%ldh %ldmin";
 
 /* ex: 1 minute */
-"Minute" = "1 minuuttia";
+"Minute" = "1 minuutti";
 
 /* Option that allows users to indicate how eary to show trip reminder */
-"Minutes before trip" = "Minutes before trip"; // TODO
+"Minutes before trip" = "Minuuttia ennen lähtöä"; 
 
 /* ex: 17 minutes */
 "Minutes!=1" = "%ld minuuttia";
@@ -180,13 +180,13 @@
 "Minutes>=60%60==0" = "%.0f tuntia";
 
 /* ex: 1 Hour 1 minute */
-"Minutes>=60%60==1" = "%ld tunti 1 minuuttia";
+"Minutes>=60%60==1" = "%ld tunti 1 minuutti";
 
 /* ex: 1 Hour 17 minutes */
 "Minutes>=60%60!=1" = "%ld tunti %ld minuuttia";
 
 /* 'more' indicator for truncated text. */
-"more" = "more"; // TODO
+"more" = "Lisää"; 
 
 /* More results proposal */
 "More results" = "Lisää tuloksia";
@@ -225,55 +225,55 @@
 "Open Settings" = "Avaa Asetukset";
 
 /* No comment provided by engineer. */
-"Password" = "Password"; // TODO
+"Password" = "Salasana"; 
 
 /* Indicating a payment is successful */
-"Payment successful" = "Payment successful"; // TODO
+"Payment successful" = "Maksu onnistui"; 
 
 /* Section title for Paypal payment */
-"Paypal" = "Paypal"; // TODO
+"Paypal" = "Paypal"; 
 
 /* Error recovery suggestion when GPS fails. */
-"Please try again or set your location manually." = "Please try again or set your location manually."; // TODO
+"Please try again or set your location manually." = "GPS haku epäonnistui, yritä uudelleen tai syötä sijainti manuaalisesti.";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
-"Press 'search' for more..." = "Paina 'Etsi' saamaan lisää...";
+"Press 'search' for more..." = "Paina 'Etsi' lisätuloksiin  ...";
 
 /* Title for section that asks users where payment receipt should be sent */
-"Receipt" = "Receipt"; // TODO
+"Receipt" = "Kuitti"; 
 
 /* Section title at the end of a booking that allows users to set reminders */
-"Reminder" = "Reminder"; // TODO
+"Reminder" = "Muistutus"; 
 
 /* Repeats daily */
 "Repeats daily" = "Toistuu päivittäin";
 
 /* Repeats monthly */
-"Repeats monthly" = "Toistaa kuukausittain";
+"Repeats monthly" = "Toistuu kuukausittain";
 
 /* Repeats weekly */
-"Repeats weekly" = "Toistaa viikoittain";
+"Repeats weekly" = "Toistuu viikoittain";
 
 /* Repeats yearly */
-"Repeats yearly" = "Toistaa vuosittain";
+"Repeats yearly" = "Toistuu vuosittain";
 
 /* Error when location search for %input was not successful. */
 "RequestErrorFormat" = "'%@' ei löytynyt.";
 
 /* Sort by overall score, like a ranking. */
-"Score" = "Pisteet";
+"Score" = "Pisteytys";
 
 /* Empty search bar placeholder */
 "Search" = "Etsi";
 
 /* No comment provided by engineer. */
-"Search Results" = "Tuloksia";
+"Search Results" = "Tulokset";
 
 /* ex: 87s */
 "Seconds<120" = "%.0fs";
 
 /* Tap to set location */
-"SetLocation" = "Napauta asettaamaan sijainti";
+"SetLocation" = "Napauta asettaaksesi sijainti";
 
 /* Short indicator of start-time */
 "starts at %@" = "Alkaa klo %@";
@@ -285,13 +285,13 @@
 "Weekdays" = "Arkisin";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Viikonloput";
+"Weekends" = "Viikonloppuisin";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn kalenteriisi. Mene Settings> Tietosuoja> Kalenteri ja valtuuttaa tämän appin käyttää tätä ominaisuutta.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn kalenteriisi. Mene laitteen Asetukset> Tietosuoja> Kalenteri ja valtuuta TripGo käyttämään tätä ominaisuutta.";
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn yhteystietoihin. Mene Settings> Tietosuoja> Yhteystiedot ja valtuuttaa tämän appin käyttää tätä ominaisuutta.";
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "Olet aiemmin kieltänyt tämän appin pääsyn yhteystietoihin. Mene laitteen Asetukset> Tietosuoja> Yhteystiedot ja valtuuta TripGo käyttämään tätä ominaisuutta.";
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
 "{Name}'s" = "%@'s";

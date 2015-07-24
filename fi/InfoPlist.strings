@@ -1,5 +1,5 @@
-NSCalendarsUsageDescription = "Hanki automatisoitu matkoja ja tapahtumia kalenteriisi, ja etsi tapahtumia kalenterista.";
+NSCalendarsUsageDescription = "Hanki automatisoituja matkoja ja tapahtumia kalenteriisi, ja etsi tapahtumia kalenterista.";
 
 NSContactsUsageDescription = "Etsi paikkoja yhteystiedoistasi.";
 
-NSLocationUsageDescription = "Etsi nykyinen sijainnista/sijaintiin. Löydä itsesi kartalla.";
+NSLocationUsageDescription = "Etsi nykyinen sijainti. Löydä itsesi kartalla.";

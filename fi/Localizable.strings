@@ -5,16 +5,16 @@
 " every " = " joka ";
 
 /* Format string for going from one location to another. Used to name favourite trips. */
-"%@ to %@" = "%1$@ to %2$@"; // TODO
+"%@ to %@" = "Lähtö: %1$@  Kohde: %2$@";
 
 /* Error title when access to location hasn't been granted, but location is required. */
-"Access to location services required." = "Access to location services required."; // TODO
+"Access to location services required." = "Sovelluksen pääsy sijaintipalveluihin vaaditaan. Tarkista laitteen sijaintiasetukset"; // TODO
 
 /* No comment provided by engineer. */
 "Add address..." = "Lisää osoite..."; 
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Lisää  vielä sarja"; 
+"Add another recurrence" = "Lisää uusi sarja"; 
 
 /* Add reminder activity title */
 "Add Reminder" = "Lisää Muistutus";
@@ -30,7 +30,7 @@
 "Add to Favourites" = "Lisää Suosikkeihin";
 
 /* No comment provided by engineer. */
-"Add to favourites" = "Lisää suosikkeihin";
+"Add to favourites" = "Lisää Suosikkeihin";
 
 /* Action title for adding a vehicle */
 "Add vehicle" = "Lisää ajoneuvo";
@@ -51,26 +51,26 @@
 "Agenda cleared" = "Agenda selvitetty";
 
 /* Title for agenda screen while it's still in setup mode. */
-"Agenda Setup" = "Agenda Setup"; // TODO
+"Agenda Setup" = "Agendan asettaminen";
 
 /* Agenda button name
    Agenda tab bar name */
 "AgendaButton" = "Agenda";
 
 /* Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1' */
-"AirlineFlightNumber" = "%@ lento %@";
+"AirlineFlightNumber" = "%@ Lento %@";
 
 /* Flight from a city to an other one */
-"AirlineFromTo" = "%@ (%@):stä %@ (%@):iin";
+"AirlineFromTo" = "%@ (%@):stä %@ (%@):iin"; // TODO
 
 /* No comment provided by engineer. */
-"Alert" = "hälytys";
+"Alert" = "Ilmoitus";
 
 /* No comment provided by engineer. */
-"Alerts" = "Alerts"; // TODO
+"Alerts" = "Ilmoitukset"; 
 
 /* Description of alert with %title */
-"AlertTitleFormat" = "Hälytys: %@";
+"AlertTitleFormat" = "Ilmoitus: %@";
 
 /* Option to use this trip for all similar cases. */
 "All" = "Kaikki";
@@ -95,7 +95,7 @@
 "ArriveBefore" = "Perillä";
 
 /* Title for section to assign a trip to a vehicle. */
-"Assign to vehicle" = "Assign to vehicle"; // TODO
+"Assign to vehicle" = "Varaa kulkuneuvo"; // TODO
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
 "At " = "Klo ";
@@ -104,10 +104,10 @@
 "Auto" = "Automaattinen";
 
 /* Header for settings of reminders automatically added by TripGo through the agenda */
-"Automatic Reminders" = "Automatic Reminders"; // TODO
+"Automatic Reminders" = "Automaattiset muistutukset"; 
 
 /* Response to positive answer to question whether TripGo is useful, prompting for App Store rating. */
-"Awesome! How about rating us?" = "Awesome! How about rating us?"; // TODO
+"Awesome! How about rating us?" = "Erinomaista! Haluaisitko arvostella meidät?"; 
 
 /* vehicle booking action */
 "Book vehicle" = "Varaa auto";
@@ -116,10 +116,10 @@
 "BookTaxi" = "Varaa Taxi";
 
 /* Response to negative answer to question whether TripGo is useful, prompting for feedback. */
-"Bummer... How about some feedback?" = "Bummer... How about some feedback?"; // TODO
+"Bummer... How about some feedback?" = "Harmi... Haluaisitko antaa palautetta?"; 
 
 /* No comment provided by engineer. */
-"Cache" = "Cache";
+"Cache" = "Välimuisti";
 
 /* Calendar */
 "Calendar" = "Kalenteri";
@@ -143,7 +143,7 @@
 "Change time" = "Muuta aikaa";
 
 /* clear cache preference */
-"Clear cache" = "Tyhjennä cache";
+"Clear cache" = "Tyhjennä välimuisti";
 
 /* clear search history preference */
 "Clear search history" = "Tyhjennä hakuhistoria";
@@ -155,28 +155,28 @@
 "Convenience" = "Mukavuus";
 
 /* Convenience description */
-"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Mukavuus vaikuttavat asiat kuten muuttaa julkisen liikenteen palveluja, määrä kävely, ja taksi löytäminen.";
+"Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "Mukavuuteen vaikuttavat esimerkiksi muutokset julkisen liikenteen palveluissa, kävelymatka, ja taksin löytäminen.";
 
 /* Error title when TripGo couldn't identify the user's current city. */
-"Could not find your city." = "Could not find your city."; // TODO
+"Could not find your city." = "Kaupunkia ei löydy.";
 
 /* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Anna kuponkikoodi %@, kun rekisteröitymättä lunastaa ilmainen 5 dollaria luottoa (voimassa vain uudet rekisteröinnit)";
+"CouponCodeIngogoFormat" = "Anna kuponkikoodi %@. Jos olet rekisteröitymätön, lunasta ilmainen 5 dollarin luotto (voimassa: vain uudet rekisteröinnit)";
 
 /* Title for critical error */
 "CriticalError" = "Kriittinen virhe";
 
 /* Description for critical error where error will be shown below. */
-"CriticalErrorFormat" = "Sovellus havainnut vakavan virheen eikä voi periä:";
+"CriticalErrorFormat" = "Sovellus on havainnut vakavan virheen eikä voi periä maksua:";
 
 /* No comment provided by engineer. */
-"Custom trip does not fit" = "Tilaus matka ei sovi";
+"Custom trip does not fit" = "Tilauttu matka ei sovi";
 
 /* Cycling speed preference */
-"Cycle speed" = "polkupyörän nopeus";
+"Cycle speed" = "Polkupyörän nopeus";
 
 /* No comment provided by engineer. */
-"Database corrupted and lost." = "Database corrupted and lost."; // TODO
+"Database corrupted and lost." = "Tietokantahäiriö tai tieto puuttuu."; 
 
 /* From %date */
 "DateFromFormat" = "%@:stä";
@@ -197,16 +197,16 @@
 "Distances" = "Etäisyydet";
 
 /* Title for transport modes that the user doesn't want included */
-"Do Not Include" = "Do Not Include"; // TODO
+"Do Not Include" = "Poista hakutuloksista"; 
 
 /* No comment provided by engineer. */
-"Do you want to always use this trip and add it to your favourites?" = "Do you want to always use this trip and add it to your favourites?"; // TODO
+"Do you want to always use this trip and add it to your favourites?" = "Haluatko käyttää tätä matkaa toistuvasti, ja lisätä suosikkeihin?";
 
 /* Walkthrough (skip in here should match translation for 'Skip'. */
-"Don't have a fixed place of work or study? Skip this step." = "Eikö ole kiinteää työpaikkaa tai opiskelupaikkaa? Ohita tämä vaihe.";
+"Don't have a fixed place of work or study? Skip this step." = "Ei työ- tai opiskelupaikan kiinteää osoitetta? Ohita tämä vaihe.";
 
 /* Title for page for modifying a routine/stay at a specific location */
-"EditItemHereTitle" = "Agenda Kohta";
+"EditItemHereTitle" = "Agendan Kohta";
 
 /* Title for date when an event ends repeating */
 "End Date" = "Päättymispäivä";
@@ -215,7 +215,7 @@
 "Environment" = "Ympäristö";
 
 /* Title to show when an error appears on watch */
-"Error" = "Virhe"; // TODO
+"Error" = "Virhe"; 
 
 /* No comment provided by engineer. */
 "Error clearing history" = "Virhe historian tyhjennyksessä";
@@ -227,10 +227,10 @@
 "Event does not fit" = "Tapahtuma ei sovi";
 
 /* No comment provided by engineer. */
-"Event is missing an address." = "Ei osoite";
+"Event is missing an address." = "Osoite puuttuu.";
 
 /* No comment provided by engineer. */
-"Event is outside TripGo's range." = "TripGon valikoiman ulkopuolella";
+"Event is outside TripGo's range." = "Tapahtuma on TripGon valikoiman ulkopuolella";
 
 /* No comment provided by engineer. */
 "Event was cancelled" = "Tapahtuma peruttiin";
@@ -239,7 +239,7 @@
 "EventEndDateTime" = "Päättyy";
 
 /* Title for when an event repeats */
-"EventRepeat" = "Toistaa";
+"EventRepeat" = "Toistuva";
 
 /* Title for the time an event starts (including date information) */
 "EventStartDateTime" = "Alku";
@@ -248,13 +248,13 @@
 "Every " = "Joka ";
 
 /* Text do mark an example */
-"Example" = "Esim";
+"Example" = "Esim.";
 
 /* Exclude event action */
 "Exclude" = "Poissulje";
 
 /* There goes my excuse for being late... */
-"ExcuseDueToLate" = "TripGo - Siinä menee minun tekosyy myöhästymiseen...";
+"ExcuseDueToLate" = "TripGo - Siinä meni minun tekosyy myöhästymiseen...";
 
 /* Speed preference 'fast' */
 "Fast" = "Nopea";
@@ -269,7 +269,7 @@
 "Favourite removed" = "Suosikki poistettu";
 
 /* No comment provided by engineer. */
-"Favourite Trip" = "Favourite Trip"; // TODO
+"Favourite Trip" = "Suosikkimatka"; 
 
 /* Title for button to access favourites */
 "Favourites" = "Suosikit";
@@ -297,7 +297,7 @@
 "FlightDetails" = "Tarkemmat tiedot";
 
 /* Note concerning the flight */
-"FlightNote" = "Huom";
+"FlightNote" = "Huom.";
 
 /* Title for flight with %flightNumber */
 "FlightNumberFormat" = "Lento %@";
@@ -306,31 +306,31 @@
 "FlightSearch" = "Etsi Lento";
 
 /* Reminder to leave preference */
-"For when to leave" = "lähtöajan varten";
+"For when to leave" = "Lähteminen";
 
 /* Free directions */
 "FreeDirections" = "Tripgo - Ilmaisia ohjeita";
 
 /* Favorite trip 'from' title */
-"From" = "From"; // TODO
+"From" = "Lähtösijainti"; 
 
 /* Format string for going from one location to others. Used to name favourite stops. */
-"From %@" = "From %@"; // TODO
+"From %@" = "Lähtösijainti: %@"; 
 
 /* Route here... ...from Current location */
 "From current location" = "Nykyisestä sijainnista";
 
 /* Location for trip exported as event going from %location1 to %location2 */
-"FromToForEventLocationFormat" = "%@:stä to %@:iin";
+"FromToForEventLocationFormat" = "Mistä: %@ Mihin: %@";
 
 /* Header for list of vehicles garaged at this location */
-"Garaged Vehicles" = "Autotallitut ajoneuvot";
+"Garaged Vehicles" = "Ajoneuvot autotallissa";
 
 /* Title of settings for generic transport stuff */
 "General" = "Yleinen";
 
 /* Action button title for getting turn-by-turn directions */
-"Get directions" = "Hae reitti";
+"Get directions" = "Hae reittiohjeet";
 
 /* No comment provided by engineer. */
 "Get ingogo" = "Hae Ingogo";
@@ -342,25 +342,25 @@
 "Get Lyft" = "Hae Lyft";
 
 /* No comment provided by engineer. */
-"Get off here" = "Get off here"; // TODO
+"Get off here" = "Jää pois tässä";
 
 /* No comment provided by engineer. */
-"Get on here" = "Get on here"; // TODO
+"Get on here" = "Mene kyytiin tässä"; 
 
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
-"Get on or off here" = "Get on or off here"; // TODO
+"Get on or off here" = "Mene kyytiin tai jää pois tässä"; 
 
 /* No comment provided by engineer. */
-"Get Sidecar" = "Hae Sidecar";
+"Get Sidecar" = "Hae Sidecar"; // TODO
 
 /* No comment provided by engineer. */
 "Get Uber" = "Hae Uber";
 
 /* I use TripGo to get around */
-"GetAround" = "Käytän TripGo kiertää.";
+"GetAround" = "Käytän TripGoa kiertelyyn.";
 
 /* Message to show when trying to get trip for a favorite */
-"Getting trip..." = "Getting trip..."; // TODO
+"Getting trip..." = "Matkan vieminen..."; 
 
 /* goCatch action */
 "goCatch a Taxi" = "goCatch Taksi";
@@ -373,10 +373,10 @@
 "Habitual Visit" = "Rutiini";
 
 /* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
-"HabitualEventDescription" = "Rutiinit ovat osa päivittäistä liikkumista, mutta ne eivät ole tapahtumia, jotka haluat kalenterissa (esim työ). Ne ovat tärkeitä toimintaohjelman saada sinut oikeaan paikkaan oikeaan aikaan.";
+"HabitualEventDescription" = "Rutiinit ovat osa päivittäistä liikkumista, mutta ne eivät ole tapahtumia, jotka haluat näkyvän kalenterissa (esim työ). Ne ovat tärkeitä päästäksesi oikeaan paikkaan oikeaan aikaan.";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "Has TripGo been useful to you?"; // TODO
+"Has TripGo been useful to you?" = "Onko TripGosta ollut sinulle hyötyä?";
 
 /* No comment provided by engineer. */
 "History cleared" = "Historia tyhjennetty";
@@ -385,16 +385,16 @@
 "Home" = "Koti";
 
 /* Map mode 'streets + satellite' */
-"Hybrid" = "Hybrid";
+"Hybrid" = "Hybridi";
 
 /* Include event action */
-"Include" = "sisällä";
+"Include" = "Sisällytä";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
-"Include in routes" = "Sisällä reitteissä";
+"Include in routes" = "Sisällytä reitteihin";
 
 /* Title for setting to include step count on Agenda screen */
-"Include Step Count" = "Include Step Count"; // TODO
+"Include Step Count" = "Sisällytä askelmäärät"; 
 
 /* Concession pricing footer */
 "Information on concession pricing is subject to availability." = "Information on concession pricing is subject to availability."; // TODO
