@@ -397,7 +397,7 @@
 "Include Step Count" = "Sisällytä askelmäärät"; 
 
 /* Concession pricing footer */
-"Information on concession pricing is subject to availability." = "Information on concession pricing is subject to availability."; // TODO
+"Information on concession pricing is subject to availability." = "Tiedot erikoishinnoittelusta perustuvat niiden saatavuuteen.";
 
 /* No comment provided by engineer. */
 "ingogo a Taxi" = "ingogo Taksi";
@@ -420,7 +420,7 @@
 /* Inidcating the watch app is loading
    Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
-"Loading..." = "Loading..."; // TODO
+"Loading..." = "Lataa..."; 
 
 /* Title for showing the details of a location, typically picked from the map after searching or dropping a pin */
 "Location" = "Sijainti";
@@ -429,22 +429,22 @@
 "Location missing." = "Sijainti puuttuu.";
 
 /* Error title when favourite is missing a location.. */
-"Location not set." = "Location not set."; // TODO
+"Location not set." = "Sijainti puuttuu."; 
 
 /* Where are you going from? */
-"LocationComingFrom" = "Missä lähdet?";
+"LocationComingFrom" = "Mistä lähdet?";
 
 /* Where do you want to go? */
 "LocationWantToGo" = "Minne menet?";
 
 /* No comment provided by engineer. */
-"Long press on the map to choose a location" = "Pitkä painallus kartalla valitsemaan sijainnin";
+"Long press on the map to choose a location" = "Valise sijainti painamalla haluttua kohtaa pitkään kartalla";
 
 /* I once was lost but now I have found... TripGo */
-"LostOnce" = "Olin menettänyt, mutta nyt olen löytynyt.... TripGo.";
+"LostOnce" = "Kerran eksyin, mutta nyt olen löytynyt.... TripGo.";
 
 /* Header for settings of reminders that the user manually added */
-"Manual Reminders" = "Manual Reminders"; // TODO
+"Manual Reminders" = "Omat muistutukset"; 
 
 /* Button title to switch agenda view to map mode
    Button title to switch to map
@@ -452,26 +452,26 @@
 "Map" = "Kartta";
 
 /* No comment provided by engineer. */
-"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Suosikki sijainnit mahdollistavat nopean matkan ratkaisuja, missä tahansa oletkin.";
+"Marking a location as a favourite will allow quick access to routing results for going there from your current location." = "Suosikkisijainnit mahdollistavat nopeat reittivaihtoehdot, missä tahansa oletkin.";
 
 /* No comment provided by engineer. */
-"Marking a transit stop as a favourite will allow quick access to its timetable." = "Merkintä välilasku suosikkina mahdollistaa nopean pääsyn sen aikatauluun.";
+"Marking a transit stop as a favourite will allow quick access to its timetable." = "Merkintsemällä välipysäkin suosikkeihin mahdollistaa nopean pääsyn sen aikatauluun.";
 
 /* Speed preference 'medium' */
-"Medium" = "Keski";
+"Medium" = "Keskiverto";
 
 /* Distance 'miles' */
-"Mi" = "Mi";
+"Mi" = "Mailia";
 
 /* Minimum transfer time preference */
 "Min transfer time" = "Minimi siirtoaika";
 
 /* No comment provided by engineer. */
-"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimise results for this mode on the routes screen. Great for transport options you only use occasionally."; // TODO
+"Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." = "Minimoi tämän kulkumuodon osalta tulokset reittinäytöllä. Ominaisuus helpottaa löytämään kulkutavat joita käytät vain silloin tällöin."; 
 
 /* Indicator that a transport mode will appear minimised on the routes screen.
    Title for setting to minimise a transport mode. */
-"Minimised" = "Minimised"; // TODO
+"Minimised" = "Piilotettu"; 
 
 /* Minutes format (used for transfer times) */
 "Minutes" = "%.0f min";
@@ -480,28 +480,28 @@
 "Minutes before trip" = "Minuuttia ennen matkaa";
 
 /* Number of minutes before departure */
-"MinutesBefore" = "%.0f min sitä ennen";
+"MinutesBefore" = "%.0f min ennen lähtöä";
 
 /* More button accessibility label */
-"More" = "Enemman";
+"More" = "Lisää";
 
 /* Header for list of how to get more information (e.g., by opening a website) */
-"More Information" = "More Information"; // TODO
+"More Information" = "Lisätietoa"; 
 
 /* Sample event name ('Movie') */
 "Movie" = "Elokuva";
 
 /* User preferences title */
-"My Priorities" = "Mun painopisteet";
+"My Priorities" = "Omat tärkeysmääritykset";
 
 /* Header for list of my vehicles */
-"My Vehicles" = "Mun ajoneuvot";
+"My Vehicles" = "Omat ajoneuvot";
 
 /* Name of the vehicle */
 "NameVehicle" = "Nimi";
 
 /* Error recovery suggestion for when TripGo couldn't identify the user's current city. */
-"Navigate to a supported city on a map." = "Navigate to a supported city on a map."; // TODO
+"Navigate to a supported city on a map." = "Siirry tuetun kaupungin kohdalle kartalla."; 
 
 /* No comment provided by engineer. */
 "New Favourite" = "Uusi suosikki";
@@ -510,53 +510,53 @@
 "NewEvent" = "Uusi tapahtuma";
 
 /* Action title for adding a habitual item away from some location */
-"NewItemAwayActionTitle" = "Ole eri paikkassa";
+"NewItemAwayActionTitle" = "Määritä uusi paikka";
 
 /* Action title for adding another habitual visit to a favourite */
 "NewItemHereActionTitle" = "Lisää milloin olen tässä";
 
 /* Title for page for adding a new routine/stay at a specific location */
-"NewItemHereTitle" = "Agenda kohta";
+"NewItemHereTitle" = "Uusi kohta Agendalle";
 
 /* Title for page for adding a new routing/stay at a specific location */
 "NewStayTitle" = "Uusi paikka";
 
 /* No comment provided by engineer. */
-"No 'From' location selected" = "Ei 'sielta' sijainti valittu";
+"No 'From' location selected" = "Lähtösijaintia ei ole valittu";
 
 /* No comment provided by engineer. */
-"No 'To' location selected" = "Ei 'sinne' sijainti valittu";
+"No 'To' location selected" = "Kohdesijaintia ei ole valittu";
 
 /* Error title for when no calendar found. */
-"No calendar found." = "Ei kalenteri löytynyt.";
+"No calendar found." = "Kalenteria ei löytynyt.";
 
 /* No comment provided by engineer. */
 "No locations set" = "Ei valittuja sijainteja";
 
 /* Indicating no trips have been planned within 24 hrs */
-"No planned trips" = "No planned trips"; // TODO
+"No planned trips" = "Ei suunniteltuja matkoja"; 
 
 /* Error title when routing produced no results (but no specific error was returned from routing). */
-"No routes found." = "No routes found."; // TODO
+"No routes found." = "Reittejä ei löytynyt."; 
 
 /* Negative answer to follow-up question for rating or feedback. */
-"No, thanks" = "No, thanks"; // TODO
+"No, thanks" = "Ei kiitos"; 
 
 /* Negative answer to question whether TripGo is useful. */
-"Not really" = "Not really"; // TODO
+"Not really" = "Ei juurikaan"; 
 
 /* Countdown cell 'now' indicator */
 "Now" = "Nyt";
 
 /* Title for route number %1 of %total, where %total > 1. */
-"NumberRouteFormat" = "Reitti %ld %ld:stä";
+"NumberRouteFormat" = "Reitti %ld %ld:stä"; // TODO
 
 /* Results screen error ok button */
 "OK" = "OK";
 
 /* Option to delete only this event in a recurence
    Option to use this trip just this time. */
-"Only This" = "Vaan tämä";
+"Only This" = "Vain tämä";
 
 /* No comment provided by engineer. */
 "Open Lyft" = "Avaa Lyft";
@@ -565,7 +565,7 @@
 "Open Sidecar" = "Avaa Sidecar";
 
 /* Error recovery suggestion for favourites with missing location. */
-"Open TripGo app and add the location of this favourite." = "Open TripGo app and add the location of this favourite."; // TODO
+"Open TripGo app and add the location of this favourite." = "Avaa TripGo ja lisää sijainti tälle suosikille."; 
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
 "Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services."; // TODO
