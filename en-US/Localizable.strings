@@ -41,10 +41,14 @@
 /* Added to calendar HUD message */
 "Added to calendar" = "Added to calendar";
 
+/* Alert title that indicates an address is missing when creating a new event. */
+"Address required" = "Address required";
+
 /* Add a new stopover */
 "AddStopover" = "Add stopover...";
 
-/* Agenda title */
+/* Agenda title
+   Title for button to access agenda */
 "Agenda" = "Agenda";
 
 /* No comment provided by engineer. */
@@ -173,7 +177,7 @@
 "Custom trip does not fit" = "Custom trip does not fit";
 
 /* No comment provided by engineer. */
-"Custom trip has been cancelled" = "Custom trip has been cancelled"; // TODO
+"Custom trip has been cancelled" = "Custom trip has been canceled";
 
 /* Cycling speed preference */
 "Cycle speed" = "Cycle speed";
@@ -216,9 +220,6 @@
 
 /* Carbon preference */
 "Environment" = "Environment";
-
-/* Title to show when an error appears on watch */
-"Error" = "Error";
 
 /* No comment provided by engineer. */
 "Error clearing agenda" = "Error clearing agenda";
@@ -421,7 +422,6 @@
 "List" = "List";
 
 /* Inidcating the watch app is loading
-   Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
 "Loading..." = "Loading...";
 
@@ -485,9 +485,6 @@
 /* Number of minutes before departure */
 "MinutesBefore" = "%.0f minutes before";
 
-/* Alert title that indicates an address is missing when creating a new event. */
-"Missing address" = "Missing address"; // TODO
-
 /* More button accessibility label */
 "More" = "More";
 
@@ -498,16 +495,16 @@
 "Movie" = "Movie";
 
 /* No comment provided by engineer. */
-"My Agenda" = "My Agenda"; // TODO
+"My Agenda" = "My Agenda";
 
 /* Title for profile item that loads a list of user's bookings */
-"My Bookings" = "My Bookings"; // TODO
+"My Bookings" = "My Bookings";
 
 /* User preferences title */
 "My Priorities" = "My Priorities";
 
 /* No comment provided by engineer. */
-"My Transport" = "My Transport"; // TODO
+"My Transport" = "My Transport";
 
 /* Header for list of my vehicles */
 "My Vehicles" = "My Vehicles";
@@ -607,7 +604,7 @@
 "Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favorites.";
 
 /* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
-"Plan a trip on your phone" = "Plan a trip on your phone";
+"Plan a trip on your phone." = "Plan a trip on your phone.";
 
 /* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
 "Please adjust your query and try again." = "Please adjust your query and try again.";
@@ -622,7 +619,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!";
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'"; // TODO
+"Please specify an address." = "Please specify an address.";
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!";
@@ -634,7 +631,7 @@
 "pricingDescription" = "Price";
 
 /* No comment provided by engineer. */
-"Priorities" = "Priorities"; // TODO
+"Priorities" = "Priorities";
 
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "Time to leave! Your trip to %@ commences at %@";
@@ -643,10 +640,10 @@
 "PrivateTimeToLeaveNoLocation" = "Time to leave! Your trip commences at %@";
 
 /* Title for view that shows user's profile */
-"Profile" = "Profile"; // TODO
+"Profile" = "Profile";
 
 /* Profile tab bar name */
-"ProfileButton" = "Profile"; // TODO
+"ProfileButton" = "Profile";
 
 /* Rate us preference */
 "Rate TripGo" = "Rate TripGo";
@@ -763,7 +760,7 @@
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "Send Real-time SMS";
 
-/* No comment provided by engineer. */
+/* Title for item that loads settings in My Profile */
 "Settings" = "Settings";
 
 /* Action button title for sharing when you arrive
@@ -820,9 +817,6 @@
 
 /* Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4) */
 "SrcToDstFormat" = "%@ (%@) to %@ (%@)";
-
-/* No comment provided by engineer. */
-"Start of Week" = "Start of Week";
 
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
 "Stay" = "Stay";
@@ -887,8 +881,8 @@
 /* Header for times a user is typically at this location, e.g., working hours */
 "Times" = "Times";
 
-/* Action title to access timetable
-   Timetable title */
+/* Timetable title
+   Title of button to access timetable */
 "Timetable" = "Schedule";
 
 /* Title event name */
@@ -902,7 +896,7 @@
 "Transport" = "Transport";
 
 /* No comment provided by engineer. */
-"Transport Modes" = "Transport Modes"; // TODO
+"Transport Modes" = "Transport Modes";
 
 /* Transport genius */
 "TransportGenius" = "TripGo - Transport genius";
@@ -960,7 +954,7 @@
 "Walk speed" = "Walk speed";
 
 /* No comment provided by engineer. */
-"Week starts" = "Week starts"; // TODO
+"Week starts" = "Week starts";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Stays";

@@ -41,10 +41,14 @@
 /* Added to calendar HUD message */
 "Added to calendar" = "Lisätty Kalenteriin";
 
+/* Alert title that indicates an address is missing when creating a new event. */
+"Address required" = "Address required"; // TODO
+
 /* Add a new stopover */
 "AddStopover" = "lisää välilasku...";
 
-/* Agenda title */
+/* Agenda title
+   Title for button to access agenda */
 "Agenda" = "Agenda";
 
 /* No comment provided by engineer. */
@@ -216,9 +220,6 @@
 
 /* Carbon preference */
 "Environment" = "Ympäristö";
-
-/* Title to show when an error appears on watch */
-"Error" = "Virhe"; 
 
 /* No comment provided by engineer. */
 "Error clearing history" = "Virhe historian tyhjennyksessä";
@@ -421,7 +422,6 @@
 "List" = "Lista";
 
 /* Inidcating the watch app is loading
-   Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
 "Loading..." = "Loading..."; // TODO
 
@@ -484,9 +484,6 @@
 
 /* Number of minutes before departure */
 "MinutesBefore" = "%.0f min sitä ennen";
-
-/* Alert title that indicates an address is missing when creating a new event. */
-"Missing address" = "Missing address"; // TODO
 
 /* More button accessibility label */
 "More" = "Enemman";
@@ -622,7 +619,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!"; // TODO
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'"; // TODO
+"Please specify an address." = "Please specify an address."; // TODO
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!"; // TODO
@@ -763,7 +760,7 @@
 /* Action button title for composing an SMS to a real-time service */
 "Send Real-time SMS" = "Lähetä Reaaliaikainen SMS";
 
-/* No comment provided by engineer. */
+/* Title for item that loads settings in My Profile */
 "Settings" = "Asetukset";
 
 /* Action button title for sharing when you arrive
@@ -820,9 +817,6 @@
 
 /* Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4) */
 "SrcToDstFormat" = "%@ (%@):stä %@ (%@):iin";
-
-/* No comment provided by engineer. */
-"Start of Week" = "Viikon alku";
 
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
 "Stay" = "Yövy";
@@ -959,11 +953,11 @@
 /* Walking speed preference */
 "Walk speed" = "Kävely nopeus";
 
-/* Header for staying away from home, i.e., when a user is NOT at their home */
-"WhenIAmAwayHeader" = "Yöpyy";
+/* No comment provided by engineer. */
+"Week starts" = "Viikon alku";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
-"WhenIAmAwayHeader" = "Stays"; // TODO
+"WhenIAmAwayHeader" = "Yöpyy";
 
 /* Header for accommodations, i.e., when a user is typically at this location
    Header for routines and accommodations, i.e., when a user is typically at this location */

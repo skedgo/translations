@@ -41,10 +41,14 @@
 /* Added to calendar HUD message */
 "Added to calendar" = "Aggiunto al calendario";
 
+/* Alert title that indicates an address is missing when creating a new event. */
+"Address required" = "Address required"; // TODO
+
 /* Add a new stopover */
 "AddStopover" = "Aggiungi sosta...";
 
-/* Agenda title */
+/* Agenda title
+   Title for button to access agenda */
 "Agenda" = "Agenda";
 
 /* No comment provided by engineer. */
@@ -216,9 +220,6 @@
 
 /* Carbon preference */
 "Environment" = "Ambiente";
-
-/* Title to show when an error appears on watch */
-"Error" = "Errore";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "Errore cancellando la Cronologia";
@@ -421,7 +422,6 @@
 "List" = "Elenco";
 
 /* Inidcating the watch app is loading
-   Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
 "Loading..." = "Loading..."; // TODO
 
@@ -484,9 +484,6 @@
 
 /* Number of minutes before departure */
 "MinutesBefore" = "%.0f Minuti prima";
-
-/* Alert title that indicates an address is missing when creating a new event. */
-"Missing address" = "Missing address"; // TODO
 
 /* More button accessibility label */
 "More" = "Altro";
@@ -622,7 +619,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!"; // TODO
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'"; // TODO
+"Please specify an address." = "Please specify an address."; // TODO
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!"; // TODO
@@ -821,9 +818,6 @@
 /* Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4) */
 "SrcToDstFormat" = "%@ (%@) a %@ (%@)";
 
-/* No comment provided by engineer. */
-"Start of Week" = "Inizio della Settimana";
-
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
 "Stay" = "Rimani";
 
@@ -960,7 +954,7 @@
 "Walk speed" = "A piedi";
 
 /* No comment provided by engineer. */
-"Week starts" = "Week starts"; // TODO
+"Week starts" = "Inizio della Settimana";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Permanenza";

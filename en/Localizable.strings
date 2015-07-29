@@ -41,10 +41,14 @@
 /* Added to calendar HUD message */
 "Added to calendar" = "Added to calendar";
 
+/* Alert title that indicates an address is missing when creating a new event. */
+"Address required" = "Address required"; // TODO
+
 /* Add a new stopover */
 "AddStopover" = "Add stopover...";
 
-/* Agenda title */
+/* Agenda title
+   Title for button to access agenda */
 "Agenda" = "Agenda";
 
 /* No comment provided by engineer. */
@@ -216,9 +220,6 @@
 
 /* Carbon preference */
 "Environment" = "Environment";
-
-/* Title to show when an error appears on watch */
-"Error" = "Error";
 
 /* No comment provided by engineer. */
 "Error clearing agenda" = "Error clearing agenda";
@@ -421,7 +422,6 @@
 "List" = "List";
 
 /* Inidcating the watch app is loading
-   Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
 "Loading..." = "Loading...";
 
@@ -484,9 +484,6 @@
 
 /* Number of minutes before departure */
 "MinutesBefore" = "%.0f minutes before";
-
-/* Alert title that indicates an address is missing when creating a new event. */
-"Missing address" = "Missing address";
 
 /* More button accessibility label */
 "More" = "More";
@@ -607,7 +604,7 @@
 "Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favourites.";
 
 /* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
-"Plan a trip on your phone" = "Plan a trip on your phone";
+"Plan a trip on your phone." = "Plan a trip on your phone.";
 
 /* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
 "Please adjust your query and try again." = "Please adjust your query and try again.";
@@ -622,7 +619,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!";
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'";
+"Please specify an address." = "Please specify an address."; // TODO
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!";
@@ -646,7 +643,7 @@
 "Profile" = "Profile";
 
 /* Profile tab bar name */
-"ProfileButton" = "ProfileButton";
+"ProfileButton" = "Profile";
 
 /* Rate us preference */
 "Rate TripGo" = "Rate TripGo";
@@ -821,9 +818,6 @@
 /* Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4) */
 "SrcToDstFormat" = "%@ (%@) to %@ (%@)";
 
-/* No comment provided by engineer. */
-"Start of Week" = "Start of Week";
-
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
 "Stay" = "Stay";
 
@@ -887,8 +881,8 @@
 /* Header for times a user is typically at this location, e.g., working hours */
 "Times" = "Times";
 
-/* Action title to access timetable
-   Timetable title */
+/* Timetable title
+   Title of button to access timetable */
 "Timetable" = "Timetable";
 
 /* Title event name */

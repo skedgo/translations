@@ -41,6 +41,9 @@
 /* Added to calendar HUD message */
 "Added to calendar" = "已加入日历";
 
+/* Alert title that indicates an address is missing when creating a new event. */
+"Address required" = "Address required"; // TODO
+
 /* Add a new stopover */
 "AddStopover" = "新增停留点...";
 
@@ -216,9 +219,6 @@
 
 /* Carbon preference */
 "Environment" = "减少二氧化碳排放";
-
-/* Title to show when an error appears on watch */
-"Error" = "错误";
 
 /* No comment provided by engineer. */
 "Error clearing history" = "在清除历史纪录中发生错误";
@@ -421,7 +421,6 @@
 "List" = "列表";
 
 /* Inidcating the watch app is loading
-   Text to display while watch is loading upcoming trip.
    Title to show while loading/waiting for results */
 "Loading..." = "加载中...";
 
@@ -484,9 +483,6 @@
 
 /* Number of minutes before departure */
 "MinutesBefore" = "%.0f分钟前";
-
-/* Alert title that indicates an address is missing when creating a new event. */
-"Missing address" = "Missing address"; // TODO
 
 /* More button accessibility label */
 "More" = "更多";
@@ -622,7 +618,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "请重新启动app，为您带来的不便，我们深感抱歉";
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'"; // TODO
+"Please specify an address." = "Please specify an address."; // TODO
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "请尝试重新启动app，为您带来的不便，我们深感抱歉!";
@@ -821,9 +817,6 @@
 /* Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4) */
 "SrcToDstFormat" = "从%@机场(%@) 到 %@机场(%@)";
 
-/* No comment provided by engineer. */
-"Start of Week" = "每周的开始";
-
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
 "Stay" = "入住";
 
@@ -901,6 +894,9 @@
    Title of settings for generic transport stuff */
 "Transport" = "交通工具";
 
+/* No comment provided by engineer. */
+"Transport Modes" = "Transport Modes"; // TODO
+
 /* Transport genius */
 "TransportGenius" = "TripGo - 交通出行专家！";
 
@@ -957,7 +953,7 @@
 "Walk speed" = "步行速度";
 
 /* No comment provided by engineer. */
-"Week starts" = "Week starts"; // TODO
+"Week starts" = "每周的开始";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "入住"; 
