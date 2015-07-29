@@ -281,11 +281,26 @@
 /* Sports utility vehicle abbreviation */
 "SUV" = "休旅車";
 
+/* No comment provided by engineer. */
+"Unknown error" = "Unknown error"; // TODO
+
+/* Message that shows app is updating trip after user finalised bookings */
+"Updating trip" = "Updating trip"; // TODO
+
+/* Message that informs users that some values are missing from the required fields in a booking form. */
+"Values missing from required fields." = "Values missing from required fields."; // TODO
+
 /* Every weekday in context of repetitions (especially recurring events) */
 "Weekdays" = "平日";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
 "Weekends" = "週末";
+
+/* Message that informs users that T&C must be agreed before booking can be made. */
+"You need to agree to the booking terms and conditions." = "You need to agree to the booking terms and conditions."; // TODO
+
+/* Message that informs users that T&C for insurance must be agreed before booking can be made. */
+"You need to agree to the insurance terms and conditions." = "You need to agree to the insurance terms and conditions."; // TODO
 
 /* Calendar authorisation needed text */
 "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "您之前拒絕了App使用您的行事曆．如想要使用本功能，請到設定 > 隱私 > 行事曆中更新您的授權.";

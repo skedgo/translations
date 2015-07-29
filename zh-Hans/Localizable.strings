@@ -4,12 +4,6 @@
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
 " every " = " 每 ";
 
-/* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "提早 %1$@ (%2$@ 服务)";
-
-/* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "延迟 %1$@ (%2$@ 服务)";
-
 /* Format string for going from one location to another. Used to name favourite trips. */
 "%@ to %@" = "%1$@ 到 %2$@";
 
@@ -163,9 +157,6 @@
 /* Convenience description */
 "Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." = "旅程的方便性会受到是否需要更换公共交通的影响，您需要步行的距离以及是否需要叫计程车等的影响。";
 
-/* Location manager failure error message */
-"Could not determine your current location. Please set your location manually." = "无法确认您的当前位置，请手动设定。";
-
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "找不到您所在的城市！";
 
@@ -180,6 +171,9 @@
 
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "自定旅程与既定行程无法配合";
+
+/* No comment provided by engineer. */
+"Custom trip has been cancelled" = "Custom trip has been cancelled"; // TODO
 
 /* Cycling speed preference */
 "Cycle speed" = "自行车速";
@@ -402,9 +396,6 @@
 /* Title for a switch indicating if this event should be included in all-day routes */
 "Include in routes" = "包含在旅程中";
 
-/* School services footer */
-"Information on school services and concession pricing is subject to availability." = "取得校车和优惠票价的信息是视情况而定的。";
-
 /* Title for setting to include step count on Agenda screen */
 "Include Step Count" = "包含步数计算";
 
@@ -494,6 +485,9 @@
 /* Number of minutes before departure */
 "MinutesBefore" = "%.0f分钟前";
 
+/* Alert title that indicates an address is missing when creating a new event. */
+"Missing address" = "Missing address"; // TODO
+
 /* More button accessibility label */
 "More" = "更多";
 
@@ -502,6 +496,12 @@
 
 /* Sample event name ('Movie') */
 "Movie" = "影片";
+
+/* No comment provided by engineer. */
+"My Agenda" = "My Agenda"; // TODO
+
+/* Title for profile item that loads a list of user's bookings */
+"My Bookings" = "My Bookings"; // TODO
 
 /* User preferences title */
 "My Priorities" = "重要性";
@@ -603,11 +603,11 @@
 /* Timetable screen title */
 "Pick a Time" = "选取一个时间";
 
+/* Instruction to users when there are no upcoming trips */
+"Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favourites."; // TODO
+
 /* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
 "Plan a trip on your phone" = "在手机中规划一个行程";
-
-/* Instruction for what to do if there are no planned trips in the next 24 hours */
-"Plan a trip on your phone or press firmly to access your favourites." = "在您的手机中规划一个行程或者点击常用入口。";
 
 /* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
 "Please adjust your query and try again." = "有疑问？再试一次吧。";
@@ -621,6 +621,9 @@
 /* Recovery suggestion when database got corrupted */
 "Please restart the app. Sorry for the inconvenience!" = "请重新启动app，为您带来的不便，我们深感抱歉";
 
+/* Alert message that asks users to provide the missing address for a new event. */
+"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'"; // TODO
+
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "请尝试重新启动app，为您带来的不便，我们深感抱歉!";
 
@@ -630,11 +633,20 @@
 /* Description of the pricing */
 "pricingDescription" = "票价";
 
+/* No comment provided by engineer. */
+"Priorities" = "Priorities"; // TODO
+
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "请准备出发！您到%@的旅程将在%@开始";
 
 /* Notification message for a non-public transport trip. Provided is %time you need to leave. */
 "PrivateTimeToLeaveNoLocation" = "请准备出发！您的行程将从%@开始。";
+
+/* Title for view that shows user's profile */
+"Profile" = "Profile"; // TODO
+
+/* Profile tab bar name */
+"ProfileButton" = "Profile"; // TODO
 
 /* Rate us preference */
 "Rate TripGo" = "给我们打分";
@@ -753,9 +765,6 @@
 
 /* No comment provided by engineer. */
 "Settings" = "设定";
-
-/* Settings tab bar name */
-"SettingsButton" = "设定";
 
 /* Action button title for sharing when you arrive
    Share arrival */
@@ -888,12 +897,6 @@
 /* Title favourite name */
 "TitleFavouriteName" = "名称";
 
-/* Favorite trip 'to' title */
-"To" = "前往";
-
-/* Format string for going from currently location to this one. Used to name favourite destinations. */
-"To %@" = "前往 %@";
-
 /* Title for button to access transport modes
    Title of settings for generic transport stuff */
 "Transport" = "交通工具";
@@ -952,6 +955,9 @@
 
 /* Walking speed preference */
 "Walk speed" = "步行速度";
+
+/* No comment provided by engineer. */
+"Week starts" = "Week starts"; // TODO
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "入住"; 

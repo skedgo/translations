@@ -172,6 +172,9 @@
 /* No comment provided by engineer. */
 "Custom trip does not fit" = "Eigener Trip passt nicht";
 
+/* No comment provided by engineer. */
+"Custom trip has been cancelled" = "Buchung wurde gecancelt";
+
 /* Cycling speed preference */
 "Cycle speed" = "Radfahrgeschwindigkeit";
 
@@ -482,6 +485,9 @@
 /* Number of minutes before departure */
 "MinutesBefore" = "%.0f Minuten vorher";
 
+/* Alert title that indicates an address is missing when creating a new event. */
+"Missing address" = "Adresse fehlt";
+
 /* More button accessibility label */
 "More" = "Mehr";
 
@@ -491,8 +497,17 @@
 /* Sample event name ('Movie') */
 "Movie" = "Kino";
 
+/* No comment provided by engineer. */
+"My Agenda" = "Agenda";
+
+/* Title for profile item that loads a list of user's bookings */
+"My Bookings" = "Buchungen";
+
 /* User preferences title */
 "My Priorities" = "Prioritäten";
+
+/* No comment provided by engineer. */
+"My Transport" = "Transport";
 
 /* Header for list of my vehicles */
 "My Vehicles" = "Meine Fahrzeuge";
@@ -588,11 +603,11 @@
 /* Timetable screen title */
 "Pick a Time" = "Wähle eine Zeit";
 
-/* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
-"Plan a trip on your phone" = "Plane eine Route auf deinem iPhone";
-
 /* Instruction for what to do if there are no planned trips in the next 24 hours */
 "Plan a trip on your phone or press firmly to access your favourites." = "Plane eine Route auf deinem iPhone oder drücke fest um deine Favoriten anzuzeigen.";
+
+/* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
+"Plan a trip on your phone" = "Plane eine Route auf deinem iPhone";
 
 /* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
 "Please adjust your query and try again." = "Bitte passe deine Suche an und probiere noch einmal.";
@@ -606,6 +621,9 @@
 /* Recovery suggestion when database got corrupted */
 "Please restart the app. Sorry for the inconvenience!" = "Bitte starte die App neu.";
 
+/* Alert message that asks users to provide the missing address for a new event. */
+"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'"; // TODO
+
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "Bitte versuche die App erneut zu starten.!";
 
@@ -615,11 +633,20 @@
 /* Description of the pricing */
 "pricingDescription" = "Preis";
 
+/* No comment provided by engineer. */
+"Priorities" = "Prioritäten";
+
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "Zeit zu gehen! Dein Trip nach %@ beginnt um %@";
 
 /* Notification message for a non-public transport trip. Provided is %time you need to leave. */
 "PrivateTimeToLeaveNoLocation" = "Zeit zu gehen! Dein Trip beginnt um %@";
+
+/* Title for view that shows user's profile */
+"Profile" = "Profil";
+
+/* Profile tab bar name */
+"ProfileButton" = "Profil";
 
 /* Rate us preference */
 "Rate TripGo" = "Bitte bewerte TripGo";
@@ -738,9 +765,6 @@
 
 /* No comment provided by engineer. */
 "Settings" = "Einstellungen";
-
-/* Settings tab bar name */
-"SettingsButton" = "Einstellungen";
 
 /* Action button title for sharing when you arrive
    Share arrival */
@@ -877,6 +901,9 @@
    Title of settings for generic transport stuff */
 "Transport" = "Transport";
 
+/* No comment provided by engineer. */
+"Transport Modes" = "Transport";
+
 /* Transport genius */
 "TransportGenius" = "TripGo - Transportgenie";
 
@@ -931,6 +958,9 @@
 
 /* Walking speed preference */
 "Walk speed" = "Laufgeschwindigkeit";
+
+/* No comment provided by engineer. */
+"Week starts" = "Wochenbeginn";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Übernachtungen";
