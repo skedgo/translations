@@ -173,7 +173,7 @@
 "Custom trip does not fit" = "自定路線與既定的行程無法相容";
 
 /* No comment provided by engineer. */
-"Custom trip has been cancelled" = "Custom trip has been cancelled"; // TODO
+"Custom trip has been cancelled" = "自訂路線已被取消";
 
 /* Cycling speed preference */
 "Cycle speed" = "自行車騎速";
@@ -486,7 +486,7 @@
 "MinutesBefore" = "%.0f分鐘前";
 
 /* Alert title that indicates an address is missing when creating a new event. */
-"Missing address" = "Missing address"; // TODO
+"Missing address" = "請填寫正確地址";
 
 /* More button accessibility label */
 "More" = "更多";
@@ -498,16 +498,16 @@
 "Movie" = "電影";
 
 /* No comment provided by engineer. */
-"My Agenda" = "My Agenda"; // TODO
+"My Agenda" = "我的行程";
 
 /* Title for profile item that loads a list of user's bookings */
-"My Bookings" = "My Bookings"; // TODO
+"My Bookings" = "我的訂購";
 
 /* User preferences title */
 "My Priorities" = "我的優先順序";
 
 /* No comment provided by engineer. */
-"My Transport" = "My Transport"; // TODO
+"My Transport" = "我的交通選項";
 
 /* Header for list of my vehicles */
 "My Vehicles" = "我的車輛";
@@ -604,7 +604,7 @@
 "Pick a Time" = "選取一個時間";
 
 /* Instruction to users when there are no upcoming trips */
-"Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favourites."; // TODO
+"Plan a trip on your phone or press firmly to access your favourites." = "請在您的手機上規劃一條路線或是下壓螢幕來查閱您的常用路線";
 
 /* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
 "Plan a trip on your phone" = "請在您的手機上規劃一條路線";
@@ -622,7 +622,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "請重新啟動本程式．很抱歉造成您的不便";
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address for the new '%@'" = "Please specify an address for the new '%@'"; // TODO
+"Please specify an address for the new '%@'" = "請為'%@'事件提供一個地址";
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "請嘗試重新啟動本程式．很抱歉造成您的不便";
@@ -634,7 +634,7 @@
 "pricingDescription" = "票價";
 
 /* No comment provided by engineer. */
-"Priorities" = "Priorities"; // TODO
+"Priorities" = "優先順序";
 
 /* Notification message for a non-public transport trip. Provided is %destination and %time you need to leave. */
 "PrivateTimeToLeave" = "請準備出發！您到 %@ 的旅程將在 %@ 開始";
@@ -643,10 +643,10 @@
 "PrivateTimeToLeaveNoLocation" = "請準備出發！您的旅程將從 %@ 開始";
 
 /* Title for view that shows user's profile */
-"Profile" = "Profile"; // TODO
+"Profile" = "關於我";
 
 /* Profile tab bar name */
-"ProfileButton" = "Profile"; // TODO
+"ProfileButton" = "我";
 
 /* Rate us preference */
 "Rate TripGo" = "請給我們評價";
@@ -902,7 +902,7 @@
 "Transport" = "交通工具";
 
 /* No comment provided by engineer. */
-"Transport Modes" = "Transport Modes"; // TODO
+"Transport Modes" = "交通工具";
 
 /* Transport genius */
 "TransportGenius" = "TripGo - 運輸方面的專家！";
@@ -960,7 +960,7 @@
 "Walk speed" = "步行速度";
 
 /* No comment provided by engineer. */
-"Week starts" = "Week starts"; // TODO
+"Week starts" = "每週開始日";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "停留";
