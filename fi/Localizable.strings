@@ -875,50 +875,50 @@
 
 /* Title for button to access transport modes
    Title of settings for generic transport stuff */
-"Transport" = "Transport";
+"Transport" = "Kulkutavat";
 
 /* Transport genius */
-"TransportGenius" = "TripGo - Transport genius";
+"TransportGenius" = "TripGo - Älykästä liikkumista";
 
 /* How do you want to go today? */
-"TransportModeWish" = "TripGo - Miten haluat mennä tänään?";
+"TransportModeWish" = "TripGo - Miten haluat kulkea tänään?";
 
 /* Title for a trip */
 "Trip" = "Matka";
 
 /* No comment provided by engineer. */
-"TripGo cannot access its local files." = "TripGo cannot access its local files."; // TODO
+"TripGo cannot access its local files." = "TripGo ei saanut yhteyttä paikallisiin tiedostoihin."; 
 
 /* No comment provided by engineer. */
-"TripGo cannot update its local files." = "TripGo cannot update its local files."; // TODO
+"TripGo cannot update its local files." = "TripGo paikallisten tiedostojen päivitys ei onnistunut."; 
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo ei toimi tällä alalla vielä. Ole hyvä ja siirry yksi meidän tuettujen alueiden ja yritä uudelleen.";
+"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo ei toimi tällä alueella vielä. Yritä hakua uudelleen lähimmällä tuetulla alueella.";
 
 /* Trips tab bar name */
 "TripsButton" = "Matkat";
 
 /* Confirmation that tutorial was reset. */
-"Tutorial reset" = "Tutorial reset";
+"Tutorial reset" = "Kurssi tyhjennetty";
 
 /* Type of the event (calendar event, stay, routine) */
-"TypeEvent" = "Tyyppi";
+"TypeEvent" = "Luokka";
 
 /* Type of the vehicle */
 "TypeVehicle" = "Tyyppi";
 
 /* Which of my vehicles to assign this to */
-"Vehicle" = "Vehicle"; // TODO
+"Vehicle" = "Ajoneuvo"; 
 
 /* No comment provided by engineer. */
 "Verify location..." = "Tarkista sijainti...";
 
 /* Positive answer to displayed advertising.
    Show content of notification. */
-"View" = "View"; // TODO
+"View" = "Katso"; 
 
 /* View alternative times for this trip */
-"View times" = "Katso aikoja";
+"View times" = "Selaa aikoja";
 
 /* Duration button */
 "ViewDurationButton" = "Kesto";
@@ -930,33 +930,33 @@
 "ViewPriceButton" = "Hinta";
 
 /* Walking speed preference */
-"Walk speed" = "Kävely nopeus";
+"Walk speed" = "Kävelynopeus";
 
 /* Header for staying away from home, i.e., when a user is NOT at their home */
-"WhenIAmAwayHeader" = "Yöpyy";
+"WhenIAmAwayHeader" = "Yöpyminen";
 
 /* Header for accommodations, i.e., when a user is typically at this location
    Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda";
 
 /* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
-"Which would you like to delete" = "Minka haluaisit poistaa";
+"Which would you like to delete" = "Minkä haluaisit poistaa";
 
 /* Typical name that you'd give your work location */
 "Work" = "Työ";
 
 /* Positive answer to follow-up question for rating or feedback. */
-"Yeah, ok!" = "Yeah, ok!"; // TODO
+"Yeah, ok!" = "Kyllä, ok!";
 
 /* Positive answer to question whether TripGo is useful. */
-"Yes!" = "Yes!"; // TODO
+"Yes!" = "Kyllä!";
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "You might not make this transfer."; // TODO
+"You might not make this transfer." = "Huomasimme, että mahdollisesti kyseinen vuoro ei toteudu."; 
 
 /* No comment provided by engineer. */
-"Zoom in" = "Zoom in";
+"Zoom in" = "Suurenna";
 
 /* Walkthrough */
-"Zoom into map to view public transport stops" = "Zoomata karttaa nähdäkseesi joukkoliikenteen pysäkit.";
+"Zoom into map to view public transport stops" = "Suurenna karttaa nähdäkseesi joukkoliikenteen pysäkit.";
 
