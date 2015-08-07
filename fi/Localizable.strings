@@ -95,7 +95,7 @@
 "ArriveBefore" = "Perillä";
 
 /* Title for section to assign a trip to a vehicle. */
-"Assign to vehicle" = "Varaa kulkuneuvo"; // TODO
+"Assign to vehicle" = "Varaa kulkuneuvo"; 
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
 "At " = "Klo ";
@@ -149,7 +149,7 @@
 "Clear search history" = "Tyhjennä hakuhistoria";
 
 /* School pricing preference */
-"Concession Pricing" = "Myönnytys Hinnoittelu";
+"Concession Pricing" = "Erikoishinnoittelu";
 
 /* Hassle preference */
 "Convenience" = "Mukavuus";
@@ -568,7 +568,7 @@
 "Open TripGo app and add the location of this favourite." = "Avaa TripGo ja lisää sijainti tälle suosikille."; 
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
-"Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services."; // TODO
+"Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Avaa TripGo tai puhelimen Asetukset ja salli TripGolle pääsy sijaintipalveluihin.";
 
 /* No comment provided by engineer. */
 "Open Uber" = "Avaa Uber";
@@ -577,7 +577,7 @@
 "Open URL" = "Avaa URL";
 
 /* No comment provided by engineer. */
-"Open website" = "Open website"; // TODO
+"Open website" = "Avaa nettisivut"; 
 
 /* Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results. */
 "Permission was granted. Please go back and try again." = "Lupa myönnettiin. Palaa takaisin ja yritä uudelleen.";
@@ -589,16 +589,16 @@
 "Pick a Time" = "Valitse Aika";
 
 /* Instruction to users when there are no upcoming trips (for non-interactive Glance) */
-"Plan a trip on your phone" = "Plan a trip on your phone"; // TODO
+"Plan a trip on your phone" = "Suunnittele matka puhelimellasi"; 
 
 /* Instruction for what to do if there are no planned trips in the next 24 hours */
-"Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favourites."; // TODO
+"Plan a trip on your phone or press firmly to access your favourites." = "Suunnittele matka puhelimellasi tai paina pitkään päästäksesi suosikkeihin.";
 
 /* Error recovery suggestion for when routing produced no results (but no specific error was returned from routing). */
-"Please adjust your query and try again." = "Please adjust your query and try again."; // TODO
+"Please adjust your query and try again." = "Muokkaa kyselyä ja yritä uudelleen, kiitos."; 
 
 /* Error recovery suggestion for when no calendar found. */
-"Please check your Calendar app and make sure you have a calendar configured." = "Tarkista kalenteri sovelluksesi ja varmista, että sulla on kalenterin määritetty.";
+"Please check your Calendar app and make sure you have a calendar configured." = "Tarkista kalenterisovelluksesi ja varmista, että sulla on kalenterin määritetty.";
 
 /* Recovery suggestion when TripGo cannot access its local files */
 "Please delete the app and re-install from the App Store. Sorry for the inconvenience!" = "Pyydämme poistamaan sovelluksen, ja asentamaan sen uudellen App Storesta. Pahoittelut ylimääräisestä vaivasta!";
@@ -822,7 +822,7 @@
 "Support" = "Tuki";
 
 /* Walkthrough */
-"Swipe dates to navigate between weeks" = "Rullamalla päiviä voit navigoida viikkojen välillä";
+"Swipe dates to navigate between weeks" = "Rullamalla päiviä voit selailla viikkojen välillä";
 
 /* Walkthrough - should match translation for '\"Routes\"' */
 "Tap 'Routes' for alternative routes" = "Napauta \"Reitit\" nähdäksesi vaihtoehtoisia reittejä.";
