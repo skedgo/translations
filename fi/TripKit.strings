@@ -1,8 +1,8 @@
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'. */
-"%1$@ early" = "%1$@ ajoissa"; 
+"%1$@ early" = "%1$@ etuajassa"; 
 
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "%1$@ ajoissa (%2$@ palvelu)"; 
+"%1$@ early (%2$@ service)" = "%1$@ etuajassa (%2$@ palvelu)"; 
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min' */
 "%1$@ late" = "%1$@ myöhässä"; 
