@@ -1,6 +1,6 @@
 
 /* Class = "IBUIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30"; */
-"30.accessibilityLabel" = "Vaihda alkuperä ja määränpää";
+"30.accessibilityLabel" = "Vaihda lähtöpaikka ja määränpää";
 
 /* Class = "IBUIButton"; normalTitle = "Time"; ObjectID = "44"; */
 "44.normalTitle" = "Aika";
