@@ -51,7 +51,7 @@
   <string name="about">Lisätietoja</string>
   <string name="trip_preferences">Matkan preferenssit</string>
   <string name="current_location">Nykyinen sijainti</string>
-  <string name="upcoming_services">Tulevat palvelut</string>
+  <string name="upcoming_services">Tulevat yhteydet</string>
   <string name="settings_title_transfer_time">Minimi siirtymäaika</string>
   <string name="settings_title_school_bus">Näytä koulubussi</string>
   <string name="priority_budget">Budjetti</string>
@@ -125,7 +125,7 @@
   <string name="tap_to_set_location">Napauta asettaaksesi sijainti</string>
   <string name="location_selected">Sijainti valittu</string>
   <string name="tripgo_facebook">TripGo Facebookissa</string>
-  <string name="page_between_upcoming_services">Selaa tulevia palveluita</string>
+  <string name="page_between_upcoming_services">Selaa tulevia yhteyksiä</string>
   <string name="report_chooser_title">Lähetä raportti</string>
   <string name="settings_summary_reminder_start_off_trip">Näytä lähtömuistutus matkan alussa</string>
   <string name="setting_title_trip_preferences">Omat painopisteeni</string>
@@ -168,7 +168,7 @@
   <string name="type_uppercase">TYYPPI</string>
   <string name="share_a_query">Jaa</string>
   <string name="route_description">Näytä tulokset</string>
-  <string name="settings_summary_reminder_service_alerts">Näytä palveluhälytykset, jotka vaikuttavat tuleviin matkoihin</string>
+  <string name="settings_summary_reminder_service_alerts">Näytä yhteyshälytykset, jotka vaikuttavat tuleviin matkoihin</string>
   <string name="real_time_enabled">\n Reaaliaikainen tieto saatavilla/string>
   <string name="setting_summary_trip_preferences">Vaikuta hakutuloksiin asettamalla tärkeimmät matkat ensin</string>
   <string name="destination_location">Kohteen sijainti</string>
@@ -181,7 +181,7 @@
   <string name="remove_uppercase">POISTA</string>
   <string name="might_not_make_this_transfer">On mahdollista, että kyseinen siirtyminen ei onnistu</string>
   <string name="settings_title_server">Palvelin</string>
-  <string name="no_services_available">Palveluita ei saatavilla</string>
+  <string name="no_services_available">Yhteyksiä ei saatavilla</string>
   <string name="remove_from_favourites">Poista suosikeista</string>
   <string name="hide_traffic">Piilota liikenne</string>
   <string name="location_too_close_errors">Sijainnit ovat liian lähekkäin</string>
@@ -190,7 +190,7 @@
   <string name="use_contact_data">Hyödynnä yhteystietoja</string>
   <string name="del_only_this_event">Vain tämä tapahtuma</string>
   <string name="expand">Laajenna</string>
-  <string name="timetable_no_data">Pysäkiltä ei löytynyt palveluita</string>
+  <string name="timetable_no_data">Pysäkiltä ei löytynyt yhteyksiä</string>
   <string name="later">Myöhemmin</string>
   <string name="public_transport">Julkinen liikenne</string>
   <string name="set_start_time">Aseta aloitusaika</string>
@@ -210,7 +210,7 @@
   <string name="bicycle">Polkupyörä</string>
   <string name="this_loc">Tämä sijainti</string>
   <string name="include_cal_explanation">Tapahtumia näistä kalentereista käytetään päiväsi suunnitteluun</string>
-  <string name="filter_timetable_hint">Suodata palvelun nimen, numeron tai pysäkin mukaan</string>
+  <string name="filter_timetable_hint">Suodata yhteyden nimen, numeron tai pysäkin mukaan</string>
   <string name="settings_title_gps_submit">Jäljitä sijainti</string>
   <string name="all_calendar_disabled">Kalentereita ei ole määritelty TripGon asetuksissa</string>
   <string name="location_name">Sijainnin nimi</string>
@@ -247,7 +247,7 @@
   <string name="page_title_save">Tallenna</string>
   <string name="you_r_already_at_s">Olet jo kohteessa %s!</string>
   <string name="get_off">Jää pois</string>
-  <string name="service_placeholder">Palvelu</string>
+  <string name="service_placeholder">Yhteys</string>
   <string name="address">Osoite</string>
   <string name="add_an_event">Lisää tapahtuma</string>
   <string name="no_results_available">Tuloksia ei saatavilla</string>
@@ -293,11 +293,11 @@
   <string name="price">Hinta</string>
   <string name="del_all_events">Kaikki tapahtumat</string>
   <string name="settings_summary_server">Käytettävä palvelin. Huomaa, että tämä ajaa ohi *KAIKKI* nykyiset palvelinpyynnöt!</string>
-  <string name="view_timetable_subtitle">Tulevat palvelut</string>
+  <string name="view_timetable_subtitle">Tulevat yhteydet</string>
   <string name="clear">Tyhjennä</string>
   <string name="preferred">Suositut</string>
   <string name="get_on">Hypäää kyytiin</string>
-  <string name="view_timetable_for_stop">Näytä tulevien palveluiden aikataulu</string>
+  <string name="view_timetable_for_stop">Näytä tulevien yhteyksien aikataulu</string>
   <string name="set_time">Aseta aika</string>
   <string name="end_time">Loppuu</string>
   <string name="stops">Pysähtyy</string>
@@ -309,7 +309,7 @@
   <string name="search">Etsi</string>
   <string name="event_detail_title">Tapahtuman tiedot</string>
   <string name="exclude_from_routing">Hylkää tämä tapahtuma agendan suunnittelusta</string>
-  <string name="timetable_download_error">Palveluiden lataamisessa havaittiin virhe</string>
+  <string name="timetable_download_error">Yhteyksien lataamisessa havaittiin virhe</string>
   <string name="previous">Edellinen</string>
   <string name="default_text_add_event_item">Lisää, kun olen täällä</string>
   <string name="reminder_removed">Poistettu Agendalta</string>
