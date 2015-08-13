@@ -88,9 +88,6 @@
 /* No comment provided by engineer. */
 "Ambiguous event address." = "Onbekend adres.";
 
-/* apple maps directions action */
-"Apple Maps" = "Apple Kaarten";
-
 /* Arrival date+time for overnight stay
    Arrival time sorter title */
 "Arrival" = "Aankomst";
@@ -138,12 +135,6 @@
 "Calendars" = "Agenda's";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "Bel Taxi";
-
-/* Action title for calling provider of %name */
-"CallTaxiFormat" = "Bel %@";
-
-/* No comment provided by engineer. */
 "Change time" = "Tijd veranderen";
 
 /* clear cache preference */
@@ -163,9 +154,6 @@
 
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "Uw stad kon niet gevonden worden.";
-
-/* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Voer deze code in '%@' bij uw registratie. U krijgt AU$5 cadeau (alleen geldig voor nieuwe aanmeldingen)";
 
 /* Title for critical error */
 "CriticalError" = "Ernstige fout.";
@@ -336,14 +324,8 @@
 /* Action button title for getting turn-by-turn directions */
 "Get directions" = "Routebeschrijving";
 
-/* No comment provided by engineer. */
-"Get ingogo" = "Ingogo aanvragen";
-
 /* Header for settings for feedback, recommending and rating TripGo */
 "Get Involved" = "Raak betrokken";
-
-/* No comment provided by engineer. */
-"Get Lyft" = "Lyft aanvragen";
 
 /* No comment provided by engineer. */
 "Get off here" = "Hier uitstappen";
@@ -354,23 +336,11 @@
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
 "Get on or off here" = "Hier in/uitstappen";
 
-/* No comment provided by engineer. */
-"Get Sidecar" = "Sidecar aanvragen";
-
-/* No comment provided by engineer. */
-"Get Uber" = "Uber aanvragen";
-
 /* I use TripGo to get around */
 "GetAround" = "Als ik ergens naar toe moet gebruik ik TripGo.";
 
 /* Message to show when trying to get trip for a favorite */
 "Getting trip..." = "Reis wordt geladen...";
-
-/* goCatch action */
-"goCatch a Taxi" = "goCatch een Taxi";
-
-/* google maps directions action */
-"Google Maps" = "Google Maps";
 
 /* Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites */
@@ -402,12 +372,6 @@
 
 /* Concession pricing footer */
 "Information on concession pricing is subject to availability." = "De informatie mbt kortingen is alleen op basis van beschikbaarheid.";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi" = "ingogo een Taxi";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "ingogo een Taxi ($5 credit^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Ga naar vandaag";
@@ -570,20 +534,11 @@
    Option to use this trip just this time. */
 "Only This" = "Alleen deze";
 
-/* No comment provided by engineer. */
-"Open Lyft" = "Lyft openen";
-
-/* No comment provided by engineer. */
-"Open Sidecar" = "Sidecar openen";
-
 /* Error recovery suggestion for favourites with missing location. */
 "Open TripGo app and add the location of this favourite." = "Open de TripGo app en voeg de locatie toe voor deze favoriet.";
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
 "Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo of de Instellingen app en sta toegang toe tot de locatievoorziening.";
-
-/* No comment provided by engineer. */
-"Open Uber" = "Uber openen";
 
 /* Button title to open URL */
 "Open URL" = "URL openen";
@@ -796,9 +751,6 @@
 
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Bekijk dienstregeling";
-
-/* Show website action */
-"Show website" = "Open Website";
 
 /* Show trip */
 "ShowTrip" = "Bekijk Reis";

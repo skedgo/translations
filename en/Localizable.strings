@@ -42,7 +42,7 @@
 "Added to calendar" = "Added to calendar";
 
 /* Alert title that indicates an address is missing when creating a new event. */
-"Address required" = "Address required"; // TODO
+"Address required" = "Address required";
 
 /* Add a new stopover */
 "AddStopover" = "Add stopover...";
@@ -87,9 +87,6 @@
 
 /* No comment provided by engineer. */
 "Ambiguous event address." = "Ambiguous address.";
-
-/* apple maps directions action */
-"Apple Maps" = "Apple Maps";
 
 /* Arrival date+time for overnight stay
    Arrival time sorter title */
@@ -138,12 +135,6 @@
 "Calendars" = "Calendars";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "Call Taxi";
-
-/* Action title for calling provider of %name */
-"CallTaxiFormat" = "Call %@";
-
-/* No comment provided by engineer. */
 "Change time" = "Change time";
 
 /* clear cache preference */
@@ -163,9 +154,6 @@
 
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "Could not find your city.";
-
-/* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Enter coupon code '%@' when registering to claim your free $5 credit (only valid for new registrations)";
 
 /* Title for critical error */
 "CriticalError" = "Critical Error";
@@ -336,14 +324,8 @@
 /* Action button title for getting turn-by-turn directions */
 "Get directions" = "Get directions";
 
-/* No comment provided by engineer. */
-"Get ingogo" = "Get ingogo";
-
 /* Header for settings for feedback, recommending and rating TripGo */
 "Get Involved" = "Get Involved";
-
-/* No comment provided by engineer. */
-"Get Lyft" = "Get Lyft";
 
 /* No comment provided by engineer. */
 "Get off here" = "Get off here";
@@ -354,23 +336,11 @@
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
 "Get on or off here" = "Get on or off here";
 
-/* No comment provided by engineer. */
-"Get Sidecar" = "Get Sidecar";
-
-/* No comment provided by engineer. */
-"Get Uber" = "Get Uber";
-
 /* I use TripGo to get around */
 "GetAround" = "I use TripGo to get around.";
 
 /* Message to show when trying to get trip for a favorite */
 "Getting trip..." = "Getting trip...";
-
-/* goCatch action */
-"goCatch a Taxi" = "goCatch a Taxi";
-
-/* google maps directions action */
-"Google Maps" = "Google Maps";
 
 /* Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites */
@@ -402,12 +372,6 @@
 
 /* Concession pricing footer */
 "Information on concession pricing is subject to availability." = "Information on concession pricing is subject to availability.";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi" = "ingogo a Taxi";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "ingogo a Taxi ($5 credit^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Jump to today";
@@ -570,20 +534,11 @@
    Option to use this trip just this time. */
 "Only This" = "Only This";
 
-/* No comment provided by engineer. */
-"Open Lyft" = "Open Lyft";
-
-/* No comment provided by engineer. */
-"Open Sidecar" = "Open Sidecar";
-
 /* Error recovery suggestion for favourites with missing location. */
 "Open TripGo app and add the location of this favourite." = "Open TripGo app and add the location of this favourite.";
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
 "Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services.";
-
-/* No comment provided by engineer. */
-"Open Uber" = "Open Uber";
 
 /* Button title to open URL */
 "Open URL" = "Open URL";
@@ -796,9 +751,6 @@
 
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Show timetable";
-
-/* Show website action */
-"Show website" = "Show website";
 
 /* Show trip */
 "ShowTrip" = "Show Trip";

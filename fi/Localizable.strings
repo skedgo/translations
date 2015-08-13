@@ -88,9 +88,6 @@
 /* No comment provided by engineer. */
 "Ambiguous event address." = "Epäselvä osoite.";
 
-/* apple maps directions action */
-"Apple Maps" = "Apple Maps";
-
 /* Arrival date+time for overnight stay
    Arrival time sorter title */
 "Arrival" = "Saapuminen";
@@ -138,12 +135,6 @@
 "Calendars" = "Kalenterit";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "Soita Taxille";
-
-/* Action title for calling provider of %name */
-"CallTaxiFormat" = "Soita %@:lle";
-
-/* No comment provided by engineer. */
 "Change time" = "Muuta aikaa";
 
 /* clear cache preference */
@@ -163,9 +154,6 @@
 
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "Kaupunkia ei löydy.";
-
-/* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Anna kuponkikoodi %@. Jos olet rekisteröitymätön, lunasta ilmainen 5 dollarin luotto (voimassa: vain uudet rekisteröinnit)";
 
 /* Title for critical error */
 "CriticalError" = "Kriittinen virhe";
@@ -336,14 +324,8 @@
 /* Action button title for getting turn-by-turn directions */
 "Get directions" = "Hae reittiohjeet";
 
-/* No comment provided by engineer. */
-"Get ingogo" = "Hae Ingogo";
-
 /* Header for settings for feedback, recommending and rating TripGo */
 "Get Involved" = "Osallistu";
-
-/* No comment provided by engineer. */
-"Get Lyft" = "Hae Lyft";
 
 /* No comment provided by engineer. */
 "Get off here" = "Jää pois tässä";
@@ -354,23 +336,11 @@
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
 "Get on or off here" = "Mene kyytiin tai jää pois tässä"; 
 
-/* No comment provided by engineer. */
-"Get Sidecar" = "Hae Sidecar"; // TODO
-
-/* No comment provided by engineer. */
-"Get Uber" = "Hae Uber";
-
 /* I use TripGo to get around */
 "GetAround" = "Käytän TripGoa kiertelyyn.";
 
 /* Message to show when trying to get trip for a favorite */
 "Getting trip..." = "Matkan vieminen..."; 
-
-/* goCatch action */
-"goCatch a Taxi" = "goCatch Taksi";
-
-/* google maps directions action */
-"Google Maps" = "Google Maps";
 
 /* Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites */
@@ -402,12 +372,6 @@
 
 /* Concession pricing footer */
 "Information on concession pricing is subject to availability." = "Tiedot erikoishinnoittelusta perustuvat niiden saatavuuteen.";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi" = "ingogo Taksi";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "ingogo Taksi ($5 luotto^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Tänään";
@@ -569,12 +533,6 @@
 /* Option to delete only this event in a recurence
    Option to use this trip just this time. */
 "Only This" = "Vain tämä";
-
-/* No comment provided by engineer. */
-"Open Lyft" = "Avaa Lyft";
-
-/* No comment provided by engineer. */
-"Open Sidecar" = "Avaa Sidecar";
 
 /* Error recovery suggestion for favourites with missing location. */
 "Open TripGo app and add the location of this favourite." = "Avaa TripGo ja lisää sijainti tälle suosikille."; 
@@ -796,9 +754,6 @@
 
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Näytä aikataulu";
-
-/* Show website action */
-"Show website" = "Näytä nettisivut";
 
 /* Show trip */
 "ShowTrip" = "Näytä Matka";

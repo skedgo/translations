@@ -88,9 +88,6 @@
 /* No comment provided by engineer. */
 "Ambiguous event address." = "Adresse de l'évènement ambiguë.";
 
-/* apple maps directions action */
-"Apple Maps" = "Apple Maps";
-
 /* Arrival date+time for overnight stay
    Arrival time sorter title */
 "Arrival" = "Arrivée";
@@ -138,12 +135,6 @@
 "Calendars" = "Calendriers";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "Appeler un Taxi";
-
-/* Action title for calling provider of %name */
-"CallTaxiFormat" = "Appeler %@";
-
-/* No comment provided by engineer. */
 "Change time" = "Changer l'heure";
 
 /* clear cache preference */
@@ -163,9 +154,6 @@
 
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "Could not find your city."; // TODO
-
-/* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Entrez le code de promotion '%@' lors de l'inscription pour obtenir un crédit de 5$ (seulement valable pour les nouvelles inscriptions).";
 
 /* Title for critical error */
 "CriticalError" = "Erreur critique";
@@ -336,14 +324,8 @@
 /* Action button title for getting turn-by-turn directions */
 "Get directions" = "Obtenir les itinéraires";
 
-/* No comment provided by engineer. */
-"Get ingogo" = "Obtenir ingogo";
-
 /* Header for settings for feedback, recommending and rating TripGo */
 "Get Involved" = "Restez impliqués";
-
-/* No comment provided by engineer. */
-"Get Lyft" = "Obtenir Lyft";
 
 /* No comment provided by engineer. */
 "Get off here" = "Get off here"; // TODO
@@ -354,23 +336,11 @@
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
 "Get on or off here" = "Get on or off here"; // TODO
 
-/* No comment provided by engineer. */
-"Get Sidecar" = "Obtenir Sidecar";
-
-/* No comment provided by engineer. */
-"Get Uber" = "Obtenir Uber";
-
 /* I use TripGo to get around */
 "GetAround" = "J'utilise TripGo pour me déplacer.";
 
 /* Message to show when trying to get trip for a favorite */
 "Getting trip..." = "Getting trip..."; // TODO
-
-/* goCatch action */
-"goCatch a Taxi" = "goCatch un Taxi";
-
-/* google maps directions action */
-"Google Maps" = "Google Maps";
 
 /* Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites */
@@ -402,12 +372,6 @@
 
 /* Concession pricing footer */
 "Information on concession pricing is subject to availability." = "Les informations sur les réductions tarifaires sont sujettes à la disponibilité."; // TODO
-
-/* No comment provided by engineer. */
-"ingogo a Taxi" = "ingogo un Taxi";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "ingogo un Taxi ($5 credit^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Aller à aujourd'hui";
@@ -570,20 +534,11 @@
    Option to use this trip just this time. */
 "Only This" = "Seulement celui-ci";
 
-/* No comment provided by engineer. */
-"Open Lyft" = "Ouvrir Lyft";
-
-/* No comment provided by engineer. */
-"Open Sidecar" = "Ouvrir Sidecar";
-
 /* Error recovery suggestion for favourites with missing location. */
 "Open TripGo app and add the location of this favourite." = "Open TripGo app and add the location of this favourite."; // TODO
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
 "Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services."; // TODO
-
-/* No comment provided by engineer. */
-"Open Uber" = "Ouvrir Uber";
 
 /* Button title to open URL */
 "Open URL" = "Ouvrir l'URL";
@@ -796,9 +751,6 @@
 
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Afficher les horaires";
-
-/* Show website action */
-"Show website" = "Ouvrir le site Web";
 
 /* Show trip */
 "ShowTrip" = "Afficher le trajet";

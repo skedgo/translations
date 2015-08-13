@@ -88,9 +88,6 @@
 /* No comment provided by engineer. */
 "Ambiguous event address." = "Dirección ambigua.";
 
-/* apple maps directions action */
-"Apple Maps" = "Mapa de Apple";
-
 /* Arrival date+time for overnight stay
    Arrival time sorter title */
 "Arrival" = "Llegada";
@@ -138,12 +135,6 @@
 "Calendars" = "Calendarios";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "Llamar un Taxi";
-
-/* Action title for calling provider of %name */
-"CallTaxiFormat" = "Llamar a %@";
-
-/* No comment provided by engineer. */
 "Change time" = "Cambiar tiempo";
 
 /* clear cache preference */
@@ -163,9 +154,6 @@
 
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "Could not find your city."; // TODO
-
-/* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "Ingrese el código del cupón '%@' al momento de registrarse para obtener sus $5 de crédito gratuitos (sólo válido para nuevos usuarios)";
 
 /* Title for critical error */
 "CriticalError" = "Error Crítico";
@@ -336,14 +324,8 @@
 /* Action button title for getting turn-by-turn directions */
 "Get directions" = "Obtener instrucciones";
 
-/* No comment provided by engineer. */
-"Get ingogo" = "Obtener ingogo";
-
 /* Header for settings for feedback, recommending and rating TripGo */
 "Get Involved" = "Participar";
-
-/* No comment provided by engineer. */
-"Get Lyft" = "Obtener Lyft";
 
 /* No comment provided by engineer. */
 "Get off here" = "Bajar aquí";
@@ -354,23 +336,11 @@
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
 "Get on or off here" = "Subir o bajar aquí";
 
-/* No comment provided by engineer. */
-"Get Sidecar" = "Obtener Sidecar";
-
-/* No comment provided by engineer. */
-"Get Uber" = "Obtener Uber";
-
 /* I use TripGo to get around */
 "GetAround" = "Utilizo TripGo para moverme.";
 
 /* Message to show when trying to get trip for a favorite */
 "Getting trip..." = "Getting trip..."; // TODO
-
-/* goCatch action */
-"goCatch a Taxi" = "goCatch un Taxi";
-
-/* google maps directions action */
-"Google Maps" = "Google Maps";
 
 /* Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites */
@@ -402,12 +372,6 @@
 
 /* Concession pricing footer */
 "Information on concession pricing is subject to availability." = "La información relacionada a precios bonificados está sujeta a disponibilidad."; // TODO
-
-/* No comment provided by engineer. */
-"ingogo a Taxi" = "ingogo un Taxi";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "ingogo un Taxi ($5 de crédito^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Ir a hoy";
@@ -570,20 +534,11 @@
    Option to use this trip just this time. */
 "Only This" = "Sólo Éste";
 
-/* No comment provided by engineer. */
-"Open Lyft" = "Abrir Lyft";
-
-/* No comment provided by engineer. */
-"Open Sidecar" = "Abrir Sidecar";
-
 /* Error recovery suggestion for favourites with missing location. */
 "Open TripGo app and add the location of this favourite." = "Open TripGo app and add the location of this favourite."; // TODO
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
 "Open TripGo or Settings app on your phone and grant TripGo access to location services." = "Open TripGo or Settings app on your phone and grant TripGo access to location services."; // TODO
-
-/* No comment provided by engineer. */
-"Open Uber" = "Abrir Uber";
 
 /* Button title to open URL */
 "Open URL" = "Ir a la URL";
@@ -797,9 +752,6 @@
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "Mostrar horarios";
 
-/* Show website action */
-"Show website" = "Ir al Sitio Web";
-
 /* Show trip */
 "ShowTrip" = "Mostrar Viaje";
 
@@ -954,7 +906,7 @@
 "Walk speed" = "Vel. caminando";
 
 /* No comment provided by engineer. */
-"Week starts" = ""Inicio de Semana";
+"Week starts" = "Inicio de Semana";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
 "WhenIAmAwayHeader" = "Alojamiento";

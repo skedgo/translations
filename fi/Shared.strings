@@ -1,11 +1,20 @@
+/* Message that indicates the app is about to sign users out of their user accounts */
+" The app will now sign out" = " The app will now sign out"; // TODO
+
 /* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Pääsy tähän ominaisuuteen on rajoitettu laitteessasi. Tarkista laitteesi Asetukset > Yleiset> Rajoitukset tai kysy laitteen toimittajalta.";
 
 /* Accessibility label for action button */
 "Action" = "Toiminta";
 
+/* Default title for alert view */
+"Alert" = "Alert"; // TODO
+
 /* Indicator that an event is all-day */
 "all-day" = "Koko päivä";
+
+/* Option for users if they already owned a SkedGo account */
+"Already have an account? Sign in" = "Already have an account? Sign in"; // TODO
 
 /* Estimated time of arrival */
 "ArrivalTimeIndication" = " (saapuu ";
@@ -22,11 +31,20 @@
 /* Label for when a service is cancelled. */
 "Cancelled" = "Peruttu"; // TODO
 
+/* No comment provided by engineer. */
+"Cannot proceed without a valid email address" = "Cannot proceed without a valid email address"; // TODO
+
 /* Type of vehicle : car */
 "Car" = "Auto";
 
 /* Credit card number */
 "Card No." = "Luottokortin numero."; 
+
+/* Instruction for changing password */
+"Change" = "Change"; // TODO
+
+/* Accessibility - user location button - hint */
+"Change tracking options" = "Muuta seurantavaihtoehtoja";
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "Valintamerkki";
@@ -39,6 +57,9 @@
 
 /* Could not download supported regions warning */
 "CouldNotDownloadSupportedRegions" = "Tuettuja alueita ei voitu ladata TripGo palvelimelle. Yritä myöhemmin uudelleen.";
+
+/* Message that indicates the app is creating accounts for users */
+"Creating account" = "Creating account"; // TODO
 
 /* Section title for credit card payment */
 "Credit card" = "Luottokortti"; 
@@ -60,6 +81,9 @@
 
 /* Sort by distance */
 "Distance" = "Etäisyys";
+
+/* Option for users if they don't yet have a SkedGo account */
+"Don't have an account? Sign up" = "Don't have an account? Sign up"; // TODO
 
 /* Keyboard accessory button title */
 "Done" = "Valmis";
@@ -86,6 +110,9 @@
 /* Credit card expiry date */
 "Expiry Date" = "Kortin voimassaolo";
 
+/* No comment provided by engineer. */
+"First name" = "First name"; // TODO
+
 /* Option that allows users to indicate whether reminder is needed */
 "For when to leave" = "Muistutus"; 
 
@@ -110,8 +137,21 @@
 /* Instant results proposal */
 "Instant results" = "Suorat tulokset";
 
+/* Title for alert that indicates the user account has become invalid */
+"Invalid account" = "Invalid account"; // TODO
+
 /* Name placeholder text */
 "John Appleseed" = "Malli Matkaaja"; 
+
+/* No comment provided by engineer. */
+"Last name" = "Last name"; // TODO
+
+/* Used when user signs in using Facebook */
+"Linking Facebook" = "Linking Facebook"; // TODO
+
+/* Location name
+   Title for location search screen */
+"Location" = "Location"; // TODO
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Sijaintipalveluja tarvitaan tähän ominaisuuteen. Mene laitteen Asetukset> Tietosuoja> Sijaintipalvelut ja varmista, että ne ovat päällä ja valtuuttavat TripGon käyttämään niitä.";
@@ -194,12 +234,18 @@
 /* Type of vehicle : motorbike */
 "Motorbike" = "Moottoripyörä";
 
+/* Title for view that shows the summary of a user's account information */
+"My account" = "My account"; // TODO
+
 /* Name to which receipt is sent
    Sort by name */
 "Name" = "Nimi";
 
 /* Never in context of repetitions (especially recurring events) */
 "Never" = "Ei koskaan";
+
+/* Title for sign in view when user does not have an account */
+"New account" = "New account"; // TODO
 
 /* Button title to complete this step and advance to next
    Keyboard accessory button title to complete this step and advance to next */
@@ -215,6 +261,7 @@
 "NumberReccurences" = "%lu kertaa.";
 
 /* Authorisation ok button
+   Default title for button that dismisses alert view
    Error alert cancel */
 "OK" = "OK";
 
@@ -233,8 +280,14 @@
 /* Section title for Paypal payment */
 "Paypal" = "Paypal"; 
 
+/* Please select a location prompt */
+"Please select a location" = "Please select a location"; // TODO
+
 /* Error recovery suggestion when GPS fails. */
 "Please try again or set your location manually." = "GPS haku epäonnistui, yritä uudelleen tai syötä sijainti manuaalisesti.";
+
+/* Please verify the location prompt */
+"Please verify the location" = "Please verify the location"; // TODO
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "Paina 'Etsi' lisätuloksiin  ...";
@@ -275,11 +328,39 @@
 /* Tap to set location */
 "SetLocation" = "Napauta asettaaksesi sijainti";
 
+/* No comment provided by engineer. */
+"Sign in" = "Sign in"; // TODO
+
+/* Instruction for signing out user account */
+"Sign out" = "Sign out"; // TODO
+
+/* No comment provided by engineer. */
+"Sign up" = "Sign up"; // TODO
+
+/* No comment provided by engineer. */
+"Sign up cannot be completed without a valid password" = "Sign up cannot be completed without a valid password"; // TODO
+
+/* Message that indicates the app is signing users into their user accounts */
+"Signing in" = "Signing in"; // TODO
+
+/* Message that indicates the app has successfully completed signing out
+   Message that indicates the app is signing users out of their accounts */
+"Signing out" = "Signing out"; // TODO
+
 /* Short indicator of start-time */
 "starts at %@" = "Alkaa klo %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "SUV";
+
+/* Accessibility - user location button - off */
+"Tracking - off" = "Seuranta - pois";
+
+/* user location button - follow */
+"Tracking - on" = "Seuranta - päällä";
+
+/* user location button - follow with heading */
+"Tracking - on with heading" = "Seuranta - päällä (sis. suunto)";
 
 /* No comment provided by engineer. */
 "Unknown error" = "Unknown error"; // TODO

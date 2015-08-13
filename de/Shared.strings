@@ -1,11 +1,20 @@
+/* Message that indicates the app is about to sign users out of their user accounts */
+" The app will now sign out" = " Ausloggen...";
+
 /* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Zugriff zu diesem Feature wurde eingeschränkt. Bitte überprüfe die Einstellungen-App unter Allgemein > Einschränkungen.";
 
 /* Accessibility label for action button */
 "Action" = "Action";
 
+/* Default title for alert view */
+"Alert" = "Warnung";
+
 /* Indicator that an event is all-day */
 "all-day" = "ganztägig";
+
+/* Option for users if they already owned a SkedGo account */
+"Already have an account? Sign in" = "Hast du bereits einen Account? Einloggen...";
 
 /* Estimated time of arrival */
 "ArrivalTimeIndication" = " (Ankunft ";
@@ -22,11 +31,20 @@
 /* Label for when a service is cancelled. */
 "Cancelled" = "Ausgefallen";
 
+/* No comment provided by engineer. */
+"Cannot proceed without a valid email address" = "E-Mailadresse ist ungültig";
+
 /* Type of vehicle : car */
 "Car" = "Auto";
 
 /* Credit card number */
 "Card No." = "Kartennr.";
+
+/* Instruction for changing password */
+"Change" = "Ändern";
+
+/* Accessibility - user location button - hint */
+"Change tracking options" = "Ortungsoptionen";
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "Haken";
@@ -39,6 +57,9 @@
 
 /* Could not download supported regions warning */
 "CouldNotDownloadSupportedRegions" = "TripGo konnte die Liste der verfügbaren Städte nicht herunterladen. Bitte versuche es später noch einmal.";
+
+/* Message that indicates the app is creating accounts for users */
+"Creating account" = "Account wird erstellt...";
 
 /* Section title for credit card payment */
 "Credit card" = "Kreditkarte";
@@ -60,6 +81,9 @@
 
 /* Sort by distance */
 "Distance" = "Distanz";
+
+/* Option for users if they don't yet have a SkedGo account */
+"Don't have an account? Sign up" = "Du hast noch keinen Account? Anmelden...";
 
 /* Keyboard accessory button title */
 "Done" = "Fertig";
@@ -86,6 +110,9 @@
 /* Credit card expiry date */
 "Expiry Date" = "Expiry Date"; // TODO
 
+/* No comment provided by engineer. */
+"First name" = "Vorname";
+
 /* Option that allows users to indicate whether reminder is needed */
 "For when to leave" = "Vor dem Trip";
 
@@ -110,8 +137,21 @@
 /* Instant results proposal */
 "Instant results" = "Autovervollständigung";
 
+/* Title for alert that indicates the user account has become invalid */
+"Invalid account" = "Account ungültig";
+
 /* Name placeholder text */
 "John Appleseed" = "John Appleseed";
+
+/* No comment provided by engineer. */
+"Last name" = "Nachname";
+
+/* Used when user signs in using Facebook */
+"Linking Facebook" = "Facebook wird kontaktiert...";
+
+/* Location name
+   Title for location search screen */
+"Location" = "Ort";
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Ortungsdienste sind für dieses Feature benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz > Ortungsdiesten > TripGo.";
@@ -194,12 +234,18 @@
 /* Type of vehicle : motorbike */
 "Motorbike" = "Motorrad";
 
+/* Title for view that shows the summary of a user's account information */
+"My account" = "Mein Account";
+
 /* Name to which receipt is sent
    Sort by name */
 "Name" = "Name";
 
 /* Never in context of repetitions (especially recurring events) */
 "Never" = "Niemals";
+
+/* Title for sign in view when user does not have an account */
+"New account" = "Neuer Account";
 
 /* Button title to complete this step and advance to next
    Keyboard accessory button title to complete this step and advance to next */
@@ -215,6 +261,7 @@
 "NumberReccurences" = "%lu Wiederholungen.";
 
 /* Authorisation ok button
+   Default title for button that dismisses alert view
    Error alert cancel */
 "OK" = "OK";
 
@@ -233,8 +280,14 @@
 /* Section title for Paypal payment */
 "Paypal" = "Paypal";
 
+/* Please select a location prompt */
+"Please select a location" = "Bitte wähle einen Ort aus";
+
 /* Error recovery suggestion when GPS fails. */
 "Please try again or set your location manually." = "Bitte erneut versuchen oder Ort manuell auswählen.";
+
+/* Please verify the location prompt */
+"Please verify the location" = "Bitte Ort bestätigen";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "'Suche' für mehr drücken...";
@@ -275,17 +328,45 @@
 /* Tap to set location */
 "SetLocation" = "Ort auswählen";
 
+/* No comment provided by engineer. */
+"Sign in" = "Einloggen";
+
+/* Instruction for signing out user account */
+"Sign out" = "Ausloggen";
+
+/* No comment provided by engineer. */
+"Sign up" = "Anmelden";
+
+/* No comment provided by engineer. */
+"Sign up cannot be completed without a valid password" = "Passwort ungültig";
+
+/* Message that indicates the app is signing users into their user accounts */
+"Signing in" = "Einloggen...";
+
+/* Message that indicates the app has successfully completed signing out
+   Message that indicates the app is signing users out of their accounts */
+"Signing out" = "Ausloggen...";
+
 /* Short indicator of start-time */
 "starts at %@" = "beginnt um %@";
 
 /* Sports utility vehicle abbreviation */
 "SUV" = "Jeep";
 
+/* Accessibility - user location button - off */
+"Tracking - off" = "Ortung - aus";
+
+/* user location button - follow */
+"Tracking - on" = "Ortung - ein";
+
+/* user location button - follow with heading */
+"Tracking - on with heading" = "Ortung - ein, inklusive Richtung";
+
 /* No comment provided by engineer. */
-"Unknown error" = "Unknown error"; // TODO
+"Unknown error" = "Unbekannter Fehler";
 
 /* Message that shows app is updating trip after user finalised bookings */
-"Updating trip" = "Updating trip"; // TODO
+"Updating trip" = "Trip wird aktualisiert...";
 
 /* Message that informs users that some values are missing from the required fields in a booking form. */
 "Values missing from required fields." = "Values missing from required fields."; // TODO

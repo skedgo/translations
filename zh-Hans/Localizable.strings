@@ -87,9 +87,6 @@
 /* No comment provided by engineer. */
 "Ambiguous event address." = "不详细的事件位置.";
 
-/* apple maps directions action */
-"Apple Maps" = "苹果地图";
-
 /* Arrival date+time for overnight stay
    Arrival time sorter title */
 "Arrival" = "到达";
@@ -137,12 +134,6 @@
 "Calendars" = "所有日历";
 
 /* No comment provided by engineer. */
-"Call Taxi" = "叫计程车";
-
-/* Action title for calling provider of %name */
-"CallTaxiFormat" = "联系%@";
-
-/* No comment provided by engineer. */
 "Change time" = "更改时间";
 
 /* clear cache preference */
@@ -162,9 +153,6 @@
 
 /* Error title when TripGo couldn't identify the user's current city. */
 "Could not find your city." = "找不到您所在的城市！";
-
-/* Description for how to redeem the coupon code for ingogo. %couponCode is provided. */
-"CouponCodeIngogoFormat" = "注册时使用优惠券代码'%@'即可折扣$5元 (只适用新注册用户)";
 
 /* Title for critical error */
 "CriticalError" = "严重错误";
@@ -335,14 +323,8 @@
 /* Action button title for getting turn-by-turn directions */
 "Get directions" = "使用导航";
 
-/* No comment provided by engineer. */
-"Get ingogo" = "使用Ingogo";
-
 /* Header for settings for feedback, recommending and rating TripGo */
 "Get Involved" = "使用者参与";
-
-/* No comment provided by engineer. */
-"Get Lyft" = "使用Lyft";
 
 /* No comment provided by engineer. */
 "Get off here" = "从这出发";
@@ -353,23 +335,11 @@
 /* Description for button to get on or off at the selected public transport stop rather than where TripGo suggested. */
 "Get on or off here" = "从这上车或下车";
 
-/* No comment provided by engineer. */
-"Get Sidecar" = "使用Sidecar";
-
-/* No comment provided by engineer. */
-"Get Uber" = "使用Uber";
-
 /* I use TripGo to get around */
 "GetAround" = "我去哪儿都使用TripGo";
 
 /* Message to show when trying to get trip for a favorite */
 "Getting trip..." = "获取行程...";
-
-/* goCatch action */
-"goCatch a Taxi" = "使用goCatch叫计程车";
-
-/* google maps directions action */
-"Google Maps" = "谷歌地图";
 
 /* Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites */
@@ -401,12 +371,6 @@
 
 /* Concession pricing footer */
 "Information on concession pricing is subject to availability." = "取得优惠票价的信息是视情况而定的。";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi" = "Ingogo叫车服务";
-
-/* No comment provided by engineer. */
-"ingogo a Taxi ($5 credit^)" = "使用Ingogo叫计程车 ($5元现金券^)";
 
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "回到今日";
@@ -569,20 +533,11 @@
    Option to use this trip just this time. */
 "Only This" = "仅此事件";
 
-/* No comment provided by engineer. */
-"Open Lyft" = "开启Lyft";
-
-/* No comment provided by engineer. */
-"Open Sidecar" = "开启Sidecar";
-
 /* Error recovery suggestion for favourites with missing location. */
 "Open TripGo app and add the location of this favourite." = "打开TripGo并将当前位置添加到常用中。";
 
 /* Error recovery suggestion for when watch doesn't have access to location services. */
 "Open TripGo or Settings app on your phone and grant TripGo access to location services." = "打开TripGo或者手机设置， 允许TripGo使用地图定位功能。";
-
-/* No comment provided by engineer. */
-"Open Uber" = "开启Uber";
 
 /* Button title to open URL */
 "Open URL" = "开启URL";
@@ -795,9 +750,6 @@
 
 /* Action button title for viewing timetable for public transport */
 "Show timetable" = "显示时刻表";
-
-/* Show website action */
-"Show website" = "开启网站";
 
 /* Show trip */
 "ShowTrip" = "显示旅程";
