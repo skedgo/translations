@@ -1,17 +1,17 @@
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'. */
-"%1$@ early" = "%1$@ early"; // TODO
+"%1$@ early" = "%1$@ etuajassa"; 
 
 /* Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ early (%2$@ service)" = "%1$@ early (%2$@ service)"; // TODO
+"%1$@ early (%2$@ service)" = "%1$@ etuajassa (%2$@ palvelu)"; 
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min' */
-"%1$@ late" = "%1$@ late"; // TODO
+"%1$@ late" = "%1$@ myöhässä"; 
 
 /* Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm'). */
-"%1$@ late (%2$@ service)" = "%1$@ late (%2$@ service)"; // TODO
+"%1$@ late (%2$@ service)" = "%1$@ myöhässä (%2$@ palvelu)"; 
 
 /* Duration without traffic */
-"%@ w/o traffic" = "%@ w/o traffic"; // TODO
+"%@ w/o traffic" = "%@ Ilman ruuhkaa"; 
 
 /* No comment provided by engineer. */
 "1 stop" = "1 pysäkki";
@@ -30,23 +30,23 @@
 
 /* Arrival %time.
    Time arrival */
-"ArrivalTime" = "Ssavu klo %@";
+"ArrivalTime" = "Saavu klo %@";
 
 /* Prefix for selected 'arrive by' time
    Single line instruction to arrive */
-"Arrive" = "Saapu";
+"Arrive" = "Saapuu";
 
 /* Departure time sorter title */
 "Departure" = "Lähtö";
 
 /* Time of the bus departure */
-"DepartureTime" = " klo %@";
+"DepartureTime" = " Klo %@";
 
 /* Destination of the bus */
 "Direction" = "Suunta: %@";
 
 /* Walking time */
-"Duration" = " %@";
+"Duration" = " Kesto %@";
 
 /* Prefix for selected 'leave after' time
    Single line instruction to leave */
@@ -65,19 +65,19 @@
 "LeaveTime" = "Lähde klo %@";
 
 /* No comment provided by engineer. */
-"Live traffic" = "Live traffic"; // TODO
+"Live traffic" = "Live-liikenne"; 
 
 /* ArrivalTime */
-"MessageArrivalTime" = "Saavun %@:iin klo %@.";
+"MessageArrivalTime" = "Saavutaan %@ klo %@.";
 
 /* Indicator to show when a service is on time according to real-time data. */
-"On time" = "On time"; // TODO
+"On time" = "Ajoissa"; 
 
 /* Arrival Location */
-"PrimaryLocationEnd" = "%@:iin";
+"PrimaryLocationEnd" = "Kohde: %@";
 
 /* Departure Location */
-"PrimaryLocationStart" = "%@:stä";
+"PrimaryLocationStart" = "Lähtö: %@";
 
 /* Favorite trip 'to' title */
 "To" = "To"; // TODO
@@ -90,7 +90,7 @@
 "To %@" = "To %@"; // TODO
 
 /* No comment provided by engineer. */
-"Real-time" = "Reaaliaikai";
+"Real-time" = "Reaaliaikainen";
 
 /* Number of stops before you get off a vehicle */
 "Stops" = "%ld  pysäkkiä";
@@ -102,8 +102,8 @@
 "Trip" = "Matka";
 
 /* Vehicle 'x' updated */
-"VehicleCalledUpdated" = "Ajoneuvo %@ päivitty %@ sitten";
+"VehicleCalledUpdated" = "Ajoneuvo %@ päivitetty %@ sitten";
 
 /* Vehicle updated */
-"VehicleUpdated" = "Päivitty %@ sitten";
+"VehicleUpdated" = "Päivitetty %@ sitten";
 
