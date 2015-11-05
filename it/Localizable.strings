@@ -815,9 +815,6 @@
 /* No comment provided by engineer. */
 "Tap to set address or swipe to delete" = "Premi per impostare l'indirizzo o swipe per cancelare";
 
-/* No comment provided by engineer. */
-"Tap to set garage" = "Premi per impostare garage";
-
 /* Description of the terminal */
 "terminalDescription" = "Terminale";
 
