@@ -1,0 +1,78 @@
+# APP TITLE (255 Characters)
+
+TripGo: Calendar-integrated Directions for Train, Bus, Subway, Tram, Bicycle, Taxi, Bike/Car Sharing and more.
+
+
+# SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
+
+- "Knows your schedule. Plans your moves."
+- "All your private and public transports." 
+- "Compare cost, time and carbon." 
+- "Real-time alerts for your trips."
+- "Personalized to your life"
+
+
+# DESCRIPTION
+
+Get directions from A to B and choose the fastest route based on real-time data.
+
+Plan your trip, check timetables and get live service alerts. Connect your calendar to get automatic trips & leave alerts.
+
+Time poor? Money poor? Environment focused? TripGo gives you transport solutions that fit your priorities.
+
+Works in major cities across the US, Canada, Europe & Australia.
+
+
+TRANSPORT MODES:
+
++ Public transport: buses, ferries, subways, trains, trams and more
++ Taxi
++ Shuttle services
++ Car
++ Car Sharing
++ Motorbike
++ Bicycle
++ Bike Sharing
++ Walking
+
+You'll get results for each of those, and also combinations thereof!
+
+
+FEATURES:
+
++ Door-to-door options for easy comparison on price, time and environmental impact
++ Automatic trips between home, work and events in your calendar
++ Real-time driving times for Sydney
++ Real-time transit information
++ Public transport schedules/timetables
++ Plan trips according to your preferences.
++ Get reminders for your upcoming trips—always arrive at your events on time.
++ Pricing for public transport, taxis, tolls and car parks
++ Search for points of interest and businesses
++ Open from Apple Maps
++ Launch turn-by-turn navigation
+
+
+SUPPORTED CITIES:
+
+- Argentina: Bahia Blanca
+- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [**]
+- Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
+- Chile: Santiago
+- England: London, Manchester
+- Finland: Helsinki [*]
+- France: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
+- Germany: Berlin, Potsdam
+- Hungary: Budapest
+- Ireland: Dublin
+- Italy: Milan, Rome, Trentino, Turin
+- Mexico: Mexico City
+- Netherlands: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
+- New Zealand: Auckland, Christchurch [*], Wellington
+- Norway: Oslo, Stavanger
+- Spain: Madrid
+- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Louis, St. Paul, Tampa, Washington DC [*]
+- Vietnam: Ho Chi Minh City
+
+[*] including real-time transit
+[**] including real-time transit & driving
