@@ -252,10 +252,12 @@
   <string name="skip">Siguiente</string>
   <string name="sort_by">Ordenar por</string>
   <string name="sorted_by_arrival">Ordenado por hora de llegada</string>
-  <string name="sorted_by_carbon">Ordenado por Combustible</string>
-  <string name="sorted_by_cost">Ordenado por Costo</string>
+  <string name="sorted_by_carbon">Ordenado por combustible</string>
+  <string name="sorted_by_cost">Ordenado por costo</string>
   <string name="sorted_by_departure">Ordenado por hora de llegada</string>
   <string name="sorted_by_duration">Ordenado por duración</string>
+  <string name="sorted_by_price">Ordenado por precio</string>
+  <string name="sorted_by_preferred">Ordenado por preferencia</string>
   <string name="start_time">Inicio</string>
   <string name="starting_location">Ubicación inicial</string>
   <string name="stops">Paradas</string>
@@ -310,4 +312,6 @@
   <string name="you_are_here">Usted está acá</string>
   <string name="you_havent_selected_loc">No ha seleccionado una ubicación</string>
   <string name="you_r_already_at_s">Usted ya se encuentra en %s!</string>
+  <string name="preferred">Preferencia</string>
+  <string name="price">Precio</string>
 </resources>

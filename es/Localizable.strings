@@ -350,7 +350,7 @@
 "HabitualEventDescription" = "Las Rutinas son parte de su movimiento diario, pero no son eventos que quisiera en el calendario (ej., trabajo). Son importantes para que la funcionalidad Agenda pueda llevarlo al lugar indicado en el momento indicado.";
 
 /* No comment provided by engineer. */
-"Has TripGo been useful to you?" = "¿Te ha servico TripGo?";
+"Has TripGo been useful to you?" = "¿Te ha servido TripGo?";
 
 /* No comment provided by engineer. */
 "History cleared" = "Historial borrado";
@@ -553,7 +553,7 @@
 "Permissions" = "Permisos";
 
 /* Timetable screen title */
-"Pick a Time" = "Elija una hora";
+"Pick a Time" = "Elija un horario";
 
 /* Instruction to users when there are no upcoming trips */
 "Plan a trip on your phone or press firmly to access your favourites." = "Plan a trip on your phone or press firmly to access your favourites."; // TODO
@@ -891,7 +891,7 @@
 "View" = "View"; // TODO
 
 /* View alternative times for this trip */
-"View times" = "Ver horas";
+"View times" = "Ver horarios";
 
 /* Duration button */
 "ViewDurationButton" = "Duración";
