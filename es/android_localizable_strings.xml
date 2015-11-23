@@ -314,4 +314,6 @@
   <string name="you_r_already_at_s">Usted ya se encuentra en %s!</string>
   <string name="preferred">Preferencia</string>
   <string name="price">Precio</string>
+  <string name="origin">origen</string>
+  <string name="destination">destino</string>
 </resources>

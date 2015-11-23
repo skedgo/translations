@@ -335,4 +335,6 @@
     <string name="show_alternatives">Show Alternatives</string>
     <string name="trip_not_fit">Trip does not fit</string>
     <string name="preferred">Preferred</string>
+    <string name="origin">origin</string>
+    <string name="destination">destination</string>
 </resources>
