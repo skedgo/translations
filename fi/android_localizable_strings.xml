@@ -62,7 +62,7 @@
   <string name="show_agenda_list">Näytä agendalistaus</string>
   <string name="delete">Poista</string>
   <string name="coordinates_s">Koordinaatit: %s</string>
-  <string name="network_error">Verkkohäiriö, Ole hyvä ja tarkista Internetyhteys ja kokeile uudestaan/string>
+  <string name="network_error">Verkkohäiriö, Ole hyvä ja tarkista Internetyhteys ja kokeile uudestaan</string>
   <string name="error_sharing_trip">Matkan jakaminen päättyi virheeseen, Ole hyvä ja tarkista verkkoyhteys! </string>
   <string name="exclude_from_routing_brief">Älä sisällytä agendan suunnitteluun </string>
   <string name="settings_category_searching">Etsii</string>
@@ -86,7 +86,7 @@
   <string name="garaged_vehicles_uppercase">AJONEUVOT AUTOTALLISSA</string>
   <string name="repeat_ends_on">Repeat does end on</string> //TODO
   <string name="settings_title_reminder_end_pub_trans">Julkinen liikenne päättyy</string>
-  <string name="go_to_now">Mene kohtaan 'Nyt'</string>
+  <string name="go_to_now">Mene kohtaan \'Nyt\'</string>
   <string name="where_do_you_want_to_go">Minne menet?</string>
   <string name="start_time">Alkaa</string>
   <string name="v4_no_results_found">Tuloksia ei löytynyt</string>
@@ -169,14 +169,14 @@
   <string name="share_a_query">Jaa</string>
   <string name="route_description">Näytä tulokset</string>
   <string name="settings_summary_reminder_service_alerts">Näytä yhteyshälytykset, jotka vaikuttavat tuleviin matkoihin</string>
-  <string name="real_time_enabled">\n Reaaliaikainen tieto saatavilla/string>
+  <string name="real_time_enabled">\n Reaaliaikainen tieto saatavilla</string>
   <string name="setting_summary_trip_preferences">Vaikuta hakutuloksiin asettamalla tärkeimmät matkat ensin</string>
   <string name="destination_location">Kohteen sijainti</string>
   <string name="exclude_cal_act"> </string> //TODO
-  <string name="you_havent_selected_loc">Sijaintia ei ole valittu/string>
+  <string name="you_havent_selected_loc">Sijaintia ei ole valittu</string>
   <string name="segment_image">Osion kuva</string>
   <string name="event_update_warning">Tapahtuma päivitetty, muutosten näkyminen voi viedä hetken</string>
-  <string name="wait_for_search_result">Pahoittelut, ei voida hakea sekä 'Mistä' että "'Mihin' samaan aikaan!</string>
+  <string name="wait_for_search_result">Pahoittelut, ei voida hakea sekä \'Mistä\' että "\'Mihin\' samaan aikaan!</string>
   <string name="route">Reitti</string>
   <string name="remove_uppercase">POISTA</string>
   <string name="might_not_make_this_transfer">On mahdollista, että kyseinen siirtyminen ei onnistu</string>
@@ -217,7 +217,7 @@
   <string name="arrived">Perillä</string>
   <string name="rate">Arvostele</string>
   <string name="view_times">Näytä ajat</string>
-  <string name="alerts"Hälytykset</string>
+  <string name="alerts">Hälytykset</string>
   <string name="settings_title_reminder_start_off_trip">Matkan alku</string>
   <string name="go_to_current_location">Mene nykyiseen sijaintiin</string>
   <string name="set_type">Aseta tyyppi</string>

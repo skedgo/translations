@@ -302,7 +302,7 @@
   <string name="view_timetable">Ver Horarios</string>
   <string name="view_timetable_for_stop">Ver Horarios de próximos servicios</string>
   <string name="view_timetable_subtitle">Próximos servicios</string>
-  <string name="wait_for_search_result">Lo sentimos, no podemos buscar para 'desde' y 'hacia' al mismo tiempo!</string>
+  <string name="wait_for_search_result">Lo sentimos, no podemos buscar para \'desde\' y \'hacia\' al mismo tiempo!</string>
   <string name="waiting_for_gps_fix">Esperando la señal del GPS, si falla, puede intentar desactivando y volviendo a activarel GPS</string>
   <string name="where_are_you_going_from">¿Desde donde quieres ir?</string>
   <string name="where_do_you_want_to_go">¿A donde quieres ir?</string>

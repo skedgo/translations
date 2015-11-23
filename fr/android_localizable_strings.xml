@@ -12,7 +12,7 @@
   <string name="report_problem">Rapporter un problème</string>
   <string name="settings_summary_gps_submit">Allow TripGo to anonymously track your location when you use it (NOT in the background)</string>
   <string name="remove">Supprimer</string>
-  <string name="more_options">Plus d'options</string>
+  <string name="more_options">Plus d\'options</string>
   <string name="waiting_for_gps_fix">Waiting for location signal, if fails, you can try turning your GPS off and on..</string>
   <string name="settings_title_searching_contacts">Search contact addresses</string>
   <string name="get_started">Get Started!</string>
@@ -72,7 +72,7 @@
   <string name="starting_location">Starting location</string>
   <string name="tip_zoom_to_view">Zoom into the map to view public transport stops</string>
   <string name="priority_convenience_subtext">Hassle of the trip</string>
-  <string name="where_are_you_going_from">D'où venez-vous ?</string>
+  <string name="where_are_you_going_from">D\'où venez-vous ?</string>
   <string name="view_location_details">View location details</string>
   <string name="include_from_routing_brief">Add to agenda planning</string>
   <string name="show_agenda_map">Show agenda map</string>
@@ -90,7 +90,7 @@
   <string name="where_do_you_want_to_go">Où voulez-vous aller ?</string>
   <string name="start_time">Starts</string>
   <string name="v4_no_results_found">Aucun résultat trouvé</string>
-  <string name="reminder_added">Ajouté à l'agenda</string>
+  <string name="reminder_added">Ajouté à l\'agenda</string>
   <string name="no_google_play_services_message">This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</string>
   <string name="pick_a_time">Pick a time</string>
   <string name="priority_time">Time</string>
@@ -105,7 +105,7 @@
   <string name="settings_title_walking_speed">Walking speed</string>
   <string name="email_optional">Email (Optional)</string>
   <string name="edit">Edit</string>
-  <string name="remove_reminder">Supprimer de l'Agenda</string>
+  <string name="remove_reminder">Supprimer de l\'Agenda</string>
   <string name="no_favourites_saved">No favorite locations saved</string>
   <string name="Add_vehicles">Add vehicles</string>
   <string name="current_location_outside_region">Sorry, you are outside of TripGo\'s range!</string>
@@ -150,14 +150,14 @@
   <string name="location_save_by_gps">"Cannot find address, location will be saved by GPS coordinates"</string>
   <string name="leave_now">Partir maintenant</string>
   <string name="favourite_removed">Removed from favorites</string>
-  <string name="add_reminder">Ajouter à l'agenda</string>
+  <string name="add_reminder">Ajouter à l\'agenda</string>
   <string name="select_calendars">Select calendars</string>
   <string name="at_least_one_mode">You must select at least one type of transport</string>
   <string name="go_here">Go Here</string>
   <string name="recurrences">recurrences</string>
   <string name="about_tripgo">About TripGo</string>
   <string name="go_to_date">Go to date</string>
-  <string name="today">Aujourd'hui</string>
+  <string name="today">Aujourd\'hui</string>
   <string name="to_location_outside_region">Sorry, destination is outside of TripGo\'s range!</string>
   <string name="settings_summary_shuttle_bus">Show shuttle buses in result list</string>
   <string name="approximately_s_away">Approximately %s away</string>
@@ -312,5 +312,5 @@
   <string name="timetable_download_error">Error downloading services</string>
   <string name="previous">Previous</string>
   <string name="default_text_add_event_item">Add when I\'m here</string>
-  <string name="reminder_removed">Supprimer de l'Agenda</string>
+  <string name="reminder_removed">Supprimer de l\'Agenda</string>
 </resources>

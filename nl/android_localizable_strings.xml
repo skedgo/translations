@@ -155,7 +155,7 @@
   <string name="about_tripgo">Over TripGo</string>
   <string name="go_to_date">Ga naar datum</string>
   <string name="today">Vandaag</string>
-  <string name="to_location_outside_region">Sorry, het eindpunt is buiten TripGo's ondersteund gebied!</string>
+  <string name="to_location_outside_region">Sorry, het eindpunt is buiten TripGo\'s ondersteund gebied!</string>
   <string name="settings_summary_shuttle_bus">Geef shuttle bus weer in resultaten</string>
   <string name="approximately_s_away">Ongeveer % ver weg</string>
   <string name="enable_calendar_in_tripgo_settings">Alle kalenders zijn gedeactiveerd, ga naar de instellingen om deze te activeren</string>
