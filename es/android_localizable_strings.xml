@@ -3,6 +3,7 @@
   <string name="about">Acerca de</string>
   <string name="about_tripgo">Acerca de TripGo</string>
   <string name="acknowledgement_feedback">Gracias por sus comentarios!</string>
+  <string name="add">Agregar</string>
   <string name="add_a_routine">Agregar una rutina</string>
   <string name="add_an_event">Agregar un evento</string>
   <string name="add_location">Agregar una ubicación</string>
@@ -145,6 +146,7 @@
   <string name="outside_region_error">Lo siento, esa ubicación está fuera del aclance de TripGo!</string>
   <string name="page_between_upcoming_services">Página entre los próximos servicios</string>
   <string name="page_title_save">Grabar</string>
+  <string name="save">Grabar</string>
   <string name="page_title_timetables">Horarios</string>
   <string name="page_title_welcome">Bienvenido!</string>
   <string name="pick_a_time">Elija una hora</string>
@@ -316,4 +318,6 @@
   <string name="price">Precio</string>
   <string name="origin">origen</string>
   <string name="destination">destino</string>
+  <string name="my_vehicle_name">Nombre de mi vehículo</string>
+  <string name="add_vehicles">Agregar vehículos</string>
 </resources>

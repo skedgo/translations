@@ -128,7 +128,7 @@
 "PrimaryLocationStart" = "Desde %@";
 
 /* Favorite trip 'to' title */
-"To" = "To"; // TODO
+"To" = "A";
 
 /* 'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park */
 "PrimaryLocationStationary" = "En %@";

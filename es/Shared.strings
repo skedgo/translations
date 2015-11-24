@@ -1,4 +1,5 @@
 /* Message that indicates the app is about to sign users out of their user accounts */
+/* Message that indicates the app is about to sign users out of their user accounts */
 " The app will now sign out" = " The app will now sign out"; // TODO
 
 /* Authorization restricted alert message */
