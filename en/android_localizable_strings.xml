@@ -337,4 +337,8 @@
     <string name="preferred">Preferred</string>
     <string name="origin">origin</string>
     <string name="destination">destination</string>
+
+    <string name="exclude_event">Exclude event</string>
+    <string name="title_exclude_event_from_route">Exclude event from Routes?</string>
+    <string name="body_exclude_this_event_from_route">This event will no longer have trips to or from it. The event will still be shown</string>
 </resources>

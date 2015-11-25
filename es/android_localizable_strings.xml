@@ -320,4 +320,8 @@
   <string name="destination">destino</string>
   <string name="my_vehicle_name">Nombre de mi vehículo</string>
   <string name="add_vehicles">Agregar vehículos</string>
+
+  <string name="exclude_event">Excluír evento</string>
+  <string name="title_exclude_event_from_route">¿Excluír el evento de las rutas?</string>
+  <string name="body_exclude_this_event_from_route">Este evento no tendrá viajes desde y hace él. El evento se seguirá mostrando</string>
 </resources>
