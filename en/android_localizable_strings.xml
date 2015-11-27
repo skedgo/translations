@@ -341,4 +341,18 @@
     <string name="exclude_event">Exclude event</string>
     <string name="title_exclude_event_from_route">Exclude event from Routes?</string>
     <string name="body_exclude_this_event_from_route">This event will no longer have trips to or from it. The event will still be shown</string>
+
+    <string name="add_to_home_screen">Add to Home screen</string>
+    <string name="remove_shortcut">Remove shortcut</string>
+    <string name="cannot_remove_shortcut">Cannot remove shortcut</string>
+
+    <string name="settings_title_map_type">Map type</string>
+
+    <string name="news">News</string>
+
+    <string name="review_eula">Review EULA</string>
+    <string name="eula_has_changed">Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</string>
+    <string name="agree">Agree</string>
+    <string name="view">View</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
 </resources>

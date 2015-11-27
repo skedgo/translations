@@ -209,6 +209,7 @@
   <string name="settings_category_results">Resultados de Viajes</string>
   <string name="settings_category_searching">Buscando</string>
   <string name="settings_category_usage">Seguimiento de datos anónimo</string>
+  <string name="settings_category_about">Acerca de</string>
   <string name="settings_summary_auto_faves">Calcular automáticamente los viajes a sus lugares favoritos</string>
   <string name="settings_summary_cycling_speed">Vel. en bici</string>
   <string name="settings_summary_distance_units">Unidades de distancia para utilizar en los viajes</string>
@@ -242,6 +243,7 @@
   <string name="settings_title_transfer_time">Tiempo de transferencia mínimo</string>
   <string name="settings_title_version">Versión</string>
   <string name="settings_title_walking_speed">Vel. caminando</string>
+  <string name="settings_title_rate">Calificar</string>
   <string name="share_a_query">Compartir</string>
   <string name="share_this_result">Compartir resultado</string>
   <string name="share_this_trip">Compartir viaje</string>
@@ -324,4 +326,19 @@
   <string name="exclude_event">Excluír evento</string>
   <string name="title_exclude_event_from_route">¿Excluír el evento de las rutas?</string>
   <string name="body_exclude_this_event_from_route">Este evento no tendrá viajes desde y hace él. El evento se seguirá mostrando</string>
+
+  <string name="add_to_home_screen">Agregar en la pantalla de inicio</string>
+  <string name="remove_shortcut">Remover acceso directo</string>
+  <string name="cannot_remove_shortcut">No es posible remover el acceso directo</string>
+
+  <string name="settings_title_map_type">Tipo de Mapa</string>
+  <string name="settings_title_cycling_speed">Vel. en bicicleta</string>
+
+  <string name="news">Noticias</string>
+
+  <string name="review_eula">Revisar EULA</string>
+  <string name="eula_has_changed">Nuestro Acuerdo de Licencia con el Usuario Final (End User Licence Agreement) ha cambiado. Debe acordar la misma antes de continuar usando esta aplicación.</string>
+  <string name="agree">Acordar</string>
+  <string name="view">Ver</string>
+  <string name="terms_and_conditions">Terminos y Condiciones</string>
 </resources>
