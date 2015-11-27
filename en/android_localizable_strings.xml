@@ -390,4 +390,10 @@
     <string name="failed_2_resolve_location">Failed to resolve location</string>
     <string name="failed_2_resolve_link">Failed to resolve link</string>
 
+    <string name="your_trip_is_about_to_start">Your trip is about to start</string>
+    <string name="trip_to">Trip to </string>
+    <string name="its_time_to_leave">It\'s time to leave!</string>
+    <string name="first">First: </string>
+
+
 </resources>

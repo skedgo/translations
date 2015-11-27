@@ -110,7 +110,7 @@
 "MessageArrivalTime" = "Voy a llegar a %@ a las %@.";
 
 /* Indicator to show when a service is on time according to real-time data. */
-"On time" = "On time"; // TODO
+"On time" = "A tiempo";
 
 /* No comment provided by engineer. */
 "Open Lyft" = "Abrir Lyft";
