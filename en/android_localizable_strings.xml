@@ -60,6 +60,8 @@
     <string name="arrive_by">Arrive by</string>
     <string name="set_time">Set time</string>
     <string name="navigate">Navigate</string>
+    <string name="navigate_current_location">Navigate from current location</string>
+    <string name="navigate_from">Navigate from </string>
     <string name="public_transport">Public Transport</string>
     <string name="car">Car</string>
     <string name="taxi">Taxi</string>
@@ -306,6 +308,7 @@
     <string name="agenda_times_uppercase">AGENDA TIMES</string>
     <string name="times_uppercase">TIMES</string>
     <string name="Add_vehicles">Add vehicles</string>
+    <string name="new_vehicle">New vehicle</string>
     <string name="garaged_vehicles_uppercase">GARAGED VEHICLES</string>
     <string name="location_name_normal_case">Location name</string>
     <string name="location_name_uppercase">LOCATION NAME</string>
@@ -342,6 +345,26 @@
     <string name="title_exclude_event_from_route">Exclude event from Routes?</string>
     <string name="body_exclude_this_event_from_route">This event will no longer have trips to or from it. The event will still be shown</string>
 
+    <string name="body_exclude_following_event_from_route">The event after the trip will be excluded. It will still be shown</string>
+    <string name="body_exclude_leading_event_from_route">The event before the trip will be excluded. It will still be shown</string>
+    <string name="body_exclude_related_event_from_route">The event related to the trip will be excluded. It will still be shown</string>
+    <string name="v4_agenda_set_or_delete">Tap here to set address or long-press to delete</string>
+    <string name="v4_agenda_add_stopover">Add stopover…</string>
+
+    <string name="service">Service</string>
+    <string name="late">late</string>
+    <string name="early">early</string>
+    <string name="on_time">On time</string>
+
+    <string name="one_more_thing">One more thing…</string>
+    <string name="search_instantly">Search instantly</string>
+    <string name="lets_start">Let\'s start</string>
+    <string name="walkthrough_1">TripGo helps you finding the best way from A to B using any transport mode.</string>
+    <string name="walkthrough_2">Never run late. Agenda plans ahead for you and let\'s you know when you need to leave.</string>
+    <string name="walkthrough_3">For those without an agenda, save favorite places.</string>
+    <string name="walkthrough_4">Search routes directly right from Google search bar without opening TripGo.</string>
+    <string name="booking">Booking</string>
+
     <string name="add_to_home_screen">Add to Home screen</string>
     <string name="remove_shortcut">Remove shortcut</string>
     <string name="cannot_remove_shortcut">Cannot remove shortcut</string>
@@ -355,4 +378,16 @@
     <string name="agree">Agree</string>
     <string name="view">View</string>
     <string name="terms_and_conditions">Terms and Conditions</string>
+
+    <string name="transport_selector_header">Include on the route results</string>
+
+    <string name="all_alerts">All Alerts</string>
+
+    <string name="delete_vehicle">Delete this vehicle</string>
+
+    <string name="routes_updated">Routes updated</string>
+    <string name="location_not_found">Location Not Found</string>
+    <string name="failed_2_resolve_location">Failed to resolve location</string>
+    <string name="failed_2_resolve_link">Failed to resolve link</string>
+
 </resources>

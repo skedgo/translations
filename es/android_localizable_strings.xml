@@ -61,7 +61,7 @@
   <string name="duration_without_traffic">%s sin tráfico</string>
   <string name="edit">Editar</string>
   <string name="edit_event">Editar evento</string>
-  <string name="edit_favourite">Editar favoritos</string>
+  <string name="edit_favourite">Editar favorito</string>
   <string name="email_optional">Email (Opcional)</string>
   <string name="empty_event_not_saved">El evento vacío no fue guardado</string>
   <string name="end_time">Termina</string>
@@ -130,6 +130,8 @@
   <string name="mph">Mph</string>
   <string name="name_normal_case">Nombre</string>
   <string name="navigate">Navegar</string>
+  <string name="navigate_current_location">Navegar desde la ubicación actual</string>
+  <string name="navigate_from">Navegar desde </string>
   <string name="network_error">Error de red, por favor, verifique su conexión a Internet y vuelva a intentarlo</string>
   <string name="never">Nunca</string>
   <string name="next">Siguiente</string>
@@ -322,10 +324,31 @@
   <string name="destination">destino</string>
   <string name="my_vehicle_name">Nombre de mi vehículo</string>
   <string name="add_vehicles">Agregar vehículos</string>
+  <string name="new_vehicle">Nuevo vehículo</string>
 
   <string name="exclude_event">Excluír evento</string>
   <string name="title_exclude_event_from_route">¿Excluír el evento de las rutas?</string>
   <string name="body_exclude_this_event_from_route">Este evento no tendrá viajes desde y hace él. El evento se seguirá mostrando</string>
+
+  <string name="body_exclude_following_event_from_route">El evento después del viaje será excluído. El evento se seguirá mostrando</string>
+  <string name="body_exclude_leading_event_from_route">El evento antes del viaje será excluído. El evento se seguirá mostrando</string>
+  <string name="body_exclude_related_event_from_route">El evento relacionado al viaje será excluído. El evento se seguirá mostrando</string>
+  <string name="v4_agenda_set_or_delete">Presiona aquí para definir la dirección o presione prolongadamente para eliminar</string>
+  <string name="v4_agenda_add_stopover">Add stopover…</string>
+
+  <string name="service">Servicio</string>
+  <string name="late">tarde</string>
+  <string name="early">de anteicipación</string>
+  <string name="on_time">On time</string>
+
+  <string name="one_more_thing">Una cosa más…</string>
+  <string name="search_instantly">Búsqueda instantánea</string>
+  <string name="lets_start">Comencemos</string>
+  <string name="walkthrough_1">TripGo te ayuda a encontrar la mejor forma de ir desde A hasta B usando cualquier modo de transporte.</string>
+  <string name="walkthrough_2">Nunca llegues tarde. La agenda planifica por adelantado y te indica cuando debes partir.</string>
+  <string name="walkthrough_3">Para aquellos sin agenda, guarda locaciones favoritas.</string>
+  <string name="walkthrough_4">Busca rutas directamente desde la barra de búsqueda de Google sin abrir TripGo.</string>
+  <string name="booking">Reservas</string>
 
   <string name="add_to_home_screen">Agregar en la pantalla de inicio</string>
   <string name="remove_shortcut">Remover acceso directo</string>
@@ -341,4 +364,16 @@
   <string name="agree">Acordar</string>
   <string name="view">Ver</string>
   <string name="terms_and_conditions">Terminos y Condiciones</string>
+
+  <string name="transport_selector_header">Incluir en los resultados de ruta</string>
+
+  <string name="all_alerts">Todas las Alertas</string>
+
+  <string name="delete_vehicle">Borrar este vehículo</string>
+
+  <string name="routes_updated">Routas actualizadas</string>
+  <string name="location_not_found">Ubicación no encontrada</string>
+  <string name="failed_2_resolve_location">No se pudo resolver la ubicación</string>
+  <string name="failed_2_resolve_link">No se pudo resolver el enlace</string>
+
 </resources>
