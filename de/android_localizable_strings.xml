@@ -99,7 +99,6 @@
   <string name="settings_summary_track_usage">Allow TripGo to anonymously track your app usage</string> // TODO
   <string name="settings_title_gps_submit">Track Location</string> // TODO
   <string name="settings_title_server">Server</string> // TODO
-  <string name="settings_summary_server">Server to use. Note this will override *ALL* server calls!</string> // TODO
   <string name="about">About</string> // TODO
   <string name="settings_title_version">Version</string> // TODO
   <string name="rate">Rate</string> // TODO
@@ -111,7 +110,6 @@
   <string name="sorted_by_departure">Sorted by Departure</string> // TODO
   <string name="sorted_by_price">Sorted by Price</string> // TODO
   <string name="sorted_by_duration">Sorted by Duration</string> // TODO
-  <string name="transport">Transport</string> // TODO
 
   <!-- Needs translation END -->
 
@@ -358,4 +356,5 @@
   <string name="previous">Previous</string>
   <string name="reminder_removed">Von der Agenda gelöscht</string>
 
+  <string name="settings_summary_server">Server to use. Note this will override *ALL* server calls!</string>
 </resources>
