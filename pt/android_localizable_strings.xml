@@ -335,7 +335,7 @@
     <string name="origin">origin</string> // TODO
     <string name="destination">destination</string> // TODO
     <string name="navigate_current_location">Navigate from current location</string> // TODO
-    <string name="navigate_from">Navigate from </string> // TODO
+    <string name="navigate_from">Navigate from %1$s</string> // TODO
     <string name="new_vehicle">New vehicle</string> // TODO
     <string name="my_vehicle_name">My vehicle name</string> // TODO
     <string name="add">Add</string> // TODO

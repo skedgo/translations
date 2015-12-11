@@ -57,7 +57,7 @@
     <string name="set_time">Set time</string>
     <string name="navigate">Navigate</string>
     <string name="navigate_current_location">Navigate from current location</string>
-    <string name="navigate_from">Navigate from </string>
+    <string name="navigate_from">Navigate from %1$s</string>
     <string name="public_transport">Public Transport</string>
     <string name="car">Car</string>
     <string name="taxi">Taxi</string>

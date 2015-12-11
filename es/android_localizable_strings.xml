@@ -131,7 +131,7 @@
   <string name="name_normal_case">Nombre</string>
   <string name="navigate">Navegar</string>
   <string name="navigate_current_location">Navegar desde la ubicación actual</string>
-  <string name="navigate_from">Navegar desde </string>
+  <string name="navigate_from">Navegar desde %1$s</string>
   <string name="network_error">Error de red, por favor, verifique su conexión a Internet y vuelva a intentarlo</string>
   <string name="never">Nunca</string>
   <string name="next">Siguiente</string>
