@@ -326,8 +326,6 @@
   <string name="v4_agenda_set_or_delete">Tap here to set address or long-press to delete</string> // TODO
   <string name="v4_agenda_add_stopover">Add stopover…</string> // TODO
   <string name="service">Service</string> // TODO
-  <string name="late">late</string> // TODO
-  <string name="early">early</string> // TODO
   <string name="one_more_thing">One more thing…</string> // TODO
   <string name="search_instantly">Search instantly</string> // TODO
   <string name="lets_start">Let\'s start</string> // TODO

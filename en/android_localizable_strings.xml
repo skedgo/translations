@@ -348,8 +348,6 @@
     <string name="v4_agenda_add_stopover">Add stopover…</string>
 
     <string name="service">Service</string>
-    <string name="late">late</string>
-    <string name="early">early</string>
     <string name="on_time">On time</string>
 
     <string name="one_more_thing">One more thing…</string>
@@ -390,6 +388,7 @@
     <string name="trip_to">Trip to </string>
     <string name="its_time_to_leave">It\'s time to leave!</string>
     <string name="first">First: </string>
-
+    <string name="my_vehicle_name">My vehicle name</string>
+    <string name="add">Add</string>
 
 </resources>
