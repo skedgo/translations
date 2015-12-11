@@ -212,8 +212,6 @@
   <string name="settings_category_searching">Buscando</string>
   <string name="settings_category_usage">Seguimiento de datos anónimo</string>
   <string name="settings_category_about">Acerca de</string>
-  <string name="settings_summary_auto_faves">Calcular automáticamente los viajes a sus lugares favoritos</string>
-  <string name="settings_summary_cycling_speed">Vel. en bici</string>
   <string name="settings_summary_distance_units">Unidades de distancia para utilizar en los viajes</string>
   <string name="settings_summary_gps_submit">Permitir a TripGo realizar un seguimiento de forma anónima de su ubicación cuando lo utiliza (NO en segundo plano)</string>
   <string name="settings_summary_rate">Califica la aplicación en la tienda!</string>
@@ -221,11 +219,9 @@
   <string name="settings_summary_reminder_service_alerts">Mostrar alertas de servicios que afectan sus próximos viajes</string>
   <string name="settings_summary_reminder_start_off_trip">Mostrar un alerta para salir al inicio de un viaje</string>
   <string name="settings_summary_reminder_start_pub_trans">Mostrar un alerta previo a cualqueir transporte público en su viaje</string>
-  <string name="settings_summary_school_bus">Mostrar autobúses escolares en la lista de resultados</string>
   <string name="settings_summary_searching_calendar">Utilice sus próximos eventos del calendario como sugerencias de ubicación. Esta información no se almacena en ningún servidor</string>
   <string name="settings_summary_searching_contacts">Utilice sus direcciones de contacto como sugerencias de ubicación. Esta información no se almacena en ningún servidor</string>
   <string name="settings_summary_server">Servidor a utilizar. Recuerda que esto será utilizado para *TODOS* los requerimientos</string>
-  <string name="settings_summary_shuttle_bus">Mostrar servicios de traslado en la lista de resultados</string>
   <string name="settings_summary_track_usage">Permitir a TripGo realizar un seguimiento de forma anónima del uso de la aplicación</string>
   <string name="settings_summary_transfer_time">Tiempo de transferencia mínimo en minutos</string>
   <string name="settings_title_auto_faves">Favoritos Automáticos</string>

@@ -66,7 +66,6 @@
   <string name="error_sharing_trip">Matkan jakaminen päättyi virheeseen, Ole hyvä ja tarkista verkkoyhteys! </string>
   <string name="exclude_from_routing_brief">Älä sisällytä agendan suunnitteluun </string>
   <string name="settings_category_searching">Etsii</string>
-  <string name="settings_summary_school_bus">Näytä koulubussit tuloksissa</string>
   <string name="go_to_here">Mene tänne</string>
   <string name="view_on_yelp">Näytä Yelpissä</string>
   <string name="starting_location">Aloitussijainti</string>
@@ -131,7 +130,6 @@
   <string name="setting_title_trip_preferences">Omat painopisteeni</string>
   <string name="settings">Asetukset</string>
   <string name="include_cal_act">Sisällytä valitut kalenterit</string>
-  <string name="settings_summary_cycling_speed">Pyörän vauhti</string>
   <string name="settings_title_auto_faves">Automaattiset suosikit</string>
   <string name="location_missing">Puuttuva sijainti</string>
   <string name="time_of_trip">Matkan ajankohta</string>
@@ -159,7 +157,6 @@
   <string name="go_to_date">Mene päivämäärään</string>
   <string name="today">Tänään</string>
   <string name="to_location_outside_region">Pahoittelut, kohde on TripGon ulkopuolella!</string>
-  <string name="settings_summary_shuttle_bus">Näytä reittiliikennebussit tuloksissa</string>
   <string name="approximately_s_away">Noin %s päässä</string>
   <string name="enable_calendar_in_tripgo_settings">Kaikki kalenterit ovat pois päältä TripGossa, Ole hyvä ja aktivoi ne Asetuksissa</string>
   <string name="edit_favourite">Muokkaa suosikkia</string>
@@ -198,7 +195,6 @@
   <string name="call">Kutsu</string>
   <string name="share_timetable">Jaa aikataulun tiedot</string>
   <string name="change_stop_message">Nouse kyytiin tai jää pois %s täällä sen sijaan?</string>
-  <string name="settings_summary_auto_faves">Laske automaattisesti matkat suosikkisijainteihisi</string>
   <string name="sorted_by_price">Lajiteltu hinnan mukaan</string>
   <string name="location_name_uppercase">SIJANNIN NIMI</string>
   <string name="sorted_by_duration">Lajiteltu keston mukaan</string>
@@ -322,7 +318,7 @@
   <string name="my_vehicle_name">My vehicle name</string> // TODO
   <string name="add">Add</string> // TODO
   <string name="exclude_event">Exclude event</string> // TODO
-  <string name="title_exclude_event_from_route">Exclude event from Routes?</string> // TODO
+  <string name="title_exclude_event_from_route">Exclude event from routes?</string> // TODO
   <string name="body_exclude_this_event_from_route">This event will no longer have trips to or from it. The event will still be shown</string> // TODO
   <string name="body_exclude_following_event_from_route">The event after the trip will be excluded. It will still be shown</string> // TODO
   <string name="body_exclude_leading_event_from_route">The event before the trip will be excluded. It will still be shown</string> // TODO
@@ -349,7 +345,7 @@
   <string name="eula_has_changed">Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</string> // TODO
   <string name="agree">Agree</string> // TODO
   <string name="terms_and_conditions">Terms and Conditions</string> // TODO
-  <string name="transport_selector_header">Include on the route results</string> // TODO
+  <string name="transport_selector_header">Include in the route results</string> // TODO
   <string name="all_alerts">All Alerts</string> // TODO
   <string name="delete_vehicle">Delete this vehicle</string> // TODO
   <string name="routes_updated">Routes updated</string> // TODO

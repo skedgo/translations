@@ -24,11 +24,7 @@
     <string name="settings_summary_rate">Rate the app in the store!</string>
     <string name="setting_summary_trip_preferences">Influence trip results by setting what\'s most important to you</string>
     <string name="settings_summary_transfer_time">Minimum transfer time in minutes</string>
-    <string name="settings_summary_cycling_speed">Cycling speed</string>
-    <string name="settings_summary_school_bus">Show school buses in result list</string>
-    <string name="settings_summary_shuttle_bus">Show shuttle buses in result list</string>
     <string name="settings_summary_distance_units">Distance units to use in trip results</string>
-    <string name="settings_summary_auto_faves">Automatically calculate trips to your favorite locations</string>
     <string name="settings_summary_reminder_start_off_trip">Show an alert to leave at the start of a trip</string>
     <string name="settings_summary_reminder_start_pub_trans">Show an alert before any public transport on your trip</string>
     <string name="settings_summary_reminder_end_pub_trans">Show an alert towards the end of any public transport on your trip</string>
@@ -342,7 +338,7 @@
     <string name="destination">destination</string>
 
     <string name="exclude_event">Exclude event</string>
-    <string name="title_exclude_event_from_route">Exclude event from Routes?</string>
+    <string name="title_exclude_event_from_route">Exclude event from routes?</string>
     <string name="body_exclude_this_event_from_route">This event will no longer have trips to or from it. The event will still be shown</string>
 
     <string name="body_exclude_following_event_from_route">The event after the trip will be excluded. It will still be shown</string>
@@ -379,7 +375,7 @@
     <string name="view">View</string>
     <string name="terms_and_conditions">Terms and Conditions</string>
 
-    <string name="transport_selector_header">Include on the route results</string>
+    <string name="transport_selector_header">Include in the route results</string>
 
     <string name="all_alerts">All Alerts</string>
 
