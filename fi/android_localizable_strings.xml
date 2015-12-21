@@ -192,7 +192,6 @@
   <string name="set_type">Aseta tyyppi</string>
   <string name="an_unexpected_network_error">Tapahtui odottamaton verkkovirhe. Ole hyvä, yritä uudelleen.</string>
   <string name="v4_drop_a_pin">Pudota merkki</string>
-  <string name="at">" at "</string> //TODO
   <string name="no_google_play_services_title">Ei Google Play palveluita!</string>
   <string name="settings_category_usage">Anonyymi datan seuranta</string>
   <string name="v4_agenda">Agenda</string>
@@ -226,7 +225,7 @@
   <string name="get_transit_plus">Hae</string>
   <string name="nicely_informed_error">Tapahtui virhe, josta saimmme ilmoituksen. Ole hyvä, ja kokeile uudestaan.</string>
   <string name="sort_by">Lajittele</string>
-  <string name="time_to_leave_for">Aika lähteä</string>
+  <string name="time_to_leave_for">Aika lähteä %s</string>
   <string name="location_example">Koulu, työ, ...</string>
   <string name="taxi">Taksi</string>
   <string name="settings_summary_searching_contacts">Käytä yhteystietojesi osoitteita sijaintisuosituksiin. Nämä tiedot eivät ole tallennettuna mihinkään palvelimille</string>

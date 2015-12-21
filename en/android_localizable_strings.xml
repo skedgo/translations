@@ -5,7 +5,6 @@
     <string name="add_an_event">Add an event</string>
     <string name="add_location">Add Location</string>
     <string name="add_new_location">Add new location</string>
-    <string name="agenda_add_stopover">Add stopover…</string>
     <string name="add_to_contacts">Add to contacts</string>
     <string name="add_to_home_screen">Add to Home screen</string>
     <string name="add_vehicles">Add vehicles</string>
@@ -17,7 +16,6 @@
     <string name="all_cals_invisible">All your calendars are invisible, please switch them on in native calendar app or account settings</string>
     <string name="an_unexpected_network_error">An unexpected network error has occurred. Please retry.</string>
     <string name="approximately_s_away">Approximately %s away</string>
-    <string name="at">" at "</string> <!-- TODO: remove, it should be replaced by formatted string -->
     <string name="body_exclude_related_event_from_route">The event related to the trip will be excluded. It will still be shown</string>
     <string name="body_exclude_this_event_from_route">This event will no longer have trips to or from it. The event will still be shown</string>
     <string name="booking">Booking</string>
@@ -154,7 +152,7 @@
     <string name="taxi">Taxi</string>
     <string name="terms_and_conditions">Terms and Conditions</string>
     <string name="this_loc">this location</string>
-    <string name="time_to_leave_for">Time to leave for</string><!-- TODO: it should be replaced by formatted string -->
+    <string name="time_to_leave_for">Time to leave for %s</string>
     <string name="timetable_download_error">Error downloading services</string>
     <string name="timetable_no_data">No services found for this stop</string>
     <string name="title_exclude_event_from_route">Exclude event from routes?</string>

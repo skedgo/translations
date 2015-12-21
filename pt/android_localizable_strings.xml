@@ -223,7 +223,6 @@
     <string name="all_calendar_disabled">No calendars enabled in TripGo settings</string>
     <string name="one_time_event">Don\'t repeat</string>
     <string name="go_to_now">Go to Now</string>
-    <string name="at">" at "</string>
     <string name="service_placeholder">Service</string>
     <string name="every_time_min">" every %1$s %2$s"</string>
     <string name="save_to_external_calendar">Save to calendar</string>
@@ -231,7 +230,7 @@
     <string name="empty_event_not_saved">Empty event is not saved</string>
     <string name="from_location_name">From %1$s</string>
     <string name="to_location_name">To %1$s</string>
-    <string name="time_to_leave_for">Time to leave for</string>
+    <string name="time_to_leave_for">Time to leave for %s</string>
     <string name="leave_now_to_make_on_time">Leave now to make it on time</string>
     <string name="trip_to_unknown_dest_about_to_start">It looks like you have a trip to make</string>
     <string name="delete_event">Delete this event</string>

@@ -192,7 +192,6 @@
   <string name="set_type">Set Type</string>
   <string name="an_unexpected_network_error">An unexpected network error has occurred. Please retry.</string>
   <string name="v4_drop_a_pin">Drop a pin</string>
-  <string name="at">" at "</string>
   <string name="no_google_play_services_title">No Google Play Services!</string>
   <string name="settings_category_usage">Anonymous Data Tracking</string>
   <string name="v4_agenda">行程</string>
@@ -226,7 +225,7 @@
   <string name="get_transit_plus">Get</string>
   <string name="nicely_informed_error">There was an error and it was reported to us. Please try again</string>
   <string name="sort_by">Sort By</string>
-  <string name="time_to_leave_for">Time to leave for</string>
+  <string name="time_to_leave_for">Time to leave for %s</string>
   <string name="location_example">School, work, ...</string>
   <string name="taxi">Taxi</string>
   <string name="settings_summary_searching_contacts">Use your contact addresses as location suggestions. This information is not stored on any server</string>

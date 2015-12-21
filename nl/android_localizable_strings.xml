@@ -189,7 +189,6 @@
   <string name="set_type">Stel type in</string>
   <string name="an_unexpected_network_error">Er is onverwachts een netwerk fout opgetreden. Probeer opnieuw.</string>
   <string name="v4_drop_a_pin">Plaats een speld</string>
-  <string name="at">" om "</string>
   <string name="no_google_play_services_title">Geen Google Play Services!</string>
   <string name="settings_category_usage">Anonieme Data Tracking</string>
   <string name="v4_agenda">Agenda</string>
@@ -222,7 +221,7 @@
   <string name="get_transit_plus">Ga naar</string>
   <string name="nicely_informed_error">Er is een fout opgetreden waarvan we zojuist op de hoogte zijn gesteld. Probeer opnieuw</string>
   <string name="sort_by">Sorteer op</string>
-  <string name="time_to_leave_for">Tijd om te vertrekken naar </string>
+  <string name="time_to_leave_for">Tijd om te vertrekken naar %s</string>
   <string name="location_example">School, werk, ...</string>
   <string name="taxi">Taxi</string>
   <string name="settings_summary_searching_contacts">Geef adressen weer uit uw contactenlijst in de zoeksuggesties.</string>

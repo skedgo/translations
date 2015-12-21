@@ -190,7 +190,6 @@
   <string name="set_type">Imposta il tipo</string>
   <string name="an_unexpected_network_error">Si è verificato un errore di rete imprevisto. Riprova.</string>
   <string name="v4_drop_a_pin">Inserici un cursore</string>
-  <string name="at">" a "</string>
   <string name="no_google_play_services_title">No servizi di Google Play!</string>
   <string name="settings_category_usage">Anonima registrazione dei dati</string>
   <string name="v4_agenda">Agenda</string>
@@ -227,7 +226,7 @@
   <string name="get_transit_plus">ottieni</string>
   <string name="nicely_informed_error">Si è verificato un errore ed è stato segnalato a noi. Per favore riprova</string>
   <string name="sort_by">Ordina secondo</string>
-  <string name="time_to_leave_for">Ora di partire per</string>
+  <string name="time_to_leave_for">Ora di partire per %s</string>
   <string name="location_example">Scuola, lavoro, ...</string>
   <string name="taxi">Taxi</string>
   <string name="settings_summary_searching_contacts">Usa i tuoi indirizzi di contatto come suggerimenti per la posizione. Queste informazioni non sono memorizzate su qualsiasi server</string>
