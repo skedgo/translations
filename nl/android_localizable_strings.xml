@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<resources>
-  <?xml version="1.0" encoding="utf-8"?>
   <resources>
     <string name="add">Add</string><!-- TODO -->
     <string name="add_a_routine">Routine toevoegen</string>
@@ -181,5 +178,4 @@
     <string name="you_are_here">U bent hier</string>
     <string name="you_r_already_at_s">U bevindt zich al in %s!</string>
     <string name="your_trip_is_about_to_start">Your trip is about to start</string><!-- TODO -->
-  </resources>
 </resources>
