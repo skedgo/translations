@@ -7,7 +7,6 @@
     <string name="add_new_location">Nieuwe locatie toevoegen</string>
     <string name="add_to_contacts">Voeg toe aan contacten</string>
     <string name="add_to_home_screen">Add to Home screen</string><!-- TODO -->
-    <string name="add_vehicles">Voertuigen toevoegen</string>
     <string name="address">Adres</string>
     <string name="agenda_set_or_delete">Tap here to set address or long-press to delete</string><!-- TODO -->
     <string name="agenda_tip">Vindt uw agenda en favorieten onderaan in de tabs</string>
@@ -23,7 +22,6 @@
     <string name="cannot_find_that_location">Adres niet gevonden</string>
     <string name="cannot_remove_shortcut">Cannot remove shortcut</string><!-- TODO -->
     <string name="cant_call_error">Fout bij verbinden</string>
-    <string name="change_stop_message">Hier %s in - en uitstappen</string>
     <string name="choose_an_alternative">Kies een alternatief</string>
     <string name="coordinates_s">Coordinaten: %s</string>
     <string name="couldnt_find_curr_loc">Huidige locatie kan niet gevonden worden</string>
@@ -71,7 +69,6 @@
     <string name="location_not_found">Location Not Found</string>
     <string name="location_save_by_gps">"Het adres kon niet gevonden worden, de locatie wordt mbv GPS coordinaten opgeslagen"</string>
     <string name="location_selected">Locatie geselecteerd</string>
-    <string name="my_vehicle_name">My vehicle name</string><!-- TODO -->
     <string name="navigate_current_location">Navigate from current location</string><!-- TODO -->
     <string name="navigate_from">Navigate from %1$s</string><!-- TODO -->
     <string name="new_vehicle">New vehicle</string><!-- TODO -->
@@ -166,7 +163,6 @@
     <string name="upcoming_services">Eerstvolgende diensten</string>
     <string name="vehicle_modes">Vervoerswijze</string>
     <string name="view_on_yelp">Bekijk op Yelp</string>
-    <string name="view_timetable">Bekijk Dienstregeling</string>
     <string name="view_timetable_for_stop">Bekijk dienstregeling van opkomende diensten</string>
     <string name="view_timetable_subtitle">Eerstvolgende diensten</string>
     <string name="waiting_for_gps_fix">Wacht op het GPS signaal.. als er geen signaal gevonden wordt kunt u proberen uw GPS uit en aan te zetten.</string>

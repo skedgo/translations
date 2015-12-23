@@ -7,7 +7,6 @@
   <string name="add_new_location">Aggiungi nuova posizione</string>
   <string name="add_to_contacts">Aggiungi a contatti</string>
   <string name="add_to_home_screen">Add to Home screen</string><!-- TODO -->
-  <string name="add_vehicles">Aggiungi veicoli</string>
   <string name="address">indirizzo</string>
   <string name="agenda_set_or_delete">Tap here to set address or long-press to delete</string><!-- TODO -->
   <string name="agenda_tip">Visualizza la tua agenda giornaliera e favoriti nelle schede qui sotto</string>
@@ -23,7 +22,6 @@
   <string name="cannot_find_that_location">Indirizzo non trovato</string>
   <string name="cannot_remove_shortcut">Cannot remove shortcut</string><!-- TODO -->
   <string name="cant_call_error">Errore a collocare la chiamata</string>
-  <string name="change_stop_message">Sagli o scendi %s qui invece?</string>
   <string name="choose_an_alternative">Scegliere un\'alternativa</string>
   <string name="coordinates_s">Coordinate: %s</string>
   <string name="couldnt_find_curr_loc">Impossibile trovare la tua posizione corrente</string>
@@ -71,7 +69,6 @@
   <string name="location_not_found">Location Not Found</string><!-- TODO -->
   <string name="location_save_by_gps">"Non riesci a trovare l\'indirizzo, la posizione sarà salvata dalle coordinate GPS"</string>
   <string name="location_selected">Posizione selezionata</string>
-  <string name="my_vehicle_name">My vehicle name</string><!-- TODO -->
   <string name="navigate_current_location">Navigate from current location</string><!-- TODO -->
   <string name="navigate_from">Navigate from %1$s</string><!-- TODO -->
   <string name="new_vehicle">New vehicle</string><!-- TODO -->
@@ -166,7 +163,6 @@
   <string name="upcoming_services">Prossimi servizi</string>
   <string name="vehicle_modes">Modalità di veicoli</string>
   <string name="view_on_yelp">Visualizza su Yelp</string>
-  <string name="view_timetable">Mostra i orari</string>
   <string name="view_timetable_for_stop">Visualizza orari dei prossimi servizi</string>
   <string name="view_timetable_subtitle">Prossimi servizi</string>
   <string name="waiting_for_gps_fix">In attesa di segnale di posizione, se non riesce, puoi provare a spegnere e riaccendere il tuo GPS..</string>

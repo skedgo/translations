@@ -7,7 +7,6 @@
   <string name="add_new_location">Add new location</string><!-- TODO -->
   <string name="add_to_contacts">Add to contacts</string><!-- TODO -->
   <string name="add_to_home_screen">Add to Home screen</string><!-- TODO -->
-  <string name="add_vehicles">Add vehicles</string><!-- TODO -->
   <string name="address">Address</string><!-- TODO -->
   <string name="agenda_set_or_delete">Tap here to set address or long-press to delete</string><!-- TODO -->
   <string name="agenda_tip">View your daily agenda and favourites in the tabs below</string><!-- TODO -->
@@ -23,7 +22,6 @@
   <string name="cannot_find_that_location">Address not found</string><!-- TODO -->
   <string name="cannot_remove_shortcut">Cannot remove shortcut</string><!-- TODO -->
   <string name="cant_call_error">Error placing call</string><!-- TODO -->
-  <string name="change_stop_message">Get on or off %s here instead?</string><!-- TODO -->
   <string name="choose_an_alternative">Choose an Alternative</string><!-- TODO -->
   <string name="coordinates_s">Coordinates: %s</string><!-- TODO -->
   <string name="couldnt_find_curr_loc">Couldn\'t find your current location</string><!-- TODO -->
@@ -71,7 +69,6 @@
   <string name="location_not_found">Location Not Found</string><!-- TODO -->
   <string name="location_save_by_gps">"Cannot find address, location will be saved by GPS coordinates"</string><!-- TODO -->
   <string name="location_selected">Location selected</string><!-- TODO -->
-  <string name="my_vehicle_name">My vehicle name</string><!-- TODO -->
   <string name="navigate_current_location">Navigate from current location</string><!-- TODO -->
   <string name="navigate_from">Navigate from %1$s</string><!-- TODO -->
   <string name="new_vehicle">New vehicle</string><!-- TODO -->
@@ -149,7 +146,6 @@
   <string name="sorted_by_price">Sorted by Price</string><!-- TODO -->
   <string name="sorted_by_preferred">Sorted by Preferred</string><!-- TODO -->
   <string name="one_more_thing">One more thing…</string><!-- TODO -->
-  <string name="taxi">Taxi</string><!-- TODO -->
   <string name="terms_and_conditions">Terms and Conditions</string><!-- TODO -->
   <string name="this_loc">this location</string><!-- TODO -->
   <string name="time_to_leave_for">Time to leave for %s</string><!-- TODO -->
@@ -166,7 +162,6 @@
   <string name="upcoming_services">Upcoming Services</string><!-- TODO -->
   <string name="vehicle_modes">Vehicle Modes</string><!-- TODO -->
   <string name="view_on_yelp">View on Yelp</string><!-- TODO -->
-  <string name="view_timetable">View Timetable</string><!-- TODO -->
   <string name="view_timetable_for_stop">View timetable of upcoming services</string><!-- TODO -->
   <string name="view_timetable_subtitle">Upcoming services</string><!-- TODO -->
   <string name="waiting_for_gps_fix">Waiting for location signal, if fails, you can try turning your GPS off and on..</string><!-- TODO -->

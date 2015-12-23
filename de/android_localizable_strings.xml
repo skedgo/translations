@@ -7,7 +7,6 @@
   <string name="add_new_location">Add new location</string><!-- TODO -->
   <string name="add_to_contacts">Zu Kontakten hinzufügen</string>
   <string name="add_to_home_screen">Zum Home-Bildschirm hinzufügen</string>
-  <string name="add_vehicles">Add vehicles</string><!-- TODO -->
   <string name="address">Adresse</string>
   <string name="agenda_set_or_delete">Hier tippen um Adresse hinzuzufügen; lange drücken um zu löschen</string>
   <string name="agenda_tip">View your daily agenda and favourites in the tabs below</string><!-- TODO -->
@@ -23,7 +22,6 @@
   <string name="cannot_find_that_location">Address not found</string><!-- TODO -->
   <string name="cannot_remove_shortcut">Verknüpfung nicht löschbar</string>
   <string name="cant_call_error">Error placing call</string><!-- TODO -->
-  <string name="change_stop_message">Get on or off %s here instead?</string><!-- TODO -->
   <string name="choose_an_alternative">Choose an Alternative</string><!-- TODO -->
   <string name="coordinates_s">Coordinates: %s</string><!-- TODO -->
   <string name="couldnt_find_curr_loc">Couldn\'t find your current location</string><!-- TODO -->
@@ -71,7 +69,6 @@
   <string name="location_not_found">Ort nicht gefunden</string>
   <string name="location_save_by_gps">"Cannot find address, location will be saved by GPS coordinates"</string><!-- TODO -->
   <string name="location_selected">Ort ausgewählt</string>
-  <string name="my_vehicle_name">Mein Fahrzeugname</string>
   <string name="navigate_current_location">Von meinem Standort</string>
   <string name="navigate_from">Navigiere von %1$s</string>
   <string name="new_vehicle">Neues Fahrzeug</string>
@@ -166,7 +163,6 @@
   <string name="upcoming_services">Upcoming Services</string><!-- TODO -->
   <string name="vehicle_modes">Vehicle Modes</string><!-- TODO -->
   <string name="view_on_yelp">View on Yelp</string><!-- TODO -->
-  <string name="view_timetable">View Timetable</string><!-- TODO -->
   <string name="view_timetable_for_stop">View timetable of upcoming services</string><!-- TODO -->
   <string name="view_timetable_subtitle">Upcoming services</string><!-- TODO -->
   <string name="waiting_for_gps_fix">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...</string>

@@ -7,7 +7,6 @@
   <string name="add_new_location">Agregar una nueva ubicación</string>
   <string name="add_to_contacts">Agregar a contactos</string>
   <string name="add_to_home_screen">Agregar en la pantalla de inicio</string>
-  <string name="add_vehicles">Agregar vehículos</string>
   <string name="address">Dirección</string>
   <string name="agenda_set_or_delete">Presiona aquí para definir la dirección o presione prolongadamente para eliminar</string>
   <string name="agenda_tip">Ver se agenda diaria y los favoritos en las pestañas de abajo</string>
@@ -23,7 +22,6 @@
   <string name="cannot_find_that_location">Dirección no encontrada</string>
   <string name="cannot_remove_shortcut">No es posible remover el acceso directo</string>
   <string name="cant_call_error">Error al realizar la llamada</string>
-  <string name="change_stop_message">Cambiar subida o bajada por %s?</string>
   <string name="choose_an_alternative">Elegir una alternativa</string>
   <string name="coordinates_s">Coordenadas: %s</string>
   <string name="couldnt_find_curr_loc">No se pudo detectar su ubicacion actual</string>
@@ -71,7 +69,6 @@
   <string name="location_not_found">Ubicación no encontrada</string>
   <string name="location_save_by_gps">"No se pudo encontrar la dirección, la ubicación va a ser grabada utilizando las coordenadas del GPS</string>
   <string name="location_selected">Ubicación seleccionada</string>
-  <string name="my_vehicle_name">Nombre de mi vehículo</string>
   <string name="navigate_current_location">Navegar desde la ubicación actual</string>
   <string name="navigate_from">Navegar desde %1$s</string>
   <string name="new_vehicle">Nuevo vehículo</string>
@@ -166,7 +163,6 @@
   <string name="upcoming_services">Próximos Servicios</string>
   <string name="vehicle_modes">Modos de Vehiculos</string>
   <string name="view_on_yelp">Ver en Yelp</string>
-  <string name="view_timetable">Ver Horarios</string>
   <string name="view_timetable_for_stop">Ver Horarios de próximos servicios</string>
   <string name="view_timetable_subtitle">Próximos servicios</string>
   <string name="waiting_for_gps_fix">Esperando la señal del GPS, si falla, puede intentar desactivando y volviendo a activarel GPS</string>
