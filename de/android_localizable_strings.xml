@@ -58,7 +58,7 @@
   <string name="go_here">Hierhin gehen</string>
   <string name="go_to_date">Gehe zu Datum</string>
   <string name="go_to_now">Go to Now</string><!-- TODO -->
-  <string name="go_to_today">Go to today</string><!-- TODO -->
+  <string name="go_to_today">Gehe zu heute</string>
   <string name="include_cal_act">Include checked calendars</string><!-- TODO -->
   <string name="include_cal_explanation">Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</string>
   <string name="invalid_transfer_time">Invalid time, revert to last used value.</string><!-- TODO -->
@@ -169,7 +169,6 @@
   <string name="walkthrough_1">TripGo hilft dir, den besten Weg von A nach B zu finden - egal welches Verkehrsmittel.</string>
   <string name="walkthrough_2">Komme immer pünktlich. Die Agenda plant für dich im Voraus und gibt dir Bescheid wenn es Zeit ist zu gehen.</string>
   <string name="walkthrough_3">Keine Agenda? Speicher deine Favoriten.</string>
-  <string name="v4_agenda_add_stopover">Zwischenstopp hinzufügen...</string>
   <string name="yesterday">Gestern</string>
   <string name="you_are_here">You are here</string><!-- TODO -->
   <string name="you_r_already_at_s">You are already at %s!</string><!-- TODO -->
