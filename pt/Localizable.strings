@@ -1,102 +1,102 @@
 /* Filler for a specific service running at a time, e.g., '396 at 11:56am' */
-" at " = " at ";
+" at " = " as ";
 
 /* Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes' */
-" every " = " every ";
+" every " = " a cada ";
 
 /* Format string for going from one location to another. Used to name favourite trips. */
-"%@ to %@" = "%1$@ to %2$@";
+"%@ to %@" = "%1$@ para %2$@";
 
 /* Error title when access to location hasn't been granted, but location is required. */
-"Access to location services required." = "Access to location services required.";
+"Access to location services required." = "acesso a serviços localizados requeridos.";
 
 /* No comment provided by engineer. */
-"Add address..." = "Add address...";
+"Add address..." = "Aadicione endereço...";
 
 /* No comment provided by engineer. */
-"Add another recurrence" = "Add another recurrence";
+"Add another recurrence" = "Adicione outro retorno";
 
 /* Add reminder activity title */
-"Add Reminder" = "Add Reminder";
+"Add Reminder" = "adicione lembrete";
 
 /* Add to agenda view title
    Save trip action */
-"Add to Agenda" = "Add to Agenda";
+"Add to Agenda" = "Adicione na agenda";
 
 /* Add to calendar activity title */
-"Add to Calendar" = "Add to Calendar";
+"Add to Calendar" = "Adicione no calendario";
 
 /* Add favourite activity title */
-"Add to Favourites" = "Add to Favourites";
+"Add to Favourites" = "Adicione em favoritos";
 
 /* No comment provided by engineer. */
-"Add to favourites" = "Add to favourites";
+"Add to favourites" = "Adicione em favoritos";
 
 /* Action title for adding a vehicle */
-"Add vehicle" = "Add vehicle";
+"Add vehicle" = "Adicione veículo";
 
 /* Add to agenda HUD notice */
-"Added to Agenda" = "Added to Agenda";
+"Added to Agenda" = "Adicionado na agenda";
 
 /* Added to calendar HUD message */
-"Added to calendar" = "Added to calendar";
+"Added to calendar" = "Adicionado no calendario";
 
 /* Alert title that indicates an address is missing when creating a new event. */
-"Address required" = "Address required";
+"Address required" = "endereço requisitado";
 
 /* Add a new stopover */
-"AddStopover" = "Add stopover...";
+"AddStopover" = "Adicione escala...";
 
 /* Agenda title
    Title for button to access agenda */
 "Agenda" = "Agenda";
 
 /* No comment provided by engineer. */
-"Agenda cleared" = "Agenda cleared";
+"Agenda cleared" = "Agenda apagada";
 
 /* Title for agenda screen while it's still in setup mode. */
-"Agenda Setup" = "Agenda Setup";
+"Agenda Setup" = "Agenda configurar";
 
 /* Agenda button name
    Agenda tab bar name */
 "AgendaButton" = "Agenda";
 
 /* Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1' */
-"AirlineFlightNumber" = "%@ flight %@";
+"AirlineFlightNumber" = "%@ vôo %@";
 
 /* Flight from a city to an other one */
-"AirlineFromTo" = "%@ (%@) to %@ (%@)";
+"AirlineFromTo" = "%@ (%@) para %@ (%@)";
 
 /* No comment provided by engineer. */
-"Alert" = "Alert";
+"Alert" = "Alerta";
 
 /* No comment provided by engineer. */
-"Alerts" = "Alerts";
+"Alerts" = "Alertas";
 
 /* Description of alert with %title */
-"AlertTitleFormat" = "Alert: %@";
+"AlertTitleFormat" = "Alerta: %@";
 
 /* Option to use this trip for all similar cases. */
-"All" = "All";
+"All" = "Todas";
 
 /* Option to delete this event and all after in a recurence */
-"All From Here" = "All From Here";
+"All From Here" = "Todas desde aqui";
 
 /* Action button title to see alternative options for the case where you can't make the next connection. */
-"Alternative routes" = "Alternative routes";
+"Alternative routes" = "Rotas alternativas";
 
 /* No comment provided by engineer. */
-"Ambiguous event address." = "Ambiguous address.";
+"Ambiguous event address." = "Endereço ambiguo.";
 
 /* Arrival date+time for overnight stay
    Arrival time sorter title */
-"Arrival" = "Arrival";
+"Arrival" = "Chegada";
 
 /* Arrive before button */
-"ArriveBefore" = "Arrive by";
+"ArriveBefore" = "Chegada até";
 
 /* Title for section to assign a trip to a vehicle. */
-"Assign to vehicle" = "Assign to vehicle";
+"Assign to vehicle" = "marcar para veículo";
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
 "At " = "At ";
