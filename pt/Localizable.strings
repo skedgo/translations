@@ -195,7 +195,7 @@
 "Do Not Include" = "Não incluir";
 
 /* No comment provided by engineer. */
-"Do you want to always use this trip and add it to your favourites?" = "Você quer sempre usar esse trajeto e salvar como favorito
+"Do you want to always use this trip and add it to your favourites?" = "Você quer sempre usar esse trajeto e salvar como favorito?";
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Não possui lugar fixo de estudo ou trabalho? Pular essa etapa.";
 
@@ -346,8 +346,7 @@
 "Habitual Visit" = "Rotina";
 
 /* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
-"HabitualEventDescription" = "Rotina é parte do seu movimento diário, mas são eventos que vocë não quer no seu calendário
-(ex.: trabalho). Eles são importantes para a agenda para que vocë chegue no lugar certo na hora certa.";
+"HabitualEventDescription" = "Rotina é parte do seu movimento diário, mas são eventos que vocë não quer no seu calendário (ex.: trabalho). Eles são importantes para a agenda para que vocë chegue no lugar certo na hora certa.";
 
 /* No comment provided by engineer. */
 "Has TripGo been useful to you?" = "O TripGo tem sido útil pra você?";
@@ -371,7 +370,7 @@
 "Include Step Count" = "Incluir número de passos";
 
 /* Concession pricing footer */
-"Information on concession pricing is subject to availability." = "Informação sobre concessões sujeito a disponibilidade
+"Information on concession pricing is subject to availability." = "Informação sobre concessões sujeito a disponibilidade.";
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Pule para hoje";
 
