@@ -914,7 +914,7 @@
    Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda";
 
-/* Question for which events in a reQuais voce gostaria de deletar";
+/* Question for which events in a reQuais voce gostaria de deletar"; */
 
 /* Typical name that you'd give your work location */
 "Work" = "Trabalho";
