@@ -15,7 +15,7 @@
   <string name="all_cals_invisible">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del conto</string>
   <string name="an_unexpected_network_error">Si è verificato un errore di rete imprevisto. Riprova.</string>
   <string name="approximately_s_away">Circa % s di distanza</string>
-  <string name="body_exclude_related_event_from_route">corpo esclude evento legato dal percorso/string>
+  <string name="body_exclude_related_event_from_route">corpo esclude evento legato dal percorso</string>
   <string name="body_exclude_this_event_from_route">corpo esclude questo evento dal calendario</string>
   <string name="booking">Prenotazione</string>
   <string name="cannot_add_reminder_for_past_trip">Impossibile aggiungere promemoria per un viaggio passato</string>
