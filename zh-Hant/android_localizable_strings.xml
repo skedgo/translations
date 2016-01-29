@@ -86,7 +86,7 @@
 
   <string name="event_must_have_title">事件必須有標題</string>
 
-  <string name="event_update_warning">事件已被更新．可能需要一段時間才能顯示更新的內容/string>
+  <string name="event_update_warning">事件已被更新．可能需要一段時間才能顯示更新的內容</string>
 
   <string name="exclude_event">排除事件</string>
 
@@ -136,7 +136,7 @@
 
   <string name="location_not_found">無法找到位置</string>
 
-  <string name="location_save_by_gps”>”無法取得地址．我們將會使用GPS座標來儲存此位置"</string>
+  <string name="location_save_by_gps">”無法取得地址．我們將會使用GPS座標來儲存此位置"</string>
 
   <string name="location_selected">位置已被選取</string>
 
@@ -242,7 +242,7 @@
 
   <string name="settings_summary_searching_contacts">使用您通訊錄上的地址作為您搜尋位置時的建議．這些資料將不會存放在伺服器上。</string>
 
-  <string name="settings_summary_server">Server to use. Note this will override *ALL* server calls!</string><!-- TODO -->
+  <string name="settings_summary_server">Server to use. Note this will override *ALL* server calls!</string><!-- Just for debug -->
 
   <string name="settings_summary_track_usage">允許TripGo匿名追蹤您的程序使用情形</string>
 
@@ -250,7 +250,7 @@
 
   <string name="settings_title_contact">聯繫支援</string>
 
-  <string name="settings_title_cycling_speed">單車騎速/string>
+  <string name="settings_title_cycling_speed">單車騎速</string>
 
   <string name="settings_title_gps_submit">追蹤位置</string>
 
@@ -293,6 +293,8 @@
   <string name="sorted_by_preferred">以您的偏好來排序</string>
 
   <string name="one_more_thing">還有一件事．．</string>
+
+  <string name="taxi">Taxi</string> <!-- TODO: remove (used in deprecated class) -->
 
   <string name="terms_and_conditions">使用條款與條件</string>
 
