@@ -1,158 +1,158 @@
 /* Message that indicates the app is about to sign users out of their user accounts */
-" The app will now sign out" = " The app will now sign out"; // TODO
+" The app will now sign out" = " O aplicativo vai agora fechar"; // TODO
 
 /* Authorization restricted alert message */
-"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider.";
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "O acesso a este recurso tem sido restrito para o seu dispositivo. Por favor, verifique as configurações do aplicativo> Geral> Restrições ou pergunte ao seu provedor.";
 
 /* Accessibility label for action button */
-"Action" = "Action";
+"Action" = "Ação";
 
 /* Default title for alert view */
-"Alert" = "Alert"; // TODO
+"Alert" = "Alerta"; // TODO
 
 /* Indicator that an event is all-day */
-"all-day" = "all-day";
+"all-day" = "dia inteiro";
 
 /* Option for users if they already owned a SkedGo account */
-"Already have an account? Sign in" = "Already have an account? Sign in"; // TODO
+"Already have an account? Sign in" = "Ja possui contat? assine"; // TODO
 
 /* Estimated time of arrival */
-"ArrivalTimeIndication" = " (arrive ";
+"ArrivalTimeIndication" = " (chegada ";
 
 /* Authorisation needed title */
-"Authorisation needed" = "Authorisation needed";
+"Authorisation needed" = "autorização necessária";
 
 /* Type of vehicle : bicycle */
-"Bicycle" = "Bicycle";
+"Bicycle" = "Bicyicleta";
 
 /* Cancel - for action sheets */
-"Cancel" = "Cancel";
+"Cancel" = "Cancelada";
 
 /* Label for when a service is cancelled. */
-"Cancelled" = "Cancelled";
+"Cancelled" = "Canceladd";
 
 /* No comment provided by engineer. */
-"Cannot proceed without a valid email address" = "Cannot proceed without a valid email address"; // TODO
+"Cannot proceed without a valid email address" = "Não é possível proceder sem um endereço de email válido"; // TODO
 
 /* Type of vehicle : car */
-"Car" = "Car";
+"Car" = "Carro";
 
 /* Credit card number */
-"Card No." = "Card No.";
+"Card No." = "número do cartão.";
 
 /* Instruction for changing password */
-"Change" = "Change"; // TODO
+"Change" = "mudar"; // TODO
 
 /* Accessibility - user location button - hint */
-"Change tracking options" = "Change tracking options"; // TODO
+"Change tracking options" = "Alterar as opções de rastreamento"; // TODO
 
 /* Accessibility title for a checkmark/tick button */
-"Checkmark" = "Checkmark";
+"Checkmark" = "marcar";
 
 /* Button title to dismiss a view
    Close action */
-"Close" = "Close";
+"Close" = "Fechar";
 
 /* Error title when GPS failed. */
-"Could not determine your current location." = "Could not determine your current location.";
+"Could not determine your current location." = "Não foi possível determinar a sua localização actual.";
 
 /* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Could not download supported regions from TripGo's server. Please try again later.";
+"CouldNotDownloadSupportedRegions" = "Não foi possível baixar regiões apoiadas do servidor TripGo. Por favor tente de novo mais tarde.";
 
 /* Message that indicates the app is creating accounts for users */
-"Creating account" = "Creating account"; // TODO
+"Creating account" = "criar conta"; // TODO
 
 /* Section title for credit card payment */
-"Credit card" = "Credit card";
+"Credit card" = "Credicard";
 
 /* Current location */
-"Current Location" = "Current Location";
+"Current Location" = "Localização atual";
 
 /* Credit card CVC */
 "CVC" = "CVC";
 
 /* to %date */
-"DateToFormat" = "to %@";
+"DateToFormat" = "para %@";
 
 /* Delete action */
-"Delete" = "Delete";
+"Delete" = "Apagar";
 
 /* Estimated time of departure */
-"DepartureTimeIndication" = " (depart ";
+"DepartureTimeIndication" = " (saída ";
 
 /* Sort by distance */
-"Distance" = "Distance";
+"Distance" = "Distância";
 
 /* Option for users if they don't yet have a SkedGo account */
-"Don't have an account? Sign up" = "Don't have an account? Sign up"; // TODO
+"Don't have an account? Sign up" = "Não possui conta? Assine"; // TODO
 
 /* Keyboard accessory button title */
-"Done" = "Done";
+"Done" = "Pronto";
 
 /* Drop new pin */
-"DropNewPin" = "Drop new pin";
+"DropNewPin" = "Baixar novo pin";
 
 /* Email address where receipt is sent */
 "Email" = "Email";
 
 /* Short indicator of end-time */
-"ends at %@" = "ends at %@";
+"ends at %@" = "termina as %@";
 
 /* Everyday in context of repetitions (especially recurring events) */
-"Everyday" = "Every day";
+"Everyday" = "Todo dia";
 
 /* 'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'
    Every %day, e.g., 'Every Monday' */
-"EveryDayFormat" = "Every %@";
+"EveryDayFormat" = "Toda %@";
 
 /* Email placeholder text */
-"example@example.com" = "example@example.com";
+"example@example.com" = "examplo@examplo.com";
 
 /* Credit card expiry date */
-"Expiry Date" = "Expiry Date";
+"Expiry Date" = "Data de validade";
 
 /* No comment provided by engineer. */
-"First name" = "First name"; // TODO
+"First name" = "nome"; // TODO
 
 /* Option that allows users to indicate whether reminder is needed */
-"For when to leave" = "For when to leave";
+"For when to leave" = "Para quando sair";
 
 /* Free as in beer */
-"Free" = "Free";
+"Free" = "Grátis";
 
 /* No comment provided by engineer. */
-"Getting a lift" = "Getting a lift";
+"Getting a lift" = "Pegar carona";
 
 /* Indicating that we are contacting Stripe for payment token */
-"Getting stripe token" = "Getting stripe token";
+"Getting stripe token" = "Obtendo token de stripe";
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "Has reminder";
+"Has reminder" = "possui lembrete";
 
 /* Include contacts. */
-"Include contacts" = "Include contacts";
+"Include contacts" = "Incluir contatos";
 
 /* Include events. */
-"Include events" = "Include calendar events";
+"Include events" = "Incluir calendEario de eventos";
 
 /* Instant results proposal */
-"Instant results" = "Instant results";
+"Instant results" = "Resultado instantâneo";
 
 /* Title for alert that indicates the user account has become invalid */
-"Invalid account" = "Invalid account"; // TODO
+"Invalid account" = "Conta inválida"; // TODO
 
 /* Name placeholder text */
 "John Appleseed" = "John Appleseed";
 
 /* No comment provided by engineer. */
-"Last name" = "Last name"; // TODO
+"Last name" = "Sobrenome"; // TODO
 
 /* Used when user signs in using Facebook */
-"Linking Facebook" = "Linking Facebook"; // TODO
+"Linking Facebook" = "Ligando ao Facebook"; // TODO
 
 /* Location name
    Title for location search screen */
-"Location" = "Location"; // TODO
+"Location" = "Localização"; // TODO
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app.";
