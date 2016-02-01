@@ -157,7 +157,8 @@
     <string name="tomorrow">Tomorrow</string>
     <string name="transport_selector_header">Include in the route results</string>
     <string name="trip_preferences">Trip Preferences</string>
-    <string name="trip_to">Trip to </string><!-- TODO -->
+    <!-- TODO -->
+    <string name="trip_to">Trip to </string>
     <string name="trip_to_unknown_dest_about_to_start">It looks like you have a trip to make</string>
     <string name="unknown_location">Unknown location</string>
     <string name="upcoming_services">Upcoming Services</string>

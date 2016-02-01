@@ -29,8 +29,8 @@
   <string name="all_cals_invisible">您所有的行事曆目前是隱藏的．請在行事曆程序或是帳號設定中將他們開啟</string>
 
   <string name="an_unexpected_network_error">發生意外的網路錯誤．請重新嘗試</string>
-
-  <string name="approximately_s_away">Approximately %s away</string><!-- TODO -->
+  <!-- TODO -->
+  <string name="approximately_s_away">Approximately %s away</string>
 
   <string name="body_exclude_related_event_from_route">跟此路線相關的事件將被排除，但是事件還是會顯在行程中</string>
 
@@ -165,8 +165,8 @@
   <string name="origin">出發地</string>
 
   <string name="outside_region_error">抱歉，您所輸入的位址並不在TripGo的服務範圍裡</string>
-
-  <string name="page_between_upcoming_services">Page between upcoming services</string><!-- TODO -->
+  <!-- TODO -->
+  <string name="page_between_upcoming_services">Page between upcoming services</string>
 
   <string name="priority_budget_subtext">路程費用</string>
 
@@ -293,8 +293,8 @@
   <string name="sorted_by_preferred">以您的偏好來排序</string>
 
   <string name="one_more_thing">還有一件事．．</string>
-
-  <string name="taxi">Taxi</string> <!-- TODO: remove (used in deprecated class) -->
+  <!-- TODO: remove (used in deprecated class) -->
+  <string name="taxi">Taxi</string>
 
   <string name="terms_and_conditions">使用條款與條件</string>
 
@@ -323,8 +323,8 @@
   <string name="unknown_location">未知的位置</string>
 
   <string name="upcoming_services">即將到來的車次</string>
-
-  <string name="vehicle_modes">Vehicle Modes</string><!-- TODO -->
+  <!-- TODO -->
+  <string name="vehicle_modes">Vehicle Modes</string>
 
   <string name="view_on_yelp">在Yelp上查看</string>
 
