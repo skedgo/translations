@@ -1,5 +1,5 @@
 /* Message that indicates the app is about to sign users out of their user accounts */
-" The app will now sign out" = " O aplicativo vai agora fechar"; // TODO
+" The app will now sign out" = " O aplicativo vai agora fechar";
 
 /* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "O acesso a este recurso tem sido restrito para o seu dispositivo. Por favor, verifique as configurações do aplicativo> Geral> Restrições ou pergunte ao seu provedor.";
@@ -8,13 +8,13 @@
 "Action" = "Ação";
 
 /* Default title for alert view */
-"Alert" = "Alerta"; // TODO
+"Alert" = "Alerta";
 
 /* Indicator that an event is all-day */
 "all-day" = "dia inteiro";
 
 /* Option for users if they already owned a SkedGo account */
-"Already have an account? Sign in" = "Ja possui contat? assine"; // TODO
+"Already have an account? Sign in" = "Ja possui contat? assine";
 
 /* Estimated time of arrival */
 "ArrivalTimeIndication" = " (chegada ";
@@ -32,7 +32,7 @@
 "Cancelled" = "Canceladd";
 
 /* No comment provided by engineer. */
-"Cannot proceed without a valid email address" = "Não é possível proceder sem um endereço de email válido"; // TODO
+"Cannot proceed without a valid email address" = "Não é possível proceder sem um endereço de email válido";
 
 /* Type of vehicle : car */
 "Car" = "Carro";
@@ -41,10 +41,10 @@
 "Card No." = "número do cartão.";
 
 /* Instruction for changing password */
-"Change" = "mudar"; // TODO
+"Change" = "mudar";
 
 /* Accessibility - user location button - hint */
-"Change tracking options" = "Alterar as opções de rastreamento"; // TODO
+"Change tracking options" = "Alterar as opções de rastreamento";
 
 /* Accessibility title for a checkmark/tick button */
 "Checkmark" = "marcar";
@@ -60,7 +60,7 @@
 "CouldNotDownloadSupportedRegions" = "Não foi possível baixar regiões apoiadas do servidor TripGo. Por favor tente de novo mais tarde.";
 
 /* Message that indicates the app is creating accounts for users */
-"Creating account" = "criar conta"; // TODO
+"Creating account" = "criar conta";
 
 /* Section title for credit card payment */
 "Credit card" = "Credicard";
@@ -84,7 +84,7 @@
 "Distance" = "Distância";
 
 /* Option for users if they don't yet have a SkedGo account */
-"Don't have an account? Sign up" = "Não possui conta? Assine"; // TODO
+"Don't have an account? Sign up" = "Não possui conta? Assine";
 
 /* Keyboard accessory button title */
 "Done" = "Pronto";
@@ -112,7 +112,7 @@
 "Expiry Date" = "Data de validade";
 
 /* No comment provided by engineer. */
-"First name" = "nome"; // TODO
+"First name" = "nome";
 
 /* Option that allows users to indicate whether reminder is needed */
 "For when to leave" = "Para quando sair";
@@ -139,20 +139,20 @@
 "Instant results" = "Resultado instantâneo";
 
 /* Title for alert that indicates the user account has become invalid */
-"Invalid account" = "Conta inválida"; // TODO
+"Invalid account" = "Conta inválida";
 
 /* Name placeholder text */
 "John Appleseed" = "John Appleseed";
 
 /* No comment provided by engineer. */
-"Last name" = "Sobrenome"; // TODO
+"Last name" = "Sobrenome";
 
 /* Used when user signs in using Facebook */
-"Linking Facebook" = "Ligando ao Facebook"; // TODO
+"Linking Facebook" = "Ligando ao Facebook";
 
 /* Location name
    Title for location search screen */
-"Location" = "Localização"; // TODO
+"Location" = "Localização";
 
 /* Location iOS6+ authorisation needed text */
 "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app.";
