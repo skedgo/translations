@@ -267,104 +267,104 @@
 "OK" = "OK";
 
 /* Open in Safari action */
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "Abrir em Safari";
 
 /* Button to open Settings app section for this app */
-"Open Settings" = "Open Settings";
+"Open Settings" = "Abrir Settings";
 
 /* No comment provided by engineer. */
-"Password" = "Password";
+"Password" = "Senha";
 
 /* Indicating a payment is successful */
-"Payment successful" = "Payment successful";
+"Payment successful" = "pagamento afetivado";
 
 /* Section title for Paypal payment */
 "Paypal" = "Paypal";
 
 /* Please select a location prompt */
-"Please select a location" = "Please select a location"; // TODO
+"Please select a location" = "Porfavor selecione a localização"; // TODO
 
 /* Error recovery suggestion when GPS fails. */
-"Please try again or set your location manually." = "Please try again or set your location manually.";
+"Please try again or set your location manually." = "Porfavor tente de novo ou selecione a sua localização manualmente.";
 
 /* Please verify the location prompt */
-"Please verify the location" = "Please verify the location"; // TODO
+"Please verify the location" = "Porfavor verifique a localizacão"; // TODO
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
-"Press 'search' for more..." = "Press 'search' for more...";
+"Press 'search' for more..." = "Apertar 'pesquisa' para mais...";
 
 /* Title for section that asks users where payment receipt should be sent */
-"Receipt" = "Receipt";
+"Receipt" = "Recibo";
 
 /* Section title at the end of a booking that allows users to set reminders */
-"Reminder" = "Reminder";
+"Reminder" = "Lembrete";
 
 /* Repeats daily */
-"Repeats daily" = "Repeats daily";
+"Repeats daily" = "Repetições diárias";
 
 /* Repeats monthly */
-"Repeats monthly" = "Repeats monthly";
+"Repeats monthly" = "Repetiç˜øes mensais";
 
 /* Repeats weekly */
-"Repeats weekly" = "Repeats weekly";
+"Repeats weekly" = "Repetições semanais";
 
 /* Repeats yearly */
-"Repeats yearly" = "Repeats yearly";
+"Repeats yearly" = "Repetições anuais";
 
 /* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' not found.";
+"RequestErrorFormat" = "'%@' não encontrado.";
 
 /* Sort by overall score, like a ranking. */
-"Score" = "Score";
+"Score" = "pontos";
 
 /* Empty search bar placeholder */
-"Search" = "Search";
+"Search" = "Pesquisa";
 
 /* No comment provided by engineer. */
-"Search Results" = "Search Results";
+"Search Results" = "Resultados da pesquisa";
 
 /* ex: 87s */
-"Seconds<120" = "%.0fs";
+"Seconds<120" = "%.0fseg";
 
 /* Tap to set location */
-"SetLocation" = "Tap to set location";
+"SetLocation" = "Toque para definir a localização";
 
 /* No comment provided by engineer. */
-"Sign in" = "Sign in"; // TODO
+"Sign in" = "Entrar"; // TODO
 
 /* Instruction for signing out user account */
-"Sign out" = "Sign out"; // TODO
+"Sign out" = "Sair"; // TODO
 
 /* No comment provided by engineer. */
-"Sign up" = "Sign up"; // TODO
+"Sign up" = "Inscrever-se"; // TODO
 
 /* No comment provided by engineer. */
-"Sign up cannot be completed without a valid password" = "Sign up cannot be completed without a valid password"; // TODO
+"Sign up cannot be completed without a valid password" = "Inscrição não pode ser compltada sem uma senha válida"; // TODO
 
 /* Message that indicates the app is signing users into their user accounts */
-"Signing in" = "Signing in"; // TODO
+"Signing in" = "Entrando"; // TODO
 
 /* Message that indicates the app has successfully completed signing out
    Message that indicates the app is signing users out of their accounts */
-"Signing out" = "Signing out"; // TODO
+"Signing out" = "Saindo"; // TODO
 
 /* Short indicator of start-time */
-"starts at %@" = "starts at %@";
+"starts at %@" = "começa as %@";
 
 /* Sports utility vehicle abbreviation */
-"SUV" = "SUV";
+"SUV" = "Sports veículo utilitário";
 
 /* Accessibility - user location button - off */
-"Tracking - off" = "Tracking - off"; // TODO
+"Tracking - off" = "ratreamento - desligado"; // TODO
 
 /* user location button - follow */
-"Tracking - on" = "Tracking - on"; // TODO
+"Tracking - on" = "Rastreamento - ligado"; // TODO
 
 /* user location button - follow with heading */
-"Tracking - on with heading" = "Tracking - on with heading"; // TODO
+"Tracking - on with heading" = "ratreamento - ligado com título"; // TODO
 
 /* No comment provided by engineer. */
-"Unknown error" = "Unknown error";
+"Unknown error" = "Erro desconhecido";
 
 /* Message that shows app is updating trip after user finalised bookings */
 "Updating trip" = "Updating trip";
