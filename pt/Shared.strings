@@ -236,7 +236,7 @@
 "Motorbike" = "Motocicleta";
 
 /* Title for view that shows the summary of a user's account information */
-"My account" = "Minha conta"; // TODO
+"My account" = "Minha conta";
 
 /* Name to which receipt is sent
    Sort by name */
@@ -246,7 +246,7 @@
 "Never" = "Nunca";
 
 /* Title for sign in view when user does not have an account */
-"New account" = "Conta nova"; // TODO
+"New account" = "Conta nova";
 
 /* Button title to complete this step and advance to next
    Keyboard accessory button title to complete this step and advance to next */
