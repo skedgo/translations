@@ -155,7 +155,7 @@
 "Location" = "Localização";
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = " Os serviços de localização são requeridos para o uso deste recurso. Por favor, acione o aplicativo Configurações > Privacidade > Serviços de Localização , verifique se eles estão ligados e autorizar esta aplicação.";
 
 /* ex: 1min */
 "Min==1" = "1min";
@@ -176,13 +176,13 @@
 "Min>=60%60!=1" = "%ldh %ldmins";
 
 /* ex: 1 minute */
-"Minute" = "1 minute";
+"Minute" = "1 minuto";
 
 /* Option that allows users to indicate how eary to show trip reminder */
-"Minutes before trip" = "Minutes before trip";
+"Minutes before trip" = "Minutos antes do trajeto";
 
 /* ex: 17 minutes */
-"Minutes!=1" = "%ld minutes";
+"Minutes!=1" = "%ld minutos";
 
 /* ex: 1 Min */
 "Minutes<89==1" = "1 Min";
@@ -191,16 +191,16 @@
 "Minutes<89!=1" = "%ld Mins";
 
 /* ex: 2.5 Hours" */
-"Minutes>119%30==0" = "%.1f hours";
+"Minutes>119%30==0" = "%.1f horas";
 
 /* ex: 2 Hours */
-"Minutes>119%60==0" = "%.0f hours";
+"Minutes>119%60==0" = "%.0f horas";
 
 /* ex: 2 Hours 1 minute */
-"Minutes>119%60==1" = "%ld hours 1 minute";
+"Minutes>119%60==1" = "%ld horas e 1 minuto";
 
 /* ex: 2 Hours 17 minutes */
-"Minutes>119%60!=1" = "%ld hours %ld minutes";
+"Minutes>119%60!=1" = "%ld horas e %ld minutos";
 
 /* ex: 2h */
 "Minutes>140%2==0" = "%ldh";
@@ -209,57 +209,57 @@
 "Minutes>140%2!=0" = "%.1fh";
 
 /* ex: 2 Hours */
-"Minutes>89%2==0" = "%ld Hours";
+"Minutes>89%2==0" = "%ld Horas";
 
 /* ex: 2.3 Hours */
-"Minutes>89%2!=0" = "%.1f Hours";
+"Minutes>89%2!=0" = "%.1f Horas";
 
 /* ex: 1.5 Hour */
-"Minutes>=60%30==0" = "%.1f hour";
+"Minutes>=60%30==0" = "%.1f hora";
 
 /* ex: 1 Hour */
-"Minutes>=60%60==0" = "%.0f hour";
+"Minutes>=60%60==0" = "%.0f hora";
 
 /* ex: 1 Hour 1 minute */
-"Minutes>=60%60==1" = "%ld hour 1 minute";
+"Minutes>=60%60==1" = "%ld hora e 1 minuto";
 
 /* ex: 1 Hour 17 minutes */
-"Minutes>=60%60!=1" = "%ld hour %ld minutes";
+"Minutes>=60%60!=1" = "%ld hora %ld minutos";
 
 /* 'more' indicator for truncated text. */
-"more" = "more";
+"more" = "mais";
 
 /* More results proposal */
-"More results" = "More results";
+"More results" = "Mais resultados";
 
 /* Type of vehicle : motorbike */
-"Motorbike" = "Motorbike";
+"Motorbike" = "Motocicleta";
 
 /* Title for view that shows the summary of a user's account information */
-"My account" = "My account"; // TODO
+"My account" = "Minha conta";
 
 /* Name to which receipt is sent
    Sort by name */
-"Name" = "Name";
+"Name" = "Nome";
 
 /* Never in context of repetitions (especially recurring events) */
-"Never" = "Never";
+"Never" = "Nunca";
 
 /* Title for sign in view when user does not have an account */
-"New account" = "New account"; // TODO
+"New account" = "Conta nova";
 
 /* Button title to complete this step and advance to next
    Keyboard accessory button title to complete this step and advance to next */
-"Next" = "Next";
+"Next" = "Próximo";
 
 /* No comment provided by engineer. */
-"No CO₂" = "No CO₂";
+"No CO₂" = "Sem CO₂";
 
 /* Countdown cell 'now' indicator */
-"Now" = "Now";
+"Now" = "Agora";
 
 /* Number of repeats */
-"NumberReccurences" = "%lu recurrences.";
+"NumberReccurences" = "%lu repetições.";
 
 /* Authorisation ok button
    Default title for button that dismisses alert view
@@ -267,7 +267,7 @@
 "OK" = "OK";
 
 /* Open in Safari action */
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "Abrir em Safari";
 
 /* Button to open Settings app section for this app */
 "Open Settings" = "Open Settings";
@@ -367,35 +367,35 @@
 "Unknown error" = "Unknown error";
 
 /* Message that shows app is updating trip after user finalised bookings */
-"Updating trip" = "Updating trip";
+"Updating trip" = "Atualização do trajeto";
 
 /* Message that informs users that some values are missing from the required fields in a booking form. */
-"Values missing from required fields." = "Values missing from required fields.";
+"Values missing from required fields." = "Falta de valores nos campos requeridos.";
 
 /* Every weekday in context of repetitions (especially recurring events) */
-"Weekdays" = "Weekdays";
+"Weekdays" = "Dia de semana";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Weekends";
+"Weekends" = "Fim de semana";
 
 /* Message that informs users that T&C must be agreed before booking can be made. */
-"You need to agree to the booking terms and conditions." = "You need to agree to the booking terms and conditions.";
+"You need to agree to the booking terms and conditions." = "Você precisa concordar com os termos de condições de reserva.";
 
 /* Message that informs users that T&C for insurance must be agreed before booking can be made. */
-"You need to agree to the insurance terms and conditions." = "You need to agree to the insurance terms and conditions.";
+"You need to agree to the insurance terms and conditions." = "You Voce precisa concordar com os termos de condições e seguro.";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = Voce anteriormente negou o acesso deste app ao seu calendário. Por favor, acione Configurações > Privacidade> Calendário e autorizar este aplicativo para usar este recurso.";
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature.";
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = " Você anteriormente negou o acesso desse aplicativo aos seus contatos. Por favor, acione configurações de aplicativos > Privacidade > Contatos e autorizar este aplicativo para usar este recurso.";
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
-"{Name}'s" = "%@'s";
+"{Name}'s" = "de %@";
 
 /* No comment provided by engineer. */
-"{Name}'s Home" = "%@'s Home";
+"{Name}'s Home" = "casa de %@";
 
 /* No comment provided by engineer. */
-"{Name}'s Work" = "%@'s Work";
+"{Name}'s Work" = " Trabalho de %@";
 
