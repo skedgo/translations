@@ -282,13 +282,13 @@
 "Paypal" = "Paypal";
 
 /* Please select a location prompt */
-"Please select a location" = "Porfavor selecione a localização"; // TODO
+"Please select a location" = "Porfavor selecione a localização";
 
 /* Error recovery suggestion when GPS fails. */
 "Please try again or set your location manually." = "Porfavor tente de novo ou selecione a sua localização manualmente.";
 
 /* Please verify the location prompt */
-"Please verify the location" = "Porfavor verifique a localizacão"; // TODO
+"Please verify the location" = "Porfavor verifique a localizacão";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
 "Press 'search' for more..." = "Apertar 'pesquisa' para mais...";
@@ -330,23 +330,23 @@
 "SetLocation" = "Toque para definir a localização";
 
 /* No comment provided by engineer. */
-"Sign in" = "Entrar"; // TODO
+"Sign in" = "Entrar";
 
 /* Instruction for signing out user account */
-"Sign out" = "Sair"; // TODO
+"Sign out" = "Sair";
 
 /* No comment provided by engineer. */
-"Sign up" = "Inscrever-se"; // TODO
+"Sign up" = "Inscrever-se";
 
 /* No comment provided by engineer. */
-"Sign up cannot be completed without a valid password" = "Inscrição não pode ser compltada sem uma senha válida"; // TODO
+"Sign up cannot be completed without a valid password" = "Inscrição não pode ser compltada sem uma senha válida";
 
 /* Message that indicates the app is signing users into their user accounts */
-"Signing in" = "Entrando"; // TODO
+"Signing in" = "Entrando";
 
 /* Message that indicates the app has successfully completed signing out
    Message that indicates the app is signing users out of their accounts */
-"Signing out" = "Saindo"; // TODO
+"Signing out" = "Saindo";
 
 /* Short indicator of start-time */
 "starts at %@" = "começa as %@";
@@ -355,13 +355,13 @@
 "SUV" = "Sports veículo utilitário";
 
 /* Accessibility - user location button - off */
-"Tracking - off" = "ratreamento - desligado"; // TODO
+"Tracking - off" = "ratreamento - desligado";
 
 /* user location button - follow */
-"Tracking - on" = "Rastreamento - ligado"; // TODO
+"Tracking - on" = "Rastreamento - ligado";
 
 /* user location button - follow with heading */
-"Tracking - on with heading" = "ratreamento - ligado com título"; // TODO
+"Tracking - on with heading" = "ratreamento - ligado com título";
 
 /* No comment provided by engineer. */
 "Unknown error" = "Erro desconhecido";
