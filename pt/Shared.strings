@@ -385,7 +385,7 @@
 "You need to agree to the insurance terms and conditions." = "You Voce precisa concordar com os termos de condições e seguro.";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = Voce anteriormente negou o acesso deste app ao seu calendário. Por favor, acione Configurações > Privacidade> Calendário e autorizar este aplicativo para usar este recurso.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = " Voce anteriormente negou o acesso deste app ao seu calendário. Por favor, acione Configurações > Privacidade> Calendário e autorizar este aplicativo para usar este recurso.";
 
 /* Contacts authorisation needed text */
 "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = " Você anteriormente negou o acesso desse aplicativo aos seus contatos. Por favor, acione configurações de aplicativos > Privacidade > Contatos e autorizar este aplicativo para usar este recurso.";
