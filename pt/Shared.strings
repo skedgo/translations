@@ -1,161 +1,161 @@
 /* Message that indicates the app is about to sign users out of their user accounts */
-" The app will now sign out" = " The app will now sign out"; // TODO
+" The app will now sign out" = " O aplicativo vai agora fechar";
 
 /* Authorization restricted alert message */
-"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider.";
+"Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "O acesso a este recurso tem sido restrito para o seu dispositivo. Por favor, verifique as configurações do aplicativo> Geral> Restrições ou pergunte ao seu provedor.";
 
 /* Accessibility label for action button */
-"Action" = "Action";
+"Action" = "Ação";
 
 /* Default title for alert view */
-"Alert" = "Alert"; // TODO
+"Alert" = "Alerta";
 
 /* Indicator that an event is all-day */
-"all-day" = "all-day";
+"all-day" = "dia inteiro";
 
 /* Option for users if they already owned a SkedGo account */
-"Already have an account? Sign in" = "Already have an account? Sign in"; // TODO
+"Already have an account? Sign in" = "Ja possui contat? assine";
 
 /* Estimated time of arrival */
-"ArrivalTimeIndication" = " (arrive ";
+"ArrivalTimeIndication" = " (chegada ";
 
 /* Authorisation needed title */
-"Authorisation needed" = "Authorisation needed";
+"Authorisation needed" = "autorização necessária";
 
 /* Type of vehicle : bicycle */
-"Bicycle" = "Bicycle";
+"Bicycle" = "Bicyicleta";
 
 /* Cancel - for action sheets */
-"Cancel" = "Cancel";
+"Cancel" = "Cancelada";
 
 /* Label for when a service is cancelled. */
-"Cancelled" = "Cancelled";
+"Cancelled" = "Canceladd";
 
 /* No comment provided by engineer. */
-"Cannot proceed without a valid email address" = "Cannot proceed without a valid email address"; // TODO
+"Cannot proceed without a valid email address" = "Não é possível proceder sem um endereço de email válido";
 
 /* Type of vehicle : car */
-"Car" = "Car";
+"Car" = "Carro";
 
 /* Credit card number */
-"Card No." = "Card No.";
+"Card No." = "número do cartão.";
 
 /* Instruction for changing password */
-"Change" = "Change"; // TODO
+"Change" = "mudar";
 
 /* Accessibility - user location button - hint */
-"Change tracking options" = "Change tracking options"; // TODO
+"Change tracking options" = "Alterar as opções de rastreamento";
 
 /* Accessibility title for a checkmark/tick button */
-"Checkmark" = "Checkmark";
+"Checkmark" = "marcar";
 
 /* Button title to dismiss a view
    Close action */
-"Close" = "Close";
+"Close" = "Fechar";
 
 /* Error title when GPS failed. */
-"Could not determine your current location." = "Could not determine your current location.";
+"Could not determine your current location." = "Não foi possível determinar a sua localização actual.";
 
 /* Could not download supported regions warning */
-"CouldNotDownloadSupportedRegions" = "Could not download supported regions from TripGo's server. Please try again later.";
+"CouldNotDownloadSupportedRegions" = "Não foi possível baixar regiões apoiadas do servidor TripGo. Por favor tente de novo mais tarde.";
 
 /* Message that indicates the app is creating accounts for users */
-"Creating account" = "Creating account"; // TODO
+"Creating account" = "criar conta";
 
 /* Section title for credit card payment */
-"Credit card" = "Credit card";
+"Credit card" = "Credicard";
 
 /* Current location */
-"Current Location" = "Current Location";
+"Current Location" = "Localização atual";
 
 /* Credit card CVC */
 "CVC" = "CVC";
 
 /* to %date */
-"DateToFormat" = "to %@";
+"DateToFormat" = "para %@";
 
 /* Delete action */
-"Delete" = "Delete";
+"Delete" = "Apagar";
 
 /* Estimated time of departure */
-"DepartureTimeIndication" = " (depart ";
+"DepartureTimeIndication" = " (saída ";
 
 /* Sort by distance */
-"Distance" = "Distance";
+"Distance" = "Distância";
 
 /* Option for users if they don't yet have a SkedGo account */
-"Don't have an account? Sign up" = "Don't have an account? Sign up"; // TODO
+"Don't have an account? Sign up" = "Não possui conta? Assine";
 
 /* Keyboard accessory button title */
-"Done" = "Done";
+"Done" = "Pronto";
 
 /* Drop new pin */
-"DropNewPin" = "Drop new pin";
+"DropNewPin" = "Baixar novo pin";
 
 /* Email address where receipt is sent */
 "Email" = "Email";
 
 /* Short indicator of end-time */
-"ends at %@" = "ends at %@";
+"ends at %@" = "termina as %@";
 
 /* Everyday in context of repetitions (especially recurring events) */
-"Everyday" = "Every day";
+"Everyday" = "Todo dia";
 
 /* 'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'
    Every %day, e.g., 'Every Monday' */
-"EveryDayFormat" = "Every %@";
+"EveryDayFormat" = "Toda %@";
 
 /* Email placeholder text */
-"example@example.com" = "example@example.com";
+"example@example.com" = "examplo@examplo.com";
 
 /* Credit card expiry date */
-"Expiry Date" = "Expiry Date";
+"Expiry Date" = "Data de validade";
 
 /* No comment provided by engineer. */
-"First name" = "First name"; // TODO
+"First name" = "nome";
 
 /* Option that allows users to indicate whether reminder is needed */
-"For when to leave" = "For when to leave";
+"For when to leave" = "Para quando sair";
 
 /* Free as in beer */
-"Free" = "Free";
+"Free" = "Grátis";
 
 /* No comment provided by engineer. */
-"Getting a lift" = "Getting a lift";
+"Getting a lift" = "Pegar carona";
 
 /* Indicating that we are contacting Stripe for payment token */
-"Getting stripe token" = "Getting stripe token";
+"Getting stripe token" = "Obtendo token de stripe";
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "Has reminder";
+"Has reminder" = "possui lembrete";
 
 /* Include contacts. */
-"Include contacts" = "Include contacts";
+"Include contacts" = "Incluir contatos";
 
 /* Include events. */
-"Include events" = "Include calendar events";
+"Include events" = "Incluir calendEario de eventos";
 
 /* Instant results proposal */
-"Instant results" = "Instant results";
+"Instant results" = "Resultado instantâneo";
 
 /* Title for alert that indicates the user account has become invalid */
-"Invalid account" = "Invalid account"; // TODO
+"Invalid account" = "Conta inválida";
 
 /* Name placeholder text */
 "John Appleseed" = "John Appleseed";
 
 /* No comment provided by engineer. */
-"Last name" = "Last name"; // TODO
+"Last name" = "Sobrenome";
 
 /* Used when user signs in using Facebook */
-"Linking Facebook" = "Linking Facebook"; // TODO
+"Linking Facebook" = "Ligando ao Facebook";
 
 /* Location name
    Title for location search screen */
-"Location" = "Location"; // TODO
+"Location" = "Localização";
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = " Os serviços de localização são requeridos para o uso deste recurso. Por favor, acione o aplicativo Configurações > Privacidade > Serviços de Localização , verifique se eles estão ligados e autorizar esta aplicação.";
 
 /* ex: 1min */
 "Min==1" = "1min";
@@ -176,13 +176,13 @@
 "Min>=60%60!=1" = "%ldh %ldmins";
 
 /* ex: 1 minute */
-"Minute" = "1 minute";
+"Minute" = "1 minuto";
 
 /* Option that allows users to indicate how eary to show trip reminder */
-"Minutes before trip" = "Minutes before trip";
+"Minutes before trip" = "Minutos antes do trajeto";
 
 /* ex: 17 minutes */
-"Minutes!=1" = "%ld minutes";
+"Minutes!=1" = "%ld minutos";
 
 /* ex: 1 Min */
 "Minutes<89==1" = "1 Min";
@@ -191,16 +191,16 @@
 "Minutes<89!=1" = "%ld Mins";
 
 /* ex: 2.5 Hours" */
-"Minutes>119%30==0" = "%.1f hours";
+"Minutes>119%30==0" = "%.1f horas";
 
 /* ex: 2 Hours */
-"Minutes>119%60==0" = "%.0f hours";
+"Minutes>119%60==0" = "%.0f horas";
 
 /* ex: 2 Hours 1 minute */
-"Minutes>119%60==1" = "%ld hours 1 minute";
+"Minutes>119%60==1" = "%ld horas e 1 minuto";
 
 /* ex: 2 Hours 17 minutes */
-"Minutes>119%60!=1" = "%ld hours %ld minutes";
+"Minutes>119%60!=1" = "%ld horas e %ld minutos";
 
 /* ex: 2h */
 "Minutes>140%2==0" = "%ldh";
@@ -209,57 +209,57 @@
 "Minutes>140%2!=0" = "%.1fh";
 
 /* ex: 2 Hours */
-"Minutes>89%2==0" = "%ld Hours";
+"Minutes>89%2==0" = "%ld Horas";
 
 /* ex: 2.3 Hours */
-"Minutes>89%2!=0" = "%.1f Hours";
+"Minutes>89%2!=0" = "%.1f Horas";
 
 /* ex: 1.5 Hour */
-"Minutes>=60%30==0" = "%.1f hour";
+"Minutes>=60%30==0" = "%.1f hora";
 
 /* ex: 1 Hour */
-"Minutes>=60%60==0" = "%.0f hour";
+"Minutes>=60%60==0" = "%.0f hora";
 
 /* ex: 1 Hour 1 minute */
-"Minutes>=60%60==1" = "%ld hour 1 minute";
+"Minutes>=60%60==1" = "%ld hora e 1 minuto";
 
 /* ex: 1 Hour 17 minutes */
-"Minutes>=60%60!=1" = "%ld hour %ld minutes";
+"Minutes>=60%60!=1" = "%ld hora %ld minutos";
 
 /* 'more' indicator for truncated text. */
-"more" = "more";
+"more" = "mais";
 
 /* More results proposal */
-"More results" = "More results";
+"More results" = "Mais resultados";
 
 /* Type of vehicle : motorbike */
-"Motorbike" = "Motorbike";
+"Motorbike" = "Motocicleta";
 
 /* Title for view that shows the summary of a user's account information */
-"My account" = "My account"; // TODO
+"My account" = "Minha conta";
 
 /* Name to which receipt is sent
    Sort by name */
-"Name" = "Name";
+"Name" = "Nome";
 
 /* Never in context of repetitions (especially recurring events) */
-"Never" = "Never";
+"Never" = "Nunca";
 
 /* Title for sign in view when user does not have an account */
-"New account" = "New account"; // TODO
+"New account" = "Conta nova";
 
 /* Button title to complete this step and advance to next
    Keyboard accessory button title to complete this step and advance to next */
-"Next" = "Next";
+"Next" = "Próximo";
 
 /* No comment provided by engineer. */
-"No CO₂" = "No CO₂";
+"No CO₂" = "Sem CO₂";
 
 /* Countdown cell 'now' indicator */
-"Now" = "Now";
+"Now" = "Agora";
 
 /* Number of repeats */
-"NumberReccurences" = "%lu recurrences.";
+"NumberReccurences" = "%lu repetições.";
 
 /* Authorisation ok button
    Default title for button that dismisses alert view
@@ -267,135 +267,135 @@
 "OK" = "OK";
 
 /* Open in Safari action */
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "Abrir em Safari";
 
 /* Button to open Settings app section for this app */
-"Open Settings" = "Open Settings";
+"Open Settings" = "Abrir Settings";
 
 /* No comment provided by engineer. */
-"Password" = "Password";
+"Password" = "Senha";
 
 /* Indicating a payment is successful */
-"Payment successful" = "Payment successful";
+"Payment successful" = "pagamento afetivado";
 
 /* Section title for Paypal payment */
 "Paypal" = "Paypal";
 
 /* Please select a location prompt */
-"Please select a location" = "Please select a location"; // TODO
+"Please select a location" = "Porfavor selecione a localização";
 
 /* Error recovery suggestion when GPS fails. */
-"Please try again or set your location manually." = "Please try again or set your location manually.";
+"Please try again or set your location manually." = "Porfavor tente de novo ou selecione a sua localização manualmente.";
 
 /* Please verify the location prompt */
-"Please verify the location" = "Please verify the location"; // TODO
+"Please verify the location" = "Porfavor verifique a localizacão";
 
 /* Location picker 'no autocompletion results' text. Needs to match text on keyboard. */
-"Press 'search' for more..." = "Press 'search' for more...";
+"Press 'search' for more..." = "Apertar 'pesquisa' para mais...";
 
 /* Title for section that asks users where payment receipt should be sent */
-"Receipt" = "Receipt";
+"Receipt" = "Recibo";
 
 /* Section title at the end of a booking that allows users to set reminders */
-"Reminder" = "Reminder";
+"Reminder" = "Lembrete";
 
 /* Repeats daily */
-"Repeats daily" = "Repeats daily";
+"Repeats daily" = "Repetições diárias";
 
 /* Repeats monthly */
-"Repeats monthly" = "Repeats monthly";
+"Repeats monthly" = "Repetiç˜øes mensais";
 
 /* Repeats weekly */
-"Repeats weekly" = "Repeats weekly";
+"Repeats weekly" = "Repetições semanais";
 
 /* Repeats yearly */
-"Repeats yearly" = "Repeats yearly";
+"Repeats yearly" = "Repetições anuais";
 
 /* Error when location search for %input was not successful. */
-"RequestErrorFormat" = "'%@' not found.";
+"RequestErrorFormat" = "'%@' não encontrado.";
 
 /* Sort by overall score, like a ranking. */
-"Score" = "Score";
+"Score" = "pontos";
 
 /* Empty search bar placeholder */
-"Search" = "Search";
+"Search" = "Pesquisa";
 
 /* No comment provided by engineer. */
-"Search Results" = "Search Results";
+"Search Results" = "Resultados da pesquisa";
 
 /* ex: 87s */
-"Seconds<120" = "%.0fs";
+"Seconds<120" = "%.0fseg";
 
 /* Tap to set location */
-"SetLocation" = "Tap to set location";
+"SetLocation" = "Toque para definir a localização";
 
 /* No comment provided by engineer. */
-"Sign in" = "Sign in"; // TODO
+"Sign in" = "Entrar";
 
 /* Instruction for signing out user account */
-"Sign out" = "Sign out"; // TODO
+"Sign out" = "Sair";
 
 /* No comment provided by engineer. */
-"Sign up" = "Sign up"; // TODO
+"Sign up" = "Inscrever-se";
 
 /* No comment provided by engineer. */
-"Sign up cannot be completed without a valid password" = "Sign up cannot be completed without a valid password"; // TODO
+"Sign up cannot be completed without a valid password" = "Inscrição não pode ser compltada sem uma senha válida";
 
 /* Message that indicates the app is signing users into their user accounts */
-"Signing in" = "Signing in"; // TODO
+"Signing in" = "Entrando";
 
 /* Message that indicates the app has successfully completed signing out
    Message that indicates the app is signing users out of their accounts */
-"Signing out" = "Signing out"; // TODO
+"Signing out" = "Saindo";
 
 /* Short indicator of start-time */
-"starts at %@" = "starts at %@";
+"starts at %@" = "começa as %@";
 
 /* Sports utility vehicle abbreviation */
-"SUV" = "SUV";
+"SUV" = "Sports veículo utilitário";
 
 /* Accessibility - user location button - off */
-"Tracking - off" = "Tracking - off"; // TODO
+"Tracking - off" = "ratreamento - desligado";
 
 /* user location button - follow */
-"Tracking - on" = "Tracking - on"; // TODO
+"Tracking - on" = "Rastreamento - ligado";
 
 /* user location button - follow with heading */
-"Tracking - on with heading" = "Tracking - on with heading"; // TODO
+"Tracking - on with heading" = "ratreamento - ligado com título";
 
 /* No comment provided by engineer. */
-"Unknown error" = "Unknown error";
+"Unknown error" = "Erro desconhecido";
 
 /* Message that shows app is updating trip after user finalised bookings */
-"Updating trip" = "Updating trip";
+"Updating trip" = "Atualização do trajeto";
 
 /* Message that informs users that some values are missing from the required fields in a booking form. */
-"Values missing from required fields." = "Values missing from required fields.";
+"Values missing from required fields." = "Falta de valores nos campos requeridos.";
 
 /* Every weekday in context of repetitions (especially recurring events) */
-"Weekdays" = "Weekdays";
+"Weekdays" = "Dia de semana";
 
 /* Every weekend day in context of repetitions (especially recurring events) */
-"Weekends" = "Weekends";
+"Weekends" = "Fim de semana";
 
 /* Message that informs users that T&C must be agreed before booking can be made. */
-"You need to agree to the booking terms and conditions." = "You need to agree to the booking terms and conditions.";
+"You need to agree to the booking terms and conditions." = "Você precisa concordar com os termos de condições de reserva.";
 
 /* Message that informs users that T&C for insurance must be agreed before booking can be made. */
-"You need to agree to the insurance terms and conditions." = "You need to agree to the insurance terms and conditions.";
+"You need to agree to the insurance terms and conditions." = "You Voce precisa concordar com os termos de condições e seguro.";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = Voce anteriormente negou o acesso deste app ao seu calendário. Por favor, acione Configurações > Privacidade> Calendário e autorizar este aplicativo para usar este recurso.";
 
 /* Contacts authorisation needed text */
-"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature.";
+"You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = " Você anteriormente negou o acesso desse aplicativo aos seus contatos. Por favor, acione configurações de aplicativos > Privacidade > Contatos e autorizar este aplicativo para usar este recurso.";
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
-"{Name}'s" = "%@'s";
+"{Name}'s" = "de %@";
 
 /* No comment provided by engineer. */
-"{Name}'s Home" = "%@'s Home";
+"{Name}'s Home" = "casa de %@";
 
 /* No comment provided by engineer. */
-"{Name}'s Work" = "%@'s Work";
+"{Name}'s Work" = " Trabalho de %@";
 
