@@ -1,18 +1,18 @@
 
-/* Class = "IBUIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30"; */
-"30.accessibilityLabel" = "Swap from and to";
+/* Class = "IBUIButton"; accessibilityLabel = "Trocar de por para"; ObjectID = "30"; */
+"30.accessibilityLabel" = "Trocar para por de";
 
-/* Class = "IBUIButton"; normalTitle = "Time"; ObjectID = "44"; */
-"44.normalTitle" = "Time";
+/* Class = "IBUIButton"; normalTitle = "Horário"; ObjectID = "44"; */
+"44.normalTitle" = "Horário";
 
-/* Class = "IBUIButton"; accessibilityLabel = "Route"; ObjectID = "57"; */
-"57.accessibilityLabel" = "Route";
+/* Class = "IBUIButton"; accessibilityLabel = "Rota"; ObjectID = "57"; */
+"57.accessibilityLabel" = "Rota";
 
-/* Class = "IBUIButton"; normalTitle = "Route"; ObjectID = "57"; */
-"57.normalTitle" = "Route";
+/* Class = "IBUIButton"; normalTitle = "Rota"; ObjectID = "57"; */
+"57.normalTitle" = "Rota";
 
-/* Class = "IBUIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo"; */
-"JFm-H4-fOo.accessibilityLabel" = "To Location";
+/* Class = "IBUIButton"; accessibilityLabel = "Para localização"; ObjectID = "JFm-H4-fOo"; */
+"JFm-H4-fOo.accessibilityLabel" = "Para localização";
 
-/* Class = "IBUIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL"; */
-"bs1-li-naL.accessibilityLabel" = "From Location";
+/* Class = "IBUIButton"; accessibilityLabel = "de localização"; ObjectID = "bs1-li-naL"; */
+"bs1-li-naL.accessibilityLabel" = "de localização";
