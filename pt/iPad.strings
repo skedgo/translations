@@ -1,18 +1,18 @@
 
-/* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "A61-q2-DtW"; */
-"A61-q2-DtW.title" = "Routes";
+/* Class = "IBUINavigationItem"; title = "Rotas"; ObjectID = "A61-q2-DtW"; */
+"A61-q2-DtW.title" = "Rotas";
 
-/* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "Ae9-5l-gdh"; */
-"Ae9-5l-gdh.title" = "Trip";
+/* Class = "IBUINavigationItem"; title = "Trajeto"; ObjectID = "Ae9-5l-gdh"; */
+"Ae9-5l-gdh.title" = "Trajeto";
 
-/* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "Coq-sX-wUc"; */
-"Coq-sX-wUc.title" = "Favourites";
+/* Class = "IBUINavigationItem"; title = "Favoritos"; ObjectID = "Coq-sX-wUc"; */
+"Coq-sX-wUc.title" = "Favoritoss";
 
-/* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "Evj-sr-WmQ"; */
-"Evj-sr-WmQ.title" = "Service";
+/* Class = "IBUINavigationItem"; title = "Serviço"; ObjectID = "Evj-sr-WmQ"; */
+"Evj-sr-WmQ.title" = "Serviço";
 
-/* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "Zm3-OW-yUo"; */
-"Zm3-OW-yUo.title" = "Timetable";
+/* Class = "IBUINavigationItem"; title = "Horário"; ObjectID = "Zm3-OW-yUo"; */
+"Zm3-OW-yUo.title" = "Horário";
 
-/* Class = "IBUINavigationItem"; title = "Search"; ObjectID = "zLA-pv-5AY"; */
-"zLA-pv-5AY.title" = "Search";
+/* Class = "IBUINavigationItem"; title = "Procurar"; ObjectID = "zLA-pv-5AY"; */
+"zLA-pv-5AY.title" = "Procurar";
