@@ -10,25 +10,25 @@ transportation,public,rail,express,bus,schedule,subway,metro,train,taxi,cab,dire
 # SCREENSHOT TITLES
 
 1:
-Your City Transit & Public Transport App
-With calendar integration
-"TripGo is a one-stop shop. It's like your personal transport genius."
+Aplicativo de trânsito e transport público da sua cidade
+Com calendário integrado
+"TripGo é um one-stop shop. É como se fosse o seu gênio pessoal de transportes."
 
 2: 
-Compare time, cost and carbon
+Compara tempo, custo e carbono
 
 3:
-Real-time alerts for when to leave for your trip
+Alertas em tempo real para voce sair para o seu trajeto.
 
 4: 
-Sync your calendar and let us do the planning for you
+Sincroniza seu calendário e nos deixa planejar tudo para voce.
 
 5: 
-Choose your favourite public and private transport options
+Escolha sua opção favorita de transporte público e privado.
 
-# DESCRIPTION
+# DESCRICÃO
 
-TripGo is an award winning city trip planner app that helps you travel smarter. With TripGo it's super easy to find your way around and get from A to B on time. It’s the only app that let’s you combine any (really, any!) public transit in your city with taxis, your own car, car share, bike share etc.  Personalise your trips by picking your route preferences and never be late again by syncing TripGo with your agenda.
+TripGo é um premiado aplicativo planejador de trajetos da cidade que ajuda você a viajar de forma mais inteligente. Com TripIt é super fácil de encontrar o seu caminho de volta e ir de A para B na hora certa . É o único aplicativo que permite que você combine qualquer (na verdade, qualquer!) transporte público na sua cidade com os táxis, com o seu próprio carro, com carro comparilhado, com bicicleta compartilhada, etc. Personalize seus trajetos, escolhendo as preferências de rota e nunca se atrase novamente sincronizando TripGo com a sua agenda.
 
 With TripGo you can plan your ride, check fares & times, bus and train tickets, transit directions, timetables and get live service alerts. One of our best features: Connect your calendar to get automatic trips & leave alerts. 
 
@@ -61,19 +61,19 @@ WHAT YOU GET
 + Automatically plans trips between home, work and events in your calendar
 + Today Widget for instant trip results
 + Apple Watch with instant trip results and access to your favourites
-+ Public transport schedules/timetables
-+ Reminders: add a reminder to your trip and the app will notify when to leave
-+ Pricing for public transport, taxis, tolls and car parks
++ Horários de transporte público
++ Lembretes: adicione um lembrete para o seu trajeto e o aplicativo notificará quando voce precisa ir
++ Preço para transporte público, taxis, pedágio e estacionamentos
 
-COUNTRIES & CITIES TRIPGO COVERS
-Brazil: Porto Alegre, Sao Paulo
+PAÍSES E CIDADES QUE TRIPGO ATUA
+Brasil: Porto Alegre, São Paulo
 
 Travelling abroad? TripGo can help you here too:
-Argentina: Bahia Blanca; Australia*;; Canada: Calgary, Edmonton, Halifax, Montreal*, Ottawa, Quebec City, Toronto*, Vancouver*, Victoria, Winnipeg; Chile: Santiago; Estonia; Finland*; France: Bordeaux, Nantes, Paris, Rennes, Strasbourg, Toulouse; Germany: Berlin, Hamburg, Potsdam; Hungary: Budapest; Ireland; Italy: Bologna, Milan, Palermo, Rome, Turin; Latvia: Riga; Mexico: Mexico City; Netherlands*; New Zealand*; Norway: Oslo; Portugal: Lisbon; Spain: Barcelona, Madrid; Sweden; United Kingdom; United States: New York City, NY*; Seattle, WA*; Portland, OR*; Phoenix, AZ; Los Angeles, CA*; Sacramento, CA; San Diego, CA; San Francisco, CA*; Santa Rosa, CA; Denver, CO (+ Boulder); Washington, DC (+ Baltimore, MD)*; Miami, FL; Orlando, FL; Tampa, FL; Atlanta, GA*; Honolulu, HI; Chicago, IL; Louisville, KY*; Boston, MA*; Detroit, MI; Grand Rapids, MI; Minneapolis, MN (+ St. Paul); Kansas City, MO; Saint Louis, MO; Las Vegas, NV; Buffalo, NY; Cincinnati, OH; Cleveland, OH; Columbus, OH; Philadelphia, PA; Pittsburgh, PA; Austin, TX (+ San Antonio)*; Dallas, TX (+ Fort Worth); Houston, TX; Salt Lake City, UT; Madison, WI; Milwaukee, WI; Vietnam: Ho Chi Minh City
+Argentina: Bahia Blanca; Austrália*;; Canada: Calgary, Edmonton, Halifax, Montreal*, Ottawa, Quebec City, Toronto*, Vancouver*, Victoria, Winnipeg; Chile: Santiago; Estonia; Finlandia*; França: Bordeaux, Nantes, Paris, Rennes, Strasbourg, Toulouse; Alemanha: Berlin, Hamburgo, Potsdam; Hungria: Budapeste; Irlanda; Italia: Bologna, Milão, Palermo, Roma, Turin; Latvia: Riga; México: México City; Países baixos*; Nova Zelandia*; Noruega: Oslo; Portugal: Lisboa; Espanha: Barcelona, Madrid; Suécia; Inglaterra; estados Unidos: Cidade de Nova York, NY*; Seattle, WA*; Portland, OR*; Phoenix, AZ; Los Angeles, CA*; Sacramento, CA; San Diego, CA; San Francisco, CA*; Santa Rosa, CA; Denver, CO (+ Boulder); Washington, DC (+ Baltimore, MD)*; Miami, FL; Orlando, FL; Tampa, FL; Atlanta, GA*; Honolulu, HI; Chicago, IL; Louisville, KY*; Boston, MA*; Detroit, MI; Grand Rapids, MI; Minneapolis, MN (+ St. Paul); Kansas City, MO; Saint Louis, MO; Las Vegas, NV; Buffalo, NY; Cincinnati, OH; Cleveland, OH; Columbus, OH; Philadelphia, PA; Pittsburgh, PA; Austin, TX (+ San Antonio)*; Dallas, TX (+ Fort Worth); Houston, TX; Salt Lake City, UT; Madison, WI; Milwaukee, WI; Vietnam: Ho Chi Minh City
 
-* real-time data
+* dados em tempo real
 
-We actually reply to user emails so drop us a message with your feedback via support@skedgo.com. 
+Nós, na verdade, respondemos a e-mails de usuários de forma que envie-nos uma mensagem com o seu feedback via support@skedgo.com. 
 
 Instagram @tripgo_
 Twitter @TripGo
