@@ -2,6 +2,9 @@
 
 TripGo: Calendar-integrated Directions for Train, Bus, Subway, Tram, Bicycle, Taxi, Bike/Car Sharing and more.
 
+# KEYWORDS (99 characters)
+
+transportation,public,rail,express,bus,schedule,subway,metro,train,taxi,cab,directions,fare,tracker
 
 # SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
 
@@ -11,68 +14,54 @@ TripGo: Calendar-integrated Directions for Train, Bus, Subway, Tram, Bicycle, Ta
 - "Real-time alerts for your trips."
 - "Personalized to your life"
 
-
 # DESCRIPTION
 
-Get directions from A to B and choose the fastest route based on real-time data.
+TripGo is an award winning city trip planner app that helps you travel smarter. With TripGo it's super easy to find your way around and get from A to B on time. It’s the only app that let’s you combine any (really, any!) public transit in your city with taxis, your own car, car share, bike share etc.  Personalise your trips by picking your route preferences and never be late again by syncing TripGo with your agenda.
 
-Plan your trip, check timetables and get live service alerts. Connect your calendar to get automatic trips & leave alerts.
+With TripGo you can plan your ride, check fares & times, bus and train tickets, transit directions, timetables and get live service alerts. One of our best features: Connect your calendar to get automatic trips & leave alerts. 
 
-Time poor? Money poor? Environment focused? TripGo gives you transport solutions that fit your priorities.
+Combine local public transit (bus, train, ferry, tram, subway, metro, rail) with private and other transport such as taxi, cabs, ride share, shuttle services, car routes and car sharing, motorbike, cycle routes, bike sharing and walking. 
 
-Works in major cities across the US, Canada, Europe & Australia.
+TripGo delivers results in real-time: Up-to-the minute information on predicted departure/arrival times, GPS locations and service alerts make for accurate trip planning - TripGo keeps you up to date and on time.
 
+WHAT USERS SAY
+"A must have app!!!"
+"I can't thank you enough for this app!"
+"You have improved my life, can't rave enough!"
+"Should be 6 stars" 
+"Awesome love it"
+"Life saving app. One of my favorites! Keep up the good work! ;-)"
 
-TRANSPORT MODES:
+"The really nice thing is that TripGo doesn’t lock you in to one transport mode or preference. You can choose the most efficient, fastest, or cheapest route." - Planetsave
 
-+ Public transport: buses, ferries, subways, trains, trams and more
-+ Taxi
-+ Shuttle services
-+ Car
-+ Car Sharing
-+ Motorbike
-+ Bicycle
-+ Bike Sharing
-+ Walking
+AWARDS 
+2015: Popular Choice Award at São Paulo Mobility Global Challenge
+2015: Winner of Smart City App Hack Barcelona
+2014: Winner of CodeWorks NSW Roads Hackathon
+2013: Winner of Transport for NSW App Hot House (trains)
+2013: Finalist of QLD Premier's Award for Open Data
+2012: Winner of Transport for NSW App Hot House (buses) 
+2012: Winner of Optus/NICTA Award
 
-You'll get results for each of those, and also combinations thereof!
-
-
-FEATURES:
-
+WHAT YOU GET
++ Real-time information for public transport (live map): tap on stops and stations to see real-time schedules. Click on a route to see positions of the vehicle, live on the map.
 + Door-to-door options for easy comparison on price, time and environmental impact
-+ Automatic trips between home, work and events in your calendar
-+ Real-time driving times for Sydney
-+ Real-time transit information
++ Automatically plans trips between home, work and events in your calendar
++ Today Widget for instant trip results
++ Apple Watch with instant trip results and access to your favourites
 + Public transport schedules/timetables
-+ Plan trips according to your preferences.
-+ Get reminders for your upcoming trips—always arrive at your events on time.
++ Reminders: add a reminder to your trip and the app will notify when to leave
 + Pricing for public transport, taxis, tolls and car parks
-+ Search for points of interest and businesses
-+ Open from Apple Maps
-+ Launch turn-by-turn navigation
 
+COUNTRIES & CITIES TRIPGO COVERS
+Brazil: Porto Alegre, Sao Paulo
 
-SUPPORTED CITIES:
+Travelling abroad? TripGo can help you here too:
+Argentina: Bahia Blanca; Australia*;; Canada: Calgary, Edmonton, Halifax, Montreal*, Ottawa, Quebec City, Toronto*, Vancouver*, Victoria, Winnipeg; Chile: Santiago; Estonia; Finland*; France: Bordeaux, Nantes, Paris, Rennes, Strasbourg, Toulouse; Germany: Berlin, Hamburg, Potsdam; Hungary: Budapest; Ireland; Italy: Bologna, Milan, Palermo, Rome, Turin; Latvia: Riga; Mexico: Mexico City; Netherlands*; New Zealand*; Norway: Oslo; Portugal: Lisbon; Spain: Barcelona, Madrid; Sweden; United Kingdom; United States: New York City, NY*; Seattle, WA*; Portland, OR*; Phoenix, AZ; Los Angeles, CA*; Sacramento, CA; San Diego, CA; San Francisco, CA*; Santa Rosa, CA; Denver, CO (+ Boulder); Washington, DC (+ Baltimore, MD)*; Miami, FL; Orlando, FL; Tampa, FL; Atlanta, GA*; Honolulu, HI; Chicago, IL; Louisville, KY*; Boston, MA*; Detroit, MI; Grand Rapids, MI; Minneapolis, MN (+ St. Paul); Kansas City, MO; Saint Louis, MO; Las Vegas, NV; Buffalo, NY; Cincinnati, OH; Cleveland, OH; Columbus, OH; Philadelphia, PA; Pittsburgh, PA; Austin, TX (+ San Antonio)*; Dallas, TX (+ Fort Worth); Houston, TX; Salt Lake City, UT; Madison, WI; Milwaukee, WI; Vietnam: Ho Chi Minh City
 
-- Argentina: Bahia Blanca
-- Australia: Adelaide, Brisbane [*], Canberra, Cairns, Darwin, Hobart, Melbourne, Perth, Sydney [**]
-- Canada: Calgary, Edmonton, Halifax, Montreal [*], Ottawa, Quebec City, Thunder Bay [*], Toronto [*], Vancouver, Victoria, Winnipeg
-- Chile: Santiago
-- England: London, Manchester
-- Finland: Helsinki [*]
-- France: Bordeaux, Nantes, Rennes, Strasbourg, Toulouse
-- Germany: Berlin, Potsdam
-- Hungary: Budapest
-- Ireland: Dublin
-- Italy: Milan, Rome, Trentino, Turin
-- Mexico: Mexico City
-- Netherlands: Amsterdam [*], The Hague [*], Rotterdam [*], Utrecht [*]
-- New Zealand: Auckland, Christchurch [*], Wellington
-- Norway: Oslo, Stavanger
-- Spain: Madrid
-- USA: Atlanta, Austin, Baltimore [*], Boston [*], Boulder, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Fort Worth, Honolulu, Houston, Las Vegas, Los Angeles [*], Louisville, Miami, Minneapolis, New York [*], Orlando, Philadelphia, Phoenix, Pittsburgh, Portland [*], Sacramento, Salt Lake City, San Diego, San Antonio, San Francisco [*], Santa Rosa, Seattle, St. Louis, St. Paul, Tampa, Washington DC [*]
-- Vietnam: Ho Chi Minh City
+* real-time data
 
-[*] including real-time transit
-[**] including real-time transit & driving
+We actually reply to user emails so drop us a message with your feedback via support@skedgo.com. 
+
+Instagram @tripgo_
+Twitter @TripGo
