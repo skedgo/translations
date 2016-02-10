@@ -1,18 +1,30 @@
 # APP TITLE (255 Characters)
 
-TripGo: Calendar-integrated Directions for Train, Bus, Subway, Tram, Bicycle, Taxi, Bike/Car Sharing and more.
+TripGo - City transit 
+TripGo - City transit planner
 
 # KEYWORDS (99 characters)
 
 transportation,public,rail,express,bus,schedule,subway,metro,train,taxi,cab,directions,fare,tracker
 
-# SCREENSHOT TITLES (https://github.com/skedgo/tripgo-ios/wiki/Routes)
+# SCREENSHOT TITLES
 
-- "Knows your schedule. Plans your moves."
-- "All your private and public transports." 
-- "Compare cost, time and carbon." 
-- "Real-time alerts for your trips."
-- "Personalized to your life"
+1:
+Your City Transit & Public Transport App
+With calendar integration
+"TripGo is a one-stop shop. It's like your personal transport genius."
+
+2: 
+Compare time, cost and carbon
+
+3:
+Real-time alerts for when to leave for your trip
+
+4: 
+Sync your calendar and let us do the planning for you
+
+5: 
+Choose your favourite public and private transport options
 
 # DESCRIPTION
 
