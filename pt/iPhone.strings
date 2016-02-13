@@ -1,30 +1,30 @@
 
-/* Class = "IBUITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe"; */
-"3d9-Hg-2Fe.title" = "Trips";
+/* Class = "IBUITabBarItem"; title = "Trajetos"; ObjectID = "3d9-Hg-2Fe"; */
+"3d9-Hg-2Fe.title" = "Trajetos";
 
-/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
-"5WK-au-VFq.title" = "Settings";
+/* Class = "IBUINavigationItem"; title = "Configurações"; ObjectID = "5WK-au-VFq"; */
+"5WK-au-VFq.title" = "Configurações";
 
-/* Class = "IBUINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN"; */
-"IFX-i9-ymN.title" = "Routes";
+/* Class = "IBUINavigationItem"; title = "Rotas"; ObjectID = "IFX-i9-ymN"; */
+"IFX-i9-ymN.title" = "Rotas";
 
-/* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
-"JMk-5m-B22.title" = "Service";
+/* Class = "IBUINavigationItem"; title = "Serviço"; ObjectID = "JMk-5m-B22"; */
+"JMk-5m-B22.title" = "Serviço";
 
-/* Class = "IBUINavigationItem"; title = "Favourites"; ObjectID = "KGR-eg-uwA"; */
-"KGR-eg-uwA.title" = "Favourites";
+/* Class = "IBUINavigationItem"; title = "Favoritos"; ObjectID = "KGR-eg-uwA"; */
+"KGR-eg-uwA.title" = "Favoritos";
 
-/* Class = "IBUINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
-"QTR-Ae-g7f.title" = "Trip";
+/* Class = "IBUINavigationItem"; title = "Trajeto"; ObjectID = "QTR-Ae-g7f"; */
+"QTR-Ae-g7f.title" = "Trajeto";
 
 /* Class = "IBUITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
 "TNA-bx-79H.title" = "Agenda";
 
-/* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "TYM-9i-XBA"; */
-"TYM-9i-XBA.title" = "Settings";
+/* Class = "IBUITabBarItem"; title = "Configurações"; ObjectID = "TYM-9i-XBA"; */
+"TYM-9i-XBA.title" = "Configurações";
 
-/* Class = "IBUITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
-"ye4-ch-zSe.title" = "Favourites";
+/* Class = "IBUITabBarItem"; title = "Favoritos"; ObjectID = "ye4-ch-zSe"; */
+"ye4-ch-zSe.title" = "Favoritos";
 
-/* Class = "IBUINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n"; */
-"zCk-Ai-u6n.title" = "Timetable";
+/* Class = "IBUINavigationItem"; title = "Horário"; ObjectID = "zCk-Ai-u6n"; */
+"zCk-Ai-u6n.title" = "Horário";
