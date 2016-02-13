@@ -1,16 +1,16 @@
-# APP TITLE (255 Characters)
+# TÊTULO DO APLICATIVO (255 Characters)
 
-TripGo - City transit 
-TripGo - City transit planner
+TripGo - trânsito da cidade 
+TripGo - planejador do trânsito da cidade 
 
-# KEYWORDS (99 characters)
+# PALAVRAS CHAVES (99 characters)
 
-transportation,public,rail,express,bus,schedule,subway,metro,train,taxi,cab,directions,fare,tracker
+transporte,público,trilho,expresso,ônibus,horário,metrô,trem,taxi,direções,tarifa,rastreador
 
-# SCREENSHOT TITLES
+# TÍTULOS DE TELA
 
 1:
-Aplicativo de trânsito e transport público da sua cidade
+Aplicativo de trânsito e transporte público da sua cidade
 Com calendário integrado
 "TripGo é um one-stop shop. É como se fosse o seu gênio pessoal de transportes."
 
@@ -28,39 +28,39 @@ Escolha sua opção favorita de transporte público e privado.
 
 # DESCRICÃO
 
-TripGo é um premiado aplicativo planejador de trajetos da cidade que ajuda você a viajar de forma mais inteligente. Com TripIt é super fácil de encontrar o seu caminho de volta e ir de A para B na hora certa . É o único aplicativo que permite que você combine qualquer (na verdade, qualquer!) transporte público na sua cidade com os táxis, com o seu próprio carro, com carro comparilhado, com bicicleta compartilhada, etc. Personalize seus trajetos, escolhendo as preferências de rota e nunca se atrase novamente sincronizando TripGo com a sua agenda.
+TripGo é um premiado aplicativo planejador de trajetos da cidade que ajuda você a viajar de forma mais inteligente. Com TripIt é super fácil de encontrar o seu caminho de ida e volta de A para B na hora certa . É o único aplicativo que permite que você combine qualquer (realmente, qualquer!) transporte público na sua cidade com os táxis, com o seu próprio carro, com compartilha de carro, com compartilha de bicicleta, etc. Personalize seus trajetos, escolhendo as preferências de rota e nunca mais se atrase sincronizando TripGo com a sua agenda.
 
-With TripGo you can plan your ride, check fares & times, bus and train tickets, transit directions, timetables and get live service alerts. One of our best features: Connect your calendar to get automatic trips & leave alerts. 
+Com TripGo voce pode planejar o seu passeio, checar tarifas e hora, bilhetes de ônibus e trems, direção do trânsito, horários e serviço de alertas ao vivo. Uma das nossas principais características: conectar o seu calendário para obter trajetos automáticos e receber alertas.
 
-Combine local public transit (bus, train, ferry, tram, subway, metro, rail) with private and other transport such as taxi, cabs, ride share, shuttle services, car routes and car sharing, motorbike, cycle routes, bike sharing and walking. 
+Combine transporte público (ônibus, trem, balsa, trem eléctrico, metrô) com privado e outros transportes como taxi,carona,shuttle,rotas de carro e compartilha de carro, motocicleta, rotas de bicicleta, compartilha de bicicleta e caminhada. 
 
-TripGo delivers results in real-time: Up-to-the minute information on predicted departure/arrival times, GPS locations and service alerts make for accurate trip planning - TripGo keeps you up to date and on time.
+TripGo fornece resultados em tempo real: Informação atual em horáriosa previstos de saída e chegada, localizações via GPS e serviço de alertas fazem com que o seu trajeto planejado seja preciso - TripGo mantem voce atualizado e em pontual.
 
-WHAT USERS SAY
-"A must have app!!!"
-"I can't thank you enough for this app!"
-"You have improved my life, can't rave enough!"
-"Should be 6 stars" 
-"Awesome love it"
-"Life saving app. One of my favorites! Keep up the good work! ;-)"
+O QUE OS USUÁRIOS FALAM
+"Aplicativo imprescindível!!!"
+"Nem sei como agradecer esse aplicativo!"
+"Voce facilitou a minha vida. Nem tenho palavras para descrever!"
+"Deveria ser 6 estrelas" 
+"Maravilhoso! Amo!"
+"Aplicativo salvador de vidas. Um dos meus favoritos! Mantenha o bom trabalho! ;-)"
 
-"The really nice thing is that TripGo doesn’t lock you in to one transport mode or preference. You can choose the most efficient, fastest, or cheapest route." - Planetsave
+"A coisa mais legal é que TripGo não te dá apenas uma opção de modo  de transporte ou preferência. Voce pode escolher o modo mais eficiênte, mais rápido ou a rota mais barata." - Planetsave
 
-AWARDS 
-2015: Popular Choice Award at São Paulo Mobility Global Challenge
-2015: Winner of Smart City App Hack Barcelona
-2014: Winner of CodeWorks NSW Roads Hackathon
-2013: Winner of Transport for NSW App Hot House (trains)
-2013: Finalist of QLD Premier's Award for Open Data
-2012: Winner of Transport for NSW App Hot House (buses) 
-2012: Winner of Optus/NICTA Award
+PRÊMIOS 
+2015: Prêmio da Escolha Pública em São Paulo Mobility Global Challenge
+2015: Vencedor de Smart City App Hack Barcelona
+2014: Vencedor de CodeWorks NSW Roads Hackathon
+2013: Vencedor de transportes de NSW App Hot House (trens)
+2013: Finalista de QLD Premier's Award for Open Data
+2012: Vencedor de transportes de NSW App Hot House (ônibus) 
+2012: Vencedor do prêmio Optus/NICTA
 
-WHAT YOU GET
-+ Real-time information for public transport (live map): tap on stops and stations to see real-time schedules. Click on a route to see positions of the vehicle, live on the map.
-+ Door-to-door options for easy comparison on price, time and environmental impact
-+ Automatically plans trips between home, work and events in your calendar
-+ Today Widget for instant trip results
-+ Apple Watch with instant trip results and access to your favourites
+O QUE VOCE OBTEM
++ Informação em tempo real para transporte público (mapa ao vivo): toque em paradas e estações para ver horários em tempo real. Toque numa rota para ver a posição do veículo, ao vivo no mapa.
++ Opções de porta para porta para facilmente comparar preços, horários e impacto ao meio ambiente.
++ Planeja automáticamente trajetos entre casa, trabalho e eventos no seu calendário.
++ Use Today Widget para resultados de trajetos instantâneo.
++ Use Apple Watch com resultados trajetos instantâneos e acesso para os seus favoritos
 + Horários de transporte público
 + Lembretes: adicione um lembrete para o seu trajeto e o aplicativo notificará quando voce precisa ir
 + Preço para transporte público, taxis, pedágio e estacionamentos
@@ -68,12 +68,12 @@ WHAT YOU GET
 PAÍSES E CIDADES QUE TRIPGO ATUA
 Brasil: Porto Alegre, São Paulo
 
-Travelling abroad? TripGo can help you here too:
-Argentina: Bahia Blanca; Austrália*;; Canada: Calgary, Edmonton, Halifax, Montreal*, Ottawa, Quebec City, Toronto*, Vancouver*, Victoria, Winnipeg; Chile: Santiago; Estonia; Finlandia*; França: Bordeaux, Nantes, Paris, Rennes, Strasbourg, Toulouse; Alemanha: Berlin, Hamburgo, Potsdam; Hungria: Budapeste; Irlanda; Italia: Bologna, Milão, Palermo, Roma, Turin; Latvia: Riga; México: México City; Países baixos*; Nova Zelandia*; Noruega: Oslo; Portugal: Lisboa; Espanha: Barcelona, Madrid; Suécia; Inglaterra; estados Unidos: Cidade de Nova York, NY*; Seattle, WA*; Portland, OR*; Phoenix, AZ; Los Angeles, CA*; Sacramento, CA; San Diego, CA; San Francisco, CA*; Santa Rosa, CA; Denver, CO (+ Boulder); Washington, DC (+ Baltimore, MD)*; Miami, FL; Orlando, FL; Tampa, FL; Atlanta, GA*; Honolulu, HI; Chicago, IL; Louisville, KY*; Boston, MA*; Detroit, MI; Grand Rapids, MI; Minneapolis, MN (+ St. Paul); Kansas City, MO; Saint Louis, MO; Las Vegas, NV; Buffalo, NY; Cincinnati, OH; Cleveland, OH; Columbus, OH; Philadelphia, PA; Pittsburgh, PA; Austin, TX (+ San Antonio)*; Dallas, TX (+ Fort Worth); Houston, TX; Salt Lake City, UT; Madison, WI; Milwaukee, WI; Vietnam: Ho Chi Minh City
+Viajando para outros países? TripGo pode te ajudar lá tambem:
+Argentina: Bahia Blanca; Austrália*;; Canadá: Calgary, Edmonton, Halifax, Montreal*, Ottawa, Codade de Quebec, Toronto*, Vancouver*, Victoria, Winnipeg; Chile: Santiago; Estonia; Finlandia*; França: Bordeaux, Nantes, Paris, Rennes, Strasbourg, Toulouse; Alemanha: Berlin, Hamburgo, Potsdam; Hungria: Budapeste; Irlanda; Italia: Bologna, Milão, Palermo, Roma, Turin; Latvia: Riga; México: México City; Países baixos*; Nova Zelandia*; Noruega: Oslo; Portugal: Lisboa; Espanha: Barcelona, Madrid; Suécia; Inglaterra; estados Unidos: Cidade de Nova York, NY*; Seattle, WA*; Portland, OR*; Phoenix, AZ; Los Angeles, CA*; Sacramento, CA; San Diego, CA; San Francisco, CA*; Santa Rosa, CA; Denver, CO (+ Boulder); Washington, DC (+ Baltimore, MD)*; Miami, FL; Orlando, FL; Tampa, FL; Atlanta, GA*; Honolulu, HI; Chicago, IL; Louisville, KY*; Boston, MA*; Detroit, MI; Grand Rapids, MI; Minneapolis, MN (+ St. Paul); Kansas City, MO; Saint Louis, MO; Las Vegas, NV; Buffalo, NY; Cincinnati, OH; Cleveland, OH; Columbus, OH; Philadelphia, PA; Pittsburgh, PA; Austin, TX (+ San Antonio)*; Dallas, TX (+ Fort Worth); Houston, TX; Salt Lake City, UT; Madison, WI; Milwaukee, WI; Vietnam: Ho Chi Minh City
 
 * dados em tempo real
 
-Nós, na verdade, respondemos a e-mails de usuários de forma que envie-nos uma mensagem com o seu feedback via support@skedgo.com. 
+Seguramente respondemos a e-mails de usuários. De forma que porfavor envie-nos uma mensagem com o seu feedback via support@skedgo.com. 
 
 Instagram @tripgo_
 Twitter @TripGo
