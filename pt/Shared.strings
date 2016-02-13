@@ -1,5 +1,5 @@
 /* Message that indicates the app is about to sign users out of their user accounts */
-" The app will now sign out" = " O aplicativo vai agora fechar";
+" The app will now sign out" = "O aplicativo vai agora fechar";
 
 /* Authorization restricted alert message */
 "Access to this feature has been restricted for your device. Please check the Settings app > General > Restrictions or ask your device provider." = "O acesso a este recurso tem sido restrito para o seu dispositivo. Por favor, verifique as configurações do aplicativo> Geral> Restrições ou pergunte ao seu provedor.";
@@ -14,13 +14,13 @@
 "all-day" = "dia inteiro";
 
 /* Option for users if they already owned a SkedGo account */
-"Already have an account? Sign in" = "Ja possui contat? assine";
+"Already have an account? Sign in" = "Ja possui contat? Assine";
 
 /* Estimated time of arrival */
 "ArrivalTimeIndication" = " (chegada ";
 
 /* Authorisation needed title */
-"Authorisation needed" = "autorização necessária";
+"Authorisation needed" = "Autorização necessária";
 
 /* Type of vehicle : bicycle */
 "Bicycle" = "Bicyicleta";
@@ -38,16 +38,16 @@
 "Car" = "Carro";
 
 /* Credit card number */
-"Card No." = "número do cartão.";
+"Card No." = "Número do cartão.";
 
 /* Instruction for changing password */
-"Change" = "mudar";
+"Change" = "Mudar";
 
 /* Accessibility - user location button - hint */
 "Change tracking options" = "Alterar as opções de rastreamento";
 
 /* Accessibility title for a checkmark/tick button */
-"Checkmark" = "marcar";
+"Checkmark" = "Marcar";
 
 /* Button title to dismiss a view
    Close action */
@@ -60,7 +60,7 @@
 "CouldNotDownloadSupportedRegions" = "Não foi possível baixar regiões apoiadas do servidor TripGo. Por favor tente de novo mais tarde.";
 
 /* Message that indicates the app is creating accounts for users */
-"Creating account" = "criar conta";
+"Creating account" = "Criar conta";
 
 /* Section title for credit card payment */
 "Credit card" = "Credicard";
@@ -72,7 +72,7 @@
 "CVC" = "CVC";
 
 /* to %date */
-"DateToFormat" = "para %@";
+"DateToFormat" = "Para %@";
 
 /* Delete action */
 "Delete" = "Apagar";
@@ -112,7 +112,7 @@
 "Expiry Date" = "Data de validade";
 
 /* No comment provided by engineer. */
-"First name" = "nome";
+"First name" = "Nome";
 
 /* Option that allows users to indicate whether reminder is needed */
 "For when to leave" = "Para quando sair";
@@ -127,7 +127,7 @@
 "Getting stripe token" = "Obtendo token de stripe";
 
 /* Accessibility annotation for trips which have a reminder set. */
-"Has reminder" = "possui lembrete";
+"Has reminder" = "Possui lembrete";
 
 /* Include contacts. */
 "Include contacts" = "Incluir contatos";
@@ -155,7 +155,7 @@
 "Location" = "Localização";
 
 /* Location iOS6+ authorisation needed text */
-"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = " Os serviços de localização são requeridos para o uso deste recurso. Por favor, acione o aplicativo Configurações > Privacidade > Serviços de Localização , verifique se eles estão ligados e autorizar esta aplicação.";
+"Location services are required to use this feature. Please go to the Settings app > Privacy > Location Services, make sure they are turned on and authorise this app." = "Os serviços de localização são requeridos para o uso deste recurso. Por favor, acione o aplicativo Configurações > Privacidade > Serviços de Localização , verifique se eles estão ligados e autorizar esta aplicação.";
 
 /* ex: 1min */
 "Min==1" = "1min";
@@ -276,7 +276,7 @@
 "Password" = "Senha";
 
 /* Indicating a payment is successful */
-"Payment successful" = "pagamento afetivado";
+"Payment successful" = "Pagamento afetivado";
 
 /* Section title for Paypal payment */
 "Paypal" = "Paypal";
@@ -303,7 +303,7 @@
 "Repeats daily" = "Repetições diárias";
 
 /* Repeats monthly */
-"Repeats monthly" = "Repetiç˜øes mensais";
+"Repeats monthly" = "Repetições mensais";
 
 /* Repeats weekly */
 "Repeats weekly" = "Repetições semanais";
@@ -315,7 +315,7 @@
 "RequestErrorFormat" = "'%@' não encontrado.";
 
 /* Sort by overall score, like a ranking. */
-"Score" = "pontos";
+"Score" = "Pontos";
 
 /* Empty search bar placeholder */
 "Search" = "Pesquisa";
@@ -355,10 +355,10 @@
 "SUV" = "Sports veículo utilitário";
 
 /* Accessibility - user location button - off */
-"Tracking - off" = "ratreamento - desligado";
+"Tracking - off" = "Ratreamento - desligado";
 
 /* user location button - follow */
-"Tracking - on" = "Rastreamento - ligado";
+"Tracking - on" = "Ratreamento - ligado";
 
 /* user location button - follow with heading */
 "Tracking - on with heading" = "ratreamento - ligado com título";
@@ -385,17 +385,17 @@
 "You need to agree to the insurance terms and conditions." = "You Voce precisa concordar com os termos de condições e seguro.";
 
 /* Calendar authorisation needed text */
-"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = Voce anteriormente negou o acesso deste app ao seu calendário. Por favor, acione Configurações > Privacidade> Calendário e autorizar este aplicativo para usar este recurso.";
+"You previously denied this app access to your calendar. Please go to the Settings app > Privacy > Calendar and authorise this app to use this feature." = "Voce anteriormente negou o acesso deste app ao seu calendário. Por favor, acione Configurações > Privacidade> Calendário e autorizar este aplicativo para usar este recurso.";
 
 /* Contacts authorisation needed text */
 "You previously denied this app access to your contacts. Please go to the Settings app > Privacy > Contacts and authorise this app to use this feature." = " Você anteriormente negou o acesso desse aplicativo aos seus contatos. Por favor, acione configurações de aplicativos > Privacidade > Contatos e autorizar este aplicativo para usar este recurso.";
 
 /* Name for a {Name}'s place if it's unclear if it's home, work or something else. */
-"{Name}'s" = "de %@";
+"{Name}'s" = "De %@";
 
 /* No comment provided by engineer. */
-"{Name}'s Home" = "casa de %@";
+"{Name}'s Home" = "Casa de %@";
 
 /* No comment provided by engineer. */
-"{Name}'s Work" = " Trabalho de %@";
+"{Name}'s Work" = "Trabalho de %@";
 

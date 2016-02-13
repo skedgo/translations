@@ -8,7 +8,7 @@
 "%@ to %@" = "%1$@ para %2$@";
 
 /* Error title when access to location hasn't been granted, but location is required. */
-"Access to location services required." = "acesso a serviços localizados requeridos.";
+"Access to location services required." = "Acesso a serviços localizados requeridos.";
 
 /* No comment provided by engineer. */
 "Add address..." = "Aadicione endereço...";
@@ -17,7 +17,7 @@
 "Add another recurrence" = "Adicione outro retorno";
 
 /* Add reminder activity title */
-"Add Reminder" = "adicione lembrete";
+"Add Reminder" = "Adicione lembrete";
 
 /* Add to agenda view title
    Save trip action */
@@ -42,7 +42,7 @@
 "Added to calendar" = "Adicionado no calendario";
 
 /* Alert title that indicates an address is missing when creating a new event. */
-"Address required" = "endereço requisitado";
+"Address required" = "Endereço requisitado";
 
 /* Add a new stopover */
 "AddStopover" = "Adicione escala...";
@@ -96,10 +96,10 @@
 "ArriveBefore" = "Chegada até";
 
 /* Title for section to assign a trip to a vehicle. */
-"Assign to vehicle" = "marcar para veículo";
+"Assign to vehicle" = "Marcar para veículo";
 
 /* Filler for a service running at time, e.g., 'At 11:56am' */
-"At " = "as ";
+"At " = "As ";
 
 /* Distance 'automatic' */
 "Auto" = "Automática";
@@ -111,7 +111,7 @@
 "Awesome! How about rating us?" = "Maravilha! Que tal nos avaliar?";
 
 /* vehicle booking action */
-"Book vehicle" = "reservar veículo";
+"Book vehicle" = "Reservar veículo";
 
 /* Book a taxi */
 "BookTaxi" = "Reservar taxi";
@@ -168,16 +168,16 @@
 "Custom trip has been cancelled" = "Trajeto de costume foi cancelada";
 
 /* Cycling speed preference */
-"Cycle speed" = "velocidade do ciclo";
+"Cycle speed" = "Velocidade do ciclo";
 
 /* No comment provided by engineer. */
 "Database corrupted and lost." = "Database corrompida e perdida.";
 
 /* From %date */
-"DateFromFormat" = "de %@";
+"DateFromFormat" = "De %@";
 
 /* From %date1 to %date2 */
-"DateFromToFormat" = "de %@ até %@";
+"DateFromToFormat" = "De %@ até %@";
 
 /* Departure date+time for overnight stay
    Departure time sorter title */
@@ -195,7 +195,8 @@
 "Do Not Include" = "Não incluir";
 
 /* No comment provided by engineer. */
-"Do you want to always use this trip and add it to your favourites?" = "Você quer sempre usar esse trajeto e salvar como favorito
+"Do you want to always use this trip and add it to your favourites?" = "Você quer sempre usar esse trajeto e salvar como favorito";
+
 /* Walkthrough (skip in here should match translation for 'Skip'. */
 "Don't have a fixed place of work or study? Skip this step." = "Não possui lugar fixo de estudo ou trabalho? Pular essa etapa.";
 
@@ -218,7 +219,7 @@
 "Event does not fit" = "Evento não se encaixa";
 
 /* No comment provided by engineer. */
-"Event is missing an address." = "sem endereço";
+"Event is missing an address." = "Sem endereço";
 
 /* No comment provided by engineer. */
 "Event is outside TripGo's range." = "Fora de alcance de TripGo";
@@ -236,7 +237,7 @@
 "EventStartDateTime" = "Começo";
 
 /* Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes' */
-"Every " = "a cada ";
+"Every " = "A cada ";
 
 /* Text do mark an example */
 "Example" = "Examplo";
@@ -276,10 +277,10 @@
 "Filter" = "Filtro";
 
 /* Flight */
-"Flight" = "vôo";
+"Flight" = "Vôo";
 
 /* Flight number prompt */
-"Flight number" = "número de vôo";
+"Flight number" = "Número de vôo";
 
 /* Date of the flight */
 "FlightDate" = "Data";
@@ -291,7 +292,7 @@
 "FlightNote" = "Anotação";
 
 /* Title for flight with %flightNumber */
-"FlightNumberFormat" = "vôo %@";
+"FlightNumberFormat" = "Vôo %@";
 
 /* Search for a flight */
 "FlightSearch" = "Procura de vôos";
@@ -303,16 +304,16 @@
 "FreeDirections" = "TripGo - direções livres";
 
 /* Favorite trip 'from' title */
-"From" = "de";
+"From" = "De";
 
 /* Format string for going from one location to others. Used to name favourite stops. */
-"From %@" = "de %@";
+"From %@" = "De %@";
 
 /* Route here... ...from Current location */
 "From current location" = "Do local atual";
 
 /* Location for trip exported as event going from %location1 to %location2 */
-"FromToForEventLocationFormat" = "de %@ para %@";
+"FromToForEventLocationFormat" = "De %@ para %@";
 
 /* Header for list of vehicles garaged at this location */
 "Garaged Vehicles" = "Garagem de veículos";
@@ -346,8 +347,7 @@
 "Habitual Visit" = "Rotina";
 
 /* Explanation for what routines are compared to calendar events and stays. Can be long-ish. */
-"HabitualEventDescription" = "Rotina é parte do seu movimento diário, mas são eventos que vocë não quer no seu calendário
-(ex.: trabalho). Eles são importantes para a agenda para que vocë chegue no lugar certo na hora certa.";
+"HabitualEventDescription" = "Rotina é parte do seu movimento diário, mas são eventos que vocë não quer no seu calendário (ex.: trabalho). Eles são importantes para a agenda para que vocë chegue no lugar certo na hora certa.";
 
 /* No comment provided by engineer. */
 "Has TripGo been useful to you?" = "O TripGo tem sido útil pra você?";
@@ -371,7 +371,8 @@
 "Include Step Count" = "Incluir número de passos";
 
 /* Concession pricing footer */
-"Information on concession pricing is subject to availability." = "Informação sobre concessões sujeito a disponibilidade
+"Information on concession pricing is subject to availability." = "Informação sobre concessões sujeito a disponibilidade";
+
 /* Accessibility hint for tapping title in agenda - jumps to 'today' */
 "Jump to today" = "Pule para hoje";
 
@@ -573,7 +574,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "Pofavor reinicie o seu aplicativo. Desculpe pela inconveniência!";
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address." = "Pofavor especifique endereço."; // TODO
+"Please specify an address." = "Pofavor especifique endereço.";
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "Pofavor tente reiniciar o seu aplicativo. Desculpe pela inconveniência!";
@@ -685,7 +686,7 @@
 "Save Time" = "Salvar horário";
 
 /* No comment provided by engineer. */
-"Search for a city" = "SProcura pela cidade";
+"Search for a city" = "Procura pela cidade";
 
 /* Agenda onboarding: placeholder text for search bar for 'home'. */
 "Search for your home address" = "Procura para o endereço residencial";
@@ -755,13 +756,13 @@
 "ShowTrip" = "Mostrar trajeto";
 
 /* Button title to skip a certain step */
-"Skip" = "pular";
+"Skip" = "Pular";
 
 /* Speed preference 'slow' */
-"Slow" = "devagar";
+"Slow" = "Devagar";
 
 /* No comment provided by engineer. */
-"Sorry. TripGo doesn't work here yet!" = "desculpe. TripGo não funciona aqui ainda!";
+"Sorry. TripGo doesn't work here yet!" = "Desculpe. TripGo não funciona aqui ainda!";
 
 /* Spread the word preference */
 "Spread the word" = "Conte para os outros";
@@ -770,13 +771,13 @@
 "SrcToDstFormat" = "De (%@) to para (%@)";
 
 /* Stay, i.e., type for dates you're staying at a hotel, or when moving house. */
-"Stay" = "estadia";
+"Stay" = "Estadia";
 
 /* Explanation for what stays are compared to calendar events and routines. Can be long-ish. */
 "StayEventDescription" = "Use para hotéis quando viajar, para que a agenda comece e termine na localização correta.";
 
 /* Title for identifying a location where you stay overnight */
-"StayTitle" = "acomodação";
+"StayTitle" = "Acomodação";
 
 /* Number of steps */
 "StepsNumber" = "%@ etapas tomadas";
@@ -797,7 +798,7 @@
 "Tap 'Routes' for alternative routes" = "Aperte 'Rotas' para rotas alternativas.";
 
 /* Walkthrough */
-"Tap and hold title to jump directly to a specified date." = "Aperte e segure tEitulo para pular direto para data específica.";
+"Tap and hold title to jump directly to a specified date." = "Aperte e segure título para pular direto para data específica.";
 
 /* Walkthrough */
 "Tap public transport stops for access to timetable" = "Aperte paradas de transporte público para acessar horários.";
@@ -853,7 +854,7 @@
 "TransportGenius" = "TripGo - Gênio do transporte";
 
 /* How do you want to go today? */
-"TransportModeWish" = "TripGo - Como voce gostaria de se locomover hoje ?";
+"TransportModeWish" = "TripGo - Como voce gostaria de se locomover hoje?";
 
 /* Title for a trip */
 "Trip" = "trajeto";
@@ -862,13 +863,13 @@
 "TripGo cannot access its local files." = "TripGo não pode acionar seus arquivos locais.";
 
 /* No comment provided by engineer. */
-"TripGo cannot update its local files." = "TripGo não pode atualizar seus arquivos locais .";
+"TripGo cannot update its local files." = "TripGo não pode atualizar seus arquivos locais.";
 
 /* No comment provided by engineer. */
-"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo ainda não alcança essa area. Porfavor navega para uma das areas que cobrimos e tente novamente .";
+"TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." = "TripGo ainda não alcança essa area. Porfavor navega para uma das areas que cobrimos e tente novamente.";
 
 /* Trips tab bar name */
-"TripsButton" = "trajetos";
+"TripsButton" = "Trajetos";
 
 /* Confirmation that tutorial was reset. */
 "Tutorial reset" = "Tutorial programado";
@@ -887,7 +888,7 @@
 
 /* Positive answer to displayed advertising.
    Show content of notification. */
-"View" = "vista";
+"View" = "Vista";
 
 /* View alternative times for this trip */
 "View times" = "Veja horários";
@@ -902,19 +903,20 @@
 "ViewPriceButton" = "Preço";
 
 /* Walking speed preference */
-"Walk speed" = "velocidade da caminhada";
+"Walk speed" = "Velocidade da caminhada";
 
 /* No comment provided by engineer. */
 "Week starts" = "Começo da semana";
 
 /* Header for staying away form home, i.e., when a user is NOT at their home */
-"WhenIAmAwayHeader" = "Stays";
+"WhenIAmAwayHeader" = "Stays"; // TODO
 
 /* Header for accommodations, i.e., when a user is typically at this location
    Header for routines and accommodations, i.e., when a user is typically at this location */
 "WhenIAmHereHeader" = "Agenda";
 
-/* Question for which events in a reQuais voce gostaria de deletar";
+/* Question for which events in a recurrence to delete (options are typically this/all/any from here) */
+"Which would you like to delete" = "Which would you like to delete"; // TODO
 
 /* Typical name that you'd give your work location */
 "Work" = "Trabalho";
@@ -926,7 +928,7 @@
 "Yes!" = "Sim!";
 
 /* Alert if service running late/early, meaning that the user might not make the next service. */
-"You might not make this transfer." = "Talvez não chegue a tempo de fazer a conexão .";
+"You might not make this transfer." = "Talvez não chegue a tempo de fazer a conexão.";
 
 /* No comment provided by engineer. */
 "Zoom in" = "Aumentar";
