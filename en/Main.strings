@@ -11,9 +11,6 @@
 /* Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
 "JMk-5m-B22.title" = "Service";
 
-/* Class = "UINavigationItem"; title = "Favourites"; ObjectID = "KGR-eg-uwA"; */
-"KGR-eg-uwA.title" = "Favorites";
-
 /* Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
 "QTR-Ae-g7f.title" = "Trip";
 
@@ -27,7 +24,7 @@
 "t3k-Ks-sqa.title" = "Alerts";
 
 /* Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
-"ye4-ch-zSe.title" = "Favorites";
+"ye4-ch-zSe.title" = "Favourites";
 
 /* Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n"; */
 "zCk-Ai-u6n.title" = "Schedule";

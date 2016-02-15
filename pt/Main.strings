@@ -1,0 +1,30 @@
+
+/* Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe"; */
+"3d9-Hg-2Fe.title" = "Trajetos";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq"; */
+"5WK-au-VFq.title" = "Configurações";
+
+/* Class = "UINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN"; */
+"IFX-i9-ymN.title" = "Rotas";
+
+/* Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22"; */
+"JMk-5m-B22.title" = "Serviço";
+
+/* Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f"; */
+"QTR-Ae-g7f.title" = "Trajeto";
+
+/* Class = "UITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H"; */
+"TNA-bx-79H.title" = "Agenda";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA"; */
+"TYM-9i-XBA.title" = "Perfil";
+
+/* Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa"; */
+"t3k-Ks-sqa.title" = "Alertas";
+
+/* Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe"; */
+"ye4-ch-zSe.title" = "Favoritos";
+
+/* Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n"; */
+"zCk-Ai-u6n.title" = "Horário";
