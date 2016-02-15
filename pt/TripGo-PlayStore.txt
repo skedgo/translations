@@ -1,0 +1,74 @@
+Easy transit planning for your city. Award-winning app. Never be late again!
+(76)
+
+TripGo is an award winning city trip planner app that helps you travel smarter. With TripGo it's super 
+easy to find your way around and get from A to B on time. It’s the only app that let’s you combine any 
+(really, any!) public transit in your city with taxis, your own car, car share, bike share etc.  Personalise 
+your trips by picking your route preferences and never be late again by syncing TripGo with your 
+agenda.
+
+"Deleting all the other public transport apps. This is the only one I need. 5/5" - Rob M. via Play Store
+
+With TripGo you can plan your ride, check fares & times, bus and train tickets, transit directions, 
+timetables and get live service alerts. One of our best features: Connect your calendar to get automatic 
+trips & leave alerts. 
+
+“Love the new feature of integrating modes of transport like taxi / ride share into legs of the trip. 
+Wow! Killer feature!” - Paul Z. via email
+
+Combine local public transit (bus, train, ferry, tram, subway, metro, rail) with private and other 
+transport such as taxi, cabs, ride share, shuttle services, car routes and car sharing, motorbike, cycle 
+routes, bike sharing and walking. 
+
+"Really great features, agenda is amazing, great support from developer... I can now use calender 
+events or normal events to instantly generate trip info. So handy!" - James F. via Play Store
+
+TripGo delivers results in real-time: Up-to-the minute information on predicted departure/arrival 
+times, GPS locations and service alerts make for accurate trip planning - TripGo keeps you up to date 
+and on time.
+
+"The really nice thing is that TripGo doesn’t lock you in to one transport mode or preference. You can 
+choose the most efficient, fastest, or cheapest route." - Planetsave
+
+AWARDS 
+2015: Popular Choice Award at São Paulo Mobility Global Challenge
+2015: Winner of Smart City App Hack Barcelona
+2014: Winner of CodeWorks NSW Roads Hackathon
+2013: Winner of Transport for NSW App Hot House (trains)
+2013: Finalist of QLD Premier's Award for Open Data
+2012: Winner of Transport for NSW App Hot House (buses) 
+2012: Winner of Optus/NICTA Award
+
+WHAT YOU GET
++ Real-time information for public transport (live map): tap on stops and stations to see real-time 
+schedules. Click on a route to see positions of the vehicle, live on the map.
++ Door-to-door options for easy comparison on price, time and environmental impact
++ Automatically plans trips between home, work and events in your calendar
++ Today Widget for instant trip results
++ Public transport schedules/timetables
++ Reminders: add a reminder to your trip and the app will notify when to leave
++ Pricing for public transport, taxis, tolls and car parks
+
+COUNTRIES & CITIES TRIPGO COVERS
+Brazil: Porto Alegre, Sao Paulo
+
+Travelling abroad? TripGo can help you here too:
+Argentina: Bahia Blanca; Australia*;; Canada: Calgary, Edmonton, Halifax, Montreal*, Ottawa, Quebec 
+City, Toronto*, Vancouver*, Victoria, Winnipeg; Chile: Santiago; Estonia; Finland*; France: Bordeaux, 
+Nantes, Paris, Rennes, Strasbourg, Toulouse; Germany: Berlin, Hamburg, Potsdam; Hungary: 
+Budapest; Ireland; Italy: Bologna, Milan, Palermo, Rome, Turin; Latvia: Riga; Mexico: Mexico City; 
+Netherlands*; New Zealand*; Norway: Oslo; Portugal: Lisbon; Spain: Barcelona, Madrid; Sweden; 
+United Kingdom; United States: New York City, NY*; Seattle, WA*; Portland, OR*; Phoenix, AZ; Los 
+Angeles, CA*; Sacramento, CA; San Diego, CA; San Francisco, CA*; Santa Rosa, CA; Denver, CO (+ 
+Boulder); Washington, DC (+ Baltimore, MD)*; Miami, FL; Orlando, FL; Tampa, FL; Atlanta, GA*; 
+Honolulu, HI; Chicago, IL; Louisville, KY*; Boston, MA*; Detroit, MI; Grand Rapids, MI; Minneapolis, MN 
+(+ St. Paul); Kansas City, MO; Saint Louis, MO; Las Vegas, NV; Buffalo, NY; Cincinnati, OH; Cleveland, 
+OH; Columbus, OH; Philadelphia, PA; Pittsburgh, PA; Austin, TX (+ San Antonio)*; Dallas, TX (+ Fort 
+Worth); Houston, TX; Salt Lake City, UT; Madison, WI; Milwaukee, WI; Vietnam: Ho Chi Minh City
+* real-time data
+
+We actually reply to user emails so drop us a message with your feedback via support@skedgo.com. 
+
+Instagram @tripgo_
+
+Twitter @TripoG
