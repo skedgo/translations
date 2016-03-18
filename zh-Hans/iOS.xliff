@@ -1,634 +1,286 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Agenda Widget/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>TripGo Agenda</source>
+        <target>TripGo行程</target>
       </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>4.4.5</source>
-      </trans-unit>
-    </body>
+      </body>
   </file>
-  <file original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="00e-CH-gOu.title">
         <source>Reminder</source>
+        <target>提醒</target>
         <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
       </trans-unit>
       <trans-unit id="0mK-e0-427.text">
         <source>Description</source>
+        <target>说明</target>
         <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
-      </trans-unit>
-      <trans-unit id="02B-aC-aYo.text">
-        <source>#178</source>
-        <note>Class = "WKInterfaceLabel"; text = "#178"; ObjectID = "02B-aC-aYo";</note>
       </trans-unit>
       <trans-unit id="6Qf-Ve-PDJ.text">
         <source>No Data</source>
+        <target>无数据</target>
         <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
-      </trans-unit>
-      <trans-unit id="8Kt-CB-l8D.text">
-        <source>#Title</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Title"; ObjectID = "8Kt-CB-l8D";</note>
       </trans-unit>
       <trans-unit id="AgC-eL-Hgc.title">
         <source>TripGo</source>
+        <target>TripGo</target>
         <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
-      </trans-unit>
-      <trans-unit id="B4S-pz-22i.text">
-        <source>#Alert</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Alert"; ObjectID = "B4S-pz-22i";</note>
       </trans-unit>
       <trans-unit id="F85-mJ-6yD.text">
         <source>Getting trip</source>
+        <target>开始旅程</target>
         <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
       </trans-unit>
       <trans-unit id="GGf-v0-vEJ.title">
         <source>Show Map</source>
+        <target>显示地图</target>
         <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
-      </trans-unit>
-      <trans-unit id="GvT-cm-IJo.text">
-        <source>#Description</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Description"; ObjectID = "GvT-cm-IJo";</note>
-      </trans-unit>
-      <trans-unit id="HiB-IH-frZ.text">
-        <source>#Action</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Action"; ObjectID = "HiB-IH-frZ";</note>
-      </trans-unit>
-      <trans-unit id="Kze-uZ-G2l.text">
-        <source>#Action</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Action"; ObjectID = "Kze-uZ-G2l";</note>
       </trans-unit>
       <trans-unit id="RoM-Us-t1Y.title">
         <source>Favourites</source>
+        <target>收藏</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
-      </trans-unit>
-      <trans-unit id="TLa-li-dKt.text">
-        <source>#Title</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Title"; ObjectID = "TLa-li-dKt";</note>
-      </trans-unit>
-      <trans-unit id="UOW-wF-klY.text">
-        <source>#Stand A</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Stand A"; ObjectID = "UOW-wF-klY";</note>
       </trans-unit>
       <trans-unit id="Uzb-ex-6N5.title">
         <source>Agenda</source>
+        <target>行程</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
-      </trans-unit>
-      <trans-unit id="asF-qW-Vwk.text">
-        <source>#Take the 170</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Take the 170"; ObjectID = "asF-qW-Vwk";</note>
       </trans-unit>
       <trans-unit id="cAf-NX-Z7L.title">
         <source>Favourites</source>
+        <target>收藏</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
       </trans-unit>
       <trans-unit id="h3q-kR-2ID.title">
         <source>Timetable</source>
+        <target>时刻表</target>
         <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
       </trans-unit>
       <trans-unit id="jYK-Fw-rhR.text">
         <source>Alert</source>
+        <target>提示</target>
         <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
-      </trans-unit>
-      <trans-unit id="pdY-9b-giR.text">
-        <source>#Take the 170</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Take the 170"; ObjectID = "pdY-9b-giR";</note>
-      </trans-unit>
-      <trans-unit id="qg6-Ro-OkC.text">
-        <source>#Label</source>
-        <note>Class = "WKInterfaceLabel"; text = "#Label"; ObjectID = "qg6-Ro-OkC";</note>
       </trans-unit>
       <trans-unit id="r0K-AY-XvO.title">
         <source>Retry</source>
+        <target>重新尝试</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
       </trans-unit>
       <trans-unit id="rQN-eo-Bg2.title">
         <source>Timetable</source>
+        <target>时刻表</target>
         <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
       </trans-unit>
-      <trans-unit id="yh8-ZI-zyu.text">
-        <source>#From Maroubra</source>
-        <note>Class = "WKInterfaceLabel"; text = "#From Maroubra"; ObjectID = "yh8-ZI-zyu";</note>
-      </trans-unit>
-    </body>
+      </body>
   </file>
-  <file original="TripGo WatchKit App/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>TripGo</source>
+        <target>TripGo</target>
       </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>4.4.5</source>
-      </trans-unit>
-    </body>
+      </body>
   </file>
-  <file original="TripGo WatchKit Extension/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>TripGo WatchKit Extension</source>
+        <target>TripGo WatchKit Extension</target>
       </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>4.4.5</source>
-      </trans-unit>
-    </body>
+      </body>
   </file>
-  <file original="TripGoUITests/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripGo WatchKit Extension/Shared.strings" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="TripGoUITests/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="%@ to %@">
-        <source>%1$@ to %2$@</source>
-        <note>Format string for going from one location to another. Used to name favourite trips.</note>
-      </trans-unit>
-      <trans-unit id="Access to location services required.">
-        <source>Access to location services required.</source>
-        <note>Error title when access to location hasn't been granted, but location is required.</note>
-      </trans-unit>
-      <trans-unit id="AddStopover">
-        <source>AddStopover</source>
-        <note>Add a new stopover</note>
-      </trans-unit>
-      <trans-unit id="Database corrupted and lost.">
-        <source>Database corrupted and lost.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Example">
-        <source>Example</source>
-        <note>Text do mark an example</note>
-      </trans-unit>
-      <trans-unit id="Flight">
-        <source>Flight</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="From %@">
-        <source>From %@</source>
-        <note>Format string for going from one location to others. Used to name favourite stops.</note>
-      </trans-unit>
-      <trans-unit id="Home">
-        <source>Home</source>
-        <note>Typical name that you'd give your home location</note>
-      </trans-unit>
-      <trans-unit id="Location not set.">
-        <source>Location not set.</source>
-        <note>Error title when favourite is missing a location..</note>
-      </trans-unit>
-      <trans-unit id="Movie">
-        <source>Movie</source>
-        <note>Sample event name ('Movie')</note>
-      </trans-unit>
-      <trans-unit id="NewEvent">
-        <source>NewEvent</source>
-        <note>Title for unnamed new event</note>
-      </trans-unit>
-      <trans-unit id="Open TripGo app and add the location of this favourite.">
-        <source>Open TripGo app and add the location of this favourite.</source>
-        <note>Error recovery suggestion for favourites with missing location.</note>
-      </trans-unit>
-      <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
-        <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
-        <note>Error recovery suggestion for when watch doesn't have access to location services.</note>
-      </trans-unit>
-      <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
-        <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
-        <note>Recovery suggestion when TripGo cannot access its local files</note>
-      </trans-unit>
-      <trans-unit id="Please restart the app. Sorry for the inconvenience!">
-        <source>Please restart the app. Sorry for the inconvenience!</source>
-        <note>Recovery suggestion when database got corrupted</note>
-      </trans-unit>
-      <trans-unit id="Please try restarting the app. Sorry for the inconvenience!">
-        <source>Please try restarting the app. Sorry for the inconvenience!</source>
-        <note>Recovery suggestion when TripGo cannot update its local files</note>
-      </trans-unit>
-      <trans-unit id="PrivateTimeToLeave">
-        <source>PrivateTimeToLeave</source>
-        <note>Notification message for a non-public transport trip. Provided is %destination and %time you need to leave.</note>
-      </trans-unit>
-      <trans-unit id="PrivateTimeToLeaveNoLocation">
-        <source>PrivateTimeToLeaveNoLocation</source>
-        <note>Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
-      </trans-unit>
-      <trans-unit id="ShowTrip">
-        <source>ShowTrip</source>
-        <note>Show trip</note>
-      </trans-unit>
-      <trans-unit id="StayTitle">
-        <source>StayTitle</source>
-        <note>Title for identifying a location where you stay overnight</note>
-      </trans-unit>
-      <trans-unit id="StepsNumber">
-        <source>StepsNumber</source>
-        <note>Number of steps</note>
-      </trans-unit>
-      <trans-unit id="Stopover">
-        <source>Stopover</source>
-        <note>Title for stopover event</note>
-      </trans-unit>
-      <trans-unit id="TripGo cannot access its local files.">
-        <source>TripGo cannot access its local files.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="TripGo cannot update its local files.">
-        <source>TripGo cannot update its local files.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.">
-        <source>TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Work">
-        <source>Work</source>
-        <note>Typical name that you'd give your work location</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="TripGoUITests/Shared.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="Alert">
-        <source>Alert</source>
-        <note>Default title for alert view</note>
-      </trans-unit>
       <trans-unit id="Bicycle">
         <source>Bicycle</source>
+        <target>自行车</target>
         <note>Type of vehicle : bicycle</note>
-      </trans-unit>
-      <trans-unit id="Cancel">
-        <source>Cancel</source>
-        <note>Cancel - for action sheets</note>
       </trans-unit>
       <trans-unit id="Car">
         <source>Car</source>
+        <target>轿车</target>
         <note>Type of vehicle : car</note>
       </trans-unit>
       <trans-unit id="Checkmark">
         <source>Checkmark</source>
+        <target>选取标记</target>
         <note>Accessibility title for a checkmark/tick button</note>
-      </trans-unit>
-      <trans-unit id="Close">
-        <source>Close</source>
-        <note>Close action</note>
       </trans-unit>
       <trans-unit id="Could not determine your current location.">
         <source>Could not determine your current location.</source>
+        <target>无法定位您的当前位置。</target>
         <note>Error title when GPS failed.</note>
       </trans-unit>
       <trans-unit id="CouldNotDownloadSupportedRegions">
         <source>CouldNotDownloadSupportedRegions</source>
+        <target>无法从我们的服务器下载所覆盖地区的列表．请稍后再试一次。</target>
         <note>Could not download supported regions warning</note>
       </trans-unit>
       <trans-unit id="Current Location">
         <source>Current Location</source>
-        <note>Current location</note>
+        <target>当前位置</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DateToFormat">
         <source>DateToFormat</source>
+        <target>到%@</target>
         <note>to %date</note>
-      </trans-unit>
-      <trans-unit id="DropNewPin">
-        <source>DropNewPin</source>
-        <note>Drop new pin</note>
       </trans-unit>
       <trans-unit id="EveryDayFormat">
         <source>EveryDayFormat</source>
+        <target>每%@</target>
         <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
       </trans-unit>
       <trans-unit id="Everyday">
         <source>Everyday</source>
+        <target>每天</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
       <trans-unit id="Free">
         <source>Free</source>
+        <target>免费</target>
         <note>Free as in beer</note>
       </trans-unit>
       <trans-unit id="Getting a lift">
         <source>Getting a lift</source>
+        <target>与人共乘</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Include contacts">
-        <source>Include contacts</source>
-        <note>Include contacts.</note>
       </trans-unit>
       <trans-unit id="Include events">
         <source>Include events</source>
+        <target>包含事件</target>
         <note>Include events.</note>
-      </trans-unit>
-      <trans-unit id="Instant results">
-        <source>Instant results</source>
-        <note>Instant results proposal</note>
       </trans-unit>
       <trans-unit id="Location">
         <source>Location</source>
+        <target>位置</target>
         <note>Location name</note>
       </trans-unit>
       <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
         <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
+        <target>本功能需要使用定位服务. 请到设定 &gt; 隐私 &gt; 定位服务确认服务是开启的，同时也请确认您已授权本App使用定位服务.</target>
         <note>Location iOS6+ authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="More results">
-        <source>More results</source>
-        <note>More results proposal</note>
       </trans-unit>
       <trans-unit id="Motorbike">
         <source>Motorbike</source>
+        <target>摩托车</target>
         <note>Type of vehicle : motorbike</note>
       </trans-unit>
       <trans-unit id="Never">
         <source>Never</source>
+        <target>永不重复</target>
         <note>Never in context of repetitions (especially recurring events)</note>
       </trans-unit>
       <trans-unit id="No CO₂">
         <source>No CO₂</source>
+        <target>无二氧化碳排放</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NumberReccurences">
         <source>NumberReccurences</source>
+        <target>重复%lu次</target>
         <note>Number of repeats</note>
-      </trans-unit>
-      <trans-unit id="OK">
-        <source>OK</source>
-        <note>Default title for button that dismisses alert view</note>
-      </trans-unit>
-      <trans-unit id="Open in Safari">
-        <source>Open in Safari</source>
-        <note>Open in Safari action</note>
       </trans-unit>
       <trans-unit id="Please try again or set your location manually.">
         <source>Please try again or set your location manually.</source>
+        <target>请再试一遍或者手动设置您的位置。</target>
         <note>Error recovery suggestion when GPS fails.</note>
-      </trans-unit>
-      <trans-unit id="Press 'search' for more...">
-        <source>Press 'search' for more...</source>
-        <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
       </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
+        <target>实时</target>
         <note>Indicator for real-time information</note>
       </trans-unit>
       <trans-unit id="Repeats daily">
         <source>Repeats daily</source>
+        <target>每天重复</target>
         <note>Repeats daily</note>
       </trans-unit>
       <trans-unit id="Repeats monthly">
         <source>Repeats monthly</source>
+        <target>每月重复</target>
         <note>Repeats monthly</note>
       </trans-unit>
       <trans-unit id="Repeats weekly">
         <source>Repeats weekly</source>
+        <target>每周重复</target>
         <note>Repeats weekly</note>
       </trans-unit>
       <trans-unit id="Repeats yearly">
         <source>Repeats yearly</source>
+        <target>每年重复</target>
         <note>Repeats yearly</note>
       </trans-unit>
       <trans-unit id="RequestErrorFormat">
         <source>RequestErrorFormat</source>
+        <target>无法找到'%@'.</target>
         <note>Error when location search for %input was not successful.</note>
       </trans-unit>
       <trans-unit id="SUV">
         <source>SUV</source>
+        <target>越野车</target>
         <note>Sports utility vehicle abbreviation</note>
       </trans-unit>
       <trans-unit id="Weekdays">
         <source>Weekdays</source>
+        <target>平日</target>
         <note>Every weekday in context of repetitions (especially recurring events)</note>
       </trans-unit>
       <trans-unit id="Weekends">
         <source>Weekends</source>
+        <target>周末</target>
         <note>Every weekend day in context of repetitions (especially recurring events)</note>
       </trans-unit>
       <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
         <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
+        <target>您之前拒绝了App使用您的日历．如想要使用本功能，请到设定 &gt; 隐私 &gt; 日历中更新您的授权.</target>
         <note>Calendar authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
-        <source>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</source>
-        <note>Contacts authorisation needed text</note>
       </trans-unit>
       <trans-unit id="all-day">
         <source>all-day</source>
+        <target>整天</target>
         <note>Indicator that an event is all-day</note>
       </trans-unit>
       <trans-unit id="ends at %@">
         <source>ends at %@</source>
+        <target>在%@结束</target>
         <note>Short indicator of end-time</note>
       </trans-unit>
       <trans-unit id="starts at %@">
         <source>starts at %@</source>
+        <target>从%@开始</target>
         <note>Short indicator of start-time</note>
       </trans-unit>
-      <trans-unit id="{Name}'s">
-        <source>{Name}'s</source>
-        <note>Name for a {Name}'s place if it's unclear if it's home, work or something else.</note>
-      </trans-unit>
-      <trans-unit id="{Name}'s Home">
-        <source>{Name}'s Home</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="{Name}'s Work">
-        <source>{Name}'s Work</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
     </body>
   </file>
-  <file original="TripGoUITests/TripKit.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
-    <body>
-      <trans-unit id="%1$@ early">
-        <source>%1$@ early</source>
-        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'.</note>
-      </trans-unit>
-      <trans-unit id="%1$@ early (%2$@ service)">
-        <source>%1$@ early (%2$@ service)</source>
-        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
-      </trans-unit>
-      <trans-unit id="%1$@ late">
-        <source>%1$@ late</source>
-        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min'</note>
-      </trans-unit>
-      <trans-unit id="%1$@ late (%2$@ service)">
-        <source>%1$@ late (%2$@ service)</source>
-        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
-      </trans-unit>
-      <trans-unit id="%@ w/o traffic">
-        <source>%@ w/o traffic</source>
-        <note>Duration without traffic</note>
-      </trans-unit>
-      <trans-unit id="1 stop">
-        <source>1 stop</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="ActivityIndication">
-        <source>ActivityIndication</source>
-        <note>Indication of an activity</note>
-      </trans-unit>
-      <trans-unit id="Arrival">
-        <source>Arrival</source>
-        <note>Arrival time sorter title</note>
-      </trans-unit>
-      <trans-unit id="ArrivalLocation">
-        <source>ArrivalLocation</source>
-        <note>The place of arrival</note>
-      </trans-unit>
-      <trans-unit id="ArrivalLocationTime">
-        <source>ArrivalLocationTime</source>
-        <note>The place of arrival with time</note>
-      </trans-unit>
-      <trans-unit id="ArrivalTime">
-        <source>ArrivalTime</source>
-        <note>Arrival %time.
-   Time arrival</note>
-      </trans-unit>
-      <trans-unit id="Arrive">
-        <source>Arrive</source>
-        <note>Prefix for selected 'arrive by' time
-   Single line instruction to arrive</note>
-      </trans-unit>
-      <trans-unit id="Could not find transit stop.">
-        <source>Could not find transit stop.</source>
-        <note>Error title when server could not find a given transit stop.</note>
-      </trans-unit>
-      <trans-unit id="Departure">
-        <source>Departure</source>
-        <note>Departure time sorter title</note>
-      </trans-unit>
-      <trans-unit id="DepartureTime">
-        <source>DepartureTime</source>
-        <note>Time of the bus departure</note>
-      </trans-unit>
-      <trans-unit id="Direction">
-        <source>Direction</source>
-        <note>Destination of the bus</note>
-      </trans-unit>
-      <trans-unit id="Duration">
-        <source>Duration</source>
-        <note>Walking time</note>
-      </trans-unit>
-      <trans-unit id="Leave">
-        <source>Leave</source>
-        <note>Prefix for selected 'leave after' time
-   Single line instruction to leave</note>
-      </trans-unit>
-      <trans-unit id="Leave now">
-        <source>Leave now</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="LeaveLocation">
-        <source>LeaveLocation</source>
-        <note>The place of departure</note>
-      </trans-unit>
-      <trans-unit id="LeaveLocationTime">
-        <source>LeaveLocationTime</source>
-        <note>The place of departure with time</note>
-      </trans-unit>
-      <trans-unit id="LeaveTime">
-        <source>LeaveTime</source>
-        <note>Time departure</note>
-      </trans-unit>
-      <trans-unit id="Live traffic">
-        <source>Live traffic</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="MessageArrivalTime">
-        <source>MessageArrivalTime</source>
-        <note>ArrivalTime</note>
-      </trans-unit>
-      <trans-unit id="On time">
-        <source>On time</source>
-        <note>Indicator to show when a service is on time according to real-time data.</note>
-      </trans-unit>
-      <trans-unit id="PrimaryLocationEnd">
-        <source>PrimaryLocationEnd</source>
-        <note>Arrival Location</note>
-      </trans-unit>
-      <trans-unit id="PrimaryLocationStart">
-        <source>PrimaryLocationStart</source>
-        <note>Departure Location</note>
-      </trans-unit>
-      <trans-unit id="PrimaryLocationStationary">
-        <source>PrimaryLocationStationary</source>
-        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park</note>
-      </trans-unit>
-      <trans-unit id="Real-time">
-        <source>Real-time</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Search for this stop again or try again later..">
-        <source>Search for this stop again or try again later..</source>
-        <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
-      </trans-unit>
-      <trans-unit id="Stops">
-        <source>Stops</source>
-        <note>Number of stops before you get off a vehicle</note>
-      </trans-unit>
-      <trans-unit id="TimeFromToShortFormat">
-        <source>TimeFromToShortFormat</source>
-        <note>From %time1 to %time2</note>
-      </trans-unit>
-      <trans-unit id="Trip">
-        <source>Trip</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="VehicleCalledUpdated">
-        <source>VehicleCalledUpdated</source>
-        <note>Vehicle 'x' updated</note>
-      </trans-unit>
-      <trans-unit id="VehicleUpdated">
-        <source>VehicleUpdated</source>
-        <note>Vehicle updated</note>
-      </trans-unit>
-    </body>
+    <body />
   </file>
-  <file original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body/>
-  </file>
-  <file original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hans">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
@@ -668,6 +320,7 @@
       </trans-unit>
       <trans-unit id="t3k-Ks-sqa.title">
         <source>Alerts</source>
+        <target>提示</target>
         <note>Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa";</note>
       </trans-unit>
       <trans-unit id="ye4-ch-zSe.title">
@@ -682,9 +335,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="30.accessibilityLabel">
@@ -719,17 +372,19 @@
       </trans-unit>
     </body>
   </file>
-  <file original="TripPlanner/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="%@ at %@">
         <source>%1$@ at %2$@</source>
+        <target>%1$@ 在 %2$@ 到</target>
         <note>Filler for a specific service running at a time, e.g., '396 at 11:56am'</note>
       </trans-unit>
       <trans-unit id="%@ every %@">
         <source>%1$@ every %2$@</source>
+        <target>%1$@ 每 %2$@ 分钟一趟</target>
         <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
       </trans-unit>
       <trans-unit id="%@ to %@">
@@ -810,6 +465,7 @@
       </trans-unit>
       <trans-unit id="Agenda is not set up.">
         <source>Agenda is not set up.</source>
+        <target>行程还未设着</target>
         <note>Error title when agenda isn't yet set up.</note>
       </trans-unit>
       <trans-unit id="AgendaButton">
@@ -819,6 +475,7 @@
       </trans-unit>
       <trans-unit id="Agree">
         <source>Agree</source>
+        <target>同意</target>
         <note>Accepting EULA
    Agree to EULA</note>
       </trans-unit>
@@ -885,6 +542,7 @@
       </trans-unit>
       <trans-unit id="At %@">
         <source>At %@</source>
+        <target>在%@ </target>
         <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
       </trans-unit>
       <trans-unit id="Auto">
@@ -984,6 +642,7 @@
       </trans-unit>
       <trans-unit id="Current Trip">
         <source>Current Trip</source>
+        <target>当前行程</target>
         <note>Indicating the next trip is a current trip</note>
       </trans-unit>
       <trans-unit id="Custom trip does not fit">
@@ -1051,6 +710,7 @@
       </trans-unit>
       <trans-unit id="Downloading trip...">
         <source>Downloading trip...</source>
+        <target>下载行程中</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EditItemHereTitle">
@@ -1065,6 +725,7 @@
       </trans-unit>
       <trans-unit id="End User Licence Agreement">
         <source>End User Licence Agreement</source>
+        <target>最终用户许可协议</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Environment">
@@ -1114,6 +775,7 @@
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
+        <target>每%@分钟一趟</target>
         <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes'</note>
       </trans-unit>
       <trans-unit id="Example">
@@ -1233,6 +895,7 @@
       </trans-unit>
       <trans-unit id="From %@, leaving now">
         <source>From %@, leaving now</source>
+        <target>从 %@, 现在出发</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From current location">
@@ -1287,6 +950,7 @@
       </trans-unit>
       <trans-unit id="Getting current location">
         <source>Getting current location</source>
+        <target>获取当前位置中</target>
         <note>Indicating localisation is in progress</note>
       </trans-unit>
       <trans-unit id="Getting trip...">
@@ -1335,11 +999,6 @@
         <target>包含在旅程中</target>
         <note>Title for a switch indicating if this event should be included in all-day routes
    Title for setting to include transport mode in trips.</note>
-      </trans-unit>
-      <trans-unit id="Information on concession pricing is subject to availability.">
-        <source>Information on concession pricing is subject to availability.</source>
-        <target>取得优惠票价的信息是视情况而定的。</target>
-        <note>Concession pricing footer</note>
       </trans-unit>
       <trans-unit id="Jump to today">
         <source>Jump to today</source>
@@ -1566,6 +1225,7 @@
       </trans-unit>
       <trans-unit id="No planned trip">
         <source>No planned trip</source>
+        <target>没有规划好的行程</target>
         <note>Text to show if there's no planned trip.</note>
       </trans-unit>
       <trans-unit id="No planned trips">
@@ -1631,6 +1291,7 @@
       </trans-unit>
       <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
+        <target>我们的最终用户许可协议已经更改。你必须同意后才可继续使用app</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Permission was granted. Please go back and try again.">
@@ -1650,11 +1311,12 @@
       </trans-unit>
       <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
         <source>Plan a trip on your phone or press firmly to access your favourites.</source>
-        <target>Plan a trip on your phone or press firmly to access your favourites.</target>
+        <target>在您的手机上规划您的行程或者从你的收藏中选定。</target>
         <note>Instruction to users when there are no upcoming trips</note>
       </trans-unit>
       <trans-unit id="Plan a trip on your phone.">
         <source>Plan a trip on your phone.</source>
+        <target>在你的手机上规划一个行程</target>
         <note>Instruction to users when there are no upcoming trips (for non-interactive Glance)</note>
       </trans-unit>
       <trans-unit id="Please adjust your query and try again.">
@@ -1679,7 +1341,7 @@
       </trans-unit>
       <trans-unit id="Please specify an address.">
         <source>Please specify an address.</source>
-        <target>Please specify an address.</target>
+        <target>请填写一个具体地址。</target>
         <note>Alert message that asks users to provide the missing address for a new event.</note>
       </trans-unit>
       <trans-unit id="Please try restarting the app. Sorry for the inconvenience!">
@@ -1689,16 +1351,12 @@
       </trans-unit>
       <trans-unit id="Preferred transport">
         <source>Preferred transport</source>
+        <target>首选交通工具</target>
         <note>Title for preferred public transport modes.</note>
-      </trans-unit>
-      <trans-unit id="Pricing">
-        <source>Pricing</source>
-        <target>计价中</target>
-        <note>Header for settings about pricing</note>
       </trans-unit>
       <trans-unit id="Priorities">
         <source>Priorities</source>
-        <target>Priorities</target>
+        <target>优先级</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PrivateTimeToLeave">
@@ -1713,12 +1371,12 @@
       </trans-unit>
       <trans-unit id="Profile">
         <source>Profile</source>
-        <target>Profile</target>
+        <target>简介</target>
         <note>Title for view that shows user's profile</note>
       </trans-unit>
       <trans-unit id="ProfileButton">
         <source>ProfileButton</source>
-        <target>Profile</target>
+        <target>简介</target>
         <note>Profile tab bar name</note>
       </trans-unit>
       <trans-unit id="Rate TripGo">
@@ -1829,6 +1487,7 @@
       </trans-unit>
       <trans-unit id="Review EULA">
         <source>Review EULA</source>
+        <target>检查EULA</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Route">
@@ -1913,6 +1572,7 @@
       </trans-unit>
       <trans-unit id="Set up your Agenda in the TripGo app.">
         <source>Set up your Agenda in the TripGo app.</source>
+        <target>在TripGo app中设置你的行程</target>
         <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.</note>
       </trans-unit>
       <trans-unit id="Settings">
@@ -1930,6 +1590,10 @@
         <source>Share Trip</source>
         <target>分享旅程</target>
         <note>Share trip</note>
+      </trans-unit>
+      <trans-unit id="Show Wheelchair Information">
+        <source>Show Wheelchair Information</source>
+        <note>Preference to highlight wheelchair information</note>
       </trans-unit>
       <trans-unit id="Show alternatives">
         <source>Show alternatives</source>
@@ -1968,7 +1632,7 @@
       </trans-unit>
       <trans-unit id="Show ticket Info">
         <source>Show ticket Info</source>
-        <target>Show ticket Info</target>
+        <target>显示车票信息</target>
         <note>Button Title to get to website with ticket details.</note>
       </trans-unit>
       <trans-unit id="Show timetable">
@@ -2025,6 +1689,10 @@
         <source>StepsNumber</source>
         <target>已走%@步</target>
         <note>Number of steps</note>
+      </trans-unit>
+      <trans-unit id="Stop code: %@">
+        <source>Stop code: %@</source>
+        <note>Additional information for official stop code of a public transport stop.</note>
       </trans-unit>
       <trans-unit id="Stopover">
         <source>Stopover</source>
@@ -2123,6 +1791,7 @@
       </trans-unit>
       <trans-unit id="To">
         <source>To</source>
+        <target>去</target>
         <note>Favorite trip 'to' title</note>
       </trans-unit>
       <trans-unit id="Transport">
@@ -2173,6 +1842,7 @@
       </trans-unit>
       <trans-unit id="Upcoming Trip">
         <source>Upcoming Trip</source>
+        <target>即将出现的行程</target>
         <note>Indicating the next trip is an upcoming trip</note>
       </trans-unit>
       <trans-unit id="Vehicle">
@@ -2280,594 +1950,16 @@
       </trans-unit>
     </body>
   </file>
-  <file original="TripPlanner/Shared.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
-      <trans-unit id=" The app will now sign out">
-        <source> The app will now sign out</source>
-        <target> The app will now sign out</target>
-        <note>Message that indicates the app is about to sign users out of their user accounts</note>
-      </trans-unit>
-      <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
-        <source>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</source>
-        <target>您的设备没有使用该功能的权限。请到设定 &gt; 一般 &gt; 使用限制检查您的设定或询问您的裝置提供商.</target>
-        <note>Authorization restricted alert message</note>
-      </trans-unit>
-      <trans-unit id="Action">
-        <source>Action</source>
-        <target>动作</target>
-        <note>Accessibility label for action button</note>
-      </trans-unit>
-      <trans-unit id="Alert">
-        <source>Alert</source>
-        <target>Alert</target>
-        <note>Default title for alert view</note>
-      </trans-unit>
-      <trans-unit id="Already have an account? Sign in">
-        <source>Already have an account? Sign in</source>
-        <target>Already have an account? Sign in</target>
-        <note>Option for users if they already owned a SkedGo account</note>
-      </trans-unit>
-      <trans-unit id="Authentication">
-        <source>Authentication</source>
-        <note>Source where the account was derived, e.g., Facebook</note>
-      </trans-unit>
-      <trans-unit id="Authorisation needed">
-        <source>Authorisation needed</source>
-        <target>需要用户授权</target>
-        <note>Authorisation needed title</note>
-      </trans-unit>
-      <trans-unit id="Bicycle">
-        <source>Bicycle</source>
-        <target>自行车</target>
-        <note>Type of vehicle : bicycle</note>
-      </trans-unit>
-      <trans-unit id="CVC">
-        <source>CVC</source>
-        <target>卡背面3位数</target>
-        <note>Credit card CVC</note>
-      </trans-unit>
-      <trans-unit id="Cancel">
-        <source>Cancel</source>
-        <target>取消</target>
-        <note>Cancel - for action sheets</note>
-      </trans-unit>
-      <trans-unit id="Cancelled">
-        <source>Cancelled</source>
-        <target>已取消</target>
-        <note>Label for when a service is cancelled.</note>
-      </trans-unit>
-      <trans-unit id="Cannot proceed without a valid email address">
-        <source>Cannot proceed without a valid email address</source>
-        <target>Cannot proceed without a valid email address</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Car">
-        <source>Car</source>
-        <target>轿车</target>
-        <note>Type of vehicle : car</note>
-      </trans-unit>
-      <trans-unit id="Card No.">
-        <source>Card No.</source>
-        <target>卡号</target>
-        <note>Credit card number</note>
-      </trans-unit>
-      <trans-unit id="Change">
-        <source>Change</source>
-        <target>Change</target>
-        <note>Instruction for changing password</note>
-      </trans-unit>
-      <trans-unit id="Change tracking options">
-        <source>Change tracking options</source>
-        <target>变更追踪选项</target>
-        <note>Accessibility - user location button - hint</note>
-      </trans-unit>
-      <trans-unit id="Checkmark">
-        <source>Checkmark</source>
-        <target>选取标记</target>
-        <note>Accessibility title for a checkmark/tick button</note>
-      </trans-unit>
-      <trans-unit id="Close">
-        <source>Close</source>
-        <target>关闭</target>
-        <note>Button title to dismiss a view
-   Close action</note>
-      </trans-unit>
-      <trans-unit id="Could not determine your current location.">
-        <source>Could not determine your current location.</source>
-        <target>无法定位您的当前位置。</target>
-        <note>Error title when GPS failed.</note>
-      </trans-unit>
-      <trans-unit id="CouldNotDownloadSupportedRegions">
-        <source>CouldNotDownloadSupportedRegions</source>
-        <target>无法从我们的服务器下载所覆盖地区的列表．请稍后再试一次。</target>
-        <note>Could not download supported regions warning</note>
-      </trans-unit>
-      <trans-unit id="Creating account">
-        <source>Creating account</source>
-        <target>Creating account</target>
-        <note>Message that indicates the app is creating accounts for users</note>
-      </trans-unit>
-      <trans-unit id="Credit card">
-        <source>Credit card</source>
-        <target>信用卡</target>
-        <note>Section title for credit card payment</note>
-      </trans-unit>
-      <trans-unit id="Current Location">
-        <source>Current Location</source>
-        <target>当前位置</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="DateToFormat">
-        <source>DateToFormat</source>
-        <target>到%@</target>
-        <note>to %date</note>
-      </trans-unit>
-      <trans-unit id="Delete">
-        <source>Delete</source>
-        <target>刪除</target>
-        <note>Delete action</note>
-      </trans-unit>
-      <trans-unit id="Distance">
-        <source>Distance</source>
-        <target>距离</target>
-        <note>Sort by distance</note>
-      </trans-unit>
-      <trans-unit id="Don't have an account? Sign up">
-        <source>Don't have an account? Sign up</source>
-        <target>Don't have an account? Sign up</target>
-        <note>Option for users if they don't yet have a SkedGo account</note>
-      </trans-unit>
-      <trans-unit id="Done">
-        <source>Done</source>
-        <target>完成</target>
-        <note>Done button
-   Keyboard accessory button title</note>
-      </trans-unit>
-      <trans-unit id="DropNewPin">
-        <source>DropNewPin</source>
-        <target>放置新的大头针</target>
-        <note>Drop new pin</note>
-      </trans-unit>
-      <trans-unit id="Email">
-        <source>Email</source>
-        <target>邮箱</target>
-        <note>Email address where receipt is sent
-   Email used as Facebook username</note>
-      </trans-unit>
-      <trans-unit id="EveryDayFormat">
-        <source>EveryDayFormat</source>
-        <target>每%@</target>
-        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
-      </trans-unit>
-      <trans-unit id="Everyday">
-        <source>Everyday</source>
-        <target>每天</target>
-        <note>Everyday in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="Expiry Date">
-        <source>Expiry Date</source>
-        <target>到期时间</target>
-        <note>Credit card expiry date</note>
-      </trans-unit>
-      <trans-unit id="For when to leave">
-        <source>For when to leave</source>
-        <target>何时离开</target>
-        <note>Option that allows users to indicate whether reminder is needed
-   Reminder to leave preference</note>
-      </trans-unit>
-      <trans-unit id="Free">
-        <source>Free</source>
-        <target>免费</target>
-        <note>Free as in beer</note>
-      </trans-unit>
-      <trans-unit id="Full name">
-        <source>Full name</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Getting a lift">
-        <source>Getting a lift</source>
-        <target>与人共乘</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Has reminder">
-        <source>Has reminder</source>
-        <target>提醒已设置</target>
-        <note>Accessibility annotation for trips which have a reminder set.</note>
-      </trans-unit>
-      <trans-unit id="Include contacts">
-        <source>Include contacts</source>
-        <target>包含联络人</target>
-        <note>Include contacts.</note>
-      </trans-unit>
-      <trans-unit id="Include events">
-        <source>Include events</source>
-        <target>包含事件</target>
-        <note>Include events.</note>
-      </trans-unit>
-      <trans-unit id="Instant results">
-        <source>Instant results</source>
-        <target>快速搜寻结果</target>
-        <note>Instant results proposal</note>
-      </trans-unit>
-      <trans-unit id="Invalid account">
-        <source>Invalid account</source>
-        <target>Invalid account</target>
-        <note>Title for alert that indicates the user account has become invalid</note>
-      </trans-unit>
-      <trans-unit id="Invalid server response">
-        <source>Invalid server response</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="John Appleseed">
-        <source>John Appleseed</source>
-        <target>John Appleseed</target>
-        <note>Name placeholder text</note>
-      </trans-unit>
-      <trans-unit id="Linking Facebook">
-        <source>Linking Facebook</source>
-        <target>Linking Facebook</target>
-        <note>Used when user signs in using Facebook</note>
-      </trans-unit>
-      <trans-unit id="Location">
-        <source>Location</source>
-        <target>Location</target>
-        <note>Location name</note>
-      </trans-unit>
-      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
-        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
-        <target>本功能需要使用定位服务. 请到设定 &gt; 隐私 &gt; 定位服务确认服务是开启的，同时也请确认您已授权本App使用定位服务.</target>
-        <note>Location iOS6+ authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="Making payment">
-        <source>Making payment</source>
-        <note>Indicating a payment is in progress</note>
-      </trans-unit>
-      <trans-unit id="Minutes before trip">
-        <source>Minutes before trip</source>
-        <target>提前多久开始行程</target>
-        <note>Option that allows users to indicate how eary to show trip reminder
-   Reminder to leave preference</note>
-      </trans-unit>
-      <trans-unit id="More results">
-        <source>More results</source>
-        <target>更多搜索结果</target>
-        <note>More results proposal</note>
-      </trans-unit>
-      <trans-unit id="Motorbike">
-        <source>Motorbike</source>
-        <target>摩托车</target>
-        <note>Type of vehicle : motorbike</note>
-      </trans-unit>
-      <trans-unit id="My account">
-        <source>My account</source>
-        <target>My account</target>
-        <note>Title for view that shows the summary of a user's account information</note>
-      </trans-unit>
-      <trans-unit id="Name">
-        <source>Name</source>
-        <target>名称</target>
-        <note>Name to which receipt is sent
-   Name used in Facebook
-   Sort by name</note>
-      </trans-unit>
-      <trans-unit id="Never">
-        <source>Never</source>
-        <target>永不重复</target>
-        <note>Never in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="New account">
-        <source>New account</source>
-        <target>New account</target>
-        <note>Title for sign in view when user does not have an account</note>
-      </trans-unit>
-      <trans-unit id="Next">
-        <source>Next</source>
-        <target>下一步</target>
-        <note>Button title to complete this step and advance to next
-   Keyboard accessory button title to complete this step and advance to next</note>
-      </trans-unit>
-      <trans-unit id="No CO₂">
-        <source>No CO₂</source>
-        <target>无二氧化碳排放</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Now">
-        <source>Now</source>
-        <target>现在</target>
-        <note>Countdown cell 'now' indicator</note>
-      </trans-unit>
-      <trans-unit id="NumberReccurences">
-        <source>NumberReccurences</source>
-        <target>重复%lu次</target>
-        <note>Number of repeats</note>
-      </trans-unit>
-      <trans-unit id="OK">
-        <source>OK</source>
-        <target>OK</target>
-        <note>Authorisation ok button
-   Default title for button that dismisses alert view
-   Error alert cancel</note>
-      </trans-unit>
-      <trans-unit id="Open Settings">
-        <source>Open Settings</source>
-        <target>打开设置</target>
-        <note>Button to open Settings app section for this app</note>
-      </trans-unit>
-      <trans-unit id="Open in Safari">
-        <source>Open in Safari</source>
-        <target>在Safari中开启</target>
-        <note>Open in Safari action</note>
-      </trans-unit>
-      <trans-unit id="Password">
-        <source>Password</source>
-        <target>密码</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Payment successful">
-        <source>Payment successful</source>
-        <target>支付成功</target>
-        <note>Indicating a payment is successful</note>
-      </trans-unit>
-      <trans-unit id="Paypal">
-        <source>Paypal</source>
-        <target>Paypal</target>
-        <note>Section title for Paypal payment</note>
-      </trans-unit>
-      <trans-unit id="Please select a location">
-        <source>Please select a location</source>
-        <target>Please select a location</target>
-        <note>Please select a location prompt</note>
-      </trans-unit>
-      <trans-unit id="Please try again or set your location manually.">
-        <source>Please try again or set your location manually.</source>
-        <target>请再试一遍或者手动设置您的位置。</target>
-        <note>Error recovery suggestion when GPS fails.</note>
-      </trans-unit>
-      <trans-unit id="Please verify the location">
-        <source>Please verify the location</source>
-        <target>Please verify the location</target>
-        <note>Please verify the location prompt</note>
-      </trans-unit>
-      <trans-unit id="Press 'search' for more...">
-        <source>Press 'search' for more...</source>
-        <target>点击'搜寻'来取得更多结果...</target>
-        <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
-      </trans-unit>
-      <trans-unit id="Real-time">
-        <source>Real-time</source>
-        <note>Indicator for real-time information</note>
-      </trans-unit>
-      <trans-unit id="Receipt">
-        <source>Receipt</source>
-        <target>收据</target>
-        <note>Title for section that asks users where payment receipt should be sent</note>
-      </trans-unit>
-      <trans-unit id="Reminder">
-        <source>Reminder</source>
-        <target>提醒</target>
-        <note>Reminders title
-   Section title at the end of a booking that allows users to set reminders</note>
-      </trans-unit>
-      <trans-unit id="Repeats daily">
-        <source>Repeats daily</source>
-        <target>每天重复</target>
-        <note>Repeats daily</note>
-      </trans-unit>
-      <trans-unit id="Repeats monthly">
-        <source>Repeats monthly</source>
-        <target>每月重复</target>
-        <note>Repeats monthly</note>
-      </trans-unit>
-      <trans-unit id="Repeats weekly">
-        <source>Repeats weekly</source>
-        <target>每周重复</target>
-        <note>Repeats weekly</note>
-      </trans-unit>
-      <trans-unit id="Repeats yearly">
-        <source>Repeats yearly</source>
-        <target>每年重复</target>
-        <note>Repeats yearly</note>
-      </trans-unit>
-      <trans-unit id="RequestErrorFormat">
-        <source>RequestErrorFormat</source>
-        <target>无法找到'%@'.</target>
-        <note>Error when location search for %input was not successful.</note>
-      </trans-unit>
-      <trans-unit id="SUV">
-        <source>SUV</source>
-        <target>越野车</target>
-        <note>Sports utility vehicle abbreviation</note>
-      </trans-unit>
-      <trans-unit id="Score">
-        <source>Score</source>
-        <target>评分</target>
-        <note>Sort by overall score, like a ranking.</note>
-      </trans-unit>
-      <trans-unit id="Search">
-        <source>Search</source>
-        <target>搜索</target>
-        <note>Empty search bar placeholder</note>
-      </trans-unit>
-      <trans-unit id="Search Results">
-        <source>Search Results</source>
-        <target>搜索结果</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Select %@">
-        <source>Select %@</source>
-        <note>Label on location with action to select it, e.g., 'Select Hilton, Paris'</note>
-      </trans-unit>
-      <trans-unit id="Select location">
-        <source>Select location</source>
-        <note>Label to select location which doesn't have a title</note>
-      </trans-unit>
-      <trans-unit id="SetLocation">
-        <source>SetLocation</source>
-        <target>点击来选取地点</target>
-        <note>Tap to set location</note>
-      </trans-unit>
-      <trans-unit id="Sign in">
-        <source>Sign in</source>
-        <target>Sign in</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Sign out">
-        <source>Sign out</source>
-        <target>Sign out</target>
-        <note>Instruction for signing out user account</note>
-      </trans-unit>
-      <trans-unit id="Sign up">
-        <source>Sign up</source>
-        <target>Sign up</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Sign up cannot be completed without a valid password">
-        <source>Sign up cannot be completed without a valid password</source>
-        <target>Sign up cannot be completed without a valid password</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Signing in">
-        <source>Signing in</source>
-        <target>Signing in</target>
-        <note>Message that indicates the app is signing users into their user accounts</note>
-      </trans-unit>
-      <trans-unit id="Signing out">
-        <source>Signing out</source>
-        <target>Signing out</target>
-        <note>Message that indicates the app has successfully completed signing out
-   Message that indicates the app is signing users out of their accounts</note>
-      </trans-unit>
-      <trans-unit id="Tracking - off">
-        <source>Tracking - off</source>
-        <target>关闭使用者位置追踪功能</target>
-        <note>Accessibility - user location button - off</note>
-      </trans-unit>
-      <trans-unit id="Tracking - on">
-        <source>Tracking - on</source>
-        <target>开启使用者位置追踪功能</target>
-        <note>user location button - follow</note>
-      </trans-unit>
-      <trans-unit id="Tracking - on with heading">
-        <source>Tracking - on with heading</source>
-        <target>开启使用者位置与航向追踪功能</target>
-        <note>user location button - follow with heading</note>
-      </trans-unit>
-      <trans-unit id="Unknown error">
-        <source>Unknown error</source>
-        <target>Unknown error</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Updating trip">
-        <source>Updating trip</source>
-        <target>Updating trip</target>
-        <note>Message that shows app is updating trip after user finalised bookings</note>
-      </trans-unit>
-      <trans-unit id="Values missing from required fields.">
-        <source>Values missing from required fields.</source>
-        <target>Values missing from required fields.</target>
-        <note>Message that informs users that some values are missing from the required fields in a booking form.</note>
-      </trans-unit>
-      <trans-unit id="Weekdays">
-        <source>Weekdays</source>
-        <target>平日</target>
-        <note>Every weekday in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="Weekends">
-        <source>Weekends</source>
-        <target>周末</target>
-        <note>Every weekend day in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="You need to agree to the booking terms and conditions.">
-        <source>You need to agree to the booking terms and conditions.</source>
-        <target>You need to agree to the booking terms and conditions.</target>
-        <note>Message that informs users that T&amp;C must be agreed before booking can be made.</note>
-      </trans-unit>
-      <trans-unit id="You need to agree to the insurance terms and conditions.">
-        <source>You need to agree to the insurance terms and conditions.</source>
-        <target>You need to agree to the insurance terms and conditions.</target>
-        <note>Message that informs users that T&amp;C for insurance must be agreed before booking can be made.</note>
-      </trans-unit>
-      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
-        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
-        <target>您之前拒绝了App使用您的日历．如想要使用本功能，请到设定 &gt; 隐私 &gt; 日历中更新您的授权.</target>
-        <note>Calendar authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
-        <source>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</source>
-        <target>您之前拒绝了App使用您的通讯录．如想要使用本功能，请到设定 &gt; 隐私 &gt; 通讯录中更新您的授权.</target>
-        <note>Contacts authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="all-day">
-        <source>all-day</source>
-        <target>整天</target>
-        <note>Indicator that an event is all-day</note>
-      </trans-unit>
-      <trans-unit id="arrives %@">
-        <source>arrives %@</source>
-        <note>Estimated time of arrival; parameter is time, e.g., 'arrives 15:30'</note>
-      </trans-unit>
-      <trans-unit id="departs %@">
-        <source>departs %@</source>
-        <note>Estimated time of departure; parameter is time, e.g., 'departs 15:30'</note>
-      </trans-unit>
-      <trans-unit id="ends at %@">
-        <source>ends at %@</source>
-        <target>在%@结束</target>
-        <note>Short indicator of end-time</note>
-      </trans-unit>
-      <trans-unit id="example@example.com">
-        <source>example@example.com</source>
-        <target>example@example.com</target>
-        <note>Email placeholder text</note>
-      </trans-unit>
-      <trans-unit id="mm/yy">
-        <source>mm/yy</source>
-        <note>Credit card expiry date placeholder, mm/yy</note>
-      </trans-unit>
-      <trans-unit id="starts at %@">
-        <source>starts at %@</source>
-        <target>从%@开始</target>
-        <note>Short indicator of start-time</note>
-      </trans-unit>
-      <trans-unit id="{Name}'s">
-        <source>{Name}'s</source>
-        <target>%@'的</target>
-        <note>Name for a {Name}'s place if it's unclear if it's home, work or something else.</note>
-      </trans-unit>
-      <trans-unit id="{Name}'s Home">
-        <source>{Name}'s Home</source>
-        <target>%@的住家</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="{Name}'s Work">
-        <source>{Name}'s Work</source>
-        <target>%@的公司</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-    </body>
+      </body>
   </file>
-  <file original="TripPlanner/TripGo-Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>${PRODUCT_NAME}</source>
-      </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>${PRODUCT_NAME}</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>4.4.5</source>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="TripPlanner/TripKit.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
       <trans-unit id="%1$@ early">
@@ -2937,6 +2029,14 @@
         <note>Prefix for selected 'arrive by' time
    Single line instruction to arrive</note>
       </trans-unit>
+      <trans-unit id="Book with FlitWays">
+        <source>Book with FlitWays</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Book with Uber">
+        <source>Book with Uber</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Call">
         <source>Call</source>
         <target>叫计程车</target>
@@ -2949,7 +2049,7 @@
       </trans-unit>
       <trans-unit id="Could not find transit stop.">
         <source>Could not find transit stop.</source>
-        <target>Could not find transit stop.</target>
+        <target>无法找到公交车站。</target>
         <note>Error title when server could not find a given transit stop.</note>
       </trans-unit>
       <trans-unit id="CouponCodeIngogoFormat">
@@ -2982,14 +2082,9 @@
         <target>使用Lyft</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Get Uber">
-        <source>Get Uber</source>
-        <target>使用Uber</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Get directions">
         <source>Get directions</source>
-        <target>Get directions</target>
+        <target>开始导航</target>
         <note>Action button title for getting turn-by-turn directions</note>
       </trans-unit>
       <trans-unit id="Get ingogo">
@@ -3048,11 +2143,6 @@
         <target>开启Lyft</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Open Uber">
-        <source>Open Uber</source>
-        <target>开启Uber</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="PrimaryLocationEnd">
         <source>PrimaryLocationEnd</source>
         <target>目的地: %@</target>
@@ -3077,8 +2167,12 @@
       </trans-unit>
       <trans-unit id="Search for this stop again or try again later..">
         <source>Search for this stop again or try again later..</source>
-        <target>Search for this stop again or try again later.</target>
+        <target>再次搜索车站或者稍后再试。</target>
         <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
+      </trans-unit>
+      <trans-unit id="Send SMS">
+        <source>Send SMS</source>
+        <note>Send SMS action</note>
       </trans-unit>
       <trans-unit id="Show website">
         <source>Show website</source>
@@ -3097,6 +2191,7 @@
       </trans-unit>
       <trans-unit id="To %@">
         <source>To %@</source>
+        <target>前往%@ </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Trip">
@@ -3126,14 +2221,15 @@
       </trans-unit>
     </body>
   </file>
-  <file original="TripPlannerLogicTests/TripGoLogicTests-Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file datatype="plaintext" original="TripPlanner/shared.strings" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
     </header>
     <body>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
+      <trans-unit id="Cannot find a valid token">
+        <source>Cannot find a valid token</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
-</xliff>
+  </xliff>
