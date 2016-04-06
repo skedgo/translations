@@ -1,0 +1,1818 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo Agenda</source>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="00e-CH-gOu.title">
+        <source>Reminder</source>
+        <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
+      </trans-unit>
+      <trans-unit id="0mK-e0-427.text">
+        <source>Description</source>
+        <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
+      </trans-unit>
+      <trans-unit id="6Qf-Ve-PDJ.text">
+        <source>No Data</source>
+        <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
+      </trans-unit>
+      <trans-unit id="AgC-eL-Hgc.title">
+        <source>TripGo</source>
+        <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
+      </trans-unit>
+      <trans-unit id="F85-mJ-6yD.text">
+        <source>Getting trip</source>
+        <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
+      </trans-unit>
+      <trans-unit id="GGf-v0-vEJ.title">
+        <source>Show Map</source>
+        <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
+      </trans-unit>
+      <trans-unit id="RoM-Us-t1Y.title">
+        <source>Favourites</source>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
+      </trans-unit>
+      <trans-unit id="Uzb-ex-6N5.title">
+        <source>Agenda</source>
+        <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
+      </trans-unit>
+      <trans-unit id="cAf-NX-Z7L.title">
+        <source>Favourites</source>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
+      </trans-unit>
+      <trans-unit id="h3q-kR-2ID.title">
+        <source>Timetable</source>
+        <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
+      </trans-unit>
+      <trans-unit id="jYK-Fw-rhR.text">
+        <source>Alert</source>
+        <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
+      </trans-unit>
+      <trans-unit id="r0K-AY-XvO.title">
+        <source>Retry</source>
+        <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
+      </trans-unit>
+      <trans-unit id="rQN-eo-Bg2.title">
+        <source>Timetable</source>
+        <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo</source>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo WatchKit Extension</source>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit Extension/Shared.strings" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="Bicycle">
+        <source>Bicycle</source>
+        <note>Type of vehicle : bicycle</note>
+      </trans-unit>
+      <trans-unit id="Car">
+        <source>Car</source>
+        <note>Type of vehicle : car</note>
+      </trans-unit>
+      <trans-unit id="Checkmark">
+        <source>Checkmark</source>
+        <note>Accessibility title for a checkmark/tick button</note>
+      </trans-unit>
+      <trans-unit id="Could not determine your current location.">
+        <source>Could not determine your current location.</source>
+        <note>Error title when GPS failed.</note>
+      </trans-unit>
+      <trans-unit id="CouldNotDownloadSupportedRegions">
+        <source>CouldNotDownloadSupportedRegions</source>
+        <note>Could not download supported regions warning</note>
+      </trans-unit>
+      <trans-unit id="Current Location">
+        <source>Current Location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DateToFormat">
+        <source>DateToFormat</source>
+        <note>to %date</note>
+      </trans-unit>
+      <trans-unit id="EveryDayFormat">
+        <source>EveryDayFormat</source>
+        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
+      </trans-unit>
+      <trans-unit id="Everyday">
+        <source>Everyday</source>
+        <note>Everyday in context of repetitions (especially recurring events)</note>
+      </trans-unit>
+      <trans-unit id="Free">
+        <source>Free</source>
+        <note>Free as in beer</note>
+      </trans-unit>
+      <trans-unit id="Getting a lift">
+        <source>Getting a lift</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Include events">
+        <source>Include events</source>
+        <note>Include events.</note>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <note>Location name</note>
+      </trans-unit>
+      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
+        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
+        <note>Location iOS6+ authorisation needed text</note>
+      </trans-unit>
+      <trans-unit id="Motorbike">
+        <source>Motorbike</source>
+        <note>Type of vehicle : motorbike</note>
+      </trans-unit>
+      <trans-unit id="Never">
+        <source>Never</source>
+        <note>Never in context of repetitions (especially recurring events)</note>
+      </trans-unit>
+      <trans-unit id="No CO₂">
+        <source>No CO₂</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NumberReccurences">
+        <source>NumberReccurences</source>
+        <note>Number of repeats</note>
+      </trans-unit>
+      <trans-unit id="Please try again or set your location manually.">
+        <source>Please try again or set your location manually.</source>
+        <note>Error recovery suggestion when GPS fails.</note>
+      </trans-unit>
+      <trans-unit id="Real-time">
+        <source>Real-time</source>
+        <note>Indicator for real-time information</note>
+      </trans-unit>
+      <trans-unit id="Repeats daily">
+        <source>Repeats daily</source>
+        <note>Repeats daily</note>
+      </trans-unit>
+      <trans-unit id="Repeats monthly">
+        <source>Repeats monthly</source>
+        <note>Repeats monthly</note>
+      </trans-unit>
+      <trans-unit id="Repeats weekly">
+        <source>Repeats weekly</source>
+        <note>Repeats weekly</note>
+      </trans-unit>
+      <trans-unit id="Repeats yearly">
+        <source>Repeats yearly</source>
+        <note>Repeats yearly</note>
+      </trans-unit>
+      <trans-unit id="RequestErrorFormat">
+        <source>RequestErrorFormat</source>
+        <note>Error when location search for %input was not successful.</note>
+      </trans-unit>
+      <trans-unit id="SUV">
+        <source>SUV</source>
+        <note>Sports utility vehicle abbreviation</note>
+      </trans-unit>
+      <trans-unit id="Weekdays">
+        <source>Weekdays</source>
+        <note>Every weekday in context of repetitions (especially recurring events)</note>
+      </trans-unit>
+      <trans-unit id="Weekends">
+        <source>Weekends</source>
+        <note>Every weekend day in context of repetitions (especially recurring events)</note>
+      </trans-unit>
+      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
+        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
+        <note>Calendar authorisation needed text</note>
+      </trans-unit>
+      <trans-unit id="all-day">
+        <source>all-day</source>
+        <note>Indicator that an event is all-day</note>
+      </trans-unit>
+      <trans-unit id="ends at %@">
+        <source>ends at %@</source>
+        <note>Short indicator of end-time</note>
+      </trans-unit>
+      <trans-unit id="starts at %@">
+        <source>starts at %@</source>
+        <note>Short indicator of start-time</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body />
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="3d9-Hg-2Fe.title">
+        <source>Trips</source>
+        <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+      </trans-unit>
+      <trans-unit id="5WK-au-VFq.title">
+        <source>Settings</source>
+        <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq";</note>
+      </trans-unit>
+      <trans-unit id="IFX-i9-ymN.title">
+        <source>Routes</source>
+        <note>Class = "UINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN";</note>
+      </trans-unit>
+      <trans-unit id="JMk-5m-B22.title">
+        <source>Service</source>
+        <note>Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22";</note>
+      </trans-unit>
+      <trans-unit id="QTR-Ae-g7f.title">
+        <source>Trip</source>
+        <note>Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f";</note>
+      </trans-unit>
+      <trans-unit id="TNA-bx-79H.title">
+        <source>Agenda</source>
+        <note>Class = "UITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H";</note>
+      </trans-unit>
+      <trans-unit id="TYM-9i-XBA.title">
+        <source>Profile</source>
+        <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA";</note>
+      </trans-unit>
+      <trans-unit id="t3k-Ks-sqa.title">
+        <source>Alerts</source>
+        <note>Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa";</note>
+      </trans-unit>
+      <trans-unit id="ye4-ch-zSe.title">
+        <source>Favourites</source>
+        <note>Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe";</note>
+      </trans-unit>
+      <trans-unit id="zCk-Ai-u6n.title">
+        <source>Timetable</source>
+        <note>Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="30.accessibilityLabel">
+        <source>Swap from and to</source>
+        <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+      </trans-unit>
+      <trans-unit id="44.normalTitle">
+        <source>Time</source>
+        <note>Class = "UIButton"; normalTitle = "Time"; ObjectID = "44";</note>
+      </trans-unit>
+      <trans-unit id="57.accessibilityLabel">
+        <source>Route</source>
+        <note>Class = "UIButton"; accessibilityLabel = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="57.normalTitle">
+        <source>Route</source>
+        <note>Class = "UIButton"; normalTitle = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="JFm-H4-fOo.accessibilityLabel">
+        <source>To Location</source>
+        <note>Class = "UIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo";</note>
+      </trans-unit>
+      <trans-unit id="bs1-li-naL.accessibilityLabel">
+        <source>From Location</source>
+        <note>Class = "UIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="%@ at %@">
+        <source>%1$@ at %2$@</source>
+        <note>Filler for a specific service running at a time, e.g., '396 at 11:56am'</note>
+      </trans-unit>
+      <trans-unit id="%@ every %@">
+        <source>%1$@ every %2$@</source>
+        <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
+      </trans-unit>
+      <trans-unit id="%@ to %@">
+        <source>%1$@ to %2$@</source>
+        <note>Format string for going from one location to another. Used to name favourite trips.</note>
+      </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Add Reminder">
+        <source>Add Reminder</source>
+        <note>Add reminder activity title</note>
+      </trans-unit>
+      <trans-unit id="Add address...">
+        <source>Add address...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add another recurrence">
+        <source>Add another recurrence</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add to Agenda">
+        <source>Add to Agenda</source>
+        <note>Add to agenda view title
+   Save trip action</note>
+      </trans-unit>
+      <trans-unit id="Add to Calendar">
+        <source>Add to Calendar</source>
+        <note>Add to calendar activity title</note>
+      </trans-unit>
+      <trans-unit id="Add to favourites">
+        <source>Add to favourites</source>
+        <note>Add favourite activity title</note>
+      </trans-unit>
+      <trans-unit id="Add vehicle">
+        <source>Add vehicle</source>
+        <note>Action title for adding a vehicle</note>
+      </trans-unit>
+      <trans-unit id="AddStopover">
+        <source>AddStopover</source>
+        <note>Add a new stopover</note>
+      </trans-unit>
+      <trans-unit id="Added to Agenda">
+        <source>Added to Agenda</source>
+        <note>Add to agenda HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Added to calendar">
+        <source>Added to calendar</source>
+        <note>Added to calendar HUD message</note>
+      </trans-unit>
+      <trans-unit id="Address required">
+        <source>Address required</source>
+        <note>Alert title that indicates an address is missing when creating a new event.</note>
+      </trans-unit>
+      <trans-unit id="Agenda">
+        <source>Agenda</source>
+        <note>Title for button to access agenda</note>
+      </trans-unit>
+      <trans-unit id="Agenda Setup">
+        <source>Agenda Setup</source>
+        <note>Title for agenda screen while it's still in setup mode.</note>
+      </trans-unit>
+      <trans-unit id="Agenda is not set up.">
+        <source>Agenda is not set up.</source>
+        <note>Error title when agenda isn't yet set up.</note>
+      </trans-unit>
+      <trans-unit id="AgendaButton">
+        <source>AgendaButton</source>
+        <note>Agenda tab bar name</note>
+      </trans-unit>
+      <trans-unit id="Agree">
+        <source>Agree</source>
+        <note>Accepting EULA
+   Agree to EULA</note>
+      </trans-unit>
+      <trans-unit id="AirlineFlightNumber">
+        <source>AirlineFlightNumber</source>
+        <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'</note>
+      </trans-unit>
+      <trans-unit id="AirlineFromTo">
+        <source>AirlineFromTo</source>
+        <note>Flight from a city to an other one</note>
+      </trans-unit>
+      <trans-unit id="Alert">
+        <source>Alert</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AlertTitleFormat">
+        <source>AlertTitleFormat</source>
+        <note>Description of alert with %title</note>
+      </trans-unit>
+      <trans-unit id="Alerts">
+        <source>Alerts</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All">
+        <source>All</source>
+        <note>Option to use this trip for all similar cases.</note>
+      </trans-unit>
+      <trans-unit id="All From Here">
+        <source>All From Here</source>
+        <note>Option to delete this event and all after in a recurence</note>
+      </trans-unit>
+      <trans-unit id="Alternative routes">
+        <source>Alternative routes</source>
+        <note>Action button title to see alternative options for the case where you can't make the next connection.</note>
+      </trans-unit>
+      <trans-unit id="Ambiguous event address.">
+        <source>Ambiguous event address.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Arrival">
+        <source>Arrival</source>
+        <note>Arrival date+time for overnight stay
+   Arrival time sorter title</note>
+      </trans-unit>
+      <trans-unit id="ArriveBefore">
+        <source>ArriveBefore</source>
+        <note>Arrive before button</note>
+      </trans-unit>
+      <trans-unit id="Assign to vehicle">
+        <source>Assign to vehicle</source>
+        <note>Title for section to assign a trip to a vehicle.</note>
+      </trans-unit>
+      <trans-unit id="At %@">
+        <source>At %@</source>
+        <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
+      </trans-unit>
+      <trans-unit id="Auto">
+        <source>Auto</source>
+        <note>Distance 'automatic'</note>
+      </trans-unit>
+      <trans-unit id="Automatic Reminders">
+        <source>Automatic Reminders</source>
+        <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
+      </trans-unit>
+      <trans-unit id="Awesome! How about rating us?">
+        <source>Awesome! How about rating us?</source>
+        <note>Response to positive answer to question whether TripGo is useful, prompting for App Store rating.</note>
+      </trans-unit>
+      <trans-unit id="Book vehicle">
+        <source>Book vehicle</source>
+        <note>vehicle booking action</note>
+      </trans-unit>
+      <trans-unit id="BookTaxi">
+        <source>BookTaxi</source>
+        <note>Book a taxi</note>
+      </trans-unit>
+      <trans-unit id="Bummer... How about some feedback?">
+        <source>Bummer... How about some feedback?</source>
+        <note>Response to negative answer to question whether TripGo is useful, prompting for feedback.</note>
+      </trans-unit>
+      <trans-unit id="Calendar">
+        <source>Calendar</source>
+        <note>Calendar</note>
+      </trans-unit>
+      <trans-unit id="Calendar Event">
+        <source>Calendar Event</source>
+        <note>Type for regular events that go in the phone's calendar.</note>
+      </trans-unit>
+      <trans-unit id="CalendarEventDescription">
+        <source>CalendarEventDescription</source>
+        <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
+      </trans-unit>
+      <trans-unit id="Calendars">
+        <source>Calendars</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change time">
+        <source>Change time</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear cache">
+        <source>Clear cache</source>
+        <note>clear cache preference</note>
+      </trans-unit>
+      <trans-unit id="Clear search history">
+        <source>Clear search history</source>
+        <note>clear search history preference</note>
+      </trans-unit>
+      <trans-unit id="Concession Pricing">
+        <source>Concession Pricing</source>
+        <note>School pricing preference</note>
+      </trans-unit>
+      <trans-unit id="Convenience">
+        <source>Convenience</source>
+        <note>Hassle preference</note>
+      </trans-unit>
+      <trans-unit id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.">
+        <source>Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</source>
+        <note>Convenience description</note>
+      </trans-unit>
+      <trans-unit id="Could not find your city.">
+        <source>Could not find your city.</source>
+        <note>Error title when TripGo couldn't identify the user's current city.</note>
+      </trans-unit>
+      <trans-unit id="CriticalError">
+        <source>CriticalError</source>
+        <note>Title for critical error</note>
+      </trans-unit>
+      <trans-unit id="CriticalErrorFormat">
+        <source>CriticalErrorFormat</source>
+        <note>Description for critical error where error will be shown below.</note>
+      </trans-unit>
+      <trans-unit id="Current Trip">
+        <source>Current Trip</source>
+        <note>Indicating the next trip is a current trip</note>
+      </trans-unit>
+      <trans-unit id="Custom trip does not fit">
+        <source>Custom trip does not fit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom trip has been cancelled">
+        <source>Custom trip has been cancelled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cycle speed">
+        <source>Cycle speed</source>
+        <note>Cycling speed preference</note>
+      </trans-unit>
+      <trans-unit id="Database corrupted and lost.">
+        <source>Database corrupted and lost.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DateFromFormat">
+        <source>DateFromFormat</source>
+        <note>From %date</note>
+      </trans-unit>
+      <trans-unit id="DateFromToFormat">
+        <source>DateFromToFormat</source>
+        <note>From %date1 to %date2</note>
+      </trans-unit>
+      <trans-unit id="Departure">
+        <source>Departure</source>
+        <note>Departure date+time for overnight stay
+   Departure time sorter title</note>
+      </trans-unit>
+      <trans-unit id="Dismiss">
+        <source>Dismiss</source>
+        <note>Dismiss accessibility label
+   Dismiss button label
+   Negative answer to displayed advertising.</note>
+      </trans-unit>
+      <trans-unit id="Distances">
+        <source>Distances</source>
+        <note>Distances preference</note>
+      </trans-unit>
+      <trans-unit id="Do Not Include">
+        <source>Do Not Include</source>
+        <note>Title for transport modes that the user doesn't want included</note>
+      </trans-unit>
+      <trans-unit id="Do you want to always use this trip and add it to your favourites?">
+        <source>Do you want to always use this trip and add it to your favourites?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Don't have a fixed place of work or study? Skip this step.">
+        <source>Don't have a fixed place of work or study? Skip this step.</source>
+        <note>Walkthrough (skip in here should match translation for 'Skip'.</note>
+      </trans-unit>
+      <trans-unit id="Downloading trip...">
+        <source>Downloading trip...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="EditItemHereTitle">
+        <source>EditItemHereTitle</source>
+        <note>Title for page for modifying a routine/stay at a specific location</note>
+      </trans-unit>
+      <trans-unit id="End Date">
+        <source>End Date</source>
+        <note>Title for date when an event ends repeating</note>
+      </trans-unit>
+      <trans-unit id="End User Licence Agreement">
+        <source>End User Licence Agreement</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Environment">
+        <source>Environment</source>
+        <note>Carbon preference</note>
+      </trans-unit>
+      <trans-unit id="Event">
+        <source>Event</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event does not fit">
+        <source>Event does not fit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event is missing an address.">
+        <source>Event is missing an address.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event is outside TripGo's range.">
+        <source>Event is outside TripGo's range.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event was cancelled">
+        <source>Event was cancelled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="EventEndDateTime">
+        <source>EventEndDateTime</source>
+        <note>Title for the time an event ends (including date information)</note>
+      </trans-unit>
+      <trans-unit id="EventRepeat">
+        <source>EventRepeat</source>
+        <note>Title for when an event repeats</note>
+      </trans-unit>
+      <trans-unit id="EventStartDateTime">
+        <source>EventStartDateTime</source>
+        <note>Title for the time an event starts (including date information)</note>
+      </trans-unit>
+      <trans-unit id="Every %@">
+        <source>Every %@</source>
+        <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes'</note>
+      </trans-unit>
+      <trans-unit id="Example">
+        <source>Example</source>
+        <note>Text do mark an example</note>
+      </trans-unit>
+      <trans-unit id="Exclude">
+        <source>Exclude</source>
+        <note>Exclude event action</note>
+      </trans-unit>
+      <trans-unit id="ExcuseDueToLate">
+        <source>ExcuseDueToLate</source>
+        <note>There goes my excuse for being late...</note>
+      </trans-unit>
+      <trans-unit id="Fast">
+        <source>Fast</source>
+        <note>Speed preference 'fast'</note>
+      </trans-unit>
+      <trans-unit id="Favourite">
+        <source>Favourite</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favourite Trip">
+        <source>Favourite Trip</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favourite added">
+        <source>Favourite added</source>
+        <note>Add favourite HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Favourite removed">
+        <source>Favourite removed</source>
+        <note>Remove trip from favourites HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Favourites">
+        <source>Favourites</source>
+        <note>Title for button to access favourites</note>
+      </trans-unit>
+      <trans-unit id="FavouritesButton">
+        <source>FavouritesButton</source>
+        <note>Favourites tab bar name</note>
+      </trans-unit>
+      <trans-unit id="Feedback &amp; Support">
+        <source>Feedback &amp; Support</source>
+        <note>Help title</note>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+        <note>Placeholder text for search bar that is used for filtering</note>
+      </trans-unit>
+      <trans-unit id="Flight">
+        <source>Flight</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Flight number">
+        <source>Flight number</source>
+        <note>Flight number prompt</note>
+      </trans-unit>
+      <trans-unit id="FlightDate">
+        <source>FlightDate</source>
+        <note>Date of the flight</note>
+      </trans-unit>
+      <trans-unit id="FlightDetails">
+        <source>FlightDetails</source>
+        <note>Details of a flight</note>
+      </trans-unit>
+      <trans-unit id="FlightNote">
+        <source>FlightNote</source>
+        <note>Note concerning the flight</note>
+      </trans-unit>
+      <trans-unit id="FlightNumberFormat">
+        <source>FlightNumberFormat</source>
+        <note>Title for flight with %flightNumber</note>
+      </trans-unit>
+      <trans-unit id="FlightSearch">
+        <source>FlightSearch</source>
+        <note>Search for a flight</note>
+      </trans-unit>
+      <trans-unit id="For when to leave">
+        <source>For when to leave</source>
+        <note>Reminder to leave preference</note>
+      </trans-unit>
+      <trans-unit id="FreeDirections">
+        <source>FreeDirections</source>
+        <note>Free directions</note>
+      </trans-unit>
+      <trans-unit id="From">
+        <source>From</source>
+        <note>Favorite trip 'from' title</note>
+      </trans-unit>
+      <trans-unit id="From %@">
+        <source>From %@</source>
+        <note>Format string for going from one location to others. Used to name favourite stops.</note>
+      </trans-unit>
+      <trans-unit id="From %@, leaving now">
+        <source>From %@, leaving now</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="From current location">
+        <source>From current location</source>
+        <note>Route here... ...from Current location</note>
+      </trans-unit>
+      <trans-unit id="FromToForEventLocationFormat">
+        <source>FromToForEventLocationFormat</source>
+        <note>Location for trip exported as event going from %location1 to %location2</note>
+      </trans-unit>
+      <trans-unit id="Garaged Vehicles">
+        <source>Garaged Vehicles</source>
+        <note>Header for list of vehicles garaged at this location</note>
+      </trans-unit>
+      <trans-unit id="General">
+        <source>General</source>
+        <note>Title of settings for generic transport stuff</note>
+      </trans-unit>
+      <trans-unit id="Get Involved">
+        <source>Get Involved</source>
+        <note>Header for settings for feedback, recommending and rating TripGo</note>
+      </trans-unit>
+      <trans-unit id="Get directions">
+        <source>Get directions</source>
+        <note>Action button title for getting turn-by-turn directions</note>
+      </trans-unit>
+      <trans-unit id="Get off here">
+        <source>Get off here</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get on here">
+        <source>Get on here</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get on or off here">
+        <source>Get on or off here</source>
+        <note>Description for button to get on or off at the selected public transport stop rather than where TripGo suggested.</note>
+      </trans-unit>
+      <trans-unit id="GetAround">
+        <source>GetAround</source>
+        <note>I use TripGo to get around</note>
+      </trans-unit>
+      <trans-unit id="Getting current location">
+        <source>Getting current location</source>
+        <note>Indicating localisation is in progress</note>
+      </trans-unit>
+      <trans-unit id="Getting trip...">
+        <source>Getting trip...</source>
+        <note>Message to show when trying to get trip for a favorite</note>
+      </trans-unit>
+      <trans-unit id="Habitual Visit">
+        <source>Habitual Visit</source>
+        <note>Routine, i.e., type for regular times when at one of the user's favorites
+   Type for events that are regular visit's to one of the user's favorites</note>
+      </trans-unit>
+      <trans-unit id="HabitualEventDescription">
+        <source>HabitualEventDescription</source>
+        <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish.</note>
+      </trans-unit>
+      <trans-unit id="Has TripGo been useful to you?">
+        <source>Has TripGo been useful to you?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <note>Typical name that you'd give your home location</note>
+      </trans-unit>
+      <trans-unit id="Hybrid">
+        <source>Hybrid</source>
+        <note>Map mode 'streets + satellite'</note>
+      </trans-unit>
+      <trans-unit id="Include">
+        <source>Include</source>
+        <note>Include event action</note>
+      </trans-unit>
+      <trans-unit id="Include Step Count">
+        <source>Include Step Count</source>
+        <note>Title for setting to include step count on Agenda screen</note>
+      </trans-unit>
+      <trans-unit id="Include in routes">
+        <source>Include in routes</source>
+        <note>Title for a switch indicating if this event should be included in all-day routes
+   Title for setting to include transport mode in trips.</note>
+      </trans-unit>
+      <trans-unit id="Jump to today">
+        <source>Jump to today</source>
+        <note>Accessibility hint for tapping title in agenda - jumps to 'today'</note>
+      </trans-unit>
+      <trans-unit id="Km">
+        <source>Km</source>
+        <note>Distance 'kilometers'</note>
+      </trans-unit>
+      <trans-unit id="LeaveAfter">
+        <source>LeaveAfter</source>
+        <note>Leave after button</note>
+      </trans-unit>
+      <trans-unit id="List">
+        <source>List</source>
+        <note>Button title to switch view to list mode</note>
+      </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <note>Title to show while loading/waiting for results</note>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <note>Title for showing the details of a location, typically picked from the map after searching or dropping a pin</note>
+      </trans-unit>
+      <trans-unit id="Location missing.">
+        <source>Location missing.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Location not set.">
+        <source>Location not set.</source>
+        <note>Error title when favourite is missing a location..</note>
+      </trans-unit>
+      <trans-unit id="LocationComingFrom">
+        <source>LocationComingFrom</source>
+        <note>Where are you going from?</note>
+      </trans-unit>
+      <trans-unit id="LocationWantToGo">
+        <source>LocationWantToGo</source>
+        <note>Where do you want to go?</note>
+      </trans-unit>
+      <trans-unit id="Long press on the map to choose a location">
+        <source>Long press on the map to choose a location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LostOnce">
+        <source>LostOnce</source>
+        <note>I once was lost but now I have found... TripGo</note>
+      </trans-unit>
+      <trans-unit id="Manual Reminders">
+        <source>Manual Reminders</source>
+        <note>Header for settings of reminders that the user manually added</note>
+      </trans-unit>
+      <trans-unit id="Map">
+        <source>Map</source>
+        <note>Button title to switch agenda view to map mode
+   Button title to switch to map
+   Map preference</note>
+      </trans-unit>
+      <trans-unit id="Marking a location as a favourite will allow quick access to routing results for going there from your current location.">
+        <source>Marking a location as a favourite will allow quick access to routing results for going there from your current location.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Marking a transit stop as a favourite will allow quick access to its timetable.">
+        <source>Marking a transit stop as a favourite will allow quick access to its timetable.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Medium">
+        <source>Medium</source>
+        <note>Speed preference 'medium'</note>
+      </trans-unit>
+      <trans-unit id="Mi">
+        <source>Mi</source>
+        <note>Distance 'miles'</note>
+      </trans-unit>
+      <trans-unit id="Min transfer time">
+        <source>Min transfer time</source>
+        <note>Minimum transfer time preference</note>
+      </trans-unit>
+      <trans-unit id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.">
+        <source>Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Minimised">
+        <source>Minimised</source>
+        <note>Indicator that a transport mode will appear minimised on the routes screen.
+   Title for setting to minimise a transport mode.</note>
+      </trans-unit>
+      <trans-unit id="Minutes">
+        <source>Minutes</source>
+        <note>Minutes format (used for transfer times)</note>
+      </trans-unit>
+      <trans-unit id="Minutes before trip">
+        <source>Minutes before trip</source>
+        <note>Reminder to leave preference</note>
+      </trans-unit>
+      <trans-unit id="MinutesBefore">
+        <source>MinutesBefore</source>
+        <note>Number of minutes before departure</note>
+      </trans-unit>
+      <trans-unit id="More">
+        <source>More</source>
+        <note>More button accessibility label</note>
+      </trans-unit>
+      <trans-unit id="More Information">
+        <source>More Information</source>
+        <note>Header for list of how to get more information (e.g., by opening a website)</note>
+      </trans-unit>
+      <trans-unit id="Movie">
+        <source>Movie</source>
+        <note>Sample event name ('Movie')</note>
+      </trans-unit>
+      <trans-unit id="My Agenda">
+        <source>My Agenda</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="My Bookings">
+        <source>My Bookings</source>
+        <note>Title for profile item that loads a list of user's bookings</note>
+      </trans-unit>
+      <trans-unit id="My Priorities">
+        <source>My Priorities</source>
+        <note>User preferences title</note>
+      </trans-unit>
+      <trans-unit id="My Transport">
+        <source>My Transport</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="My Vehicles">
+        <source>My Vehicles</source>
+        <note>Header for list of my vehicles</note>
+      </trans-unit>
+      <trans-unit id="NameVehicle">
+        <source>NameVehicle</source>
+        <note>Name of the vehicle</note>
+      </trans-unit>
+      <trans-unit id="Navigate to a supported city on a map.">
+        <source>Navigate to a supported city on a map.</source>
+        <note>Error recovery suggestion for when TripGo couldn't identify the user's current city.</note>
+      </trans-unit>
+      <trans-unit id="New Favourite">
+        <source>New Favourite</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NewEvent">
+        <source>NewEvent</source>
+        <note>Title for unnamed new event</note>
+      </trans-unit>
+      <trans-unit id="NewItemAwayActionTitle">
+        <source>NewItemAwayActionTitle</source>
+        <note>Action title for adding a habitual item away from some location</note>
+      </trans-unit>
+      <trans-unit id="NewItemHereActionTitle">
+        <source>NewItemHereActionTitle</source>
+        <note>Action title for adding another habitual visit to a favourite</note>
+      </trans-unit>
+      <trans-unit id="NewItemHereTitle">
+        <source>NewItemHereTitle</source>
+        <note>Title for page for adding a new routine/stay at a specific location</note>
+      </trans-unit>
+      <trans-unit id="NewStayTitle">
+        <source>NewStayTitle</source>
+        <note>Title for page for adding a new routing/stay at a specific location</note>
+      </trans-unit>
+      <trans-unit id="No 'From' location selected">
+        <source>No 'From' location selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No 'To' location selected">
+        <source>No 'To' location selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No calendar found.">
+        <source>No calendar found.</source>
+        <note>Error title for when no calendar found.</note>
+      </trans-unit>
+      <trans-unit id="No locations set">
+        <source>No locations set</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No planned trip">
+        <source>No planned trip</source>
+        <note>Text to show if there's no planned trip.</note>
+      </trans-unit>
+      <trans-unit id="No planned trips">
+        <source>No planned trips</source>
+        <note>Indicating no trips have been planned within 24 hrs</note>
+      </trans-unit>
+      <trans-unit id="No routes found.">
+        <source>No routes found.</source>
+        <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
+      </trans-unit>
+      <trans-unit id="No, thanks">
+        <source>No, thanks</source>
+        <note>Negative answer to follow-up question for rating or feedback.</note>
+      </trans-unit>
+      <trans-unit id="Not really">
+        <source>Not really</source>
+        <note>Negative answer to question whether TripGo is useful.</note>
+      </trans-unit>
+      <trans-unit id="Now">
+        <source>Now</source>
+        <note>Countdown cell 'now' indicator</note>
+      </trans-unit>
+      <trans-unit id="NumberRouteFormat">
+        <source>NumberRouteFormat</source>
+        <note>Title for route number %1 of %total, where %total &gt; 1.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Only This">
+        <source>Only This</source>
+        <note>Option to delete only this event in a recurence
+   Option to use this trip just this time.</note>
+      </trans-unit>
+      <trans-unit id="Open TripGo app and add the location of this favourite.">
+        <source>Open TripGo app and add the location of this favourite.</source>
+        <note>Error recovery suggestion for favourites with missing location.</note>
+      </trans-unit>
+      <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
+        <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
+        <note>Error recovery suggestion for when watch doesn't have access to location services.</note>
+      </trans-unit>
+      <trans-unit id="Open URL">
+        <source>Open URL</source>
+        <note>Button title to open URL</note>
+      </trans-unit>
+      <trans-unit id="Open website">
+        <source>Open website</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Permission was granted. Please go back and try again.">
+        <source>Permission was granted. Please go back and try again.</source>
+        <note>Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results.</note>
+      </trans-unit>
+      <trans-unit id="Permissions">
+        <source>Permissions</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pick a Time">
+        <source>Pick a Time</source>
+        <note>Timetable screen title</note>
+      </trans-unit>
+      <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
+        <source>Plan a trip on your phone or press firmly to access your favourites.</source>
+        <note>Instruction to users when there are no upcoming trips</note>
+      </trans-unit>
+      <trans-unit id="Plan a trip on your phone.">
+        <source>Plan a trip on your phone.</source>
+        <note>Instruction to users when there are no upcoming trips (for non-interactive Glance)</note>
+      </trans-unit>
+      <trans-unit id="Please adjust your query and try again.">
+        <source>Please adjust your query and try again.</source>
+        <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
+      </trans-unit>
+      <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
+        <source>Please check your Calendar app and make sure you have a calendar configured.</source>
+        <note>Error recovery suggestion for when no calendar found.</note>
+      </trans-unit>
+      <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
+        <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
+        <note>Recovery suggestion when TripGo cannot access its local files</note>
+      </trans-unit>
+      <trans-unit id="Please restart the app. Sorry for the inconvenience!">
+        <source>Please restart the app. Sorry for the inconvenience!</source>
+        <note>Recovery suggestion when database got corrupted</note>
+      </trans-unit>
+      <trans-unit id="Please specify an address.">
+        <source>Please specify an address.</source>
+        <note>Alert message that asks users to provide the missing address for a new event.</note>
+      </trans-unit>
+      <trans-unit id="Please try restarting the app. Sorry for the inconvenience!">
+        <source>Please try restarting the app. Sorry for the inconvenience!</source>
+        <note>Recovery suggestion when TripGo cannot update its local files</note>
+      </trans-unit>
+      <trans-unit id="Preferred transport">
+        <source>Preferred transport</source>
+        <note>Title for preferred public transport modes.</note>
+      </trans-unit>
+      <trans-unit id="Priorities">
+        <source>Priorities</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PrivateTimeToLeave">
+        <source>PrivateTimeToLeave</source>
+        <note>Notification message for a non-public transport trip. Provided is %destination and %time you need to leave.</note>
+      </trans-unit>
+      <trans-unit id="PrivateTimeToLeaveNoLocation">
+        <source>PrivateTimeToLeaveNoLocation</source>
+        <note>Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
+      </trans-unit>
+      <trans-unit id="Profile">
+        <source>Profile</source>
+        <note>Title for view that shows user's profile</note>
+      </trans-unit>
+      <trans-unit id="ProfileButton">
+        <source>ProfileButton</source>
+        <note>Profile tab bar name</note>
+      </trans-unit>
+      <trans-unit id="Rate TripGo">
+        <source>Rate TripGo</source>
+        <note>Rate us preference</note>
+      </trans-unit>
+      <trans-unit id="Reminder">
+        <source>Reminder</source>
+        <note>Action title to add/remove reminder</note>
+      </trans-unit>
+      <trans-unit id="Reminder added">
+        <source>Reminder added</source>
+        <note>Added reminder notice</note>
+      </trans-unit>
+      <trans-unit id="Reminder removed">
+        <source>Reminder removed</source>
+        <note>Removed reminder HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Reminders">
+        <source>Reminders</source>
+        <note>Reminders title</note>
+      </trans-unit>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Favourite">
+        <source>Remove Favourite</source>
+        <note>Remove favourite activity title</note>
+      </trans-unit>
+      <trans-unit id="Remove Reminder">
+        <source>Remove Reminder</source>
+        <note>Remove reminder activity title</note>
+      </trans-unit>
+      <trans-unit id="Remove and exclude event">
+        <source>Remove and exclude event</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from Agenda">
+        <source>Remove from Agenda</source>
+        <note>Unsave trip action</note>
+      </trans-unit>
+      <trans-unit id="Removed from Agenda">
+        <source>Removed from Agenda</source>
+        <note>Remove from agenda HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Removing this trip will exclude the following event from your agenda.">
+        <source>Removing this trip will exclude the following event from your agenda.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Removing this trip will exclude the preceeding event from your agenda.">
+        <source>Removing this trip will exclude the preceeding event from your agenda.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Repeat does end">
+        <source>Repeat does end</source>
+        <note>Title for switch indicating if an event repeats or not</note>
+      </trans-unit>
+      <trans-unit id="Report Problem">
+        <source>Report Problem</source>
+        <note>Report problem</note>
+      </trans-unit>
+      <trans-unit id="Request...">
+        <source>Request...</source>
+        <note>Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event.</note>
+      </trans-unit>
+      <trans-unit id="Reset">
+        <source>Reset</source>
+        <note>Reset button for my priorities
+   Title of group of settings related to resetting settings</note>
+      </trans-unit>
+      <trans-unit id="Reset agenda">
+        <source>Reset agenda</source>
+        <note>Action title to reset agenda content.</note>
+      </trans-unit>
+      <trans-unit id="Reset tutorial">
+        <source>Reset tutorial</source>
+        <note>Action title to reset tutorial progress.</note>
+      </trans-unit>
+      <trans-unit id="Return time">
+        <source>Return time</source>
+        <note>Title for selector of return time for a trip</note>
+      </trans-unit>
+      <trans-unit id="Return trip">
+        <source>Return trip</source>
+        <note>Header for section to configure return trip</note>
+      </trans-unit>
+      <trans-unit id="Review EULA">
+        <source>Review EULA</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Route">
+        <source>Route</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Route here">
+        <source>Route here</source>
+        <note>Title for options for routing to this location, options are: current location, &lt;some previously selected location&gt;.</note>
+      </trans-unit>
+      <trans-unit id="Routes">
+        <source>Routes</source>
+        <note>Results screen title</note>
+      </trans-unit>
+      <trans-unit id="Satellite">
+        <source>Satellite</source>
+        <note>Map mode 'satellite'</note>
+      </trans-unit>
+      <trans-unit id="Save Money">
+        <source>Save Money</source>
+        <note>Price preference</note>
+      </trans-unit>
+      <trans-unit id="Save Time">
+        <source>Save Time</source>
+        <note>Time preference</note>
+      </trans-unit>
+      <trans-unit id="Search for a city">
+        <source>Search for a city</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search for your home address">
+        <source>Search for your home address</source>
+        <note>Agenda onboarding: placeholder text for search bar for 'home'.</note>
+      </trans-unit>
+      <trans-unit id="Search for your work address">
+        <source>Search for your work address</source>
+        <note>Agenda onboarding: placeholder text for search bar for 'work'.</note>
+      </trans-unit>
+      <trans-unit id="SearchButton">
+        <source>SearchButton</source>
+        <note>Search tab bar name</note>
+      </trans-unit>
+      <trans-unit id="Searching for '%@'...">
+        <source>Searching for '%@'...</source>
+        <note>Placeholder text while waiting for server response when searching for a location.</note>
+      </trans-unit>
+      <trans-unit id="Select Bike Share">
+        <source>Select Bike Share</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Car Park">
+        <source>Select Car Park</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Vehicle">
+        <source>Select Vehicle</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select a date to get flight details.">
+        <source>Select a date to get flight details.</source>
+        <note>Details of a flight prompt to enter date first.</note>
+      </trans-unit>
+      <trans-unit id="Select the place where you stay at the end of each day">
+        <source>Select the place where you stay at the end of each day</source>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Send Real-time SMS">
+        <source>Send Real-time SMS</source>
+        <note>Action button title for composing an SMS to a real-time service</note>
+      </trans-unit>
+      <trans-unit id="Set up your Agenda in the TripGo app.">
+        <source>Set up your Agenda in the TripGo app.</source>
+        <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <note>Button that goes to the Setting's app</note>
+      </trans-unit>
+      <trans-unit id="Share Arrival">
+        <source>Share Arrival</source>
+        <note>Action button title for sharing when you arrive
+   Share arrival</note>
+      </trans-unit>
+      <trans-unit id="Share Trip">
+        <source>Share Trip</source>
+        <note>Share trip</note>
+      </trans-unit>
+      <trans-unit id="Show Wheelchair Information">
+        <source>Show Wheelchair Information</source>
+        <note>Preference to highlight wheelchair information</note>
+      </trans-unit>
+      <trans-unit id="Show alternatives">
+        <source>Show alternatives</source>
+        <note>Button title on trips to show alternatives for it</note>
+      </trans-unit>
+      <trans-unit id="Show booking options">
+        <source>Show booking options</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show details">
+        <source>Show details</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show disclaimer">
+        <source>Show disclaimer</source>
+        <note>Button to show disclaimers, e.g., info of public transport data.</note>
+      </trans-unit>
+      <trans-unit id="Show info">
+        <source>Show info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show map">
+        <source>Show map</source>
+        <note>Action title to show map for a segment</note>
+      </trans-unit>
+      <trans-unit id="Show parking options">
+        <source>Show parking options</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show ticket Info">
+        <source>Show ticket Info</source>
+        <note>Button Title to get to website with ticket details.</note>
+      </trans-unit>
+      <trans-unit id="Show timetable">
+        <source>Show timetable</source>
+        <note>Action button title for viewing timetable for public transport</note>
+      </trans-unit>
+      <trans-unit id="ShowTrip">
+        <source>ShowTrip</source>
+        <note>Show trip</note>
+      </trans-unit>
+      <trans-unit id="Skip">
+        <source>Skip</source>
+        <note>Button title to skip a certain step</note>
+      </trans-unit>
+      <trans-unit id="Slow">
+        <source>Slow</source>
+        <note>Speed preference 'slow'</note>
+      </trans-unit>
+      <trans-unit id="Sorry. TripGo doesn't work here yet!">
+        <source>Sorry. TripGo doesn't work here yet!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Spread the word">
+        <source>Spread the word</source>
+        <note>Spread the word preference</note>
+      </trans-unit>
+      <trans-unit id="SrcToDstFormat">
+        <source>SrcToDstFormat</source>
+        <note>Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4)</note>
+      </trans-unit>
+      <trans-unit id="Stay">
+        <source>Stay</source>
+        <note>Stay, i.e., type for dates you're staying at a hotel, or when moving house.</note>
+      </trans-unit>
+      <trans-unit id="StayEventDescription">
+        <source>StayEventDescription</source>
+        <note>Explanation for what stays are compared to calendar events and routines. Can be long-ish.</note>
+      </trans-unit>
+      <trans-unit id="StayTitle">
+        <source>StayTitle</source>
+        <note>Title for identifying a location where you stay overnight</note>
+      </trans-unit>
+      <trans-unit id="StepsNumber">
+        <source>StepsNumber</source>
+        <note>Number of steps</note>
+      </trans-unit>
+      <trans-unit id="Stop code: %@">
+        <source>Stop code: %@</source>
+        <note>Additional information for official stop code of a public transport stop.</note>
+      </trans-unit>
+      <trans-unit id="Stopover">
+        <source>Stopover</source>
+        <note>Title for stopover event</note>
+      </trans-unit>
+      <trans-unit id="Streets">
+        <source>Streets</source>
+        <note>Map mode 'streets'</note>
+      </trans-unit>
+      <trans-unit id="Support">
+        <source>Support</source>
+        <note>Contact support error button</note>
+      </trans-unit>
+      <trans-unit id="Swipe dates to navigate between weeks">
+        <source>Swipe dates to navigate between weeks</source>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap 'Routes' for alternative routes">
+        <source>Tap 'Routes' for alternative routes</source>
+        <note>Walkthrough - should match translation for '\"Routes\"'</note>
+      </trans-unit>
+      <trans-unit id="Tap and hold title to jump directly to a specified date.">
+        <source>Tap and hold title to jump directly to a specified date.</source>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap title to go to 'today'">
+        <source>Tap title to go to 'today'</source>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap to confirm hours or swipe to delete">
+        <source>Tap to confirm hours or swipe to delete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to set address">
+        <source>Tap to set address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to set address or swipe to delete">
+        <source>Tap to set address or swipe to delete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to set garage">
+        <source>Tap to set garage</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you!">
+        <source>Thank you!</source>
+        <note>Thank you HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Time at Work">
+        <source>Time at Work</source>
+        <note>Title for screen to pick your working hours</note>
+      </trans-unit>
+      <trans-unit id="Time zone">
+        <source>Time zone</source>
+        <note>Time zone (typically for an event)</note>
+      </trans-unit>
+      <trans-unit id="Times">
+        <source>Times</source>
+        <note>Header for times a user is typically at this location, e.g., working hours</note>
+      </trans-unit>
+      <trans-unit id="Timetable">
+        <source>Timetable</source>
+        <note>Title of button to access timetable</note>
+      </trans-unit>
+      <trans-unit id="TitleEventName">
+        <source>TitleEventName</source>
+        <note>Title event name</note>
+      </trans-unit>
+      <trans-unit id="TitleFavouriteName">
+        <source>TitleFavouriteName</source>
+        <note>Title favourite name</note>
+      </trans-unit>
+      <trans-unit id="To">
+        <source>To</source>
+        <note>Favorite trip 'to' title</note>
+      </trans-unit>
+      <trans-unit id="Transport">
+        <source>Transport</source>
+        <note>Title for button to access transport modes
+   Title of settings for generic transport stuff</note>
+      </trans-unit>
+      <trans-unit id="TransportGenius">
+        <source>TransportGenius</source>
+        <note>Transport genius</note>
+      </trans-unit>
+      <trans-unit id="TransportModeWish">
+        <source>TransportModeWish</source>
+        <note>How do you want to go today?</note>
+      </trans-unit>
+      <trans-unit id="TripGo cannot access its local files.">
+        <source>TripGo cannot access its local files.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TripGo cannot update its local files.">
+        <source>TripGo cannot update its local files.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.">
+        <source>TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TripsButton">
+        <source>TripsButton</source>
+        <note>Trips tab bar name</note>
+      </trans-unit>
+      <trans-unit id="TypeEvent">
+        <source>TypeEvent</source>
+        <note>Type of the event (calendar event, stay, routine)</note>
+      </trans-unit>
+      <trans-unit id="TypeVehicle">
+        <source>TypeVehicle</source>
+        <note>Type of the vehicle</note>
+      </trans-unit>
+      <trans-unit id="Upcoming Trip">
+        <source>Upcoming Trip</source>
+        <note>Indicating the next trip is an upcoming trip</note>
+      </trans-unit>
+      <trans-unit id="Vehicle">
+        <source>Vehicle</source>
+        <note>Which of my vehicles to assign this to</note>
+      </trans-unit>
+      <trans-unit id="Verify location...">
+        <source>Verify location...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View">
+        <source>View</source>
+        <note>Positive answer to displayed advertising.
+   Show content of notification.
+   View EULA</note>
+      </trans-unit>
+      <trans-unit id="View times">
+        <source>View times</source>
+        <note>View alternative times for this trip</note>
+      </trans-unit>
+      <trans-unit id="ViewDurationButton">
+        <source>ViewDurationButton</source>
+        <note>Label for 'Duration' button to sort trips by their total duration.</note>
+      </trans-unit>
+      <trans-unit id="ViewOverallButton">
+        <source>ViewOverallButton</source>
+        <note>Label for 'Overall' button to sort trips by their overall total score considering all factors.</note>
+      </trans-unit>
+      <trans-unit id="ViewPriceButton">
+        <source>ViewPriceButton</source>
+        <note>Label for 'Price' button to sort trips by their total cost.</note>
+      </trans-unit>
+      <trans-unit id="Walk speed">
+        <source>Walk speed</source>
+        <note>Walking speed preference</note>
+      </trans-unit>
+      <trans-unit id="Week starts">
+        <source>Week starts</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What3words Address">
+        <source>What3words Address</source>
+        <note>Title for showing what3words address including info button</note>
+      </trans-unit>
+      <trans-unit id="WhenIAmAwayHeader">
+        <source>WhenIAmAwayHeader</source>
+        <note>Header for staying away form home, i.e., when a user is NOT at their home</note>
+      </trans-unit>
+      <trans-unit id="WhenIAmHereHeader">
+        <source>WhenIAmHereHeader</source>
+        <note>Header for accommodations, i.e., when a user is typically at this location
+   Header for routines and accommodations, i.e., when a user is typically at this location</note>
+      </trans-unit>
+      <trans-unit id="Which would you like to delete">
+        <source>Which would you like to delete</source>
+        <note>Question for which events in a recurrence to delete (options are typically this/all/any from here)</note>
+      </trans-unit>
+      <trans-unit id="Work">
+        <source>Work</source>
+        <note>Typical name that you'd give your work location</note>
+      </trans-unit>
+      <trans-unit id="Yeah, ok!">
+        <source>Yeah, ok!</source>
+        <note>Positive answer to follow-up question for rating or feedback.</note>
+      </trans-unit>
+      <trans-unit id="Yes!">
+        <source>Yes!</source>
+        <note>Positive answer to question whether TripGo is useful.</note>
+      </trans-unit>
+      <trans-unit id="You might not make this transfer.">
+        <source>You might not make this transfer.</source>
+        <note>Alert if service running late/early, meaning that the user might not make the next service.</note>
+      </trans-unit>
+      <trans-unit id="Zoom in">
+        <source>Zoom in</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zoom into map to view public transport stops">
+        <source>Zoom into map to view public transport stops</source>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="pricingDescription">
+        <source>pricingDescription</source>
+        <note>Description of the pricing</note>
+      </trans-unit>
+      <trans-unit id="terminalDescription">
+        <source>terminalDescription</source>
+        <note>Description of the terminal</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="%1$@ early">
+        <source>%1$@ early</source>
+        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'.</note>
+      </trans-unit>
+      <trans-unit id="%1$@ early (%2$@ service)">
+        <source>%1$@ early (%2$@ service)</source>
+        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+      </trans-unit>
+      <trans-unit id="%1$@ late">
+        <source>%1$@ late</source>
+        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min'</note>
+      </trans-unit>
+      <trans-unit id="%1$@ late (%2$@ service)">
+        <source>%1$@ late (%2$@ service)</source>
+        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+      </trans-unit>
+      <trans-unit id="%@ w/o traffic">
+        <source>%@ w/o traffic</source>
+        <note>Duration without traffic</note>
+      </trans-unit>
+      <trans-unit id="1 stop">
+        <source>1 stop</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ActivityIndication">
+        <source>ActivityIndication</source>
+        <note>Indication of an activity</note>
+      </trans-unit>
+      <trans-unit id="Apple Maps">
+        <source>Apple Maps</source>
+        <note>apple maps directions action</note>
+      </trans-unit>
+      <trans-unit id="Arrival">
+        <source>Arrival</source>
+        <note>Arrival time sorter title</note>
+      </trans-unit>
+      <trans-unit id="ArrivalLocation">
+        <source>ArrivalLocation</source>
+        <note>The place of arrival</note>
+      </trans-unit>
+      <trans-unit id="ArrivalLocationTime">
+        <source>ArrivalLocationTime</source>
+        <note>The place of arrival with time</note>
+      </trans-unit>
+      <trans-unit id="ArrivalTime">
+        <source>ArrivalTime</source>
+        <note>Arrival %time.
+   Time arrival</note>
+      </trans-unit>
+      <trans-unit id="Arrive">
+        <source>Arrive</source>
+        <note>Prefix for selected 'arrive by' time
+   Single line instruction to arrive</note>
+      </trans-unit>
+      <trans-unit id="Book with FlitWays">
+        <source>Book with FlitWays</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Book with Uber">
+        <source>Book with Uber</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Call">
+        <source>Call</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CallTaxiFormat">
+        <source>CallTaxiFormat</source>
+        <note>Action title for calling provider of %name</note>
+      </trans-unit>
+      <trans-unit id="Could not find transit stop.">
+        <source>Could not find transit stop.</source>
+        <note>Error title when server could not find a given transit stop.</note>
+      </trans-unit>
+      <trans-unit id="Departure">
+        <source>Departure</source>
+        <note>Departure time sorter title</note>
+      </trans-unit>
+      <trans-unit id="DepartureTime">
+        <source>DepartureTime</source>
+        <note>Time of the bus departure</note>
+      </trans-unit>
+      <trans-unit id="Direction">
+        <source>Direction</source>
+        <note>Destination of the bus</note>
+      </trans-unit>
+      <trans-unit id="Duration">
+        <source>Duration</source>
+        <note>Walking time</note>
+      </trans-unit>
+      <trans-unit id="Get Lyft">
+        <source>Get Lyft</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get directions">
+        <source>Get directions</source>
+        <note>Action button title for getting turn-by-turn directions</note>
+      </trans-unit>
+      <trans-unit id="Get ingogo">
+        <source>Get ingogo</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Google Maps">
+        <source>Google Maps</source>
+        <note>google maps directions action</note>
+      </trans-unit>
+      <trans-unit id="Leave">
+        <source>Leave</source>
+        <note>Prefix for selected 'leave after' time
+   Single line instruction to leave</note>
+      </trans-unit>
+      <trans-unit id="Leave now">
+        <source>Leave now</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LeaveLocation">
+        <source>LeaveLocation</source>
+        <note>The place of departure</note>
+      </trans-unit>
+      <trans-unit id="LeaveLocationTime">
+        <source>LeaveLocationTime</source>
+        <note>The place of departure with time</note>
+      </trans-unit>
+      <trans-unit id="LeaveTime">
+        <source>LeaveTime</source>
+        <note>Time departure</note>
+      </trans-unit>
+      <trans-unit id="Live traffic">
+        <source>Live traffic</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MessageArrivalTime">
+        <source>MessageArrivalTime</source>
+        <note>ArrivalTime</note>
+      </trans-unit>
+      <trans-unit id="On time">
+        <source>On time</source>
+        <note>Indicator to show when a service is on time according to real-time data.</note>
+      </trans-unit>
+      <trans-unit id="Open Lyft">
+        <source>Open Lyft</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PrimaryLocationEnd">
+        <source>PrimaryLocationEnd</source>
+        <note>Arrival Location
+   For trip titles, e.g., 'To work'
+   Format string for going from currently location to this one. Used to name favourite destinations.</note>
+      </trans-unit>
+      <trans-unit id="PrimaryLocationStart">
+        <source>PrimaryLocationStart</source>
+        <note>Departure Location</note>
+      </trans-unit>
+      <trans-unit id="PrimaryLocationStationary">
+        <source>PrimaryLocationStationary</source>
+        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park</note>
+      </trans-unit>
+      <trans-unit id="Real-time">
+        <source>Real-time</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search for this stop again or try again later..">
+        <source>Search for this stop again or try again later..</source>
+        <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
+      </trans-unit>
+      <trans-unit id="Send SMS">
+        <source>Send SMS</source>
+        <note>Send SMS action</note>
+      </trans-unit>
+      <trans-unit id="Show website">
+        <source>Show website</source>
+        <note>Show website action</note>
+      </trans-unit>
+      <trans-unit id="Stops">
+        <source>Stops</source>
+        <note>Number of stops before you get off a vehicle</note>
+      </trans-unit>
+      <trans-unit id="TimeFromToShortFormat">
+        <source>TimeFromToShortFormat</source>
+        <note>From %time1 to %time2</note>
+      </trans-unit>
+      <trans-unit id="To %@">
+        <source>To %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trip">
+        <source>Trip</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VehicleCalledUpdated">
+        <source>VehicleCalledUpdated</source>
+        <note>Vehicle 'x' updated</note>
+      </trans-unit>
+      <trans-unit id="VehicleUpdated">
+        <source>VehicleUpdated</source>
+        <note>Vehicle updated</note>
+      </trans-unit>
+      <trans-unit id="goCatch a Taxi">
+        <source>goCatch a Taxi</source>
+        <note>goCatch action</note>
+      </trans-unit>
+      <trans-unit id="ingogo a Taxi">
+        <source>ingogo a Taxi</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/shared.strings" source-language="en">
+    <header>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+    </header>
+    <body>
+      <trans-unit id="Cannot find a valid token">
+        <source>Cannot find a valid token</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  </xliff>
