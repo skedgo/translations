@@ -67,7 +67,6 @@
     <string name="go_to_today">Go to today</string>
     <string name="include_cal_act">Include checked calendars</string>
     <string name="include_cal_explanation">Events from those calendars will be used in planning your day</string>
-    <string name="information_on_concession_pricing_is_subject_to_availability_dot">Information on concession pricing is subject to availability.</string>
     <string name="invalid_transfer_time">Invalid time, revert to last used value.</string>
     <string name="its_time_to_leave">It\'s time to leave!</string>
     <string name="leave_now_to_make_on_time">Leave now to make it on time</string>

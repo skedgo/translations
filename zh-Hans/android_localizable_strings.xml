@@ -10,7 +10,6 @@
   <string name="address">地址</string>
   <string name="agenda_set_or_delete">点击这里设置地址或长按删除</string>
   <string name="agenda_tip">点击下方的选项栏查看你的日常行程和收藏</string>
-  <string name="agree">同意</string>
   <string name="all_alerts">所有提示</string>
   <string name="all_cals_invisible">你的所有日历都不可见，请切换到本地日历app或账号设置里</string>
   <string name="an_unexpected_network_error">您遇到了一个网络错误，请重试</string>
@@ -104,7 +103,6 @@
   <string name="remove_shortcut">移除捷径</string>
   <string name="repeat_end_date_in_past">重复事件结束日期已经过去</string>
   <string name="repeat_ends_on">重复事件将在此日结束</string>
-  <string name="review_eula">检阅终端用户使用同意书</string>
   <string name="routine_explanation">例行事件是您每天必须要做的事，但是你不想将它们记录在日历中（例如：上班）。例行事件可以让“行程”功能在对的时间带您到对的地方</string>
   <string name="routes_updated">路线已被更新</string>
   <string name="save">保存</string>

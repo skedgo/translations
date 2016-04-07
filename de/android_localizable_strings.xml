@@ -10,7 +10,6 @@
   <string name="address">Adresse</string>
   <string name="agenda_set_or_delete">Hier tippen um Adresse hinzuzufügen; lange drücken um zu löschen</string>
   <string name="agenda_tip">Auf deine Agenda und Favoriten kannst du unten zugreifen</string>
-  <string name="agree">Zustimmen</string>
   <string name="all_alerts">Alle Alarme</string>
   <string name="all_cals_invisible">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein</string>
   <string name="an_unexpected_network_error">Unerwarteter Netzwerkfehler. Bitte versuche es noch einmal.</string>

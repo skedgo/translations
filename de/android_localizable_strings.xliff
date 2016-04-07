@@ -42,10 +42,6 @@
 			<source>View your daily agenda and favourites in the tabs below</source>
 			<target>Auf deine Agenda und Favoriten kannst du unten zugreifen</target>
 		</trans-unit>
-		<trans-unit id="agree">
-			<source>Agree</source>
-			<target>Zustimmen</target>
-		</trans-unit>
 		<trans-unit id="all_alerts">
 			<source>All Alerts</source>
 			<target>Alle Alarme</target>
@@ -66,133 +62,141 @@
 			<source>" (arrive "</source>
 			<target>" (Ankunft "</target>
 		</trans-unit>
-		<trans-unit id="body_exclude_this_event_from_route">
-			<source>This event will no longer have trips to or from it. The event will still be shown</source>
-			<target>Dieses Ereignis zeigt keine Route an. Das Ereignis wird weiter angezeigt</target>
-		</trans-unit>
 		<trans-unit id="body_exclude_related_event_from_route">
 			<source>The event related to the trip will be excluded. It will still be shown</source>
 			<target>Das zum Trip zugehörige Ereignis wird ausgeschlossen. Es wird weiter angezeigt</target>
-		</trans-unit>
-		<trans-unit id="cancel">
-			<source>Cancel</source>
-			<target>Abbrechen</target>
 		</trans-unit>
 		<trans-unit id="booking">
 			<source>Booking</source>
 			<target>Buchen</target>
 		</trans-unit>
-		<trans-unit id="cannot_find_that_location">
-			<source>Address not found</source>
-			<target>Adresse nicht gefunden</target>
+		<trans-unit id="body_exclude_this_event_from_route">
+			<source>This event will no longer have trips to or from it. The event will still be shown</source>
+			<target>Dieses Ereignis zeigt keine Route an. Das Ereignis wird weiter angezeigt</target>
 		</trans-unit>
 		<trans-unit id="cannot_add_reminder_for_past_trip">
 			<source>Cannot add reminder for past trip</source>
 			<target>Kann keine Erinnerung für Ereignis in der Vergangenheit hinzufügen</target>
 		</trans-unit>
-		<trans-unit id="cant_call_error">
-			<source>Error placing call</source>
-			<target>Aufruf fehlgeschlagen</target>
+		<trans-unit id="cancel">
+			<source>Cancel</source>
+			<target>Abbrechen</target>
 		</trans-unit>
 		<trans-unit id="cannot_remove_shortcut">
 			<source>Cannot remove shortcut</source>
 			<target>Verknüpfung nicht löschbar</target>
 		</trans-unit>
-		<trans-unit id="coordinates_s">
-			<source>Coordinates: %s</source>
-			<target>Koordinaten: %s</target>
+		<trans-unit id="cannot_find_that_location">
+			<source>Address not found</source>
+			<target>Adresse nicht gefunden</target>
 		</trans-unit>
 		<trans-unit id="choose_an_alternative">
 			<source>Choose an Alternative</source>
 			<target>Wähle eine Alternative</target>
 		</trans-unit>
-		<trans-unit id="del_all_events">
-			<source>All events</source>
-			<target>Alle Ereignisse</target>
+		<trans-unit id="cant_call_error">
+			<source>Error placing call</source>
+			<target>Aufruf fehlgeschlagen</target>
 		</trans-unit>
 		<trans-unit id="couldnt_find_curr_loc">
 			<source>Couldn't find your current location</source>
 			<target>Konnte deinen gegenwärtigen Ort nicht bestimmen</target>
 		</trans-unit>
-		<trans-unit id="del_this_and_future_events">
-			<source>This and future events</source>
-			<target>Dieses und zukünftige Ereignisse</target>
+		<trans-unit id="coordinates_s">
+			<source>Coordinates: %s</source>
+			<target>Koordinaten: %s</target>
 		</trans-unit>
 		<trans-unit id="del_only_this_event">
 			<source>Only this event</source>
 			<target>Nur dieses Ereignis</target>
 		</trans-unit>
-		<trans-unit id="delete_event">
-			<source>Delete this event</source>
-			<target>Ereignis löschen</target>
+		<trans-unit id="del_all_events">
+			<source>All events</source>
+			<target>Alle Ereignisse</target>
 		</trans-unit>
 		<trans-unit id="delete">
 			<source>Delete</source>
 			<target>Löschen</target>
 		</trans-unit>
-		<trans-unit id="destination">
-			<source>destination</source>
-			<target>Reiseziel</target>
-		</trans-unit>
-		<trans-unit id="did_you_mean">
-			<source>Did you mean</source>
-			<target>Meintest du</target>
+		<trans-unit id="del_this_and_future_events">
+			<source>This and future events</source>
+			<target>Dieses und zukünftige Ereignisse</target>
 		</trans-unit>
 		<trans-unit id="delete_vehicle">
 			<source>Delete this vehicle</source>
 			<target>Fahrzeug löschen</target>
 		</trans-unit>
-		<trans-unit id="departuretimeindication">
-			<source>" (depart "</source>
-			<target>" (Abfahrt "</target>
+		<trans-unit id="delete_event">
+			<source>Delete this event</source>
+			<target>Ereignis löschen</target>
 		</trans-unit>
-		<trans-unit id="edit">
-			<source>Edit</source>
-			<target>Bearbeiten</target>
-		</trans-unit>
-		<trans-unit id="edit_event">
-			<source>Edit event</source>
-			<target>Ereignis bearbeiten</target>
+		<trans-unit id="did_you_mean">
+			<source>Did you mean</source>
+			<target>Meintest du</target>
 		</trans-unit>
 		<trans-unit id="done">
 			<source>Done</source>
 			<target>Fertig</target>
 		</trans-unit>
-		<trans-unit id="dropnewpin">
-			<source>Drop new pin</source>
-			<target>Stecknadel</target>
+		<trans-unit id="departuretimeindication">
+			<source>" (depart "</source>
+			<target>" (Abfahrt "</target>
 		</trans-unit>
-		<trans-unit id="enable_calendar_in_tripgo_settings">
-			<source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
-			<target>Alle deine Kalender sind in TripGo deaktiviert. Bitte aktiviere sie in den Einstellungen.</target>
+		<trans-unit id="destination">
+			<source>destination</source>
+			<target>Reiseziel</target>
 		</trans-unit>
-		<trans-unit id="eula_has_changed">
-			<source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-			<target>Unser Lizenzvertrag wurde geändert. Du musst ihm zustimmen um diese App weiter benutzen zu können.</target>
+		<trans-unit id="edit_event">
+			<source>Edit event</source>
+			<target>Ereignis bearbeiten</target>
 		</trans-unit>
 		<trans-unit id="edit_favourite">
 			<source>Edit favorite</source>
 			<target>Favorit bearbeiten</target>
 		</trans-unit>
-		<trans-unit id="empty_event_not_saved">
-			<source>Empty event is not saved</source>
-			<target>Leeres Ereignis wird nicht gespeichert</target>
+		<trans-unit id="dropnewpin">
+			<source>Drop new pin</source>
+			<target>Stecknadel</target>
 		</trans-unit>
-		<trans-unit id="event_must_have_location">
-			<source>A location must be set</source>
-			<target>Ein Ort muss vorhanden sein</target>
+		<trans-unit id="edit">
+			<source>Edit</source>
+			<target>Bearbeiten</target>
 		</trans-unit>
-		<trans-unit id="event_must_have_title">
-			<source>Event must have a title</source>
-			<target>Ereignis muss einen Titel haben</target>
+		<trans-unit id="eula_has_changed">
+			<source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+			<target>Unser Lizenzvertrag wurde geändert. Du musst ihm zustimmen um diese App weiter benutzen zu können.</target>
 		</trans-unit>
 		<trans-unit id="event_detail_title">
 			<source>Event details</source>
 			<target>Ereignis-Details</target>
 		</trans-unit>
+		<trans-unit id="empty_event_not_saved">
+			<source>Empty event is not saved</source>
+			<target>Leeres Ereignis wird nicht gespeichert</target>
+		</trans-unit>
+		<trans-unit id="enable_calendar_in_tripgo_settings">
+			<source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
+			<target>Alle deine Kalender sind in TripGo deaktiviert. Bitte aktiviere sie in den Einstellungen.</target>
+		</trans-unit>
+		<trans-unit id="event_must_have_title">
+			<source>Event must have a title</source>
+			<target>Ereignis muss einen Titel haben</target>
+		</trans-unit>
+		<trans-unit id="event_update_warning">
+			<source>Event updated, it may take a while to see the change</source>
+			<target>Ereignis aktualisiert. Es kann eine Weile dauern bis die Änderung angezeigt wird.</target>
+		</trans-unit>
 		<trans-unit id="event_excluded">
 			<source>Event excluded</source>
 			<target>Ereignis ausgeschlossen</target>
+		</trans-unit>
+		<trans-unit id="event_must_have_location">
+			<source>A location must be set</source>
+			<target>Ein Ort muss vorhanden sein</target>
+		</trans-unit>
+		<trans-unit id="failed_2_resolve_link">
+			<source>Failed to resolve link</source>
+			<target>Link nicht gefunden</target>
 		</trans-unit>
 		<trans-unit id="exclude_from_routing_brief">
 			<source>Exclude from agenda planning</source>
@@ -206,9 +210,9 @@
 			<source>Exclude event</source>
 			<target>Ereignis ausschließen</target>
 		</trans-unit>
-		<trans-unit id="event_update_warning">
-			<source>Event updated, it may take a while to see the change</source>
-			<target>Ereignis aktualisiert. Es kann eine Weile dauern bis die Änderung angezeigt wird.</target>
+		<trans-unit id="filter_timetable_hint">
+			<source>Filter by service name, number or stop</source>
+			<target>Nach Name, Nummer oder Haltestelle filtern</target>
 		</trans-unit>
 		<trans-unit id="favourite_saved">
 			<source>Favorite saved</source>
@@ -222,9 +226,9 @@
 			<source>Failed to resolve location</source>
 			<target>Ort nicht gefunden</target>
 		</trans-unit>
-		<trans-unit id="failed_2_resolve_link">
-			<source>Failed to resolve link</source>
-			<target>Link nicht gefunden</target>
+		<trans-unit id="get_on">
+			<source>Get On</source>
+			<target>Einsteigen</target>
 		</trans-unit>
 		<trans-unit id="get_off">
 			<source>Get Off</source>
@@ -238,9 +242,9 @@
 			<source>First: </source>
 			<target>Zuerst: </target>
 		</trans-unit>
-		<trans-unit id="filter_timetable_hint">
-			<source>Filter by service name, number or stop</source>
-			<target>Nach Name, Nummer oder Haltestelle filtern</target>
+		<trans-unit id="go_to_today">
+			<source>Go to today</source>
+			<target>Gehe zu heute</target>
 		</trans-unit>
 		<trans-unit id="go_to_now">
 			<source>Go to Now</source>
@@ -254,14 +258,6 @@
 			<source>Go Here</source>
 			<target>Hierhin gehen</target>
 		</trans-unit>
-		<trans-unit id="get_on">
-			<source>Get On</source>
-			<target>Einsteigen</target>
-		</trans-unit>
-		<trans-unit id="invalid_transfer_time">
-			<source>Invalid time, revert to last used value.</source>
-			<target>Zeit ist ungültig, benutze letzten gültigen Wert.</target>
-		</trans-unit>
 		<trans-unit id="its_time_to_leave">
 			<source>It's time to leave!</source>
 			<target>Es ist Zeit zu gehen!</target>
@@ -274,9 +270,9 @@
 			<source>Let's start</source>
 			<target>Beginnen wir</target>
 		</trans-unit>
-		<trans-unit id="go_to_today">
-			<source>Go to today</source>
-			<target>Gehe zu heute</target>
+		<trans-unit id="location_name">
+			<source>Location Name</source>
+			<target>Ortsname</target>
 		</trans-unit>
 		<trans-unit id="include_cal_act">
 			<source>Include checked calendars</source>
@@ -287,12 +283,12 @@
 			<target>Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
 		</trans-unit>
 		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source>Information on concession pricing is subject to availability.</source>
+			<source></source>
 			<target>Informationen über Ermässigungen nach Verfügbarkeit.</target>
 		</trans-unit>
-		<trans-unit id="minute">
-			<source>1 minute</source>
-			<target>1 Minute</target>
+		<trans-unit id="invalid_transfer_time">
+			<source>Invalid time, revert to last used value.</source>
+			<target>Zeit ist ungültig, benutze letzten gültigen Wert.</target>
 		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
@@ -306,9 +302,9 @@
 			<source>New vehicle</source>
 			<target>Neues Fahrzeug</target>
 		</trans-unit>
-		<trans-unit id="location_name">
-			<source>Location Name</source>
-			<target>Ortsname</target>
+		<trans-unit id="nicely_informed_error">
+			<source>There was an error and it was reported to us. Please try again</source>
+			<target>Es ist ein Fehler aufgetreten und wir wurden benachrichtigt. Bitte versuche es noch einmal.</target>
 		</trans-unit>
 		<trans-unit id="location_not_found">
 			<source>Location Not Found</source>
@@ -322,133 +318,141 @@
 			<source>Location selected</source>
 			<target>Ort ausgewählt</target>
 		</trans-unit>
-		<trans-unit id="no_results_found">
-			<source>No Results Found</source>
-			<target>Keine Ergebnisse gefunden</target>
-		</trans-unit>
-		<trans-unit id="no_ratings_received">
-			<source>No ratings received</source>
-			<target>Noch keine Bewertungen</target>
-		</trans-unit>
-		<trans-unit id="one_time_event">
-			<source>Don't repeat</source>
-			<target>Nicht wiederholen</target>
+		<trans-unit id="minute">
+			<source>1 minute</source>
+			<target>1 Minute</target>
 		</trans-unit>
 		<trans-unit id="no_services_available">
 			<source>No services available</source>
 			<target>Keine Dienste verfügbar</target>
 		</trans-unit>
-		<trans-unit id="no_favourites_saved">
-			<source>No favorite locations saved</source>
-			<target>Keine Favoriten gespeichert</target>
-		</trans-unit>
-		<trans-unit id="nicely_informed_error">
-			<source>There was an error and it was reported to us. Please try again</source>
-			<target>Es ist ein Fehler aufgetreten und wir wurden benachrichtigt. Bitte versuche es noch einmal.</target>
-		</trans-unit>
-		<trans-unit id="no_google_play_services_title">
-			<source>No Google Play Services!</source>
-			<target>Kein Google Play!</target>
-		</trans-unit>
-		<trans-unit id="no_google_play_services_message">
-			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
-			<target>Diese App benötigt Google Play. \n\n Bitte installiere es um die App weiter benutzen zu können</target>
-		</trans-unit>
-		<trans-unit id="priority_environment_subtext">
-			<source>Impact of the trip</source>
-			<target>Auswirkung des Trips</target>
-		</trans-unit>
-		<trans-unit id="priority_convenience_subtext">
-			<source>Hassle of the trip</source>
-			<target>Unbequemlichkeit des Trips</target>
-		</trans-unit>
-		<trans-unit id="public_transport">
-			<source>Public Transport</source>
-			<target>Öffentliche Verkehrsmittel</target>
-		</trans-unit>
-		<trans-unit id="priority_time_subtext">
-			<source>Trip duration</source>
-			<target>Trip-Dauer</target>
-		</trans-unit>
-		<trans-unit id="outside_region_error">
-			<source>Sorry, that location is outside of TripGo's range!</source>
-			<target>Dieser Ort ist leider außerhalb von TripGos Reichweite!</target>
+		<trans-unit id="no_results_found">
+			<source>No Results Found</source>
+			<target>Keine Ergebnisse gefunden</target>
 		</trans-unit>
 		<trans-unit id="origin">
 			<source>origin</source>
 			<target>Startpunkt</target>
 		</trans-unit>
-		<trans-unit id="priority_budget_subtext">
-			<source>Trip cost</source>
-			<target>Trip-Kosten</target>
+		<trans-unit id="one_time_event">
+			<source>Don't repeat</source>
+			<target>Nicht wiederholen</target>
 		</trans-unit>
-		<trans-unit id="page_between_upcoming_services">
-			<source>Page between upcoming services</source>
-			<target>Seite zwischen den nächsten Abfahrten</target>
+		<trans-unit id="no_google_play_services_message">
+			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
+			<target>Diese App benötigt Google Play. \n\n Bitte installiere es um die App weiter benutzen zu können</target>
 		</trans-unit>
-		<trans-unit id="repeat_ends_on">
-			<source>Repeat does end on</source>
-			<target>Wiederholung endet am</target>
+		<trans-unit id="no_favourites_saved">
+			<source>No favorite locations saved</source>
+			<target>Keine Favoriten gespeichert</target>
 		</trans-unit>
-		<trans-unit id="routine_explanation">
-			<source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-			<target>Routinen sind Teil deines Tagesablaufs aber nicht Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.</target>
+		<trans-unit id="no_ratings_received">
+			<source>No ratings received</source>
+			<target>Noch keine Bewertungen</target>
 		</trans-unit>
-		<trans-unit id="remove_shortcut">
-			<source>Remove shortcut</source>
-			<target>Verknüpfung löschen</target>
+		<trans-unit id="no_google_play_services_title">
+			<source>No Google Play Services!</source>
+			<target>Kein Google Play!</target>
 		</trans-unit>
-		<trans-unit id="repeat_end_date_in_past">
-			<source>Repetition end date is in the past</source>
-			<target>Enddatum der Wiederholung ist in der Vergangenheit</target>
+		<trans-unit id="priority_time_subtext">
+			<source>Trip duration</source>
+			<target>Trip-Dauer</target>
 		</trans-unit>
-		<trans-unit id="refresh">
-			<source>Refresh</source>
-			<target>Aktualisieren</target>
-		</trans-unit>
-		<trans-unit id="remove_from_favourites">
-			<source>Remove from favorites</source>
-			<target>Von Favoriten löschen</target>
+		<trans-unit id="priority_environment_subtext">
+			<source>Impact of the trip</source>
+			<target>Auswirkung des Trips</target>
 		</trans-unit>
 		<trans-unit id="rate">
 			<source>Rate</source>
 			<target>Bewerten</target>
 		</trans-unit>
-		<trans-unit id="realtime">
-			<source>Real-time</source>
-			<target>Echtzeit</target>
+		<trans-unit id="public_transport">
+			<source>Public Transport</source>
+			<target>Öffentliche Verkehrsmittel</target>
 		</trans-unit>
-		<trans-unit id="set_location">
-			<source>Set Location</source>
-			<target>Setze Ort</target>
+		<trans-unit id="page_between_upcoming_services">
+			<source>Page between upcoming services</source>
+			<target>Seite zwischen den nächsten Abfahrten</target>
 		</trans-unit>
-		<trans-unit id="set_start_time">
-			<source>Set start time</source>
-			<target>Setze Anfangszeit</target>
+		<trans-unit id="outside_region_error">
+			<source>Sorry, that location is outside of TripGo's range!</source>
+			<target>Dieser Ort ist leider außerhalb von TripGos Reichweite!</target>
 		</trans-unit>
-		<trans-unit id="service_placeholder">
-			<source>Service</source>
-			<target>Service</target>
+		<trans-unit id="priority_convenience_subtext">
+			<source>Hassle of the trip</source>
+			<target>Unbequemlichkeit des Trips</target>
 		</trans-unit>
-		<trans-unit id="set_end_time">
-			<source>Set end time</source>
-			<target>Setze Endzeit</target>
+		<trans-unit id="priority_budget_subtext">
+			<source>Trip cost</source>
+			<target>Trip-Kosten</target>
 		</trans-unit>
-		<trans-unit id="search_instantly">
-			<source>Search instantly</source>
-			<target>Sofort suchen</target>
-		</trans-unit>
-		<trans-unit id="select_calendars">
-			<source>Select calendars</source>
-			<target>Kalendar auswählen</target>
+		<trans-unit id="routine_explanation">
+			<source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+			<target>Routinen sind Teil deines Tagesablaufs aber nicht Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.</target>
 		</trans-unit>
 		<trans-unit id="routes_updated">
 			<source>Routes updated</source>
 			<target>Routen aktualisiert</target>
 		</trans-unit>
+		<trans-unit id="repeat_end_date_in_past">
+			<source>Repetition end date is in the past</source>
+			<target>Enddatum der Wiederholung ist in der Vergangenheit</target>
+		</trans-unit>
+		<trans-unit id="repeat_ends_on">
+			<source>Repeat does end on</source>
+			<target>Wiederholung endet am</target>
+		</trans-unit>
+		<trans-unit id="remove_from_favourites">
+			<source>Remove from favorites</source>
+			<target>Von Favoriten löschen</target>
+		</trans-unit>
+		<trans-unit id="remove_shortcut">
+			<source>Remove shortcut</source>
+			<target>Verknüpfung löschen</target>
+		</trans-unit>
+		<trans-unit id="realtime">
+			<source>Real-time</source>
+			<target>Echtzeit</target>
+		</trans-unit>
+		<trans-unit id="refresh">
+			<source>Refresh</source>
+			<target>Aktualisieren</target>
+		</trans-unit>
+		<trans-unit id="set_start_time">
+			<source>Set start time</source>
+			<target>Setze Anfangszeit</target>
+		</trans-unit>
+		<trans-unit id="set_time">
+			<source>Set time</source>
+			<target>Setze Zeit</target>
+		</trans-unit>
+		<trans-unit id="set_end_time">
+			<source>Set end time</source>
+			<target>Setze Endzeit</target>
+		</trans-unit>
+		<trans-unit id="set_location">
+			<source>Set Location</source>
+			<target>Setze Ort</target>
+		</trans-unit>
+		<trans-unit id="select_calendars">
+			<source>Select calendars</source>
+			<target>Kalendar auswählen</target>
+		</trans-unit>
+		<trans-unit id="service_placeholder">
+			<source>Service</source>
+			<target>Service</target>
+		</trans-unit>
 		<trans-unit id="save">
 			<source>Save</source>
 			<target>Speichern</target>
+		</trans-unit>
+		<trans-unit id="search_instantly">
+			<source>Search instantly</source>
+			<target>Sofort suchen</target>
+		</trans-unit>
+		<trans-unit id="settings_summary_rate">
+			<source>Rate the app in the store!</source>
+			<target>Bewerte die App!</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_gps_submit">
 			<source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
@@ -478,9 +482,9 @@
 			<source>About</source>
 			<target>Über</target>
 		</trans-unit>
-		<trans-unit id="set_time">
-			<source>Set time</source>
-			<target>Setze Zeit</target>
+		<trans-unit id="settings_summary_track_usage">
+			<source>Allow TripGo to anonymously track your app usage</source>
+			<target>TripGo erlauben anonym App-Nutzung aufzuzeichnen</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_server">
 			<source>Server to use. Note this will override *ALL* server calls!</source>
@@ -510,77 +514,69 @@
 			<source>Show an alert towards the end of any public transport on your trip</source>
 			<target>Alarm gegen Ende jedes öffentlichen Verkehrsmittels auf deinem Trip anzeigen</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_rate">
-			<source>Rate the app in the store!</source>
-			<target>Bewerte die App!</target>
+		<trans-unit id="settings_title_searching_contacts">
+			<source>Search contact addresses</source>
+			<target>Kontaktadressen suchen</target>
 		</trans-unit>
 		<trans-unit id="settings_title_searching_calendar">
 			<source>Search calendar events</source>
 			<target>Kalenderereignisse suchen</target>
 		</trans-unit>
-		<trans-unit id="settings_title_reminder_start_pub_trans">
-			<source>Start of public transport</source>
-			<target>Beginn öffentliche Verkehrsmittel</target>
+		<trans-unit id="settings_title_track_usage">
+			<source>Track App Usage</source>
+			<target>App-Benutzung aufzeichnen</target>
 		</trans-unit>
 		<trans-unit id="settings_title_server">
 			<source>Server</source>
 			<target>Server</target>
 		</trans-unit>
-		<trans-unit id="settings_title_searching_contacts">
-			<source>Search contact addresses</source>
-			<target>Kontaktadressen suchen</target>
+		<trans-unit id="share_this_result">
+			<source>Share this result</source>
+			<target>Ergebnis teilen</target>
 		</trans-unit>
 		<trans-unit id="settings_title_version">
 			<source>Version</source>
 			<target>Version</target>
 		</trans-unit>
-		<trans-unit id="settings_title_track_usage">
-			<source>Track App Usage</source>
-			<target>App-Benutzung aufzeichnen</target>
+		<trans-unit id="show_agenda_list">
+			<source>Show agenda list</source>
+			<target>Agenda-Liste zeigen</target>
 		</trans-unit>
 		<trans-unit id="share_timetable">
 			<source>Share timetable info</source>
 			<target>Fahrplan-Info teilen</target>
 		</trans-unit>
-		<trans-unit id="share_this_result">
-			<source>Share this result</source>
-			<target>Ergebnis teilen</target>
+		<trans-unit id="settings_title_contact">
+			<source>Contact Support</source>
+			<target>Kontaktiere uns</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_trip_preferences">
 			<source>Influence trip results by setting what's most important to you</source>
 			<target>Beeinflusse deine Trip-Ergebnisse indem du eingibst was dir wichtig ist.</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_track_usage">
-			<source>Allow TripGo to anonymously track your app usage</source>
-			<target>TripGo erlauben anonym App-Nutzung aufzuzeichnen</target>
+		<trans-unit id="settings_title_gps_submit">
+			<source>Track Location</source>
+			<target>Ort folgen</target>
 		</trans-unit>
 		<trans-unit id="settings_title_cycling_speed">
 			<source>Cycling speed</source>
 			<target>Radfahrgeschwindigkeit</target>
 		</trans-unit>
-		<trans-unit id="settings_title_contact">
-			<source>Contact Support</source>
-			<target>Kontaktiere uns</target>
+		<trans-unit id="settings_title_reminder_service_alerts">
+			<source>Service alerts</source>
+			<target>Service-Alarms</target>
 		</trans-unit>
 		<trans-unit id="settings_title_reminder_end_pub_trans">
 			<source>End of public transport</source>
 			<target>Ende  öffentliche Verkehrsmittel</target>
 		</trans-unit>
-		<trans-unit id="settings_title_gps_submit">
-			<source>Track Location</source>
-			<target>Ort folgen</target>
+		<trans-unit id="settings_title_reminder_start_pub_trans">
+			<source>Start of public transport</source>
+			<target>Beginn öffentliche Verkehrsmittel</target>
 		</trans-unit>
 		<trans-unit id="settings_title_reminder_start_off_trip">
 			<source>Start of trip</source>
 			<target>Trip-Anfang</target>
-		</trans-unit>
-		<trans-unit id="settings_title_reminder_service_alerts">
-			<source>Service alerts</source>
-			<target>Service-Alarms</target>
-		</trans-unit>
-		<trans-unit id="one_more_thing">
-			<source>One more thing…</source>
-			<target>Noch etwas...</target>
 		</trans-unit>
 		<trans-unit id="taxi">
 			<source>Taxi</source>
@@ -610,9 +606,9 @@
 			<source>Exclude event from routes?</source>
 			<target>Ereignis von der Route ausschließen?</target>
 		</trans-unit>
-		<trans-unit id="show_agenda_list">
-			<source>Show agenda list</source>
-			<target>Agenda-Liste zeigen</target>
+		<trans-unit id="today">
+			<source>Today</source>
+			<target>Heute</target>
 		</trans-unit>
 		<trans-unit id="show_agenda_map">
 			<source>Show agenda map</source>
@@ -642,6 +638,14 @@
 			<source>Sorted by Preferred</source>
 			<target>Nach Präferenz sortiert</target>
 		</trans-unit>
+		<trans-unit id="one_more_thing">
+			<source>One more thing…</source>
+			<target>Noch etwas...</target>
+		</trans-unit>
+		<trans-unit id="waiting_for_gps_fix">
+			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+			<target>Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...</target>
+		</trans-unit>
 		<trans-unit id="view_timetable_subtitle">
 			<source>Upcoming services</source>
 			<target>Nächste Abfahrten</target>
@@ -654,9 +658,9 @@
 			<source>View on Yelp</source>
 			<target>Auf Yelp anschauen</target>
 		</trans-unit>
-		<trans-unit id="vehicle_modes">
-			<source>Vehicle Modes</source>
-			<target>Fahrzeugarten</target>
+		<trans-unit id="yesterday">
+			<source>Yesterday</source>
+			<target>Gestern</target>
 		</trans-unit>
 		<trans-unit id="walkthrough_3">
 			<source>For those without an agenda, save favorite places.</source>
@@ -670,9 +674,9 @@
 			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
 			<target>TripGo hilft dir, den besten Weg von A nach B zu finden - egal welches Verkehrsmittel.</target>
 		</trans-unit>
-		<trans-unit id="waiting_for_gps_fix">
-			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-			<target>Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...</target>
+		<trans-unit id="trip_to">
+			<source>Trip to </source>
+			<target>Trip nach </target>
 		</trans-unit>
 		<trans-unit id="trip_preferences">
 			<source>Trip Preferences</source>
@@ -686,9 +690,9 @@
 			<source>Tomorrow</source>
 			<target>Morgen</target>
 		</trans-unit>
-		<trans-unit id="today">
-			<source>Today</source>
-			<target>Heute</target>
+		<trans-unit id="vehicle_modes">
+			<source>Vehicle Modes</source>
+			<target>Fahrzeugarten</target>
 		</trans-unit>
 		<trans-unit id="upcoming_services">
 			<source>Upcoming Services</source>
@@ -702,29 +706,21 @@
 			<source>It looks like you have a trip to make</source>
 			<target>Sieht aus als wenn ein Trip ansteht</target>
 		</trans-unit>
-		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>Trip nach </target>
-		</trans-unit>
-		<trans-unit id="you_r_already_at_s">
-			<source>You are already at %s!</source>
-			<target>Du bist schon in %s!</target>
-		</trans-unit>
 		<trans-unit id="your_trip_is_about_to_start">
 			<source>Your trip is about to start</source>
 			<target>Dein Trip beginnt gleich</target>
 		</trans-unit>
-		<trans-unit id="yesterday">
-			<source>Yesterday</source>
-			<target>Gestern</target>
-		</trans-unit>
 		<trans-unit id="you_are_here">
 			<source>You are here</source>
 			<target>Du bist hier</target>
+		</trans-unit>
+		<trans-unit id="you_r_already_at_s">
+			<source>You are already at %s!</source>
+			<target>Du bist schon in %s!</target>
 		</trans-unit>
 	</body>
 
 </file>
 
 </xliff>
-<!-- This is an auto generated file (Wed Apr 06 21:15:50 ART 2016) -->
+<!-- This is an auto generated file (Wed Apr 06 21:25:28 ART 2016) -->

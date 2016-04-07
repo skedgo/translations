@@ -22,8 +22,6 @@
 
   <string name="agenda_tip">在下方的標籤頁中查看您的每日行程或是常用項目</string>
 
-  <string name="agree">同意</string>
-
   <string name="all_alerts">所有的提示</string>
 
   <string name="all_cals_invisible">您所有的行事曆目前是隱藏的．請在行事曆程序或是帳號設定中將他們開啟</string>
@@ -207,8 +205,6 @@
   <string name="repeat_end_date_in_past">重複事件的結束時間是在過去</string>
 
   <string name="repeat_ends_on">重複事件將在此日結束</string>
-
-  <string name="review_eula">檢閱終端用戶使用同意書</string>
 
   <string name="routine_explanation">例行事件是您每天必須要做的事情，但是您並不想要將它們記錄在行事曆中（例如：上班）．例行事件可以讓“行程”功能在對的時間帶您到對的地方</string>
 

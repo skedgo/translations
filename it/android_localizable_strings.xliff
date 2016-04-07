@@ -288,7 +288,7 @@
 			<target>Eventi di questi calendari saranno utilizzati a programmare la vostra giornata</target>
 		</trans-unit>
 		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source>Information on concession pricing is subject to availability.</source>
+			<source></source>
 			<target>Information on concession pricing is subject to availability.</target>
 		</trans-unit>
 		<trans-unit id="minute">
@@ -736,4 +736,4 @@
 </file>
 
 </xliff>
-<!-- This is an auto generated file (Wed Apr 06 21:15:50 ART 2016) -->
+<!-- This is an auto generated file (Wed Apr 06 21:25:28 ART 2016) -->
