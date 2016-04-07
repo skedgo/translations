@@ -67,19 +67,29 @@
 			<source>Approximately %s away</source>
 			<target>Ongeveer % ver weg</target>
 		</trans-unit>
-		<trans-unit id="body_exclude_related_event_from_route">
-			<source>The event related to the trip will be excluded. It will still be shown</source>
-			<target>The event related to the trip will be excluded. It will still be shown</target>
-			<note> TODO </note>
-		</trans-unit>
-		<trans-unit id="booking">
-			<source>Booking</source>
-			<target>Booking</target>
+		<trans-unit id="arrivaltimeindication">
+			<source>" (arrive "</source>
+			<target>" (arrive "</target>
 			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="body_exclude_this_event_from_route">
 			<source>This event will no longer have trips to or from it. The event will still be shown</source>
 			<target>This event will no longer have trips to or from it. The event will still be shown</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="body_exclude_related_event_from_route">
+			<source>The event related to the trip will be excluded. It will still be shown</source>
+			<target>The event related to the trip will be excluded. It will still be shown</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="cancel">
+			<source>Cancel</source>
+			<target>Cancel</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="booking">
+			<source>Booking</source>
+			<target>Booking</target>
 			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="cannot_find_that_location">
@@ -123,31 +133,33 @@
 			<source>Only this event</source>
 			<target>Alleen deze activiteit</target>
 		</trans-unit>
-		<trans-unit id="delete_vehicle">
-			<source>Delete this vehicle</source>
-			<target>Delete this vehicle</target>
-			<note> TODO </note>
-		</trans-unit>
 		<trans-unit id="delete_event">
 			<source>Delete this event</source>
 			<target>Verwijder deze activiteit</target>
 		</trans-unit>
-		<trans-unit id="did_you_mean">
-			<source>Did you mean</source>
-			<target>U bedoelt</target>
+		<trans-unit id="delete">
+			<source>Delete</source>
+			<target>Delete</target>
+			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="destination">
 			<source>destination</source>
 			<target>destination</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="edit_favourite">
-			<source>Edit favorite</source>
-			<target>Wijzig favoriet</target>
+		<trans-unit id="did_you_mean">
+			<source>Did you mean</source>
+			<target>U bedoelt</target>
 		</trans-unit>
-		<trans-unit id="empty_event_not_saved">
-			<source>Empty event is not saved</source>
-			<target>Lege activiteit kan niet worden opgeslagen</target>
+		<trans-unit id="delete_vehicle">
+			<source>Delete this vehicle</source>
+			<target>Delete this vehicle</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="departuretimeindication">
+			<source>" (depart "</source>
+			<target>" (depart "</target>
+			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="edit">
 			<source>Edit</source>
@@ -157,14 +169,15 @@
 			<source>Edit event</source>
 			<target>Wijzig activiteit</target>
 		</trans-unit>
-		<trans-unit id="event_detail_title">
-			<source>Event details</source>
-			<target>Activiteit details</target>
+		<trans-unit id="done">
+			<source>Done</source>
+			<target>Done</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="event_excluded">
-			<source>Event excluded</source>
-			<target>Activiteit uitgesloted</target>
+		<trans-unit id="dropnewpin">
+			<source>Drop new pin</source>
+			<target>Drop new pin</target>
+			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="enable_calendar_in_tripgo_settings">
 			<source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
@@ -175,14 +188,13 @@
 			<target>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="event_update_warning">
-			<source>Event updated, it may take a while to see the change</source>
-			<target>Activiteit bijgewerkt, het kan even duren voordat u de verandering ziet</target>
+		<trans-unit id="edit_favourite">
+			<source>Edit favorite</source>
+			<target>Wijzig favoriet</target>
 		</trans-unit>
-		<trans-unit id="exclude_event">
-			<source>Exclude event</source>
-			<target>Exclude event</target>
-			<note> TODO </note>
+		<trans-unit id="empty_event_not_saved">
+			<source>Empty event is not saved</source>
+			<target>Lege activiteit kan niet worden opgeslagen</target>
 		</trans-unit>
 		<trans-unit id="event_must_have_location">
 			<source>A location must be set</source>
@@ -192,33 +204,32 @@
 			<source>Event must have a title</source>
 			<target>Een titel is vereist</target>
 		</trans-unit>
-		<trans-unit id="failed_2_resolve_link">
-			<source>Failed to resolve link</source>
-			<target>Failed to resolve link</target>
+		<trans-unit id="event_detail_title">
+			<source>Event details</source>
+			<target>Activiteit details</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="failed_2_resolve_location">
-			<source>Failed to resolve location</source>
-			<target>Failed to resolve location</target>
-			<note> TODO </note>
+		<trans-unit id="event_excluded">
+			<source>Event excluded</source>
+			<target>Activiteit uitgesloted</target>
+		</trans-unit>
+		<trans-unit id="exclude_from_routing_brief">
+			<source>Exclude from agenda planning</source>
+			<target>Uitsluiten</target>
 		</trans-unit>
 		<trans-unit id="exclude_from_routing">
 			<source>Exclude this event from agenda planning</source>
 			<target>Exclude this event from agenda planning</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="exclude_from_routing_brief">
-			<source>Exclude from agenda planning</source>
-			<target>Uitsluiten</target>
-		</trans-unit>
-		<trans-unit id="first">
-			<source>First: </source>
-			<target>First:</target>
+		<trans-unit id="exclude_event">
+			<source>Exclude event</source>
+			<target>Exclude event</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="filter_timetable_hint">
-			<source>Filter by service name, number or stop</source>
-			<target>Filter op richting, dienstlijn of station</target>
+		<trans-unit id="event_update_warning">
+			<source>Event updated, it may take a while to see the change</source>
+			<target>Activiteit bijgewerkt, het kan even duren voordat u de verandering ziet</target>
 		</trans-unit>
 		<trans-unit id="favourite_saved">
 			<source>Favorite saved</source>
@@ -228,13 +239,15 @@
 			<source>Favorite Location</source>
 			<target>Favoriete Locatie</target>
 		</trans-unit>
-		<trans-unit id="go_here">
-			<source>Go Here</source>
-			<target>Ga naar hier</target>
+		<trans-unit id="failed_2_resolve_location">
+			<source>Failed to resolve location</source>
+			<target>Failed to resolve location</target>
+			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="get_on">
-			<source>Get On</source>
-			<target>Instappen</target>
+		<trans-unit id="failed_2_resolve_link">
+			<source>Failed to resolve link</source>
+			<target>Failed to resolve link</target>
+			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="get_off">
 			<source>Get Off</source>
@@ -245,34 +258,61 @@
 			<target>Download Google Play Services</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="include_cal_act">
-			<source>Include checked calendars</source>
-			<target>Selecteer kalenders</target>
+		<trans-unit id="first">
+			<source>First: </source>
+			<target>First:</target>
+			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="go_to_today">
-			<source>Go to today</source>
-			<target>Ga naar vandaag</target>
-		</trans-unit>
-		<trans-unit id="go_to_now">
-			<source>Go to Now</source>
-			<target>Ga naar nu</target>
+		<trans-unit id="filter_timetable_hint">
+			<source>Filter by service name, number or stop</source>
+			<target>Filter op richting, dienstlijn of station</target>
 		</trans-unit>
 		<trans-unit id="go_to_date">
 			<source>Go to date</source>
 			<target>Ga naar datum</target>
 		</trans-unit>
-		<trans-unit id="leave_now_to_make_on_time">
-			<source>Leave now to make it on time</source>
-			<target>Vertrek nu om op tijd te komen</target>
+		<trans-unit id="go_here">
+			<source>Go Here</source>
+			<target>Ga naar hier</target>
+		</trans-unit>
+		<trans-unit id="get_uber">
+			<source>Get Uber</source>
+			<target>Get Uber</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="get_on">
+			<source>Get On</source>
+			<target>Instappen</target>
+		</trans-unit>
+		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
+			<source></source>
+			<target>Information on concession pricing is subject to availability.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="invalid_transfer_time">
+			<source>Invalid time, revert to last used value.</source>
+			<target>Ongeldige tijd, gebruik de laatste gebruikte tijd.</target>
 		</trans-unit>
 		<trans-unit id="its_time_to_leave">
 			<source>It's time to leave!</source>
 			<target>It's time to leave!</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="invalid_transfer_time">
-			<source>Invalid time, revert to last used value.</source>
-			<target>Ongeldige tijd, gebruik de laatste gebruikte tijd.</target>
+		<trans-unit id="leave_now_to_make_on_time">
+			<source>Leave now to make it on time</source>
+			<target>Vertrek nu om op tijd te komen</target>
+		</trans-unit>
+		<trans-unit id="go_to_now">
+			<source>Go to Now</source>
+			<target>Ga naar nu</target>
+		</trans-unit>
+		<trans-unit id="go_to_today">
+			<source>Go to today</source>
+			<target>Ga naar vandaag</target>
+		</trans-unit>
+		<trans-unit id="include_cal_act">
+			<source>Include checked calendars</source>
+			<target>Selecteer kalenders</target>
 		</trans-unit>
 		<trans-unit id="include_cal_explanation">
 			<source>Events from those calendars will be used in planning your day</source>
@@ -282,6 +322,11 @@
 			<source>Location selected</source>
 			<target>Locatie geselecteerd</target>
 		</trans-unit>
+		<trans-unit id="minute">
+			<source>1 minute</source>
+			<target>1 minute</target>
+			<note> TODO </note>
+		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
 			<target>Navigate from current location</target>
@@ -290,11 +335,6 @@
 		<trans-unit id="navigate_from">
 			<source>Navigate from %1$s</source>
 			<target>Navigate from %1$s</target>
-			<note> TODO </note>
-		</trans-unit>
-		<trans-unit id="new_vehicle">
-			<source>New vehicle</source>
-			<target>New vehicle</target>
 			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="lets_start">
@@ -318,58 +358,34 @@
 			<source>No ratings received</source>
 			<target>Geen waarderingen ontvangen</target>
 		</trans-unit>
-		<trans-unit id="no_results_found">
-			<source>No Results Found</source>
-			<target>Geen resultaten gevonden</target>
+		<trans-unit id="no_google_play_services_title">
+			<source>No Google Play Services!</source>
+			<target>Geen Google Play Services!</target>
 		</trans-unit>
 		<trans-unit id="no_services_available">
 			<source>No services available</source>
 			<target>Geen diensten beschikbaar</target>
 		</trans-unit>
-		<trans-unit id="one_time_event">
-			<source>Don't repeat</source>
-			<target>Niet herhalen</target>
+		<trans-unit id="no_results_found">
+			<source>No Results Found</source>
+			<target>Geen resultaten gevonden</target>
 		</trans-unit>
 		<trans-unit id="nicely_informed_error">
 			<source>There was an error and it was reported to us. Please try again</source>
 			<target>Er is een fout opgetreden waarvan we zojuist op de hoogte zijn gesteld. Probeer opnieuw</target>
 		</trans-unit>
-		<trans-unit id="no_favourites_saved">
-			<source>No favorite locations saved</source>
-			<target>Geen favoriete locaties opgeslagen</target>
+		<trans-unit id="new_vehicle">
+			<source>New vehicle</source>
+			<target>New vehicle</target>
+			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="no_google_play_services_message">
 			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
 			<target>Google Play Services is vereist voor deze app.\n\nDownload deze eerst voordat u deze app kunt gebruiken</target>
 		</trans-unit>
-		<trans-unit id="no_google_play_services_title">
-			<source>No Google Play Services!</source>
-			<target>Geen Google Play Services!</target>
-		</trans-unit>
-		<trans-unit id="priority_environment_subtext">
-			<source>Impact of the trip</source>
-			<target>Verminder de belasting op het milieu</target>
-		</trans-unit>
-		<trans-unit id="priority_convenience_subtext">
-			<source>Hassle of the trip</source>
-			<target>Hassle of the trip</target>
-		</trans-unit>
-		<trans-unit id="public_transport">
-			<source>Public Transport</source>
-			<target>Openbaar vervoer</target>
-		</trans-unit>
-		<trans-unit id="priority_time_subtext">
-			<source>Trip duration</source>
-			<target>Vind snellere reizen</target>
-		</trans-unit>
-		<trans-unit id="outside_region_error">
-			<source>Sorry, that location is outside of TripGo's range!</source>
-			<target>Sorry, deze locatie bevindt zich buiten het gebied van TripGo!</target>
-		</trans-unit>
-		<trans-unit id="origin">
-			<source>origin</source>
-			<target>origin</target>
-			<note> TODO </note>
+		<trans-unit id="no_favourites_saved">
+			<source>No favorite locations saved</source>
+			<target>Geen favoriete locaties opgeslagen</target>
 		</trans-unit>
 		<trans-unit id="priority_budget_subtext">
 			<source>Trip cost</source>
@@ -380,47 +396,64 @@
 			<target>Page between upcoming services</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="repeat_end_date_in_past">
-			<source>Repetition end date is in the past</source>
-			<target>Herhaal eind datum is in het verleden</target>
+		<trans-unit id="priority_environment_subtext">
+			<source>Impact of the trip</source>
+			<target>Verminder de belasting op het milieu</target>
+		</trans-unit>
+		<trans-unit id="priority_convenience_subtext">
+			<source>Hassle of the trip</source>
+			<target>Hassle of the trip</target>
+		</trans-unit>
+		<trans-unit id="open_uber">
+			<source>Open Uber</source>
+			<target>Open Uber</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="one_time_event">
+			<source>Don't repeat</source>
+			<target>Niet herhalen</target>
+		</trans-unit>
+		<trans-unit id="outside_region_error">
+			<source>Sorry, that location is outside of TripGo's range!</source>
+			<target>Sorry, deze locatie bevindt zich buiten het gebied van TripGo!</target>
+		</trans-unit>
+		<trans-unit id="origin">
+			<source>origin</source>
+			<target>origin</target>
+			<note> TODO </note>
 		</trans-unit>
 		<trans-unit id="remove_shortcut">
 			<source>Remove shortcut</source>
 			<target>Remove shortcut</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="review_eula">
-			<source>Review EULA</source>
-			<target>Review EULA</target>
-			<note> TODO </note>
-		</trans-unit>
-		<trans-unit id="repeat_ends_on">
-			<source>Repeat does end on</source>
-			<target>Herhaling eindigt op</target>
-		</trans-unit>
-		<trans-unit id="realtime">
-			<source>Real-time</source>
-			<target>Real-time</target>
-		</trans-unit>
-		<trans-unit id="rate">
-			<source>Rate</source>
-			<target>Waardeer</target>
-		</trans-unit>
-		<trans-unit id="remove_from_favourites">
-			<source>Remove from favorites</source>
-			<target>Verwijder uit de favorieten</target>
+		<trans-unit id="repeat_end_date_in_past">
+			<source>Repetition end date is in the past</source>
+			<target>Herhaal eind datum is in het verleden</target>
 		</trans-unit>
 		<trans-unit id="refresh">
 			<source>Refresh</source>
 			<target>Herlaad</target>
 		</trans-unit>
-		<trans-unit id="set_end_time">
-			<source>Set end time</source>
-			<target>Stel eind tijd in</target>
+		<trans-unit id="remove_from_favourites">
+			<source>Remove from favorites</source>
+			<target>Verwijder uit de favorieten</target>
 		</trans-unit>
-		<trans-unit id="set_location">
-			<source>Set Location</source>
-			<target>Stel location in</target>
+		<trans-unit id="rate">
+			<source>Rate</source>
+			<target>Waardeer</target>
+		</trans-unit>
+		<trans-unit id="realtime">
+			<source>Real-time</source>
+			<target>Real-time</target>
+		</trans-unit>
+		<trans-unit id="priority_time_subtext">
+			<source>Trip duration</source>
+			<target>Vind snellere reizen</target>
+		</trans-unit>
+		<trans-unit id="public_transport">
+			<source>Public Transport</source>
+			<target>Openbaar vervoer</target>
 		</trans-unit>
 		<trans-unit id="select_calendars">
 			<source>Select calendars</source>
@@ -449,46 +482,47 @@
 			<target>Routes updated</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="settings_category_usage">
-			<source>Anonymous Data Tracking</source>
-			<target>Anonieme Data Tracking</target>
+		<trans-unit id="repeat_ends_on">
+			<source>Repeat does end on</source>
+			<target>Herhaling eindigt op</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_distance_units">
-			<source>Distance units to use in trip results</source>
-			<target>De afstandseenheden die gebruikt worden in de trip resultaten</target>
+		<trans-unit id="review_eula">
+			<source>Review EULA</source>
+			<target>Review EULA</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_category_searching">
+			<source>Searching</source>
+			<target>Zoeken</target>
 		</trans-unit>
 		<trans-unit id="settings_category_results">
 			<source>Trip Results</source>
 			<target>Reis Resultaten</target>
 		</trans-unit>
-		<trans-unit id="settings_category_searching">
-			<source>Searching</source>
-			<target>Zoeken</target>
+		<trans-unit id="settings_category_reminders">
+			<source>Notifications</source>
+			<target>Notificaties</target>
 		</trans-unit>
 		<trans-unit id="settings_category_about">
 			<source>About</source>
 			<target>About</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="settings_category_reminders">
-			<source>Notifications</source>
-			<target>Notificaties</target>
+		<trans-unit id="set_time">
+			<source>Set time</source>
+			<target>Kies een tijd</target>
 		</trans-unit>
 		<trans-unit id="set_start_time">
 			<source>Set start time</source>
 			<target>Vertrektijd instellen</target>
 		</trans-unit>
-		<trans-unit id="set_time">
-			<source>Set time</source>
-			<target>Kies een tijd</target>
+		<trans-unit id="set_location">
+			<source>Set Location</source>
+			<target>Stel location in</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_searching_contacts">
-			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-			<target>Geef adressen weer uit uw contactenlijst in de zoeksuggesties.</target>
-		</trans-unit>
-		<trans-unit id="settings_summary_searching_calendar">
-			<source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-			<target>Gebruik de locaties van uw activiteiten in de zoeksuggesties.</target>
+		<trans-unit id="set_end_time">
+			<source>Set end time</source>
+			<target>Stel eind tijd in</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_reminder_start_off_trip">
 			<source>Show an alert to leave at the start of a trip</source>
@@ -514,6 +548,14 @@
 			<source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
 			<target>Geef TripGo toestemming om anoniem locatie gegevens te verzamelen wanneer u de app gebruikt (dit gebeurd NIET wanneer u TripGo in de achtergrond gebruikt)</target>
 		</trans-unit>
+		<trans-unit id="settings_summary_distance_units">
+			<source>Distance units to use in trip results</source>
+			<target>De afstandseenheden die gebruikt worden in de trip resultaten</target>
+		</trans-unit>
+		<trans-unit id="settings_category_usage">
+			<source>Anonymous Data Tracking</source>
+			<target>Anonieme Data Tracking</target>
+		</trans-unit>
 		<trans-unit id="settings_title_reminder_service_alerts">
 			<source>Service alerts</source>
 			<target>Onverwachte hinder</target>
@@ -521,64 +563,6 @@
 		<trans-unit id="settings_title_reminder_end_pub_trans">
 			<source>End of public transport</source>
 			<target>Verlaten openbaar vervoer</target>
-		</trans-unit>
-		<trans-unit id="settings_title_gps_submit">
-			<source>Track Location</source>
-			<target>Track Locatie</target>
-		</trans-unit>
-		<trans-unit id="settings_title_cycling_speed">
-			<source>Cycling speed</source>
-			<target>Cycling speed</target>
-			<note> TODO </note>
-		</trans-unit>
-		<trans-unit id="settings_title_contact">
-			<source>Contact Support</source>
-			<target>Ondersteuning</target>
-		</trans-unit>
-		<trans-unit id="settings_summary_trip_preferences">
-			<source>Influence trip results by setting what's most important to you</source>
-			<target>Influence trip results by setting what's most important to you</target>
-			<note> TODO </note>
-		</trans-unit>
-		<trans-unit id="settings_summary_track_usage">
-			<source>Allow TripGo to anonymously track your app usage</source>
-			<target>Geef TripGo toestemming om anoniem app gegevens te verzamelen</target>
-		</trans-unit>
-		<trans-unit id="settings_summary_server">
-			<source>Server to use. Note this will override *ALL* server calls!</source>
-			<target>Kies de server. Dit zal alle andere server oproepen negeren!</target>
-		</trans-unit>
-		<trans-unit id="show_agenda_list">
-			<source>Show agenda list</source>
-			<target>Bekijk agenda lijst</target>
-		</trans-unit>
-		<trans-unit id="share_timetable">
-			<source>Share timetable info</source>
-			<target>Dienstregeling info delen</target>
-		</trans-unit>
-		<trans-unit id="sort_by">
-			<source>Sort By</source>
-			<target>Sorteer op</target>
-		</trans-unit>
-		<trans-unit id="show_agenda_map">
-			<source>Show agenda map</source>
-			<target>Bekijk agenda kaart</target>
-		</trans-unit>
-		<trans-unit id="sorted_by_departure">
-			<source>Sorted by Departure</source>
-			<target>Gesort. op Vertrektijd</target>
-		</trans-unit>
-		<trans-unit id="sorted_by_arrival">
-			<source>Sorted by Arrival</source>
-			<target>Gesort. op Aankomst Tijd</target>
-		</trans-unit>
-		<trans-unit id="sorted_by_price">
-			<source>Sorted by Price</source>
-			<target>Gesort. op Prijs</target>
-		</trans-unit>
-		<trans-unit id="sorted_by_duration">
-			<source>Sorted by Duration</source>
-			<target>Gesort. op Reisduur</target>
 		</trans-unit>
 		<trans-unit id="settings_title_reminder_start_pub_trans">
 			<source>Start of public transport</source>
@@ -604,48 +588,47 @@
 			<source>Server</source>
 			<target>Server</target>
 		</trans-unit>
-		<trans-unit id="share_this_result">
-			<source>Share this result</source>
-			<target>Deel deze reis</target>
+		<trans-unit id="settings_summary_searching_contacts">
+			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
+			<target>Geef adressen weer uit uw contactenlijst in de zoeksuggesties.</target>
 		</trans-unit>
-		<trans-unit id="settings_title_version">
-			<source>Version</source>
-			<target>Versie</target>
+		<trans-unit id="settings_summary_searching_calendar">
+			<source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
+			<target>Gebruik de locaties van uw activiteiten in de zoeksuggesties.</target>
 		</trans-unit>
-		<trans-unit id="title_exclude_event_from_route">
-			<source>Exclude event from routes?</source>
-			<target>Exclude event from routes?</target>
+		<trans-unit id="settings_summary_track_usage">
+			<source>Allow TripGo to anonymously track your app usage</source>
+			<target>Geef TripGo toestemming om anoniem app gegevens te verzamelen</target>
+		</trans-unit>
+		<trans-unit id="settings_summary_server">
+			<source>Server to use. Note this will override *ALL* server calls!</source>
+			<target>Kies de server. Dit zal alle andere server oproepen negeren!</target>
+		</trans-unit>
+		<trans-unit id="settings_title_contact">
+			<source>Contact Support</source>
+			<target>Ondersteuning</target>
+		</trans-unit>
+		<trans-unit id="settings_summary_trip_preferences">
+			<source>Influence trip results by setting what's most important to you</source>
+			<target>Influence trip results by setting what's most important to you</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="today">
-			<source>Today</source>
-			<target>Vandaag</target>
+		<trans-unit id="settings_title_gps_submit">
+			<source>Track Location</source>
+			<target>Track Locatie</target>
 		</trans-unit>
-		<trans-unit id="tomorrow">
-			<source>Tomorrow</source>
-			<target>Morgen</target>
-		</trans-unit>
-		<trans-unit id="transport_selector_header">
-			<source>Include in the route results</source>
-			<target>Include in the route results</target>
+		<trans-unit id="settings_title_cycling_speed">
+			<source>Cycling speed</source>
+			<target>Cycling speed</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="trip_preferences">
-			<source>Trip Preferences</source>
-			<target>Reis voorkeuren</target>
+		<trans-unit id="sorted_by_duration">
+			<source>Sorted by Duration</source>
+			<target>Gesort. op Reisduur</target>
 		</trans-unit>
-		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>Trip to</target>
-			<note> TODO </note>
-		</trans-unit>
-		<trans-unit id="trip_to_unknown_dest_about_to_start">
-			<source>It looks like you have a trip to make</source>
-			<target>Het ziet ernaar uit dat u ergens naartoe moet</target>
-		</trans-unit>
-		<trans-unit id="unknown_location">
-			<source>Unknown location</source>
-			<target>Onbekende locatie</target>
+		<trans-unit id="sorted_by_price">
+			<source>Sorted by Price</source>
+			<target>Gesort. op Prijs</target>
 		</trans-unit>
 		<trans-unit id="sorted_by_preferred">
 			<source>Sorted by Preferred</source>
@@ -673,48 +656,37 @@
 			<source>Time to leave for %s</source>
 			<target>Tijd om te vertrekken naar %s</target>
 		</trans-unit>
-		<trans-unit id="timetable_download_error">
-			<source>Error downloading services</source>
-			<target>Fout bij het downloaden van de dienstregeling</target>
+		<trans-unit id="settings_title_version">
+			<source>Version</source>
+			<target>Versie</target>
 		</trans-unit>
-		<trans-unit id="timetable_no_data">
-			<source>No services found for this stop</source>
-			<target>Er zijn geen diensten gevonden voor dit station</target>
+		<trans-unit id="share_this_result">
+			<source>Share this result</source>
+			<target>Deel deze reis</target>
 		</trans-unit>
-		<trans-unit id="you_are_here">
-			<source>You are here</source>
-			<target>U bent hier</target>
+		<trans-unit id="share_timetable">
+			<source>Share timetable info</source>
+			<target>Dienstregeling info delen</target>
 		</trans-unit>
-		<trans-unit id="yesterday">
-			<source>Yesterday</source>
-			<target>Gisteren</target>
+		<trans-unit id="show_agenda_list">
+			<source>Show agenda list</source>
+			<target>Bekijk agenda lijst</target>
 		</trans-unit>
-		<trans-unit id="walkthrough_4">
-			<source>Search routes directly right from Google search bar without opening TripGo.</source>
-			<target>Search routes directly right from Google search bar without opening TripGo.</target>
-			<note> TODO </note>
+		<trans-unit id="show_agenda_map">
+			<source>Show agenda map</source>
+			<target>Bekijk agenda kaart</target>
 		</trans-unit>
-		<trans-unit id="walkthrough_3">
-			<source>For those without an agenda, save favorite places.</source>
-			<target>For those without an agenda, save favorite places.</target>
-			<note> TODO </note>
+		<trans-unit id="sort_by">
+			<source>Sort By</source>
+			<target>Sorteer op</target>
 		</trans-unit>
-		<trans-unit id="your_trip_is_about_to_start">
-			<source>Your trip is about to start</source>
-			<target>Your trip is about to start</target>
-			<note> TODO </note>
+		<trans-unit id="sorted_by_arrival">
+			<source>Sorted by Arrival</source>
+			<target>Gesort. op Aankomst Tijd</target>
 		</trans-unit>
-		<trans-unit id="you_r_already_at_s">
-			<source>You are already at %s!</source>
-			<target>U bevindt zich al in %s!</target>
-		</trans-unit>
-		<trans-unit id="view_timetable_for_stop">
-			<source>View timetable of upcoming services</source>
-			<target>Bekijk dienstregeling van opkomende diensten</target>
-		</trans-unit>
-		<trans-unit id="view_on_yelp">
-			<source>View on Yelp</source>
-			<target>Bekijk op Yelp</target>
+		<trans-unit id="sorted_by_departure">
+			<source>Sorted by Departure</source>
+			<target>Gesort. op Vertrektijd</target>
 		</trans-unit>
 		<trans-unit id="vehicle_modes">
 			<source>Vehicle Modes</source>
@@ -724,15 +696,13 @@
 			<source>Upcoming Services</source>
 			<target>Eerstvolgende diensten</target>
 		</trans-unit>
-		<trans-unit id="walkthrough_2">
-			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-			<target>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</target>
-			<note> TODO </note>
+		<trans-unit id="unknown_location">
+			<source>Unknown location</source>
+			<target>Onbekende locatie</target>
 		</trans-unit>
-		<trans-unit id="walkthrough_1">
-			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-			<target>TripGo helps you finding the best way from A to B using any transport mode.</target>
-			<note> TODO </note>
+		<trans-unit id="trip_to_unknown_dest_about_to_start">
+			<source>It looks like you have a trip to make</source>
+			<target>Het ziet ernaar uit dat u ergens naartoe moet</target>
 		</trans-unit>
 		<trans-unit id="waiting_for_gps_fix">
 			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
@@ -742,9 +712,89 @@
 			<source>Upcoming services</source>
 			<target>Eerstvolgende diensten</target>
 		</trans-unit>
+		<trans-unit id="view_timetable_for_stop">
+			<source>View timetable of upcoming services</source>
+			<target>Bekijk dienstregeling van opkomende diensten</target>
+		</trans-unit>
+		<trans-unit id="view_on_yelp">
+			<source>View on Yelp</source>
+			<target>Bekijk op Yelp</target>
+		</trans-unit>
+		<trans-unit id="today">
+			<source>Today</source>
+			<target>Vandaag</target>
+		</trans-unit>
+		<trans-unit id="title_exclude_event_from_route">
+			<source>Exclude event from routes?</source>
+			<target>Exclude event from routes?</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="timetable_no_data">
+			<source>No services found for this stop</source>
+			<target>Er zijn geen diensten gevonden voor dit station</target>
+		</trans-unit>
+		<trans-unit id="timetable_download_error">
+			<source>Error downloading services</source>
+			<target>Fout bij het downloaden van de dienstregeling</target>
+		</trans-unit>
+		<trans-unit id="trip_to">
+			<source>Trip to </source>
+			<target>Trip to</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="trip_preferences">
+			<source>Trip Preferences</source>
+			<target>Reis voorkeuren</target>
+		</trans-unit>
+		<trans-unit id="transport_selector_header">
+			<source>Include in the route results</source>
+			<target>Include in the route results</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="tomorrow">
+			<source>Tomorrow</source>
+			<target>Morgen</target>
+		</trans-unit>
+		<trans-unit id="walkthrough_3">
+			<source>For those without an agenda, save favorite places.</source>
+			<target>For those without an agenda, save favorite places.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="walkthrough_4">
+			<source>Search routes directly right from Google search bar without opening TripGo.</source>
+			<target>Search routes directly right from Google search bar without opening TripGo.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="walkthrough_1">
+			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
+			<target>TripGo helps you finding the best way from A to B using any transport mode.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="walkthrough_2">
+			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
+			<target>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="you_r_already_at_s">
+			<source>You are already at %s!</source>
+			<target>U bevindt zich al in %s!</target>
+		</trans-unit>
+		<trans-unit id="your_trip_is_about_to_start">
+			<source>Your trip is about to start</source>
+			<target>Your trip is about to start</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="yesterday">
+			<source>Yesterday</source>
+			<target>Gisteren</target>
+		</trans-unit>
+		<trans-unit id="you_are_here">
+			<source>You are here</source>
+			<target>U bent hier</target>
+		</trans-unit>
 	</body>
 
 </file>
 
 </xliff>
-<!-- This is an auto generated file (Wed Apr 06 15:34:14 ART 2016) -->
+<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->

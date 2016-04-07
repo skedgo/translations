@@ -243,10 +243,6 @@
 			<source>Filter by service name, number or stop</source>
 			<target>Filtra secondo il nome del servizio, il numero o la fermata</target>
 		</trans-unit>
-		<trans-unit id="go_to_now">
-			<source>Go to Now</source>
-			<target>Vai ad adesso</target>
-		</trans-unit>
 		<trans-unit id="go_to_date">
 			<source>Go to date</source>
 			<target>Vai alla data</target>
@@ -255,9 +251,17 @@
 			<source>Go Here</source>
 			<target>Vai qui</target>
 		</trans-unit>
+		<trans-unit id="get_uber">
+			<source>Get Uber</source>
+			<target>Prendere Uber</target>
+		</trans-unit>
 		<trans-unit id="get_on">
 			<source>Get On</source>
 			<target>Sali</target>
+		</trans-unit>
+		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
+			<source></source>
+			<target>Information on concession pricing is subject to availability.</target>
 		</trans-unit>
 		<trans-unit id="invalid_transfer_time">
 			<source>Invalid time, revert to last used value.</source>
@@ -271,9 +275,9 @@
 			<source>Leave now to make it on time</source>
 			<target>Parti adesso per farlo in tempo</target>
 		</trans-unit>
-		<trans-unit id="lets_start">
-			<source>Let's start</source>
-			<target>Cominciamo</target>
+		<trans-unit id="go_to_now">
+			<source>Go to Now</source>
+			<target>Vai ad adesso</target>
 		</trans-unit>
 		<trans-unit id="go_to_today">
 			<source>Go to today</source>
@@ -287,9 +291,9 @@
 			<source>Events from those calendars will be used in planning your day</source>
 			<target>Eventi di questi calendari saranno utilizzati a programmare la vostra giornata</target>
 		</trans-unit>
-		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source></source>
-			<target>Information on concession pricing is subject to availability.</target>
+		<trans-unit id="location_selected">
+			<source>Location selected</source>
+			<target>Posizione selezionata</target>
 		</trans-unit>
 		<trans-unit id="minute">
 			<source>1 minute</source>
@@ -303,9 +307,9 @@
 			<source>Navigate from %1$s</source>
 			<target>Navigare da %1$s</target>
 		</trans-unit>
-		<trans-unit id="new_vehicle">
-			<source>New vehicle</source>
-			<target>Veicolo nuovo</target>
+		<trans-unit id="lets_start">
+			<source>Let's start</source>
+			<target>Cominciamo</target>
 		</trans-unit>
 		<trans-unit id="location_name">
 			<source>Location Name</source>
@@ -319,65 +323,37 @@
 			<source>"Cannot find address, location will be saved by GPS coordinates"</source>
 			<target>"Non riesci a trovare l'indirizzo, la posizione sarà salvata dalle coordinate GPS"</target>
 		</trans-unit>
-		<trans-unit id="location_selected">
-			<source>Location selected</source>
-			<target>Posizione selezionata</target>
-		</trans-unit>
-		<trans-unit id="no_results_found">
-			<source>No Results Found</source>
-			<target>Nessun risultato trovato</target>
-		</trans-unit>
 		<trans-unit id="no_ratings_received">
 			<source>No ratings received</source>
 			<target>Nessun feedback ricevuto</target>
-		</trans-unit>
-		<trans-unit id="one_time_event">
-			<source>Don't repeat</source>
-			<target>Non ripetere</target>
-		</trans-unit>
-		<trans-unit id="no_services_available">
-			<source>No services available</source>
-			<target>Nessun servizi disponibili</target>
-		</trans-unit>
-		<trans-unit id="no_favourites_saved">
-			<source>No favorite locations saved</source>
-			<target>Nessuna località preferite salvati</target>
-		</trans-unit>
-		<trans-unit id="nicely_informed_error">
-			<source>There was an error and it was reported to us. Please try again</source>
-			<target>Si è verificato un errore ed è stato segnalato a noi. Per favore riprova</target>
 		</trans-unit>
 		<trans-unit id="no_google_play_services_title">
 			<source>No Google Play Services!</source>
 			<target>No servizi di Google Play!</target>
 		</trans-unit>
+		<trans-unit id="no_services_available">
+			<source>No services available</source>
+			<target>Nessun servizi disponibili</target>
+		</trans-unit>
+		<trans-unit id="no_results_found">
+			<source>No Results Found</source>
+			<target>Nessun risultato trovato</target>
+		</trans-unit>
+		<trans-unit id="nicely_informed_error">
+			<source>There was an error and it was reported to us. Please try again</source>
+			<target>Si è verificato un errore ed è stato segnalato a noi. Per favore riprova</target>
+		</trans-unit>
+		<trans-unit id="new_vehicle">
+			<source>New vehicle</source>
+			<target>Veicolo nuovo</target>
+		</trans-unit>
 		<trans-unit id="no_google_play_services_message">
 			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
 			<target>Questa applicazione richiede di installare i servizi di Google Play.\n\nSi prega di scaricarlo per continuare ad utilizzare l'applicazione</target>
 		</trans-unit>
-		<trans-unit id="priority_environment_subtext">
-			<source>Impact of the trip</source>
-			<target>Impatto del viaggio</target>
-		</trans-unit>
-		<trans-unit id="priority_convenience_subtext">
-			<source>Hassle of the trip</source>
-			<target>Problemi del viaggio</target>
-		</trans-unit>
-		<trans-unit id="public_transport">
-			<source>Public Transport</source>
-			<target>Trasporto pubblico</target>
-		</trans-unit>
-		<trans-unit id="priority_time_subtext">
-			<source>Trip duration</source>
-			<target>durata del viaggio</target>
-		</trans-unit>
-		<trans-unit id="outside_region_error">
-			<source>Sorry, that location is outside of TripGo's range!</source>
-			<target>Ci dispiace, questa posizione è al di fuori del campo di TripGo!</target>
-		</trans-unit>
-		<trans-unit id="origin">
-			<source>origin</source>
-			<target>origine</target>
+		<trans-unit id="no_favourites_saved">
+			<source>No favorite locations saved</source>
+			<target>Nessuna località preferite salvati</target>
 		</trans-unit>
 		<trans-unit id="priority_budget_subtext">
 			<source>Trip cost</source>
@@ -387,13 +363,29 @@
 			<source>Page between upcoming services</source>
 			<target>Pagina tra imminenti servizi</target>
 		</trans-unit>
-		<trans-unit id="repeat_ends_on">
-			<source>Repeat does end on</source>
-			<target>Ripetizzione finisce al</target>
+		<trans-unit id="priority_environment_subtext">
+			<source>Impact of the trip</source>
+			<target>Impatto del viaggio</target>
 		</trans-unit>
-		<trans-unit id="review_eula">
-			<source>Review EULA</source>
-			<target>Review EULA</target>
+		<trans-unit id="priority_convenience_subtext">
+			<source>Hassle of the trip</source>
+			<target>Problemi del viaggio</target>
+		</trans-unit>
+		<trans-unit id="open_uber">
+			<source>Open Uber</source>
+			<target>Apri Uber</target>
+		</trans-unit>
+		<trans-unit id="one_time_event">
+			<source>Don't repeat</source>
+			<target>Non ripetere</target>
+		</trans-unit>
+		<trans-unit id="outside_region_error">
+			<source>Sorry, that location is outside of TripGo's range!</source>
+			<target>Ci dispiace, questa posizione è al di fuori del campo di TripGo!</target>
+		</trans-unit>
+		<trans-unit id="origin">
+			<source>origin</source>
+			<target>origine</target>
 		</trans-unit>
 		<trans-unit id="remove_shortcut">
 			<source>Remove shortcut</source>
@@ -419,13 +411,13 @@
 			<source>Real-time</source>
 			<target>Tempo reale</target>
 		</trans-unit>
-		<trans-unit id="set_end_time">
-			<source>Set end time</source>
-			<target>Imposta l'ora della fine</target>
+		<trans-unit id="priority_time_subtext">
+			<source>Trip duration</source>
+			<target>durata del viaggio</target>
 		</trans-unit>
-		<trans-unit id="set_location">
-			<source>Set Location</source>
-			<target>Imposta posizione</target>
+		<trans-unit id="public_transport">
+			<source>Public Transport</source>
+			<target>Trasporto pubblico</target>
 		</trans-unit>
 		<trans-unit id="select_calendars">
 			<source>Select calendars</source>
@@ -451,13 +443,13 @@
 			<source>Routes updated</source>
 			<target>Percorsi aggiornati</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_distance_units">
-			<source>Distance units to use in trip results</source>
-			<target>Unità di distanza da utilizzare nei risultati di viaggio</target>
+		<trans-unit id="repeat_ends_on">
+			<source>Repeat does end on</source>
+			<target>Ripetizzione finisce al</target>
 		</trans-unit>
-		<trans-unit id="settings_category_usage">
-			<source>Anonymous Data Tracking</source>
-			<target>Anonima registrazione dei dati</target>
+		<trans-unit id="review_eula">
+			<source>Review EULA</source>
+			<target>Review EULA</target>
 		</trans-unit>
 		<trans-unit id="settings_category_searching">
 			<source>Searching</source>
@@ -483,13 +475,13 @@
 			<source>Set start time</source>
 			<target>Imposta l'orario di inizio</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_searching_contacts">
-			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-			<target>Usa i tuoi indirizzi di contatto come suggerimenti per la posizione. Queste informazioni non sono memorizzate su qualsiasi server</target>
+		<trans-unit id="set_location">
+			<source>Set Location</source>
+			<target>Imposta posizione</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_searching_calendar">
-			<source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-			<target>Usa i tuoi prossimi eventi del calendario come suggerimenti per la posizione. Questa informazione non è memorizzata su qualsiasi server</target>
+		<trans-unit id="set_end_time">
+			<source>Set end time</source>
+			<target>Imposta l'ora della fine</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_reminder_start_off_trip">
 			<source>Show an alert to leave at the start of a trip</source>
@@ -515,6 +507,22 @@
 			<source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
 			<target>Consenti TripGo monitorare anonimo vostra posizione quando lo usi (NON in sottofondo)</target>
 		</trans-unit>
+		<trans-unit id="settings_summary_distance_units">
+			<source>Distance units to use in trip results</source>
+			<target>Unità di distanza da utilizzare nei risultati di viaggio</target>
+		</trans-unit>
+		<trans-unit id="settings_category_usage">
+			<source>Anonymous Data Tracking</source>
+			<target>Anonima registrazione dei dati</target>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_service_alerts">
+			<source>Service alerts</source>
+			<target>avvisi di servizio</target>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_end_pub_trans">
+			<source>End of public transport</source>
+			<target>Fine del trasporto pubblico</target>
+		</trans-unit>
 		<trans-unit id="settings_title_reminder_start_pub_trans">
 			<source>Start of public transport</source>
 			<target>Inizio del trasporto pubblico</target>
@@ -539,13 +547,13 @@
 			<source>Server</source>
 			<target>Server</target>
 		</trans-unit>
-		<trans-unit id="share_this_result">
-			<source>Share this result</source>
-			<target>Condividi questo risultato</target>
+		<trans-unit id="settings_summary_searching_contacts">
+			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
+			<target>Usa i tuoi indirizzi di contatto come suggerimenti per la posizione. Queste informazioni non sono memorizzate su qualsiasi server</target>
 		</trans-unit>
-		<trans-unit id="settings_title_version">
-			<source>Version</source>
-			<target>Versione</target>
+		<trans-unit id="settings_summary_searching_calendar">
+			<source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
+			<target>Usa i tuoi prossimi eventi del calendario come suggerimenti per la posizione. Questa informazione non è memorizzata su qualsiasi server</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_track_usage">
 			<source>Allow TripGo to anonymously track your app usage</source>
@@ -571,13 +579,13 @@
 			<source>Cycling speed</source>
 			<target>velocità in bicicletta</target>
 		</trans-unit>
-		<trans-unit id="settings_title_reminder_service_alerts">
-			<source>Service alerts</source>
-			<target>avvisi di servizio</target>
+		<trans-unit id="sorted_by_duration">
+			<source>Sorted by Duration</source>
+			<target>Ordinato secondo la durata del viaggio</target>
 		</trans-unit>
-		<trans-unit id="settings_title_reminder_end_pub_trans">
-			<source>End of public transport</source>
-			<target>Fine del trasporto pubblico</target>
+		<trans-unit id="sorted_by_price">
+			<source>Sorted by Price</source>
+			<target>Ordinati per prezzo</target>
 		</trans-unit>
 		<trans-unit id="sorted_by_preferred">
 			<source>Sorted by Preferred</source>
@@ -603,13 +611,13 @@
 			<source>Time to leave for %s</source>
 			<target>Ora di partire per %s</target>
 		</trans-unit>
-		<trans-unit id="timetable_download_error">
-			<source>Error downloading services</source>
-			<target>Errore a scaricare i servizi</target>
+		<trans-unit id="settings_title_version">
+			<source>Version</source>
+			<target>Versione</target>
 		</trans-unit>
-		<trans-unit id="timetable_no_data">
-			<source>No services found for this stop</source>
-			<target>Nessun servizio trovato per questa fermata</target>
+		<trans-unit id="share_this_result">
+			<source>Share this result</source>
+			<target>Condividi questo risultato</target>
 		</trans-unit>
 		<trans-unit id="share_timetable">
 			<source>Share timetable info</source>
@@ -635,22 +643,6 @@
 			<source>Sorted by Departure</source>
 			<target>Ordinato secondo l'ora di partenza</target>
 		</trans-unit>
-		<trans-unit id="sorted_by_duration">
-			<source>Sorted by Duration</source>
-			<target>Ordinato secondo la durata del viaggio</target>
-		</trans-unit>
-		<trans-unit id="sorted_by_price">
-			<source>Sorted by Price</source>
-			<target>Ordinati per prezzo</target>
-		</trans-unit>
-		<trans-unit id="view_timetable_for_stop">
-			<source>View timetable of upcoming services</source>
-			<target>Visualizza orari dei prossimi servizi</target>
-		</trans-unit>
-		<trans-unit id="view_on_yelp">
-			<source>View on Yelp</source>
-			<target>Visualizza su Yelp</target>
-		</trans-unit>
 		<trans-unit id="vehicle_modes">
 			<source>Vehicle Modes</source>
 			<target>Modalità di veicoli</target>
@@ -658,38 +650,6 @@
 		<trans-unit id="upcoming_services">
 			<source>Upcoming Services</source>
 			<target>Prossimi servizi</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_2">
-			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-			<target>Non essere mai in ritardo. Agenda prevede in anticipo per te e ti fa sapere quando è l'ora di partire.</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_1">
-			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-			<target>TripGo aiuta a trovare il modo migliore per andare da A a B con qualsiasi modalita di trasporto.</target>
-		</trans-unit>
-		<trans-unit id="waiting_for_gps_fix">
-			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-			<target>In attesa di segnale di posizione, se non riesce, puoi provare a spegnere e riaccendere il tuo GPS..</target>
-		</trans-unit>
-		<trans-unit id="view_timetable_subtitle">
-			<source>Upcoming services</source>
-			<target>Prossimi servizi</target>
-		</trans-unit>
-		<trans-unit id="transport_selector_header">
-			<source>Include in the route results</source>
-			<target>Includere nei risultati di percorso</target>
-		</trans-unit>
-		<trans-unit id="tomorrow">
-			<source>Tomorrow</source>
-			<target>Domani</target>
-		</trans-unit>
-		<trans-unit id="today">
-			<source>Today</source>
-			<target>Oggi</target>
-		</trans-unit>
-		<trans-unit id="title_exclude_event_from_route">
-			<source>Exclude event from routes?</source>
-			<target>Escludere evento dai percorsi?</target>
 		</trans-unit>
 		<trans-unit id="unknown_location">
 			<source>Unknown location</source>
@@ -699,6 +659,38 @@
 			<source>It looks like you have a trip to make</source>
 			<target>Sembra che tu abbia un viaggio per fare</target>
 		</trans-unit>
+		<trans-unit id="waiting_for_gps_fix">
+			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+			<target>In attesa di segnale di posizione, se non riesce, puoi provare a spegnere e riaccendere il tuo GPS..</target>
+		</trans-unit>
+		<trans-unit id="view_timetable_subtitle">
+			<source>Upcoming services</source>
+			<target>Prossimi servizi</target>
+		</trans-unit>
+		<trans-unit id="view_timetable_for_stop">
+			<source>View timetable of upcoming services</source>
+			<target>Visualizza orari dei prossimi servizi</target>
+		</trans-unit>
+		<trans-unit id="view_on_yelp">
+			<source>View on Yelp</source>
+			<target>Visualizza su Yelp</target>
+		</trans-unit>
+		<trans-unit id="today">
+			<source>Today</source>
+			<target>Oggi</target>
+		</trans-unit>
+		<trans-unit id="title_exclude_event_from_route">
+			<source>Exclude event from routes?</source>
+			<target>Escludere evento dai percorsi?</target>
+		</trans-unit>
+		<trans-unit id="timetable_no_data">
+			<source>No services found for this stop</source>
+			<target>Nessun servizio trovato per questa fermata</target>
+		</trans-unit>
+		<trans-unit id="timetable_download_error">
+			<source>Error downloading services</source>
+			<target>Errore a scaricare i servizi</target>
+		</trans-unit>
 		<trans-unit id="trip_to">
 			<source>Trip to </source>
 			<target>Viaggio a </target>
@@ -707,13 +699,13 @@
 			<source>Trip Preferences</source>
 			<target>Preferenze di viaggio</target>
 		</trans-unit>
-		<trans-unit id="yesterday">
-			<source>Yesterday</source>
-			<target>Ieri</target>
+		<trans-unit id="transport_selector_header">
+			<source>Include in the route results</source>
+			<target>Includere nei risultati di percorso</target>
 		</trans-unit>
-		<trans-unit id="you_are_here">
-			<source>You are here</source>
-			<target>Tu sei qui</target>
+		<trans-unit id="tomorrow">
+			<source>Tomorrow</source>
+			<target>Domani</target>
 		</trans-unit>
 		<trans-unit id="walkthrough_3">
 			<source>For those without an agenda, save favorite places.</source>
@@ -723,6 +715,14 @@
 			<source>Search routes directly right from Google search bar without opening TripGo.</source>
 			<target>Ricerca percorsi direttamente dalla barra di ricerca di Google senza aprire TripGo.</target>
 		</trans-unit>
+		<trans-unit id="walkthrough_1">
+			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
+			<target>TripGo aiuta a trovare il modo migliore per andare da A a B con qualsiasi modalita di trasporto.</target>
+		</trans-unit>
+		<trans-unit id="walkthrough_2">
+			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
+			<target>Non essere mai in ritardo. Agenda prevede in anticipo per te e ti fa sapere quando è l'ora di partire.</target>
+		</trans-unit>
 		<trans-unit id="you_r_already_at_s">
 			<source>You are already at %s!</source>
 			<target>Sei già a %s!</target>
@@ -731,9 +731,17 @@
 			<source>Your trip is about to start</source>
 			<target>Il vostro viaggio sta per iniziare</target>
 		</trans-unit>
+		<trans-unit id="yesterday">
+			<source>Yesterday</source>
+			<target>Ieri</target>
+		</trans-unit>
+		<trans-unit id="you_are_here">
+			<source>You are here</source>
+			<target>Tu sei qui</target>
+		</trans-unit>
 	</body>
 
 </file>
 
 </xliff>
-<!-- This is an auto generated file (Wed Apr 06 21:25:28 ART 2016) -->
+<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->

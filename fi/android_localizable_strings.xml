@@ -61,6 +61,7 @@
   <string name="get_google_play_services">Hae Google Play palvelut</string>
   <string name="get_off">Jää pois</string>
   <string name="get_on">Hypäää kyytiin</string>
+  <string name="get_uber">Hae Uber</string>
   <string name="go_here">Mene tänne</string>
   <string name="go_to_date">Mene päivämäärään</string>
   <string name="go_to_now">Mene kohtaan \'Nyt\'</string>
@@ -88,6 +89,7 @@
   <string name="no_results_found">Tuloksia ei löytynyt</string>
   <string name="no_services_available">Yhteyksiä ei saatavilla</string>
   <string name="one_time_event">Älä toista</string>
+  <string name="open_uber">Avaa Uber</string>
   <string name="origin">Lähtö</string>
   <string name="outside_region_error">Pahoittelut, sijainti on TripGon ulkopuolella!</string>
   <string name="page_between_upcoming_services">Selaa tulevia yhteyksiä</string>

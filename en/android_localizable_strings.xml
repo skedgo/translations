@@ -61,6 +61,7 @@
     <string name="get_google_play_services">Get Google Play Services</string>
     <string name="get_off">Get Off</string>
     <string name="get_on">Get On</string>
+    <string name="get_uber">Get Uber</string>
     <string name="go_here">Go Here</string>
     <string name="go_to_date">Go to date</string>
     <string name="go_to_now">Go to Now</string>
@@ -87,6 +88,7 @@
     <string name="no_results_found">No Results Found</string>
     <string name="no_services_available">No services available</string>
     <string name="one_time_event">Don\'t repeat</string>
+    <string name="open_uber">Open Uber</string>
     <string name="origin">origin</string>
     <string name="outside_region_error">Sorry, that location is outside of TripGo\'s range!</string>
     <string name="page_between_upcoming_services">Page between upcoming services</string>

@@ -60,6 +60,7 @@
   <string name="get_google_play_services">Google Play Services</string>
   <string name="get_off">Aussteigen</string>
   <string name="get_on">Einsteigen</string>
+  <string name="get_uber">Uber herunterladen</string>
   <string name="go_here">Hierhin gehen</string>
   <string name="go_to_date">Gehe zu Datum</string>
   <string name="go_to_now">Gehe zu Jetzt</string>
@@ -87,6 +88,7 @@
   <string name="no_results_found">Keine Ergebnisse gefunden</string>
   <string name="no_services_available">Keine Dienste verfügbar</string>
   <string name="one_time_event">Nicht wiederholen</string>
+  <string name="open_uber">Uber öffnen</string>
   <string name="origin">Startpunkt</string>
   <string name="outside_region_error">Dieser Ort ist leider außerhalb von TripGos Reichweite!</string>
   <string name="page_between_upcoming_services">Seite zwischen den nächsten Abfahrten</string>

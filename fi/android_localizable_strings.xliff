@@ -242,10 +242,6 @@
 			<source>Filter by service name, number or stop</source>
 			<target>Suodata yhteyden nimen, numeron tai pysäkin mukaan</target>
 		</trans-unit>
-		<trans-unit id="go_to_now">
-			<source>Go to Now</source>
-			<target>Mene kohtaan 'Nyt'</target>
-		</trans-unit>
 		<trans-unit id="go_to_date">
 			<source>Go to date</source>
 			<target>Mene päivämäärään</target>
@@ -254,9 +250,17 @@
 			<source>Go Here</source>
 			<target>Mene tänne</target>
 		</trans-unit>
+		<trans-unit id="get_uber">
+			<source>Get Uber</source>
+			<target>Hae Uber</target>
+		</trans-unit>
 		<trans-unit id="get_on">
 			<source>Get On</source>
 			<target>Hypäää kyytiin</target>
+		</trans-unit>
+		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
+			<source></source>
+			<target>Tiedot erikoishinnoittelusta perustuvat niiden saatavuuteen.</target>
 		</trans-unit>
 		<trans-unit id="invalid_transfer_time">
 			<source>Invalid time, revert to last used value.</source>
@@ -270,9 +274,9 @@
 			<source>Leave now to make it on time</source>
 			<target>Lähde nyt ollaksesi ajoissa</target>
 		</trans-unit>
-		<trans-unit id="lets_start">
-			<source>Let's start</source>
-			<target>Aloitetaan</target>
+		<trans-unit id="go_to_now">
+			<source>Go to Now</source>
+			<target>Mene kohtaan 'Nyt'</target>
 		</trans-unit>
 		<trans-unit id="go_to_today">
 			<source>Go to today</source>
@@ -286,9 +290,9 @@
 			<source>Events from those calendars will be used in planning your day</source>
 			<target>Tapahtumia näistä kalentereista käytetään päiväsi suunnitteluun</target>
 		</trans-unit>
-		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source></source>
-			<target>Tiedot erikoishinnoittelusta perustuvat niiden saatavuuteen.</target>
+		<trans-unit id="location_selected">
+			<source>Location selected</source>
+			<target>Sijainti valittu</target>
 		</trans-unit>
 		<trans-unit id="minute">
 			<source>1 minute</source>
@@ -302,9 +306,9 @@
 			<source>Navigate from %1$s</source>
 			<target>Aloita %1$s</target>
 		</trans-unit>
-		<trans-unit id="new_vehicle">
-			<source>New vehicle</source>
-			<target>Uusi ajoneuvo</target>
+		<trans-unit id="lets_start">
+			<source>Let's start</source>
+			<target>Aloitetaan</target>
 		</trans-unit>
 		<trans-unit id="location_name">
 			<source>Location Name</source>
@@ -318,65 +322,37 @@
 			<source>"Cannot find address, location will be saved by GPS coordinates"</source>
 			<target>Osoitetta ei löytynyut, sijainti tallentuu GPS koordinaateilla</target>
 		</trans-unit>
-		<trans-unit id="location_selected">
-			<source>Location selected</source>
-			<target>Sijainti valittu</target>
-		</trans-unit>
-		<trans-unit id="no_results_found">
-			<source>No Results Found</source>
-			<target>Tuloksia ei löytynyt</target>
-		</trans-unit>
 		<trans-unit id="no_ratings_received">
 			<source>No ratings received</source>
 			<target>Ei vastaanotettuja luokituksia</target>
-		</trans-unit>
-		<trans-unit id="one_time_event">
-			<source>Don't repeat</source>
-			<target>Älä toista</target>
-		</trans-unit>
-		<trans-unit id="no_services_available">
-			<source>No services available</source>
-			<target>Yhteyksiä ei saatavilla</target>
-		</trans-unit>
-		<trans-unit id="no_favourites_saved">
-			<source>No favorite locations saved</source>
-			<target>Ei tallennettuja Suosikkisijainteja</target>
-		</trans-unit>
-		<trans-unit id="nicely_informed_error">
-			<source>There was an error and it was reported to us. Please try again</source>
-			<target>Tapahtui virhe, josta saimmme ilmoituksen. Ole hyvä, ja kokeile uudestaan.</target>
 		</trans-unit>
 		<trans-unit id="no_google_play_services_title">
 			<source>No Google Play Services!</source>
 			<target>Ei Google Play palveluita!</target>
 		</trans-unit>
+		<trans-unit id="no_services_available">
+			<source>No services available</source>
+			<target>Yhteyksiä ei saatavilla</target>
+		</trans-unit>
+		<trans-unit id="no_results_found">
+			<source>No Results Found</source>
+			<target>Tuloksia ei löytynyt</target>
+		</trans-unit>
+		<trans-unit id="nicely_informed_error">
+			<source>There was an error and it was reported to us. Please try again</source>
+			<target>Tapahtui virhe, josta saimmme ilmoituksen. Ole hyvä, ja kokeile uudestaan.</target>
+		</trans-unit>
+		<trans-unit id="new_vehicle">
+			<source>New vehicle</source>
+			<target>Uusi ajoneuvo</target>
+		</trans-unit>
 		<trans-unit id="no_google_play_services_message">
 			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
 			<target>Tämä app vaatii Google Play palveluiden asennuksen.\n\n Ole hyvä, ja lataa se jatkaaksesi sovelluksen käyttöä</target>
 		</trans-unit>
-		<trans-unit id="priority_environment_subtext">
-			<source>Impact of the trip</source>
-			<target>Ympäristöystävällisyys</target>
-		</trans-unit>
-		<trans-unit id="priority_convenience_subtext">
-			<source>Hassle of the trip</source>
-			<target>Matkan epäselvyydet</target>
-		</trans-unit>
-		<trans-unit id="public_transport">
-			<source>Public Transport</source>
-			<target>Julkinen liikenne</target>
-		</trans-unit>
-		<trans-unit id="priority_time_subtext">
-			<source>Trip duration</source>
-			<target>Matkan kesto</target>
-		</trans-unit>
-		<trans-unit id="outside_region_error">
-			<source>Sorry, that location is outside of TripGo's range!</source>
-			<target>Pahoittelut, sijainti on TripGon ulkopuolella!</target>
-		</trans-unit>
-		<trans-unit id="origin">
-			<source>origin</source>
-			<target>Lähtö</target>
+		<trans-unit id="no_favourites_saved">
+			<source>No favorite locations saved</source>
+			<target>Ei tallennettuja Suosikkisijainteja</target>
 		</trans-unit>
 		<trans-unit id="priority_budget_subtext">
 			<source>Trip cost</source>
@@ -386,13 +362,29 @@
 			<source>Page between upcoming services</source>
 			<target>Selaa tulevia yhteyksiä</target>
 		</trans-unit>
-		<trans-unit id="repeat_ends_on">
-			<source>Repeat does end on</source>
-			<target>Toisto loppuu</target>
+		<trans-unit id="priority_environment_subtext">
+			<source>Impact of the trip</source>
+			<target>Ympäristöystävällisyys</target>
 		</trans-unit>
-		<trans-unit id="review_eula">
-			<source>Review EULA</source>
-			<target>Review EULA</target>
+		<trans-unit id="priority_convenience_subtext">
+			<source>Hassle of the trip</source>
+			<target>Matkan epäselvyydet</target>
+		</trans-unit>
+		<trans-unit id="open_uber">
+			<source>Open Uber</source>
+			<target>Avaa Uber</target>
+		</trans-unit>
+		<trans-unit id="one_time_event">
+			<source>Don't repeat</source>
+			<target>Älä toista</target>
+		</trans-unit>
+		<trans-unit id="outside_region_error">
+			<source>Sorry, that location is outside of TripGo's range!</source>
+			<target>Pahoittelut, sijainti on TripGon ulkopuolella!</target>
+		</trans-unit>
+		<trans-unit id="origin">
+			<source>origin</source>
+			<target>Lähtö</target>
 		</trans-unit>
 		<trans-unit id="remove_shortcut">
 			<source>Remove shortcut</source>
@@ -418,13 +410,13 @@
 			<source>Real-time</source>
 			<target>Reaaliaikainen</target>
 		</trans-unit>
-		<trans-unit id="set_end_time">
-			<source>Set end time</source>
-			<target>Määritä loppumisaika</target>
+		<trans-unit id="priority_time_subtext">
+			<source>Trip duration</source>
+			<target>Matkan kesto</target>
 		</trans-unit>
-		<trans-unit id="set_location">
-			<source>Set Location</source>
-			<target>Aseta sijainti</target>
+		<trans-unit id="public_transport">
+			<source>Public Transport</source>
+			<target>Julkinen liikenne</target>
 		</trans-unit>
 		<trans-unit id="select_calendars">
 			<source>Select calendars</source>
@@ -450,13 +442,13 @@
 			<source>Routes updated</source>
 			<target>Reitit päivitetty</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_distance_units">
-			<source>Distance units to use in trip results</source>
-			<target>Etäisyysyksiköt, jotka käytössä matkan tuloksissa</target>
+		<trans-unit id="repeat_ends_on">
+			<source>Repeat does end on</source>
+			<target>Toisto loppuu</target>
 		</trans-unit>
-		<trans-unit id="settings_category_usage">
-			<source>Anonymous Data Tracking</source>
-			<target>Anonyymi datan seuranta</target>
+		<trans-unit id="review_eula">
+			<source>Review EULA</source>
+			<target>Review EULA</target>
 		</trans-unit>
 		<trans-unit id="settings_category_searching">
 			<source>Searching</source>
@@ -482,13 +474,13 @@
 			<source>Set start time</source>
 			<target>Aseta aloitusaika</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_searching_contacts">
-			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-			<target>Käytä yhteystietojesi osoitteita sijaintisuosituksiin. Nämä tiedot eivät ole tallennettuna mihinkään palvelimille</target>
+		<trans-unit id="set_location">
+			<source>Set Location</source>
+			<target>Aseta sijainti</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_searching_calendar">
-			<source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-			<target>Käytä tulevia kalenteritapahtumia sijaintisuosituksiin. Nämä tiedot eivät ole tallennettuna mihinkään palvelimille.</target>
+		<trans-unit id="set_end_time">
+			<source>Set end time</source>
+			<target>Määritä loppumisaika</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_reminder_start_off_trip">
 			<source>Show an alert to leave at the start of a trip</source>
@@ -514,6 +506,22 @@
 			<source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
 			<target>Salli TripGon seurata anonyymisti sijaintiasi kun asetat sen. (EI taustalla)</target>
 		</trans-unit>
+		<trans-unit id="settings_summary_distance_units">
+			<source>Distance units to use in trip results</source>
+			<target>Etäisyysyksiköt, jotka käytössä matkan tuloksissa</target>
+		</trans-unit>
+		<trans-unit id="settings_category_usage">
+			<source>Anonymous Data Tracking</source>
+			<target>Anonyymi datan seuranta</target>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_service_alerts">
+			<source>Service alerts</source>
+			<target>Palveluhälytykset</target>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_end_pub_trans">
+			<source>End of public transport</source>
+			<target>Julkinen liikenne päättyy</target>
+		</trans-unit>
 		<trans-unit id="settings_title_reminder_start_pub_trans">
 			<source>Start of public transport</source>
 			<target>Julkisen liikenteen alku</target>
@@ -538,13 +546,13 @@
 			<source>Server</source>
 			<target>Palvelin</target>
 		</trans-unit>
-		<trans-unit id="share_this_result">
-			<source>Share this result</source>
-			<target>Jaa hakutulos</target>
+		<trans-unit id="settings_summary_searching_contacts">
+			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
+			<target>Käytä yhteystietojesi osoitteita sijaintisuosituksiin. Nämä tiedot eivät ole tallennettuna mihinkään palvelimille</target>
 		</trans-unit>
-		<trans-unit id="settings_title_version">
-			<source>Version</source>
-			<target>Versio</target>
+		<trans-unit id="settings_summary_searching_calendar">
+			<source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
+			<target>Käytä tulevia kalenteritapahtumia sijaintisuosituksiin. Nämä tiedot eivät ole tallennettuna mihinkään palvelimille.</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_track_usage">
 			<source>Allow TripGo to anonymously track your app usage</source>
@@ -570,13 +578,13 @@
 			<source>Cycling speed</source>
 			<target>Pyöräilynopeus</target>
 		</trans-unit>
-		<trans-unit id="settings_title_reminder_service_alerts">
-			<source>Service alerts</source>
-			<target>Palveluhälytykset</target>
+		<trans-unit id="sorted_by_duration">
+			<source>Sorted by Duration</source>
+			<target>Lajiteltu keston mukaan</target>
 		</trans-unit>
-		<trans-unit id="settings_title_reminder_end_pub_trans">
-			<source>End of public transport</source>
-			<target>Julkinen liikenne päättyy</target>
+		<trans-unit id="sorted_by_price">
+			<source>Sorted by Price</source>
+			<target>Lajiteltu hinnan mukaan</target>
 		</trans-unit>
 		<trans-unit id="sorted_by_preferred">
 			<source>Sorted by Preferred</source>
@@ -602,13 +610,13 @@
 			<source>Time to leave for %s</source>
 			<target>Aika lähteä %s</target>
 		</trans-unit>
-		<trans-unit id="timetable_download_error">
-			<source>Error downloading services</source>
-			<target>Yhteyksien lataamisessa havaittiin virhe</target>
+		<trans-unit id="settings_title_version">
+			<source>Version</source>
+			<target>Versio</target>
 		</trans-unit>
-		<trans-unit id="timetable_no_data">
-			<source>No services found for this stop</source>
-			<target>Pysäkiltä ei löytynyt yhteyksiä</target>
+		<trans-unit id="share_this_result">
+			<source>Share this result</source>
+			<target>Jaa hakutulos</target>
 		</trans-unit>
 		<trans-unit id="share_timetable">
 			<source>Share timetable info</source>
@@ -634,22 +642,6 @@
 			<source>Sorted by Departure</source>
 			<target>Lajiteltu lähtöajoittain</target>
 		</trans-unit>
-		<trans-unit id="sorted_by_duration">
-			<source>Sorted by Duration</source>
-			<target>Lajiteltu keston mukaan</target>
-		</trans-unit>
-		<trans-unit id="sorted_by_price">
-			<source>Sorted by Price</source>
-			<target>Lajiteltu hinnan mukaan</target>
-		</trans-unit>
-		<trans-unit id="view_timetable_for_stop">
-			<source>View timetable of upcoming services</source>
-			<target>Näytä tulevien yhteyksien aikataulu</target>
-		</trans-unit>
-		<trans-unit id="view_on_yelp">
-			<source>View on Yelp</source>
-			<target>Näytä Yelpissä</target>
-		</trans-unit>
 		<trans-unit id="vehicle_modes">
 			<source>Vehicle Modes</source>
 			<target>Kulkutavat</target>
@@ -657,38 +649,6 @@
 		<trans-unit id="upcoming_services">
 			<source>Upcoming Services</source>
 			<target>Tulevat yhteydet</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_2">
-			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-			<target>Älä koskaan myöhästy. Agenda suunnittelee matkat puolestasi, ja kertoo milloin sinun pitää lähteä.</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_1">
-			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-			<target>TripGon avulla löydät parhaat tavat matkustaa A:sta B:en käyttämällä mitä tahansa kulkumuotoa.</target>
-		</trans-unit>
-		<trans-unit id="waiting_for_gps_fix">
-			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-			<target>Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..</target>
-		</trans-unit>
-		<trans-unit id="view_timetable_subtitle">
-			<source>Upcoming services</source>
-			<target>Tulevat yhteydet</target>
-		</trans-unit>
-		<trans-unit id="transport_selector_header">
-			<source>Include in the route results</source>
-			<target>Sisällytä reitin lopputuloksiin</target>
-		</trans-unit>
-		<trans-unit id="tomorrow">
-			<source>Tomorrow</source>
-			<target>Huomenna</target>
-		</trans-unit>
-		<trans-unit id="today">
-			<source>Today</source>
-			<target>Tänään</target>
-		</trans-unit>
-		<trans-unit id="title_exclude_event_from_route">
-			<source>Exclude event from routes?</source>
-			<target>Poista tapahtuma reiteiltä?</target>
 		</trans-unit>
 		<trans-unit id="unknown_location">
 			<source>Unknown location</source>
@@ -698,6 +658,38 @@
 			<source>It looks like you have a trip to make</source>
 			<target>Näyttäisi siltä että sinulla on matka alkamassa</target>
 		</trans-unit>
+		<trans-unit id="waiting_for_gps_fix">
+			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+			<target>Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..</target>
+		</trans-unit>
+		<trans-unit id="view_timetable_subtitle">
+			<source>Upcoming services</source>
+			<target>Tulevat yhteydet</target>
+		</trans-unit>
+		<trans-unit id="view_timetable_for_stop">
+			<source>View timetable of upcoming services</source>
+			<target>Näytä tulevien yhteyksien aikataulu</target>
+		</trans-unit>
+		<trans-unit id="view_on_yelp">
+			<source>View on Yelp</source>
+			<target>Näytä Yelpissä</target>
+		</trans-unit>
+		<trans-unit id="today">
+			<source>Today</source>
+			<target>Tänään</target>
+		</trans-unit>
+		<trans-unit id="title_exclude_event_from_route">
+			<source>Exclude event from routes?</source>
+			<target>Poista tapahtuma reiteiltä?</target>
+		</trans-unit>
+		<trans-unit id="timetable_no_data">
+			<source>No services found for this stop</source>
+			<target>Pysäkiltä ei löytynyt yhteyksiä</target>
+		</trans-unit>
+		<trans-unit id="timetable_download_error">
+			<source>Error downloading services</source>
+			<target>Yhteyksien lataamisessa havaittiin virhe</target>
+		</trans-unit>
 		<trans-unit id="trip_to">
 			<source>Trip to </source>
 			<target>Matka kohteeseen</target>
@@ -706,13 +698,13 @@
 			<source>Trip Preferences</source>
 			<target>Matkan preferenssit</target>
 		</trans-unit>
-		<trans-unit id="yesterday">
-			<source>Yesterday</source>
-			<target>Eilen</target>
+		<trans-unit id="transport_selector_header">
+			<source>Include in the route results</source>
+			<target>Sisällytä reitin lopputuloksiin</target>
 		</trans-unit>
-		<trans-unit id="you_are_here">
-			<source>You are here</source>
-			<target>Olet täällä</target>
+		<trans-unit id="tomorrow">
+			<source>Tomorrow</source>
+			<target>Huomenna</target>
 		</trans-unit>
 		<trans-unit id="walkthrough_3">
 			<source>For those without an agenda, save favorite places.</source>
@@ -722,6 +714,14 @@
 			<source>Search routes directly right from Google search bar without opening TripGo.</source>
 			<target>Selaa reittejä suoraan Google search -näkymästä ilman että TripGo avautuu.</target>
 		</trans-unit>
+		<trans-unit id="walkthrough_1">
+			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
+			<target>TripGon avulla löydät parhaat tavat matkustaa A:sta B:en käyttämällä mitä tahansa kulkumuotoa.</target>
+		</trans-unit>
+		<trans-unit id="walkthrough_2">
+			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
+			<target>Älä koskaan myöhästy. Agenda suunnittelee matkat puolestasi, ja kertoo milloin sinun pitää lähteä.</target>
+		</trans-unit>
 		<trans-unit id="you_r_already_at_s">
 			<source>You are already at %s!</source>
 			<target>Olet jo kohteessa %s!</target>
@@ -730,9 +730,17 @@
 			<source>Your trip is about to start</source>
 			<target>Matkasi alkaa</target>
 		</trans-unit>
+		<trans-unit id="yesterday">
+			<source>Yesterday</source>
+			<target>Eilen</target>
+		</trans-unit>
+		<trans-unit id="you_are_here">
+			<source>You are here</source>
+			<target>Olet täällä</target>
+		</trans-unit>
 	</body>
 
 </file>
 
 </xliff>
-<!-- This is an auto generated file (Wed Apr 06 21:25:28 ART 2016) -->
+<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->

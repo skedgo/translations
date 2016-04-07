@@ -122,6 +122,8 @@
 
   <string name="get_on">上車</string>
 
+  <string name="get_uber">使用Uber</string>
+
   <string name="go_here">到這裡</string>
 
   <string name="go_to_date">到此日</string>
@@ -175,6 +177,8 @@
   <string name="no_services_available">沒有可用的車次</string>
 
   <string name="one_time_event">不要重複</string>
+
+  <string name="open_uber">開啟Uber</string>
 
   <string name="origin">出發地</string>
 

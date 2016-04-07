@@ -86,6 +86,8 @@
   <string name="get_google_play_services">Download Google Play Services</string>
   <string name="get_off">Stap uit</string>
   <string name="get_on">Instappen</string>
+  <!-- TODO -->
+  <string name="get_uber">Get Uber</string>
   <string name="go_here">Ga naar hier</string>
   <string name="go_to_date">Ga naar datum</string>
   <string name="go_to_now">Ga naar nu</string>
@@ -120,6 +122,8 @@
   <string name="no_results_found">Geen resultaten gevonden</string>
   <string name="no_services_available">Geen diensten beschikbaar</string>
   <string name="one_time_event">Niet herhalen</string>
+  <!-- TODO -->
+  <string name="open_uber">Open Uber</string>
   <!-- TODO -->
   <string name="origin">origin</string>
   <string name="outside_region_error">Sorry, deze locatie bevindt zich buiten het gebied van TripGo!</string>

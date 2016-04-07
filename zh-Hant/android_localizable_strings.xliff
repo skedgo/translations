@@ -243,10 +243,6 @@
 			<source>First: </source>
 			<target>首先: </target>
 		</trans-unit>
-		<trans-unit id="go_to_today">
-			<source>Go to today</source>
-			<target>到當天</target>
-		</trans-unit>
 		<trans-unit id="go_to_now">
 			<source>Go to Now</source>
 			<target>到今天</target>
@@ -258,6 +254,14 @@
 		<trans-unit id="go_here">
 			<source>Go Here</source>
 			<target>到這裡</target>
+		</trans-unit>
+		<trans-unit id="get_uber">
+			<source>Get Uber</source>
+			<target>使用Uber</target>
+		</trans-unit>
+		<trans-unit id="invalid_transfer_time">
+			<source>Invalid time, revert to last used value.</source>
+			<target>無效的時間．恢復到上個使用的時間</target>
 		</trans-unit>
 		<trans-unit id="its_time_to_leave">
 			<source>It's time to leave!</source>
@@ -271,9 +275,9 @@
 			<source>Let's start</source>
 			<target>我們開始吧！</target>
 		</trans-unit>
-		<trans-unit id="location_name">
-			<source>Location Name</source>
-			<target>位置名稱</target>
+		<trans-unit id="go_to_today">
+			<source>Go to today</source>
+			<target>到當天</target>
 		</trans-unit>
 		<trans-unit id="include_cal_act">
 			<source>Include checked calendars</source>
@@ -287,9 +291,9 @@
 			<source></source>
 			<target>優惠票價的資訊是視情況而定的.</target>
 		</trans-unit>
-		<trans-unit id="invalid_transfer_time">
-			<source>Invalid time, revert to last used value.</source>
-			<target>無效的時間．恢復到上個使用的時間</target>
+		<trans-unit id="minute">
+			<source>1 minute</source>
+			<target>1分鐘</target>
 		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
@@ -303,9 +307,9 @@
 			<source>New vehicle</source>
 			<target>新的車輛</target>
 		</trans-unit>
-		<trans-unit id="nicely_informed_error">
-			<source>There was an error and it was reported to us. Please try again</source>
-			<target>發生錯誤並已回報給我們．請重新嘗試</target>
+		<trans-unit id="location_name">
+			<source>Location Name</source>
+			<target>位置名稱</target>
 		</trans-unit>
 		<trans-unit id="location_not_found">
 			<source>Location Not Found</source>
@@ -319,66 +323,37 @@
 			<source>Location selected</source>
 			<target>位置已被選取</target>
 		</trans-unit>
-		<trans-unit id="minute">
-			<source>1 minute</source>
-			<target>1分鐘</target>
-		</trans-unit>
-		<trans-unit id="no_services_available">
-			<source>No services available</source>
-			<target>沒有可用的車次</target>
-		</trans-unit>
 		<trans-unit id="no_results_found">
 			<source>No Results Found</source>
 			<target>沒有找到任何結果</target>
-		</trans-unit>
-		<trans-unit id="origin">
-			<source>origin</source>
-			<target>出發地</target>
-		</trans-unit>
-		<trans-unit id="one_time_event">
-			<source>Don't repeat</source>
-			<target>不要重複</target>
-		</trans-unit>
-		<trans-unit id="no_google_play_services_message">
-			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
-			<target>此程序需要Google Play服務。請下載Google Play來繼續使用本程序</target>
-		</trans-unit>
-		<trans-unit id="no_favourites_saved">
-			<source>No favorite locations saved</source>
-			<target>沒有常用位置被儲存</target>
 		</trans-unit>
 		<trans-unit id="no_ratings_received">
 			<source>No ratings received</source>
 			<target>沒有收到評價</target>
 		</trans-unit>
+		<trans-unit id="one_time_event">
+			<source>Don't repeat</source>
+			<target>不要重複</target>
+		</trans-unit>
+		<trans-unit id="no_services_available">
+			<source>No services available</source>
+			<target>沒有可用的車次</target>
+		</trans-unit>
+		<trans-unit id="no_favourites_saved">
+			<source>No favorite locations saved</source>
+			<target>沒有常用位置被儲存</target>
+		</trans-unit>
+		<trans-unit id="nicely_informed_error">
+			<source>There was an error and it was reported to us. Please try again</source>
+			<target>發生錯誤並已回報給我們．請重新嘗試</target>
+		</trans-unit>
 		<trans-unit id="no_google_play_services_title">
 			<source>No Google Play Services!</source>
 			<target>無法找到Google Play服務!</target>
 		</trans-unit>
-		<trans-unit id="priority_time_subtext">
-			<source>Trip duration</source>
-			<target>路程時間</target>
-		</trans-unit>
-		<trans-unit id="priority_environment_subtext">
-			<source>Impact of the trip</source>
-			<target>路程對環境的影響</target>
-		</trans-unit>
-		<trans-unit id="rate">
-			<source>Rate</source>
-			<target>評價</target>
-		</trans-unit>
-		<trans-unit id="public_transport">
-			<source>Public Transport</source>
-			<target>大眾交通</target>
-		</trans-unit>
-		<trans-unit id="page_between_upcoming_services">
-			<source>Page between upcoming services</source>
-			<target>Page between upcoming services</target>
-			<note> TODO </note>
-		</trans-unit>
-		<trans-unit id="outside_region_error">
-			<source>Sorry, that location is outside of TripGo's range!</source>
-			<target>抱歉，您所輸入的位址並不在TripGo的服務範圍裡</target>
+		<trans-unit id="no_google_play_services_message">
+			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
+			<target>此程序需要Google Play服務。請下載Google Play來繼續使用本程序</target>
 		</trans-unit>
 		<trans-unit id="priority_convenience_subtext">
 			<source>Hassle of the trip</source>
@@ -388,13 +363,30 @@
 			<source>Trip cost</source>
 			<target>路程費用</target>
 		</trans-unit>
-		<trans-unit id="routine_explanation">
-			<source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-			<target>例行事件是您每天必須要做的事情，但是您並不想要將它們記錄在行事曆中（例如：上班）．例行事件可以讓“行程”功能在對的時間帶您到對的地方</target>
+		<trans-unit id="priority_time_subtext">
+			<source>Trip duration</source>
+			<target>路程時間</target>
 		</trans-unit>
-		<trans-unit id="routes_updated">
-			<source>Routes updated</source>
-			<target>路線已被更新</target>
+		<trans-unit id="priority_environment_subtext">
+			<source>Impact of the trip</source>
+			<target>路程對環境的影響</target>
+		</trans-unit>
+		<trans-unit id="origin">
+			<source>origin</source>
+			<target>出發地</target>
+		</trans-unit>
+		<trans-unit id="open_uber">
+			<source>Open Uber</source>
+			<target>開啟Uber</target>
+		</trans-unit>
+		<trans-unit id="page_between_upcoming_services">
+			<source>Page between upcoming services</source>
+			<target>Page between upcoming services</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="outside_region_error">
+			<source>Sorry, that location is outside of TripGo's range!</source>
+			<target>抱歉，您所輸入的位址並不在TripGo的服務範圍裡</target>
 		</trans-unit>
 		<trans-unit id="repeat_end_date_in_past">
 			<source>Repetition end date is in the past</source>
@@ -420,13 +412,13 @@
 			<source>Refresh</source>
 			<target>刷新</target>
 		</trans-unit>
-		<trans-unit id="set_start_time">
-			<source>Set start time</source>
-			<target>設置開始時間</target>
+		<trans-unit id="public_transport">
+			<source>Public Transport</source>
+			<target>大眾交通</target>
 		</trans-unit>
-		<trans-unit id="set_time">
-			<source>Set time</source>
-			<target>設置時間</target>
+		<trans-unit id="rate">
+			<source>Rate</source>
+			<target>評價</target>
 		</trans-unit>
 		<trans-unit id="set_end_time">
 			<source>Set end time</source>
@@ -452,13 +444,13 @@
 			<source>Search instantly</source>
 			<target>立即搜尋</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_rate">
-			<source>Rate the app in the store!</source>
-			<target>在Google Play裡評價本程序</target>
+		<trans-unit id="routine_explanation">
+			<source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+			<target>例行事件是您每天必須要做的事情，但是您並不想要將它們記錄在行事曆中（例如：上班）．例行事件可以讓“行程”功能在對的時間帶您到對的地方</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_gps_submit">
-			<source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
-			<target>允許TripGo在您使用時（不是在背景模式），匿名追蹤您的位置</target>
+		<trans-unit id="routes_updated">
+			<source>Routes updated</source>
+			<target>路線已被更新</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_distance_units">
 			<source>Distance units to use in trip results</source>
@@ -484,14 +476,13 @@
 			<source>About</source>
 			<target>關於</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_track_usage">
-			<source>Allow TripGo to anonymously track your app usage</source>
-			<target>允許TripGo匿名追蹤您的程序使用情形</target>
-			<note> Just for debug </note>
+		<trans-unit id="set_time">
+			<source>Set time</source>
+			<target>設置時間</target>
 		</trans-unit>
-		<trans-unit id="settings_summary_server">
-			<source>Server to use. Note this will override *ALL* server calls!</source>
-			<target>Server to use. Note this will override *ALL* server calls!</target>
+		<trans-unit id="set_start_time">
+			<source>Set start time</source>
+			<target>設置開始時間</target>
 		</trans-unit>
 		<trans-unit id="settings_summary_searching_contacts">
 			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
@@ -517,6 +508,22 @@
 			<source>Show an alert towards the end of any public transport on your trip</source>
 			<target>在您路程上任何大眾交通路段結束前顯示提示</target>
 		</trans-unit>
+		<trans-unit id="settings_summary_rate">
+			<source>Rate the app in the store!</source>
+			<target>在Google Play裡評價本程序</target>
+		</trans-unit>
+		<trans-unit id="settings_summary_gps_submit">
+			<source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
+			<target>允許TripGo在您使用時（不是在背景模式），匿名追蹤您的位置</target>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_start_pub_trans">
+			<source>Start of public transport</source>
+			<target>在大眾交通路線即將開始時</target>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_start_off_trip">
+			<source>Start of trip</source>
+			<target>在路程即將開始時</target>
+		</trans-unit>
 		<trans-unit id="settings_title_searching_contacts">
 			<source>Search contact addresses</source>
 			<target>搜尋通訊錄上的地址</target>
@@ -541,13 +548,14 @@
 			<source>Version</source>
 			<target>版本</target>
 		</trans-unit>
-		<trans-unit id="show_agenda_list">
-			<source>Show agenda list</source>
-			<target>顯示行程列表</target>
+		<trans-unit id="settings_summary_track_usage">
+			<source>Allow TripGo to anonymously track your app usage</source>
+			<target>允許TripGo匿名追蹤您的程序使用情形</target>
+			<note> Just for debug </note>
 		</trans-unit>
-		<trans-unit id="share_timetable">
-			<source>Share timetable info</source>
-			<target>分享時刻表</target>
+		<trans-unit id="settings_summary_server">
+			<source>Server to use. Note this will override *ALL* server calls!</source>
+			<target>Server to use. Note this will override *ALL* server calls!</target>
 		</trans-unit>
 		<trans-unit id="settings_title_contact">
 			<source>Contact Support</source>
@@ -573,13 +581,13 @@
 			<source>End of public transport</source>
 			<target>在大眾交通路線即將結束時</target>
 		</trans-unit>
-		<trans-unit id="settings_title_reminder_start_pub_trans">
-			<source>Start of public transport</source>
-			<target>在大眾交通路線即將開始時</target>
+		<trans-unit id="sorted_by_preferred">
+			<source>Sorted by Preferred</source>
+			<target>以您的偏好來排序</target>
 		</trans-unit>
-		<trans-unit id="settings_title_reminder_start_off_trip">
-			<source>Start of trip</source>
-			<target>在路程即將開始時</target>
+		<trans-unit id="one_more_thing">
+			<source>One more thing…</source>
+			<target>還有一件事．．</target>
 		</trans-unit>
 		<trans-unit id="taxi">
 			<source>Taxi</source>
@@ -606,13 +614,13 @@
 			<source>No services found for this stop</source>
 			<target>沒有找到停靠此站的車次</target>
 		</trans-unit>
-		<trans-unit id="title_exclude_event_from_route">
-			<source>Exclude event from routes?</source>
-			<target>從路線中排除此事件？</target>
+		<trans-unit id="share_timetable">
+			<source>Share timetable info</source>
+			<target>分享時刻表</target>
 		</trans-unit>
-		<trans-unit id="today">
-			<source>Today</source>
-			<target>今天</target>
+		<trans-unit id="show_agenda_list">
+			<source>Show agenda list</source>
+			<target>顯示行程列表</target>
 		</trans-unit>
 		<trans-unit id="show_agenda_map">
 			<source>Show agenda map</source>
@@ -638,22 +646,6 @@
 			<source>Sorted by Price</source>
 			<target>以路程費用來排序</target>
 		</trans-unit>
-		<trans-unit id="sorted_by_preferred">
-			<source>Sorted by Preferred</source>
-			<target>以您的偏好來排序</target>
-		</trans-unit>
-		<trans-unit id="one_more_thing">
-			<source>One more thing…</source>
-			<target>還有一件事．．</target>
-		</trans-unit>
-		<trans-unit id="waiting_for_gps_fix">
-			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-			<target>正在等待定位信號．如果嘗試失敗，您可以試著先將GPS關掉再打開．．</target>
-		</trans-unit>
-		<trans-unit id="view_timetable_subtitle">
-			<source>Upcoming services</source>
-			<target>即將到來的車次</target>
-		</trans-unit>
 		<trans-unit id="view_timetable_for_stop">
 			<source>View timetable of upcoming services</source>
 			<target>查閱即將到來車次的時刻表</target>
@@ -661,38 +653,6 @@
 		<trans-unit id="view_on_yelp">
 			<source>View on Yelp</source>
 			<target>在Yelp上查看</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_4">
-			<source>Search routes directly right from Google search bar without opening TripGo.</source>
-			<target>您可以不需要開啟TripGo，直接在Google搜尋欄查詢路線</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_3">
-			<source>For those without an agenda, save favorite places.</source>
-			<target>對那些不需要“行程”的使用者，您可以儲存您常到訪的位置</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_2">
-			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-			<target>您將不會再遲到了．“行程”功能會將您的一天規劃好，並讓您知道何時該出發前往您的下一個事件</target>
-		</trans-unit>
-		<trans-unit id="walkthrough_1">
-			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-			<target>TripGo參考所有可使用的交通工具來幫助您規劃從Ａ到Ｂ的最佳路程</target>
-		</trans-unit>
-		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>到%s的路程</target>
-		</trans-unit>
-		<trans-unit id="trip_preferences">
-			<source>Trip Preferences</source>
-			<target>路程偏好</target>
-		</trans-unit>
-		<trans-unit id="transport_selector_header">
-			<source>Include in the route results</source>
-			<target>顯示在路線結果中</target>
-		</trans-unit>
-		<trans-unit id="tomorrow">
-			<source>Tomorrow</source>
-			<target>明天</target>
 		</trans-unit>
 		<trans-unit id="vehicle_modes">
 			<source>Vehicle Modes</source>
@@ -703,6 +663,38 @@
 			<source>Upcoming Services</source>
 			<target>即將到來的車次</target>
 		</trans-unit>
+		<trans-unit id="walkthrough_2">
+			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
+			<target>您將不會再遲到了．“行程”功能會將您的一天規劃好，並讓您知道何時該出發前往您的下一個事件</target>
+		</trans-unit>
+		<trans-unit id="walkthrough_1">
+			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
+			<target>TripGo參考所有可使用的交通工具來幫助您規劃從Ａ到Ｂ的最佳路程</target>
+		</trans-unit>
+		<trans-unit id="waiting_for_gps_fix">
+			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+			<target>正在等待定位信號．如果嘗試失敗，您可以試著先將GPS關掉再打開．．</target>
+		</trans-unit>
+		<trans-unit id="view_timetable_subtitle">
+			<source>Upcoming services</source>
+			<target>即將到來的車次</target>
+		</trans-unit>
+		<trans-unit id="transport_selector_header">
+			<source>Include in the route results</source>
+			<target>顯示在路線結果中</target>
+		</trans-unit>
+		<trans-unit id="tomorrow">
+			<source>Tomorrow</source>
+			<target>明天</target>
+		</trans-unit>
+		<trans-unit id="today">
+			<source>Today</source>
+			<target>今天</target>
+		</trans-unit>
+		<trans-unit id="title_exclude_event_from_route">
+			<source>Exclude event from routes?</source>
+			<target>從路線中排除此事件？</target>
+		</trans-unit>
 		<trans-unit id="unknown_location">
 			<source>Unknown location</source>
 			<target>未知的位置</target>
@@ -711,13 +703,13 @@
 			<source>It looks like you have a trip to make</source>
 			<target>您似乎有個路程即將開始</target>
 		</trans-unit>
-		<trans-unit id="you_r_already_at_s">
-			<source>You are already at %s!</source>
-			<target>您已經在%s!了</target>
+		<trans-unit id="trip_to">
+			<source>Trip to </source>
+			<target>到%s的路程</target>
 		</trans-unit>
-		<trans-unit id="your_trip_is_about_to_start">
-			<source>Your trip is about to start</source>
-			<target>您的路程即將開始</target>
+		<trans-unit id="trip_preferences">
+			<source>Trip Preferences</source>
+			<target>路程偏好</target>
 		</trans-unit>
 		<trans-unit id="yesterday">
 			<source>Yesterday</source>
@@ -727,9 +719,25 @@
 			<source>You are here</source>
 			<target>您已抵達</target>
 		</trans-unit>
+		<trans-unit id="walkthrough_3">
+			<source>For those without an agenda, save favorite places.</source>
+			<target>對那些不需要“行程”的使用者，您可以儲存您常到訪的位置</target>
+		</trans-unit>
+		<trans-unit id="walkthrough_4">
+			<source>Search routes directly right from Google search bar without opening TripGo.</source>
+			<target>您可以不需要開啟TripGo，直接在Google搜尋欄查詢路線</target>
+		</trans-unit>
+		<trans-unit id="you_r_already_at_s">
+			<source>You are already at %s!</source>
+			<target>您已經在%s!了</target>
+		</trans-unit>
+		<trans-unit id="your_trip_is_about_to_start">
+			<source>Your trip is about to start</source>
+			<target>您的路程即將開始</target>
+		</trans-unit>
 	</body>
 
 </file>
 
 </xliff>
-<!-- This is an auto generated file (Wed Apr 06 21:25:28 ART 2016) -->
+<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->
