@@ -14,10 +14,13 @@
   <string name="all_alerts">所有提示</string>
   <string name="all_cals_invisible">你的所有日历都不可见，请切换到本地日历app或账号设置里</string>
   <string name="an_unexpected_network_error">您遇到了一个网络错误，请重试</string>
-  <string name="approximately_s_away">Approximately %s away</string><!-- TODO -->
+  <!-- TODO -->
+  <string name="approximately_s_away">Approximately %s away</string>
+  <string name="arrivaltimeindication">到达时间</string>
   <string name="body_exclude_related_event_from_route">与该行程有关的事件将被移除。但它仍会显示</string>
   <string name="body_exclude_this_event_from_route">该事件将不会再有相关行程。但它仍会显示</string>
   <string name="booking">预订</string>
+  <string name="cancel">取消</string>
   <string name="cannot_add_reminder_for_past_trip">无法为过去的行程添加提醒</string>
   <string name="cannot_find_that_location">无法找到该地址</string>
   <string name="cannot_remove_shortcut">无法移除捷径</string>
@@ -28,10 +31,14 @@
   <string name="del_all_events">所有事件</string>
   <string name="del_only_this_event">只有这个事件</string>
   <string name="del_this_and_future_events">此事件和将来的事件</string>
+  <string name="delete">刪除</string>
   <string name="delete_event">删除此事件</string>
   <string name="delete_vehicle">删除此车辆</string>
+  <string name="departuretimeindication">" (离站 "</string>
   <string name="destination">目的地</string>
   <string name="did_you_mean">您指的是</string>
+  <string name="done">完成</string>
+  <string name="dropnewpin">放置新的大头针</string>
   <string name="edit">编辑</string>
   <string name="edit_event">编辑事件</string>
   <string name="edit_favourite">编辑收藏</string>
@@ -61,6 +68,7 @@
   <string name="go_to_today">今天出发</string>
   <string name="include_cal_act">包含选中的日历</string>
   <string name="include_cal_explanation">从日历里获取的这些事件将被用于规划你的行程</string>
+  <string name="information_on_concession_pricing_is_subject_to_availability_dot">取得优惠票价的信息是视情况而定的。</string>
   <string name="invalid_transfer_time">无效时间，调回到上次使用的时间</string>
   <string name="its_time_to_leave">出发时间到啦!</string>
   <string name="leave_now_to_make_on_time">现在出发可以准时到达</string>
@@ -69,6 +77,7 @@
   <string name="location_not_found">无法找到位置</string>
   <string name="location_save_by_gps">"找不到地址，位置将被GPS记录"</string>
   <string name="location_selected">选中位置</string>
+  <string name="minute">1分钟</string>
   <string name="navigate_current_location">从当前位置导航</string>
   <string name="navigate_from">从 %1$s 导航</string>
   <string name="new_vehicle">新的车辆</string>

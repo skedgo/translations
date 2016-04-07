@@ -21,11 +21,15 @@
   <string name="an_unexpected_network_error">Er is onverwachts een netwerk fout opgetreden. Probeer opnieuw.</string>
   <string name="approximately_s_away">Ongeveer % ver weg</string>
   <!-- TODO -->
+  <string name="arrivaltimeindication">" (arrive "</string>
+  <!-- TODO -->
   <string name="body_exclude_related_event_from_route">The event related to the trip will be excluded. It will still be shown</string>
   <!-- TODO -->
   <string name="body_exclude_this_event_from_route">This event will no longer have trips to or from it. The event will still be shown</string>
   <!-- TODO -->
   <string name="booking">Booking</string>
+  <!-- TODO -->
+  <string name="cancel">Cancel</string>
   <string name="cannot_add_reminder_for_past_trip">Kan geen herinnering instellen voor trip in het verleden</string>
   <string name="cannot_find_that_location">Adres niet gevonden</string>
   <!-- TODO -->
@@ -37,12 +41,20 @@
   <string name="del_all_events">Alle activiteiten</string>
   <string name="del_only_this_event">Alleen deze activiteit</string>
   <string name="del_this_and_future_events">Deze activiteit en all toekomstige activiteiten</string>
+  <!-- TODO -->
+  <string name="delete">Delete</string>
   <string name="delete_event">Verwijder deze activiteit</string>
   <!-- TODO -->
   <string name="delete_vehicle">Delete this vehicle</string>
   <!-- TODO -->
+  <string name="departuretimeindication">" (depart "</string>
+  <!-- TODO -->
   <string name="destination">destination</string>
   <string name="did_you_mean">U bedoelt</string>
+  <!-- TODO -->
+  <string name="done">Done</string>
+  <!-- TODO -->
+  <string name="dropnewpin">Drop new pin</string>
   <string name="edit">Wijzig</string>
   <string name="edit_event">Wijzig activiteit</string>
   <string name="edit_favourite">Wijzig favoriet</string>
@@ -80,6 +92,8 @@
   <string name="go_to_today">Ga naar vandaag</string>
   <string name="include_cal_act">Selecteer kalenders</string>
   <string name="include_cal_explanation">Activiteiten in deze kalenders zijn zichtbaar in uw TripGo agenda</string>
+  <!-- TODO -->
+  <string name="information_on_concession_pricing_is_subject_to_availability_dot">Information on concession pricing is subject to availability.</string>
   <string name="invalid_transfer_time">Ongeldige tijd, gebruik de laatste gebruikte tijd.</string>
   <!-- TODO -->
   <string name="its_time_to_leave">It\'s time to leave!</string>
@@ -90,6 +104,8 @@
   <string name="location_not_found">Location Not Found</string>
   <string name="location_save_by_gps">"Het adres kon niet gevonden worden, de locatie wordt mbv GPS coordinaten opgeslagen"</string>
   <string name="location_selected">Locatie geselecteerd</string>
+  <!-- TODO -->
+  <string name="minute">1 minute</string>
   <!-- TODO -->
   <string name="navigate_current_location">Navigate from current location</string>
   <!-- TODO -->

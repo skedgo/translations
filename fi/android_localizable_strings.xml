@@ -15,9 +15,11 @@
   <string name="all_cals_invisible">Kalenterisi eivät ole saatavilla, ole hyvä ja laita ne päälle laitteen  kalenterin asetuksista</string>
   <string name="an_unexpected_network_error">Tapahtui odottamaton verkkovirhe. Ole hyvä, yritä uudelleen.</string>
   <string name="approximately_s_away">Noin %s päässä</string>
+  <string name="arrivaltimeindication">" (saapuu "</string>
   <string name="body_exclude_related_event_from_route">Valittuun reittiin liittyvä tapahtuma poistetaan. Se jää kuitenkin näkyviin.</string>
   <string name="body_exclude_this_event_from_route">Tapahtuma ei sisällä enää siihen liittyviä matkoja. Tapahtuma kuitenkin jää näkyviin.</string>
   <string name="booking">Tilaaminen</string>
+  <string name="cancel">Peruuta</string>
   <string name="cannot_add_reminder_for_past_trip">Ei voitu lisätä muistutusta vanhalle matkalle</string>
   <string name="cannot_find_that_location">Osoitetta ei löytynyt</string>
   <string name="cannot_remove_shortcut">Ei voitu poistaa oikotietä</string>
@@ -28,10 +30,14 @@
   <string name="del_all_events">Kaikki tapahtumat</string>
   <string name="del_only_this_event">Vain tämä tapahtuma</string>
   <string name="del_this_and_future_events">Tämä ja tulevat tapahtumat</string>
+  <string name="delete">Poista</string>
   <string name="delete_event">Poista tapahtuma</string>
   <string name="delete_vehicle">Poista ajoneuvo</string>
+  <string name="departuretimeindication">" (Lähtöaika "</string>
   <string name="destination">Kohde</string>
   <string name="did_you_mean">Tarkoititko</string>
+  <string name="done">Valmis</string>
+  <string name="dropnewpin">Sijoita uusi piste</string>
   <string name="edit">Muokkaa</string>
   <string name="edit_event">Muokkaa tapahtumaa</string>
   <string name="edit_favourite">Muokkaa suosikkia</string>
@@ -61,6 +67,7 @@
   <string name="go_to_today">Mene tähän päivään</string>
   <string name="include_cal_act">Sisällytä valitut kalenterit</string>
   <string name="include_cal_explanation">Tapahtumia näistä kalentereista käytetään päiväsi suunnitteluun</string>
+  <string name="information_on_concession_pricing_is_subject_to_availability_dot">Tiedot erikoishinnoittelusta perustuvat niiden saatavuuteen.</string>
   <string name="invalid_transfer_time">Virheellinen aika, palaa viimeksi käytettyyn arvoon.</string>
   <string name="its_time_to_leave">Aika lähteä!</string>
   <string name="leave_now_to_make_on_time">Lähde nyt ollaksesi ajoissa</string>
@@ -69,6 +76,7 @@
   <string name="location_not_found">Määränpäätä ei löydy</string>
   <string name="location_save_by_gps">Osoitetta ei löytynyut, sijainti tallentuu GPS koordinaateilla</string>
   <string name="location_selected">Sijainti valittu</string>
+  <string name="minute">1 minuutti</string>
   <string name="navigate_current_location">Nykyinen sijainti</string>
   <string name="navigate_from">Aloita %1$s</string>
   <string name="new_vehicle">Uusi ajoneuvo</string>

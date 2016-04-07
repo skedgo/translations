@@ -15,9 +15,11 @@
   <string name="all_cals_invisible">Todos tus calendarios están invisibles, por favor, cambielo en su aplicación nativa de calendario o en la configuración de la cuenta</string>
   <string name="an_unexpected_network_error">Ha ocurrido un error inesperado de red. Por favor, intente nuevamente.</string>
   <string name="approximately_s_away">Aproximadamente a %s</string>
+  <string name="arrivaltimeindication">" (llegada "</string>
   <string name="body_exclude_related_event_from_route">El evento relacionado al viaje será excluído. El evento se seguirá mostrando</string>
   <string name="body_exclude_this_event_from_route">Este evento no tendrá viajes desde y hace él. El evento se seguirá mostrando</string>
   <string name="booking">Reservas</string>
+  <string name="cancel">Cancelar</string>
   <string name="cannot_add_reminder_for_past_trip">No puede agregar recordatorios a viajes en el pasado</string>
   <string name="cannot_find_that_location">Dirección no encontrada</string>
   <string name="cannot_remove_shortcut">No es posible remover el acceso directo</string>
@@ -28,10 +30,14 @@
   <string name="del_all_events">Todos los eventos</string>
   <string name="del_only_this_event">Sólo este evento</string>
   <string name="del_this_and_future_events">Éste y todos los eventos futuros</string>
+  <string name="delete">Borrar</string>
   <string name="delete_event">Eliminar este evento</string>
   <string name="delete_vehicle">Borrar este vehículo</string>
+  <string name="departuretimeindication">" (partida "</string>
   <string name="destination">destino</string>
   <string name="did_you_mean">Querías decir</string>
+  <string name="done">Listo</string>
+  <string name="dropnewpin">Soltar Marcador</string>
   <string name="edit">Editar</string>
   <string name="edit_event">Editar evento</string>
   <string name="edit_favourite">Editar favorito</string>
@@ -61,6 +67,7 @@
   <string name="go_to_today">Ir a hoy</string>
   <string name="include_cal_act">Incluir calendarios seleccionados</string>
   <string name="include_cal_explanation">Los eventos de esos calendarios serán usados para planificar tu día</string>
+  <string name="information_on_concession_pricing_is_subject_to_availability_dot">La información relacionada a precios bonificados está sujeta a disponibilidad.</string>
   <string name="invalid_transfer_time">Fecha inválida, utilizaremos el último valor válido</string>
   <string name="its_time_to_leave">Es hora de salir!</string>
   <string name="leave_now_to_make_on_time">Debe salir ahora para llegar a tiempo</string>
@@ -69,6 +76,7 @@
   <string name="location_not_found">Ubicación no encontrada</string>
   <string name="location_save_by_gps">"No se pudo encontrar la dirección, la ubicación va a ser grabada utilizando las coordenadas del GPS</string>
   <string name="location_selected">Ubicación seleccionada</string>
+  <string name="minute">1 minuto</string>
   <string name="navigate_current_location">Navegar desde la ubicación actual</string>
   <string name="navigate_from">Navegar desde %1$s</string>
   <string name="new_vehicle">Nuevo vehículo</string>

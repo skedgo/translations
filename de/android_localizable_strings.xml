@@ -15,9 +15,11 @@
   <string name="all_cals_invisible">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein</string>
   <string name="an_unexpected_network_error">Unerwarteter Netzwerkfehler. Bitte versuche es noch einmal.</string>
   <string name="approximately_s_away">Etwa %s entfernt</string>
+  <string name="arrivaltimeindication">" (Ankunft "</string>
   <string name="body_exclude_related_event_from_route">Das zum Trip zugehörige Ereignis wird ausgeschlossen. Es wird weiter angezeigt</string>
   <string name="body_exclude_this_event_from_route">Dieses Ereignis zeigt keine Route an. Das Ereignis wird weiter angezeigt</string>
   <string name="booking">Buchen</string>
+  <string name="cancel">Abbrechen</string>
   <string name="cannot_add_reminder_for_past_trip">Kann keine Erinnerung für Ereignis in der Vergangenheit hinzufügen</string>
   <string name="cannot_find_that_location">Adresse nicht gefunden</string>
   <string name="cannot_remove_shortcut">Verknüpfung nicht löschbar</string>
@@ -28,10 +30,14 @@
   <string name="del_all_events">Alle Ereignisse</string>
   <string name="del_only_this_event">Nur dieses Ereignis</string>
   <string name="del_this_and_future_events">Dieses und zukünftige Ereignisse</string>
+  <string name="delete">Löschen</string>
   <string name="delete_event">Ereignis löschen</string>
   <string name="delete_vehicle">Fahrzeug löschen</string>
+  <string name="departuretimeindication">" (Abfahrt "</string>
   <string name="destination">Reiseziel</string>
   <string name="did_you_mean">Meintest du</string>
+  <string name="done">Fertig</string>
+  <string name="dropnewpin">Stecknadel</string>
   <string name="edit">Bearbeiten</string>
   <string name="edit_event">Ereignis bearbeiten</string>>
   <string name="edit_favourite">Favorit bearbeiten</string>
@@ -61,6 +67,7 @@
   <string name="go_to_today">Gehe zu heute</string>
   <string name="include_cal_act">Diese Kalender mit einbeziehen</string>
   <string name="include_cal_explanation">Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</string>
+  <string name="information_on_concession_pricing_is_subject_to_availability_dot">Informationen über Ermässigungen nach Verfügbarkeit.</string>
   <string name="invalid_transfer_time">Zeit ist ungültig, benutze letzten gültigen Wert.</string>
   <string name="its_time_to_leave">Es ist Zeit zu gehen!</string>
   <string name="leave_now_to_make_on_time">Gehe jetzt los um pünktlich zu kommen</string>
@@ -69,6 +76,7 @@
   <string name="location_not_found">Ort nicht gefunden</string>
   <string name="location_save_by_gps">"Kann Adresse nicht finden, Ort wird laut GPS-Daten gespeichert"</string>
   <string name="location_selected">Ort ausgewählt</string>
+  <string name="minute">1 Minute</string>
   <string name="navigate_current_location">Von meinem Standort</string>
   <string name="navigate_from">Navigiere von %1$s</string>
   <string name="new_vehicle">Neues Fahrzeug</string>
@@ -95,7 +103,6 @@
   <string name="remove_shortcut">Verknüpfung löschen</string>
   <string name="repeat_end_date_in_past">Enddatum der Wiederholung ist in der Vergangenheit</string>
   <string name="repeat_ends_on">Wiederholung endet am</string>
-  <string name="review_eula">Lizenzvertrag lesen</string>
   <string name="routine_explanation">Routinen sind Teil deines Tagesablaufs aber nicht Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.</string>
   <string name="routes_updated">Routen aktualisiert</string>
   <string name="save">Speichern</string>

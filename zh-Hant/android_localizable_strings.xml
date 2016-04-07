@@ -32,11 +32,15 @@
   <!-- TODO -->
   <string name="approximately_s_away">Approximately %s away</string>
 
+  <string name="arrivaltimeindication">" (到達時間 "</string>
+
   <string name="body_exclude_related_event_from_route">跟此路線相關的事件將被排除，但是事件還是會顯在行程中</string>
 
   <string name="body_exclude_this_event_from_route">此事件將不會有與其關聯的旅程，但是事件還是會顯示在行程中</string>
 
   <string name="booking">訂票</string>
+
+  <string name="cancel">取消</string>
 
   <string name="cannot_add_reminder_for_past_trip">無法提醒您已經過期的路線</string>
 
@@ -58,13 +62,21 @@
 
   <string name="del_this_and_future_events">所有未來的事件</string>
 
+  <string name="delete">刪除</string>
+
   <string name="delete_event">刪除此事件</string>
 
   <string name="delete_vehicle">刪除此車輛</string>
 
+  <string name="departuretimeindication">" (離站 "</string>
+
   <string name="destination">目的地</string>
 
   <string name="did_you_mean">您指的是</string>
+
+  <string name="done">完成</string>
+
+  <string name="dropnewpin">放置新的大頭針</string>
 
   <string name="edit">編輯</string>
 
@@ -124,6 +136,8 @@
 
   <string name="include_cal_explanation">那些行事曆上的事件將被用於規劃您當天的行程</string>
 
+  <string name="information_on_concession_pricing_is_subject_to_availability_dot">優惠票價的資訊是視情況而定的.</string>
+
   <string name="invalid_transfer_time">無效的時間．恢復到上個使用的時間</string>
 
   <string name="its_time_to_leave">該啟程了！</string>
@@ -139,6 +153,8 @@
   <string name="location_save_by_gps">”無法取得地址．我們將會使用GPS座標來儲存此位置"</string>
 
   <string name="location_selected">位置已被選取</string>
+
+  <string name="minute">1分鐘</string>
 
   <string name="navigate_current_location">從當前位址開始導航</string>
 

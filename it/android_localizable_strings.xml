@@ -15,9 +15,11 @@
   <string name="all_cals_invisible">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del conto</string>
   <string name="an_unexpected_network_error">Si è verificato un errore di rete imprevisto. Riprova.</string>
   <string name="approximately_s_away">Circa % s di distanza</string>
+  <string name="arrivaltimeindication">" (Arrivo "</string>
   <string name="body_exclude_related_event_from_route">corpo esclude evento legato dal percorso</string>
   <string name="body_exclude_this_event_from_route">corpo esclude questo evento dal calendario</string>
   <string name="booking">Prenotazione</string>
+  <string name="cancel">Cancellare</string>
   <string name="cannot_add_reminder_for_past_trip">Impossibile aggiungere promemoria per un viaggio passato</string>
   <string name="cannot_find_that_location">Indirizzo non trovato</string>
   <string name="cannot_remove_shortcut">Non puo rimuovere accesso rapido</string>
@@ -28,10 +30,14 @@
   <string name="del_all_events">Tutti i eventi</string>
   <string name="del_only_this_event">Solo questo evento</string>
   <string name="del_this_and_future_events">Questo e gli eventi futuri</string>
+  <string name="delete">Cancella</string>
   <string name="delete_event">Cancella questo evento</string>
   <string name="delete_vehicle">Cancella veicolo</string>
+  <string name="departuretimeindication">" (Partenza "</string>
   <string name="destination">Destinazione</string>
   <string name="did_you_mean">Intendevi</string>
+  <string name="done">Fatto</string>
+  <string name="dropnewpin">Inserisci nuovo punto</string>
   <string name="edit">Modifica</string>
   <string name="edit_event">Modifica evento</string>
   <string name="edit_favourite">Modifica preferito</string>
@@ -61,6 +67,7 @@
   <string name="go_to_today">Vai ad oggi</string>
   <string name="include_cal_act">Includi calendari controllati</string>
   <string name="include_cal_explanation">Eventi di questi calendari saranno utilizzati a programmare la vostra giornata</string>
+  <string name="information_on_concession_pricing_is_subject_to_availability_dot">Information on concession pricing is subject to availability.</string>
   <string name="invalid_transfer_time">Orario non valido, tornare al ultimo valore usato.</string>
   <string name="its_time_to_leave">E ora di partire</string>
   <string name="leave_now_to_make_on_time">Parti adesso per farlo in tempo</string>
@@ -69,6 +76,7 @@
   <string name="location_not_found">Posizione non trovata</string>
   <string name="location_save_by_gps">"Non riesci a trovare l\'indirizzo, la posizione sarà salvata dalle coordinate GPS"</string>
   <string name="location_selected">Posizione selezionata</string>
+  <string name="minute">1 minuto</string>
   <string name="navigate_current_location">Navigare dalla posizione corrente</string>
   <string name="navigate_from">Navigare da %1$s</string>
   <string name="new_vehicle">Veicolo nuovo</string>
