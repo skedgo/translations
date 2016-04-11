@@ -42,10 +42,6 @@
 			<source>View your daily agenda and favourites in the tabs below</source>
 			<target>Veja a sua agenda diária e favoritos nas abas abaixo</target>
 		</trans-unit>
-		<trans-unit id="agree">
-			<source>Agree</source>
-			<target>concorda</target>
-		</trans-unit>
 		<trans-unit id="all_alerts">
 			<source>All Alerts</source>
 			<target>AlTodos os alertas</target>
@@ -445,10 +441,6 @@
 		<trans-unit id="repeat_ends_on">
 			<source>Repeat does end on</source>
 			<target>Repetir final em</target>
-		</trans-unit>
-		<trans-unit id="review_eula">
-			<source>Review EULA</source>
-			<target>Rever EULA</target>
 		</trans-unit>
 		<trans-unit id="settings_category_searching">
 			<source>Searching</source>

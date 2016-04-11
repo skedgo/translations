@@ -42,10 +42,6 @@
 			<source>View your daily agenda and favourites in the tabs below</source>
 			<target>Katso päivittäinen agenda ja suosikit allaolevista välilehdistä</target>
 		</trans-unit>
-		<trans-unit id="agree">
-			<source>Agree</source>
-			<target>Hyväksy</target>
-		</trans-unit>
 		<trans-unit id="all_alerts">
 			<source>All Alerts</source>
 			<target>Kaikki hälytykset</target>
@@ -445,10 +441,6 @@
 		<trans-unit id="repeat_ends_on">
 			<source>Repeat does end on</source>
 			<target>Toisto loppuu</target>
-		</trans-unit>
-		<trans-unit id="review_eula">
-			<source>Review EULA</source>
-			<target>Review EULA</target>
 		</trans-unit>
 		<trans-unit id="settings_category_searching">
 			<source>Searching</source>
