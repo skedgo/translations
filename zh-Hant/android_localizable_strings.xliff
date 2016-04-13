@@ -687,6 +687,10 @@
 			<source>Tomorrow</source>
 			<target>明天</target>
 		</trans-unit>
+        <trans-unit id="tap_to_set_location">
+			<source>Tap to set location</source>
+			<target>點擊來選取地點</target>
+		</trans-unit>
 		<trans-unit id="today">
 			<source>Today</source>
 			<target>今天</target>

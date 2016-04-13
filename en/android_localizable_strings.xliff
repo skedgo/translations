@@ -674,6 +674,10 @@
 			<source>Tomorrow</source>
 			<target>Tomorrow</target>
 		</trans-unit>
+		<trans-unit id="tap_to_set_location">
+			<source>Tap to set location</source>
+			<target>Tap to set location</target>
+		</trans-unit>
 		<trans-unit id="today">
 			<source>Today</source>
 			<target>Today</target>

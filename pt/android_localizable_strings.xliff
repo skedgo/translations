@@ -698,6 +698,10 @@
 			<source>Tomorrow</source>
 			<target>Amanhã</target>
 		</trans-unit>
+        <trans-unit id="tap_to_set_location">
+			<source>Tap to set location</source>
+			<target>Toque para definir a localização</target>
+		</trans-unit>
 		<trans-unit id="walkthrough_3">
 			<source>For those without an agenda, save favorite places.</source>
 			<target>Para aqueles que não possuem agenda, salve lugares favoritos.</target>
