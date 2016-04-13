@@ -452,6 +452,9 @@
 /* More button accessibility label */
 "More" = "Plus";
 
+/* Header for list of how to get more information (e.g., by opening a website) */
+"More Information" = "More Information"; // TODO
+
 /* No comment provided by engineer. */
 "More Options" = "Plus d'options";
 

@@ -1,0 +1,866 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<file datatype="plaintext" original="input strategy" source-language="en" target-language="fr">
+	<body>
+		<trans-unit id="add">
+			<source>Add</source>
+			<target>Ajouter</target>
+		</trans-unit>
+		<trans-unit id="add_a_routine">
+			<source>Add a routine</source>
+			<target>Ajouter une routine</target>
+		</trans-unit>
+		<trans-unit id="add_an_event">
+			<source>Add an event</source>
+			<target>Ajouter un évenement</target>
+		</trans-unit>
+		<trans-unit id="add_location">
+			<source>Add Location</source>
+			<target>Ajouter une position</target>
+		</trans-unit>
+		<trans-unit id="add_new_location">
+			<source>Add new location</source>
+			<target>Ajouter une nouvelle position</target>
+		</trans-unit>
+		<trans-unit id="add_to_contacts">
+			<source>Add to contacts</source>
+			<target>Ajouter aux contacts</target>
+		</trans-unit>
+		<trans-unit id="add_to_home_screen">
+			<source>Add to Home screen</source>
+			<target>Ajouter à la page d'accueil</target>
+		</trans-unit>
+		<trans-unit id="address">
+			<source>Address</source>
+			<target>Adresse</target>
+		</trans-unit>
+		<trans-unit id="agenda_set_or_delete">
+			<source>Tap here to set address or long-press to delete</source>
+			<target>Appuyer ici pour définir l'adresse or rester appuyer pour supprimer</target>
+		</trans-unit>
+		<trans-unit id="agenda_tip">
+			<source>View your daily agenda and favourites in the tabs below</source>
+			<target>Voir votre agenda quotidien et favoris dans l'onglet ci-dessous</target>
+		</trans-unit>
+		<trans-unit id="agree">
+			<source>Agree</source>
+			<target>Accepter</target>
+		</trans-unit>
+		<trans-unit id="all_alerts">
+			<source>All Alerts</source>
+			<target>Toutes les alertes</target>
+		</trans-unit>
+		<trans-unit id="all_cals_invisible">
+			<source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+			<target>Tout vos calendriers sont invisibles, veuillez les activer sur l'application de calendrier ou depuis les paramètres</target>
+		</trans-unit>
+		<trans-unit id="an_unexpected_network_error">
+			<source>An unexpected network error has occurred. Please retry.</source>
+			<target>Une erreur inattendue est survenu. Veuillez réessayer.</target>
+		</trans-unit>
+		<trans-unit id="approximately_s_away">
+			<source>Approximately %s away</source>
+			<target>Environ à %s</target>
+		</trans-unit>
+		<trans-unit id="arrivaltimeindication">
+			<source>" (arrive "</source>
+			<target>" (arrive "</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="body_exclude_this_event_from_route">
+			<source>This event will no longer have trips to or from it. The event will still be shown</source>
+			<target>Cet évenement ne comportera plus de trajets. Il restera affiché.</target>
+		</trans-unit>
+		<trans-unit id="body_exclude_related_event_from_route">
+			<source>The event related to the trip will be excluded. It will still be shown</source>
+			<target>L'évenement lié au trajet va être exclu. Il restera affiché.</target>
+		</trans-unit>
+		<trans-unit id="cancel">
+			<source>Cancel</source>
+			<target>Cancel</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="booking">
+			<source>Booking</source>
+			<target>Réservations</target>
+		</trans-unit>
+		<trans-unit id="cannot_find_that_location">
+			<source>Address not found</source>
+			<target>Adresse introuvable.</target>
+		</trans-unit>
+		<trans-unit id="cannot_add_reminder_for_past_trip">
+			<source>Cannot add reminder for past trip</source>
+			<target>Impossible d'ajouter un rappel pour un voyage déjà effectué</target>
+		</trans-unit>
+		<trans-unit id="cant_call_error">
+			<source>Error placing call</source>
+			<target>Erreur durant l'appel.</target>
+		</trans-unit>
+		<trans-unit id="cannot_remove_shortcut">
+			<source>Cannot remove shortcut</source>
+			<target>Impossible d'enlever le raccourci.</target>
+		</trans-unit>
+		<trans-unit id="coordinates_s">
+			<source>Coordinates: %s</source>
+			<target>Coordonnées : %s</target>
+		</trans-unit>
+		<trans-unit id="choose_an_alternative">
+			<source>Choose an Alternative</source>
+			<target>Choisir une alternative.</target>
+		</trans-unit>
+		<trans-unit id="del_all_events">
+			<source>All events</source>
+			<target>Tout les évenements</target>
+		</trans-unit>
+		<trans-unit id="couldnt_find_curr_loc">
+			<source>Couldn't find your current location</source>
+			<target>Impossible de trouver votre position.</target>
+		</trans-unit>
+		<trans-unit id="del_this_and_future_events">
+			<source>This and future events</source>
+			<target>Cet évenements et les suivants</target>
+		</trans-unit>
+		<trans-unit id="del_only_this_event">
+			<source>Only this event</source>
+			<target>Seulement cet évenement</target>
+		</trans-unit>
+		<trans-unit id="delete_event">
+			<source>Delete this event</source>
+			<target>Supprimer cet évenement</target>
+		</trans-unit>
+		<trans-unit id="delete">
+			<source>Delete</source>
+			<target>Delete</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="destination">
+			<source>destination</source>
+			<target>destination</target>
+		</trans-unit>
+		<trans-unit id="did_you_mean">
+			<source>Did you mean</source>
+			<target>Voulez-vous dire</target>
+		</trans-unit>
+		<trans-unit id="delete_vehicle">
+			<source>Delete this vehicle</source>
+			<target>Supprimer ce véhicule</target>
+		</trans-unit>
+		<trans-unit id="departuretimeindication">
+			<source>" (depart "</source>
+			<target>" (depart "</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="edit">
+			<source>Edit</source>
+			<target>Editer</target>
+		</trans-unit>
+		<trans-unit id="edit_event">
+			<source>Edit event</source>
+			<target>Editer l'évenement</target>
+		</trans-unit>
+		<trans-unit id="done">
+			<source>Done</source>
+			<target>Done</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="dropnewpin">
+			<source>Drop new pin</source>
+			<target>Drop new pin</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="enable_calendar_in_tripgo_settings">
+			<source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
+			<target>Tout vos calendriers sont désactivés dans TripGo, veuillez les activer dans la section Paramètres</target>
+		</trans-unit>
+		<trans-unit id="eula_has_changed">
+			<source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+			<target>Nos Conditions Générales d'Utilisation ont changées. Vous devez les accepter afin de poursuivre l'utilisation du logiciel</target>
+		</trans-unit>
+		<trans-unit id="edit_favourite">
+			<source>Edit favorite</source>
+			<target>Editer le favori</target>
+		</trans-unit>
+		<trans-unit id="empty_event_not_saved">
+			<source>Empty event is not saved</source>
+			<target>Un évenement vide n'est pas sauvegardé</target>
+		</trans-unit>
+		<trans-unit id="event_must_have_location">
+			<source>A location must be set</source>
+			<target>Une position doit être spécifiée</target>
+		</trans-unit>
+		<trans-unit id="event_must_have_title">
+			<source>Event must have a title</source>
+			<target>Un évenement doit avoir un titre</target>
+		</trans-unit>
+		<trans-unit id="event_detail_title">
+			<source>Event details</source>
+			<target>Détails de l'évenement</target>
+		</trans-unit>
+		<trans-unit id="event_excluded">
+			<source>Event excluded</source>
+			<target>Evénement exclu</target>
+		</trans-unit>
+		<trans-unit id="exclude_from_routing_brief">
+			<source>Exclude from agenda planning</source>
+			<target>Exclure depuis le planning</target>
+		</trans-unit>
+		<trans-unit id="exclude_from_routing">
+			<source>Exclude this event from agenda planning</source>
+			<target>Exclure l'évenement du planning</target>
+		</trans-unit>
+		<trans-unit id="exclude_event">
+			<source>Exclude event</source>
+			<target>Exclure un évenement</target>
+		</trans-unit>
+		<trans-unit id="event_update_warning">
+			<source>Event updated, it may take a while to see the change</source>
+			<target>Evenement actualisé, les changements seront appliqués dans un instant</target>
+		</trans-unit>
+		<trans-unit id="favourite_saved">
+			<source>Favorite saved</source>
+			<target>Favori sauvegardé</target>
+		</trans-unit>
+		<trans-unit id="favourite_location">
+			<source>Favorite Location</source>
+			<target>Endroit favori</target>
+		</trans-unit>
+		<trans-unit id="failed_2_resolve_location">
+			<source>Failed to resolve location</source>
+			<target>Impossible de trouver l'endroit</target>
+		</trans-unit>
+		<trans-unit id="failed_2_resolve_link">
+			<source>Failed to resolve link</source>
+			<target>Impossible de suivre le lien</target>
+		</trans-unit>
+		<trans-unit id="get_off">
+			<source>Get Off</source>
+			<target>Descendre</target>
+		</trans-unit>
+		<trans-unit id="get_google_play_services">
+			<source>Get Google Play Services</source>
+			<target>Installer Google Play Services</target>
+		</trans-unit>
+		<trans-unit id="first">
+			<source>First: </source>
+			<target>Premièrement: </target>
+			<note> TODO: Example: "First: walk 2km" </note>
+		</trans-unit>
+		<trans-unit id="filter_timetable_hint">
+			<source>Filter by service name, number or stop</source>
+			<target>Filtrer par type/numéro de transport, ou par arrêt</target>
+		</trans-unit>
+		<trans-unit id="go_to_date">
+			<source>Go to date</source>
+			<target>Go to date</target>
+			<note> TODO: this is the option in calendar to select a date to go </note>
+		</trans-unit>
+		<trans-unit id="go_here">
+			<source>Go Here</source>
+			<target>Allez ici</target>
+		</trans-unit>
+		<trans-unit id="get_uber">
+			<source>Get Uber</source>
+			<target>Get Uber</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="get_on">
+			<source>Get On</source>
+			<target>Monter</target>
+		</trans-unit>
+		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
+			<source></source>
+			<target>Information on concession pricing is subject to availability.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="invalid_transfer_time">
+			<source>Invalid time, revert to last used value.</source>
+			<target>Invalid time, revert to last used value.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="its_time_to_leave">
+			<source>It's time to leave!</source>
+			<target>It's time to leave!</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="leave_now_to_make_on_time">
+			<source>Leave now to make it on time</source>
+			<target>Leave now to make it on time</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="go_to_now">
+			<source>Go to Now</source>
+			<target>Aller maintenant</target>
+		</trans-unit>
+		<trans-unit id="go_to_today">
+			<source>Go to today</source>
+			<target>Aller aujourd'hui</target>
+		</trans-unit>
+		<trans-unit id="include_cal_act">
+			<source>Include checked calendars</source>
+			<target>Inclure les calendriers selectionnés</target>
+			<note> TODO: this is  checked like in a todo list </note>
+		</trans-unit>
+		<trans-unit id="include_cal_explanation">
+			<source>Events from those calendars will be used in planning your day</source>
+			<target>Events from those calendars will be used in planning your day</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="location_selected">
+			<source>Location selected</source>
+			<target>Location selected</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="minute">
+			<source>1 minute</source>
+			<target>1 minute</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="navigate_current_location">
+			<source>Navigate from current location</source>
+			<target>Navigate from current location</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="navigate_from">
+			<source>Navigate from %1$s</source>
+			<target>Navigate from %1$s</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="lets_start">
+			<source>Let's start</source>
+			<target>Let's start</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="location_name">
+			<source>Location Name</source>
+			<target>Location Name</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="location_not_found">
+			<source>Location Not Found</source>
+			<target>Location Not Found</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="location_save_by_gps">
+			<source>"Cannot find address, location will be saved by GPS coordinates"</source>
+			<target>"Cannot find address, location will be saved by GPS coordinates"</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="no_ratings_received">
+			<source>No ratings received</source>
+			<target>No ratings received</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="no_google_play_services_title">
+			<source>No Google Play Services!</source>
+			<target>No Google Play Services!</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="no_services_available">
+			<source>No services available</source>
+			<target>No services available</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="no_results_found">
+			<source>No Results Found</source>
+			<target>Aucun résultat trouvé</target>
+		</trans-unit>
+		<trans-unit id="nicely_informed_error">
+			<source>There was an error and it was reported to us. Please try again</source>
+			<target>There was an error and it was reported to us. Please try again</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="new_vehicle">
+			<source>New vehicle</source>
+			<target>New vehicle</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="no_google_play_services_message">
+			<source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
+			<target>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="no_favourites_saved">
+			<source>No favorite locations saved</source>
+			<target>No favorite locations saved</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="priority_budget_subtext">
+			<source>Trip cost</source>
+			<target>Trip cost</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="page_between_upcoming_services">
+			<source>Page between upcoming services</source>
+			<target>Page between upcoming services</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="priority_environment_subtext">
+			<source>Impact of the trip</source>
+			<target>Impact of the trip</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="priority_convenience_subtext">
+			<source>Hassle of the trip</source>
+			<target>Hassle of the trip</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="open_uber">
+			<source>Open Uber</source>
+			<target>Open Uber</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="one_time_event">
+			<source>Don't repeat</source>
+			<target>Don't repeat</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="outside_region_error">
+			<source>Sorry, that location is outside of TripGo's range!</source>
+			<target>Sorry, that location is outside of TripGo's range!</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="origin">
+			<source>origin</source>
+			<target>origin</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="remove_shortcut">
+			<source>Remove shortcut</source>
+			<target>Remove shortcut</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="repeat_end_date_in_past">
+			<source>Repetition end date is in the past</source>
+			<target>Repetition end date is in the past</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="refresh">
+			<source>Refresh</source>
+			<target>Rafraichir</target>
+		</trans-unit>
+		<trans-unit id="remove_from_favourites">
+			<source>Remove from favorites</source>
+			<target>Remove from favorites</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="rate">
+			<source>Rate</source>
+			<target>Évaluer</target>
+		</trans-unit>
+		<trans-unit id="realtime">
+			<source>Real-time</source>
+			<target>Temps-réel</target>
+		</trans-unit>
+		<trans-unit id="priority_time_subtext">
+			<source>Trip duration</source>
+			<target>Trip duration</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="public_transport">
+			<source>Public Transport</source>
+			<target>Public Transport</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="select_calendars">
+			<source>Select calendars</source>
+			<target>Select calendars</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="service_placeholder">
+			<source>Service</source>
+			<target>Service</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="save">
+			<source>Save</source>
+			<target>Save</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="search_instantly">
+			<source>Search instantly</source>
+			<target>Search instantly</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="routine_explanation">
+			<source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+			<target>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="routes_updated">
+			<source>Routes updated</source>
+			<target>Routes updated</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="repeat_ends_on">
+			<source>Repeat does end on</source>
+			<target>Repeat does end on</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="review_eula">
+			<source>Review EULA</source>
+			<target>Review EULA</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_category_searching">
+			<source>Searching</source>
+			<target>Searching</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_category_results">
+			<source>Trip Results</source>
+			<target>Trip Results</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_category_reminders">
+			<source>Notifications</source>
+			<target>Notifications</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_category_about">
+			<source>About</source>
+			<target>About</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="set_time">
+			<source>Set time</source>
+			<target>Set time</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="set_start_time">
+			<source>Set start time</source>
+			<target>Set start time</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="set_location">
+			<source>Set Location</source>
+			<target>Set Location</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="set_end_time">
+			<source>Set end time</source>
+			<target>Set end time</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_reminder_start_off_trip">
+			<source>Show an alert to leave at the start of a trip</source>
+			<target>Show an alert to leave at the start of a trip</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_reminder_start_pub_trans">
+			<source>Show an alert before any public transport on your trip</source>
+			<target>Show an alert before any public transport on your trip</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_reminder_service_alerts">
+			<source>Show service alerts which affect your upcoming trips</source>
+			<target>Show service alerts which affect your upcoming trips</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_reminder_end_pub_trans">
+			<source>Show an alert towards the end of any public transport on your trip</source>
+			<target>Show an alert towards the end of any public transport on your trip</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_rate">
+			<source>Rate the app in the store!</source>
+			<target>Rate the app in the store!</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_gps_submit">
+			<source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
+			<target>Allow TripGo to anonymously track your location when you use it (NOT in the background)</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_distance_units">
+			<source>Distance units to use in trip results</source>
+			<target>Distance units to use in trip results</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_category_usage">
+			<source>Anonymous Data Tracking</source>
+			<target>Anonymous Data Tracking</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_service_alerts">
+			<source>Service alerts</source>
+			<target>Service alerts</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_end_pub_trans">
+			<source>End of public transport</source>
+			<target>End of public transport</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_start_pub_trans">
+			<source>Start of public transport</source>
+			<target>Start of public transport</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_reminder_start_off_trip">
+			<source>Start of trip</source>
+			<target>Start of trip</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_searching_contacts">
+			<source>Search contact addresses</source>
+			<target>Search contact addresses</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_searching_calendar">
+			<source>Search calendar events</source>
+			<target>Search calendar events</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_track_usage">
+			<source>Track App Usage</source>
+			<target>Track App Usage</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_server">
+			<source>Server</source>
+			<target>Server</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_searching_contacts">
+			<source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
+			<target>Use your contact addresses as location suggestions. This information is not stored on any server</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_searching_calendar">
+			<source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
+			<target>Use your upcoming calendar events as location suggestions. This information is not stored on any server</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_track_usage">
+			<source>Allow TripGo to anonymously track your app usage</source>
+			<target>Allow TripGo to anonymously track your app usage</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_server">
+			<source>Server to use. Note this will override *ALL* server calls!</source>
+			<target>Server to use. Note this will override *ALL* server calls!</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_contact">
+			<source>Contact Support</source>
+			<target>Contact Support</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_summary_trip_preferences">
+			<source>Influence trip results by setting what's most important to you</source>
+			<target>Influence trip results by setting what's most important to you</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_gps_submit">
+			<source>Track Location</source>
+			<target>Track Location</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_cycling_speed">
+			<source>Cycling speed</source>
+			<target>Cycling speed</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="sorted_by_duration">
+			<source>Sorted by Duration</source>
+			<target>Sorted by Duration</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="sorted_by_price">
+			<source>Sorted by Price</source>
+			<target>Sorted by Price</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="sorted_by_preferred">
+			<source>Sorted by Preferred</source>
+			<target>Sorted by Preferred</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="one_more_thing">
+			<source>One more thing…</source>
+			<target>One more thing…</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="taxi">
+			<source>Taxi</source>
+			<target>Taxi</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="terms_and_conditions">
+			<source>Terms and Conditions</source>
+			<target>Terms and Conditions</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="this_loc">
+			<source>this location</source>
+			<target>this location</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="time_to_leave_for">
+			<source>Time to leave for %s</source>
+			<target>Time to leave for %s</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="settings_title_version">
+			<source>Version</source>
+			<target>Version</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="share_this_result">
+			<source>Share this result</source>
+			<target>Share this result</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="share_timetable">
+			<source>Share timetable info</source>
+			<target>Share timetable info</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="show_agenda_list">
+			<source>Show agenda list</source>
+			<target>Show agenda list</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="show_agenda_map">
+			<source>Show agenda map</source>
+			<target>Show agenda map</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="sort_by">
+			<source>Sort By</source>
+			<target>Sort By</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="sorted_by_arrival">
+			<source>Sorted by Arrival</source>
+			<target>Sorted by Arrival</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="sorted_by_departure">
+			<source>Sorted by Departure</source>
+			<target>Sorted by Departure</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="vehicle_modes">
+			<source>Vehicle Modes</source>
+			<target>Vehicle Modes</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="upcoming_services">
+			<source>Upcoming Services</source>
+			<target>Upcoming Services</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="unknown_location">
+			<source>Unknown location</source>
+			<target>Unknown location</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="trip_to_unknown_dest_about_to_start">
+			<source>It looks like you have a trip to make</source>
+			<target>It looks like you have a trip to make</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="waiting_for_gps_fix">
+			<source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+			<target>Waiting for location signal, if fails, you can try turning your GPS off and on..</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="view_timetable_subtitle">
+			<source>Upcoming services</source>
+			<target>Upcoming services</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="view_timetable_for_stop">
+			<source>View timetable of upcoming services</source>
+			<target>View timetable of upcoming services</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="view_on_yelp">
+			<source>View on Yelp</source>
+			<target>View on Yelp</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="today">
+			<source>Today</source>
+			<target>Aujourd'hui</target>
+		</trans-unit>
+		<trans-unit id="title_exclude_event_from_route">
+			<source>Exclude event from routes?</source>
+			<target>Exclude event from routes?</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="timetable_no_data">
+			<source>No services found for this stop</source>
+			<target>No services found for this stop</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="timetable_download_error">
+			<source>Error downloading services</source>
+			<target>Error downloading services</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="trip_to">
+			<source>Trip to </source>
+			<target>Trip to </target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="trip_preferences">
+			<source>Trip Preferences</source>
+			<target>Trip Preferences</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="transport_selector_header">
+			<source>Include in the route results</source>
+			<target>Include in the route results</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="tomorrow">
+			<source>Tomorrow</source>
+			<target>Demain</target>
+		</trans-unit>
+		<trans-unit id="walkthrough_3">
+			<source>For those without an agenda, save favorite places.</source>
+			<target>For those without an agenda, save favorite places.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="walkthrough_4">
+			<source>Search routes directly right from Google search bar without opening TripGo.</source>
+			<target>Search routes directly right from Google search bar without opening TripGo.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="walkthrough_1">
+			<source>TripGo helps you finding the best way from A to B using any transport mode.</source>
+			<target>TripGo helps you finding the best way from A to B using any transport mode.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="walkthrough_2">
+			<source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
+			<target>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="you_r_already_at_s">
+			<source>You are already at %s!</source>
+			<target>You are already at %s!</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="your_trip_is_about_to_start">
+			<source>Your trip is about to start</source>
+			<target>Your trip is about to start</target>
+			<note> TODO </note>
+		</trans-unit>
+		<trans-unit id="yesterday">
+			<source>Yesterday</source>
+			<target>Hier</target>
+		</trans-unit>
+		<trans-unit id="you_are_here">
+			<source>You are here</source>
+			<target>You are here</target>
+			<note> TODO </note>
+		</trans-unit>
+	</body>
+
+</file>
+
+</xliff>
+<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->
