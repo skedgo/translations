@@ -287,7 +287,7 @@
 			<target>Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
 		</trans-unit>
 		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source></source>
+			<source>Information on concession pricing is subject to availability.</source>
 			<target>Informationen über Ermässigungen nach Verfügbarkeit.</target>
 		</trans-unit>
 		<trans-unit id="minute">
@@ -401,10 +401,6 @@
 		<trans-unit id="remove_shortcut">
 			<source>Remove shortcut</source>
 			<target>Verknüpfung löschen</target>
-		</trans-unit>
-		<trans-unit id="realtime">
-			<source>Real-time</source>
-			<target>Echtzeit</target>
 		</trans-unit>
 		<trans-unit id="refresh">
 			<source>Refresh</source>

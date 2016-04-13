@@ -255,7 +255,7 @@
 			<target>Subir</target>
 		</trans-unit>
 		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source></source>
+			<source>Information on concession pricing is subject to availability.</source>
 			<target>La información relacionada a precios bonificados está sujeta a disponibilidad.</target>
 		</trans-unit>
 		<trans-unit id="invalid_transfer_time">
@@ -401,10 +401,6 @@
 		<trans-unit id="rate">
 			<source>Rate</source>
 			<target>Tarifa</target>
-		</trans-unit>
-		<trans-unit id="realtime">
-			<source>Real-time</source>
-			<target>Tiempo Real</target>
 		</trans-unit>
 		<trans-unit id="priority_time_subtext">
 			<source>Trip duration</source>

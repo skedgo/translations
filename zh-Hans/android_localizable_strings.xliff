@@ -288,7 +288,7 @@
 			<target>从日历里获取的这些事件将被用于规划你的行程</target>
 		</trans-unit>
 		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source></source>
+			<source>Information on concession pricing is subject to availability.</source>
 			<target>取得优惠票价的信息是视情况而定的。</target>
 		</trans-unit>
 		<trans-unit id="minute">
@@ -403,10 +403,6 @@
 		<trans-unit id="remove_shortcut">
 			<source>Remove shortcut</source>
 			<target>移除捷径</target>
-		</trans-unit>
-		<trans-unit id="realtime">
-			<source>Real-time</source>
-			<target>实时</target>
 		</trans-unit>
 		<trans-unit id="refresh">
 			<source>Refresh</source>
