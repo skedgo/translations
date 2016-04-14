@@ -2064,7 +2064,7 @@
       </trans-unit>
       <trans-unit id="CouponCodeIngogoFormat">
         <source>CouponCodeIngogoFormat</source>
-        <target xml:lang="es" state="translated">CouponCodeIngogoFormat</target>
+        <target xml:lang="es" state="translated">Ingrese el código de cupón '%@' cuando se registre para obtener sus $5 de crédito gratis (solo válido para nuevas registraciones)</target>
         <note>Description for how to redeem the coupon code for ingogo. %couponCode is provided.</note>
       </trans-unit>
       <trans-unit id="Departure">

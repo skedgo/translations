@@ -1082,7 +1082,7 @@
       </trans-unit>
       <trans-unit id="Minutes">
         <source>Minutes</source>
-        <target>%.minutos</target>
+        <target>%.0f minutos</target>
         <note>Minutes format (used for transfer times)</note>
       </trans-unit>
       <trans-unit id="Minutes before trip">
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="MinutesBefore">
         <source>MinutesBefore</source>
-        <target>%.minutos antes</target>
+        <target>%.0f minutos antes</target>
         <note>Number of minutes before departure</note>
       </trans-unit>
       <trans-unit id="More">
@@ -1634,7 +1634,7 @@
       </trans-unit>
       <trans-unit id="SrcToDstFormat">
         <source>SrcToDstFormat</source>
-        <target>De (%@) to para (%@)</target>
+        <target>De %@ (%@) to para %@ (%@)</target>
         <note>Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4)</note>
       </trans-unit>
       <trans-unit id="Stay">
