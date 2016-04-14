@@ -702,8 +702,8 @@
 			<target>您似乎有个行程即将开始</target>
 		</trans-unit>
 		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>行程前往 </target>
+			<source>Trip to %s</source>
+			<target>行程前往 %s</target>
 		</trans-unit>
 		<trans-unit id="trip_preferences">
 			<source>Trip Preferences</source>

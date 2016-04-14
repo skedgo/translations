@@ -691,8 +691,8 @@
 			<target>It looks like you have a trip to make</target>
 		</trans-unit>
 		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>Trip to </target>
+			<source>Trip to %s</source>
+			<target>Trip to %s</target>
 		</trans-unit>
 		<trans-unit id="trip_preferences">
 			<source>Trip Preferences</source>

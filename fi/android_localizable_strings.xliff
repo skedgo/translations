@@ -679,8 +679,8 @@
 			<target>Yhteyksien lataamisessa havaittiin virhe</target>
 		</trans-unit>
 		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>Matka kohteeseen</target>
+			<source>Trip to %s</source>
+			<target>Matka kohteeseen %s</target>
 		</trans-unit>
 		<trans-unit id="trip_preferences">
 			<source>Trip Preferences</source>

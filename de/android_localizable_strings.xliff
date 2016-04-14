@@ -699,8 +699,8 @@
 			<target>Sieht aus als wenn ein Trip ansteht</target>
 		</trans-unit>
 		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>Trip nach </target>
+			<source>Trip to %s</source>
+			<target>Trip nach %s</target>
 		</trans-unit>
 		<trans-unit id="trip_preferences">
 			<source>Trip Preferences</source>

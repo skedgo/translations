@@ -679,8 +679,8 @@
 			<target>Erro em baixar serviços</target>
 		</trans-unit>
 		<trans-unit id="trip_to">
-			<source>Trip to </source>
-			<target>Trajeto para </target>
+			<source>Trip to %s</source>
+			<target>Trajeto para %s</target>
 		</trans-unit>
 		<trans-unit id="trip_preferences">
 			<source>Trip Preferences</source>
