@@ -726,6 +726,10 @@
 			<source>Your trip is about to start</source>
 			<target>Dein Trip beginnt gleich</target>
 		</trans-unit>
+		<trans-unit id="walkthrough_4">
+        	<source>Search routes directly right from Google search bar without opening TripGo.</source>
+            <target></target>
+        </trans-unit>
 	</body>
 
 </file>

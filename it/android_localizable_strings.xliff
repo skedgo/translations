@@ -56,7 +56,7 @@
 		</trans-unit>
 		<trans-unit id="approximately_s_away">
 			<source>Approximately %s away</source>
-			<target>Circa % s di distanza</target>
+			<target>Circa %s di distanza</target>
 		</trans-unit>
 		<trans-unit id="arrivaltimeindication">
 			<source>" (arrive "</source>

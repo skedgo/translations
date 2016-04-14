@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="%@ every %@">
         <source>%1$@ every %2$@</source>
-        <target>%@ 每 $@</target>
+        <target>%1$@ 每 %2$@</target>
         <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
       </trans-unit>
       <trans-unit id="%@ to %@">
