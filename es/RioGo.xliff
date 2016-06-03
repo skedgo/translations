@@ -61,12 +61,12 @@
       <trans-unit id="h7L-dg-hHA.text">
         <source>Tap the + button on the top right to add some more events</source>
         <note>Class = "UILabel"; text = "Tap the + button on the top right to add some more events"; ObjectID = "h7L-dg-hHA";</note>
-        <target xml:lang="es" state="needs-translation">Tap the + button on the top right to add some more events</target>
+        <target xml:lang="es" state="translated">Toque el botón + en la parte superior derecha para añadir algunos eventos más</target>
       </trans-unit>
       <trans-unit id="n8g-wi-lV1.text">
         <source>Great! Let's start planning your first event</source>
         <note>Class = "UILabel"; text = "Great! Let's start planning your first event"; ObjectID = "n8g-wi-lV1";</note>
-        <target xml:lang="es" state="needs-translation">Great! Let's start planning your first event</target>
+        <target xml:lang="es" state="translated">¡Excelente! Empecemos a planificar tu primer evento</target>
       </trans-unit>
     </body>
   </file>
@@ -128,7 +128,7 @@
       <trans-unit id="Calculating...">
         <source>Calculating...</source>
         <note>Placeholder text while calculating trips</note>
-        <target xml:lang="es" state="needs-translation">Calculating...</target>
+        <target xml:lang="es" state="translated">Calculando...</target>
       </trans-unit>
       <trans-unit id="Check in">
         <source>Check in</source>
@@ -148,7 +148,7 @@
       <trans-unit id="Date">
         <source>Date</source>
         <note>Title for a date (on which to visit an attraction)</note>
-        <target xml:lang="es" state="needs-translation">Date</target>
+        <target xml:lang="es" state="translated">Fecha</target>
       </trans-unit>
       <trans-unit id="Discover Rio and the Olympics">
         <source>Discover Rio and the Olympics</source>
@@ -163,7 +163,7 @@
       <trans-unit id="End time">
         <source>End time</source>
         <note>Title for a end time (on which to visit an attraction)</note>
-        <target xml:lang="es" state="needs-translation">End time</target>
+        <target xml:lang="es" state="translated">Hora de finalización</target>
       </trans-unit>
       <trans-unit id="Evening">
         <source>Evening</source>
@@ -276,7 +276,7 @@
       <trans-unit id="Start time">
         <source>Start time</source>
         <note>Title for a start time (on which to visit an attraction)</note>
-        <target xml:lang="es" state="needs-translation">Start time</target>
+        <target xml:lang="es" state="translated">Hora de inicio</target>
       </trans-unit>
       <trans-unit id="TripGo is recommended for optimal experience. You can install it from App Store.">
         <source>TripGo is recommended for optimal experience. You can install it from App Store.</source>

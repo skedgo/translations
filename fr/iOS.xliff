@@ -2,7 +2,7 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -13,7 +13,7 @@
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="00e-CH-gOu.title">
@@ -85,7 +85,7 @@
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -96,7 +96,7 @@
   </file>
   <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -105,182 +105,15 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripGo WatchKit Extension/Shared.strings" source-language="en" target-language="fr">
-    <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
-    </header>
-    <body>
-      <trans-unit id="Bicycle">
-        <source>Bicycle</source>
-        <note>Type of vehicle : bicycle</note>
-        <target xml:lang="fr" state="translated">Vélo</target>
-      </trans-unit>
-      <trans-unit id="Car">
-        <source>Car</source>
-        <note>Type of vehicle : car</note>
-        <target xml:lang="fr" state="translated">Voiture</target>
-      </trans-unit>
-      <trans-unit id="Checkmark">
-        <source>Checkmark</source>
-        <note>Accessibility title for a checkmark/tick button</note>
-        <target xml:lang="fr" state="translated">Coche</target>
-      </trans-unit>
-      <trans-unit id="Could not determine your current location.">
-        <source>Could not determine your current location.</source>
-        <note>Error title when GPS failed.</note>
-        <target xml:lang="fr" state="translated">Impossible de déterminer votre position.</target>
-      </trans-unit>
-      <trans-unit id="CouldNotDownloadSupportedRegions">
-        <source>CouldNotDownloadSupportedRegions</source>
-        <note>Could not download supported regions warning</note>
-        <target xml:lang="fr" state="translated">Échec du téléchargement des régions supportées depuis le serveur de TripGo. Veuillez réessayer plus tard.</target>
-      </trans-unit>
-      <trans-unit id="Current Location">
-        <source>Current Location</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="fr" state="translated">Lieu Actuel</target>
-      </trans-unit>
-      <trans-unit id="DateToFormat">
-        <source>DateToFormat</source>
-        <note>to %date</note>
-        <target xml:lang="fr" state="translated">jusqu'au %@</target>
-      </trans-unit>
-      <trans-unit id="EveryDayFormat">
-        <source>EveryDayFormat</source>
-        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
-        <target xml:lang="fr" state="translated">Chaque %@</target>
-      </trans-unit>
-      <trans-unit id="Everyday">
-        <source>Everyday</source>
-        <note>Everyday in context of repetitions (especially recurring events)</note>
-        <target xml:lang="fr" state="translated">Tous les jours</target>
-      </trans-unit>
-      <trans-unit id="Free">
-        <source>Free</source>
-        <note>Free as in beer</note>
-        <target xml:lang="fr" state="translated">Gratuit</target>
-      </trans-unit>
-      <trans-unit id="Getting a lift">
-        <source>Getting a lift</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="fr" state="translated">Vous faire conduire</target>
-      </trans-unit>
-      <trans-unit id="Include events">
-        <source>Include events</source>
-        <note>Include events.</note>
-        <target xml:lang="fr" state="translated">Inclure les évènements</target>
-      </trans-unit>
-      <trans-unit id="Location">
-        <source>Location</source>
-        <note>Location name</note>
-        <target xml:lang="fr" state="translated">Position</target>
-      </trans-unit>
-      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
-        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
-        <note>Location iOS6+ authorisation needed text</note>
-        <target xml:lang="fr" state="translated">La géolocalisation est requise pour utiliser cette fonctionnalité. Veuillez vérifier que ce service est activé dans Réglages &gt; Confidentialité &gt; Localisation et autorisez cette application.</target>
-      </trans-unit>
-      <trans-unit id="Motorbike">
-        <source>Motorbike</source>
-        <note>Type of vehicle : motorbike</note>
-        <target xml:lang="fr" state="translated">Moto</target>
-      </trans-unit>
-      <trans-unit id="Never">
-        <source>Never</source>
-        <note>Never in context of repetitions (especially recurring events)</note>
-        <target xml:lang="fr" state="translated">Jamais</target>
-      </trans-unit>
-      <trans-unit id="No CO₂">
-        <source>No CO₂</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="fr" state="translated">Pas de CO₂</target>
-      </trans-unit>
-      <trans-unit id="NumberReccurences">
-        <source>NumberReccurences</source>
-        <note>Number of repeats</note>
-        <target xml:lang="fr" state="translated">%lu répétitions.</target>
-      </trans-unit>
-      <trans-unit id="Please try again or set your location manually.">
-        <source>Please try again or set your location manually.</source>
-        <note>Error recovery suggestion when GPS fails.</note>
-        <target xml:lang="fr" state="translated">Veuillez réessayer ou régler votre position manuellement.</target>
-      </trans-unit>
-      <trans-unit id="Real-time">
-        <source>Real-time</source>
-        <note>Indicator for real-time information</note>
-        <target xml:lang="fr" state="translated">Temps-réel</target>
-      </trans-unit>
-      <trans-unit id="Repeats daily">
-        <source>Repeats daily</source>
-        <note>Repeats daily</note>
-        <target xml:lang="fr" state="translated">Répétition quotidienne</target>
-      </trans-unit>
-      <trans-unit id="Repeats monthly">
-        <source>Repeats monthly</source>
-        <note>Repeats monthly</note>
-        <target xml:lang="fr" state="translated">Répétition mensuelle</target>
-      </trans-unit>
-      <trans-unit id="Repeats weekly">
-        <source>Repeats weekly</source>
-        <note>Repeats weekly</note>
-        <target xml:lang="fr" state="translated">Répétition hebdomadaire</target>
-      </trans-unit>
-      <trans-unit id="Repeats yearly">
-        <source>Repeats yearly</source>
-        <note>Repeats yearly</note>
-        <target xml:lang="fr" state="translated">Répétition annuelle</target>
-      </trans-unit>
-      <trans-unit id="RequestErrorFormat">
-        <source>RequestErrorFormat</source>
-        <note>Error when location search for %input was not successful.</note>
-        <target xml:lang="fr" state="translated">'%@' Aucun résultat trouvé. Veuillez réessayer.</target>
-      </trans-unit>
-      <trans-unit id="SUV">
-        <source>SUV</source>
-        <note>Sports utility vehicle abbreviation</note>
-        <target xml:lang="fr" state="translated">4x4</target>
-      </trans-unit>
-      <trans-unit id="Weekdays">
-        <source>Weekdays</source>
-        <note>Every weekday in context of repetitions (especially recurring events)</note>
-        <target xml:lang="fr" state="translated">Chaque jour de la semaine</target>
-      </trans-unit>
-      <trans-unit id="Weekends">
-        <source>Weekends</source>
-        <note>Every weekend day in context of repetitions (especially recurring events)</note>
-        <target xml:lang="fr" state="translated">Chaque jour du week-end</target>
-      </trans-unit>
-      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
-        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
-        <note>Calendar authorisation needed text</note>
-        <target xml:lang="fr" state="translated">Vous avez préalablement refusé l'accès de cette application à votre calendrier. Veuillez autoriser l'accès dans Réglages &gt; Confidentialité &gt; Calendriers pour utiliser cette fonctionnalité.</target>
-      </trans-unit>
-      <trans-unit id="all-day">
-        <source>all-day</source>
-        <note>Indicator that an event is all-day</note>
-        <target xml:lang="fr" state="translated">toute la journée</target>
-      </trans-unit>
-      <trans-unit id="ends at %@">
-        <source>ends at %@</source>
-        <note>Short indicator of end-time</note>
-        <target xml:lang="fr" state="translated">se termine à %@</target>
-      </trans-unit>
-      <trans-unit id="starts at %@">
-        <source>starts at %@</source>
-        <note>Short indicator of start-time</note>
-        <target xml:lang="fr" state="translated">débute à %@</target>
-      </trans-unit>
-    </body>
-  </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
@@ -337,7 +170,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="30.accessibilityLabel">
@@ -374,9 +207,14 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
+      <trans-unit id="%@ Account">
+        <source>%@ Account</source>
+        <note>Title for linked third-party account, e.g., 'Uber Account'</note>
+        <target xml:lang="fr" state="needs-translation">%@ Account</target>
+      </trans-unit>
       <trans-unit id="%@ at %@">
         <source>%1$@ at %2$@</source>
         <note>Filler for a specific service running at a time, e.g., '396 at 11:56am'</note>
@@ -545,6 +383,11 @@
         <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
         <target xml:lang="fr" state="translated">A %@</target>
       </trans-unit>
+      <trans-unit id="Authentication cannot be completed at this time. Please try again later.">
+        <source>Authentication cannot be completed at this time. Please try again later.</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Authentication cannot be completed at this time. Please try again later.</target>
+      </trans-unit>
       <trans-unit id="Auto">
         <source>Auto</source>
         <note>Distance 'automatic'</note>
@@ -614,6 +457,11 @@
         <source>Concession Pricing</source>
         <note>School pricing preference</note>
         <target xml:lang="fr" state="translated">Réductions tarifaires</target>
+      </trans-unit>
+      <trans-unit id="Confirm">
+        <source>Confirm</source>
+        <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
+        <target xml:lang="fr" state="needs-translation">Confirm</target>
       </trans-unit>
       <trans-unit id="Convenience">
         <source>Convenience</source>
@@ -710,11 +558,6 @@
         <source>Don't have a fixed place of work or study? Skip this step.</source>
         <note>Walkthrough (skip in here should match translation for 'Skip'.</note>
         <target xml:lang="fr" state="translated">Vous n'avez pas de bureau ou d'école ? Passer cette étape.</target>
-      </trans-unit>
-      <trans-unit id="Downloading trip...">
-        <source>Downloading trip...</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="fr" state="needs-translation">Downloading trip...</target>
       </trans-unit>
       <trans-unit id="EditItemHereTitle">
         <source>EditItemHereTitle</source>
@@ -1023,6 +866,11 @@
         <note>Button title to switch view to list mode</note>
         <target xml:lang="fr" state="translated">Liste</target>
       </trans-unit>
+      <trans-unit id="Loading">
+        <source>Loading</source>
+        <note>Title on the button that indicates to the user that booking is in progressing</note>
+        <target xml:lang="fr" state="needs-translation">Loading</target>
+      </trans-unit>
       <trans-unit id="Loading...">
         <source>Loading...</source>
         <note>Title to show while loading/waiting for results</note>
@@ -1291,6 +1139,11 @@
         <source>Open website</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="fr" state="translated">Ouvrir le site Web</target>
+      </trans-unit>
+      <trans-unit id="Opening...">
+        <source>Opening...</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Opening...</target>
       </trans-unit>
       <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
@@ -1965,16 +1818,597 @@
       </trans-unit>
     </body>
   </file>
+  <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="fr">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id=" The app will now sign out">
+        <source> The app will now sign out</source>
+        <note>Message that indicates the app is about to sign users out of their user accounts</note>
+        <target xml:lang="fr" state="needs-translation"> The app will now sign out</target>
+      </trans-unit>
+      <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
+        <source>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</source>
+        <note>Authorization restricted alert message</note>
+        <target xml:lang="fr" state="needs-translation">Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</target>
+      </trans-unit>
+      <trans-unit id="Action">
+        <source>Action</source>
+        <note>Accessibility label for action button</note>
+        <target xml:lang="fr" state="needs-translation">Action</target>
+      </trans-unit>
+      <trans-unit id="Alert">
+        <source>Alert</source>
+        <note>Default title for alert view</note>
+        <target xml:lang="fr" state="needs-translation">Alert</target>
+      </trans-unit>
+      <trans-unit id="Already have an account? Sign in">
+        <source>Already have an account? Sign in</source>
+        <note>Option for users if they already owned a SkedGo account</note>
+        <target xml:lang="fr" state="needs-translation">Already have an account? Sign in</target>
+      </trans-unit>
+      <trans-unit id="Authentication">
+        <source>Authentication</source>
+        <note>Source where the account was derived, e.g., Facebook</note>
+        <target xml:lang="fr" state="needs-translation">Authentication</target>
+      </trans-unit>
+      <trans-unit id="Authorisation needed">
+        <source>Authorisation needed</source>
+        <note>Authorisation needed title</note>
+        <target xml:lang="fr" state="needs-translation">Authorisation needed</target>
+      </trans-unit>
+      <trans-unit id="Bicycle">
+        <source>Bicycle</source>
+        <note>Type of vehicle : bicycle</note>
+        <target xml:lang="fr" state="needs-translation">Bicycle</target>
+      </trans-unit>
+      <trans-unit id="CVC">
+        <source>CVC</source>
+        <note>Credit card CVC</note>
+        <target xml:lang="fr" state="needs-translation">CVC</target>
+      </trans-unit>
+      <trans-unit id="Can't find your current city">
+        <source>Can't find your current city</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Can't find your current city</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>Cancel - for action sheets</note>
+        <target xml:lang="fr" state="needs-translation">Cancel</target>
+      </trans-unit>
+      <trans-unit id="Cancelled">
+        <source>Cancelled</source>
+        <note>Label for when a service is cancelled.</note>
+        <target xml:lang="fr" state="needs-translation">Cancelled</target>
+      </trans-unit>
+      <trans-unit id="Cannot proceed without a valid email address">
+        <source>Cannot proceed without a valid email address</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Cannot proceed without a valid email address</target>
+      </trans-unit>
+      <trans-unit id="Car">
+        <source>Car</source>
+        <note>Type of vehicle : car</note>
+        <target xml:lang="fr" state="needs-translation">Car</target>
+      </trans-unit>
+      <trans-unit id="Card No.">
+        <source>Card No.</source>
+        <note>Credit card number</note>
+        <target xml:lang="fr" state="needs-translation">Card No.</target>
+      </trans-unit>
+      <trans-unit id="Change">
+        <source>Change</source>
+        <note>Instruction for changing password</note>
+        <target xml:lang="fr" state="needs-translation">Change</target>
+      </trans-unit>
+      <trans-unit id="Change tracking options">
+        <source>Change tracking options</source>
+        <note>Accessibility - user location button - hint</note>
+        <target xml:lang="fr" state="needs-translation">Change tracking options</target>
+      </trans-unit>
+      <trans-unit id="Checkmark">
+        <source>Checkmark</source>
+        <note>Accessibility title for a checkmark/tick button</note>
+        <target xml:lang="fr" state="needs-translation">Checkmark</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <note>Close action</note>
+        <target xml:lang="fr" state="needs-translation">Close</target>
+      </trans-unit>
+      <trans-unit id="Could not determine your current location.">
+        <source>Could not determine your current location.</source>
+        <note>Error title when GPS failed.</note>
+        <target xml:lang="fr" state="needs-translation">Could not determine your current location.</target>
+      </trans-unit>
+      <trans-unit id="CouldNotDownloadSupportedRegions">
+        <source>CouldNotDownloadSupportedRegions</source>
+        <note>Could not download supported regions warning</note>
+        <target xml:lang="fr" state="needs-translation">CouldNotDownloadSupportedRegions</target>
+      </trans-unit>
+      <trans-unit id="Creating account">
+        <source>Creating account</source>
+        <note>Message that indicates the app is creating accounts for users</note>
+        <target xml:lang="fr" state="needs-translation">Creating account</target>
+      </trans-unit>
+      <trans-unit id="Credit card">
+        <source>Credit card</source>
+        <note>Section title for credit card payment</note>
+        <target xml:lang="fr" state="needs-translation">Credit card</target>
+      </trans-unit>
+      <trans-unit id="Current City">
+        <source>Current City</source>
+        <note>Current city</note>
+        <target xml:lang="fr" state="needs-translation">Current City</target>
+      </trans-unit>
+      <trans-unit id="Current Location">
+        <source>Current Location</source>
+        <note>Current location</note>
+        <target xml:lang="fr" state="needs-translation">Current Location</target>
+      </trans-unit>
+      <trans-unit id="DateToFormat">
+        <source>DateToFormat</source>
+        <note>to %date</note>
+        <target xml:lang="fr" state="needs-translation">DateToFormat</target>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <note>Delete action</note>
+        <target xml:lang="fr" state="needs-translation">Delete</target>
+      </trans-unit>
+      <trans-unit id="Distance">
+        <source>Distance</source>
+        <note>Sort by distance</note>
+        <target xml:lang="fr" state="needs-translation">Distance</target>
+      </trans-unit>
+      <trans-unit id="Don't have an account? Sign up">
+        <source>Don't have an account? Sign up</source>
+        <note>Option for users if they don't yet have a SkedGo account</note>
+        <target xml:lang="fr" state="needs-translation">Don't have an account? Sign up</target>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>Done button
+   Keyboard accessory button title</note>
+        <target xml:lang="fr" state="needs-translation">Done</target>
+      </trans-unit>
+      <trans-unit id="DropNewPin">
+        <source>DropNewPin</source>
+        <note>Drop new pin</note>
+        <target xml:lang="fr" state="needs-translation">DropNewPin</target>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <note>Email address where receipt is sent
+   Email used as Facebook username</note>
+        <target xml:lang="fr" state="needs-translation">Email</target>
+      </trans-unit>
+      <trans-unit id="EveryDayFormat">
+        <source>EveryDayFormat</source>
+        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
+        <target xml:lang="fr" state="needs-translation">EveryDayFormat</target>
+      </trans-unit>
+      <trans-unit id="Everyday">
+        <source>Everyday</source>
+        <note>Everyday in context of repetitions (especially recurring events)</note>
+        <target xml:lang="fr" state="needs-translation">Everyday</target>
+      </trans-unit>
+      <trans-unit id="Expiry Date">
+        <source>Expiry Date</source>
+        <note>Credit card expiry date</note>
+        <target xml:lang="fr" state="needs-translation">Expiry Date</target>
+      </trans-unit>
+      <trans-unit id="For when to leave">
+        <source>For when to leave</source>
+        <note>Option that allows users to indicate whether reminder is needed
+   Reminder to leave preference</note>
+        <target xml:lang="fr" state="needs-translation">For when to leave</target>
+      </trans-unit>
+      <trans-unit id="Free">
+        <source>Free</source>
+        <note>Free as in beer</note>
+        <target xml:lang="fr" state="needs-translation">Free</target>
+      </trans-unit>
+      <trans-unit id="Full name">
+        <source>Full name</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Full name</target>
+      </trans-unit>
+      <trans-unit id="Getting a lift">
+        <source>Getting a lift</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Getting a lift</target>
+      </trans-unit>
+      <trans-unit id="Has reminder">
+        <source>Has reminder</source>
+        <note>Accessibility annotation for trips which have a reminder set.</note>
+        <target xml:lang="fr" state="needs-translation">Has reminder</target>
+      </trans-unit>
+      <trans-unit id="Include contacts">
+        <source>Include contacts</source>
+        <note>Include contacts.</note>
+        <target xml:lang="fr" state="needs-translation">Include contacts</target>
+      </trans-unit>
+      <trans-unit id="Include events">
+        <source>Include events</source>
+        <note>Include events.</note>
+        <target xml:lang="fr" state="needs-translation">Include events</target>
+      </trans-unit>
+      <trans-unit id="Instant results">
+        <source>Instant results</source>
+        <note>Instant results proposal</note>
+        <target xml:lang="fr" state="needs-translation">Instant results</target>
+      </trans-unit>
+      <trans-unit id="Invalid account">
+        <source>Invalid account</source>
+        <note>Title for alert that indicates the user account has become invalid</note>
+        <target xml:lang="fr" state="needs-translation">Invalid account</target>
+      </trans-unit>
+      <trans-unit id="John Appleseed">
+        <source>John Appleseed</source>
+        <note>Name placeholder text</note>
+        <target xml:lang="fr" state="needs-translation">John Appleseed</target>
+      </trans-unit>
+      <trans-unit id="Linking Facebook">
+        <source>Linking Facebook</source>
+        <note>Used when user signs in using Facebook</note>
+        <target xml:lang="fr" state="needs-translation">Linking Facebook</target>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <note>Location name</note>
+        <target xml:lang="fr" state="needs-translation">Location</target>
+      </trans-unit>
+      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
+        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
+        <note>Location iOS6+ authorisation needed text</note>
+        <target xml:lang="fr" state="needs-translation">Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</target>
+      </trans-unit>
+      <trans-unit id="Making payment">
+        <source>Making payment</source>
+        <note>Indicating a payment is in progress</note>
+        <target xml:lang="fr" state="needs-translation">Making payment</target>
+      </trans-unit>
+      <trans-unit id="Minutes before trip">
+        <source>Minutes before trip</source>
+        <note>Option that allows users to indicate how eary to show trip reminder
+   Reminder to leave preference</note>
+        <target xml:lang="fr" state="needs-translation">Minutes before trip</target>
+      </trans-unit>
+      <trans-unit id="More results">
+        <source>More results</source>
+        <note>More results proposal</note>
+        <target xml:lang="fr" state="needs-translation">More results</target>
+      </trans-unit>
+      <trans-unit id="Motorbike">
+        <source>Motorbike</source>
+        <note>Type of vehicle : motorbike</note>
+        <target xml:lang="fr" state="needs-translation">Motorbike</target>
+      </trans-unit>
+      <trans-unit id="My account">
+        <source>My account</source>
+        <note>Title for view that shows the summary of a user's account information</note>
+        <target xml:lang="fr" state="needs-translation">My account</target>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <note>Name to which receipt is sent
+   Name used in Facebook
+   Sort by name</note>
+        <target xml:lang="fr" state="needs-translation">Name</target>
+      </trans-unit>
+      <trans-unit id="Never">
+        <source>Never</source>
+        <note>Never in context of repetitions (especially recurring events)</note>
+        <target xml:lang="fr" state="needs-translation">Never</target>
+      </trans-unit>
+      <trans-unit id="New account">
+        <source>New account</source>
+        <note>Title for sign in view when user does not have an account</note>
+        <target xml:lang="fr" state="needs-translation">New account</target>
+      </trans-unit>
+      <trans-unit id="Next">
+        <source>Next</source>
+        <note>Button title to complete this step and advance to next
+   Keyboard accessory button title to complete this step and advance to next</note>
+        <target xml:lang="fr" state="needs-translation">Next</target>
+      </trans-unit>
+      <trans-unit id="No CO₂">
+        <source>No CO₂</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">No CO₂</target>
+      </trans-unit>
+      <trans-unit id="Now">
+        <source>Now</source>
+        <note>Countdown cell 'now' indicator</note>
+        <target xml:lang="fr" state="needs-translation">Now</target>
+      </trans-unit>
+      <trans-unit id="NumberReccurences">
+        <source>NumberReccurences</source>
+        <note>Number of repeats</note>
+        <target xml:lang="fr" state="needs-translation">NumberReccurences</target>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>Default title for button that dismisses alert view</note>
+        <target xml:lang="fr" state="needs-translation">OK</target>
+      </trans-unit>
+      <trans-unit id="Open Settings">
+        <source>Open Settings</source>
+        <note>Button to open Settings app section for this app</note>
+        <target xml:lang="fr" state="needs-translation">Open Settings</target>
+      </trans-unit>
+      <trans-unit id="Open in Safari">
+        <source>Open in Safari</source>
+        <note>Open in Safari action</note>
+        <target xml:lang="fr" state="needs-translation">Open in Safari</target>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Password</target>
+      </trans-unit>
+      <trans-unit id="Payment successful">
+        <source>Payment successful</source>
+        <note>Indicating a payment is successful</note>
+        <target xml:lang="fr" state="needs-translation">Payment successful</target>
+      </trans-unit>
+      <trans-unit id="Paypal">
+        <source>Paypal</source>
+        <note>Section title for Paypal payment</note>
+        <target xml:lang="fr" state="needs-translation">Paypal</target>
+      </trans-unit>
+      <trans-unit id="Please select a location">
+        <source>Please select a location</source>
+        <note>Please select a location prompt</note>
+        <target xml:lang="fr" state="needs-translation">Please select a location</target>
+      </trans-unit>
+      <trans-unit id="Please try again or set your location manually.">
+        <source>Please try again or set your location manually.</source>
+        <note>Error recovery suggestion when GPS fails.</note>
+        <target xml:lang="fr" state="needs-translation">Please try again or set your location manually.</target>
+      </trans-unit>
+      <trans-unit id="Please verify the location">
+        <source>Please verify the location</source>
+        <note>Please verify the location prompt</note>
+        <target xml:lang="fr" state="needs-translation">Please verify the location</target>
+      </trans-unit>
+      <trans-unit id="Press 'search' for more...">
+        <source>Press 'search' for more...</source>
+        <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
+        <target xml:lang="fr" state="needs-translation">Press 'search' for more...</target>
+      </trans-unit>
+      <trans-unit id="Real-time">
+        <source>Real-time</source>
+        <note>Indicator for real-time information</note>
+        <target xml:lang="fr" state="needs-translation">Real-time</target>
+      </trans-unit>
+      <trans-unit id="Receipt">
+        <source>Receipt</source>
+        <note>Title for section that asks users where payment receipt should be sent</note>
+        <target xml:lang="fr" state="needs-translation">Receipt</target>
+      </trans-unit>
+      <trans-unit id="Reminder">
+        <source>Reminder</source>
+        <note>Reminders title
+   Section title at the end of a booking that allows users to set reminders</note>
+        <target xml:lang="fr" state="needs-translation">Reminder</target>
+      </trans-unit>
+      <trans-unit id="Repeats daily">
+        <source>Repeats daily</source>
+        <note>Repeats daily</note>
+        <target xml:lang="fr" state="needs-translation">Repeats daily</target>
+      </trans-unit>
+      <trans-unit id="Repeats monthly">
+        <source>Repeats monthly</source>
+        <note>Repeats monthly</note>
+        <target xml:lang="fr" state="needs-translation">Repeats monthly</target>
+      </trans-unit>
+      <trans-unit id="Repeats weekly">
+        <source>Repeats weekly</source>
+        <note>Repeats weekly</note>
+        <target xml:lang="fr" state="needs-translation">Repeats weekly</target>
+      </trans-unit>
+      <trans-unit id="Repeats yearly">
+        <source>Repeats yearly</source>
+        <note>Repeats yearly</note>
+        <target xml:lang="fr" state="needs-translation">Repeats yearly</target>
+      </trans-unit>
+      <trans-unit id="RequestErrorFormat">
+        <source>RequestErrorFormat</source>
+        <note>Error when location search for %input was not successful.</note>
+        <target xml:lang="fr" state="needs-translation">RequestErrorFormat</target>
+      </trans-unit>
+      <trans-unit id="SUV">
+        <source>SUV</source>
+        <note>Sports utility vehicle abbreviation</note>
+        <target xml:lang="fr" state="needs-translation">SUV</target>
+      </trans-unit>
+      <trans-unit id="Score">
+        <source>Score</source>
+        <note>Sort by overall score, like a ranking.</note>
+        <target xml:lang="fr" state="needs-translation">Score</target>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <note>Empty search bar placeholder</note>
+        <target xml:lang="fr" state="needs-translation">Search</target>
+      </trans-unit>
+      <trans-unit id="Search Results">
+        <source>Search Results</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Search Results</target>
+      </trans-unit>
+      <trans-unit id="Select %@">
+        <source>Select %@</source>
+        <note>Label on location with action to select it, e.g., 'Select Hilton, Paris'</note>
+        <target xml:lang="fr" state="needs-translation">Select %@</target>
+      </trans-unit>
+      <trans-unit id="Select location">
+        <source>Select location</source>
+        <note>Label to select location which doesn't have a title</note>
+        <target xml:lang="fr" state="needs-translation">Select location</target>
+      </trans-unit>
+      <trans-unit id="SetLocation">
+        <source>SetLocation</source>
+        <note>Tap to set location</note>
+        <target xml:lang="fr" state="needs-translation">SetLocation</target>
+      </trans-unit>
+      <trans-unit id="Sign in">
+        <source>Sign in</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Sign in</target>
+      </trans-unit>
+      <trans-unit id="Sign out">
+        <source>Sign out</source>
+        <note>Instruction for signing out user account</note>
+        <target xml:lang="fr" state="needs-translation">Sign out</target>
+      </trans-unit>
+      <trans-unit id="Sign up">
+        <source>Sign up</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Sign up</target>
+      </trans-unit>
+      <trans-unit id="Sign up cannot be completed without a valid password">
+        <source>Sign up cannot be completed without a valid password</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Sign up cannot be completed without a valid password</target>
+      </trans-unit>
+      <trans-unit id="Signing in">
+        <source>Signing in</source>
+        <note>Message that indicates the app is signing users into their user accounts</note>
+        <target xml:lang="fr" state="needs-translation">Signing in</target>
+      </trans-unit>
+      <trans-unit id="Signing out">
+        <source>Signing out</source>
+        <note>Message that indicates the app has successfully completed signing out
+   Message that indicates the app is signing users out of their accounts</note>
+        <target xml:lang="fr" state="needs-translation">Signing out</target>
+      </trans-unit>
+      <trans-unit id="Tracking - off">
+        <source>Tracking - off</source>
+        <note>Accessibility - user location button - off</note>
+        <target xml:lang="fr" state="needs-translation">Tracking - off</target>
+      </trans-unit>
+      <trans-unit id="Tracking - on">
+        <source>Tracking - on</source>
+        <note>user location button - follow</note>
+        <target xml:lang="fr" state="needs-translation">Tracking - on</target>
+      </trans-unit>
+      <trans-unit id="Tracking - on with heading">
+        <source>Tracking - on with heading</source>
+        <note>user location button - follow with heading</note>
+        <target xml:lang="fr" state="needs-translation">Tracking - on with heading</target>
+      </trans-unit>
+      <trans-unit id="Unknown error">
+        <source>Unknown error</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Unknown error</target>
+      </trans-unit>
+      <trans-unit id="Updating trip">
+        <source>Updating trip</source>
+        <note>Message that shows app is updating trip after user finalised bookings</note>
+        <target xml:lang="fr" state="needs-translation">Updating trip</target>
+      </trans-unit>
+      <trans-unit id="Values missing from required fields.">
+        <source>Values missing from required fields.</source>
+        <note>Message that informs users that some values are missing from the required fields in a booking form.</note>
+        <target xml:lang="fr" state="needs-translation">Values missing from required fields.</target>
+      </trans-unit>
+      <trans-unit id="Weekdays">
+        <source>Weekdays</source>
+        <note>Every weekday in context of repetitions (especially recurring events)</note>
+        <target xml:lang="fr" state="needs-translation">Weekdays</target>
+      </trans-unit>
+      <trans-unit id="Weekends">
+        <source>Weekends</source>
+        <note>Every weekend day in context of repetitions (especially recurring events)</note>
+        <target xml:lang="fr" state="needs-translation">Weekends</target>
+      </trans-unit>
+      <trans-unit id="You need to agree to the booking terms and conditions.">
+        <source>You need to agree to the booking terms and conditions.</source>
+        <note>Message that informs users that T&amp;C must be agreed before booking can be made.</note>
+        <target xml:lang="fr" state="needs-translation">You need to agree to the booking terms and conditions.</target>
+      </trans-unit>
+      <trans-unit id="You need to agree to the insurance terms and conditions.">
+        <source>You need to agree to the insurance terms and conditions.</source>
+        <note>Message that informs users that T&amp;C for insurance must be agreed before booking can be made.</note>
+        <target xml:lang="fr" state="needs-translation">You need to agree to the insurance terms and conditions.</target>
+      </trans-unit>
+      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
+        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
+        <note>Calendar authorisation needed text</note>
+        <target xml:lang="fr" state="needs-translation">You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</target>
+      </trans-unit>
+      <trans-unit id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
+        <source>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</source>
+        <note>Contacts authorisation needed text</note>
+        <target xml:lang="fr" state="needs-translation">You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</target>
+      </trans-unit>
+      <trans-unit id="all-day">
+        <source>all-day</source>
+        <note>Indicator that an event is all-day</note>
+        <target xml:lang="fr" state="needs-translation">all-day</target>
+      </trans-unit>
+      <trans-unit id="arrives %@">
+        <source>arrives %@</source>
+        <note>Estimated time of arrival; parameter is time, e.g., 'arrives 15:30'</note>
+        <target xml:lang="fr" state="needs-translation">arrives %@</target>
+      </trans-unit>
+      <trans-unit id="departs %@">
+        <source>departs %@</source>
+        <note>Estimated time of departure; parameter is time, e.g., 'departs 15:30'</note>
+        <target xml:lang="fr" state="needs-translation">departs %@</target>
+      </trans-unit>
+      <trans-unit id="ends at %@">
+        <source>ends at %@</source>
+        <note>Short indicator of end-time</note>
+        <target xml:lang="fr" state="needs-translation">ends at %@</target>
+      </trans-unit>
+      <trans-unit id="example@example.com">
+        <source>example@example.com</source>
+        <note>Email placeholder text</note>
+        <target xml:lang="fr" state="needs-translation">example@example.com</target>
+      </trans-unit>
+      <trans-unit id="mm/yy">
+        <source>mm/yy</source>
+        <note>Credit card expiry date placeholder, mm/yy</note>
+        <target xml:lang="fr" state="needs-translation">mm/yy</target>
+      </trans-unit>
+      <trans-unit id="starts at %@">
+        <source>starts at %@</source>
+        <note>Short indicator of start-time</note>
+        <target xml:lang="fr" state="needs-translation">starts at %@</target>
+      </trans-unit>
+      <trans-unit id="{Name}'s">
+        <source>{Name}'s</source>
+        <note>Name for a {Name}'s place if it's unclear if it's home, work or something else.</note>
+        <target xml:lang="fr" state="needs-translation">{Name}'s</target>
+      </trans-unit>
+      <trans-unit id="{Name}'s Home">
+        <source>{Name}'s Home</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">{Name}'s Home</target>
+      </trans-unit>
+      <trans-unit id="{Name}'s Work">
+        <source>{Name}'s Work</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">{Name}'s Work</target>
+      </trans-unit>
+    </body>
+  </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="fr">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="%1$@ early">
@@ -2094,6 +2528,11 @@
         <note>No comment provided by engineer.</note>
         <target xml:lang="fr" state="translated">Obtenir Lyft</target>
       </trans-unit>
+      <trans-unit id="Get Ola">
+        <source>Get Ola</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Get Ola</target>
+      </trans-unit>
       <trans-unit id="Get directions">
         <source>Get directions</source>
         <note>Action button title for getting turn-by-turn directions</note>
@@ -2154,6 +2593,11 @@
         <source>Open Lyft</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="fr" state="translated">Ouvrir Lyft</target>
+      </trans-unit>
+      <trans-unit id="Open Ola">
+        <source>Open Ola</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="needs-translation">Open Ola</target>
       </trans-unit>
       <trans-unit id="PrimaryLocationEnd">
         <source>PrimaryLocationEnd</source>
@@ -2231,18 +2675,6 @@
         <source>ingogo a Taxi</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="fr" state="translated">ingogo un Taxi</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file datatype="plaintext" original="TripPlanner/shared.strings" source-language="en" target-language="fr">
-    <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
-    </header>
-    <body>
-      <trans-unit id="Cannot find a valid token">
-        <source>Cannot find a valid token</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="fr" state="translated">Impossible de trouver un token valide</target>
       </trans-unit>
     </body>
   </file>
