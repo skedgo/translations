@@ -365,7 +365,7 @@
 "Include" = "Include";
 
 /* Title for a switch indicating if this event should be included in all-day routes */
-"Include in routes" = "Include in routes";
+"Include in routes" = "Include in trips";
 
 /* Title for setting to include step count on Agenda screen */
 "Include Step Count" = "Include Step Count";
@@ -574,7 +574,7 @@
 "Please restart the app. Sorry for the inconvenience!" = "Please restart the app. Sorry for the inconvenience!";
 
 /* Alert message that asks users to provide the missing address for a new event. */
-"Please specify an address." = "Please specify an address."; // TODO
+"Please specify an address." = "Please specify an address.";
 
 /* Recovery suggestion when TripGo cannot update its local files */
 "Please try restarting the app. Sorry for the inconvenience!" = "Please try restarting the app. Sorry for the inconvenience!";

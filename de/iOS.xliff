@@ -1,2234 +1,2252 @@
-<?xml version='1.0' encoding='utf-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
+      <trans-unit id="CFBundleDisplayName" approved="yes">
         <source>TripGo Agenda</source>
-        <target>TripGo Agenda</target>
+        <target xml:lang="de">TripGo Agenda</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="00e-CH-gOu.title">
+      <trans-unit id="00e-CH-gOu.title" approved="yes">
         <source>Reminder</source>
-        <target>Erinnerung</target>
         <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
+        <target xml:lang="de">Erinnerung</target>
       </trans-unit>
-      <trans-unit id="0mK-e0-427.text">
+      <trans-unit id="0mK-e0-427.text" approved="yes">
         <source>Description</source>
-        <target>Beschreibung</target>
         <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
+        <target xml:lang="de">Beschreibung</target>
       </trans-unit>
-      <trans-unit id="6Qf-Ve-PDJ.text">
+      <trans-unit id="6Qf-Ve-PDJ.text" approved="yes">
         <source>No Data</source>
-        <target>Keine Daten</target>
         <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
+        <target xml:lang="de">Keine Daten</target>
       </trans-unit>
-      <trans-unit id="AgC-eL-Hgc.title">
+      <trans-unit id="AgC-eL-Hgc.title" approved="yes">
         <source>TripGo</source>
-        <target>TripGo</target>
         <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
+        <target xml:lang="de">TripGo</target>
       </trans-unit>
-      <trans-unit id="F85-mJ-6yD.text">
+      <trans-unit id="F85-mJ-6yD.text" approved="yes">
         <source>Getting trip</source>
-        <target>Trip wird berechnet</target>
         <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
+        <target xml:lang="de">Trip wird berechnet</target>
       </trans-unit>
-      <trans-unit id="GGf-v0-vEJ.title">
+      <trans-unit id="GGf-v0-vEJ.title" approved="yes">
         <source>Show Map</source>
-        <target>Karte anzeigen</target>
         <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
+        <target xml:lang="de">Karte anzeigen</target>
       </trans-unit>
-      <trans-unit id="RoM-Us-t1Y.title">
+      <trans-unit id="RoM-Us-t1Y.title" approved="yes">
         <source>Favourites</source>
-        <target>Favoriten</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
+        <target xml:lang="de">Favoriten</target>
       </trans-unit>
-      <trans-unit id="Uzb-ex-6N5.title">
+      <trans-unit id="Uzb-ex-6N5.title" approved="yes">
         <source>Agenda</source>
-        <target>Agenda</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
+        <target xml:lang="de">Agenda</target>
       </trans-unit>
-      <trans-unit id="cAf-NX-Z7L.title">
+      <trans-unit id="cAf-NX-Z7L.title" approved="yes">
         <source>Favourites</source>
-        <target>Favoriten</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
+        <target xml:lang="de">Favoriten</target>
       </trans-unit>
-      <trans-unit id="h3q-kR-2ID.title">
+      <trans-unit id="h3q-kR-2ID.title" approved="yes">
         <source>Timetable</source>
-        <target>Fahrplan</target>
         <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
+        <target xml:lang="de">Fahrplan</target>
       </trans-unit>
-      <trans-unit id="jYK-Fw-rhR.text">
+      <trans-unit id="jYK-Fw-rhR.text" approved="yes">
         <source>Alert</source>
-        <target>Warnung</target>
         <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
+        <target xml:lang="de">Warnung</target>
       </trans-unit>
-      <trans-unit id="r0K-AY-XvO.title">
+      <trans-unit id="r0K-AY-XvO.title" approved="yes">
         <source>Retry</source>
-        <target>Nochmal versuchen</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
+        <target xml:lang="de">Nochmal versuchen</target>
       </trans-unit>
-      <trans-unit id="rQN-eo-Bg2.title">
+      <trans-unit id="rQN-eo-Bg2.title" approved="yes">
         <source>Timetable</source>
-        <target>Fahrplan</target>
         <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
+        <target xml:lang="de">Fahrplan</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
+      <trans-unit id="CFBundleDisplayName" approved="yes">
         <source>TripGo</source>
-        <target>TripGo</target>
+        <target xml:lang="de">TripGo</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
   <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>TripGo WatchKit Extension</source>
+        <target xml:lang="de" state="needs-translation">TripGo WatchKit Extension</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
   <file datatype="plaintext" original="TripGo WatchKit Extension/Shared.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="Bicycle">
+      <trans-unit id="Bicycle" approved="yes">
         <source>Bicycle</source>
-        <target>Fahrrad</target>
         <note>Type of vehicle : bicycle</note>
+        <target xml:lang="de">Fahrrad</target>
       </trans-unit>
-      <trans-unit id="Car">
+      <trans-unit id="Car" approved="yes">
         <source>Car</source>
-        <target>Auto</target>
         <note>Type of vehicle : car</note>
+        <target xml:lang="de">Auto</target>
       </trans-unit>
-      <trans-unit id="Checkmark">
+      <trans-unit id="Checkmark" approved="yes">
         <source>Checkmark</source>
-        <target>Haken</target>
         <note>Accessibility title for a checkmark/tick button</note>
+        <target xml:lang="de">Haken</target>
       </trans-unit>
-      <trans-unit id="Could not determine your current location.">
+      <trans-unit id="Could not determine your current location." approved="yes">
         <source>Could not determine your current location.</source>
-        <target>Ortung fehlgeschlagen.</target>
         <note>Error title when GPS failed.</note>
+        <target xml:lang="de">Ortung fehlgeschlagen.</target>
       </trans-unit>
-      <trans-unit id="CouldNotDownloadSupportedRegions">
+      <trans-unit id="CouldNotDownloadSupportedRegions" approved="yes">
         <source>CouldNotDownloadSupportedRegions</source>
-        <target>TripGo konnte die Liste der verfügbaren Städte nicht herunterladen. Bitte versuche es später noch einmal.</target>
         <note>Could not download supported regions warning</note>
+        <target xml:lang="de">TripGo konnte die Liste der verfügbaren Städte nicht herunterladen. Bitte versuche es später noch einmal.</target>
       </trans-unit>
-      <trans-unit id="Current Location">
+      <trans-unit id="Current Location" approved="yes">
         <source>Current Location</source>
-        <target>Aktueller Ort</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Aktueller Ort</target>
       </trans-unit>
-      <trans-unit id="DateToFormat">
+      <trans-unit id="DateToFormat" approved="yes">
         <source>DateToFormat</source>
-        <target>bis %@</target>
         <note>to %date</note>
+        <target xml:lang="de">bis %@</target>
       </trans-unit>
-      <trans-unit id="EveryDayFormat">
+      <trans-unit id="EveryDayFormat" approved="yes">
         <source>EveryDayFormat</source>
-        <target>Jeden %@</target>
         <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
+        <target xml:lang="de">Jeden %@</target>
       </trans-unit>
-      <trans-unit id="Everyday">
+      <trans-unit id="Everyday" approved="yes">
         <source>Everyday</source>
-        <target>Jeden Tag</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
+        <target xml:lang="de">Jeden Tag</target>
       </trans-unit>
-      <trans-unit id="Free">
+      <trans-unit id="Free" approved="yes">
         <source>Free</source>
-        <target>Kostenlos</target>
         <note>Free as in beer</note>
+        <target xml:lang="de">Kostenlos</target>
       </trans-unit>
-      <trans-unit id="Getting a lift">
+      <trans-unit id="Getting a lift" approved="yes">
         <source>Getting a lift</source>
-        <target>Mitfahrgelegenheit</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Mitfahrgelegenheit</target>
       </trans-unit>
-      <trans-unit id="Include events">
+      <trans-unit id="Include events" approved="yes">
         <source>Include events</source>
-        <target>Kalendar durchsuchen</target>
         <note>Include events.</note>
+        <target xml:lang="de">Kalendar durchsuchen</target>
       </trans-unit>
-      <trans-unit id="Location">
+      <trans-unit id="Location" approved="yes">
         <source>Location</source>
-        <target>Ort</target>
         <note>Location name</note>
+        <target xml:lang="de">Ort</target>
       </trans-unit>
-      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
+      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app." approved="yes">
         <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
-        <target>Ortungsdienste sind für dieses Feature benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz &gt; Ortungsdiesten &gt; TripGo.</target>
         <note>Location iOS6+ authorisation needed text</note>
+        <target xml:lang="de">Ortungsdienste sind für dieses Feature benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz &gt; Ortungsdiesten &gt; TripGo.</target>
       </trans-unit>
-      <trans-unit id="Motorbike">
+      <trans-unit id="Motorbike" approved="yes">
         <source>Motorbike</source>
-        <target>Motorrad</target>
         <note>Type of vehicle : motorbike</note>
+        <target xml:lang="de">Motorrad</target>
       </trans-unit>
-      <trans-unit id="Never">
+      <trans-unit id="Never" approved="yes">
         <source>Never</source>
-        <target>Niemals</target>
         <note>Never in context of repetitions (especially recurring events)</note>
+        <target xml:lang="de">Niemals</target>
       </trans-unit>
-      <trans-unit id="No CO₂">
+      <trans-unit id="No CO₂" approved="yes">
         <source>No CO₂</source>
-        <target>Kein CO₂</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Kein CO₂</target>
       </trans-unit>
-      <trans-unit id="NumberReccurences">
+      <trans-unit id="NumberReccurences" approved="yes">
         <source>NumberReccurences</source>
-        <target>%lu Wiederholungen.</target>
         <note>Number of repeats</note>
+        <target xml:lang="de">%lu Wiederholungen.</target>
       </trans-unit>
-      <trans-unit id="Please try again or set your location manually.">
+      <trans-unit id="Please try again or set your location manually." approved="yes">
         <source>Please try again or set your location manually.</source>
-        <target>Bitte erneut versuchen oder Ort manuell auswählen.</target>
         <note>Error recovery suggestion when GPS fails.</note>
+        <target xml:lang="de">Bitte erneut versuchen oder Ort manuell auswählen.</target>
       </trans-unit>
-      <trans-unit id="Real-time">
+      <trans-unit id="Real-time" approved="yes">
         <source>Real-time</source>
-        <target>Echtzeit</target>
         <note>Indicator for real-time information</note>
+        <target xml:lang="de">Echtzeit</target>
       </trans-unit>
-      <trans-unit id="Repeats daily">
+      <trans-unit id="Repeats daily" approved="yes">
         <source>Repeats daily</source>
-        <target>Täglich</target>
         <note>Repeats daily</note>
+        <target xml:lang="de">Täglich</target>
       </trans-unit>
-      <trans-unit id="Repeats monthly">
+      <trans-unit id="Repeats monthly" approved="yes">
         <source>Repeats monthly</source>
-        <target>Monatlich</target>
         <note>Repeats monthly</note>
+        <target xml:lang="de">Monatlich</target>
       </trans-unit>
-      <trans-unit id="Repeats weekly">
+      <trans-unit id="Repeats weekly" approved="yes">
         <source>Repeats weekly</source>
-        <target>Wöchentlich</target>
         <note>Repeats weekly</note>
+        <target xml:lang="de">Wöchentlich</target>
       </trans-unit>
-      <trans-unit id="Repeats yearly">
+      <trans-unit id="Repeats yearly" approved="yes">
         <source>Repeats yearly</source>
-        <target>Jährlich</target>
         <note>Repeats yearly</note>
+        <target xml:lang="de">Jährlich</target>
       </trans-unit>
-      <trans-unit id="RequestErrorFormat">
+      <trans-unit id="RequestErrorFormat" approved="yes">
         <source>RequestErrorFormat</source>
-        <target>Wir konnten ‘%@' nicht finden.</target>
         <note>Error when location search for %input was not successful.</note>
+        <target xml:lang="de">Wir konnten ‘%@' nicht finden.</target>
       </trans-unit>
-      <trans-unit id="SUV">
+      <trans-unit id="SUV" approved="yes">
         <source>SUV</source>
-        <target>Jeep</target>
         <note>Sports utility vehicle abbreviation</note>
+        <target xml:lang="de">Jeep</target>
       </trans-unit>
-      <trans-unit id="Weekdays">
+      <trans-unit id="Weekdays" approved="yes">
         <source>Weekdays</source>
-        <target>Wochentags</target>
         <note>Every weekday in context of repetitions (especially recurring events)</note>
+        <target xml:lang="de">Wochentags</target>
       </trans-unit>
-      <trans-unit id="Weekends">
+      <trans-unit id="Weekends" approved="yes">
         <source>Weekends</source>
-        <target>Wochenende</target>
         <note>Every weekend day in context of repetitions (especially recurring events)</note>
+        <target xml:lang="de">Wochenende</target>
       </trans-unit>
-      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
+      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature." approved="yes">
         <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
-        <target>Kalenderzugriffsautorisierung benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz &gt; Kalender &gt; TripGo</target>
         <note>Calendar authorisation needed text</note>
+        <target xml:lang="de">Kalenderzugriffsautorisierung benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz &gt; Kalender &gt; TripGo</target>
       </trans-unit>
-      <trans-unit id="all-day">
+      <trans-unit id="all-day" approved="yes">
         <source>all-day</source>
-        <target>ganztägig</target>
         <note>Indicator that an event is all-day</note>
+        <target xml:lang="de">ganztägig</target>
       </trans-unit>
-      <trans-unit id="ends at %@">
+      <trans-unit id="ends at %@" approved="yes">
         <source>ends at %@</source>
-        <target>endet um %@</target>
         <note>Short indicator of end-time</note>
+        <target xml:lang="de">endet um %@</target>
       </trans-unit>
-      <trans-unit id="starts at %@">
+      <trans-unit id="starts at %@" approved="yes">
         <source>starts at %@</source>
-        <target>beginnt um %@</target>
         <note>Short indicator of start-time</note>
+        <target xml:lang="de">beginnt um %@</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
-    <body />
+    <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="3d9-Hg-2Fe.title">
+      <trans-unit id="3d9-Hg-2Fe.title" approved="yes">
         <source>Trips</source>
-        <target>Trips</target>
         <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+        <target xml:lang="de">Trips</target>
       </trans-unit>
-      <trans-unit id="5WK-au-VFq.title">
+      <trans-unit id="5WK-au-VFq.title" approved="yes">
         <source>Settings</source>
-        <target>Einstellungen</target>
         <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq";</note>
+        <target xml:lang="de">Einstellungen</target>
       </trans-unit>
-      <trans-unit id="IFX-i9-ymN.title">
+      <trans-unit id="IFX-i9-ymN.title" approved="yes">
         <source>Routes</source>
-        <target>Routen</target>
         <note>Class = "UINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN";</note>
+        <target xml:lang="de">Routen</target>
       </trans-unit>
-      <trans-unit id="JMk-5m-B22.title">
+      <trans-unit id="JMk-5m-B22.title" approved="yes">
         <source>Service</source>
-        <target>Service</target>
         <note>Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22";</note>
+        <target xml:lang="de">Service</target>
       </trans-unit>
-      <trans-unit id="QTR-Ae-g7f.title">
+      <trans-unit id="QTR-Ae-g7f.title" approved="yes">
         <source>Trip</source>
-        <target>Trip</target>
         <note>Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f";</note>
+        <target xml:lang="de">Trip</target>
       </trans-unit>
-      <trans-unit id="TNA-bx-79H.title">
+      <trans-unit id="TNA-bx-79H.title" approved="yes">
         <source>Agenda</source>
-        <target>Agenda</target>
         <note>Class = "UITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H";</note>
+        <target xml:lang="de">Agenda</target>
       </trans-unit>
-      <trans-unit id="TYM-9i-XBA.title">
+      <trans-unit id="TYM-9i-XBA.title" approved="yes">
         <source>Profile</source>
-        <target>Einstellungen</target>
         <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA";</note>
+        <target xml:lang="de">Einstellungen</target>
       </trans-unit>
-      <trans-unit id="t3k-Ks-sqa.title">
+      <trans-unit id="t3k-Ks-sqa.title" approved="yes">
         <source>Alerts</source>
-        <target>Warnungen</target>
         <note>Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa";</note>
+        <target xml:lang="de">Warnungen</target>
       </trans-unit>
-      <trans-unit id="ye4-ch-zSe.title">
+      <trans-unit id="ye4-ch-zSe.title" approved="yes">
         <source>Favourites</source>
-        <target>Favoriten</target>
         <note>Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe";</note>
+        <target xml:lang="de">Favoriten</target>
       </trans-unit>
-      <trans-unit id="zCk-Ai-u6n.title">
+      <trans-unit id="zCk-Ai-u6n.title" approved="yes">
         <source>Timetable</source>
-        <target>Fahrplan</target>
         <note>Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n";</note>
+        <target xml:lang="de">Fahrplan</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="30.accessibilityLabel">
+      <trans-unit id="30.accessibilityLabel" approved="yes">
         <source>Swap from and to</source>
-        <target>Start und Ziel auswechseln</target>
         <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+        <target xml:lang="de">Start und Ziel auswechseln</target>
       </trans-unit>
-      <trans-unit id="44.normalTitle">
+      <trans-unit id="44.normalTitle" approved="yes">
         <source>Time</source>
-        <target>Zeit</target>
         <note>Class = "UIButton"; normalTitle = "Time"; ObjectID = "44";</note>
+        <target xml:lang="de">Zeit</target>
       </trans-unit>
-      <trans-unit id="57.accessibilityLabel">
+      <trans-unit id="57.accessibilityLabel" approved="yes">
         <source>Route</source>
-        <target>Route</target>
         <note>Class = "UIButton"; accessibilityLabel = "Route"; ObjectID = "57";</note>
+        <target xml:lang="de">Route</target>
       </trans-unit>
-      <trans-unit id="57.normalTitle">
+      <trans-unit id="57.normalTitle" approved="yes">
         <source>Route</source>
-        <target>Route</target>
         <note>Class = "UIButton"; normalTitle = "Route"; ObjectID = "57";</note>
+        <target xml:lang="de">Route</target>
       </trans-unit>
-      <trans-unit id="JFm-H4-fOo.accessibilityLabel">
+      <trans-unit id="JFm-H4-fOo.accessibilityLabel" approved="yes">
         <source>To Location</source>
-        <target>Ziel</target>
         <note>Class = "UIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo";</note>
+        <target xml:lang="de">Ziel</target>
       </trans-unit>
-      <trans-unit id="bs1-li-naL.accessibilityLabel">
+      <trans-unit id="bs1-li-naL.accessibilityLabel" approved="yes">
         <source>From Location</source>
-        <target>Start</target>
         <note>Class = "UIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL";</note>
+        <target xml:lang="de">Start</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="%@ at %@">
+      <trans-unit id="%@ at %@" approved="yes">
         <source>%1$@ at %2$@</source>
-        <target>%1$@ um %2$@</target>
         <note>Filler for a specific service running at a time, e.g., '396 at 11:56am'</note>
+        <target xml:lang="de">%1$@ um %2$@</target>
       </trans-unit>
-      <trans-unit id="%@ every %@">
+      <trans-unit id="%@ every %@" approved="yes">
         <source>%1$@ every %2$@</source>
-        <target>%1$@ alle %2$@</target>
         <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
+        <target xml:lang="de">%1$@ alle %2$@</target>
       </trans-unit>
-      <trans-unit id="%@ to %@">
+      <trans-unit id="%@ to %@" approved="yes">
         <source>%1$@ to %2$@</source>
-        <target>Von %1$@ nach %2$@</target>
         <note>Format string for going from one location to another. Used to name favourite trips.</note>
+        <target xml:lang="de">Von %1$@ nach %2$@</target>
       </trans-unit>
-      <trans-unit id="Access to location services required.">
+      <trans-unit id="Access to location services required." approved="yes">
         <source>Access to location services required.</source>
-        <target>Zugriff zu Ortungsdienst benötigt.</target>
         <note>Error title when access to location hasn't been granted, but location is required.</note>
+        <target xml:lang="de">Zugriff zu Ortungsdienst benötigt.</target>
       </trans-unit>
-      <trans-unit id="Add Reminder">
+      <trans-unit id="Add Reminder" approved="yes">
         <source>Add Reminder</source>
-        <target>Erinnerung hinzufügen</target>
         <note>Add reminder activity title</note>
+        <target xml:lang="de">Erinnerung hinzufügen</target>
       </trans-unit>
-      <trans-unit id="Add address...">
+      <trans-unit id="Add address..." approved="yes">
         <source>Add address...</source>
-        <target>Adresse hinzufügen...</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Adresse hinzufügen...</target>
       </trans-unit>
-      <trans-unit id="Add another recurrence">
+      <trans-unit id="Add another recurrence" approved="yes">
         <source>Add another recurrence</source>
-        <target>Weitere Zeit hinzufügen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Weitere Zeit hinzufügen</target>
       </trans-unit>
-      <trans-unit id="Add to Agenda">
+      <trans-unit id="Add to Agenda" approved="yes">
         <source>Add to Agenda</source>
-        <target>Zur Agenda hinzufügen</target>
         <note>Add to agenda view title
    Save trip action</note>
+        <target xml:lang="de">Zur Agenda hinzufügen</target>
       </trans-unit>
-      <trans-unit id="Add to Calendar">
+      <trans-unit id="Add to Calendar" approved="yes">
         <source>Add to Calendar</source>
-        <target>Zum Kalender hinzufügen</target>
         <note>Add to calendar activity title</note>
+        <target xml:lang="de">Zum Kalender hinzufügen</target>
       </trans-unit>
-      <trans-unit id="Add to favourites">
+      <trans-unit id="Add to favourites" approved="yes">
         <source>Add to favourites</source>
-        <target>Favorit hinzufügen</target>
         <note>Add favourite activity title</note>
+        <target xml:lang="de">Favorit hinzufügen</target>
       </trans-unit>
-      <trans-unit id="Add vehicle">
+      <trans-unit id="Add vehicle" approved="yes">
         <source>Add vehicle</source>
-        <target>Fahrzeug hinzufügen</target>
         <note>Action title for adding a vehicle</note>
+        <target xml:lang="de">Fahrzeug hinzufügen</target>
       </trans-unit>
-      <trans-unit id="AddStopover">
+      <trans-unit id="AddStopover" approved="yes">
         <source>AddStopover</source>
-        <target>Zwischenstopp hinzufügen...</target>
         <note>Add a new stopover</note>
+        <target xml:lang="de">Zwischenstopp hinzufügen...</target>
       </trans-unit>
-      <trans-unit id="Added to Agenda">
+      <trans-unit id="Added to Agenda" approved="yes">
         <source>Added to Agenda</source>
-        <target>Zur Agenda hinzugefügt</target>
         <note>Add to agenda HUD notice</note>
+        <target xml:lang="de">Zur Agenda hinzugefügt</target>
       </trans-unit>
-      <trans-unit id="Added to calendar">
+      <trans-unit id="Added to calendar" approved="yes">
         <source>Added to calendar</source>
-        <target>Zum Kalender hinzugefügt</target>
         <note>Added to calendar HUD message</note>
+        <target xml:lang="de">Zum Kalender hinzugefügt</target>
       </trans-unit>
-      <trans-unit id="Address required">
+      <trans-unit id="Address required" approved="yes">
         <source>Address required</source>
-        <target>Adress benötigt</target>
         <note>Alert title that indicates an address is missing when creating a new event.</note>
+        <target xml:lang="de">Adress benötigt</target>
       </trans-unit>
-      <trans-unit id="Agenda">
+      <trans-unit id="Agenda" approved="yes">
         <source>Agenda</source>
-        <target>Agenda</target>
         <note>Title for button to access agenda</note>
+        <target xml:lang="de">Agenda</target>
       </trans-unit>
-      <trans-unit id="Agenda Setup">
+      <trans-unit id="Agenda Setup" approved="yes">
         <source>Agenda Setup</source>
-        <target>Agenda-Setup</target>
         <note>Title for agenda screen while it's still in setup mode.</note>
+        <target xml:lang="de">Agenda-Setup</target>
       </trans-unit>
-      <trans-unit id="Agenda is not set up.">
+      <trans-unit id="Agenda is not set up." approved="yes">
         <source>Agenda is not set up.</source>
-        <target>Agenda wurde noch nicht eingerichtet.</target>
         <note>Error title when agenda isn't yet set up.</note>
+        <target xml:lang="de">Agenda wurde noch nicht eingerichtet.</target>
       </trans-unit>
-      <trans-unit id="AgendaButton">
+      <trans-unit id="AgendaButton" approved="yes">
         <source>AgendaButton</source>
-        <target>Agenda</target>
         <note>Agenda tab bar name</note>
+        <target xml:lang="de">Agenda</target>
       </trans-unit>
-      <trans-unit id="Agree">
+      <trans-unit id="Agree" approved="yes">
         <source>Agree</source>
-        <target>Akzeptieren</target>
         <note>Accepting EULA
    Agree to EULA</note>
+        <target xml:lang="de">Akzeptieren</target>
       </trans-unit>
-      <trans-unit id="AirlineFlightNumber">
+      <trans-unit id="AirlineFlightNumber" approved="yes">
         <source>AirlineFlightNumber</source>
-        <target>%@ Flug %@</target>
         <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'</note>
+        <target xml:lang="de">%@ Flug %@</target>
       </trans-unit>
-      <trans-unit id="AirlineFromTo">
+      <trans-unit id="AirlineFromTo" approved="yes">
         <source>AirlineFromTo</source>
-        <target>%@ (%@) nach %@ (%@)</target>
         <note>Flight from a city to an other one</note>
+        <target xml:lang="de">%@ (%@) nach %@ (%@)</target>
       </trans-unit>
-      <trans-unit id="Alert">
+      <trans-unit id="Alert" approved="yes">
         <source>Alert</source>
-        <target>Warnung</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Warnung</target>
       </trans-unit>
-      <trans-unit id="AlertTitleFormat">
+      <trans-unit id="AlertTitleFormat" approved="yes">
         <source>AlertTitleFormat</source>
-        <target>Warnung: %@</target>
         <note>Description of alert with %title</note>
+        <target xml:lang="de">Warnung: %@</target>
       </trans-unit>
-      <trans-unit id="Alerts">
+      <trans-unit id="Alerts" approved="yes">
         <source>Alerts</source>
-        <target>Warnungen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Warnungen</target>
       </trans-unit>
-      <trans-unit id="All">
+      <trans-unit id="All" approved="yes">
         <source>All</source>
-        <target>Alle</target>
         <note>Option to use this trip for all similar cases.</note>
+        <target xml:lang="de">Alle</target>
       </trans-unit>
-      <trans-unit id="All From Here">
+      <trans-unit id="All From Here" approved="yes">
         <source>All From Here</source>
-        <target>Alle ab hier</target>
         <note>Option to delete this event and all after in a recurence</note>
+        <target xml:lang="de">Alle ab hier</target>
       </trans-unit>
-      <trans-unit id="Alternative routes">
+      <trans-unit id="Alternative routes" approved="yes">
         <source>Alternative routes</source>
-        <target>Alternative Routen</target>
         <note>Action button title to see alternative options for the case where you can't make the next connection.</note>
+        <target xml:lang="de">Alternative Routen</target>
       </trans-unit>
-      <trans-unit id="Ambiguous event address.">
+      <trans-unit id="Ambiguous event address." approved="yes">
         <source>Ambiguous event address.</source>
-        <target>Unklare Adresse.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Unklare Adresse.</target>
       </trans-unit>
-      <trans-unit id="Arrival">
+      <trans-unit id="Arrival" approved="yes">
         <source>Arrival</source>
-        <target>Ankunft</target>
         <note>Arrival date+time for overnight stay
    Arrival time sorter title</note>
+        <target xml:lang="de">Ankunft</target>
       </trans-unit>
-      <trans-unit id="ArriveBefore">
+      <trans-unit id="ArriveBefore" approved="yes">
         <source>ArriveBefore</source>
-        <target>Ankunft</target>
         <note>Arrive before button</note>
+        <target xml:lang="de">Ankunft</target>
       </trans-unit>
-      <trans-unit id="Assign to vehicle">
+      <trans-unit id="Assign to vehicle" approved="yes">
         <source>Assign to vehicle</source>
-        <target>Verwendetes Fahrzeug</target>
         <note>Title for section to assign a trip to a vehicle.</note>
+        <target xml:lang="de">Verwendetes Fahrzeug</target>
       </trans-unit>
-      <trans-unit id="At %@">
+      <trans-unit id="At %@" approved="yes">
         <source>At %@</source>
-        <target>Um %@</target>
         <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
+        <target xml:lang="de">Um %@</target>
       </trans-unit>
-      <trans-unit id="Auto">
+      <trans-unit id="Auto" approved="yes">
         <source>Auto</source>
-        <target>Auto</target>
         <note>Distance 'automatic'</note>
+        <target xml:lang="de">autom.</target>
       </trans-unit>
-      <trans-unit id="Automatic Reminders">
+      <trans-unit id="Automatic Reminders" approved="yes">
         <source>Automatic Reminders</source>
-        <target>Automatische Erinnerungen</target>
         <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
+        <target xml:lang="de">Automatische Erinnerungen</target>
       </trans-unit>
-      <trans-unit id="Awesome! How about rating us?">
+      <trans-unit id="Awesome! How about rating us?" approved="yes">
         <source>Awesome! How about rating us?</source>
-        <target>Wunderbar! Willst du TripGo bewerten?</target>
         <note>Response to positive answer to question whether TripGo is useful, prompting for App Store rating.</note>
+        <target xml:lang="de">Wunderbar! Willst du TripGo bewerten?</target>
       </trans-unit>
-      <trans-unit id="Book vehicle">
+      <trans-unit id="Book vehicle" approved="yes">
         <source>Book vehicle</source>
-        <target>Fahrzeug buchen</target>
         <note>vehicle booking action</note>
+        <target xml:lang="de">Fahrzeug buchen</target>
       </trans-unit>
-      <trans-unit id="BookTaxi">
+      <trans-unit id="BookTaxi" approved="yes">
         <source>BookTaxi</source>
-        <target>Taxi buchen</target>
         <note>Book a taxi</note>
+        <target xml:lang="de">Taxi buchen</target>
       </trans-unit>
-      <trans-unit id="Bummer... How about some feedback?">
+      <trans-unit id="Bummer... How about some feedback?" approved="yes">
         <source>Bummer... How about some feedback?</source>
-        <target>Schade. Willst du uns sagen warum?</target>
         <note>Response to negative answer to question whether TripGo is useful, prompting for feedback.</note>
+        <target xml:lang="de">Schade. Willst du uns sagen warum?</target>
       </trans-unit>
-      <trans-unit id="Calendar">
+      <trans-unit id="Calendar" approved="yes">
         <source>Calendar</source>
-        <target>Kalender</target>
         <note>Calendar</note>
+        <target xml:lang="de">Kalender</target>
       </trans-unit>
-      <trans-unit id="Calendar Event">
+      <trans-unit id="Calendar Event" approved="yes">
         <source>Calendar Event</source>
-        <target>Ereignis</target>
         <note>Type for regular events that go in the phone's calendar.</note>
+        <target xml:lang="de">Ereignis</target>
       </trans-unit>
-      <trans-unit id="CalendarEventDescription">
+      <trans-unit id="CalendarEventDescription" approved="yes">
         <source>CalendarEventDescription</source>
-        <target>Reguläre Ereignisse werden in den Kalendern deines Geräts gespeichert.</target>
         <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
+        <target xml:lang="de">Reguläre Ereignisse werden in den Kalendern deines Geräts gespeichert.</target>
       </trans-unit>
-      <trans-unit id="Calendars">
+      <trans-unit id="Calendars" approved="yes">
         <source>Calendars</source>
-        <target>Kalender</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Kalender</target>
       </trans-unit>
-      <trans-unit id="Change time">
+      <trans-unit id="Change time" approved="yes">
         <source>Change time</source>
-        <target>Zeit ändern</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Zeit ändern</target>
       </trans-unit>
-      <trans-unit id="Clear cache">
+      <trans-unit id="Clear cache" approved="yes">
         <source>Clear cache</source>
-        <target>Cache leeren</target>
         <note>clear cache preference</note>
+        <target xml:lang="de">Cache leeren</target>
       </trans-unit>
-      <trans-unit id="Clear search history">
+      <trans-unit id="Clear search history" approved="yes">
         <source>Clear search history</source>
-        <target>Chronik leeren</target>
         <note>clear search history preference</note>
+        <target xml:lang="de">Chronik leeren</target>
       </trans-unit>
-      <trans-unit id="Concession Pricing">
+      <trans-unit id="Concession Pricing" approved="yes">
         <source>Concession Pricing</source>
-        <target>Ermäßigter Preis</target>
         <note>School pricing preference</note>
+        <target xml:lang="de">Ermäßigter Preis</target>
       </trans-unit>
-      <trans-unit id="Convenience">
+      <trans-unit id="Convenience" approved="yes">
         <source>Convenience</source>
-        <target>Bequem</target>
         <note>Hassle preference</note>
+        <target xml:lang="de">Bequem</target>
       </trans-unit>
-      <trans-unit id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.">
+      <trans-unit id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi." approved="yes">
         <source>Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</source>
-        <target>Komfort wird davon beeinflusst, wie oft Verkehrsmittel gewechselt werden müssen, wieviel man laufen muss, die Schwierigkeit ein Taxi finden usw.</target>
         <note>Convenience description</note>
+        <target xml:lang="de">Komfort wird davon beeinflusst, wie oft Verkehrsmittel gewechselt werden müssen, wieviel man laufen muss, die Schwierigkeit ein Taxi finden usw.</target>
       </trans-unit>
-      <trans-unit id="Could not find your city.">
+      <trans-unit id="Could not find your city." approved="yes">
         <source>Could not find your city.</source>
-        <target>TripGo konnte deine Stadt nicht finden.</target>
         <note>Error title when TripGo couldn't identify the user's current city.</note>
+        <target xml:lang="de">TripGo konnte deine Stadt nicht finden.</target>
       </trans-unit>
-      <trans-unit id="CriticalError">
+      <trans-unit id="CriticalError" approved="yes">
         <source>CriticalError</source>
-        <target>Kritischer Fehler</target>
         <note>Title for critical error</note>
+        <target xml:lang="de">Kritischer Fehler</target>
       </trans-unit>
-      <trans-unit id="CriticalErrorFormat">
+      <trans-unit id="CriticalErrorFormat" approved="yes">
         <source>CriticalErrorFormat</source>
-        <target>Die Anwendung hat einen kritischen Fehler gefunden und kann nicht wiederhergestellt werden:</target>
         <note>Description for critical error where error will be shown below.</note>
+        <target xml:lang="de">Die Anwendung hat einen kritischen Fehler gefunden und kann nicht wiederhergestellt werden:</target>
       </trans-unit>
-      <trans-unit id="Current Trip">
+      <trans-unit id="Current Trip" approved="yes">
         <source>Current Trip</source>
-        <target>Aktueller Trip</target>
         <note>Indicating the next trip is a current trip</note>
+        <target xml:lang="de">Aktueller Trip</target>
       </trans-unit>
-      <trans-unit id="Custom trip does not fit">
+      <trans-unit id="Custom trip does not fit" approved="yes">
         <source>Custom trip does not fit</source>
-        <target>Eigener Trip passt nicht</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Eigener Trip passt nicht</target>
       </trans-unit>
-      <trans-unit id="Custom trip has been cancelled">
+      <trans-unit id="Custom trip has been cancelled" approved="yes">
         <source>Custom trip has been cancelled</source>
-        <target>Buchung wurde gecancelt</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Buchung wurde gecancelt</target>
       </trans-unit>
-      <trans-unit id="Cycle speed">
+      <trans-unit id="Cycle speed" approved="yes">
         <source>Cycle speed</source>
-        <target>Radfahrgeschwindigkeit</target>
         <note>Cycling speed preference</note>
+        <target xml:lang="de">Radfahrgeschwindigkeit</target>
       </trans-unit>
-      <trans-unit id="Database corrupted and lost.">
+      <trans-unit id="Database corrupted and lost." approved="yes">
         <source>Database corrupted and lost.</source>
-        <target>Datenbank korrupt.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Datenbank korrupt.</target>
       </trans-unit>
-      <trans-unit id="DateFromFormat">
+      <trans-unit id="DateFromFormat" approved="yes">
         <source>DateFromFormat</source>
-        <target>Von %@</target>
         <note>From %date</note>
+        <target xml:lang="de">Von %@</target>
       </trans-unit>
-      <trans-unit id="DateFromToFormat">
+      <trans-unit id="DateFromToFormat" approved="yes">
         <source>DateFromToFormat</source>
-        <target>Von %@ bis %@</target>
         <note>From %date1 to %date2</note>
+        <target xml:lang="de">Von %@ bis %@</target>
       </trans-unit>
-      <trans-unit id="Departure">
+      <trans-unit id="Departure" approved="yes">
         <source>Departure</source>
-        <target>Abfahrt</target>
         <note>Departure date+time for overnight stay
    Departure time sorter title</note>
+        <target xml:lang="de">Abfahrt</target>
       </trans-unit>
-      <trans-unit id="Dismiss">
+      <trans-unit id="Dismiss" approved="yes">
         <source>Dismiss</source>
-        <target>Ausblenden</target>
         <note>Dismiss accessibility label
    Dismiss button label
    Negative answer to displayed advertising.</note>
+        <target xml:lang="de">Ausblenden</target>
       </trans-unit>
-      <trans-unit id="Distances">
+      <trans-unit id="Distances" approved="yes">
         <source>Distances</source>
-        <target>Entfernungen</target>
         <note>Distances preference</note>
+        <target xml:lang="de">Entfernungen</target>
       </trans-unit>
-      <trans-unit id="Do Not Include">
+      <trans-unit id="Do Not Include" approved="yes">
         <source>Do Not Include</source>
-        <target>Nicht einbeziehen</target>
         <note>Title for transport modes that the user doesn't want included</note>
+        <target xml:lang="de">Nicht einbeziehen</target>
       </trans-unit>
-      <trans-unit id="Do you want to always use this trip and add it to your favourites?">
+      <trans-unit id="Do you want to always use this trip and add it to your favourites?" approved="yes">
         <source>Do you want to always use this trip and add it to your favourites?</source>
-        <target>Möchtest du immer diesen Trip verwenden und ihn zu deinen Favoriten hinzufügen?</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Möchtest du immer diesen Trip verwenden und ihn zu deinen Favoriten hinzufügen?</target>
       </trans-unit>
-      <trans-unit id="Don't have a fixed place of work or study? Skip this step.">
+      <trans-unit id="Don't have a fixed place of work or study? Skip this step." approved="yes">
         <source>Don't have a fixed place of work or study? Skip this step.</source>
-        <target>Keinen regelmäßigen Arbeits- oder Studiumsplatz? Schritt überspringen.</target>
         <note>Walkthrough (skip in here should match translation for 'Skip'.</note>
+        <target xml:lang="de">Keinen regelmäßigen Arbeits- oder Studiumsplatz? Schritt überspringen.</target>
       </trans-unit>
       <trans-unit id="Downloading trip...">
         <source>Downloading trip...</source>
-        <target>Trip herunterladen...</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Trip wird geladen...</target>
       </trans-unit>
-      <trans-unit id="EditItemHereTitle">
+      <trans-unit id="EditItemHereTitle" approved="yes">
         <source>EditItemHereTitle</source>
-        <target>Agenda-Eintrag</target>
         <note>Title for page for modifying a routine/stay at a specific location</note>
+        <target xml:lang="de">Agenda-Eintrag</target>
       </trans-unit>
-      <trans-unit id="End Date">
+      <trans-unit id="End Date" approved="yes">
         <source>End Date</source>
-        <target>Ende</target>
         <note>Title for date when an event ends repeating</note>
+        <target xml:lang="de">Ende</target>
       </trans-unit>
-      <trans-unit id="End User Licence Agreement">
+      <trans-unit id="End User Licence Agreement" approved="yes">
         <source>End User Licence Agreement</source>
-        <target>End User Licence Agreement</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Endnutzer-Lizenzvertrag</target>
       </trans-unit>
-      <trans-unit id="Environment">
+      <trans-unit id="Environment" approved="yes">
         <source>Environment</source>
-        <target>Umweltfreundlich</target>
         <note>Carbon preference</note>
+        <target xml:lang="de">Umweltfreundlich</target>
       </trans-unit>
-      <trans-unit id="Event">
+      <trans-unit id="Event" approved="yes">
         <source>Event</source>
-        <target>Ereignis</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Ereignis</target>
       </trans-unit>
-      <trans-unit id="Event does not fit">
+      <trans-unit id="Event does not fit" approved="yes">
         <source>Event does not fit</source>
-        <target>Ereignis passt nicht</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Ereignis passt nicht</target>
       </trans-unit>
-      <trans-unit id="Event is missing an address.">
+      <trans-unit id="Event is missing an address." approved="yes">
         <source>Event is missing an address.</source>
-        <target>Keine Adresse</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Keine Adresse</target>
       </trans-unit>
-      <trans-unit id="Event is outside TripGo's range.">
+      <trans-unit id="Event is outside TripGo's range." approved="yes">
         <source>Event is outside TripGo's range.</source>
-        <target>Außerhalb TripGo’s Reichweite</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Außerhalb TripGo’s Reichweite</target>
       </trans-unit>
-      <trans-unit id="Event was cancelled">
+      <trans-unit id="Event was cancelled" approved="yes">
         <source>Event was cancelled</source>
-        <target>Ereignis wurde abgesagt</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Ereignis wurde abgesagt</target>
       </trans-unit>
-      <trans-unit id="EventEndDateTime">
+      <trans-unit id="EventEndDateTime" approved="yes">
         <source>EventEndDateTime</source>
-        <target>Ende</target>
         <note>Title for the time an event ends (including date information)</note>
+        <target xml:lang="de">Ende</target>
       </trans-unit>
-      <trans-unit id="EventRepeat">
+      <trans-unit id="EventRepeat" approved="yes">
         <source>EventRepeat</source>
-        <target>Wiederholen</target>
         <note>Title for when an event repeats</note>
+        <target xml:lang="de">Wiederholen</target>
       </trans-unit>
-      <trans-unit id="EventStartDateTime">
+      <trans-unit id="EventStartDateTime" approved="yes">
         <source>EventStartDateTime</source>
-        <target>Beginn</target>
         <note>Title for the time an event starts (including date information)</note>
+        <target xml:lang="de">Beginn</target>
       </trans-unit>
-      <trans-unit id="Every %@">
+      <trans-unit id="Every %@" approved="yes">
         <source>Every %@</source>
-        <target>Alle %@</target>
         <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes'</note>
+        <target xml:lang="de">Alle %@</target>
       </trans-unit>
-      <trans-unit id="Example">
+      <trans-unit id="Example" approved="yes">
         <source>Example</source>
-        <target>Beispiel</target>
         <note>Text do mark an example</note>
+        <target xml:lang="de">Beispiel</target>
       </trans-unit>
-      <trans-unit id="Exclude">
+      <trans-unit id="Exclude" approved="yes">
         <source>Exclude</source>
-        <target>Ausschließen</target>
         <note>Exclude event action</note>
+        <target xml:lang="de">Ausschließen</target>
       </trans-unit>
-      <trans-unit id="ExcuseDueToLate">
+      <trans-unit id="ExcuseDueToLate" approved="yes">
         <source>ExcuseDueToLate</source>
-        <target>TripGo - Keine Ausrede mehr für’s Zuspätkommen...</target>
         <note>There goes my excuse for being late...</note>
+        <target xml:lang="de">TripGo - Keine Ausrede mehr für’s Zuspätkommen...</target>
       </trans-unit>
-      <trans-unit id="Fast">
+      <trans-unit id="Fast" approved="yes">
         <source>Fast</source>
-        <target>Schnell</target>
         <note>Speed preference 'fast'</note>
+        <target xml:lang="de">Schnell</target>
       </trans-unit>
-      <trans-unit id="Favourite">
+      <trans-unit id="Favourite" approved="yes">
         <source>Favourite</source>
-        <target>Favorit</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Favorit</target>
       </trans-unit>
-      <trans-unit id="Favourite Trip">
+      <trans-unit id="Favourite Trip" approved="yes">
         <source>Favourite Trip</source>
-        <target>Trip-Favorit</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Trip-Favorit</target>
       </trans-unit>
-      <trans-unit id="Favourite added">
+      <trans-unit id="Favourite added" approved="yes">
         <source>Favourite added</source>
-        <target>Favorit hinzugefügt</target>
         <note>Add favourite HUD notice</note>
+        <target xml:lang="de">Favorit hinzugefügt</target>
       </trans-unit>
-      <trans-unit id="Favourite removed">
+      <trans-unit id="Favourite removed" approved="yes">
         <source>Favourite removed</source>
-        <target>Favorit gelöscht</target>
         <note>Remove trip from favourites HUD notice</note>
+        <target xml:lang="de">Favorit gelöscht</target>
       </trans-unit>
-      <trans-unit id="Favourites">
+      <trans-unit id="Favourites" approved="yes">
         <source>Favourites</source>
-        <target>Favoriten</target>
         <note>Title for button to access favourites</note>
+        <target xml:lang="de">Favoriten</target>
       </trans-unit>
-      <trans-unit id="FavouritesButton">
+      <trans-unit id="FavouritesButton" approved="yes">
         <source>FavouritesButton</source>
-        <target>Favoriten</target>
         <note>Favourites tab bar name</note>
+        <target xml:lang="de">Favoriten</target>
       </trans-unit>
-      <trans-unit id="Feedback &amp; Support">
+      <trans-unit id="Feedback &amp; Support" approved="yes">
         <source>Feedback &amp; Support</source>
-        <target>Ideen &amp; Support</target>
         <note>Help title</note>
+        <target xml:lang="de">Ideen &amp; Support</target>
       </trans-unit>
-      <trans-unit id="Filter">
+      <trans-unit id="Filter" approved="yes">
         <source>Filter</source>
-        <target>Filter</target>
         <note>Placeholder text for search bar that is used for filtering</note>
+        <target xml:lang="de">Filter</target>
       </trans-unit>
-      <trans-unit id="Flight">
+      <trans-unit id="Flight" approved="yes">
         <source>Flight</source>
-        <target>Flug</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Flug</target>
       </trans-unit>
-      <trans-unit id="Flight number">
+      <trans-unit id="Flight number" approved="yes">
         <source>Flight number</source>
-        <target>Flugnummer</target>
         <note>Flight number prompt</note>
+        <target xml:lang="de">Flugnummer</target>
       </trans-unit>
-      <trans-unit id="FlightDate">
+      <trans-unit id="FlightDate" approved="yes">
         <source>FlightDate</source>
-        <target>Datum</target>
         <note>Date of the flight</note>
+        <target xml:lang="de">Datum</target>
       </trans-unit>
-      <trans-unit id="FlightDetails">
+      <trans-unit id="FlightDetails" approved="yes">
         <source>FlightDetails</source>
-        <target>Details</target>
         <note>Details of a flight</note>
+        <target xml:lang="de">Details</target>
       </trans-unit>
-      <trans-unit id="FlightNote">
+      <trans-unit id="FlightNote" approved="yes">
         <source>FlightNote</source>
-        <target>Kommentar</target>
         <note>Note concerning the flight</note>
+        <target xml:lang="de">Kommentar</target>
       </trans-unit>
-      <trans-unit id="FlightNumberFormat">
+      <trans-unit id="FlightNumberFormat" approved="yes">
         <source>FlightNumberFormat</source>
-        <target>Flug %@</target>
         <note>Title for flight with %flightNumber</note>
+        <target xml:lang="de">Flug %@</target>
       </trans-unit>
-      <trans-unit id="FlightSearch">
+      <trans-unit id="FlightSearch" approved="yes">
         <source>FlightSearch</source>
-        <target>Suche Flug</target>
         <note>Search for a flight</note>
+        <target xml:lang="de">Suche Flug</target>
       </trans-unit>
-      <trans-unit id="For when to leave">
+      <trans-unit id="For when to leave" approved="yes">
         <source>For when to leave</source>
-        <target>Wenn ich gehen muss</target>
         <note>Reminder to leave preference</note>
+        <target xml:lang="de">Wenn ich gehen muss</target>
       </trans-unit>
-      <trans-unit id="FreeDirections">
+      <trans-unit id="FreeDirections" approved="yes">
         <source>FreeDirections</source>
-        <target>TripGo - kostenloser Routenplaner</target>
         <note>Free directions</note>
+        <target xml:lang="de">TripGo - kostenloser Routenplaner</target>
       </trans-unit>
-      <trans-unit id="From">
+      <trans-unit id="From" approved="yes">
         <source>From</source>
-        <target>Von</target>
         <note>Favorite trip 'from' title</note>
+        <target xml:lang="de">Von</target>
       </trans-unit>
-      <trans-unit id="From %@">
+      <trans-unit id="From %@" approved="yes">
         <source>From %@</source>
-        <target>Von %@</target>
         <note>Format string for going from one location to others. Used to name favourite stops.</note>
+        <target xml:lang="de">Von %@</target>
       </trans-unit>
-      <trans-unit id="From %@, leaving now">
+      <trans-unit id="From %@, leaving now" approved="yes">
         <source>From %@, leaving now</source>
-        <target>Jetzt und von %@</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Jetzt und von %@</target>
       </trans-unit>
-      <trans-unit id="From current location">
+      <trans-unit id="From current location" approved="yes">
         <source>From current location</source>
-        <target>Von aktuellem Standort</target>
         <note>Route here... ...from Current location</note>
+        <target xml:lang="de">Von aktuellem Standort</target>
       </trans-unit>
-      <trans-unit id="FromToForEventLocationFormat">
+      <trans-unit id="FromToForEventLocationFormat" approved="yes">
         <source>FromToForEventLocationFormat</source>
-        <target>Von %@ nach %@</target>
         <note>Location for trip exported as event going from %location1 to %location2</note>
+        <target xml:lang="de">Von %@ nach %@</target>
       </trans-unit>
-      <trans-unit id="Garaged Vehicles">
+      <trans-unit id="Garaged Vehicles" approved="yes">
         <source>Garaged Vehicles</source>
-        <target>In der Garage</target>
         <note>Header for list of vehicles garaged at this location</note>
+        <target xml:lang="de">In der Garage</target>
       </trans-unit>
-      <trans-unit id="General">
+      <trans-unit id="General" approved="yes">
         <source>General</source>
-        <target>Allgemeines</target>
         <note>Title of settings for generic transport stuff</note>
+        <target xml:lang="de">Allgemeines</target>
       </trans-unit>
-      <trans-unit id="Get Involved">
+      <trans-unit id="Get Involved" approved="yes">
         <source>Get Involved</source>
-        <target>Unterstütze TripGo</target>
         <note>Header for settings for feedback, recommending and rating TripGo</note>
+        <target xml:lang="de">Unterstütze TripGo</target>
       </trans-unit>
-      <trans-unit id="Get directions">
+      <trans-unit id="Get directions" approved="yes">
         <source>Get directions</source>
-        <target>Detaillierte Wegbeschreibung</target>
         <note>Action button title for getting turn-by-turn directions</note>
+        <target xml:lang="de">Detaillierte Wegbeschreibung</target>
       </trans-unit>
-      <trans-unit id="Get off here">
+      <trans-unit id="Get off here" approved="yes">
         <source>Get off here</source>
-        <target>Hier aussteigen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Hier aussteigen</target>
       </trans-unit>
-      <trans-unit id="Get on here">
+      <trans-unit id="Get on here" approved="yes">
         <source>Get on here</source>
-        <target>Hier einsteigen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Hier einsteigen</target>
       </trans-unit>
-      <trans-unit id="Get on or off here">
+      <trans-unit id="Get on or off here" approved="yes">
         <source>Get on or off here</source>
-        <target>Hier ein- oder aussteigen</target>
         <note>Description for button to get on or off at the selected public transport stop rather than where TripGo suggested.</note>
+        <target xml:lang="de">Hier ein- oder aussteigen</target>
       </trans-unit>
-      <trans-unit id="GetAround">
+      <trans-unit id="GetAround" approved="yes">
         <source>GetAround</source>
-        <target>Ich benutze TripGo um von A nach B zu kommen.</target>
         <note>I use TripGo to get around</note>
+        <target xml:lang="de">Ich benutze TripGo um von A nach B zu kommen.</target>
       </trans-unit>
-      <trans-unit id="Getting current location">
+      <trans-unit id="Getting current location" approved="yes">
         <source>Getting current location</source>
-        <target>Lokalisieren...</target>
         <note>Indicating localisation is in progress</note>
+        <target xml:lang="de">Lokalisieren...</target>
       </trans-unit>
-      <trans-unit id="Getting trip...">
+      <trans-unit id="Getting trip..." approved="yes">
         <source>Getting trip...</source>
-        <target>Trip wird geladen...</target>
         <note>Message to show when trying to get trip for a favorite</note>
+        <target xml:lang="de">Trip wird geladen...</target>
       </trans-unit>
-      <trans-unit id="Habitual Visit">
+      <trans-unit id="Habitual Visit" approved="yes">
         <source>Habitual Visit</source>
-        <target>Routine</target>
         <note>Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites</note>
+        <target xml:lang="de">Routine</target>
       </trans-unit>
-      <trans-unit id="HabitualEventDescription">
+      <trans-unit id="HabitualEventDescription" approved="yes">
         <source>HabitualEventDescription</source>
-        <target>Routinen sind Trips die du regelmäßig machst aber nicht im Kalender haben möchtest (z.B. zur Arbeit). Sie sind wichtig damit die Agenda dich rechtzeitig dahin bringt wo du hin musst.</target>
         <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish.</note>
+        <target xml:lang="de">Routinen sind Trips die du regelmäßig machst aber nicht im Kalender haben möchtest (z.B. zur Arbeit). Sie sind wichtig damit die Agenda dich rechtzeitig dahin bringt wo du hin musst.</target>
       </trans-unit>
-      <trans-unit id="Has TripGo been useful to you?">
+      <trans-unit id="Has TripGo been useful to you?" approved="yes">
         <source>Has TripGo been useful to you?</source>
-        <target>Findest du TripGo nützlich?</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Findest du TripGo nützlich?</target>
       </trans-unit>
-      <trans-unit id="Home">
+      <trans-unit id="Home" approved="yes">
         <source>Home</source>
-        <target>Zuhause</target>
         <note>Typical name that you'd give your home location</note>
+        <target xml:lang="de">Zuhause</target>
       </trans-unit>
-      <trans-unit id="Hybrid">
+      <trans-unit id="Hybrid" approved="yes">
         <source>Hybrid</source>
-        <target>Hybrid</target>
         <note>Map mode 'streets + satellite'</note>
+        <target xml:lang="de">Hybrid</target>
       </trans-unit>
-      <trans-unit id="Include">
+      <trans-unit id="Include" approved="yes">
         <source>Include</source>
-        <target>Einbeziehen</target>
         <note>Include event action</note>
+        <target xml:lang="de">Einbeziehen</target>
       </trans-unit>
-      <trans-unit id="Include Step Count">
+      <trans-unit id="Include Step Count" approved="yes">
         <source>Include Step Count</source>
-        <target>Schrittzähler anzeigen</target>
         <note>Title for setting to include step count on Agenda screen</note>
+        <target xml:lang="de">Schrittzähler anzeigen</target>
       </trans-unit>
-      <trans-unit id="Include in routes">
+      <trans-unit id="Include in routes" approved="yes">
         <source>Include in routes</source>
-        <target>Für Routen verwenden</target>
         <note>Title for a switch indicating if this event should be included in all-day routes
    Title for setting to include transport mode in trips.</note>
+        <target xml:lang="de">Für Routen verwenden</target>
       </trans-unit>
-      <trans-unit id="Jump to today">
+      <trans-unit id="Jump to today" approved="yes">
         <source>Jump to today</source>
-        <target>Zu Heute wechseln</target>
         <note>Accessibility hint for tapping title in agenda - jumps to 'today'</note>
+        <target xml:lang="de">Zu Heute wechseln</target>
       </trans-unit>
-      <trans-unit id="Km">
+      <trans-unit id="Km" approved="yes">
         <source>Km</source>
-        <target>Km</target>
         <note>Distance 'kilometers'</note>
+        <target xml:lang="de">KM</target>
       </trans-unit>
-      <trans-unit id="LeaveAfter">
+      <trans-unit id="LeaveAfter" approved="yes">
         <source>LeaveAfter</source>
-        <target>Abfahrt</target>
         <note>Leave after button</note>
+        <target xml:lang="de">Abfahrt</target>
       </trans-unit>
-      <trans-unit id="List">
+      <trans-unit id="List" approved="yes">
         <source>List</source>
-        <target>Liste</target>
         <note>Button title to switch view to list mode</note>
+        <target xml:lang="de">Liste</target>
       </trans-unit>
-      <trans-unit id="Loading...">
+      <trans-unit id="Loading..." approved="yes">
         <source>Loading...</source>
-        <target>Laden...</target>
         <note>Title to show while loading/waiting for results</note>
+        <target xml:lang="de">Laden...</target>
       </trans-unit>
-      <trans-unit id="Location">
+      <trans-unit id="Location" approved="yes">
         <source>Location</source>
-        <target>Ort</target>
         <note>Title for showing the details of a location, typically picked from the map after searching or dropping a pin</note>
+        <target xml:lang="de">Ort</target>
       </trans-unit>
-      <trans-unit id="Location missing.">
+      <trans-unit id="Location missing." approved="yes">
         <source>Location missing.</source>
-        <target>Adresse fehlt.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Adresse fehlt.</target>
       </trans-unit>
-      <trans-unit id="Location not set.">
+      <trans-unit id="Location not set." approved="yes">
         <source>Location not set.</source>
-        <target>Ort fehlt.</target>
         <note>Error title when favourite is missing a location..</note>
+        <target xml:lang="de">Ort fehlt.</target>
       </trans-unit>
-      <trans-unit id="LocationComingFrom">
+      <trans-unit id="LocationComingFrom" approved="yes">
         <source>LocationComingFrom</source>
-        <target>Von wo?</target>
         <note>Where are you going from?</note>
+        <target xml:lang="de">Von wo?</target>
       </trans-unit>
-      <trans-unit id="LocationWantToGo">
+      <trans-unit id="LocationWantToGo" approved="yes">
         <source>LocationWantToGo</source>
-        <target>Wohin?</target>
         <note>Where do you want to go?</note>
+        <target xml:lang="de">Wohin?</target>
       </trans-unit>
-      <trans-unit id="Long press on the map to choose a location">
+      <trans-unit id="Long press on the map to choose a location" approved="yes">
         <source>Long press on the map to choose a location</source>
-        <target>Länger drücken um Ort auszuwählen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Länger drücken um Ort auszuwählen</target>
       </trans-unit>
-      <trans-unit id="LostOnce">
+      <trans-unit id="LostOnce" approved="yes">
         <source>LostOnce</source>
-        <target>Nie wieder verirren... mit TripGo.</target>
         <note>I once was lost but now I have found... TripGo</note>
+        <target xml:lang="de">Nie wieder verirren... mit TripGo.</target>
       </trans-unit>
-      <trans-unit id="Manual Reminders">
+      <trans-unit id="Manual Reminders" approved="yes">
         <source>Manual Reminders</source>
-        <target>Manuelle Erinnerungen</target>
         <note>Header for settings of reminders that the user manually added</note>
+        <target xml:lang="de">Manuelle Erinnerungen</target>
       </trans-unit>
-      <trans-unit id="Map">
+      <trans-unit id="Map" approved="yes">
         <source>Map</source>
-        <target>Karte</target>
         <note>Button title to switch agenda view to map mode
    Button title to switch to map
    Map preference</note>
+        <target xml:lang="de">Karte</target>
       </trans-unit>
-      <trans-unit id="Marking a location as a favourite will allow quick access to routing results for going there from your current location.">
+      <trans-unit id="Marking a location as a favourite will allow quick access to routing results for going there from your current location." approved="yes">
         <source>Marking a location as a favourite will allow quick access to routing results for going there from your current location.</source>
-        <target>Markiere einen Ort als Favoriten um schnell Ergebnisse von deinem Standort dorthin zu sehen.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Markiere einen Ort als Favoriten um schnell Ergebnisse von deinem Standort dorthin zu sehen.</target>
       </trans-unit>
-      <trans-unit id="Marking a transit stop as a favourite will allow quick access to its timetable.">
+      <trans-unit id="Marking a transit stop as a favourite will allow quick access to its timetable." approved="yes">
         <source>Marking a transit stop as a favourite will allow quick access to its timetable.</source>
-        <target>Markiere eine Haltestelle als Favoriten für schnellen Zugriff auf den Fahrplan.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Markiere eine Haltestelle als Favoriten für schnellen Zugriff auf den Fahrplan.</target>
       </trans-unit>
-      <trans-unit id="Medium">
+      <trans-unit id="Medium" approved="yes">
         <source>Medium</source>
-        <target>Mittel</target>
         <note>Speed preference 'medium'</note>
+        <target xml:lang="de">Mittel</target>
       </trans-unit>
-      <trans-unit id="Mi">
+      <trans-unit id="Mi" approved="yes">
         <source>Mi</source>
-        <target>Mi</target>
         <note>Distance 'miles'</note>
+        <target xml:lang="de">Meilen</target>
       </trans-unit>
-      <trans-unit id="Min transfer time">
+      <trans-unit id="Min transfer time" approved="yes">
         <source>Min transfer time</source>
-        <target>Umstiegszeit (mind.)</target>
         <note>Minimum transfer time preference</note>
+        <target xml:lang="de">Umstiegszeit (mind.)</target>
       </trans-unit>
-      <trans-unit id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.">
+      <trans-unit id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally." approved="yes">
         <source>Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</source>
-        <target>Um Ergebnisse für dieses Transportmittel auf der Routen-Seite zu minimieren. Praktisch für welche die du nur ab und an nimmst.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Um Ergebnisse für dieses Transportmittel auf der Routen-Seite zu minimieren. Praktisch für welche die du nur ab und an nimmst.</target>
       </trans-unit>
-      <trans-unit id="Minimised">
+      <trans-unit id="Minimised" approved="yes">
         <source>Minimised</source>
-        <target>Minimiert</target>
         <note>Indicator that a transport mode will appear minimised on the routes screen.
    Title for setting to minimise a transport mode.</note>
+        <target xml:lang="de">Minimiert</target>
       </trans-unit>
-      <trans-unit id="Minutes">
+      <trans-unit id="Minutes" approved="yes">
         <source>Minutes</source>
-        <target>%.0f Minuten</target>
         <note>Minutes format (used for transfer times)</note>
+        <target xml:lang="de">%.0f Minuten</target>
       </trans-unit>
-      <trans-unit id="Minutes before trip">
+      <trans-unit id="Minutes before trip" approved="yes">
         <source>Minutes before trip</source>
-        <target>Minuten vor Abfahrt</target>
         <note>Reminder to leave preference</note>
+        <target xml:lang="de">Minuten vor Abfahrt</target>
       </trans-unit>
-      <trans-unit id="MinutesBefore">
+      <trans-unit id="MinutesBefore" approved="yes">
         <source>MinutesBefore</source>
-        <target>%.0f Minuten vorher</target>
         <note>Number of minutes before departure</note>
+        <target xml:lang="de">%.0f Minuten vorher</target>
       </trans-unit>
-      <trans-unit id="More">
+      <trans-unit id="More" approved="yes">
         <source>More</source>
-        <target>Mehr</target>
         <note>More button accessibility label</note>
+        <target xml:lang="de">Mehr</target>
       </trans-unit>
-      <trans-unit id="More Information">
+      <trans-unit id="More Information" approved="yes">
         <source>More Information</source>
-        <target>More Informationen</target>
         <note>Header for list of how to get more information (e.g., by opening a website)</note>
+        <target xml:lang="de">More Informationen</target>
       </trans-unit>
-      <trans-unit id="Movie">
+      <trans-unit id="Movie" approved="yes">
         <source>Movie</source>
-        <target>Kino</target>
         <note>Sample event name ('Movie')</note>
+        <target xml:lang="de">Kino</target>
       </trans-unit>
-      <trans-unit id="My Agenda">
+      <trans-unit id="My Agenda" approved="yes">
         <source>My Agenda</source>
-        <target>Agenda</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Agenda</target>
       </trans-unit>
-      <trans-unit id="My Bookings">
+      <trans-unit id="My Bookings" approved="yes">
         <source>My Bookings</source>
-        <target>Buchungen</target>
         <note>Title for profile item that loads a list of user's bookings</note>
+        <target xml:lang="de">Buchungen</target>
       </trans-unit>
-      <trans-unit id="My Priorities">
+      <trans-unit id="My Priorities" approved="yes">
         <source>My Priorities</source>
-        <target>Prioritäten</target>
         <note>User preferences title</note>
+        <target xml:lang="de">Prioritäten</target>
       </trans-unit>
-      <trans-unit id="My Transport">
+      <trans-unit id="My Transport" approved="yes">
         <source>My Transport</source>
-        <target>Transport</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Transport</target>
       </trans-unit>
-      <trans-unit id="My Vehicles">
+      <trans-unit id="My Vehicles" approved="yes">
         <source>My Vehicles</source>
-        <target>Meine Fahrzeuge</target>
         <note>Header for list of my vehicles</note>
+        <target xml:lang="de">Meine Fahrzeuge</target>
       </trans-unit>
-      <trans-unit id="NameVehicle">
+      <trans-unit id="NameVehicle" approved="yes">
         <source>NameVehicle</source>
-        <target>Name</target>
         <note>Name of the vehicle</note>
+        <target xml:lang="de">Name</target>
       </trans-unit>
-      <trans-unit id="Navigate to a supported city on a map.">
+      <trans-unit id="Navigate to a supported city on a map." approved="yes">
         <source>Navigate to a supported city on a map.</source>
-        <target>Bitte navigiere auf der Karte zu einer Stadt die TripGo unterstützt.</target>
         <note>Error recovery suggestion for when TripGo couldn't identify the user's current city.</note>
+        <target xml:lang="de">Bitte navigiere auf der Karte zu einer Stadt die TripGo unterstützt.</target>
       </trans-unit>
-      <trans-unit id="New Favourite">
+      <trans-unit id="New Favourite" approved="yes">
         <source>New Favourite</source>
-        <target>Neuer Favorit</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Neuer Favorit</target>
       </trans-unit>
-      <trans-unit id="NewEvent">
+      <trans-unit id="NewEvent" approved="yes">
         <source>NewEvent</source>
-        <target>Neues Ereignis</target>
         <note>Title for unnamed new event</note>
+        <target xml:lang="de">Neues Ereignis</target>
       </trans-unit>
-      <trans-unit id="NewItemAwayActionTitle">
+      <trans-unit id="NewItemAwayActionTitle" approved="yes">
         <source>NewItemAwayActionTitle</source>
-        <target>Übernachtung hinzufügen</target>
         <note>Action title for adding a habitual item away from some location</note>
+        <target xml:lang="de">Übernachtung hinzufügen</target>
       </trans-unit>
-      <trans-unit id="NewItemHereActionTitle">
+      <trans-unit id="NewItemHereActionTitle" approved="yes">
         <source>NewItemHereActionTitle</source>
-        <target>Zeit hinzufügen</target>
         <note>Action title for adding another habitual visit to a favourite</note>
+        <target xml:lang="de">Zeit hinzufügen</target>
       </trans-unit>
-      <trans-unit id="NewItemHereTitle">
+      <trans-unit id="NewItemHereTitle" approved="yes">
         <source>NewItemHereTitle</source>
-        <target>Agenda-Eintrag</target>
         <note>Title for page for adding a new routine/stay at a specific location</note>
+        <target xml:lang="de">Agenda-Eintrag</target>
       </trans-unit>
-      <trans-unit id="NewStayTitle">
+      <trans-unit id="NewStayTitle" approved="yes">
         <source>NewStayTitle</source>
-        <target>Übernachtung</target>
         <note>Title for page for adding a new routing/stay at a specific location</note>
+        <target xml:lang="de">Übernachtung</target>
       </trans-unit>
-      <trans-unit id="No 'From' location selected">
+      <trans-unit id="No 'From' location selected" approved="yes">
         <source>No 'From' location selected</source>
-        <target>Kein Abfahrtsort ausgewählt</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Kein Abfahrtsort ausgewählt</target>
       </trans-unit>
-      <trans-unit id="No 'To' location selected">
+      <trans-unit id="No 'To' location selected" approved="yes">
         <source>No 'To' location selected</source>
-        <target>Kein Zielort ausgewählt</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Kein Zielort ausgewählt</target>
       </trans-unit>
-      <trans-unit id="No calendar found.">
+      <trans-unit id="No calendar found." approved="yes">
         <source>No calendar found.</source>
-        <target>Kein Kalender gefunden.</target>
         <note>Error title for when no calendar found.</note>
+        <target xml:lang="de">Kein Kalender gefunden.</target>
       </trans-unit>
-      <trans-unit id="No locations set">
+      <trans-unit id="No locations set" approved="yes">
         <source>No locations set</source>
-        <target>Keine Orte ausgewählt</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Keine Orte ausgewählt</target>
       </trans-unit>
-      <trans-unit id="No planned trip">
+      <trans-unit id="No planned trip" approved="yes">
         <source>No planned trip</source>
-        <target>Keine anstehenden Trips</target>
         <note>Text to show if there's no planned trip.</note>
+        <target xml:lang="de">Keine anstehenden Trips</target>
       </trans-unit>
-      <trans-unit id="No planned trips">
+      <trans-unit id="No planned trips" approved="yes">
         <source>No planned trips</source>
-        <target>Keine Routen geplant</target>
         <note>Indicating no trips have been planned within 24 hrs</note>
+        <target xml:lang="de">Keine Routen geplant</target>
       </trans-unit>
-      <trans-unit id="No routes found.">
+      <trans-unit id="No routes found." approved="yes">
         <source>No routes found.</source>
-        <target>Keine Routen gefunden.</target>
         <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
+        <target xml:lang="de">Keine Routen gefunden.</target>
       </trans-unit>
-      <trans-unit id="No, thanks">
+      <trans-unit id="No, thanks" approved="yes">
         <source>No, thanks</source>
-        <target>Nein, danke</target>
         <note>Negative answer to follow-up question for rating or feedback.</note>
+        <target xml:lang="de">Nein, danke</target>
       </trans-unit>
-      <trans-unit id="Not really">
+      <trans-unit id="Not really" approved="yes">
         <source>Not really</source>
-        <target>Nicht wirklich</target>
         <note>Negative answer to question whether TripGo is useful.</note>
+        <target xml:lang="de">Nicht wirklich</target>
       </trans-unit>
-      <trans-unit id="Now">
+      <trans-unit id="Now" approved="yes">
         <source>Now</source>
-        <target>Jetzt</target>
         <note>Countdown cell 'now' indicator</note>
+        <target xml:lang="de">Jetzt</target>
       </trans-unit>
-      <trans-unit id="NumberRouteFormat">
+      <trans-unit id="NumberRouteFormat" approved="yes">
         <source>NumberRouteFormat</source>
-        <target>Route %ld von %ld</target>
         <note>Title for route number %1 of %total, where %total &gt; 1.</note>
+        <target xml:lang="de">Route %ld von %ld</target>
       </trans-unit>
-      <trans-unit id="OK">
+      <trans-unit id="OK" approved="yes">
         <source>OK</source>
-        <target>OK</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">OK</target>
       </trans-unit>
-      <trans-unit id="Only This">
+      <trans-unit id="Only This" approved="yes">
         <source>Only This</source>
-        <target>Nur diesen</target>
         <note>Option to delete only this event in a recurence
    Option to use this trip just this time.</note>
+        <target xml:lang="de">Nur diesen</target>
       </trans-unit>
-      <trans-unit id="Open TripGo app and add the location of this favourite.">
+      <trans-unit id="Open TripGo app and add the location of this favourite." approved="yes">
         <source>Open TripGo app and add the location of this favourite.</source>
-        <target>Öffne die TripGo-App und gib den Ort dieses Favoriten ein.</target>
         <note>Error recovery suggestion for favourites with missing location.</note>
+        <target xml:lang="de">Öffne die TripGo-App und gib den Ort dieses Favoriten ein.</target>
       </trans-unit>
-      <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
+      <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services." approved="yes">
         <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
-        <target>Öffne die TripGo- or Einstellungen-App auf deinem Handy und gebe TripGo Erlaubnis auf die Ortungsdienste zuzugreigen.</target>
         <note>Error recovery suggestion for when watch doesn't have access to location services.</note>
+        <target xml:lang="de">Öffne die TripGo- or Einstellungen-App auf deinem Handy und gebe TripGo Erlaubnis auf die Ortungsdienste zuzugreigen.</target>
       </trans-unit>
-      <trans-unit id="Open URL">
+      <trans-unit id="Open URL" approved="yes">
         <source>Open URL</source>
-        <target>Link öffnen</target>
         <note>Button title to open URL</note>
+        <target xml:lang="de">Link öffnen</target>
       </trans-unit>
-      <trans-unit id="Open website">
+      <trans-unit id="Open website" approved="yes">
         <source>Open website</source>
-        <target>Webseite öffnen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Webseite öffnen</target>
       </trans-unit>
-      <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
+      <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app" approved="yes">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
-        <target>Wir haben unsere EULA aktualisiert. Um die App zu verwenden, muss die neue EULA akzeptiert werden.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Wir haben unsere EULA aktualisiert. Um die App zu verwenden, muss die neue EULA akzeptiert werden.</target>
       </trans-unit>
-      <trans-unit id="Permission was granted. Please go back and try again.">
+      <trans-unit id="Permission was granted. Please go back and try again." approved="yes">
         <source>Permission was granted. Please go back and try again.</source>
-        <target>Erlaubnis erteilt. Bitte erneut versuchen.</target>
         <note>Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results.</note>
+        <target xml:lang="de">Erlaubnis erteilt. Bitte erneut versuchen.</target>
       </trans-unit>
-      <trans-unit id="Permissions">
+      <trans-unit id="Permissions" approved="yes">
         <source>Permissions</source>
-        <target>Berechtigungen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Berechtigungen</target>
       </trans-unit>
-      <trans-unit id="Pick a Time">
+      <trans-unit id="Pick a Time" approved="yes">
         <source>Pick a Time</source>
-        <target>Wähle eine Zeit</target>
         <note>Timetable screen title</note>
+        <target xml:lang="de">Wähle eine Zeit</target>
       </trans-unit>
-      <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
+      <trans-unit id="Plan a trip on your phone or press firmly to access your favourites." approved="yes">
         <source>Plan a trip on your phone or press firmly to access your favourites.</source>
-        <target>Plane eine Route auf deinem iPhone oder drücke fest um deine Favoriten anzuzeigen.</target>
         <note>Instruction to users when there are no upcoming trips</note>
+        <target xml:lang="de">Plane eine Route auf deinem iPhone oder drücke fest um deine Favoriten anzuzeigen.</target>
       </trans-unit>
-      <trans-unit id="Plan a trip on your phone.">
+      <trans-unit id="Plan a trip on your phone." approved="yes">
         <source>Plan a trip on your phone.</source>
-        <target>Plane ein Route auf deinem iPhone.</target>
         <note>Instruction to users when there are no upcoming trips (for non-interactive Glance)</note>
+        <target xml:lang="de">Plane ein Route auf deinem iPhone.</target>
       </trans-unit>
-      <trans-unit id="Please adjust your query and try again.">
+      <trans-unit id="Please adjust your query and try again." approved="yes">
         <source>Please adjust your query and try again.</source>
-        <target>Bitte passe deine Suche an und probiere noch einmal.</target>
         <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
+        <target xml:lang="de">Bitte passe deine Suche an und probiere noch einmal.</target>
       </trans-unit>
-      <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
+      <trans-unit id="Please check your Calendar app and make sure you have a calendar configured." approved="yes">
         <source>Please check your Calendar app and make sure you have a calendar configured.</source>
-        <target>Bitte öffne deine Kalender-App und überprüfe, dass du einen Kalendar eingerichtet hast.</target>
         <note>Error recovery suggestion for when no calendar found.</note>
+        <target xml:lang="de">Bitte öffne deine Kalender-App und überprüfe, dass du einen Kalendar eingerichtet hast.</target>
       </trans-unit>
-      <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
+      <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!" approved="yes">
         <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
-        <target>Bitte lösche die App und installiere sie erneut über den App Store.</target>
         <note>Recovery suggestion when TripGo cannot access its local files</note>
+        <target xml:lang="de">Bitte lösche die App und installiere sie erneut über den App Store.</target>
       </trans-unit>
-      <trans-unit id="Please restart the app. Sorry for the inconvenience!">
+      <trans-unit id="Please restart the app. Sorry for the inconvenience!" approved="yes">
         <source>Please restart the app. Sorry for the inconvenience!</source>
-        <target>Bitte starte die App neu.</target>
         <note>Recovery suggestion when database got corrupted</note>
+        <target xml:lang="de">Bitte starte die App neu.</target>
       </trans-unit>
-      <trans-unit id="Please specify an address.">
+      <trans-unit id="Please specify an address." approved="yes">
         <source>Please specify an address.</source>
-        <target>Bitte füge die Adresse hinzu.</target>
         <note>Alert message that asks users to provide the missing address for a new event.</note>
+        <target xml:lang="de">Bitte füge die Adresse hinzu.</target>
       </trans-unit>
-      <trans-unit id="Please try restarting the app. Sorry for the inconvenience!">
+      <trans-unit id="Please try restarting the app. Sorry for the inconvenience!" approved="yes">
         <source>Please try restarting the app. Sorry for the inconvenience!</source>
-        <target>Bitte versuche die App erneut zu starten.!</target>
         <note>Recovery suggestion when TripGo cannot update its local files</note>
+        <target xml:lang="de">Bitte versuche die App erneut zu starten.!</target>
       </trans-unit>
-      <trans-unit id="Preferred transport">
+      <trans-unit id="Preferred transport" approved="yes">
         <source>Preferred transport</source>
-        <target>Bevorzugte ÖPNV-Verkehrsmittel</target>
         <note>Title for preferred public transport modes.</note>
+        <target xml:lang="de">Bevorzugte ÖPNV-Verkehrsmittel</target>
       </trans-unit>
-      <trans-unit id="Priorities">
+      <trans-unit id="Priorities" approved="yes">
         <source>Priorities</source>
-        <target>Prioritäten</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Prioritäten</target>
       </trans-unit>
-      <trans-unit id="PrivateTimeToLeave">
+      <trans-unit id="PrivateTimeToLeave" approved="yes">
         <source>PrivateTimeToLeave</source>
-        <target>Zeit zu gehen! Dein Trip nach %@ beginnt um %@</target>
         <note>Notification message for a non-public transport trip. Provided is %destination and %time you need to leave.</note>
+        <target xml:lang="de">Zeit zu gehen! Dein Trip nach %@ beginnt um %@</target>
       </trans-unit>
-      <trans-unit id="PrivateTimeToLeaveNoLocation">
+      <trans-unit id="PrivateTimeToLeaveNoLocation" approved="yes">
         <source>PrivateTimeToLeaveNoLocation</source>
-        <target>Zeit zu gehen! Dein Trip beginnt um %@</target>
         <note>Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
+        <target xml:lang="de">Zeit zu gehen! Dein Trip beginnt um %@</target>
       </trans-unit>
-      <trans-unit id="Profile">
+      <trans-unit id="Profile" approved="yes">
         <source>Profile</source>
-        <target>Profil</target>
         <note>Title for view that shows user's profile</note>
+        <target xml:lang="de">Profil</target>
       </trans-unit>
-      <trans-unit id="ProfileButton">
+      <trans-unit id="ProfileButton" approved="yes">
         <source>ProfileButton</source>
-        <target>Profil</target>
         <note>Profile tab bar name</note>
+        <target xml:lang="de">Profil</target>
       </trans-unit>
-      <trans-unit id="Rate TripGo">
+      <trans-unit id="Rate TripGo" approved="yes">
         <source>Rate TripGo</source>
-        <target>Bitte bewerte TripGo</target>
         <note>Rate us preference</note>
+        <target xml:lang="de">Bitte bewerte TripGo</target>
       </trans-unit>
-      <trans-unit id="Reminder">
+      <trans-unit id="Reminder" approved="yes">
         <source>Reminder</source>
-        <target>Erinnerung</target>
         <note>Action title to add/remove reminder</note>
+        <target xml:lang="de">Erinnerung</target>
       </trans-unit>
-      <trans-unit id="Reminder added">
+      <trans-unit id="Reminder added" approved="yes">
         <source>Reminder added</source>
-        <target>Erinnerung hinzugefügt</target>
         <note>Added reminder notice</note>
+        <target xml:lang="de">Erinnerung hinzugefügt</target>
       </trans-unit>
-      <trans-unit id="Reminder removed">
+      <trans-unit id="Reminder removed" approved="yes">
         <source>Reminder removed</source>
-        <target>Erinnerung gelöscht</target>
         <note>Removed reminder HUD notice</note>
+        <target xml:lang="de">Erinnerung gelöscht</target>
       </trans-unit>
-      <trans-unit id="Reminders">
+      <trans-unit id="Reminders" approved="yes">
         <source>Reminders</source>
-        <target>Erinnerungen</target>
         <note>Reminders title</note>
+        <target xml:lang="de">Erinnerungen</target>
       </trans-unit>
-      <trans-unit id="Remove">
+      <trans-unit id="Remove" approved="yes">
         <source>Remove</source>
-        <target>Löschen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Löschen</target>
       </trans-unit>
-      <trans-unit id="Remove Favourite">
+      <trans-unit id="Remove Favourite" approved="yes">
         <source>Remove Favourite</source>
-        <target>Favourit gelöscht</target>
         <note>Remove favourite activity title</note>
+        <target xml:lang="de">Favorit löschen</target>
+        <alt-trans>
+          <target xml:lang="de">Favorit gelöscht</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="de">Favourit gelöscht</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="Remove Reminder">
+      <trans-unit id="Remove Reminder" approved="yes">
         <source>Remove Reminder</source>
-        <target>Erinnerung löschen</target>
         <note>Remove reminder activity title</note>
+        <target xml:lang="de">Erinnerung löschen</target>
       </trans-unit>
-      <trans-unit id="Remove and exclude event">
+      <trans-unit id="Remove and exclude event" approved="yes">
         <source>Remove and exclude event</source>
-        <target>Trip löschen und Ereignis ausschließen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Trip löschen und Ereignis ausschließen</target>
       </trans-unit>
-      <trans-unit id="Remove from Agenda">
+      <trans-unit id="Remove from Agenda" approved="yes">
         <source>Remove from Agenda</source>
-        <target>Von der Agenda löschen</target>
         <note>Unsave trip action</note>
+        <target xml:lang="de">Von der Agenda löschen</target>
       </trans-unit>
-      <trans-unit id="Removed from Agenda">
+      <trans-unit id="Removed from Agenda" approved="yes">
         <source>Removed from Agenda</source>
-        <target>Von der Agenda gelöscht</target>
         <note>Remove from agenda HUD notice</note>
+        <target xml:lang="de">Von der Agenda gelöscht</target>
       </trans-unit>
-      <trans-unit id="Removing this trip will exclude the following event from your agenda.">
+      <trans-unit id="Removing this trip will exclude the following event from your agenda." approved="yes">
         <source>Removing this trip will exclude the following event from your agenda.</source>
-        <target>Durch Löschung dieses Trips wird das nachfolgende Ereignis von deiner Agenda ausgeschlossen.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Durch Löschung dieses Trips wird das nachfolgende Ereignis von deiner Agenda ausgeschlossen.</target>
       </trans-unit>
-      <trans-unit id="Removing this trip will exclude the preceeding event from your agenda.">
+      <trans-unit id="Removing this trip will exclude the preceeding event from your agenda." approved="yes">
         <source>Removing this trip will exclude the preceeding event from your agenda.</source>
-        <target>Durch Löschung dieses Trips wird das vorherige Ereignis von deiner Agenda ausgeschlossen.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Durch Löschung dieses Trips wird das vorherige Ereignis von deiner Agenda ausgeschlossen.</target>
       </trans-unit>
-      <trans-unit id="Repeat does end">
+      <trans-unit id="Repeat does end" approved="yes">
         <source>Repeat does end</source>
-        <target>Wiederholung endet</target>
         <note>Title for switch indicating if an event repeats or not</note>
+        <target xml:lang="de">Wiederholung endet</target>
       </trans-unit>
-      <trans-unit id="Report Problem">
+      <trans-unit id="Report Problem" approved="yes">
         <source>Report Problem</source>
-        <target>Problem melden</target>
         <note>Report problem</note>
+        <target xml:lang="de">Problem melden</target>
       </trans-unit>
-      <trans-unit id="Request...">
+      <trans-unit id="Request..." approved="yes">
         <source>Request...</source>
-        <target>Beantragen...</target>
         <note>Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event.</note>
+        <target xml:lang="de">Beantragen...</target>
       </trans-unit>
-      <trans-unit id="Reset">
+      <trans-unit id="Reset" approved="yes">
         <source>Reset</source>
-        <target>Zurücksetzen</target>
         <note>Reset button for my priorities
    Title of group of settings related to resetting settings</note>
+        <target xml:lang="de">Zurücksetzen</target>
       </trans-unit>
-      <trans-unit id="Reset agenda">
+      <trans-unit id="Reset agenda" approved="yes">
         <source>Reset agenda</source>
-        <target>Agenda zurücksetzen</target>
         <note>Action title to reset agenda content.</note>
+        <target xml:lang="de">Agenda zurücksetzen</target>
       </trans-unit>
-      <trans-unit id="Reset tutorial">
+      <trans-unit id="Reset tutorial" approved="yes">
         <source>Reset tutorial</source>
-        <target>Tutorial zurücksetzen</target>
         <note>Action title to reset tutorial progress.</note>
+        <target xml:lang="de">Tutorial zurücksetzen</target>
       </trans-unit>
-      <trans-unit id="Return time">
+      <trans-unit id="Return time" approved="yes">
         <source>Return time</source>
-        <target>Rückkehrzeit</target>
         <note>Title for selector of return time for a trip</note>
+        <target xml:lang="de">Rückkehrzeit</target>
       </trans-unit>
-      <trans-unit id="Return trip">
+      <trans-unit id="Return trip" approved="yes">
         <source>Return trip</source>
-        <target>Rückweg</target>
         <note>Header for section to configure return trip</note>
+        <target xml:lang="de">Rückweg</target>
       </trans-unit>
-      <trans-unit id="Review EULA">
+      <trans-unit id="Review EULA" approved="yes">
         <source>Review EULA</source>
-        <target>EULA überprüfen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">EULA überprüfen</target>
       </trans-unit>
-      <trans-unit id="Route">
+      <trans-unit id="Route" approved="yes">
         <source>Route</source>
-        <target>Route</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Route</target>
       </trans-unit>
-      <trans-unit id="Route here">
+      <trans-unit id="Route here" approved="yes">
         <source>Route here</source>
-        <target>Route hierher</target>
         <note>Title for options for routing to this location, options are: current location, &lt;some previously selected location&gt;.</note>
+        <target xml:lang="de">Route hierher</target>
       </trans-unit>
-      <trans-unit id="Routes">
+      <trans-unit id="Routes" approved="yes">
         <source>Routes</source>
-        <target>Routen</target>
         <note>Results screen title</note>
+        <target xml:lang="de">Routen</target>
       </trans-unit>
-      <trans-unit id="Satellite">
+      <trans-unit id="Satellite" approved="yes">
         <source>Satellite</source>
-        <target>Satellit</target>
         <note>Map mode 'satellite'</note>
+        <target xml:lang="de">Satellit</target>
       </trans-unit>
-      <trans-unit id="Save Money">
+      <trans-unit id="Save Money" approved="yes">
         <source>Save Money</source>
-        <target>Günstig</target>
         <note>Price preference</note>
+        <target xml:lang="de">Günstig</target>
       </trans-unit>
-      <trans-unit id="Save Time">
+      <trans-unit id="Save Time" approved="yes">
         <source>Save Time</source>
-        <target>Schnell</target>
         <note>Time preference</note>
+        <target xml:lang="de">Schnell</target>
       </trans-unit>
-      <trans-unit id="Search for a city">
+      <trans-unit id="Search for a city" approved="yes">
         <source>Search for a city</source>
-        <target>Stadt suchen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Stadt suchen</target>
       </trans-unit>
-      <trans-unit id="Search for your home address">
+      <trans-unit id="Search for your home address" approved="yes">
         <source>Search for your home address</source>
-        <target>Nach Privatadresse suchen</target>
         <note>Agenda onboarding: placeholder text for search bar for 'home'.</note>
+        <target xml:lang="de">Nach Privatadresse suchen</target>
       </trans-unit>
-      <trans-unit id="Search for your work address">
+      <trans-unit id="Search for your work address" approved="yes">
         <source>Search for your work address</source>
-        <target>Nach Arbeitsadresse suchen</target>
         <note>Agenda onboarding: placeholder text for search bar for 'work'.</note>
+        <target xml:lang="de">Nach Arbeitsadresse suchen</target>
       </trans-unit>
-      <trans-unit id="SearchButton">
+      <trans-unit id="SearchButton" approved="yes">
         <source>SearchButton</source>
-        <target>Suche</target>
         <note>Search tab bar name</note>
+        <target xml:lang="de">Suche</target>
       </trans-unit>
-      <trans-unit id="Select Bike Share">
+      <trans-unit id="Searching for '%@'...">
+        <source>Searching for '%@'...</source>
+        <note>Placeholder text while waiting for server response when searching for a location.</note>
+        <target xml:lang="de" state="translated">'%@' suchen...</target>
+      </trans-unit>
+      <trans-unit id="Select Bike Share" approved="yes">
         <source>Select Bike Share</source>
-        <target>Fahrradstationen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Fahrradstationen</target>
       </trans-unit>
-      <trans-unit id="Select Car Park">
+      <trans-unit id="Select Car Park" approved="yes">
         <source>Select Car Park</source>
-        <target>Parkhäuser</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Parkhäuser</target>
       </trans-unit>
-      <trans-unit id="Select Vehicle">
+      <trans-unit id="Select Vehicle" approved="yes">
         <source>Select Vehicle</source>
-        <target>Fahrzeug wählen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Fahrzeug wählen</target>
       </trans-unit>
-      <trans-unit id="Select a date to get flight details.">
+      <trans-unit id="Select a date to get flight details." approved="yes">
         <source>Select a date to get flight details.</source>
-        <target>Wähle ein Datum um Flugdetails anzuzeigen.</target>
         <note>Details of a flight prompt to enter date first.</note>
+        <target xml:lang="de">Wähle ein Datum um Flugdetails anzuzeigen.</target>
       </trans-unit>
-      <trans-unit id="Select the place where you stay at the end of each day">
+      <trans-unit id="Select the place where you stay at the end of each day" approved="yes">
         <source>Select the place where you stay at the end of each day</source>
-        <target>Der Ort an dem du normalerweise übernachtest</target>
         <note>Walkthrough</note>
+        <target xml:lang="de">Der Ort an dem du normalerweise übernachtest</target>
       </trans-unit>
-      <trans-unit id="Send Real-time SMS">
+      <trans-unit id="Send Real-time SMS" approved="yes">
         <source>Send Real-time SMS</source>
-        <target>SMS zu Echtzeitservice schicken</target>
         <note>Action button title for composing an SMS to a real-time service</note>
+        <target xml:lang="de">SMS zu Echtzeitservice schicken</target>
       </trans-unit>
-      <trans-unit id="Set up your Agenda in the TripGo app.">
+      <trans-unit id="Set up your Agenda in the TripGo app." approved="yes">
         <source>Set up your Agenda in the TripGo app.</source>
-        <target>Richte deine Agenda in der TripGo app ein.</target>
         <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.</note>
+        <target xml:lang="de">Richte deine Agenda in der TripGo app ein.</target>
       </trans-unit>
-      <trans-unit id="Settings">
+      <trans-unit id="Settings" approved="yes">
         <source>Settings</source>
-        <target>Einstellungen</target>
         <note>Button that goes to the Setting's app</note>
+        <target xml:lang="de">Einstellungen</target>
       </trans-unit>
-      <trans-unit id="Share Arrival">
+      <trans-unit id="Share Arrival" approved="yes">
         <source>Share Arrival</source>
-        <target>Ankunft senden</target>
         <note>Action button title for sharing when you arrive
    Share arrival</note>
+        <target xml:lang="de">Ankunft senden</target>
       </trans-unit>
-      <trans-unit id="Share Trip">
+      <trans-unit id="Share Trip" approved="yes">
         <source>Share Trip</source>
-        <target>Trip senden</target>
         <note>Share trip</note>
+        <target xml:lang="de">Trip senden</target>
       </trans-unit>
-      <trans-unit id="Show Wheelchair Information">
+      <trans-unit id="Show Wheelchair Information" approved="yes">
         <source>Show Wheelchair Information</source>
         <note>Preference to highlight wheelchair information</note>
+        <target xml:lang="de">Rollstuhl-Informationen anzeigen</target>
       </trans-unit>
-      <trans-unit id="Show alternatives">
+      <trans-unit id="Show alternatives" approved="yes">
         <source>Show alternatives</source>
-        <target>Alternativen</target>
         <note>Button title on trips to show alternatives for it</note>
+        <target xml:lang="de">Alternativen</target>
       </trans-unit>
-      <trans-unit id="Show booking options">
+      <trans-unit id="Show booking options" approved="yes">
         <source>Show booking options</source>
-        <target>Buchungsoptionen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Buchungsoptionen</target>
       </trans-unit>
-      <trans-unit id="Show details">
+      <trans-unit id="Show details" approved="yes">
         <source>Show details</source>
-        <target>Details anzeigen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Details anzeigen</target>
       </trans-unit>
-      <trans-unit id="Show disclaimer">
+      <trans-unit id="Show disclaimer" approved="yes">
         <source>Show disclaimer</source>
-        <target>Disclaimer anzeigen</target>
         <note>Button to show disclaimers, e.g., info of public transport data.</note>
+        <target xml:lang="de">Disclaimer anzeigen</target>
       </trans-unit>
-      <trans-unit id="Show info">
+      <trans-unit id="Show info" approved="yes">
         <source>Show info</source>
-        <target>Info anzeigen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Info anzeigen</target>
       </trans-unit>
-      <trans-unit id="Show map">
+      <trans-unit id="Show map" approved="yes">
         <source>Show map</source>
-        <target>Karte anzeigen</target>
         <note>Action title to show map for a segment</note>
+        <target xml:lang="de">Karte anzeigen</target>
       </trans-unit>
-      <trans-unit id="Show parking options">
+      <trans-unit id="Show parking options" approved="yes">
         <source>Show parking options</source>
-        <target>Parkmöglichkeiten anzeigen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Parkmöglichkeiten anzeigen</target>
       </trans-unit>
-      <trans-unit id="Show ticket Info">
+      <trans-unit id="Show ticket Info" approved="yes">
         <source>Show ticket Info</source>
-        <target>Ticketinformationen anzeigen</target>
         <note>Button Title to get to website with ticket details.</note>
+        <target xml:lang="de">Ticketinformationen anzeigen</target>
       </trans-unit>
-      <trans-unit id="Show timetable">
+      <trans-unit id="Show timetable" approved="yes">
         <source>Show timetable</source>
-        <target>Fahrplan anzeigen</target>
         <note>Action button title for viewing timetable for public transport</note>
+        <target xml:lang="de">Fahrplan anzeigen</target>
       </trans-unit>
-      <trans-unit id="ShowTrip">
+      <trans-unit id="ShowTrip" approved="yes">
         <source>ShowTrip</source>
-        <target>Trip anzeigen</target>
         <note>Show trip</note>
+        <target xml:lang="de">Trip anzeigen</target>
       </trans-unit>
-      <trans-unit id="Skip">
+      <trans-unit id="Skip" approved="yes">
         <source>Skip</source>
-        <target>Überspringen</target>
         <note>Button title to skip a certain step</note>
+        <target xml:lang="de">Überspringen</target>
       </trans-unit>
-      <trans-unit id="Slow">
+      <trans-unit id="Slow" approved="yes">
         <source>Slow</source>
-        <target>Langsam</target>
         <note>Speed preference 'slow'</note>
+        <target xml:lang="de">Langsam</target>
       </trans-unit>
-      <trans-unit id="Sorry. TripGo doesn't work here yet!">
+      <trans-unit id="Sorry. TripGo doesn't work here yet!" approved="yes">
         <source>Sorry. TripGo doesn't work here yet!</source>
-        <target>TripGo funktioniert hier leider noch nicht.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">TripGo funktioniert hier leider noch nicht.</target>
       </trans-unit>
-      <trans-unit id="Spread the word">
+      <trans-unit id="Spread the word" approved="yes">
         <source>Spread the word</source>
-        <target>Weitersagen</target>
         <note>Spread the word preference</note>
+        <target xml:lang="de">Weitersagen</target>
       </trans-unit>
-      <trans-unit id="SrcToDstFormat">
+      <trans-unit id="SrcToDstFormat" approved="yes">
         <source>SrcToDstFormat</source>
-        <target>%@ (%@) nach %@ (%@)</target>
         <note>Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4)</note>
+        <target xml:lang="de">%@ (%@) nach %@ (%@)</target>
       </trans-unit>
-      <trans-unit id="Stay">
+      <trans-unit id="Stay" approved="yes">
         <source>Stay</source>
-        <target>Übernachtung</target>
         <note>Stay, i.e., type for dates you're staying at a hotel, or when moving house.</note>
+        <target xml:lang="de">Übernachtung</target>
       </trans-unit>
-      <trans-unit id="StayEventDescription">
+      <trans-unit id="StayEventDescription" approved="yes">
         <source>StayEventDescription</source>
-        <target>Übernachtungen werden von der Agenda berücksichtigt um an den entsprechenden Tagen am richtigen Ort zu beginnen und enden.</target>
         <note>Explanation for what stays are compared to calendar events and routines. Can be long-ish.</note>
+        <target xml:lang="de">Übernachtungen werden von der Agenda berücksichtigt um an den entsprechenden Tagen am richtigen Ort zu beginnen und enden.</target>
       </trans-unit>
-      <trans-unit id="StayTitle">
+      <trans-unit id="StayTitle" approved="yes">
         <source>StayTitle</source>
-        <target>Übernachtung</target>
         <note>Title for identifying a location where you stay overnight</note>
+        <target xml:lang="de">Übernachtung</target>
       </trans-unit>
-      <trans-unit id="StepsNumber">
+      <trans-unit id="StepsNumber" approved="yes">
         <source>StepsNumber</source>
-        <target>%@ Schritte gelaufen</target>
         <note>Number of steps</note>
+        <target xml:lang="de">%@ Schritte gelaufen</target>
       </trans-unit>
-      <trans-unit id="Stop code: %@">
+      <trans-unit id="Stop code: %@" approved="yes">
         <source>Stop code: %@</source>
         <note>Additional information for official stop code of a public transport stop.</note>
+        <target xml:lang="de">Stop-Code: %@</target>
       </trans-unit>
-      <trans-unit id="Stopover">
+      <trans-unit id="Stopover" approved="yes">
         <source>Stopover</source>
-        <target>Zwischenstelle</target>
         <note>Title for stopover event</note>
+        <target xml:lang="de">Zwischenstelle</target>
       </trans-unit>
-      <trans-unit id="Streets">
+      <trans-unit id="Streets" approved="yes">
         <source>Streets</source>
-        <target>Straße</target>
         <note>Map mode 'streets'</note>
+        <target xml:lang="de">Straße</target>
       </trans-unit>
-      <trans-unit id="Support">
+      <trans-unit id="Support" approved="yes">
         <source>Support</source>
-        <target>Hilfe</target>
         <note>Contact support error button</note>
+        <target xml:lang="de">Hilfe</target>
       </trans-unit>
-      <trans-unit id="Swipe dates to navigate between weeks">
+      <trans-unit id="Swipe dates to navigate between weeks" approved="yes">
         <source>Swipe dates to navigate between weeks</source>
-        <target>Um zu anderen Wochen zu gelangen, streichen.</target>
         <note>Walkthrough</note>
+        <target xml:lang="de">Um zu anderen Wochen zu gelangen, streichen.</target>
       </trans-unit>
-      <trans-unit id="Tap 'Routes' for alternative routes">
+      <trans-unit id="Tap 'Routes' for alternative routes" approved="yes">
         <source>Tap 'Routes' for alternative routes</source>
-        <target>Um altenative Routen zu sehen, 'Routen' tippen.</target>
         <note>Walkthrough - should match translation for '\"Routes\"'</note>
+        <target xml:lang="de">Um altenative Routen zu sehen, 'Routen' tippen.</target>
       </trans-unit>
-      <trans-unit id="Tap and hold title to jump directly to a specified date.">
+      <trans-unit id="Tap and hold title to jump directly to a specified date." approved="yes">
         <source>Tap and hold title to jump directly to a specified date.</source>
-        <target>Um direkt zu einem bestimmten Datum zu gelangen, Titel gedrückt halten.</target>
         <note>Walkthrough</note>
+        <target xml:lang="de">Um direkt zu einem bestimmten Datum zu gelangen, Titel gedrückt halten.</target>
       </trans-unit>
-      <trans-unit id="Tap public transport stops for access to timetable">
+      <trans-unit id="Tap public transport stops for access to timetable" approved="yes">
         <source>Tap public transport stops for access to timetable</source>
-        <target>Um den Fahrplan zu sehen, tippe auf eine Haltestelle.</target>
         <note>Walkthrough</note>
+        <target xml:lang="de">Um den Fahrplan zu sehen, tippe auf eine Haltestelle.</target>
       </trans-unit>
-      <trans-unit id="Tap title to go to 'today'">
+      <trans-unit id="Tap title to go to 'today'" approved="yes">
         <source>Tap title to go to 'today'</source>
-        <target>Um zu 'heute' zu gelangen, Titel tippen.</target>
         <note>Walkthrough</note>
+        <target xml:lang="de">Um zu 'heute' zu gelangen, Titel tippen.</target>
       </trans-unit>
-      <trans-unit id="Tap to confirm hours or swipe to delete">
+      <trans-unit id="Tap to confirm hours or swipe to delete" approved="yes">
         <source>Tap to confirm hours or swipe to delete</source>
-        <target>Zeit bestätigen oder streichen zum Löschen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Zeit bestätigen oder streichen zum Löschen</target>
       </trans-unit>
-      <trans-unit id="Tap to set address">
+      <trans-unit id="Tap to set address" approved="yes">
         <source>Tap to set address</source>
-        <target>Adresse hinzufügen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Adresse hinzufügen</target>
       </trans-unit>
-      <trans-unit id="Tap to set address or swipe to delete">
+      <trans-unit id="Tap to set address or swipe to delete" approved="yes">
         <source>Tap to set address or swipe to delete</source>
-        <target>Adresse hinzufügen oder streichen zum Löschen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Adresse hinzufügen oder streichen zum Löschen</target>
       </trans-unit>
-      <trans-unit id="Tap to set garage">
+      <trans-unit id="Tap to set garage" approved="yes">
         <source>Tap to set garage</source>
-        <target>Garage hinzufügen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Garage hinzufügen</target>
       </trans-unit>
-      <trans-unit id="Thank you!">
+      <trans-unit id="Thank you!" approved="yes">
         <source>Thank you!</source>
-        <target>Dankeschön!</target>
         <note>Thank you HUD notice</note>
+        <target xml:lang="de">Dankeschön!</target>
       </trans-unit>
-      <trans-unit id="Time at Work">
+      <trans-unit id="Time at Work" approved="yes">
         <source>Time at Work</source>
-        <target>Arbeitszeiten</target>
         <note>Title for screen to pick your working hours</note>
+        <target xml:lang="de">Arbeitszeiten</target>
       </trans-unit>
-      <trans-unit id="Time zone">
+      <trans-unit id="Time zone" approved="yes">
         <source>Time zone</source>
-        <target>Zeitzone</target>
         <note>Time zone (typically for an event)</note>
+        <target xml:lang="de">Zeitzone</target>
       </trans-unit>
-      <trans-unit id="Times">
+      <trans-unit id="Times" approved="yes">
         <source>Times</source>
-        <target>Zeiten</target>
         <note>Header for times a user is typically at this location, e.g., working hours</note>
+        <target xml:lang="de">Zeiten</target>
       </trans-unit>
-      <trans-unit id="Timetable">
+      <trans-unit id="Timetable" approved="yes">
         <source>Timetable</source>
-        <target>Fahrplan</target>
         <note>Title of button to access timetable</note>
+        <target xml:lang="de">Fahrplan</target>
       </trans-unit>
-      <trans-unit id="TitleEventName">
+      <trans-unit id="TitleEventName" approved="yes">
         <source>TitleEventName</source>
-        <target>Name</target>
         <note>Title event name</note>
+        <target xml:lang="de">Name</target>
       </trans-unit>
-      <trans-unit id="TitleFavouriteName">
+      <trans-unit id="TitleFavouriteName" approved="yes">
         <source>TitleFavouriteName</source>
-        <target>Name</target>
         <note>Title favourite name</note>
+        <target xml:lang="de">Name</target>
       </trans-unit>
-      <trans-unit id="To">
+      <trans-unit id="To" approved="yes">
         <source>To</source>
-        <target>Nach</target>
         <note>Favorite trip 'to' title</note>
+        <target xml:lang="de">Nach</target>
       </trans-unit>
-      <trans-unit id="Transport">
+      <trans-unit id="Transport" approved="yes">
         <source>Transport</source>
-        <target>Transport</target>
         <note>Title for button to access transport modes
    Title of settings for generic transport stuff</note>
+        <target xml:lang="de">Transport</target>
       </trans-unit>
-      <trans-unit id="TransportGenius">
+      <trans-unit id="TransportGenius" approved="yes">
         <source>TransportGenius</source>
-        <target>TripGo - Transportgenie</target>
         <note>Transport genius</note>
+        <target xml:lang="de">TripGo - Transportgenie</target>
       </trans-unit>
-      <trans-unit id="TransportModeWish">
+      <trans-unit id="TransportModeWish" approved="yes">
         <source>TransportModeWish</source>
-        <target>TripGo - Wie kommst du heute hin?</target>
         <note>How do you want to go today?</note>
+        <target xml:lang="de">TripGo - Wie kommst du heute hin?</target>
       </trans-unit>
-      <trans-unit id="TripGo cannot access its local files.">
+      <trans-unit id="TripGo cannot access its local files." approved="yes">
         <source>TripGo cannot access its local files.</source>
-        <target>TripGo konnte auf seine Dateien nicht zugreifen.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">TripGo konnte auf seine Dateien nicht zugreifen.</target>
       </trans-unit>
-      <trans-unit id="TripGo cannot update its local files.">
+      <trans-unit id="TripGo cannot update its local files." approved="yes">
         <source>TripGo cannot update its local files.</source>
-        <target>TripGo konnte seine Dateien nicht aktualisieren.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">TripGo konnte seine Dateien nicht aktualisieren.</target>
       </trans-unit>
-      <trans-unit id="TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.">
+      <trans-unit id="TripGo does not work in this area yet. Please navigate to on of our supported regions and try again." approved="yes">
         <source>TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.</source>
-        <target>TripGo funktioniert hier noch nicht. Probier’s doch mal in einer anderen Gegend.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">TripGo funktioniert hier noch nicht. Probier’s doch mal in einer anderen Gegend.</target>
       </trans-unit>
-      <trans-unit id="TripsButton">
+      <trans-unit id="TripsButton" approved="yes">
         <source>TripsButton</source>
-        <target>Trips</target>
         <note>Trips tab bar name</note>
+        <target xml:lang="de">Trips</target>
       </trans-unit>
-      <trans-unit id="TypeEvent">
+      <trans-unit id="TypeEvent" approved="yes">
         <source>TypeEvent</source>
-        <target>Art</target>
         <note>Type of the event (calendar event, stay, routine)</note>
+        <target xml:lang="de">Art</target>
       </trans-unit>
-      <trans-unit id="TypeVehicle">
+      <trans-unit id="TypeVehicle" approved="yes">
         <source>TypeVehicle</source>
-        <target>Art</target>
         <note>Type of the vehicle</note>
+        <target xml:lang="de">Art</target>
       </trans-unit>
-      <trans-unit id="Upcoming Trip">
+      <trans-unit id="Upcoming Trip" approved="yes">
         <source>Upcoming Trip</source>
-        <target>Anstehender Trip</target>
         <note>Indicating the next trip is an upcoming trip</note>
+        <target xml:lang="de">Anstehender Trip</target>
       </trans-unit>
-      <trans-unit id="Vehicle">
+      <trans-unit id="Vehicle" approved="yes">
         <source>Vehicle</source>
-        <target>Fahrzeug</target>
         <note>Which of my vehicles to assign this to</note>
+        <target xml:lang="de">Fahrzeug</target>
       </trans-unit>
-      <trans-unit id="Verify location...">
+      <trans-unit id="Verify location..." approved="yes">
         <source>Verify location...</source>
-        <target>Adresse bestätigen...</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Adresse bestätigen...</target>
       </trans-unit>
-      <trans-unit id="View">
+      <trans-unit id="View" approved="yes">
         <source>View</source>
-        <target>Anzeigen</target>
         <note>Positive answer to displayed advertising.
    Show content of notification.
    View EULA</note>
+        <target xml:lang="de">Anzeigen</target>
       </trans-unit>
-      <trans-unit id="View times">
+      <trans-unit id="View times" approved="yes">
         <source>View times</source>
-        <target>Zeiten anzeigen</target>
         <note>View alternative times for this trip</note>
+        <target xml:lang="de">Zeiten anzeigen</target>
       </trans-unit>
-      <trans-unit id="ViewDurationButton">
+      <trans-unit id="ViewDurationButton" approved="yes">
         <source>ViewDurationButton</source>
-        <target>Dauer</target>
         <note>Label for 'Duration' button to sort trips by their total duration.</note>
+        <target xml:lang="de">Dauer</target>
       </trans-unit>
-      <trans-unit id="ViewOverallButton">
+      <trans-unit id="ViewOverallButton" approved="yes">
         <source>ViewOverallButton</source>
-        <target>Bevorzugt</target>
         <note>Label for 'Overall' button to sort trips by their overall total score considering all factors.</note>
+        <target xml:lang="de">Bevorzugt</target>
       </trans-unit>
-      <trans-unit id="ViewPriceButton">
+      <trans-unit id="ViewPriceButton" approved="yes">
         <source>ViewPriceButton</source>
-        <target>Preis</target>
         <note>Label for 'Price' button to sort trips by their total cost.</note>
+        <target xml:lang="de">Preis</target>
       </trans-unit>
-      <trans-unit id="Walk speed">
+      <trans-unit id="Walk speed" approved="yes">
         <source>Walk speed</source>
-        <target>Laufgeschwindigkeit</target>
         <note>Walking speed preference</note>
+        <target xml:lang="de">Laufgeschwindigkeit</target>
       </trans-unit>
-      <trans-unit id="Week starts">
+      <trans-unit id="Week starts" approved="yes">
         <source>Week starts</source>
-        <target>Wochenbeginn</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Wochenbeginn</target>
       </trans-unit>
-      <trans-unit id="WhenIAmAwayHeader">
+      <trans-unit id="What3words Address">
+        <source>What3words Address</source>
+        <note>Title for showing what3words address including info button</note>
+        <target xml:lang="de" state="translated">What3words-Adresse</target>
+      </trans-unit>
+      <trans-unit id="WhenIAmAwayHeader" approved="yes">
         <source>WhenIAmAwayHeader</source>
-        <target>Übernachtungen</target>
         <note>Header for staying away form home, i.e., when a user is NOT at their home</note>
+        <target xml:lang="de">Übernachtungen</target>
       </trans-unit>
-      <trans-unit id="WhenIAmHereHeader">
+      <trans-unit id="WhenIAmHereHeader" approved="yes">
         <source>WhenIAmHereHeader</source>
-        <target>Agenda</target>
         <note>Header for accommodations, i.e., when a user is typically at this location
    Header for routines and accommodations, i.e., when a user is typically at this location</note>
+        <target xml:lang="de">Agenda</target>
       </trans-unit>
-      <trans-unit id="Which would you like to delete">
+      <trans-unit id="Which would you like to delete" approved="yes">
         <source>Which would you like to delete</source>
-        <target>Was möchtest du löschen?</target>
         <note>Question for which events in a recurrence to delete (options are typically this/all/any from here)</note>
+        <target xml:lang="de">Was möchtest du löschen?</target>
       </trans-unit>
-      <trans-unit id="Work">
+      <trans-unit id="Work" approved="yes">
         <source>Work</source>
-        <target>Arbeit</target>
         <note>Typical name that you'd give your work location</note>
+        <target xml:lang="de">Arbeit</target>
       </trans-unit>
-      <trans-unit id="Yeah, ok!">
+      <trans-unit id="Yeah, ok!" approved="yes">
         <source>Yeah, ok!</source>
-        <target>Ja, klar!</target>
         <note>Positive answer to follow-up question for rating or feedback.</note>
+        <target xml:lang="de">Ja, klar!</target>
       </trans-unit>
-      <trans-unit id="Yes!">
+      <trans-unit id="Yes!" approved="yes">
         <source>Yes!</source>
-        <target>Ja!</target>
         <note>Positive answer to question whether TripGo is useful.</note>
+        <target xml:lang="de">Ja!</target>
       </trans-unit>
-      <trans-unit id="You might not make this transfer.">
+      <trans-unit id="You might not make this transfer." approved="yes">
         <source>You might not make this transfer.</source>
-        <target>Anschluss wird ggf. nicht erreicht.</target>
         <note>Alert if service running late/early, meaning that the user might not make the next service.</note>
+        <target xml:lang="de">Anschluss wird ggf. nicht erreicht.</target>
       </trans-unit>
-      <trans-unit id="Zoom in">
+      <trans-unit id="Zoom in" approved="yes">
         <source>Zoom in</source>
-        <target>Vergrößern</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Vergrößern</target>
       </trans-unit>
-      <trans-unit id="Zoom into map to view public transport stops">
+      <trans-unit id="Zoom into map to view public transport stops" approved="yes">
         <source>Zoom into map to view public transport stops</source>
-        <target>Um Haltestellen zu sehen, heranzoomen.</target>
         <note>Walkthrough</note>
+        <target xml:lang="de">Um Haltestellen zu sehen, heranzoomen.</target>
       </trans-unit>
-      <trans-unit id="pricingDescription">
+      <trans-unit id="pricingDescription" approved="yes">
         <source>pricingDescription</source>
-        <target>Preis</target>
         <note>Description of the pricing</note>
+        <target xml:lang="de">Preis</target>
       </trans-unit>
-      <trans-unit id="terminalDescription">
+      <trans-unit id="terminalDescription" approved="yes">
         <source>terminalDescription</source>
-        <target>Gebäude</target>
         <note>Description of the terminal</note>
+        <target xml:lang="de">Gebäude</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="%1$@ early">
+      <trans-unit id="%1$@ early" approved="yes">
         <source>%1$@ early</source>
-        <target>%1$@ früh</target>
         <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'.</note>
+        <target xml:lang="de">%1$@ früh</target>
       </trans-unit>
-      <trans-unit id="%1$@ early (%2$@ service)">
+      <trans-unit id="%1$@ early (%2$@ service)" approved="yes">
         <source>%1$@ early (%2$@ service)</source>
-        <target>%1$@ früh (%2$@ Service)</target>
         <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+        <target xml:lang="de">%1$@ früh (%2$@ Service)</target>
       </trans-unit>
-      <trans-unit id="%1$@ late">
+      <trans-unit id="%1$@ late" approved="yes">
         <source>%1$@ late</source>
-        <target>%1$@ spät</target>
         <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min'</note>
+        <target xml:lang="de">%1$@ spät</target>
       </trans-unit>
-      <trans-unit id="%1$@ late (%2$@ service)">
+      <trans-unit id="%1$@ late (%2$@ service)" approved="yes">
         <source>%1$@ late (%2$@ service)</source>
-        <target>%1$@ spät (%2$@ Service)</target>
         <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+        <target xml:lang="de">%1$@ spät (%2$@ Service)</target>
       </trans-unit>
-      <trans-unit id="%@ w/o traffic">
+      <trans-unit id="%@ w/o traffic" approved="yes">
         <source>%@ w/o traffic</source>
-        <target>%@ ohne Verkehr</target>
         <note>Duration without traffic</note>
+        <target xml:lang="de">%@ ohne Verkehr</target>
       </trans-unit>
-      <trans-unit id="1 stop">
+      <trans-unit id="1 stop" approved="yes">
         <source>1 stop</source>
-        <target>1 Stop</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">1 Stop</target>
       </trans-unit>
-      <trans-unit id="ActivityIndication">
+      <trans-unit id="ActivityIndication" approved="yes">
         <source>ActivityIndication</source>
-        <target>Ich nehme den %@ um %@ von %@.</target>
         <note>Indication of an activity</note>
+        <target xml:lang="de">Ich nehme den %@ um %@ von %@.</target>
       </trans-unit>
-      <trans-unit id="Apple Maps">
+      <trans-unit id="Apple Maps" approved="yes">
         <source>Apple Maps</source>
-        <target>Apple Karten</target>
         <note>apple maps directions action</note>
+        <target xml:lang="de">Apple Karten</target>
       </trans-unit>
-      <trans-unit id="Arrival">
+      <trans-unit id="Arrival" approved="yes">
         <source>Arrival</source>
-        <target>Ankunft</target>
         <note>Arrival time sorter title</note>
+        <target xml:lang="de">Ankunft</target>
       </trans-unit>
-      <trans-unit id="ArrivalLocation">
+      <trans-unit id="ArrivalLocation" approved="yes">
         <source>ArrivalLocation</source>
-        <target>Ankunft bei %@</target>
         <note>The place of arrival</note>
+        <target xml:lang="de">Ankunft bei %@</target>
       </trans-unit>
-      <trans-unit id="ArrivalLocationTime">
+      <trans-unit id="ArrivalLocationTime" approved="yes">
         <source>ArrivalLocationTime</source>
-        <target>Ankunft bei %@ um %@</target>
         <note>The place of arrival with time</note>
+        <target xml:lang="de">Ankunft bei %@ um %@</target>
       </trans-unit>
-      <trans-unit id="ArrivalTime">
+      <trans-unit id="ArrivalTime" approved="yes">
         <source>ArrivalTime</source>
-        <target>Ankunft um %@</target>
         <note>Arrival %time.
    Time arrival</note>
+        <target xml:lang="de">Ankunft um %@</target>
       </trans-unit>
-      <trans-unit id="Arrive">
+      <trans-unit id="Arrive" approved="yes">
         <source>Arrive</source>
-        <target>Ankunft</target>
         <note>Prefix for selected 'arrive by' time
    Single line instruction to arrive</note>
+        <target xml:lang="de">Ankunft</target>
       </trans-unit>
-      <trans-unit id="Book with FlitWays">
+      <trans-unit id="Book with FlitWays" approved="yes">
         <source>Book with FlitWays</source>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Mit FlitWays buchen</target>
       </trans-unit>
-      <trans-unit id="Book with Uber">
+      <trans-unit id="Book with Uber" approved="yes">
         <source>Book with Uber</source>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Mit Uber buchen</target>
       </trans-unit>
-      <trans-unit id="Call">
+      <trans-unit id="Call" approved="yes">
         <source>Call</source>
-        <target>Anrufen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Anrufen</target>
       </trans-unit>
-      <trans-unit id="CallTaxiFormat">
+      <trans-unit id="CallTaxiFormat" approved="yes">
         <source>CallTaxiFormat</source>
-        <target>%@ anrufen</target>
         <note>Action title for calling provider of %name</note>
+        <target xml:lang="de">%@ anrufen</target>
       </trans-unit>
-      <trans-unit id="Could not find transit stop.">
+      <trans-unit id="Could not find transit stop." approved="yes">
         <source>Could not find transit stop.</source>
-        <target>Haltestelle konnte nicht gefunden werden.</target>
         <note>Error title when server could not find a given transit stop.</note>
+        <target xml:lang="de">Haltestelle konnte nicht gefunden werden.</target>
       </trans-unit>
-      <trans-unit id="CouponCodeIngogoFormat">
-        <source>CouponCodeIngogoFormat</source>
-        <target>Gib Gutscheincode '%@' bei der Anmeldung ein um dein $5 Guthaben zu bekommen (nur für neue Anmeldungen).</target>
-        <note>Description for how to redeem the coupon code for ingogo. %couponCode is provided.</note>
-      </trans-unit>
-      <trans-unit id="Departure">
+      <trans-unit id="Departure" approved="yes">
         <source>Departure</source>
-        <target>Abfahrt</target>
         <note>Departure time sorter title</note>
+        <target xml:lang="de">Abfahrt</target>
       </trans-unit>
-      <trans-unit id="DepartureTime">
+      <trans-unit id="DepartureTime" approved="yes">
         <source>DepartureTime</source>
-        <target> um %@</target>
         <note>Time of the bus departure</note>
+        <target xml:lang="de">um %@</target>
       </trans-unit>
-      <trans-unit id="Direction">
+      <trans-unit id="Direction" approved="yes">
         <source>Direction</source>
-        <target>Richtung: %@</target>
         <note>Destination of the bus</note>
+        <target xml:lang="de">Richtung: %@</target>
       </trans-unit>
-      <trans-unit id="Duration">
+      <trans-unit id="Duration" approved="yes">
         <source>Duration</source>
-        <target> für %@</target>
         <note>Walking time</note>
+        <target xml:lang="de">für %@</target>
       </trans-unit>
-      <trans-unit id="Get Lyft">
+      <trans-unit id="Get Lyft" approved="yes">
         <source>Get Lyft</source>
-        <target>Lyft herunterladen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Lyft herunterladen</target>
       </trans-unit>
-      <trans-unit id="Get directions">
+      <trans-unit id="Get directions" approved="yes">
         <source>Get directions</source>
-        <target>Navigieren</target>
         <note>Action button title for getting turn-by-turn directions</note>
+        <target xml:lang="de">Navigieren</target>
       </trans-unit>
-      <trans-unit id="Get ingogo">
+      <trans-unit id="Get ingogo" approved="yes">
         <source>Get ingogo</source>
-        <target>ingogo herunterladen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">ingogo herunterladen</target>
       </trans-unit>
-      <trans-unit id="Google Maps">
+      <trans-unit id="Google Maps" approved="yes">
         <source>Google Maps</source>
-        <target>Google Maps</target>
         <note>google maps directions action</note>
+        <target xml:lang="de">Google Maps</target>
       </trans-unit>
-      <trans-unit id="Leave">
+      <trans-unit id="Leave" approved="yes">
         <source>Leave</source>
-        <target>Abfahrt</target>
         <note>Prefix for selected 'leave after' time
    Single line instruction to leave</note>
+        <target xml:lang="de">Abfahrt</target>
       </trans-unit>
-      <trans-unit id="Leave now">
+      <trans-unit id="Leave now" approved="yes">
         <source>Leave now</source>
-        <target>Jetzt</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Jetzt</target>
       </trans-unit>
-      <trans-unit id="LeaveLocation">
+      <trans-unit id="LeaveLocation" approved="yes">
         <source>LeaveLocation</source>
-        <target>Abfahrt von %@</target>
         <note>The place of departure</note>
+        <target xml:lang="de">Abfahrt von %@</target>
       </trans-unit>
-      <trans-unit id="LeaveLocationTime">
+      <trans-unit id="LeaveLocationTime" approved="yes">
         <source>LeaveLocationTime</source>
-        <target>Abfahrt von %@ um %@</target>
         <note>The place of departure with time</note>
+        <target xml:lang="de">Abfahrt von %@ um %@</target>
       </trans-unit>
-      <trans-unit id="LeaveTime">
+      <trans-unit id="LeaveTime" approved="yes">
         <source>LeaveTime</source>
-        <target>Abfahrt um %@</target>
         <note>Time departure</note>
+        <target xml:lang="de">Abfahrt um %@</target>
       </trans-unit>
-      <trans-unit id="Live traffic">
+      <trans-unit id="Live traffic" approved="yes">
         <source>Live traffic</source>
-        <target>Live-Verkehr</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Live-Verkehr</target>
       </trans-unit>
-      <trans-unit id="MessageArrivalTime">
+      <trans-unit id="MessageArrivalTime" approved="yes">
         <source>MessageArrivalTime</source>
-        <target>Ich komme bei %@ um %@ an.</target>
         <note>ArrivalTime</note>
+        <target xml:lang="de">Ich komme bei %@ um %@ an.</target>
       </trans-unit>
-      <trans-unit id="On time">
+      <trans-unit id="On time" approved="yes">
         <source>On time</source>
-        <target>Pünktlich</target>
         <note>Indicator to show when a service is on time according to real-time data.</note>
+        <target xml:lang="de">Pünktlich</target>
       </trans-unit>
-      <trans-unit id="Open Lyft">
+      <trans-unit id="Open Lyft" approved="yes">
         <source>Open Lyft</source>
-        <target>Lyft öffnen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Lyft öffnen</target>
       </trans-unit>
-      <trans-unit id="PrimaryLocationEnd">
+      <trans-unit id="PrimaryLocationEnd" approved="yes">
         <source>PrimaryLocationEnd</source>
-        <target>Nach %@</target>
         <note>Arrival Location
    For trip titles, e.g., 'To work'
    Format string for going from currently location to this one. Used to name favourite destinations.</note>
+        <target xml:lang="de">Nach %@</target>
       </trans-unit>
-      <trans-unit id="PrimaryLocationStart">
+      <trans-unit id="PrimaryLocationStart" approved="yes">
         <source>PrimaryLocationStart</source>
-        <target>Von %@</target>
         <note>Departure Location</note>
+        <target xml:lang="de">Von %@</target>
       </trans-unit>
-      <trans-unit id="PrimaryLocationStationary">
+      <trans-unit id="PrimaryLocationStationary" approved="yes">
         <source>PrimaryLocationStationary</source>
-        <target>Bei %@</target>
         <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park</note>
+        <target xml:lang="de">Bei %@</target>
       </trans-unit>
-      <trans-unit id="Real-time">
+      <trans-unit id="Real-time" approved="yes">
         <source>Real-time</source>
-        <target>Echtzeit</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Echtzeit</target>
       </trans-unit>
-      <trans-unit id="Search for this stop again or try again later..">
+      <trans-unit id="Search for this stop again or try again later.." approved="yes">
         <source>Search for this stop again or try again later..</source>
-        <target>Bitte suche erneut nach dieser Haltestelle oder versuche es später nochmal.</target>
         <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
+        <target xml:lang="de">Bitte suche erneut nach dieser Haltestelle oder versuche es später nochmal.</target>
       </trans-unit>
-      <trans-unit id="Send SMS">
+      <trans-unit id="Send SMS" approved="yes">
         <source>Send SMS</source>
         <note>Send SMS action</note>
+        <target xml:lang="de">SMS senden</target>
       </trans-unit>
-      <trans-unit id="Show website">
+      <trans-unit id="Show website" approved="yes">
         <source>Show website</source>
-        <target>Webseite öffnen</target>
         <note>Show website action</note>
+        <target xml:lang="de">Webseite öffnen</target>
       </trans-unit>
-      <trans-unit id="Stops">
+      <trans-unit id="Stops" approved="yes">
         <source>Stops</source>
-        <target>%ld Stops</target>
         <note>Number of stops before you get off a vehicle</note>
+        <target xml:lang="de">%ld Stops</target>
       </trans-unit>
-      <trans-unit id="TimeFromToShortFormat">
+      <trans-unit id="TimeFromToShortFormat" approved="yes">
         <source>TimeFromToShortFormat</source>
-        <target>%@ bis %@</target>
         <note>From %time1 to %time2</note>
+        <target xml:lang="de">%@ bis %@</target>
       </trans-unit>
-      <trans-unit id="To %@">
+      <trans-unit id="To %@" approved="yes">
         <source>To %@</source>
-        <target>Nach %@</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Nach %@</target>
       </trans-unit>
-      <trans-unit id="Trip">
+      <trans-unit id="Trip" approved="yes">
         <source>Trip</source>
-        <target>Trip</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">Trip</target>
       </trans-unit>
-      <trans-unit id="VehicleCalledUpdated">
+      <trans-unit id="VehicleCalledUpdated" approved="yes">
         <source>VehicleCalledUpdated</source>
-        <target>Fahrzeug %@, aktualisiert vor %@</target>
         <note>Vehicle 'x' updated</note>
+        <target xml:lang="de">Fahrzeug %@, aktualisiert vor %@</target>
       </trans-unit>
-      <trans-unit id="VehicleUpdated">
+      <trans-unit id="VehicleUpdated" approved="yes">
         <source>VehicleUpdated</source>
-        <target>Aktualisiert vor %@</target>
         <note>Vehicle updated</note>
+        <target xml:lang="de">Aktualisiert vor %@</target>
       </trans-unit>
-      <trans-unit id="goCatch a Taxi">
+      <trans-unit id="goCatch a Taxi" approved="yes">
         <source>goCatch a Taxi</source>
-        <target>goCatch nehmen</target>
         <note>goCatch action</note>
+        <target xml:lang="de">goCatch nehmen</target>
       </trans-unit>
-      <trans-unit id="ingogo a Taxi">
+      <trans-unit id="ingogo a Taxi" approved="yes">
         <source>ingogo a Taxi</source>
-        <target>ingogo nehmen</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de">ingogo nehmen</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/shared.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
       <trans-unit id="Cannot find a valid token">
         <source>Cannot find a valid token</source>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="needs-translation">Cannot find a valid token</target>
       </trans-unit>
     </body>
   </file>
-  </xliff>
+</xliff>
