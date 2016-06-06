@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="RioGo/Localizable.strings" source-language="en" target-language="nl">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" />
+    </header>
+    <body>
+      <trans-unit id="%@ stars">
+        <source>%@ stars</source>
+        <note>Rating format where placeholder will be replaced with number of stars, e.g., '4.5 stars'</note>
+        <target state="needs-translation" xml:lang="nl">%@ stars</target>
+      </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <note>A title on the button that allows users to select the event for attendance.</note>
+        <target state="needs-translation" xml:lang="nl">Add</target>
+      </trans-unit>
+      <trans-unit id="Add another visit">
+        <source>Add another visit</source>
+        <note>A title on the button that, when tapped, allows users to add another visit for the selected event or attraction. Translation should not be too long!</note>
+        <target state="needs-translation" xml:lang="nl">Add another visit</target>
+      </trans-unit>
+      <trans-unit id="Add more times">
+        <source>Add more times</source>
+        <note>A title on the button that, when tapped, allows users to add another time for the event.</note>
+        <target state="needs-translation" xml:lang="nl">Add more times</target>
+      </trans-unit>
+      <trans-unit id="Added">
+        <source>Added</source>
+        <note>A title on the button showing an event has been selected for attendance.</note>
+        <target state="needs-translation" xml:lang="nl">Added</target>
+      </trans-unit>
+      <trans-unit id="Afternoon">
+        <source>Afternoon</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Afternoon</target>
+      </trans-unit>
+      <trans-unit id="Agenda">
+        <source>Agenda</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Agenda</target>
+      </trans-unit>
+      <trans-unit id="Browse events and places">
+        <source>Browse events and places</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Browse events and places</target>
+      </trans-unit>
+      <trans-unit id="Calculating...">
+        <source>Calculating...</source>
+        <note>Placeholder text while calculating trips</note>
+        <target state="needs-translation" xml:lang="nl">Calculating...</target>
+      </trans-unit>
+      <trans-unit id="Check in">
+        <source>Check in</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Check in</target>
+      </trans-unit>
+      <trans-unit id="Check out">
+        <source>Check out</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Check out</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Close</target>
+      </trans-unit>
+      <trans-unit id="Date">
+        <source>Date</source>
+        <note>Title for a date (on which to visit an attraction)</note>
+        <target state="needs-translation" xml:lang="nl">Date</target>
+      </trans-unit>
+      <trans-unit id="Discover Rio and the Olympics">
+        <source>Discover Rio and the Olympics</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Discover Rio and the Olympics</target>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Done</target>
+      </trans-unit>
+      <trans-unit id="End time">
+        <source>End time</source>
+        <note>Title for a end time (on which to visit an attraction)</note>
+        <target state="needs-translation" xml:lang="nl">End time</target>
+      </trans-unit>
+      <trans-unit id="Evening">
+        <source>Evening</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Evening</target>
+      </trans-unit>
+      <trans-unit id="How it works">
+        <source>How it works</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">How it works</target>
+      </trans-unit>
+      <trans-unit id="I'll stay at">
+        <source>I'll stay at</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">I'll stay at</target>
+      </trans-unit>
+      <trans-unit id="I'm interested in">
+        <source>I'm interested in</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">I'm interested in</target>
+      </trans-unit>
+      <trans-unit id="Install">
+        <source>Install</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Install</target>
+      </trans-unit>
+      <trans-unit id="Max Date">
+        <source>Max Date</source>
+        <note>Max date used to filter results</note>
+        <target state="needs-translation" xml:lang="nl">Max Date</target>
+      </trans-unit>
+      <trans-unit id="Min Date">
+        <source>Min Date</source>
+        <note>Min date used to filter results</note>
+        <target state="needs-translation" xml:lang="nl">Min Date</target>
+      </trans-unit>
+      <trans-unit id="Morning">
+        <source>Morning</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Morning</target>
+      </trans-unit>
+      <trans-unit id="Nearby places">
+        <source>Nearby places</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Nearby places</target>
+      </trans-unit>
+      <trans-unit id="New to Rio de Janeiro? Don’t worry! Use RioGo to get to your Olympic events in time and without hassle.">
+        <source>New to Rio de Janeiro? Don’t worry! Use RioGo to get to your Olympic events in time and without hassle.</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">New to Rio de Janeiro? Don’t worry! Use RioGo to get to your Olympic events in time and without hassle.</target>
+      </trans-unit>
+      <trans-unit id="Pick a time">
+        <source>Pick a time</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Pick a time</target>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Save</target>
+      </trans-unit>
+      <trans-unit id="Select time">
+        <source>Select time</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Select time</target>
+      </trans-unit>
+      <trans-unit id="Set dates">
+        <source>Set dates</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Set dates</target>
+      </trans-unit>
+      <trans-unit id="Set time">
+        <source>Set time</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Set time</target>
+      </trans-unit>
+      <trans-unit id="Set times">
+        <source>Set times</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Set times</target>
+      </trans-unit>
+      <trans-unit id="Set your hotel location">
+        <source>Set your hotel location</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Set your hotel location</target>
+      </trans-unit>
+      <trans-unit id="Set your stay location">
+        <source>Set your stay location</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Set your stay location</target>
+      </trans-unit>
+      <trans-unit id="Show List">
+        <source>Show List</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Show List</target>
+      </trans-unit>
+      <trans-unit id="Show Map">
+        <source>Show Map</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Show Map</target>
+      </trans-unit>
+      <trans-unit id="Simply enter your hotel, Olympic events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.">
+        <source>Simply enter your hotel, Olympic events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">Simply enter your hotel, Olympic events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</target>
+      </trans-unit>
+      <trans-unit id="Start time">
+        <source>Start time</source>
+        <note>Title for a start time (on which to visit an attraction)</note>
+        <target state="needs-translation" xml:lang="nl">Start time</target>
+      </trans-unit>
+      <trans-unit id="TripGo is recommended for optimal experience. You can install it from App Store.">
+        <source>TripGo is recommended for optimal experience. You can install it from App Store.</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">TripGo is recommended for optimal experience. You can install it from App Store.</target>
+      </trans-unit>
+      <trans-unit id="TripGo not found">
+        <source>TripGo not found</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">TripGo not found</target>
+      </trans-unit>
+      <trans-unit id="View agenda">
+        <source>View agenda</source>
+        <note>No comment provided by engineer.</note>
+        <target state="needs-translation" xml:lang="nl">View agenda</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
