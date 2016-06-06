@@ -58,10 +58,6 @@
 			<source>Approximately %s away</source>
 			<target>Aproximadamente a %s</target>
 		</trans-unit>
-		<trans-unit id="arrivaltimeindication">
-			<source>" (arrive "</source>
-			<target>" (llegada "</target>
-		</trans-unit>
 		<trans-unit id="body_exclude_this_event_from_route">
 			<source>This event will no longer have trips to or from it. The event will still be shown</source>
 			<target>Este evento no tendrá viajes desde y hace él. El evento se seguirá mostrando</target>
@@ -69,10 +65,6 @@
 		<trans-unit id="body_exclude_related_event_from_route">
 			<source>The event related to the trip will be excluded. It will still be shown</source>
 			<target>El evento relacionado al viaje será excluído. El evento se seguirá mostrando</target>
-		</trans-unit>
-		<trans-unit id="cancel">
-			<source>Cancel</source>
-			<target>Cancelar</target>
 		</trans-unit>
 		<trans-unit id="booking">
 			<source>Booking</source>
@@ -122,10 +114,6 @@
 			<source>Delete this event</source>
 			<target>Eliminar este evento</target>
 		</trans-unit>
-		<trans-unit id="delete">
-			<source>Delete</source>
-			<target>Borrar</target>
-		</trans-unit>
 		<trans-unit id="destination">
 			<source>destination</source>
 			<target>destino</target>
@@ -138,10 +126,6 @@
 			<source>Delete this vehicle</source>
 			<target>Borrar este vehículo</target>
 		</trans-unit>
-		<trans-unit id="departuretimeindication">
-			<source>" (depart "</source>
-			<target>" (partida "</target>
-		</trans-unit>
 		<trans-unit id="edit">
 			<source>Edit</source>
 			<target>Editar</target>
@@ -149,14 +133,6 @@
 		<trans-unit id="edit_event">
 			<source>Edit event</source>
 			<target>Editar evento</target>
-		</trans-unit>
-		<trans-unit id="done">
-			<source>Done</source>
-			<target>Listo</target>
-		</trans-unit>
-		<trans-unit id="dropnewpin">
-			<source>Drop new pin</source>
-			<target>Soltar Marcador</target>
 		</trans-unit>
 		<trans-unit id="enable_calendar_in_tripgo_settings">
 			<source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
@@ -246,17 +222,9 @@
 			<source>Go Here</source>
 			<target>Ir aquí</target>
 		</trans-unit>
-		<trans-unit id="get_uber">
-			<source>Get Uber</source>
-			<target>Obtener Uber</target>
-		</trans-unit>
 		<trans-unit id="get_on">
 			<source>Get On</source>
 			<target>Subir</target>
-		</trans-unit>
-		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source>Information on concession pricing is subject to availability.</source>
-			<target>La información relacionada a precios bonificados está sujeta a disponibilidad.</target>
 		</trans-unit>
 		<trans-unit id="invalid_transfer_time">
 			<source>Invalid time, revert to last used value.</source>
@@ -289,10 +257,6 @@
 		<trans-unit id="location_selected">
 			<source>Location selected</source>
 			<target>Ubicación seleccionada</target>
-		</trans-unit>
-		<trans-unit id="minute">
-			<source>1 minute</source>
-			<target>1 minuto</target>
 		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
@@ -365,10 +329,6 @@
 		<trans-unit id="priority_convenience_subtext">
 			<source>Hassle of the trip</source>
 			<target>Inconveniencia del viaje</target>
-		</trans-unit>
-		<trans-unit id="open_uber">
-			<source>Open Uber</source>
-			<target>Abrir Uber</target>
 		</trans-unit>
 		<trans-unit id="one_time_event">
 			<source>Don't repeat</source>

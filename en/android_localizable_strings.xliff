@@ -58,10 +58,6 @@
 			<source>Approximately %s away</source>
 			<target>Approximately %s away</target>
 		</trans-unit>
-		<trans-unit id="arrivaltimeindication">
-			<source>" (arrive "</source>
-			<target>" (arrive "</target>
-		</trans-unit>
 		<trans-unit id="body_exclude_this_event_from_route">
 			<source>This event will no longer have trips to or from it. The event will still be shown</source>
 			<target>This event will no longer have trips to or from it. The event will still be shown</target>
@@ -69,10 +65,6 @@
 		<trans-unit id="body_exclude_related_event_from_route">
 			<source>The event related to the trip will be excluded. It will still be shown</source>
 			<target>The event related to the trip will be excluded. It will still be shown</target>
-		</trans-unit>
-		<trans-unit id="cancel">
-			<source>Cancel</source>
-			<target>Cancel</target>
 		</trans-unit>
 		<trans-unit id="booking">
 			<source>Booking</source>
@@ -122,10 +114,6 @@
 			<source>Delete this event</source>
 			<target>Delete this event</target>
 		</trans-unit>
-		<trans-unit id="delete">
-			<source>Delete</source>
-			<target>Delete</target>
-		</trans-unit>
 		<trans-unit id="destination">
 			<source>destination</source>
 			<target>destination</target>
@@ -138,10 +126,6 @@
 			<source>Delete this vehicle</source>
 			<target>Delete this vehicle</target>
 		</trans-unit>
-		<trans-unit id="departuretimeindication">
-			<source>" (depart "</source>
-			<target>" (depart "</target>
-		</trans-unit>
 		<trans-unit id="edit">
 			<source>Edit</source>
 			<target>Edit</target>
@@ -149,14 +133,6 @@
 		<trans-unit id="edit_event">
 			<source>Edit event</source>
 			<target>Edit event</target>
-		</trans-unit>
-		<trans-unit id="done">
-			<source>Done</source>
-			<target>Done</target>
-		</trans-unit>
-		<trans-unit id="dropnewpin">
-			<source>Drop new pin</source>
-			<target>Drop new pin</target>
 		</trans-unit>
 		<trans-unit id="enable_calendar_in_tripgo_settings">
 			<source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
@@ -246,18 +222,10 @@
 			<source>Go Here</source>
 			<target>Go Here</target>
 		</trans-unit>
-		<trans-unit id="get_uber">
-			<source>Get Uber</source>
-			<target>Get Uber</target>
-		</trans-unit>
 		<trans-unit id="get_on">
 			<source>Get On</source>
 			<target>Get On</target>
 		</trans-unit>
-		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-        	<source>Information on concession pricing is subject to availability.</source>
-        	<target>Information on concession pricing is subject to availability.</target>
-        </trans-unit>
 		<trans-unit id="invalid_transfer_time">
 			<source>Invalid time, revert to last used value.</source>
 			<target>Invalid time, revert to last used value.</target>
@@ -289,10 +257,6 @@
 		<trans-unit id="include_cal_explanation">
 			<source>Events from those calendars will be used in planning your day</source>
 			<target>Events from those calendars will be used in planning your day</target>
-		</trans-unit>
-		<trans-unit id="minute">
-			<source>1 minute</source>
-			<target>1 minute</target>
 		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
@@ -373,10 +337,6 @@
 		<trans-unit id="origin">
 			<source>origin</source>
 			<target>origin</target>
-		</trans-unit>
-		<trans-unit id="open_uber">
-			<source>Open Uber</source>
-			<target>Open Uber</target>
 		</trans-unit>
 		<trans-unit id="page_between_upcoming_services">
 			<source>Page between upcoming services</source>

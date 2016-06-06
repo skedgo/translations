@@ -59,10 +59,6 @@
 			<target>Approximately %s away</target>
 			<note> TODO </note>
 		</trans-unit>
-		<trans-unit id="arrivaltimeindication">
-			<source>" (arrive "</source>
-			<target>" (到達時間 "</target>
-		</trans-unit>
 		<trans-unit id="body_exclude_related_event_from_route">
 			<source>The event related to the trip will be excluded. It will still be shown</source>
 			<target>跟此路線相關的事件將被排除，但是事件還是會顯在行程中</target>
@@ -78,10 +74,6 @@
 		<trans-unit id="cannot_add_reminder_for_past_trip">
 			<source>Cannot add reminder for past trip</source>
 			<target>無法提醒您已經過期的路線</target>
-		</trans-unit>
-		<trans-unit id="cancel">
-			<source>Cancel</source>
-			<target>取消</target>
 		</trans-unit>
 		<trans-unit id="cannot_remove_shortcut">
 			<source>Cannot remove shortcut</source>
@@ -115,10 +107,6 @@
 			<source>All events</source>
 			<target>所有事件</target>
 		</trans-unit>
-		<trans-unit id="delete">
-			<source>Delete</source>
-			<target>刪除</target>
-		</trans-unit>
 		<trans-unit id="del_this_and_future_events">
 			<source>This and future events</source>
 			<target>所有未來的事件</target>
@@ -135,14 +123,6 @@
 			<source>Did you mean</source>
 			<target>您指的是</target>
 		</trans-unit>
-		<trans-unit id="done">
-			<source>Done</source>
-			<target>完成</target>
-		</trans-unit>
-		<trans-unit id="departuretimeindication">
-			<source>" (depart "</source>
-			<target>" (離站 "</target>
-		</trans-unit>
 		<trans-unit id="destination">
 			<source>destination</source>
 			<target>目的地</target>
@@ -154,10 +134,6 @@
 		<trans-unit id="edit_favourite">
 			<source>Edit favorite</source>
 			<target>編輯常用項目</target>
-		</trans-unit>
-		<trans-unit id="dropnewpin">
-			<source>Drop new pin</source>
-			<target>放置新的大頭針</target>
 		</trans-unit>
 		<trans-unit id="edit">
 			<source>Edit</source>
@@ -255,10 +231,6 @@
 			<source>Go Here</source>
 			<target>到這裡</target>
 		</trans-unit>
-		<trans-unit id="get_uber">
-			<source>Get Uber</source>
-			<target>使用Uber</target>
-		</trans-unit>
 		<trans-unit id="invalid_transfer_time">
 			<source>Invalid time, revert to last used value.</source>
 			<target>無效的時間．恢復到上個使用的時間</target>
@@ -286,14 +258,6 @@
 		<trans-unit id="include_cal_explanation">
 			<source>Events from those calendars will be used in planning your day</source>
 			<target>那些行事曆上的事件將被用於規劃您當天的行程</target>
-		</trans-unit>
-		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source>Information on concession pricing is subject to availability.</source>
-			<target>優惠票價的資訊是視情況而定的.</target>
-		</trans-unit>
-		<trans-unit id="minute">
-			<source>1 minute</source>
-			<target>1分鐘</target>
 		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
@@ -374,10 +338,6 @@
 		<trans-unit id="origin">
 			<source>origin</source>
 			<target>出發地</target>
-		</trans-unit>
-		<trans-unit id="open_uber">
-			<source>Open Uber</source>
-			<target>開啟Uber</target>
 		</trans-unit>
 		<trans-unit id="page_between_upcoming_services">
 			<source>Page between upcoming services</source>
