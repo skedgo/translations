@@ -58,6 +58,10 @@
 			<source>Approximately %s away</source>
 			<target>Approximately %s away</target>
 		</trans-unit>
+		<trans-unit id="arrivaltimeindication">
+            <source>" (arrive "</source>
+            <target>" (arrive "</target>
+        </trans-unit>
 		<trans-unit id="body_exclude_this_event_from_route">
 			<source>This event will no longer have trips to or from it. The event will still be shown</source>
 			<target>This event will no longer have trips to or from it. The event will still be shown</target>
@@ -126,6 +130,10 @@
 			<source>Delete this vehicle</source>
 			<target>Delete this vehicle</target>
 		</trans-unit>
+		<trans-unit id="departuretimeindication">
+            <source>" (depart "</source>
+            <target>" (depart "</target>
+        </trans-unit>
 		<trans-unit id="edit">
 			<source>Edit</source>
 			<target>Edit</target>
@@ -226,6 +234,10 @@
 			<source>Get On</source>
 			<target>Get On</target>
 		</trans-unit>
+		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
+            <source>Information on concession pricing is subject to availability.</source>
+            <target>Information on concession pricing is subject to availability.</target>
+        </trans-unit>
 		<trans-unit id="invalid_transfer_time">
 			<source>Invalid time, revert to last used value.</source>
 			<target>Invalid time, revert to last used value.</target>
@@ -262,6 +274,10 @@
 			<source>Navigate from current location</source>
 			<target>Navigate from current location</target>
 		</trans-unit>
+		<trans-unit id="minute">
+            <source>1 minute</source>
+            <target>1 minute</target>
+        </trans-unit>
 		<trans-unit id="navigate_from">
 			<source>Navigate from %1$s</source>
 			<target>Navigate from %1$s</target>
