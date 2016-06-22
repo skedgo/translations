@@ -1,2235 +1,2678 @@
-<?xml version='1.0' encoding='utf-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>TripGo Agenda</source>
-        <target>TripGo行程</target>
+        <target xml:lang="zh-Hant" state="translated">TripGo行程</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="00e-CH-gOu.title">
         <source>Reminder</source>
-        <target>提醒</target>
         <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
+        <target xml:lang="zh-Hant" state="translated">提醒</target>
       </trans-unit>
       <trans-unit id="0mK-e0-427.text">
         <source>Description</source>
-        <target>描述</target>
         <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
+        <target xml:lang="zh-Hant" state="translated">描述</target>
       </trans-unit>
       <trans-unit id="6Qf-Ve-PDJ.text">
         <source>No Data</source>
-        <target>沒有資料</target>
         <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
+        <target xml:lang="zh-Hant" state="translated">沒有資料</target>
       </trans-unit>
       <trans-unit id="AgC-eL-Hgc.title">
         <source>TripGo</source>
-        <target>TrioGo</target>
         <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
+        <target xml:lang="zh-Hant" state="translated">TrioGo</target>
       </trans-unit>
       <trans-unit id="F85-mJ-6yD.text">
         <source>Getting trip</source>
-        <target>正在搜尋路線</target>
         <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
+        <target xml:lang="zh-Hant" state="translated">正在搜尋路線</target>
       </trans-unit>
       <trans-unit id="GGf-v0-vEJ.title">
         <source>Show Map</source>
-        <target>顯示地圖</target>
         <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
+        <target xml:lang="zh-Hant" state="translated">顯示地圖</target>
       </trans-unit>
       <trans-unit id="RoM-Us-t1Y.title">
         <source>Favourites</source>
-        <target>常用項目</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
+        <target xml:lang="zh-Hant" state="translated">常用項目</target>
       </trans-unit>
       <trans-unit id="Uzb-ex-6N5.title">
         <source>Agenda</source>
-        <target>行程</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
+        <target xml:lang="zh-Hant" state="translated">行程</target>
       </trans-unit>
       <trans-unit id="cAf-NX-Z7L.title">
         <source>Favourites</source>
-        <target>常用項目</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
+        <target xml:lang="zh-Hant" state="translated">常用項目</target>
       </trans-unit>
       <trans-unit id="h3q-kR-2ID.title">
         <source>Timetable</source>
-        <target>時刻表</target>
         <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
+        <target xml:lang="zh-Hant" state="translated">時刻表</target>
       </trans-unit>
       <trans-unit id="jYK-Fw-rhR.text">
         <source>Alert</source>
-        <target>提示</target>
         <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
+        <target xml:lang="zh-Hant" state="translated">提示</target>
       </trans-unit>
       <trans-unit id="r0K-AY-XvO.title">
         <source>Retry</source>
-        <target>重試</target>
         <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
+        <target xml:lang="zh-Hant" state="translated">重試</target>
       </trans-unit>
       <trans-unit id="rQN-eo-Bg2.title">
         <source>Timetable</source>
-        <target>時刻表</target>
         <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
+        <target xml:lang="zh-Hant" state="translated">時刻表</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>TripGo</source>
-        <target>TripGo</target>
+        <target xml:lang="zh-Hant" state="translated">TrioGo</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
   <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>TripGo WatchKit Extension</source>
-        <target>TripGo WatchKit Extension</target>
-      </trans-unit>
-      </body>
-  </file>
-  <file datatype="plaintext" original="TripGo WatchKit Extension/Shared.strings" source-language="en" target-language="zh-Hant">
-    <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
-    </header>
-    <body>
-      <trans-unit id="Bicycle">
-        <source>Bicycle</source>
-        <target>自行車</target>
-        <note>Type of vehicle : bicycle</note>
-      </trans-unit>
-      <trans-unit id="Car">
-        <source>Car</source>
-        <target>轎車</target>
-        <note>Type of vehicle : car</note>
-      </trans-unit>
-      <trans-unit id="Checkmark">
-        <source>Checkmark</source>
-        <target>選取標記</target>
-        <note>Accessibility title for a checkmark/tick button</note>
-      </trans-unit>
-      <trans-unit id="Could not determine your current location.">
-        <source>Could not determine your current location.</source>
-        <target>無法確認您的當前位置</target>
-        <note>Error title when GPS failed.</note>
-      </trans-unit>
-      <trans-unit id="CouldNotDownloadSupportedRegions">
-        <source>CouldNotDownloadSupportedRegions</source>
-        <target>無法從我們的伺服器下載所支援地區的列表．請稍後再嘗試一次。</target>
-        <note>Could not download supported regions warning</note>
-      </trans-unit>
-      <trans-unit id="Current Location">
-        <source>Current Location</source>
-        <target>當前位置</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="DateToFormat">
-        <source>DateToFormat</source>
-        <target>到%@</target>
-        <note>to %date</note>
-      </trans-unit>
-      <trans-unit id="EveryDayFormat">
-        <source>EveryDayFormat</source>
-        <target>每%@</target>
-        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
-      </trans-unit>
-      <trans-unit id="Everyday">
-        <source>Everyday</source>
-        <target>每天</target>
-        <note>Everyday in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="Free">
-        <source>Free</source>
-        <target>免費</target>
-        <note>Free as in beer</note>
-      </trans-unit>
-      <trans-unit id="Getting a lift">
-        <source>Getting a lift</source>
-        <target>與人共乘</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Include events">
-        <source>Include events</source>
-        <target>包含事件</target>
-        <note>Include events.</note>
-      </trans-unit>
-      <trans-unit id="Location">
-        <source>Location</source>
-        <target>Location</target>
-        <note>Location name</note>
-      </trans-unit>
-      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
-        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
-        <target>本功能需要使用定位服務. 請到設定 &gt; 隱私 &gt; 定位服務確認服務是開啟的，同時也請確認您已授權本App使用定位服務.</target>
-        <note>Location iOS6+ authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="Motorbike">
-        <source>Motorbike</source>
-        <target>摩托車</target>
-        <note>Type of vehicle : motorbike</note>
-      </trans-unit>
-      <trans-unit id="Never">
-        <source>Never</source>
-        <target>永不重複</target>
-        <note>Never in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="No CO₂">
-        <source>No CO₂</source>
-        <target>無碳足跡</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="NumberReccurences">
-        <source>NumberReccurences</source>
-        <target>重複%lu次</target>
-        <note>Number of repeats</note>
-      </trans-unit>
-      <trans-unit id="Please try again or set your location manually.">
-        <source>Please try again or set your location manually.</source>
-        <target>請再次嘗試一次或手動設定您的位置</target>
-        <note>Error recovery suggestion when GPS fails.</note>
-      </trans-unit>
-      <trans-unit id="Real-time">
-        <source>Real-time</source>
-        <target>即時</target>
-        <note>Indicator for real-time information</note>
-      </trans-unit>
-      <trans-unit id="Repeats daily">
-        <source>Repeats daily</source>
-        <target>每天重複</target>
-        <note>Repeats daily</note>
-      </trans-unit>
-      <trans-unit id="Repeats monthly">
-        <source>Repeats monthly</source>
-        <target>每月重複</target>
-        <note>Repeats monthly</note>
-      </trans-unit>
-      <trans-unit id="Repeats weekly">
-        <source>Repeats weekly</source>
-        <target>每週重複</target>
-        <note>Repeats weekly</note>
-      </trans-unit>
-      <trans-unit id="Repeats yearly">
-        <source>Repeats yearly</source>
-        <target>每年重複</target>
-        <note>Repeats yearly</note>
-      </trans-unit>
-      <trans-unit id="RequestErrorFormat">
-        <source>RequestErrorFormat</source>
-        <target>無法找到'%@'.</target>
-        <note>Error when location search for %input was not successful.</note>
-      </trans-unit>
-      <trans-unit id="SUV">
-        <source>SUV</source>
-        <target>休旅車</target>
-        <note>Sports utility vehicle abbreviation</note>
-      </trans-unit>
-      <trans-unit id="Weekdays">
-        <source>Weekdays</source>
-        <target>平日</target>
-        <note>Every weekday in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="Weekends">
-        <source>Weekends</source>
-        <target>週末</target>
-        <note>Every weekend day in context of repetitions (especially recurring events)</note>
-      </trans-unit>
-      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
-        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
-        <target>您之前拒絕了App使用您的行事曆．如想要使用本功能，請到設定 &gt; 隱私 &gt; 行事曆中更新您的授權.</target>
-        <note>Calendar authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="all-day">
-        <source>all-day</source>
-        <target>整天</target>
-        <note>Indicator that an event is all-day</note>
-      </trans-unit>
-      <trans-unit id="ends at %@">
-        <source>ends at %@</source>
-        <target>在%@結束</target>
-        <note>Short indicator of end-time</note>
-      </trans-unit>
-      <trans-unit id="starts at %@">
-        <source>starts at %@</source>
-        <target>從%@開始</target>
-        <note>Short indicator of start-time</note>
+        <target xml:lang="zh-Hant" state="needs-translation">TripGo WatchKit Extension</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
-    <body />
+    <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
         <source>Trips</source>
-        <target>路線</target>
         <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+        <target xml:lang="zh-Hant" state="translated">路線</target>
       </trans-unit>
       <trans-unit id="5WK-au-VFq.title">
         <source>Settings</source>
-        <target>設定</target>
         <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq";</note>
+        <target xml:lang="zh-Hant" state="translated">設定</target>
       </trans-unit>
       <trans-unit id="IFX-i9-ymN.title">
         <source>Routes</source>
-        <target>所有路線</target>
         <note>Class = "UINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN";</note>
+        <target xml:lang="zh-Hant" state="translated">所有路線</target>
       </trans-unit>
       <trans-unit id="JMk-5m-B22.title">
         <source>Service</source>
-        <target>班次</target>
         <note>Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22";</note>
+        <target xml:lang="zh-Hant" state="translated">班次</target>
       </trans-unit>
       <trans-unit id="QTR-Ae-g7f.title">
         <source>Trip</source>
-        <target>路線</target>
         <note>Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f";</note>
+        <target xml:lang="zh-Hant" state="translated">路線</target>
       </trans-unit>
       <trans-unit id="TNA-bx-79H.title">
         <source>Agenda</source>
-        <target>行程</target>
         <note>Class = "UITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H";</note>
+        <target xml:lang="zh-Hant" state="translated">行程</target>
       </trans-unit>
       <trans-unit id="TYM-9i-XBA.title">
         <source>Profile</source>
-        <target>設定</target>
         <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA";</note>
+        <target xml:lang="zh-Hant" state="translated">設定</target>
       </trans-unit>
       <trans-unit id="t3k-Ks-sqa.title">
         <source>Alerts</source>
-        <target>提示</target>
         <note>Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa";</note>
+        <target xml:lang="zh-Hant" state="translated">提示</target>
       </trans-unit>
       <trans-unit id="ye4-ch-zSe.title">
         <source>Favourites</source>
-        <target>常用項目</target>
         <note>Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe";</note>
+        <target xml:lang="zh-Hant" state="translated">常用項目</target>
       </trans-unit>
       <trans-unit id="zCk-Ai-u6n.title">
         <source>Timetable</source>
-        <target>時刻表</target>
         <note>Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n";</note>
+        <target xml:lang="zh-Hant" state="translated">時刻表</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="30.accessibilityLabel">
         <source>Swap from and to</source>
-        <target>對調出發地與目的地</target>
         <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+        <target xml:lang="zh-Hant" state="translated">對調出發地與目的地</target>
       </trans-unit>
       <trans-unit id="44.normalTitle">
         <source>Time</source>
-        <target>時刻</target>
         <note>Class = "UIButton"; normalTitle = "Time"; ObjectID = "44";</note>
+        <target xml:lang="zh-Hant" state="translated">時刻</target>
       </trans-unit>
       <trans-unit id="57.accessibilityLabel">
         <source>Route</source>
-        <target>規劃路線</target>
         <note>Class = "UIButton"; accessibilityLabel = "Route"; ObjectID = "57";</note>
+        <target xml:lang="zh-Hant" state="translated">規劃路線</target>
       </trans-unit>
       <trans-unit id="57.normalTitle">
         <source>Route</source>
-        <target>規劃路線</target>
         <note>Class = "UIButton"; normalTitle = "Route"; ObjectID = "57";</note>
+        <target xml:lang="zh-Hant" state="translated">規劃路線</target>
       </trans-unit>
       <trans-unit id="JFm-H4-fOo.accessibilityLabel">
         <source>To Location</source>
-        <target>出發地</target>
         <note>Class = "UIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo";</note>
+        <target xml:lang="zh-Hant" state="translated">出發地</target>
       </trans-unit>
       <trans-unit id="bs1-li-naL.accessibilityLabel">
         <source>From Location</source>
-        <target>目的地</target>
         <note>Class = "UIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL";</note>
+        <target xml:lang="zh-Hant" state="translated">目的地</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
+      <trans-unit id="%@ Account">
+        <source>%@ Account</source>
+        <note>Title for linked third-party account, e.g., 'Uber Account'</note>
+        <target xml:lang="zh-Hant" state="needs-translation">%@ Account</target>
+      </trans-unit>
       <trans-unit id="%@ at %@">
         <source>%1$@ at %2$@</source>
-        <target>%@ 於 %@</target>
         <note>Filler for a specific service running at a time, e.g., '396 at 11:56am'</note>
+        <target xml:lang="zh-Hant" state="translated">%@ 於 %@</target>
       </trans-unit>
       <trans-unit id="%@ every %@">
         <source>%1$@ every %2$@</source>
-        <target>%1$@ 每 %2$@</target>
         <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
+        <target xml:lang="zh-Hant" state="translated">%@ 每 $@</target>
       </trans-unit>
       <trans-unit id="%@ to %@">
         <source>%1$@ to %2$@</source>
-        <target>%1$@ to %2$@</target>
         <note>Format string for going from one location to another. Used to name favourite trips.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">%1$@ to %2$@</target>
       </trans-unit>
       <trans-unit id="Access to location services required.">
         <source>Access to location services required.</source>
-        <target>需要使用定位服務</target>
         <note>Error title when access to location hasn't been granted, but location is required.</note>
+        <target xml:lang="zh-Hant" state="translated">需要使用定位服務</target>
       </trans-unit>
       <trans-unit id="Add Reminder">
         <source>Add Reminder</source>
-        <target>新增提醒事項</target>
         <note>Add reminder activity title</note>
+        <target xml:lang="zh-Hant" state="translated">新增提醒事項</target>
       </trans-unit>
       <trans-unit id="Add address...">
         <source>Add address...</source>
-        <target>新增地址...</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">新增地址...</target>
       </trans-unit>
       <trans-unit id="Add another recurrence">
         <source>Add another recurrence</source>
-        <target>新增另一個重複事件</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">新增另一個重複事件</target>
       </trans-unit>
       <trans-unit id="Add to Agenda">
         <source>Add to Agenda</source>
-        <target>加到行程</target>
         <note>Add to agenda view title
    Save trip action</note>
+        <target xml:lang="zh-Hant" state="translated">加到行程</target>
       </trans-unit>
       <trans-unit id="Add to Calendar">
         <source>Add to Calendar</source>
-        <target>加到行事曆</target>
         <note>Add to calendar activity title</note>
+        <target xml:lang="zh-Hant" state="translated">加到行事曆</target>
       </trans-unit>
       <trans-unit id="Add to favourites">
         <source>Add to favourites</source>
-        <target>加到常用項目</target>
         <note>Add favourite activity title</note>
+        <target xml:lang="zh-Hant" state="translated">加到常用項目</target>
       </trans-unit>
       <trans-unit id="Add vehicle">
         <source>Add vehicle</source>
-        <target>新增車輛</target>
         <note>Action title for adding a vehicle</note>
+        <target xml:lang="zh-Hant" state="translated">新增車輛</target>
       </trans-unit>
       <trans-unit id="AddStopover">
         <source>AddStopover</source>
-        <target>新增中轉點...</target>
         <note>Add a new stopover</note>
+        <target xml:lang="zh-Hant" state="translated">新增中轉點...</target>
       </trans-unit>
       <trans-unit id="Added to Agenda">
         <source>Added to Agenda</source>
-        <target>已加入行程</target>
         <note>Add to agenda HUD notice</note>
+        <target xml:lang="zh-Hant" state="translated">已加入行程</target>
       </trans-unit>
       <trans-unit id="Added to calendar">
         <source>Added to calendar</source>
-        <target>已加入行事曆</target>
         <note>Added to calendar HUD message</note>
+        <target xml:lang="zh-Hant" state="translated">已加入行事曆</target>
       </trans-unit>
       <trans-unit id="Address required">
         <source>Address required</source>
-        <target>Address required</target>
         <note>Alert title that indicates an address is missing when creating a new event.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Address required</target>
       </trans-unit>
       <trans-unit id="Agenda">
         <source>Agenda</source>
-        <target>行程</target>
         <note>Title for button to access agenda</note>
+        <target xml:lang="zh-Hant" state="translated">行程</target>
       </trans-unit>
       <trans-unit id="Agenda Setup">
         <source>Agenda Setup</source>
-        <target>設定行程</target>
         <note>Title for agenda screen while it's still in setup mode.</note>
+        <target xml:lang="zh-Hant" state="translated">設定行程</target>
       </trans-unit>
       <trans-unit id="Agenda is not set up.">
         <source>Agenda is not set up.</source>
-        <target>尚未設定行程</target>
         <note>Error title when agenda isn't yet set up.</note>
+        <target xml:lang="zh-Hant" state="translated">尚未設定行程</target>
       </trans-unit>
       <trans-unit id="AgendaButton">
         <source>AgendaButton</source>
-        <target>行程</target>
         <note>Agenda tab bar name</note>
+        <target xml:lang="zh-Hant" state="translated">行程</target>
       </trans-unit>
       <trans-unit id="Agree">
         <source>Agree</source>
-        <target>同意</target>
         <note>Accepting EULA
    Agree to EULA</note>
+        <target xml:lang="zh-Hant" state="translated">同意</target>
       </trans-unit>
       <trans-unit id="AirlineFlightNumber">
         <source>AirlineFlightNumber</source>
-        <target>%@航班%@</target>
         <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'</note>
+        <target xml:lang="zh-Hant" state="translated">%@航班%@</target>
       </trans-unit>
       <trans-unit id="AirlineFromTo">
         <source>AirlineFromTo</source>
-        <target>%@ (%@) 到 %@ (%@)</target>
         <note>Flight from a city to an other one</note>
+        <target xml:lang="zh-Hant" state="translated">%@ (%@) 到 %@ (%@)</target>
       </trans-unit>
       <trans-unit id="Alert">
         <source>Alert</source>
-        <target>警告</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">警告</target>
       </trans-unit>
       <trans-unit id="AlertTitleFormat">
         <source>AlertTitleFormat</source>
-        <target>警告:%@</target>
         <note>Description of alert with %title</note>
+        <target xml:lang="zh-Hant" state="translated">警告:%@</target>
       </trans-unit>
       <trans-unit id="Alerts">
         <source>Alerts</source>
-        <target>警告</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">警告</target>
       </trans-unit>
       <trans-unit id="All">
         <source>All</source>
-        <target>刪除所有事件</target>
         <note>Option to use this trip for all similar cases.</note>
+        <target xml:lang="zh-Hant" state="translated">刪除所有事件</target>
       </trans-unit>
       <trans-unit id="All From Here">
         <source>All From Here</source>
-        <target>刪除所有將來的事件</target>
         <note>Option to delete this event and all after in a recurence</note>
+        <target xml:lang="zh-Hant" state="translated">刪除所有將來的事件</target>
       </trans-unit>
       <trans-unit id="Alternative routes">
         <source>Alternative routes</source>
-        <target>其他路線</target>
         <note>Action button title to see alternative options for the case where you can't make the next connection.</note>
+        <target xml:lang="zh-Hant" state="translated">其他路線</target>
       </trans-unit>
       <trans-unit id="Ambiguous event address.">
         <source>Ambiguous event address.</source>
-        <target>無法辨識的事件地址</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">無法辨識的事件地址</target>
       </trans-unit>
       <trans-unit id="Arrival">
         <source>Arrival</source>
-        <target>到達</target>
         <note>Arrival date+time for overnight stay
    Arrival time sorter title</note>
+        <target xml:lang="zh-Hant" state="translated">到達</target>
       </trans-unit>
       <trans-unit id="ArriveBefore">
         <source>ArriveBefore</source>
-        <target>此前到達</target>
         <note>Arrive before button</note>
+        <target xml:lang="zh-Hant" state="translated">此前到達</target>
       </trans-unit>
       <trans-unit id="Assign to vehicle">
         <source>Assign to vehicle</source>
-        <target>指定使用的車輛</target>
         <note>Title for section to assign a trip to a vehicle.</note>
+        <target xml:lang="zh-Hant" state="translated">指定使用的車輛</target>
       </trans-unit>
       <trans-unit id="At %@">
         <source>At %@</source>
-        <target>在 %@</target>
         <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
+        <target xml:lang="zh-Hant" state="translated">在 %@</target>
+      </trans-unit>
+      <trans-unit id="Authentication cannot be completed at this time. Please try again later.">
+        <source>Authentication cannot be completed at this time. Please try again later.</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Authentication cannot be completed at this time. Please try again later.</target>
       </trans-unit>
       <trans-unit id="Auto">
         <source>Auto</source>
-        <target>自動</target>
         <note>Distance 'automatic'</note>
+        <target xml:lang="zh-Hant" state="translated">自動</target>
       </trans-unit>
       <trans-unit id="Automatic Reminders">
         <source>Automatic Reminders</source>
-        <target>自動新增提醒事件</target>
         <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
+        <target xml:lang="zh-Hant" state="translated">自動新增提醒事件</target>
       </trans-unit>
       <trans-unit id="Awesome! How about rating us?">
         <source>Awesome! How about rating us?</source>
-        <target>太棒了！給我們評價吧?</target>
         <note>Response to positive answer to question whether TripGo is useful, prompting for App Store rating.</note>
+        <target xml:lang="zh-Hant" state="translated">太棒了！給我們評價吧?</target>
       </trans-unit>
       <trans-unit id="Book vehicle">
         <source>Book vehicle</source>
-        <target>預訂車輛</target>
         <note>vehicle booking action</note>
+        <target xml:lang="zh-Hant" state="translated">預訂車輛</target>
       </trans-unit>
       <trans-unit id="BookTaxi">
         <source>BookTaxi</source>
-        <target>預訂計程車</target>
         <note>Book a taxi</note>
+        <target xml:lang="zh-Hant" state="translated">預訂計程車</target>
       </trans-unit>
       <trans-unit id="Bummer... How about some feedback?">
         <source>Bummer... How about some feedback?</source>
-        <target>真遺憾．可以給我們一些建議嗎？</target>
         <note>Response to negative answer to question whether TripGo is useful, prompting for feedback.</note>
+        <target xml:lang="zh-Hant" state="translated">真遺憾．可以給我們一些建議嗎？</target>
       </trans-unit>
       <trans-unit id="Calendar">
         <source>Calendar</source>
-        <target>行事曆</target>
         <note>Calendar</note>
+        <target xml:lang="zh-Hant" state="translated">行事曆</target>
       </trans-unit>
       <trans-unit id="Calendar Event">
         <source>Calendar Event</source>
-        <target>事件</target>
         <note>Type for regular events that go in the phone's calendar.</note>
+        <target xml:lang="zh-Hant" state="translated">事件</target>
       </trans-unit>
       <trans-unit id="CalendarEventDescription">
         <source>CalendarEventDescription</source>
-        <target>一般事件將會被加入您裝置上的行事曆</target>
         <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
+        <target xml:lang="zh-Hant" state="translated">一般事件將會被加入您裝置上的行事曆</target>
       </trans-unit>
       <trans-unit id="Calendars">
         <source>Calendars</source>
-        <target>所有行事曆</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">所有行事曆</target>
       </trans-unit>
       <trans-unit id="Change time">
         <source>Change time</source>
-        <target>更改時間</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">更改時間</target>
       </trans-unit>
       <trans-unit id="Clear cache">
         <source>Clear cache</source>
-        <target>清除暫存檔</target>
         <note>clear cache preference</note>
+        <target xml:lang="zh-Hant" state="translated">清除暫存檔</target>
       </trans-unit>
       <trans-unit id="Clear search history">
         <source>Clear search history</source>
-        <target>清除搜尋結果</target>
         <note>clear search history preference</note>
+        <target xml:lang="zh-Hant" state="translated">清除搜尋結果</target>
       </trans-unit>
       <trans-unit id="Concession Pricing">
         <source>Concession Pricing</source>
-        <target>優惠票價</target>
         <note>School pricing preference</note>
+        <target xml:lang="zh-Hant" state="translated">優惠票價</target>
+      </trans-unit>
+      <trans-unit id="Confirm">
+        <source>Confirm</source>
+        <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Confirm</target>
       </trans-unit>
       <trans-unit id="Convenience">
         <source>Convenience</source>
-        <target>方便性</target>
         <note>Hassle preference</note>
+        <target xml:lang="zh-Hant" state="translated">方便性</target>
       </trans-unit>
       <trans-unit id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.">
         <source>Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</source>
-        <target>旅程的方便性會受到是否需要更換大眾交通，您需要步行的距離及是否尋找計程車等的影響.</target>
         <note>Convenience description</note>
+        <target xml:lang="zh-Hant" state="translated">旅程的方便性會受到是否需要更換大眾交通，您需要步行的距離及是否尋找計程車等的影響.</target>
       </trans-unit>
       <trans-unit id="Could not find your city.">
         <source>Could not find your city.</source>
-        <target>無法找到您的城市</target>
         <note>Error title when TripGo couldn't identify the user's current city.</note>
+        <target xml:lang="zh-Hant" state="translated">無法找到您的城市</target>
       </trans-unit>
       <trans-unit id="CriticalError">
         <source>CriticalError</source>
-        <target>嚴重錯誤</target>
         <note>Title for critical error</note>
+        <target xml:lang="zh-Hant" state="translated">嚴重錯誤</target>
       </trans-unit>
       <trans-unit id="CriticalErrorFormat">
         <source>CriticalErrorFormat</source>
-        <target>本App遭遇無法還原的嚴重錯誤:</target>
         <note>Description for critical error where error will be shown below.</note>
+        <target xml:lang="zh-Hant" state="translated">本App遭遇無法還原的嚴重錯誤:</target>
       </trans-unit>
       <trans-unit id="Current Trip">
         <source>Current Trip</source>
-        <target>目前路線</target>
         <note>Indicating the next trip is a current trip</note>
+        <target xml:lang="zh-Hant" state="translated">目前路線</target>
       </trans-unit>
       <trans-unit id="Custom trip does not fit">
         <source>Custom trip does not fit</source>
-        <target>自定路線與既定的行程無法相容</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">自定路線與既定的行程無法相容</target>
       </trans-unit>
       <trans-unit id="Custom trip has been cancelled">
         <source>Custom trip has been cancelled</source>
-        <target>自訂路線已被取消</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">自訂路線已被取消</target>
       </trans-unit>
       <trans-unit id="Cycle speed">
         <source>Cycle speed</source>
-        <target>自行車騎速</target>
         <note>Cycling speed preference</note>
+        <target xml:lang="zh-Hant" state="translated">自行車騎速</target>
       </trans-unit>
       <trans-unit id="Database corrupted and lost.">
         <source>Database corrupted and lost.</source>
-        <target>資料庫損毀或遺失</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">資料庫損毀或遺失</target>
       </trans-unit>
       <trans-unit id="DateFromFormat">
         <source>DateFromFormat</source>
-        <target>從%@</target>
         <note>From %date</note>
+        <target xml:lang="zh-Hant" state="translated">從%@</target>
       </trans-unit>
       <trans-unit id="DateFromToFormat">
         <source>DateFromToFormat</source>
-        <target>%@ ～ %@</target>
         <note>From %date1 to %date2</note>
+        <target xml:lang="zh-Hant" state="translated">%@ ～ %@</target>
       </trans-unit>
       <trans-unit id="Departure">
         <source>Departure</source>
-        <target>離站時間</target>
         <note>Departure date+time for overnight stay
    Departure time sorter title</note>
+        <target xml:lang="zh-Hant" state="translated">離站時間</target>
       </trans-unit>
       <trans-unit id="Dismiss">
         <source>Dismiss</source>
-        <target>關閉</target>
         <note>Dismiss accessibility label
    Dismiss button label
    Negative answer to displayed advertising.</note>
+        <target xml:lang="zh-Hant" state="translated">關閉</target>
       </trans-unit>
       <trans-unit id="Distances">
         <source>Distances</source>
-        <target>距離</target>
         <note>Distances preference</note>
+        <target xml:lang="zh-Hant" state="translated">距離</target>
       </trans-unit>
       <trans-unit id="Do Not Include">
         <source>Do Not Include</source>
-        <target>不要包含</target>
         <note>Title for transport modes that the user doesn't want included</note>
+        <target xml:lang="zh-Hant" state="translated">不要包含</target>
       </trans-unit>
       <trans-unit id="Do you want to always use this trip and add it to your favourites?">
         <source>Do you want to always use this trip and add it to your favourites?</source>
-        <target>您想要每次都使用這個路線並將其加為常用項目嗎?</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">您想要每次都使用這個路線並將其加為常用項目嗎?</target>
       </trans-unit>
       <trans-unit id="Don't have a fixed place of work or study? Skip this step.">
         <source>Don't have a fixed place of work or study? Skip this step.</source>
-        <target>如果您沒有固定的上班或是上學地點，您可以略過此步驟</target>
         <note>Walkthrough (skip in here should match translation for 'Skip'.</note>
-      </trans-unit>
-      <trans-unit id="Downloading trip...">
-        <source>Downloading trip...</source>
-        <target>下載路線</target>
-        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">如果您沒有固定的上班或是上學地點，您可以略過此步驟</target>
       </trans-unit>
       <trans-unit id="EditItemHereTitle">
         <source>EditItemHereTitle</source>
-        <target>例行項目</target>
         <note>Title for page for modifying a routine/stay at a specific location</note>
+        <target xml:lang="zh-Hant" state="translated">例行項目</target>
       </trans-unit>
       <trans-unit id="End Date">
         <source>End Date</source>
-        <target>結束日期</target>
         <note>Title for date when an event ends repeating</note>
+        <target xml:lang="zh-Hant" state="translated">結束日期</target>
       </trans-unit>
       <trans-unit id="End User Licence Agreement">
         <source>End User Licence Agreement</source>
-        <target>終端使用者協議</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">終端使用者協議</target>
       </trans-unit>
       <trans-unit id="Environment">
         <source>Environment</source>
-        <target>減少碳足跡</target>
         <note>Carbon preference</note>
+        <target xml:lang="zh-Hant" state="translated">減少碳足跡</target>
       </trans-unit>
       <trans-unit id="Event">
         <source>Event</source>
-        <target>事件</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">事件</target>
       </trans-unit>
       <trans-unit id="Event does not fit">
         <source>Event does not fit</source>
-        <target>事件與既定的行程無法相容</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">事件與既定的行程無法相容</target>
       </trans-unit>
       <trans-unit id="Event is missing an address.">
         <source>Event is missing an address.</source>
-        <target>事件缺乏地址</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">事件缺乏地址</target>
       </trans-unit>
       <trans-unit id="Event is outside TripGo's range.">
         <source>Event is outside TripGo's range.</source>
-        <target>事件的地點不在TripGo支援的範圍內</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">事件的地點不在TripGo支援的範圍內</target>
       </trans-unit>
       <trans-unit id="Event was cancelled">
         <source>Event was cancelled</source>
-        <target>事件已被取消</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">事件已被取消</target>
       </trans-unit>
       <trans-unit id="EventEndDateTime">
         <source>EventEndDateTime</source>
-        <target>結束日期</target>
         <note>Title for the time an event ends (including date information)</note>
+        <target xml:lang="zh-Hant" state="translated">結束日期</target>
       </trans-unit>
       <trans-unit id="EventRepeat">
         <source>EventRepeat</source>
-        <target>重複事件</target>
         <note>Title for when an event repeats</note>
+        <target xml:lang="zh-Hant" state="translated">重複事件</target>
       </trans-unit>
       <trans-unit id="EventStartDateTime">
         <source>EventStartDateTime</source>
-        <target>開始日期</target>
         <note>Title for the time an event starts (including date information)</note>
+        <target xml:lang="zh-Hant" state="translated">開始日期</target>
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
-        <target>每 %@</target>
         <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes'</note>
+        <target xml:lang="zh-Hant" state="translated">每 %@</target>
       </trans-unit>
       <trans-unit id="Example">
         <source>Example</source>
-        <target>範例</target>
         <note>Text do mark an example</note>
+        <target xml:lang="zh-Hant" state="translated">範例</target>
       </trans-unit>
       <trans-unit id="Exclude">
         <source>Exclude</source>
-        <target>排除此事件</target>
         <note>Exclude event action</note>
+        <target xml:lang="zh-Hant" state="translated">排除此事件</target>
       </trans-unit>
       <trans-unit id="ExcuseDueToLate">
         <source>ExcuseDueToLate</source>
-        <target>TripGo - 從此再也沒有遲到的理由了！</target>
         <note>There goes my excuse for being late...</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo - 從此再也沒有遲到的理由了！</target>
       </trans-unit>
       <trans-unit id="Fast">
         <source>Fast</source>
-        <target>快</target>
         <note>Speed preference 'fast'</note>
+        <target xml:lang="zh-Hant" state="translated">快</target>
       </trans-unit>
       <trans-unit id="Favourite">
         <source>Favourite</source>
-        <target>常用項目</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">常用項目</target>
       </trans-unit>
       <trans-unit id="Favourite Trip">
         <source>Favourite Trip</source>
-        <target>常用路線</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">常用路線</target>
       </trans-unit>
       <trans-unit id="Favourite added">
         <source>Favourite added</source>
-        <target>已加入常用項目</target>
         <note>Add favourite HUD notice</note>
+        <target xml:lang="zh-Hant" state="translated">已加入常用項目</target>
       </trans-unit>
       <trans-unit id="Favourite removed">
         <source>Favourite removed</source>
-        <target>已從常用項目中移除</target>
         <note>Remove trip from favourites HUD notice</note>
+        <target xml:lang="zh-Hant" state="translated">已從常用項目中移除</target>
       </trans-unit>
       <trans-unit id="Favourites">
         <source>Favourites</source>
-        <target>常用項目</target>
         <note>Title for button to access favourites</note>
+        <target xml:lang="zh-Hant" state="translated">常用項目</target>
       </trans-unit>
       <trans-unit id="FavouritesButton">
         <source>FavouritesButton</source>
-        <target>常用項目</target>
         <note>Favourites tab bar name</note>
+        <target xml:lang="zh-Hant" state="translated">常用項目</target>
       </trans-unit>
       <trans-unit id="Feedback &amp; Support">
         <source>Feedback &amp; Support</source>
-        <target>技術支援與問題回報</target>
         <note>Help title</note>
+        <target xml:lang="zh-Hant" state="translated">技術支援與問題回報</target>
       </trans-unit>
       <trans-unit id="Filter">
         <source>Filter</source>
-        <target>篩選</target>
         <note>Placeholder text for search bar that is used for filtering</note>
+        <target xml:lang="zh-Hant" state="translated">篩選</target>
       </trans-unit>
       <trans-unit id="Flight">
         <source>Flight</source>
-        <target>航班</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">航班</target>
       </trans-unit>
       <trans-unit id="Flight number">
         <source>Flight number</source>
-        <target>航班號碼</target>
         <note>Flight number prompt</note>
+        <target xml:lang="zh-Hant" state="translated">航班號碼</target>
       </trans-unit>
       <trans-unit id="FlightDate">
         <source>FlightDate</source>
-        <target>航班日期</target>
         <note>Date of the flight</note>
+        <target xml:lang="zh-Hant" state="translated">航班日期</target>
       </trans-unit>
       <trans-unit id="FlightDetails">
         <source>FlightDetails</source>
-        <target>航班資訊</target>
         <note>Details of a flight</note>
+        <target xml:lang="zh-Hant" state="translated">航班資訊</target>
       </trans-unit>
       <trans-unit id="FlightNote">
         <source>FlightNote</source>
-        <target>備註</target>
         <note>Note concerning the flight</note>
+        <target xml:lang="zh-Hant" state="translated">備註</target>
       </trans-unit>
       <trans-unit id="FlightNumberFormat">
         <source>FlightNumberFormat</source>
-        <target>%@航班</target>
         <note>Title for flight with %flightNumber</note>
+        <target xml:lang="zh-Hant" state="translated">%@航班</target>
       </trans-unit>
       <trans-unit id="FlightSearch">
         <source>FlightSearch</source>
-        <target>搜尋航班</target>
         <note>Search for a flight</note>
+        <target xml:lang="zh-Hant" state="translated">搜尋航班</target>
       </trans-unit>
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
-        <target>出發時間</target>
         <note>Reminder to leave preference</note>
+        <target xml:lang="zh-Hant" state="translated">出發時間</target>
       </trans-unit>
       <trans-unit id="FreeDirections">
         <source>FreeDirections</source>
-        <target>TripGo - 免費的路線規劃專家</target>
         <note>Free directions</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo - 免費的路線規劃專家</target>
       </trans-unit>
       <trans-unit id="From">
         <source>From</source>
-        <target>從</target>
         <note>Favorite trip 'from' title</note>
+        <target xml:lang="zh-Hant" state="translated">從</target>
       </trans-unit>
       <trans-unit id="From %@">
         <source>From %@</source>
-        <target>從 %@</target>
         <note>Format string for going from one location to others. Used to name favourite stops.</note>
+        <target xml:lang="zh-Hant" state="translated">從 %@</target>
       </trans-unit>
       <trans-unit id="From %@, leaving now">
         <source>From %@, leaving now</source>
-        <target>現在從 %@ 出發</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">現在從 %@ 出發</target>
       </trans-unit>
       <trans-unit id="From current location">
         <source>From current location</source>
-        <target>從當前的位置</target>
         <note>Route here... ...from Current location</note>
+        <target xml:lang="zh-Hant" state="translated">從當前的位置</target>
       </trans-unit>
       <trans-unit id="FromToForEventLocationFormat">
         <source>FromToForEventLocationFormat</source>
-        <target>從%@到%@</target>
         <note>Location for trip exported as event going from %location1 to %location2</note>
+        <target xml:lang="zh-Hant" state="translated">從%@到%@</target>
       </trans-unit>
       <trans-unit id="Garaged Vehicles">
         <source>Garaged Vehicles</source>
-        <target>停放在此處的車輛</target>
         <note>Header for list of vehicles garaged at this location</note>
+        <target xml:lang="zh-Hant" state="translated">停放在此處的車輛</target>
       </trans-unit>
       <trans-unit id="General">
         <source>General</source>
-        <target>一般</target>
         <note>Title of settings for generic transport stuff</note>
+        <target xml:lang="zh-Hant" state="translated">一般</target>
       </trans-unit>
       <trans-unit id="Get Involved">
         <source>Get Involved</source>
-        <target>使用者參與</target>
         <note>Header for settings for feedback, recommending and rating TripGo</note>
+        <target xml:lang="zh-Hant" state="translated">使用者參與</target>
       </trans-unit>
       <trans-unit id="Get directions">
         <source>Get directions</source>
-        <target>使用導航</target>
         <note>Action button title for getting turn-by-turn directions</note>
+        <target xml:lang="zh-Hant" state="translated">使用導航</target>
       </trans-unit>
       <trans-unit id="Get off here">
         <source>Get off here</source>
-        <target>在這裡結束搭乘</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">在這裡結束搭乘</target>
       </trans-unit>
       <trans-unit id="Get on here">
         <source>Get on here</source>
-        <target>在這裡開始搭乘</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">在這裡開始搭乘</target>
       </trans-unit>
       <trans-unit id="Get on or off here">
         <source>Get on or off here</source>
-        <target>在這裡開始/結束搭乘</target>
         <note>Description for button to get on or off at the selected public transport stop rather than where TripGo suggested.</note>
+        <target xml:lang="zh-Hant" state="translated">在這裡開始/結束搭乘</target>
       </trans-unit>
       <trans-unit id="GetAround">
         <source>GetAround</source>
-        <target>我使用TripGo來趴趴走</target>
         <note>I use TripGo to get around</note>
+        <target xml:lang="zh-Hant" state="translated">我使用TripGo來趴趴走</target>
       </trans-unit>
       <trans-unit id="Getting current location">
         <source>Getting current location</source>
-        <target>正在尋找目前位置</target>
         <note>Indicating localisation is in progress</note>
+        <target xml:lang="zh-Hant" state="translated">正在尋找目前位置</target>
       </trans-unit>
       <trans-unit id="Getting trip...">
         <source>Getting trip...</source>
-        <target>正在規劃路線</target>
         <note>Message to show when trying to get trip for a favorite</note>
+        <target xml:lang="zh-Hant" state="translated">正在規劃路線</target>
       </trans-unit>
       <trans-unit id="Habitual Visit">
         <source>Habitual Visit</source>
-        <target>例行事件</target>
         <note>Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites</note>
+        <target xml:lang="zh-Hant" state="translated">例行事件</target>
       </trans-unit>
       <trans-unit id="HabitualEventDescription">
         <source>HabitualEventDescription</source>
-        <target>例行事件是您每天需要做的事情，但是您並不想將它們記錄在您的行事曆中（例如：上班）．指定例行事件可以讓行程功能在對的時間帶您到對的地方．</target>
         <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish.</note>
+        <target xml:lang="zh-Hant" state="translated">例行事件是您每天需要做的事情，但是您並不想將它們記錄在您的行事曆中（例如：上班）．指定例行事件可以讓行程功能在對的時間帶您到對的地方．</target>
       </trans-unit>
       <trans-unit id="Has TripGo been useful to you?">
         <source>Has TripGo been useful to you?</source>
-        <target>TripGo對您來說有幫助嗎?</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo對您來說有幫助嗎?</target>
       </trans-unit>
       <trans-unit id="Home">
         <source>Home</source>
-        <target>住家</target>
         <note>Typical name that you'd give your home location</note>
+        <target xml:lang="zh-Hant" state="translated">住家</target>
       </trans-unit>
       <trans-unit id="Hybrid">
         <source>Hybrid</source>
-        <target>混合</target>
         <note>Map mode 'streets + satellite'</note>
+        <target xml:lang="zh-Hant" state="translated">混合</target>
       </trans-unit>
       <trans-unit id="Include">
         <source>Include</source>
-        <target>包含此事件</target>
         <note>Include event action</note>
+        <target xml:lang="zh-Hant" state="translated">包含此事件</target>
       </trans-unit>
       <trans-unit id="Include Step Count">
         <source>Include Step Count</source>
-        <target>包含步行數</target>
         <note>Title for setting to include step count on Agenda screen</note>
+        <target xml:lang="zh-Hant" state="translated">包含步行數</target>
       </trans-unit>
       <trans-unit id="Include in routes">
         <source>Include in routes</source>
-        <target>包含在行程中</target>
         <note>Title for a switch indicating if this event should be included in all-day routes
    Title for setting to include transport mode in trips.</note>
+        <target xml:lang="zh-Hant" state="translated">包含在行程中</target>
       </trans-unit>
       <trans-unit id="Jump to today">
         <source>Jump to today</source>
-        <target>回到今日</target>
         <note>Accessibility hint for tapping title in agenda - jumps to 'today'</note>
+        <target xml:lang="zh-Hant" state="translated">回到今日</target>
       </trans-unit>
       <trans-unit id="Km">
         <source>Km</source>
-        <target>公里</target>
         <note>Distance 'kilometers'</note>
+        <target xml:lang="zh-Hant" state="translated">公里</target>
       </trans-unit>
       <trans-unit id="LeaveAfter">
         <source>LeaveAfter</source>
-        <target>此後出發</target>
         <note>Leave after button</note>
+        <target xml:lang="zh-Hant" state="translated">此後出發</target>
       </trans-unit>
       <trans-unit id="List">
         <source>List</source>
-        <target>列表</target>
         <note>Button title to switch view to list mode</note>
+        <target xml:lang="zh-Hant" state="translated">列表</target>
+      </trans-unit>
+      <trans-unit id="Loading">
+        <source>Loading</source>
+        <note>Title on the button that indicates to the user that booking is in progressing</note>
+        <target xml:lang="zh-Hant" state="translated">正在載入</target>
       </trans-unit>
       <trans-unit id="Loading...">
         <source>Loading...</source>
-        <target>正在載入...</target>
         <note>Title to show while loading/waiting for results</note>
+        <target xml:lang="zh-Hant" state="translated">正在載入...</target>
       </trans-unit>
       <trans-unit id="Location">
         <source>Location</source>
-        <target>地點詳情</target>
         <note>Title for showing the details of a location, typically picked from the map after searching or dropping a pin</note>
+        <target xml:lang="zh-Hant" state="translated">地點詳情</target>
       </trans-unit>
       <trans-unit id="Location missing.">
         <source>Location missing.</source>
-        <target>缺乏地點.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">缺乏地點.</target>
       </trans-unit>
       <trans-unit id="Location not set.">
         <source>Location not set.</source>
-        <target>尚未設置地點</target>
         <note>Error title when favourite is missing a location..</note>
+        <target xml:lang="zh-Hant" state="translated">尚未設置地點</target>
       </trans-unit>
       <trans-unit id="LocationComingFrom">
         <source>LocationComingFrom</source>
-        <target>您的出發地?</target>
         <note>Where are you going from?</note>
+        <target xml:lang="zh-Hant" state="translated">您的出發地?</target>
       </trans-unit>
       <trans-unit id="LocationWantToGo">
         <source>LocationWantToGo</source>
-        <target>您的目的地?</target>
         <note>Where do you want to go?</note>
+        <target xml:lang="zh-Hant" state="translated">您的目的地?</target>
       </trans-unit>
       <trans-unit id="Long press on the map to choose a location">
         <source>Long press on the map to choose a location</source>
-        <target>在地圖上長按來選取地點</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">在地圖上長按來選取地點</target>
       </trans-unit>
       <trans-unit id="LostOnce">
         <source>LostOnce</source>
-        <target>我曾經到處迷路直到我發現TripGo.</target>
         <note>I once was lost but now I have found... TripGo</note>
+        <target xml:lang="zh-Hant" state="translated">我曾經到處迷路直到我發現TripGo.</target>
       </trans-unit>
       <trans-unit id="Manual Reminders">
         <source>Manual Reminders</source>
-        <target>手動設定提醒事件</target>
         <note>Header for settings of reminders that the user manually added</note>
+        <target xml:lang="zh-Hant" state="translated">手動設定提醒事件</target>
       </trans-unit>
       <trans-unit id="Map">
         <source>Map</source>
-        <target>地圖</target>
         <note>Button title to switch agenda view to map mode
    Button title to switch to map
    Map preference</note>
+        <target xml:lang="zh-Hant" state="translated">地圖</target>
       </trans-unit>
       <trans-unit id="Marking a location as a favourite will allow quick access to routing results for going there from your current location.">
         <source>Marking a location as a favourite will allow quick access to routing results for going there from your current location.</source>
-        <target>常用地點讓您可以快速的規劃從您目前所在位置到這些地點的旅程.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">常用地點讓您可以快速的規劃從您目前所在位置到這些地點的旅程.</target>
       </trans-unit>
       <trans-unit id="Marking a transit stop as a favourite will allow quick access to its timetable.">
         <source>Marking a transit stop as a favourite will allow quick access to its timetable.</source>
-        <target>當您將車站加入常用地點時，您將可以快速地取得此車站的時刻表.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">當您將車站加入常用地點時，您將可以快速地取得此車站的時刻表.</target>
       </trans-unit>
       <trans-unit id="Medium">
         <source>Medium</source>
-        <target>中</target>
         <note>Speed preference 'medium'</note>
+        <target xml:lang="zh-Hant" state="translated">中</target>
       </trans-unit>
       <trans-unit id="Mi">
         <source>Mi</source>
-        <target>哩</target>
         <note>Distance 'miles'</note>
+        <target xml:lang="zh-Hant" state="translated">哩</target>
       </trans-unit>
       <trans-unit id="Min transfer time">
         <source>Min transfer time</source>
-        <target>最短轉運時間</target>
         <note>Minimum transfer time preference</note>
+        <target xml:lang="zh-Hant" state="translated">最短轉運時間</target>
       </trans-unit>
       <trans-unit id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.">
         <source>Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</source>
-        <target>將此交通工具相關的結果最小化．您可以在不常使用的交通選項上啟用此功能</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">將此交通工具相關的結果最小化．您可以在不常使用的交通選項上啟用此功能</target>
       </trans-unit>
       <trans-unit id="Minimised">
         <source>Minimised</source>
-        <target>最小化</target>
         <note>Indicator that a transport mode will appear minimised on the routes screen.
    Title for setting to minimise a transport mode.</note>
+        <target xml:lang="zh-Hant" state="translated">最小化</target>
       </trans-unit>
       <trans-unit id="Minutes">
         <source>Minutes</source>
-        <target>%.0f分鐘</target>
         <note>Minutes format (used for transfer times)</note>
+        <target xml:lang="zh-Hant" state="translated">%.0f分鐘</target>
       </trans-unit>
       <trans-unit id="Minutes before trip">
         <source>Minutes before trip</source>
-        <target>多久前提醒</target>
         <note>Reminder to leave preference</note>
+        <target xml:lang="zh-Hant" state="translated">多久前提醒</target>
       </trans-unit>
       <trans-unit id="MinutesBefore">
         <source>MinutesBefore</source>
-        <target>%.0f分鐘前</target>
         <note>Number of minutes before departure</note>
+        <target xml:lang="zh-Hant" state="translated">%.0f分鐘前</target>
       </trans-unit>
       <trans-unit id="More">
         <source>More</source>
-        <target>更多</target>
         <note>More button accessibility label</note>
+        <target xml:lang="zh-Hant" state="translated">更多</target>
       </trans-unit>
       <trans-unit id="More Information">
         <source>More Information</source>
-        <target>更多資訊</target>
         <note>Header for list of how to get more information (e.g., by opening a website)</note>
+        <target xml:lang="zh-Hant" state="translated">更多資訊</target>
       </trans-unit>
       <trans-unit id="Movie">
         <source>Movie</source>
-        <target>電影</target>
         <note>Sample event name ('Movie')</note>
+        <target xml:lang="zh-Hant" state="translated">電影</target>
       </trans-unit>
       <trans-unit id="My Agenda">
         <source>My Agenda</source>
-        <target>我的行程</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">我的行程</target>
       </trans-unit>
       <trans-unit id="My Bookings">
         <source>My Bookings</source>
-        <target>我的訂購</target>
         <note>Title for profile item that loads a list of user's bookings</note>
+        <target xml:lang="zh-Hant" state="translated">我的訂購</target>
       </trans-unit>
       <trans-unit id="My Priorities">
         <source>My Priorities</source>
-        <target>我的優先順序</target>
         <note>User preferences title</note>
+        <target xml:lang="zh-Hant" state="translated">我的優先順序</target>
       </trans-unit>
       <trans-unit id="My Transport">
         <source>My Transport</source>
-        <target>我的交通選項</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">我的交通選項</target>
       </trans-unit>
       <trans-unit id="My Vehicles">
         <source>My Vehicles</source>
-        <target>我的車輛</target>
         <note>Header for list of my vehicles</note>
+        <target xml:lang="zh-Hant" state="translated">我的車輛</target>
       </trans-unit>
       <trans-unit id="NameVehicle">
         <source>NameVehicle</source>
-        <target>車輛名稱</target>
         <note>Name of the vehicle</note>
+        <target xml:lang="zh-Hant" state="translated">車輛名稱</target>
       </trans-unit>
       <trans-unit id="Navigate to a supported city on a map.">
         <source>Navigate to a supported city on a map.</source>
-        <target>請將地圖移到任何一個支援的城市上</target>
         <note>Error recovery suggestion for when TripGo couldn't identify the user's current city.</note>
+        <target xml:lang="zh-Hant" state="translated">請將地圖移到任何一個支援的城市上</target>
       </trans-unit>
       <trans-unit id="New Favourite">
         <source>New Favourite</source>
-        <target>新的常用項目</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">新的常用項目</target>
       </trans-unit>
       <trans-unit id="NewEvent">
         <source>NewEvent</source>
-        <target>新的事件</target>
         <note>Title for unnamed new event</note>
+        <target xml:lang="zh-Hant" state="translated">新的事件</target>
       </trans-unit>
       <trans-unit id="NewItemAwayActionTitle">
         <source>NewItemAwayActionTitle</source>
-        <target>在不同的地點停留</target>
         <note>Action title for adding a habitual item away from some location</note>
+        <target xml:lang="zh-Hant" state="translated">在不同的地點停留</target>
       </trans-unit>
       <trans-unit id="NewItemHereActionTitle">
         <source>NewItemHereActionTitle</source>
-        <target>加入另一行程</target>
         <note>Action title for adding another habitual visit to a favourite</note>
+        <target xml:lang="zh-Hant" state="translated">加入另一行程</target>
       </trans-unit>
       <trans-unit id="NewItemHereTitle">
         <source>NewItemHereTitle</source>
-        <target>新增例行事件</target>
         <note>Title for page for adding a new routine/stay at a specific location</note>
+        <target xml:lang="zh-Hant" state="translated">新增例行事件</target>
       </trans-unit>
       <trans-unit id="NewStayTitle">
         <source>NewStayTitle</source>
-        <target>新增停留</target>
         <note>Title for page for adding a new routing/stay at a specific location</note>
+        <target xml:lang="zh-Hant" state="translated">新增停留</target>
       </trans-unit>
       <trans-unit id="No 'From' location selected">
         <source>No 'From' location selected</source>
-        <target>您未選取您的出發地</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">您未選取您的出發地</target>
       </trans-unit>
       <trans-unit id="No 'To' location selected">
         <source>No 'To' location selected</source>
-        <target>您未選取您的目的地</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">您未選取您的目的地</target>
       </trans-unit>
       <trans-unit id="No calendar found.">
         <source>No calendar found.</source>
-        <target>無法在您的裝置上找到任何行事曆．</target>
         <note>Error title for when no calendar found.</note>
+        <target xml:lang="zh-Hant" state="translated">無法在您的裝置上找到任何行事曆．</target>
       </trans-unit>
       <trans-unit id="No locations set">
         <source>No locations set</source>
-        <target>尚未設定地點</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">尚未設定地點</target>
       </trans-unit>
       <trans-unit id="No planned trip">
         <source>No planned trip</source>
-        <target>沒有計劃中的路線</target>
         <note>Text to show if there's no planned trip.</note>
+        <target xml:lang="zh-Hant" state="translated">沒有計劃中的路線</target>
       </trans-unit>
       <trans-unit id="No planned trips">
         <source>No planned trips</source>
-        <target>沒有已計劃好的路線</target>
         <note>Indicating no trips have been planned within 24 hrs</note>
+        <target xml:lang="zh-Hant" state="translated">沒有已計劃好的路線</target>
       </trans-unit>
       <trans-unit id="No routes found.">
         <source>No routes found.</source>
-        <target>無法找到任何合適的路線</target>
         <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
+        <target xml:lang="zh-Hant" state="translated">無法找到任何合適的路線</target>
       </trans-unit>
       <trans-unit id="No, thanks">
         <source>No, thanks</source>
-        <target>不用．謝謝．</target>
         <note>Negative answer to follow-up question for rating or feedback.</note>
+        <target xml:lang="zh-Hant" state="translated">不用．謝謝．</target>
       </trans-unit>
       <trans-unit id="Not really">
         <source>Not really</source>
-        <target>並不願意</target>
         <note>Negative answer to question whether TripGo is useful.</note>
+        <target xml:lang="zh-Hant" state="translated">並不願意</target>
       </trans-unit>
       <trans-unit id="Now">
         <source>Now</source>
-        <target>現在</target>
         <note>Countdown cell 'now' indicator</note>
+        <target xml:lang="zh-Hant" state="translated">現在</target>
       </trans-unit>
       <trans-unit id="NumberRouteFormat">
         <source>NumberRouteFormat</source>
-        <target>%1$ld個路線中的第%2$ld個</target>
         <note>Title for route number %1 of %total, where %total &gt; 1.</note>
+        <target xml:lang="zh-Hant" state="translated">%1$ld個路線中的第%2$ld個</target>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
-        <target>好</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">好</target>
       </trans-unit>
       <trans-unit id="Only This">
         <source>Only This</source>
-        <target>僅此事件</target>
         <note>Option to delete only this event in a recurence
    Option to use this trip just this time.</note>
+        <target xml:lang="zh-Hant" state="translated">僅此事件</target>
       </trans-unit>
       <trans-unit id="Open TripGo app and add the location of this favourite.">
         <source>Open TripGo app and add the location of this favourite.</source>
-        <target>請在手機上開啟TripGo為此常用項目設定地點</target>
         <note>Error recovery suggestion for favourites with missing location.</note>
+        <target xml:lang="zh-Hant" state="translated">請在手機上開啟TripGo為此常用項目設定地點</target>
       </trans-unit>
       <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
         <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
-        <target>請在手機上開啟TripGo或是系統的設定來授權TripGo存取您的定位服務</target>
         <note>Error recovery suggestion for when watch doesn't have access to location services.</note>
+        <target xml:lang="zh-Hant" state="translated">請在手機上開啟TripGo或是系統的設定來授權TripGo存取您的定位服務</target>
       </trans-unit>
       <trans-unit id="Open URL">
         <source>Open URL</source>
-        <target>開啟URL</target>
         <note>Button title to open URL</note>
+        <target xml:lang="zh-Hant" state="translated">開啟URL</target>
       </trans-unit>
       <trans-unit id="Open website">
         <source>Open website</source>
-        <target>開啟網頁</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">開啟網頁</target>
+      </trans-unit>
+      <trans-unit id="Opening...">
+        <source>Opening...</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Opening...</target>
       </trans-unit>
       <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
-        <target>我們的終端使用者協議有所變更．您必須同意以繼續使用本程序</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">我們的終端使用者協議有所變更．您必須同意以繼續使用本程序</target>
       </trans-unit>
       <trans-unit id="Permission was granted. Please go back and try again.">
         <source>Permission was granted. Please go back and try again.</source>
-        <target>已取得授權．請返回之前的畫面並重新嘗試一次.</target>
         <note>Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results.</note>
+        <target xml:lang="zh-Hant" state="translated">已取得授權．請返回之前的畫面並重新嘗試一次.</target>
       </trans-unit>
       <trans-unit id="Permissions">
         <source>Permissions</source>
-        <target>授權</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">授權</target>
       </trans-unit>
       <trans-unit id="Pick a Time">
         <source>Pick a Time</source>
-        <target>選取一個時間</target>
         <note>Timetable screen title</note>
+        <target xml:lang="zh-Hant" state="translated">選取一個時間</target>
       </trans-unit>
       <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
         <source>Plan a trip on your phone or press firmly to access your favourites.</source>
-        <target>請在您的手機上規劃一條路線或是下壓螢幕來查閱您的常用路線</target>
         <note>Instruction to users when there are no upcoming trips</note>
+        <target xml:lang="zh-Hant" state="translated">請在您的手機上規劃一條路線或是下壓螢幕來查閱您的常用路線</target>
       </trans-unit>
       <trans-unit id="Plan a trip on your phone.">
         <source>Plan a trip on your phone.</source>
-        <target>請在您的手機上規劃一條路線</target>
         <note>Instruction to users when there are no upcoming trips (for non-interactive Glance)</note>
+        <target xml:lang="zh-Hant" state="translated">請在您的手機上規劃一條路線</target>
       </trans-unit>
       <trans-unit id="Please adjust your query and try again.">
         <source>Please adjust your query and try again.</source>
-        <target>請調整一下您的搜索條件並再次嘗試</target>
         <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
+        <target xml:lang="zh-Hant" state="translated">請調整一下您的搜索條件並再次嘗試</target>
       </trans-unit>
       <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
         <source>Please check your Calendar app and make sure you have a calendar configured.</source>
-        <target>請確任您已在此裝置上設定的行事曆．</target>
         <note>Error recovery suggestion for when no calendar found.</note>
+        <target xml:lang="zh-Hant" state="translated">請確任您已在此裝置上設定的行事曆．</target>
       </trans-unit>
       <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
         <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
-        <target>請將本程式從手機上移除並再次從App Store下載．很抱歉造成您的不便</target>
         <note>Recovery suggestion when TripGo cannot access its local files</note>
+        <target xml:lang="zh-Hant" state="translated">請將本程式從手機上移除並再次從App Store下載．很抱歉造成您的不便</target>
       </trans-unit>
       <trans-unit id="Please restart the app. Sorry for the inconvenience!">
         <source>Please restart the app. Sorry for the inconvenience!</source>
-        <target>請重新啟動本程式．很抱歉造成您的不便</target>
         <note>Recovery suggestion when database got corrupted</note>
+        <target xml:lang="zh-Hant" state="translated">請重新啟動本程式．很抱歉造成您的不便</target>
       </trans-unit>
       <trans-unit id="Please specify an address.">
         <source>Please specify an address.</source>
-        <target>Please specify an address.</target>
         <note>Alert message that asks users to provide the missing address for a new event.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Please specify an address.</target>
       </trans-unit>
       <trans-unit id="Please try restarting the app. Sorry for the inconvenience!">
         <source>Please try restarting the app. Sorry for the inconvenience!</source>
-        <target>請嘗試重新啟動本程式．很抱歉造成您的不便</target>
         <note>Recovery suggestion when TripGo cannot update its local files</note>
+        <target xml:lang="zh-Hant" state="translated">請嘗試重新啟動本程式．很抱歉造成您的不便</target>
       </trans-unit>
       <trans-unit id="Preferred transport">
         <source>Preferred transport</source>
-        <target>偏好的交通工具</target>
         <note>Title for preferred public transport modes.</note>
+        <target xml:lang="zh-Hant" state="translated">偏好的交通工具</target>
       </trans-unit>
       <trans-unit id="Priorities">
         <source>Priorities</source>
-        <target>優先順序</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">優先順序</target>
       </trans-unit>
       <trans-unit id="PrivateTimeToLeave">
         <source>PrivateTimeToLeave</source>
-        <target>請準備出發！您到 %@ 的旅程將在 %@ 開始</target>
         <note>Notification message for a non-public transport trip. Provided is %destination and %time you need to leave.</note>
+        <target xml:lang="zh-Hant" state="translated">請準備出發！您到 %@ 的旅程將在 %@ 開始</target>
       </trans-unit>
       <trans-unit id="PrivateTimeToLeaveNoLocation">
         <source>PrivateTimeToLeaveNoLocation</source>
-        <target>請準備出發！您的旅程將從 %@ 開始</target>
         <note>Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
+        <target xml:lang="zh-Hant" state="translated">請準備出發！您的旅程將從 %@ 開始</target>
       </trans-unit>
       <trans-unit id="Profile">
         <source>Profile</source>
-        <target>關於我</target>
         <note>Title for view that shows user's profile</note>
+        <target xml:lang="zh-Hant" state="translated">關於我</target>
       </trans-unit>
       <trans-unit id="ProfileButton">
         <source>ProfileButton</source>
-        <target>我</target>
         <note>Profile tab bar name</note>
+        <target xml:lang="zh-Hant" state="translated">我</target>
       </trans-unit>
       <trans-unit id="Rate TripGo">
         <source>Rate TripGo</source>
-        <target>請給我們評價</target>
         <note>Rate us preference</note>
+        <target xml:lang="zh-Hant" state="translated">請給我們評價</target>
       </trans-unit>
       <trans-unit id="Reminder">
         <source>Reminder</source>
-        <target>提醒事項</target>
         <note>Action title to add/remove reminder</note>
+        <target xml:lang="zh-Hant" state="translated">提醒事項</target>
       </trans-unit>
       <trans-unit id="Reminder added">
         <source>Reminder added</source>
-        <target>已新增提醒事項</target>
         <note>Added reminder notice</note>
+        <target xml:lang="zh-Hant" state="translated">已新增提醒事項</target>
       </trans-unit>
       <trans-unit id="Reminder removed">
         <source>Reminder removed</source>
-        <target>已刪除提醒事項</target>
         <note>Removed reminder HUD notice</note>
+        <target xml:lang="zh-Hant" state="translated">已刪除提醒事項</target>
       </trans-unit>
       <trans-unit id="Reminders">
         <source>Reminders</source>
-        <target>提醒事項</target>
         <note>Reminders title</note>
+        <target xml:lang="zh-Hant" state="translated">提醒事項</target>
       </trans-unit>
       <trans-unit id="Remove">
         <source>Remove</source>
-        <target>移除</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">移除</target>
       </trans-unit>
       <trans-unit id="Remove Favourite">
         <source>Remove Favourite</source>
-        <target>刪除常用項目</target>
         <note>Remove favourite activity title</note>
+        <target xml:lang="zh-Hant" state="translated">刪除常用項目</target>
       </trans-unit>
       <trans-unit id="Remove Reminder">
         <source>Remove Reminder</source>
-        <target>刪除提醒事項</target>
         <note>Remove reminder activity title</note>
+        <target xml:lang="zh-Hant" state="translated">刪除提醒事項</target>
       </trans-unit>
       <trans-unit id="Remove and exclude event">
         <source>Remove and exclude event</source>
-        <target>排除此事件</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">排除此事件</target>
       </trans-unit>
       <trans-unit id="Remove from Agenda">
         <source>Remove from Agenda</source>
-        <target>從行程中移除</target>
         <note>Unsave trip action</note>
+        <target xml:lang="zh-Hant" state="translated">從行程中移除</target>
       </trans-unit>
       <trans-unit id="Removed from Agenda">
         <source>Removed from Agenda</source>
-        <target>已從行程中移除</target>
         <note>Remove from agenda HUD notice</note>
+        <target xml:lang="zh-Hant" state="translated">已從行程中移除</target>
       </trans-unit>
       <trans-unit id="Removing this trip will exclude the following event from your agenda.">
         <source>Removing this trip will exclude the following event from your agenda.</source>
-        <target>移除此路線將會同時把它以後的事件從您的行程中排除</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">移除此路線將會同時把它以後的事件從您的行程中排除</target>
       </trans-unit>
       <trans-unit id="Removing this trip will exclude the preceeding event from your agenda.">
         <source>Removing this trip will exclude the preceeding event from your agenda.</source>
-        <target>移除此路線將會同時把它之前的事件從您的行程中排除</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">移除此路線將會同時把它之前的事件從您的行程中排除</target>
       </trans-unit>
       <trans-unit id="Repeat does end">
         <source>Repeat does end</source>
-        <target>結束重複</target>
         <note>Title for switch indicating if an event repeats or not</note>
+        <target xml:lang="zh-Hant" state="translated">結束重複</target>
       </trans-unit>
       <trans-unit id="Report Problem">
         <source>Report Problem</source>
-        <target>回報問題</target>
         <note>Report problem</note>
+        <target xml:lang="zh-Hant" state="translated">回報問題</target>
       </trans-unit>
       <trans-unit id="Request...">
         <source>Request...</source>
-        <target>要求...</target>
         <note>Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event.</note>
+        <target xml:lang="zh-Hant" state="translated">要求...</target>
       </trans-unit>
       <trans-unit id="Reset">
         <source>Reset</source>
-        <target>重置</target>
         <note>Reset button for my priorities
    Title of group of settings related to resetting settings</note>
+        <target xml:lang="zh-Hant" state="translated">重置</target>
       </trans-unit>
       <trans-unit id="Reset agenda">
         <source>Reset agenda</source>
-        <target>重置行程</target>
         <note>Action title to reset agenda content.</note>
+        <target xml:lang="zh-Hant" state="translated">重置行程</target>
       </trans-unit>
       <trans-unit id="Reset tutorial">
         <source>Reset tutorial</source>
-        <target>重置教學</target>
         <note>Action title to reset tutorial progress.</note>
+        <target xml:lang="zh-Hant" state="translated">重置教學</target>
       </trans-unit>
       <trans-unit id="Return time">
         <source>Return time</source>
-        <target>回程時間</target>
         <note>Title for selector of return time for a trip</note>
+        <target xml:lang="zh-Hant" state="translated">回程時間</target>
       </trans-unit>
       <trans-unit id="Return trip">
         <source>Return trip</source>
-        <target>回程路線</target>
         <note>Header for section to configure return trip</note>
+        <target xml:lang="zh-Hant" state="translated">回程路線</target>
       </trans-unit>
       <trans-unit id="Review EULA">
         <source>Review EULA</source>
-        <target>查閱終端使用者協議</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">查閱終端使用者協議</target>
       </trans-unit>
       <trans-unit id="Route">
         <source>Route</source>
-        <target>路線</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">路線</target>
       </trans-unit>
       <trans-unit id="Route here">
         <source>Route here</source>
-        <target>規劃到此的路線</target>
         <note>Title for options for routing to this location, options are: current location, &lt;some previously selected location&gt;.</note>
+        <target xml:lang="zh-Hant" state="translated">規劃到此的路線</target>
       </trans-unit>
       <trans-unit id="Routes">
         <source>Routes</source>
-        <target>所有路線</target>
         <note>Results screen title</note>
+        <target xml:lang="zh-Hant" state="translated">所有路線</target>
       </trans-unit>
       <trans-unit id="Satellite">
         <source>Satellite</source>
-        <target>衛星</target>
         <note>Map mode 'satellite'</note>
+        <target xml:lang="zh-Hant" state="translated">衛星</target>
       </trans-unit>
       <trans-unit id="Save Money">
         <source>Save Money</source>
-        <target>節省金錢</target>
         <note>Price preference</note>
+        <target xml:lang="zh-Hant" state="translated">節省金錢</target>
       </trans-unit>
       <trans-unit id="Save Time">
         <source>Save Time</source>
-        <target>節省時間</target>
         <note>Time preference</note>
+        <target xml:lang="zh-Hant" state="translated">節省時間</target>
       </trans-unit>
       <trans-unit id="Search for a city">
         <source>Search for a city</source>
-        <target>搜尋您的城市</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">搜尋您的城市</target>
       </trans-unit>
       <trans-unit id="Search for your home address">
         <source>Search for your home address</source>
-        <target>搜尋您的住家位置</target>
         <note>Agenda onboarding: placeholder text for search bar for 'home'.</note>
+        <target xml:lang="zh-Hant" state="translated">搜尋您的住家位置</target>
       </trans-unit>
       <trans-unit id="Search for your work address">
         <source>Search for your work address</source>
-        <target>搜尋您的上班位置</target>
         <note>Agenda onboarding: placeholder text for search bar for 'work'.</note>
+        <target xml:lang="zh-Hant" state="translated">搜尋您的上班位置</target>
       </trans-unit>
       <trans-unit id="SearchButton">
         <source>SearchButton</source>
-        <target>搜尋</target>
         <note>Search tab bar name</note>
+        <target xml:lang="zh-Hant" state="translated">搜尋</target>
+      </trans-unit>
+      <trans-unit id="Searching for '%@'...">
+        <source>Searching for '%@'...</source>
+        <note>Placeholder text while waiting for server response when searching for a location.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Searching for '%@'...</target>
       </trans-unit>
       <trans-unit id="Select Bike Share">
         <source>Select Bike Share</source>
-        <target>選擇共享的自行車</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">選擇共享的自行車</target>
       </trans-unit>
       <trans-unit id="Select Car Park">
         <source>Select Car Park</source>
-        <target>選擇停車場</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">選擇停車場</target>
       </trans-unit>
       <trans-unit id="Select Vehicle">
         <source>Select Vehicle</source>
-        <target>選擇您的車輛</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">選擇您的車輛</target>
       </trans-unit>
       <trans-unit id="Select a date to get flight details.">
         <source>Select a date to get flight details.</source>
-        <target>選取一個日期來獲取航班詳細資料.</target>
         <note>Details of a flight prompt to enter date first.</note>
+        <target xml:lang="zh-Hant" state="translated">選取一個日期來獲取航班詳細資料.</target>
       </trans-unit>
       <trans-unit id="Select the place where you stay at the end of each day">
         <source>Select the place where you stay at the end of each day</source>
-        <target>選擇一個您在每一天結束後回到的地點</target>
         <note>Walkthrough</note>
+        <target xml:lang="zh-Hant" state="translated">選擇一個您在每一天結束後回到的地點</target>
       </trans-unit>
       <trans-unit id="Send Real-time SMS">
         <source>Send Real-time SMS</source>
-        <target>發送及時簡訊</target>
         <note>Action button title for composing an SMS to a real-time service</note>
+        <target xml:lang="zh-Hant" state="translated">發送及時簡訊</target>
       </trans-unit>
       <trans-unit id="Set up your Agenda in the TripGo app.">
         <source>Set up your Agenda in the TripGo app.</source>
-        <target>請在TripGo程序上設定您的“行程”</target>
         <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.</note>
+        <target xml:lang="zh-Hant" state="translated">請在TripGo程序上設定您的“行程”</target>
       </trans-unit>
       <trans-unit id="Settings">
         <source>Settings</source>
-        <target>設定</target>
         <note>Button that goes to the Setting's app</note>
+        <target xml:lang="zh-Hant" state="translated">設定</target>
       </trans-unit>
       <trans-unit id="Share Arrival">
         <source>Share Arrival</source>
-        <target>分享您已到達</target>
         <note>Action button title for sharing when you arrive
    Share arrival</note>
+        <target xml:lang="zh-Hant" state="translated">分享您已到達</target>
       </trans-unit>
       <trans-unit id="Share Trip">
         <source>Share Trip</source>
-        <target>分享路線</target>
         <note>Share trip</note>
+        <target xml:lang="zh-Hant" state="translated">分享路線</target>
       </trans-unit>
       <trans-unit id="Show Wheelchair Information">
         <source>Show Wheelchair Information</source>
         <note>Preference to highlight wheelchair information</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Show Wheelchair Information</target>
       </trans-unit>
       <trans-unit id="Show alternatives">
         <source>Show alternatives</source>
-        <target>顯示替代路線</target>
         <note>Button title on trips to show alternatives for it</note>
+        <target xml:lang="zh-Hant" state="translated">顯示替代路線</target>
       </trans-unit>
       <trans-unit id="Show booking options">
         <source>Show booking options</source>
-        <target>顯示訂票選項</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">顯示訂票選項</target>
       </trans-unit>
       <trans-unit id="Show details">
         <source>Show details</source>
-        <target>顯示詳細資料</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">顯示詳細資料</target>
       </trans-unit>
       <trans-unit id="Show disclaimer">
         <source>Show disclaimer</source>
-        <target>顯示免責聲明</target>
         <note>Button to show disclaimers, e.g., info of public transport data.</note>
+        <target xml:lang="zh-Hant" state="translated">顯示免責聲明</target>
       </trans-unit>
       <trans-unit id="Show info">
         <source>Show info</source>
-        <target>顯示資料</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">顯示資料</target>
       </trans-unit>
       <trans-unit id="Show map">
         <source>Show map</source>
-        <target>顯示地圖</target>
         <note>Action title to show map for a segment</note>
+        <target xml:lang="zh-Hant" state="translated">顯示地圖</target>
       </trans-unit>
       <trans-unit id="Show parking options">
         <source>Show parking options</source>
-        <target>顯示停車場選項</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">顯示停車場選項</target>
       </trans-unit>
       <trans-unit id="Show ticket Info">
         <source>Show ticket Info</source>
-        <target>顯示票價資訊</target>
         <note>Button Title to get to website with ticket details.</note>
+        <target xml:lang="zh-Hant" state="translated">顯示票價資訊</target>
       </trans-unit>
       <trans-unit id="Show timetable">
         <source>Show timetable</source>
-        <target>顯示時刻表</target>
         <note>Action button title for viewing timetable for public transport</note>
+        <target xml:lang="zh-Hant" state="translated">顯示時刻表</target>
       </trans-unit>
       <trans-unit id="ShowTrip">
         <source>ShowTrip</source>
-        <target>顯示路線</target>
         <note>Show trip</note>
+        <target xml:lang="zh-Hant" state="translated">顯示路線</target>
       </trans-unit>
       <trans-unit id="Skip">
         <source>Skip</source>
-        <target>略過</target>
         <note>Button title to skip a certain step</note>
+        <target xml:lang="zh-Hant" state="translated">略過</target>
       </trans-unit>
       <trans-unit id="Slow">
         <source>Slow</source>
-        <target>慢</target>
         <note>Speed preference 'slow'</note>
+        <target xml:lang="zh-Hant" state="translated">慢</target>
       </trans-unit>
       <trans-unit id="Sorry. TripGo doesn't work here yet!">
         <source>Sorry. TripGo doesn't work here yet!</source>
-        <target>抱歉. TripGo目前不支援此地區.</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">抱歉. TripGo目前不支援此地區.</target>
       </trans-unit>
       <trans-unit id="Spread the word">
         <source>Spread the word</source>
-        <target>幫我們宣傳</target>
         <note>Spread the word preference</note>
+        <target xml:lang="zh-Hant" state="translated">幫我們宣傳</target>
       </trans-unit>
       <trans-unit id="SrcToDstFormat">
         <source>SrcToDstFormat</source>
-        <target>從%@機場(%@) 到 %@機場(%@)</target>
         <note>Title for flight going from %airport1 (%airportCode2) to %airport3 (%airportCode4)</note>
+        <target xml:lang="zh-Hant" state="translated">從%@機場(%@) 到 %@機場(%@)</target>
       </trans-unit>
       <trans-unit id="Stay">
         <source>Stay</source>
-        <target>停留</target>
         <note>Stay, i.e., type for dates you're staying at a hotel, or when moving house.</note>
+        <target xml:lang="zh-Hant" state="translated">停留</target>
       </trans-unit>
       <trans-unit id="StayEventDescription">
         <source>StayEventDescription</source>
-        <target>您可使用”停留”來指定在行程上的暫時居住地，例如旅程中停留的旅館．</target>
         <note>Explanation for what stays are compared to calendar events and routines. Can be long-ish.</note>
+        <target xml:lang="zh-Hant" state="translated">您可使用”停留”來指定在行程上的暫時居住地，例如旅程中停留的旅館．</target>
       </trans-unit>
       <trans-unit id="StayTitle">
         <source>StayTitle</source>
-        <target>停留</target>
         <note>Title for identifying a location where you stay overnight</note>
+        <target xml:lang="zh-Hant" state="translated">停留</target>
       </trans-unit>
       <trans-unit id="StepsNumber">
         <source>StepsNumber</source>
-        <target>已走 %@ 步</target>
         <note>Number of steps</note>
+        <target xml:lang="zh-Hant" state="translated">已走 %@ 步</target>
       </trans-unit>
       <trans-unit id="Stop code: %@">
         <source>Stop code: %@</source>
         <note>Additional information for official stop code of a public transport stop.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Stop code: %@</target>
       </trans-unit>
       <trans-unit id="Stopover">
         <source>Stopover</source>
-        <target>中轉點</target>
         <note>Title for stopover event</note>
+        <target xml:lang="zh-Hant" state="translated">中轉點</target>
       </trans-unit>
       <trans-unit id="Streets">
         <source>Streets</source>
-        <target>標準</target>
         <note>Map mode 'streets'</note>
+        <target xml:lang="zh-Hant" state="translated">標準</target>
       </trans-unit>
       <trans-unit id="Support">
         <source>Support</source>
-        <target>支援</target>
         <note>Contact support error button</note>
+        <target xml:lang="zh-Hant" state="translated">支援</target>
       </trans-unit>
       <trans-unit id="Swipe dates to navigate between weeks">
         <source>Swipe dates to navigate between weeks</source>
-        <target>在日期上滑動可以在不同星期間瀏覽</target>
         <note>Walkthrough</note>
+        <target xml:lang="zh-Hant" state="translated">在日期上滑動可以在不同星期間瀏覽</target>
       </trans-unit>
       <trans-unit id="Tap 'Routes' for alternative routes">
         <source>Tap 'Routes' for alternative routes</source>
-        <target>在'路線'上點選可以查看其他選項</target>
         <note>Walkthrough - should match translation for '\"Routes\"'</note>
+        <target xml:lang="zh-Hant" state="translated">在'路線'上點選可以查看其他選項</target>
       </trans-unit>
       <trans-unit id="Tap and hold title to jump directly to a specified date.">
         <source>Tap and hold title to jump directly to a specified date.</source>
-        <target>點選後按住可以直接跳到指定的日期</target>
         <note>Walkthrough</note>
+        <target xml:lang="zh-Hant" state="translated">點選後按住可以直接跳到指定的日期</target>
       </trans-unit>
       <trans-unit id="Tap public transport stops for access to timetable">
         <source>Tap public transport stops for access to timetable</source>
-        <target>在大眾交通的車站上按一下可取得時刻表</target>
         <note>Walkthrough</note>
+        <target xml:lang="zh-Hant" state="translated">在大眾交通的車站上按一下可取得時刻表</target>
       </trans-unit>
       <trans-unit id="Tap title to go to 'today'">
         <source>Tap title to go to 'today'</source>
-        <target>點選頁面標題可立即轉換到今日</target>
         <note>Walkthrough</note>
+        <target xml:lang="zh-Hant" state="translated">點選頁面標題可立即轉換到今日</target>
       </trans-unit>
       <trans-unit id="Tap to confirm hours or swipe to delete">
         <source>Tap to confirm hours or swipe to delete</source>
-        <target>輕觸確認時間或滑動刪除</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">輕觸確認時間或滑動刪除</target>
       </trans-unit>
       <trans-unit id="Tap to set address">
         <source>Tap to set address</source>
-        <target>輕觸來設定地址</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">輕觸來設定地址</target>
       </trans-unit>
       <trans-unit id="Tap to set address or swipe to delete">
         <source>Tap to set address or swipe to delete</source>
-        <target>輕觸設定地址或滑動刪除</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">輕觸設定地址或滑動刪除</target>
       </trans-unit>
       <trans-unit id="Tap to set garage">
         <source>Tap to set garage</source>
-        <target>按此來設定車庫</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">按此來設定車庫</target>
       </trans-unit>
       <trans-unit id="Thank you!">
         <source>Thank you!</source>
-        <target>感謝您!</target>
         <note>Thank you HUD notice</note>
+        <target xml:lang="zh-Hant" state="translated">感謝您!</target>
       </trans-unit>
       <trans-unit id="Time at Work">
         <source>Time at Work</source>
-        <target>上班時間</target>
         <note>Title for screen to pick your working hours</note>
+        <target xml:lang="zh-Hant" state="translated">上班時間</target>
       </trans-unit>
       <trans-unit id="Time zone">
         <source>Time zone</source>
-        <target>時區</target>
         <note>Time zone (typically for an event)</note>
+        <target xml:lang="zh-Hant" state="translated">時區</target>
       </trans-unit>
       <trans-unit id="Times">
         <source>Times</source>
-        <target>時間</target>
         <note>Header for times a user is typically at this location, e.g., working hours</note>
+        <target xml:lang="zh-Hant" state="translated">時間</target>
       </trans-unit>
       <trans-unit id="Timetable">
         <source>Timetable</source>
-        <target>時刻表</target>
         <note>Title of button to access timetable</note>
+        <target xml:lang="zh-Hant" state="translated">時刻表</target>
       </trans-unit>
       <trans-unit id="TitleEventName">
         <source>TitleEventName</source>
-        <target>事件名稱</target>
         <note>Title event name</note>
+        <target xml:lang="zh-Hant" state="translated">事件名稱</target>
       </trans-unit>
       <trans-unit id="TitleFavouriteName">
         <source>TitleFavouriteName</source>
-        <target>名稱</target>
         <note>Title favourite name</note>
+        <target xml:lang="zh-Hant" state="translated">名稱</target>
       </trans-unit>
       <trans-unit id="To">
         <source>To</source>
-        <target>前往</target>
         <note>Favorite trip 'to' title</note>
+        <target xml:lang="zh-Hant" state="translated">前往</target>
       </trans-unit>
       <trans-unit id="Transport">
         <source>Transport</source>
-        <target>交通工具</target>
         <note>Title for button to access transport modes
    Title of settings for generic transport stuff</note>
+        <target xml:lang="zh-Hant" state="translated">交通工具</target>
       </trans-unit>
       <trans-unit id="TransportGenius">
         <source>TransportGenius</source>
-        <target>TripGo - 運輸方面的專家！</target>
         <note>Transport genius</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo - 運輸方面的專家！</target>
       </trans-unit>
       <trans-unit id="TransportModeWish">
         <source>TransportModeWish</source>
-        <target>TripGo - 您今天想要怎麼規劃您的旅程？?</target>
         <note>How do you want to go today?</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo - 您今天想要怎麼規劃您的旅程？?</target>
       </trans-unit>
       <trans-unit id="TripGo cannot access its local files.">
         <source>TripGo cannot access its local files.</source>
-        <target>TripGo無法存取本地檔案</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo無法存取本地檔案</target>
       </trans-unit>
       <trans-unit id="TripGo cannot update its local files.">
         <source>TripGo cannot update its local files.</source>
-        <target>TripGo無法更新本地檔案</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo無法更新本地檔案</target>
       </trans-unit>
       <trans-unit id="TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.">
         <source>TripGo does not work in this area yet. Please navigate to on of our supported regions and try again.</source>
-        <target>TripGo目前不支援此地區．請到我們支援的其中一個地區並再嘗試一次</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">TripGo目前不支援此地區．請到我們支援的其中一個地區並再嘗試一次</target>
       </trans-unit>
       <trans-unit id="TripsButton">
         <source>TripsButton</source>
-        <target>路線</target>
         <note>Trips tab bar name</note>
+        <target xml:lang="zh-Hant" state="translated">路線</target>
       </trans-unit>
       <trans-unit id="TypeEvent">
         <source>TypeEvent</source>
-        <target>事件類型</target>
         <note>Type of the event (calendar event, stay, routine)</note>
+        <target xml:lang="zh-Hant" state="translated">事件類型</target>
       </trans-unit>
       <trans-unit id="TypeVehicle">
         <source>TypeVehicle</source>
-        <target>車輛類型</target>
         <note>Type of the vehicle</note>
+        <target xml:lang="zh-Hant" state="translated">車輛類型</target>
       </trans-unit>
       <trans-unit id="Upcoming Trip">
         <source>Upcoming Trip</source>
-        <target>即將開始的路線</target>
         <note>Indicating the next trip is an upcoming trip</note>
+        <target xml:lang="zh-Hant" state="translated">即將開始的路線</target>
       </trans-unit>
       <trans-unit id="Vehicle">
         <source>Vehicle</source>
-        <target>車輛</target>
         <note>Which of my vehicles to assign this to</note>
+        <target xml:lang="zh-Hant" state="translated">車輛</target>
       </trans-unit>
       <trans-unit id="Verify location...">
         <source>Verify location...</source>
-        <target>確認地點...</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">確認地點...</target>
       </trans-unit>
       <trans-unit id="View">
         <source>View</source>
-        <target>查看</target>
         <note>Positive answer to displayed advertising.
    Show content of notification.
    View EULA</note>
+        <target xml:lang="zh-Hant" state="translated">查看</target>
       </trans-unit>
       <trans-unit id="View times">
         <source>View times</source>
-        <target>顯示時刻表</target>
         <note>View alternative times for this trip</note>
+        <target xml:lang="zh-Hant" state="translated">顯示時刻表</target>
       </trans-unit>
       <trans-unit id="ViewDurationButton">
         <source>ViewDurationButton</source>
-        <target>歷時</target>
         <note>Label for 'Duration' button to sort trips by their total duration.</note>
+        <target xml:lang="zh-Hant" state="translated">歷時</target>
       </trans-unit>
       <trans-unit id="ViewOverallButton">
         <source>ViewOverallButton</source>
-        <target>自動</target>
         <note>Label for 'Overall' button to sort trips by their overall total score considering all factors.</note>
+        <target xml:lang="zh-Hant" state="translated">自動</target>
       </trans-unit>
       <trans-unit id="ViewPriceButton">
         <source>ViewPriceButton</source>
-        <target>票價</target>
         <note>Label for 'Price' button to sort trips by their total cost.</note>
+        <target xml:lang="zh-Hant" state="translated">票價</target>
       </trans-unit>
       <trans-unit id="Walk speed">
         <source>Walk speed</source>
-        <target>步行速度</target>
         <note>Walking speed preference</note>
+        <target xml:lang="zh-Hant" state="translated">步行速度</target>
       </trans-unit>
       <trans-unit id="Week starts">
         <source>Week starts</source>
-        <target>每週開始日</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">每週開始日</target>
+      </trans-unit>
+      <trans-unit id="What3words Address">
+        <source>What3words Address</source>
+        <note>Title for showing what3words address including info button</note>
+        <target xml:lang="zh-Hant" state="needs-translation">What3words Address</target>
       </trans-unit>
       <trans-unit id="WhenIAmAwayHeader">
         <source>WhenIAmAwayHeader</source>
-        <target>停留</target>
         <note>Header for staying away form home, i.e., when a user is NOT at their home</note>
+        <target xml:lang="zh-Hant" state="translated">停留</target>
       </trans-unit>
       <trans-unit id="WhenIAmHereHeader">
         <source>WhenIAmHereHeader</source>
-        <target>行程</target>
         <note>Header for accommodations, i.e., when a user is typically at this location
    Header for routines and accommodations, i.e., when a user is typically at this location</note>
+        <target xml:lang="zh-Hant" state="translated">行程</target>
       </trans-unit>
       <trans-unit id="Which would you like to delete">
         <source>Which would you like to delete</source>
-        <target>您想刪除那一個事件</target>
         <note>Question for which events in a recurrence to delete (options are typically this/all/any from here)</note>
+        <target xml:lang="zh-Hant" state="translated">您想刪除那一個事件</target>
       </trans-unit>
       <trans-unit id="Work">
         <source>Work</source>
-        <target>公司</target>
         <note>Typical name that you'd give your work location</note>
+        <target xml:lang="zh-Hant" state="translated">公司</target>
       </trans-unit>
       <trans-unit id="Yeah, ok!">
         <source>Yeah, ok!</source>
-        <target>好的．沒問題！</target>
         <note>Positive answer to follow-up question for rating or feedback.</note>
+        <target xml:lang="zh-Hant" state="translated">好的．沒問題！</target>
       </trans-unit>
       <trans-unit id="Yes!">
         <source>Yes!</source>
-        <target>是的！</target>
         <note>Positive answer to question whether TripGo is useful.</note>
+        <target xml:lang="zh-Hant" state="translated">是的！</target>
       </trans-unit>
       <trans-unit id="You might not make this transfer.">
         <source>You might not make this transfer.</source>
-        <target>您有可能錯過這次的轉乘</target>
         <note>Alert if service running late/early, meaning that the user might not make the next service.</note>
+        <target xml:lang="zh-Hant" state="translated">您有可能錯過這次的轉乘</target>
       </trans-unit>
       <trans-unit id="Zoom in">
         <source>Zoom in</source>
-        <target>放大</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">放大</target>
       </trans-unit>
       <trans-unit id="Zoom into map to view public transport stops">
         <source>Zoom into map to view public transport stops</source>
-        <target>放大地圖來顯示大眾交通車站訊息</target>
         <note>Walkthrough</note>
+        <target xml:lang="zh-Hant" state="translated">放大地圖來顯示大眾交通車站訊息</target>
       </trans-unit>
       <trans-unit id="pricingDescription">
         <source>pricingDescription</source>
-        <target>票價</target>
         <note>Description of the pricing</note>
+        <target xml:lang="zh-Hant" state="translated">票價</target>
       </trans-unit>
       <trans-unit id="terminalDescription">
         <source>terminalDescription</source>
-        <target>航廈</target>
         <note>Description of the terminal</note>
+        <target xml:lang="zh-Hant" state="translated">航廈</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id=" The app will now sign out">
+        <source> The app will now sign out</source>
+        <note>Message that indicates the app is about to sign users out of their user accounts</note>
+        <target xml:lang="zh-Hant" state="needs-translation"> The app will now sign out</target>
+      </trans-unit>
+      <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
+        <source>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</source>
+        <note>Authorization restricted alert message</note>
+        <target xml:lang="zh-Hant" state="translated">在此裝置上使用本功能是受到限制的. 請到設定 &gt; 一般 &gt; 取用限制檢查您的設定或詢問您的裝置提供商.</target>
+      </trans-unit>
+      <trans-unit id="Action">
+        <source>Action</source>
+        <note>Accessibility label for action button</note>
+        <target xml:lang="zh-Hant" state="translated">動作</target>
+      </trans-unit>
+      <trans-unit id="Alert">
+        <source>Alert</source>
+        <note>Default title for alert view</note>
+        <target xml:lang="zh-Hant" state="translated">警告</target>
+      </trans-unit>
+      <trans-unit id="Already have an account? Sign in">
+        <source>Already have an account? Sign in</source>
+        <note>Option for users if they already owned a SkedGo account</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Already have an account? Sign in</target>
+      </trans-unit>
+      <trans-unit id="Authentication">
+        <source>Authentication</source>
+        <note>Source where the account was derived, e.g., Facebook</note>
+        <target xml:lang="zh-Hant" state="translated">認證服務提供商</target>
+      </trans-unit>
+      <trans-unit id="Authorisation needed">
+        <source>Authorisation needed</source>
+        <note>Authorisation needed title</note>
+        <target xml:lang="zh-Hant" state="translated">需要用戶授權</target>
+      </trans-unit>
+      <trans-unit id="Bicycle">
+        <source>Bicycle</source>
+        <note>Type of vehicle : bicycle</note>
+        <target xml:lang="zh-Hant" state="translated">自行車</target>
+      </trans-unit>
+      <trans-unit id="CVC">
+        <source>CVC</source>
+        <note>Credit card CVC</note>
+        <target xml:lang="zh-Hant" state="translated">安全碼</target>
+      </trans-unit>
+      <trans-unit id="Can't find your current city">
+        <source>Can't find your current city</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Can't find your current city</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>Cancel - for action sheets</note>
+        <target xml:lang="zh-Hant" state="translated">取消</target>
+      </trans-unit>
+      <trans-unit id="Cancelled">
+        <source>Cancelled</source>
+        <note>Label for when a service is cancelled.</note>
+        <target xml:lang="zh-Hant" state="translated">已被取消</target>
+      </trans-unit>
+      <trans-unit id="Cannot proceed without a valid email address">
+        <source>Cannot proceed without a valid email address</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Cannot proceed without a valid email address</target>
+      </trans-unit>
+      <trans-unit id="Car">
+        <source>Car</source>
+        <note>Type of vehicle : car</note>
+        <target xml:lang="zh-Hant" state="translated">轎車</target>
+      </trans-unit>
+      <trans-unit id="Card No.">
+        <source>Card No.</source>
+        <note>Credit card number</note>
+        <target xml:lang="zh-Hant" state="translated">卡號</target>
+      </trans-unit>
+      <trans-unit id="Change">
+        <source>Change</source>
+        <note>Instruction for changing password</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Change</target>
+      </trans-unit>
+      <trans-unit id="Change tracking options">
+        <source>Change tracking options</source>
+        <note>Accessibility - user location button - hint</note>
+        <target xml:lang="zh-Hant" state="translated">變更追蹤選項</target>
+      </trans-unit>
+      <trans-unit id="Checkmark">
+        <source>Checkmark</source>
+        <note>Accessibility title for a checkmark/tick button</note>
+        <target xml:lang="zh-Hant" state="translated">選取標記</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <note>Close action</note>
+        <target xml:lang="zh-Hant" state="translated">關閉</target>
+      </trans-unit>
+      <trans-unit id="Could not determine your current location.">
+        <source>Could not determine your current location.</source>
+        <note>Error title when GPS failed.</note>
+        <target xml:lang="zh-Hant" state="translated">無法確認您的當前位置</target>
+      </trans-unit>
+      <trans-unit id="CouldNotDownloadSupportedRegions">
+        <source>CouldNotDownloadSupportedRegions</source>
+        <note>Could not download supported regions warning</note>
+        <target xml:lang="zh-Hant" state="translated">無法從我們的伺服器下載所支援地區的列表．請稍後再嘗試一次。</target>
+      </trans-unit>
+      <trans-unit id="Creating account">
+        <source>Creating account</source>
+        <note>Message that indicates the app is creating accounts for users</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Creating account</target>
+      </trans-unit>
+      <trans-unit id="Credit card">
+        <source>Credit card</source>
+        <note>Section title for credit card payment</note>
+        <target xml:lang="zh-Hant" state="translated">信用卡</target>
+      </trans-unit>
+      <trans-unit id="Current City">
+        <source>Current City</source>
+        <note>Current city</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Current City</target>
+      </trans-unit>
+      <trans-unit id="Current Location">
+        <source>Current Location</source>
+        <note>Current location</note>
+        <target xml:lang="zh-Hant" state="translated">當前位置</target>
+      </trans-unit>
+      <trans-unit id="DateToFormat">
+        <source>DateToFormat</source>
+        <note>to %date</note>
+        <target xml:lang="zh-Hant" state="translated">到%@</target>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <note>Delete action</note>
+        <target xml:lang="zh-Hant" state="translated">刪除</target>
+      </trans-unit>
+      <trans-unit id="Distance">
+        <source>Distance</source>
+        <note>Sort by distance</note>
+        <target xml:lang="zh-Hant" state="translated">距離</target>
+      </trans-unit>
+      <trans-unit id="Don't have an account? Sign up">
+        <source>Don't have an account? Sign up</source>
+        <note>Option for users if they don't yet have a SkedGo account</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Don't have an account? Sign up</target>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>Done button
+   Keyboard accessory button title</note>
+        <target xml:lang="zh-Hant" state="translated">完成</target>
+      </trans-unit>
+      <trans-unit id="DropNewPin">
+        <source>DropNewPin</source>
+        <note>Drop new pin</note>
+        <target xml:lang="zh-Hant" state="translated">放置新的大頭針</target>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <note>Email address where receipt is sent
+   Email used as Facebook username</note>
+        <target xml:lang="zh-Hant" state="translated">電子信箱</target>
+      </trans-unit>
+      <trans-unit id="EveryDayFormat">
+        <source>EveryDayFormat</source>
+        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'</note>
+        <target xml:lang="zh-Hant" state="translated">每%@</target>
+      </trans-unit>
+      <trans-unit id="Everyday">
+        <source>Everyday</source>
+        <note>Everyday in context of repetitions (especially recurring events)</note>
+        <target xml:lang="zh-Hant" state="translated">每天</target>
+      </trans-unit>
+      <trans-unit id="Expiry Date">
+        <source>Expiry Date</source>
+        <note>Credit card expiry date</note>
+        <target xml:lang="zh-Hant" state="translated">到期日</target>
+      </trans-unit>
+      <trans-unit id="For when to leave">
+        <source>For when to leave</source>
+        <note>Option that allows users to indicate whether reminder is needed
+   Reminder to leave preference</note>
+        <target xml:lang="zh-Hant" state="translated">出發時間</target>
+      </trans-unit>
+      <trans-unit id="Free">
+        <source>Free</source>
+        <note>Free as in beer</note>
+        <target xml:lang="zh-Hant" state="translated">免費</target>
+      </trans-unit>
+      <trans-unit id="Full name">
+        <source>Full name</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">全名</target>
+      </trans-unit>
+      <trans-unit id="Getting a lift">
+        <source>Getting a lift</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">與人共乘</target>
+      </trans-unit>
+      <trans-unit id="Has reminder">
+        <source>Has reminder</source>
+        <note>Accessibility annotation for trips which have a reminder set.</note>
+        <target xml:lang="zh-Hant" state="translated">有提醒事項</target>
+      </trans-unit>
+      <trans-unit id="Include contacts">
+        <source>Include contacts</source>
+        <note>Include contacts.</note>
+        <target xml:lang="zh-Hant" state="translated">包含聯絡人</target>
+      </trans-unit>
+      <trans-unit id="Include events">
+        <source>Include events</source>
+        <note>Include events.</note>
+        <target xml:lang="zh-Hant" state="translated">包含事件</target>
+      </trans-unit>
+      <trans-unit id="Instant results">
+        <source>Instant results</source>
+        <note>Instant results proposal</note>
+        <target xml:lang="zh-Hant" state="translated">快速搜尋結果</target>
+      </trans-unit>
+      <trans-unit id="Invalid account">
+        <source>Invalid account</source>
+        <note>Title for alert that indicates the user account has become invalid</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Invalid account</target>
+      </trans-unit>
+      <trans-unit id="John Appleseed">
+        <source>John Appleseed</source>
+        <note>Name placeholder text</note>
+        <target xml:lang="zh-Hant" state="translated">您的姓名</target>
+      </trans-unit>
+      <trans-unit id="Linking Facebook">
+        <source>Linking Facebook</source>
+        <note>Used when user signs in using Facebook</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Linking Facebook</target>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <note>Location name</note>
+        <target xml:lang="zh-Hant" state="translated">地點詳情</target>
+      </trans-unit>
+      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
+        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
+        <note>Location iOS6+ authorisation needed text</note>
+        <target xml:lang="zh-Hant" state="translated">本功能需要使用定位服務. 請到設定 &gt; 隱私 &gt; 定位服務確認服務是開啟的，同時也請確認您已授權本App使用定位服務.</target>
+      </trans-unit>
+      <trans-unit id="Making payment">
+        <source>Making payment</source>
+        <note>Indicating a payment is in progress</note>
+        <target xml:lang="zh-Hant" state="translated">正在進行付款手續</target>
+      </trans-unit>
+      <trans-unit id="Minutes before trip">
+        <source>Minutes before trip</source>
+        <note>Option that allows users to indicate how eary to show trip reminder
+   Reminder to leave preference</note>
+        <target xml:lang="zh-Hant" state="translated">多久前提醒</target>
+      </trans-unit>
+      <trans-unit id="More results">
+        <source>More results</source>
+        <note>More results proposal</note>
+        <target xml:lang="zh-Hant" state="translated">更多搜尋結果</target>
+      </trans-unit>
+      <trans-unit id="Motorbike">
+        <source>Motorbike</source>
+        <note>Type of vehicle : motorbike</note>
+        <target xml:lang="zh-Hant" state="translated">摩托車</target>
+      </trans-unit>
+      <trans-unit id="My account">
+        <source>My account</source>
+        <note>Title for view that shows the summary of a user's account information</note>
+        <target xml:lang="zh-Hant" state="needs-translation">My account</target>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <note>Name to which receipt is sent
+   Name used in Facebook
+   Sort by name</note>
+        <target xml:lang="zh-Hant" state="translated">名稱</target>
+      </trans-unit>
+      <trans-unit id="Never">
+        <source>Never</source>
+        <note>Never in context of repetitions (especially recurring events)</note>
+        <target xml:lang="zh-Hant" state="translated">永不重複</target>
+      </trans-unit>
+      <trans-unit id="New account">
+        <source>New account</source>
+        <note>Title for sign in view when user does not have an account</note>
+        <target xml:lang="zh-Hant" state="needs-translation">New account</target>
+      </trans-unit>
+      <trans-unit id="Next">
+        <source>Next</source>
+        <note>Button title to complete this step and advance to next
+   Keyboard accessory button title to complete this step and advance to next</note>
+        <target xml:lang="zh-Hant" state="translated">下一步</target>
+      </trans-unit>
+      <trans-unit id="No CO₂">
+        <source>No CO₂</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">無碳足跡</target>
+      </trans-unit>
+      <trans-unit id="Now">
+        <source>Now</source>
+        <note>Countdown cell 'now' indicator</note>
+        <target xml:lang="zh-Hant" state="translated">現在</target>
+      </trans-unit>
+      <trans-unit id="NumberReccurences">
+        <source>NumberReccurences</source>
+        <note>Number of repeats</note>
+        <target xml:lang="zh-Hant" state="translated">重複%lu次</target>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>Default title for button that dismisses alert view</note>
+        <target xml:lang="zh-Hant" state="translated">好</target>
+      </trans-unit>
+      <trans-unit id="Open Settings">
+        <source>Open Settings</source>
+        <note>Button to open Settings app section for this app</note>
+        <target xml:lang="zh-Hant" state="translated">開啟設定</target>
+      </trans-unit>
+      <trans-unit id="Open in Safari">
+        <source>Open in Safari</source>
+        <note>Open in Safari action</note>
+        <target xml:lang="zh-Hant" state="translated">在Safari中開啟</target>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">密碼</target>
+      </trans-unit>
+      <trans-unit id="Payment successful">
+        <source>Payment successful</source>
+        <note>Indicating a payment is successful</note>
+        <target xml:lang="zh-Hant" state="translated">付款成功</target>
+      </trans-unit>
+      <trans-unit id="Paypal">
+        <source>Paypal</source>
+        <note>Section title for Paypal payment</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Paypal</target>
+      </trans-unit>
+      <trans-unit id="Please select a location">
+        <source>Please select a location</source>
+        <note>Please select a location prompt</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Please select a location</target>
+      </trans-unit>
+      <trans-unit id="Please try again or set your location manually.">
+        <source>Please try again or set your location manually.</source>
+        <note>Error recovery suggestion when GPS fails.</note>
+        <target xml:lang="zh-Hant" state="translated">請再次嘗試一次或手動設定您的位置</target>
+      </trans-unit>
+      <trans-unit id="Please verify the location">
+        <source>Please verify the location</source>
+        <note>Please verify the location prompt</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Please verify the location</target>
+      </trans-unit>
+      <trans-unit id="Press 'search' for more...">
+        <source>Press 'search' for more...</source>
+        <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
+        <target xml:lang="zh-Hant" state="translated">點擊'搜尋'來取得更多結果...</target>
+      </trans-unit>
+      <trans-unit id="Real-time">
+        <source>Real-time</source>
+        <note>Indicator for real-time information</note>
+        <target xml:lang="zh-Hant" state="translated">即時</target>
+      </trans-unit>
+      <trans-unit id="Receipt">
+        <source>Receipt</source>
+        <note>Title for section that asks users where payment receipt should be sent</note>
+        <target xml:lang="zh-Hant" state="translated">確認信</target>
+      </trans-unit>
+      <trans-unit id="Reminder">
+        <source>Reminder</source>
+        <note>Reminders title
+   Section title at the end of a booking that allows users to set reminders</note>
+        <target xml:lang="zh-Hant" state="translated">提醒</target>
+      </trans-unit>
+      <trans-unit id="Repeats daily">
+        <source>Repeats daily</source>
+        <note>Repeats daily</note>
+        <target xml:lang="zh-Hant" state="translated">每天重複</target>
+      </trans-unit>
+      <trans-unit id="Repeats monthly">
+        <source>Repeats monthly</source>
+        <note>Repeats monthly</note>
+        <target xml:lang="zh-Hant" state="translated">每月重複</target>
+      </trans-unit>
+      <trans-unit id="Repeats weekly">
+        <source>Repeats weekly</source>
+        <note>Repeats weekly</note>
+        <target xml:lang="zh-Hant" state="translated">每週重複</target>
+      </trans-unit>
+      <trans-unit id="Repeats yearly">
+        <source>Repeats yearly</source>
+        <note>Repeats yearly</note>
+        <target xml:lang="zh-Hant" state="translated">每年重複</target>
+      </trans-unit>
+      <trans-unit id="RequestErrorFormat">
+        <source>RequestErrorFormat</source>
+        <note>Error when location search for %input was not successful.</note>
+        <target xml:lang="zh-Hant" state="translated">無法找到'%@'.</target>
+      </trans-unit>
+      <trans-unit id="SUV">
+        <source>SUV</source>
+        <note>Sports utility vehicle abbreviation</note>
+        <target xml:lang="zh-Hant" state="translated">休旅車</target>
+      </trans-unit>
+      <trans-unit id="Score">
+        <source>Score</source>
+        <note>Sort by overall score, like a ranking.</note>
+        <target xml:lang="zh-Hant" state="translated">評分</target>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <note>Empty search bar placeholder</note>
+        <target xml:lang="zh-Hant" state="translated">搜尋</target>
+      </trans-unit>
+      <trans-unit id="Search Results">
+        <source>Search Results</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">搜尋結果</target>
+      </trans-unit>
+      <trans-unit id="Select %@">
+        <source>Select %@</source>
+        <note>Label on location with action to select it, e.g., 'Select Hilton, Paris'</note>
+        <target xml:lang="zh-Hant" state="translated">選取 %@</target>
+      </trans-unit>
+      <trans-unit id="Select location">
+        <source>Select location</source>
+        <note>Label to select location which doesn't have a title</note>
+        <target xml:lang="zh-Hant" state="translated">選取位置</target>
+      </trans-unit>
+      <trans-unit id="SetLocation">
+        <source>SetLocation</source>
+        <note>Tap to set location</note>
+        <target xml:lang="zh-Hant" state="translated">點擊來選取地點</target>
+      </trans-unit>
+      <trans-unit id="Sign in">
+        <source>Sign in</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">登入</target>
+      </trans-unit>
+      <trans-unit id="Sign out">
+        <source>Sign out</source>
+        <note>Instruction for signing out user account</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Sign out</target>
+      </trans-unit>
+      <trans-unit id="Sign up">
+        <source>Sign up</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Sign up</target>
+      </trans-unit>
+      <trans-unit id="Sign up cannot be completed without a valid password">
+        <source>Sign up cannot be completed without a valid password</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Sign up cannot be completed without a valid password</target>
+      </trans-unit>
+      <trans-unit id="Signing in">
+        <source>Signing in</source>
+        <note>Message that indicates the app is signing users into their user accounts</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Signing in</target>
+      </trans-unit>
+      <trans-unit id="Signing out">
+        <source>Signing out</source>
+        <note>Message that indicates the app has successfully completed signing out
+   Message that indicates the app is signing users out of their accounts</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Signing out</target>
+      </trans-unit>
+      <trans-unit id="Tracking - off">
+        <source>Tracking - off</source>
+        <note>Accessibility - user location button - off</note>
+        <target xml:lang="zh-Hant" state="translated">關閉使用者位置追蹤功能</target>
+      </trans-unit>
+      <trans-unit id="Tracking - on">
+        <source>Tracking - on</source>
+        <note>user location button - follow</note>
+        <target xml:lang="zh-Hant" state="translated">開啟使用者位置追蹤功能</target>
+      </trans-unit>
+      <trans-unit id="Tracking - on with heading">
+        <source>Tracking - on with heading</source>
+        <note>user location button - follow with heading</note>
+        <target xml:lang="zh-Hant" state="translated">開啟使用者位置與航向追蹤功能</target>
+      </trans-unit>
+      <trans-unit id="Unknown error">
+        <source>Unknown error</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">未知錯誤</target>
+      </trans-unit>
+      <trans-unit id="Updating trip">
+        <source>Updating trip</source>
+        <note>Message that shows app is updating trip after user finalised bookings</note>
+        <target xml:lang="zh-Hant" state="translated">更新路線</target>
+      </trans-unit>
+      <trans-unit id="Values missing from required fields.">
+        <source>Values missing from required fields.</source>
+        <note>Message that informs users that some values are missing from the required fields in a booking form.</note>
+        <target xml:lang="zh-Hant" state="translated">請填寫所有必要的項目</target>
+      </trans-unit>
+      <trans-unit id="Weekdays">
+        <source>Weekdays</source>
+        <note>Every weekday in context of repetitions (especially recurring events)</note>
+        <target xml:lang="zh-Hant" state="translated">平日</target>
+      </trans-unit>
+      <trans-unit id="Weekends">
+        <source>Weekends</source>
+        <note>Every weekend day in context of repetitions (especially recurring events)</note>
+        <target xml:lang="zh-Hant" state="translated">週末</target>
+      </trans-unit>
+      <trans-unit id="You need to agree to the booking terms and conditions.">
+        <source>You need to agree to the booking terms and conditions.</source>
+        <note>Message that informs users that T&amp;C must be agreed before booking can be made.</note>
+        <target xml:lang="zh-Hant" state="translated">您必須同意關於訂票的相關服務條款</target>
+      </trans-unit>
+      <trans-unit id="You need to agree to the insurance terms and conditions.">
+        <source>You need to agree to the insurance terms and conditions.</source>
+        <note>Message that informs users that T&amp;C for insurance must be agreed before booking can be made.</note>
+        <target xml:lang="zh-Hant" state="translated">您必須同意關於附加保險的相關服務條款</target>
+      </trans-unit>
+      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
+        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
+        <note>Calendar authorisation needed text</note>
+        <target xml:lang="zh-Hant" state="translated">您之前拒絕了App使用您的行事曆．如想要使用本功能，請到設定 &gt; 隱私 &gt; 行事曆中更新您的授權.</target>
+      </trans-unit>
+      <trans-unit id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
+        <source>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</source>
+        <note>Contacts authorisation needed text</note>
+        <target xml:lang="zh-Hant" state="translated">您之前拒絕了App使用您的聯絡資訊．如想要使用本功能，請到設定 &gt; 隱私 &gt; 聯絡資訊中更新您的授權.</target>
+      </trans-unit>
+      <trans-unit id="all-day">
+        <source>all-day</source>
+        <note>Indicator that an event is all-day</note>
+        <target xml:lang="zh-Hant" state="translated">整天</target>
+      </trans-unit>
+      <trans-unit id="arrives %@">
+        <source>arrives %@</source>
+        <note>Estimated time of arrival; parameter is time, e.g., 'arrives 15:30'</note>
+        <target xml:lang="zh-Hant" state="translated">抵達時刻 %@</target>
+      </trans-unit>
+      <trans-unit id="departs %@">
+        <source>departs %@</source>
+        <note>Estimated time of departure; parameter is time, e.g., 'departs 15:30'</note>
+        <target xml:lang="zh-Hant" state="translated">出發時刻 %@</target>
+      </trans-unit>
+      <trans-unit id="ends at %@">
+        <source>ends at %@</source>
+        <note>Short indicator of end-time</note>
+        <target xml:lang="zh-Hant" state="translated">在%@結束</target>
+      </trans-unit>
+      <trans-unit id="example@example.com">
+        <source>example@example.com</source>
+        <note>Email placeholder text</note>
+        <target xml:lang="zh-Hant" state="needs-translation">example@example.com</target>
+      </trans-unit>
+      <trans-unit id="mm/yy">
+        <source>mm/yy</source>
+        <note>Credit card expiry date placeholder, mm/yy</note>
+        <target xml:lang="zh-Hant" state="translated">月份/年份</target>
+      </trans-unit>
+      <trans-unit id="starts at %@">
+        <source>starts at %@</source>
+        <note>Short indicator of start-time</note>
+        <target xml:lang="zh-Hant" state="translated">從%@開始</target>
+      </trans-unit>
+      <trans-unit id="{Name}'s">
+        <source>{Name}'s</source>
+        <note>Name for a {Name}'s place if it's unclear if it's home, work or something else.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">{Name}'s</target>
+      </trans-unit>
+      <trans-unit id="{Name}'s Home">
+        <source>{Name}'s Home</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">%@的住家</target>
+      </trans-unit>
+      <trans-unit id="{Name}'s Work">
+        <source>{Name}'s Work</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">%@的公司</target>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="zh-Hant">
     <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="%1$@ early">
         <source>%1$@ early</source>
-        <target>提前%1$@</target>
         <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'.</note>
+        <target xml:lang="zh-Hant" state="translated">提前%1$@</target>
       </trans-unit>
       <trans-unit id="%1$@ early (%2$@ service)">
         <source>%1$@ early (%2$@ service)</source>
-        <target>提前%1$@ (%2$@ 的班次)</target>
         <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+        <target xml:lang="zh-Hant" state="translated">提前%1$@ (%2$@ 的班次)</target>
       </trans-unit>
       <trans-unit id="%1$@ late">
         <source>%1$@ late</source>
-        <target>延誤%1$@</target>
         <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min'</note>
+        <target xml:lang="zh-Hant" state="translated">延誤%1$@</target>
       </trans-unit>
       <trans-unit id="%1$@ late (%2$@ service)">
         <source>%1$@ late (%2$@ service)</source>
-        <target>延誤%1$@ (%2$@ 的班次)</target>
         <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+        <target xml:lang="zh-Hant" state="translated">延誤%1$@ (%2$@ 的班次)</target>
       </trans-unit>
       <trans-unit id="%@ w/o traffic">
         <source>%@ w/o traffic</source>
-        <target>%@ 路況良好下</target>
         <note>Duration without traffic</note>
+        <target xml:lang="zh-Hant" state="translated">%@ 路況良好下</target>
       </trans-unit>
       <trans-unit id="1 stop">
         <source>1 stop</source>
-        <target>1站</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">1站</target>
       </trans-unit>
       <trans-unit id="ActivityIndication">
         <source>ActivityIndication</source>
-        <target>我將於%2$@從%3$@搭乘%1$@.</target>
         <note>Indication of an activity</note>
+        <target xml:lang="zh-Hant" state="translated">我將於%2$@從%3$@搭乘%1$@.</target>
       </trans-unit>
       <trans-unit id="Apple Maps">
         <source>Apple Maps</source>
-        <target>蘋果地圖</target>
         <note>apple maps directions action</note>
+        <target xml:lang="zh-Hant" state="translated">蘋果地圖</target>
       </trans-unit>
       <trans-unit id="Arrival">
         <source>Arrival</source>
-        <target>到達</target>
         <note>Arrival time sorter title</note>
+        <target xml:lang="zh-Hant" state="translated">到達</target>
       </trans-unit>
       <trans-unit id="ArrivalLocation">
         <source>ArrivalLocation</source>
-        <target>到達%@</target>
         <note>The place of arrival</note>
+        <target xml:lang="zh-Hant" state="translated">到達%@</target>
       </trans-unit>
       <trans-unit id="ArrivalLocationTime">
         <source>ArrivalLocationTime</source>
-        <target>在%2$@到達%1$@</target>
         <note>The place of arrival with time</note>
+        <target xml:lang="zh-Hant" state="translated">在%2$@到達%1$@</target>
       </trans-unit>
       <trans-unit id="ArrivalTime">
         <source>ArrivalTime</source>
-        <target>在%@到達</target>
         <note>Arrival %time.
    Time arrival</note>
+        <target xml:lang="zh-Hant" state="translated">在%@到達</target>
       </trans-unit>
       <trans-unit id="Arrive">
         <source>Arrive</source>
-        <target>到達</target>
         <note>Prefix for selected 'arrive by' time
    Single line instruction to arrive</note>
+        <target xml:lang="zh-Hant" state="translated">到達</target>
       </trans-unit>
       <trans-unit id="Book with FlitWays">
         <source>Book with FlitWays</source>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Book with FlitWays</target>
       </trans-unit>
       <trans-unit id="Book with Uber">
         <source>Book with Uber</source>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Book with Uber</target>
       </trans-unit>
       <trans-unit id="Call">
         <source>Call</source>
-        <target>聯繫計程車</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">聯繫計程車</target>
       </trans-unit>
       <trans-unit id="CallTaxiFormat">
         <source>CallTaxiFormat</source>
-        <target>聯繫%@</target>
         <note>Action title for calling provider of %name</note>
+        <target xml:lang="zh-Hant" state="translated">聯繫%@</target>
       </trans-unit>
       <trans-unit id="Could not find transit stop.">
         <source>Could not find transit stop.</source>
-        <target>Could not find transit stop.</target>
         <note>Error title when server could not find a given transit stop.</note>
-      </trans-unit>
-      <trans-unit id="CouponCodeIngogoFormat">
-        <source>CouponCodeIngogoFormat</source>
-        <target>註冊時使用優惠券代碼'%@'可立時折抵$5元 (只適用新註冊使用者)</target>
-        <note>Description for how to redeem the coupon code for ingogo. %couponCode is provided.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Could not find transit stop.</target>
       </trans-unit>
       <trans-unit id="Departure">
         <source>Departure</source>
-        <target>離站</target>
         <note>Departure time sorter title</note>
+        <target xml:lang="zh-Hant" state="translated">離站</target>
       </trans-unit>
       <trans-unit id="DepartureTime">
         <source>DepartureTime</source>
-        <target> 於%@</target>
         <note>Time of the bus departure</note>
+        <target xml:lang="zh-Hant" state="translated">於%@</target>
       </trans-unit>
       <trans-unit id="Direction">
         <source>Direction</source>
-        <target>方向: %@</target>
         <note>Destination of the bus</note>
+        <target xml:lang="zh-Hant" state="translated">方向: %@</target>
       </trans-unit>
       <trans-unit id="Duration">
         <source>Duration</source>
-        <target> %@</target>
         <note>Walking time</note>
+        <target xml:lang="zh-Hant" state="translated">%@</target>
       </trans-unit>
       <trans-unit id="Get Lyft">
         <source>Get Lyft</source>
-        <target>使用Lyft</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">使用Lyft</target>
+      </trans-unit>
+      <trans-unit id="Get Ola">
+        <source>Get Ola</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Get Ola</target>
       </trans-unit>
       <trans-unit id="Get directions">
         <source>Get directions</source>
-        <target>Get directions</target>
         <note>Action button title for getting turn-by-turn directions</note>
+        <target xml:lang="zh-Hant" state="translated">使用導航</target>
       </trans-unit>
       <trans-unit id="Get ingogo">
         <source>Get ingogo</source>
-        <target>使用Ingogo</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">使用Ingogo</target>
       </trans-unit>
       <trans-unit id="Google Maps">
         <source>Google Maps</source>
-        <target>Google地圖</target>
         <note>google maps directions action</note>
+        <target xml:lang="zh-Hant" state="translated">Google地圖</target>
       </trans-unit>
       <trans-unit id="Leave">
         <source>Leave</source>
-        <target>出發</target>
         <note>Prefix for selected 'leave after' time
    Single line instruction to leave</note>
+        <target xml:lang="zh-Hant" state="translated">出發</target>
       </trans-unit>
       <trans-unit id="Leave now">
         <source>Leave now</source>
-        <target>現在出發</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">現在出發</target>
       </trans-unit>
       <trans-unit id="LeaveLocation">
         <source>LeaveLocation</source>
-        <target>離開%@</target>
         <note>The place of departure</note>
+        <target xml:lang="zh-Hant" state="translated">離開%@</target>
       </trans-unit>
       <trans-unit id="LeaveLocationTime">
         <source>LeaveLocationTime</source>
-        <target>在%2$@離開%1$@</target>
         <note>The place of departure with time</note>
+        <target xml:lang="zh-Hant" state="translated">在%2$@離開%1$@</target>
       </trans-unit>
       <trans-unit id="LeaveTime">
         <source>LeaveTime</source>
-        <target>於%@離開</target>
         <note>Time departure</note>
+        <target xml:lang="zh-Hant" state="translated">於%@離開</target>
       </trans-unit>
       <trans-unit id="Live traffic">
         <source>Live traffic</source>
-        <target>即時路況</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">即時路況</target>
       </trans-unit>
       <trans-unit id="MessageArrivalTime">
         <source>MessageArrivalTime</source>
-        <target>我將於%2$@到達%1$@.</target>
         <note>ArrivalTime</note>
+        <target xml:lang="zh-Hant" state="translated">我將於%2$@到達%1$@.</target>
       </trans-unit>
       <trans-unit id="On time">
         <source>On time</source>
-        <target>準點</target>
         <note>Indicator to show when a service is on time according to real-time data.</note>
+        <target xml:lang="zh-Hant" state="translated">準點</target>
       </trans-unit>
       <trans-unit id="Open Lyft">
         <source>Open Lyft</source>
-        <target>開啟Lyft</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">開啟Lyft</target>
+      </trans-unit>
+      <trans-unit id="Open Ola">
+        <source>Open Ola</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Open Ola</target>
       </trans-unit>
       <trans-unit id="PrimaryLocationEnd">
         <source>PrimaryLocationEnd</source>
-        <target>目的地: %@</target>
         <note>Arrival Location
    For trip titles, e.g., 'To work'
    Format string for going from currently location to this one. Used to name favourite destinations.</note>
+        <target xml:lang="zh-Hant" state="translated">目的地: %@</target>
       </trans-unit>
       <trans-unit id="PrimaryLocationStart">
         <source>PrimaryLocationStart</source>
-        <target>出發地: %@</target>
         <note>Departure Location</note>
+        <target xml:lang="zh-Hant" state="translated">出發地: %@</target>
       </trans-unit>
       <trans-unit id="PrimaryLocationStationary">
         <source>PrimaryLocationStationary</source>
-        <target>時刻 %@</target>
         <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park</note>
+        <target xml:lang="zh-Hant" state="translated">時刻 %@</target>
       </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
-        <target>即時</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">即時</target>
       </trans-unit>
       <trans-unit id="Search for this stop again or try again later..">
         <source>Search for this stop again or try again later..</source>
-        <target>Search for this stop again or try again later.</target>
         <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
+        <target xml:lang="zh-Hant" state="translated">Search for this stop again or try again later.</target>
       </trans-unit>
       <trans-unit id="Send SMS">
         <source>Send SMS</source>
         <note>Send SMS action</note>
+        <target xml:lang="zh-Hant" state="needs-translation">Send SMS</target>
       </trans-unit>
       <trans-unit id="Show website">
         <source>Show website</source>
-        <target>開啟網站</target>
         <note>Show website action</note>
+        <target xml:lang="zh-Hant" state="translated">開啟網站</target>
       </trans-unit>
       <trans-unit id="Stops">
         <source>Stops</source>
-        <target>%ld站</target>
         <note>Number of stops before you get off a vehicle</note>
+        <target xml:lang="zh-Hant" state="translated">%ld站</target>
       </trans-unit>
       <trans-unit id="TimeFromToShortFormat">
         <source>TimeFromToShortFormat</source>
-        <target>%@ ～ %@</target>
         <note>From %time1 to %time2</note>
+        <target xml:lang="zh-Hant" state="translated">%@ ～ %@</target>
       </trans-unit>
       <trans-unit id="To %@">
         <source>To %@</source>
-        <target>前往 %@</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">前往 %@</target>
       </trans-unit>
       <trans-unit id="Trip">
         <source>Trip</source>
-        <target>旅程</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">旅程</target>
       </trans-unit>
       <trans-unit id="VehicleCalledUpdated">
         <source>VehicleCalledUpdated</source>
-        <target>車輛%@的位置在%@前更新</target>
         <note>Vehicle 'x' updated</note>
+        <target xml:lang="zh-Hant" state="translated">車輛%@的位置在%@前更新</target>
       </trans-unit>
       <trans-unit id="VehicleUpdated">
         <source>VehicleUpdated</source>
-        <target>%@前更新</target>
         <note>Vehicle updated</note>
+        <target xml:lang="zh-Hant" state="translated">%@前更新</target>
       </trans-unit>
       <trans-unit id="goCatch a Taxi">
         <source>goCatch a Taxi</source>
-        <target>使用goCatch</target>
         <note>goCatch action</note>
+        <target xml:lang="zh-Hant" state="translated">使用goCatch</target>
       </trans-unit>
       <trans-unit id="ingogo a Taxi">
         <source>ingogo a Taxi</source>
-        <target>Ingogo叫車服務</target>
         <note>No comment provided by engineer.</note>
+        <target xml:lang="zh-Hant" state="translated">Ingogo叫車服務</target>
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripPlanner/shared.strings" source-language="en" target-language="zh-Hant">
-    <header>
-      <tool build-num="7C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" />
-    </header>
-    <body>
-      <trans-unit id="Cannot find a valid token">
-        <source>Cannot find a valid token</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-    </body>
-  </file>
-  </xliff>
+</xliff>
