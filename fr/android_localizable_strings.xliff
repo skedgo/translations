@@ -58,6 +58,10 @@
         <source>Approximately %s away</source>
         <target xml:lang="fr" state="translated">Environ à %s</target>
       </trans-unit>
+      <trans-unit id="arrivaltimeindication">
+        <source>" (arrive "</source>
+        <target xml:lang="fr" state="translated">(arriver</target>
+      </trans-unit>
       <trans-unit id="body_exclude_this_event_from_route">
         <source>This event will no longer have trips to or from it. The event will still be shown</source>
         <target xml:lang="fr" state="translated">Cet évenement ne comportera plus de trajets. Il restera affiché.</target>
@@ -125,6 +129,10 @@
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
         <target xml:lang="fr" state="translated">Supprimer ce véhicule</target>
+      </trans-unit>
+      <trans-unit id="departuretimeindication">
+        <source>" (depart "</source>
+        <target xml:lang="fr" state="translated">(départ</target>
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
@@ -222,9 +230,17 @@
         <source>Go Here</source>
         <target xml:lang="fr" state="translated">Allez ici</target>
       </trans-unit>
+      <trans-unit id="get_uber">
+        <source>Get Uber</source>
+        <target xml:lang="fr" state="translated">Téléchargez Uber</target>
+      </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
         <target xml:lang="fr" state="translated">Monter</target>
+      </trans-unit>
+      <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
+        <source>Information on concession pricing is subject to availability.</source>
+        <target xml:lang="fr" state="translated">Les informations sur les tarifs réduits dépendent de la disponibilité.</target>
       </trans-unit>
       <trans-unit id="invalid_transfer_time">
         <source>Invalid time, revert to last used value.</source>
@@ -257,6 +273,10 @@
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
         <target xml:lang="fr" state="translated">Les événements de ces calendriers vont être utilisés pour prévoir votre journée</target>
+      </trans-unit>
+      <trans-unit id="minute">
+        <source>1 minute</source>
+        <target xml:lang="fr" state="translated">1 minute</target>
       </trans-unit>
       <trans-unit id="navigate_current_location">
         <source>Navigate from current location</source>
@@ -337,6 +357,10 @@
       <trans-unit id="origin">
         <source>origin</source>
         <target xml:lang="fr" state="translated">origine</target>
+      </trans-unit>
+      <trans-unit id="open_uber">
+        <source>Open Uber</source>
+        <target xml:lang="fr" state="translated">Ouvrir Uber</target>
       </trans-unit>
       <trans-unit id="page_between_upcoming_services">
         <source>Page between upcoming services</source>
