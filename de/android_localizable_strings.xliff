@@ -58,10 +58,6 @@
 			<source>Approximately %s away</source>
 			<target>Etwa %s entfernt</target>
 		</trans-unit>
-		<trans-unit id="arrivaltimeindication">
-			<source>" (arrive "</source>
-			<target>" (Ankunft "</target>
-		</trans-unit>
 		<trans-unit id="body_exclude_related_event_from_route">
 			<source>The event related to the trip will be excluded. It will still be shown</source>
 			<target>Das zum Trip zugehörige Ereignis wird ausgeschlossen. Es wird weiter angezeigt</target>
@@ -77,10 +73,6 @@
 		<trans-unit id="cannot_add_reminder_for_past_trip">
 			<source>Cannot add reminder for past trip</source>
 			<target>Kann keine Erinnerung für Ereignis in der Vergangenheit hinzufügen</target>
-		</trans-unit>
-		<trans-unit id="cancel">
-			<source>Cancel</source>
-			<target>Abbrechen</target>
 		</trans-unit>
 		<trans-unit id="cannot_remove_shortcut">
 			<source>Cannot remove shortcut</source>
@@ -114,10 +106,6 @@
 			<source>All events</source>
 			<target>Alle Ereignisse</target>
 		</trans-unit>
-		<trans-unit id="delete">
-			<source>Delete</source>
-			<target>Löschen</target>
-		</trans-unit>
 		<trans-unit id="del_this_and_future_events">
 			<source>This and future events</source>
 			<target>Dieses und zukünftige Ereignisse</target>
@@ -134,14 +122,6 @@
 			<source>Did you mean</source>
 			<target>Meintest du</target>
 		</trans-unit>
-		<trans-unit id="done">
-			<source>Done</source>
-			<target>Fertig</target>
-		</trans-unit>
-		<trans-unit id="departuretimeindication">
-			<source>" (depart "</source>
-			<target>" (Abfahrt "</target>
-		</trans-unit>
 		<trans-unit id="destination">
 			<source>destination</source>
 			<target>Reiseziel</target>
@@ -153,10 +133,6 @@
 		<trans-unit id="edit_favourite">
 			<source>Edit favorite</source>
 			<target>Favorit bearbeiten</target>
-		</trans-unit>
-		<trans-unit id="dropnewpin">
-			<source>Drop new pin</source>
-			<target>Stecknadel</target>
 		</trans-unit>
 		<trans-unit id="edit">
 			<source>Edit</source>
@@ -254,10 +230,6 @@
 			<source>Go Here</source>
 			<target>Hierhin gehen</target>
 		</trans-unit>
-		<trans-unit id="get_uber">
-			<source>Get Uber</source>
-			<target>Uber herunterladen</target>
-		</trans-unit>
 		<trans-unit id="invalid_transfer_time">
 			<source>Invalid time, revert to last used value.</source>
 			<target>Zeit ist ungültig, benutze letzten gültigen Wert.</target>
@@ -285,14 +257,6 @@
 		<trans-unit id="include_cal_explanation">
 			<source>Events from those calendars will be used in planning your day</source>
 			<target>Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
-		</trans-unit>
-		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
-			<source>Information on concession pricing is subject to availability.</source>
-			<target>Informationen über Ermässigungen nach Verfügbarkeit.</target>
-		</trans-unit>
-		<trans-unit id="minute">
-			<source>1 minute</source>
-			<target>1 Minute</target>
 		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
@@ -373,10 +337,6 @@
 		<trans-unit id="origin">
 			<source>origin</source>
 			<target>Startpunkt</target>
-		</trans-unit>
-		<trans-unit id="open_uber">
-			<source>Open Uber</source>
-			<target>Uber öffnen</target>
 		</trans-unit>
 		<trans-unit id="page_between_upcoming_services">
 			<source>Page between upcoming services</source>

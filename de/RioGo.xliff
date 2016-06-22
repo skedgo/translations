@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="RioGo/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="de">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="RioGo/Base.lproj/Main.storyboard" source-language="en" target-language="de">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="2rM-x6-ise.normalTitle">
+        <source>Enter your flight detail</source>
+        <note>Class = "UIButton"; normalTitle = "Enter your flight detail"; ObjectID = "2rM-x6-ise";</note>
+        <target xml:lang="de" state="translated">Flugdaten eingeben</target>
+      </trans-unit>
+      <trans-unit id="95f-H5-JPj.normalTitle">
+        <source>Done</source>
+        <note>Class = "UIButton"; normalTitle = "Done"; ObjectID = "95f-H5-JPj";</note>
+        <target xml:lang="de" state="translated">Fertig</target>
+      </trans-unit>
+      <trans-unit id="GRr-dK-6Xh.text">
+        <source>or</source>
+        <note>Class = "UILabel"; text = "or"; ObjectID = "GRr-dK-6Xh";</note>
+        <target xml:lang="de" state="translated">oder</target>
+      </trans-unit>
+      <trans-unit id="O7P-n2-HfX.segmentTitles[0]">
+        <source>Attraction</source>
+        <note>Class = "UISegmentedControl"; O7P-n2-HfX.segmentTitles[0] = "Attraction"; ObjectID = "O7P-n2-HfX";</note>
+        <target xml:lang="de" state="translated">Attraktion</target>
+      </trans-unit>
+      <trans-unit id="O7P-n2-HfX.segmentTitles[1]">
+        <source>Olympic</source>
+        <note>Class = "UISegmentedControl"; O7P-n2-HfX.segmentTitles[1] = "Olympic"; ObjectID = "O7P-n2-HfX";</note>
+        <target xml:lang="de" state="translated">Olympia</target>
+      </trans-unit>
+      <trans-unit id="ajc-C2-XVJ.text">
+        <source>Welcome to RioGo</source>
+        <note>Class = "UILabel"; text = "Welcome to RioGo"; ObjectID = "ajc-C2-XVJ";</note>
+        <target xml:lang="de" state="translated">Willkommen bei RioGo</target>
+      </trans-unit>
+      <trans-unit id="mcX-Kp-dtv.text">
+        <source>Please add your holiday information and RioGo will take care of the rest.</source>
+        <note>Class = "UILabel"; text = "Please add your holiday information and RioGo will take care of the rest."; ObjectID = "mcX-Kp-dtv";</note>
+        <target xml:lang="de" state="translated">Gib deine Urlaubsinfos ein und RioGo kümmert sich um den Rest.</target>
+      </trans-unit>
+      <trans-unit id="rzu-fT-1GY.normalTitle">
+        <source>Done</source>
+        <note>Class = "UIButton"; normalTitle = "Done"; ObjectID = "rzu-fT-1GY";</note>
+        <target xml:lang="de" state="translated">Fertig</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="RioGo/Class/Base.lproj/NoEventTableFooter.xib" source-language="en" target-language="de">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="h7L-dg-hHA.text">
+        <source>Tap the + button on the top right to add some more events</source>
+        <note>Class = "UILabel"; text = "Tap the + button on the top right to add some more events"; ObjectID = "h7L-dg-hHA";</note>
+        <target xml:lang="de" state="translated">Um mehr Ereignisse hinzufügen, den + Knopf oben rechts tippen</target>
+      </trans-unit>
+      <trans-unit id="n8g-wi-lV1.text">
+        <source>Great! Let's start planning your first event</source>
+        <note>Class = "UILabel"; text = "Great! Let's start planning your first event"; ObjectID = "n8g-wi-lV1";</note>
+        <target xml:lang="de" state="translated">Wunderbar! Jetzt kann das erste Ereignis geplant werden</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="RioGo/Info.plist" source-language="en" target-language="de">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      </body>
+  </file>
+  <file datatype="plaintext" original="RioGo/Localizable.strings" source-language="en" target-language="de">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="%@ stars">
+        <source>%@ stars</source>
+        <note>Rating format where placeholder will be replaced with number of stars, e.g., '4.5 stars'</note>
+        <target xml:lang="de" state="translated">%@ Sterne</target>
+      </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <note>A title on the button that allows users to select the event for attendance.</note>
+        <target xml:lang="de" state="translated">Hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="Add another visit">
+        <source>Add another visit</source>
+        <note>A title on the button that, when tapped, allows users to add another visit for the selected event or attraction. Translation should not be too long!</note>
+        <target xml:lang="de" state="translated">Weiteren Besuch hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="Add more times">
+        <source>Add more times</source>
+        <note>A title on the button that, when tapped, allows users to add another time for the event.</note>
+        <target xml:lang="de" state="translated">Weiteren Besuch hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="Added">
+        <source>Added</source>
+        <note>A title on the button showing an event has been selected for attendance.</note>
+        <target xml:lang="de" state="translated">Hinzugefügt</target>
+      </trans-unit>
+      <trans-unit id="Afternoon">
+        <source>Afternoon</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Am Nachmittag</target>
+      </trans-unit>
+      <trans-unit id="Agenda">
+        <source>Agenda</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Agenda</target>
+      </trans-unit>
+      <trans-unit id="Browse events and places">
+        <source>Browse events and places</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Ereignisse und Orte</target>
+      </trans-unit>
+      <trans-unit id="Calculating...">
+        <source>Calculating...</source>
+        <note>Placeholder text while calculating trips</note>
+        <target xml:lang="de" state="translated">Berechnen...</target>
+      </trans-unit>
+      <trans-unit id="Check in">
+        <source>Check in</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Ankunft</target>
+      </trans-unit>
+      <trans-unit id="Check out">
+        <source>Check out</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Abreise</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Schließen</target>
+      </trans-unit>
+      <trans-unit id="Date">
+        <source>Date</source>
+        <note>Title for a date (on which to visit an attraction)</note>
+        <target xml:lang="de" state="translated">Datum</target>
+      </trans-unit>
+      <trans-unit id="Discover Rio and the Olympics">
+        <source>Discover Rio and the Olympics</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Entdecke Rio und die Olympischen Spiele</target>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Fertig</target>
+      </trans-unit>
+      <trans-unit id="End time">
+        <source>End time</source>
+        <note>Title for a end time (on which to visit an attraction)</note>
+        <target xml:lang="de" state="translated">Ende</target>
+      </trans-unit>
+      <trans-unit id="Evening">
+        <source>Evening</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Am Abend</target>
+      </trans-unit>
+      <trans-unit id="How it works">
+        <source>How it works</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Wie es funktioniert</target>
+      </trans-unit>
+      <trans-unit id="I'll stay at">
+        <source>I'll stay at</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Ich übernachte bei</target>
+      </trans-unit>
+      <trans-unit id="I'm interested in">
+        <source>I'm interested in</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Ich interessiere mich für</target>
+      </trans-unit>
+      <trans-unit id="Install">
+        <source>Install</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Installieren</target>
+      </trans-unit>
+      <trans-unit id="Max Date">
+        <source>Max Date</source>
+        <note>Max date used to filter results</note>
+        <target xml:lang="de" state="translated">Bis</target>
+      </trans-unit>
+      <trans-unit id="Min Date">
+        <source>Min Date</source>
+        <note>Min date used to filter results</note>
+        <target xml:lang="de" state="translated">Von</target>
+      </trans-unit>
+      <trans-unit id="Morning">
+        <source>Morning</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Am Morgen</target>
+      </trans-unit>
+      <trans-unit id="Nearby places">
+        <source>Nearby places</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Orte in der Nähe</target>
+      </trans-unit>
+      <trans-unit id="New to Rio de Janeiro? Don’t worry! Use RioGo to get to your Olympic events in time and without hassle.">
+        <source>New to Rio de Janeiro? Don’t worry! Use RioGo to get to your Olympic events in time and without hassle.</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Neu in Rio de Janeiro? Macht nichts! Verwende RioGo, um pünktlich und ohne Hektik an Olympischen Ereignissen teilzunehmen.</target>
+      </trans-unit>
+      <trans-unit id="Pick a time">
+        <source>Pick a time</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Zeit auswählen</target>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Speichern</target>
+      </trans-unit>
+      <trans-unit id="Select time">
+        <source>Select time</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Zeit auswählen</target>
+      </trans-unit>
+      <trans-unit id="Set dates">
+        <source>Set dates</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Datum auswählen</target>
+      </trans-unit>
+      <trans-unit id="Set time">
+        <source>Set time</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Zeit auswählen</target>
+      </trans-unit>
+      <trans-unit id="Set times">
+        <source>Set times</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Zeiten auswählen</target>
+      </trans-unit>
+      <trans-unit id="Set your hotel location">
+        <source>Set your hotel location</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Aufenthalt auswählen</target>
+      </trans-unit>
+      <trans-unit id="Set your stay location">
+        <source>Set your stay location</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Aufenthalt auswählen</target>
+      </trans-unit>
+      <trans-unit id="Show List">
+        <source>Show List</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Liste anzeigen</target>
+      </trans-unit>
+      <trans-unit id="Show Map">
+        <source>Show Map</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Karte anzeigen</target>
+      </trans-unit>
+      <trans-unit id="Simply enter your hotel, Olympic events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.">
+        <source>Simply enter your hotel, Olympic events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Gib einfach ein, wo du übernachtest, welche Olympischen Ereignisse und anderen Attraktionen du besuchen möchtest. RioGo erstellt die passende Reiseroute für jeden Tag.</target>
+      </trans-unit>
+      <trans-unit id="Start time">
+        <source>Start time</source>
+        <note>Title for a start time (on which to visit an attraction)</note>
+        <target xml:lang="de" state="translated">Anfangszeit</target>
+      </trans-unit>
+      <trans-unit id="TripGo is recommended for optimal experience. You can install it from App Store.">
+        <source>TripGo is recommended for optimal experience. You can install it from App Store.</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Zum Anzeigen der Trips empfehlen wir TripGo — ein kostenloser Download aus dem App Store.</target>
+      </trans-unit>
+      <trans-unit id="TripGo not found">
+        <source>TripGo not found</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">TripGo nicht installiert</target>
+      </trans-unit>
+      <trans-unit id="View agenda">
+        <source>View agenda</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="de" state="translated">Agenda anzeigen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

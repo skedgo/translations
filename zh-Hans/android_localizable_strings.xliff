@@ -79,10 +79,6 @@
 			<source>Cannot add reminder for past trip</source>
 			<target>无法为过去的行程添加提醒</target>
 		</trans-unit>
-		<trans-unit id="cancel">
-			<source>Cancel</source>
-			<target>取消</target>
-		</trans-unit>
 		<trans-unit id="cannot_remove_shortcut">
 			<source>Cannot remove shortcut</source>
 			<target>无法移除捷径</target>
@@ -115,10 +111,6 @@
 			<source>All events</source>
 			<target>所有事件</target>
 		</trans-unit>
-		<trans-unit id="delete">
-			<source>Delete</source>
-			<target>刪除</target>
-		</trans-unit>
 		<trans-unit id="del_this_and_future_events">
 			<source>This and future events</source>
 			<target>此事件和将来的事件</target>
@@ -135,14 +127,6 @@
 			<source>Did you mean</source>
 			<target>您指的是</target>
 		</trans-unit>
-		<trans-unit id="done">
-			<source>Done</source>
-			<target>完成</target>
-		</trans-unit>
-		<trans-unit id="departuretimeindication">
-			<source>" (depart "</source>
-			<target>" (离站 "</target>
-		</trans-unit>
 		<trans-unit id="destination">
 			<source>destination</source>
 			<target>目的地</target>
@@ -154,10 +138,6 @@
 		<trans-unit id="edit_favourite">
 			<source>Edit favorite</source>
 			<target>编辑收藏</target>
-		</trans-unit>
-		<trans-unit id="dropnewpin">
-			<source>Drop new pin</source>
-			<target>放置新的大头针</target>
 		</trans-unit>
 		<trans-unit id="edit">
 			<source>Edit</source>
@@ -290,10 +270,6 @@
 		<trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
 			<source>Information on concession pricing is subject to availability.</source>
 			<target>取得优惠票价的信息是视情况而定的。</target>
-		</trans-unit>
-		<trans-unit id="minute">
-			<source>1 minute</source>
-			<target>1分钟</target>
 		</trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
