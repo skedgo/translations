@@ -1,91 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="RioGo/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="es">
-    <header>
-      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
-    </header>
-    <body/>
-  </file>
-  <file datatype="plaintext" original="RioGo/Base.lproj/Main.storyboard" source-language="en" target-language="es">
-    <header>
-      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
-    </header>
-    <body>
-      <trans-unit id="2rM-x6-ise.normalTitle">
-        <source>Enter your flight detail</source>
-        <note>Class = "UIButton"; normalTitle = "Enter your flight detail"; ObjectID = "2rM-x6-ise";</note>
-        <target xml:lang="es" state="translated">Ingrese el detalle de su de vuelo</target>
-      </trans-unit>
-      <trans-unit id="95f-H5-JPj.normalTitle">
-        <source>Done</source>
-        <note>Class = "UIButton"; normalTitle = "Done"; ObjectID = "95f-H5-JPj";</note>
-        <target xml:lang="es" state="translated">Listo</target>
-      </trans-unit>
-      <trans-unit id="GRr-dK-6Xh.text">
-        <source>or</source>
-        <note>Class = "UILabel"; text = "or"; ObjectID = "GRr-dK-6Xh";</note>
-        <target xml:lang="es" state="translated">o</target>
-      </trans-unit>
-      <trans-unit id="O7P-n2-HfX.segmentTitles[0]">
-        <source>Attraction</source>
-        <note>Class = "UISegmentedControl"; O7P-n2-HfX.segmentTitles[0] = "Attraction"; ObjectID = "O7P-n2-HfX";</note>
-        <target xml:lang="es" state="translated">Atracción</target>
-      </trans-unit>
-      <trans-unit id="O7P-n2-HfX.segmentTitles[1]">
-        <source>Olympic</source>
-        <note>Class = "UISegmentedControl"; O7P-n2-HfX.segmentTitles[1] = "Olympic"; ObjectID = "O7P-n2-HfX";</note>
-        <target xml:lang="es" state="translated">Olímpico</target>
-      </trans-unit>
-      <trans-unit id="ajc-C2-XVJ.text">
-        <source>Welcome to RioGo</source>
-        <note>Class = "UILabel"; text = "Welcome to RioGo"; ObjectID = "ajc-C2-XVJ";</note>
-        <target xml:lang="es" state="translated">Bienvenido a RioGo</target>
-      </trans-unit>
-      <trans-unit id="mcX-Kp-dtv.text">
-        <source>Please add your holiday information and RioGo will take care of the rest.</source>
-        <note>Class = "UILabel"; text = "Please add your holiday information and RioGo will take care of the rest."; ObjectID = "mcX-Kp-dtv";</note>
-        <target xml:lang="es" state="translated">Por favor agregue la información de sus vacaciones y RioGo se encargará del resto.</target>
-      </trans-unit>
-      <trans-unit id="rzu-fT-1GY.normalTitle">
-        <source>Done</source>
-        <note>Class = "UIButton"; normalTitle = "Done"; ObjectID = "rzu-fT-1GY";</note>
-        <target xml:lang="es" state="translated">Listo</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file datatype="plaintext" original="RioGo/Class/Base.lproj/NoEventTableFooter.xib" source-language="en" target-language="es">
-    <header>
-      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
-    </header>
-    <body>
-      <trans-unit id="h7L-dg-hHA.text">
-        <source>Tap the + button on the top right to add some more events</source>
-        <note>Class = "UILabel"; text = "Tap the + button on the top right to add some more events"; ObjectID = "h7L-dg-hHA";</note>
-        <target xml:lang="es" state="translated">Toque el botón + en la parte superior derecha para añadir algunos eventos más</target>
-      </trans-unit>
-      <trans-unit id="n8g-wi-lV1.text">
-        <source>Great! Let's start planning your first event</source>
-        <note>Class = "UILabel"; text = "Great! Let's start planning your first event"; ObjectID = "n8g-wi-lV1";</note>
-        <target xml:lang="es" state="translated">¡Excelente! Empecemos a planificar tu primer evento</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file datatype="plaintext" original="RioGo/Info.plist" source-language="en" target-language="es">
-    <header>
-      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
-    </header>
-    <body>
-      </body>
-  </file>
   <file datatype="plaintext" original="RioGo/Localizable.strings" source-language="en" target-language="es">
     <header>
-      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
     </header>
     <body>
-      <trans-unit id="%@ stars">
-        <source>%@ stars</source>
-        <note>Rating format where placeholder will be replaced with number of stars, e.g., '4.5 stars'</note>
-        <target xml:lang="es" state="translated">%@ estrellas</target>
+      <trans-unit id="%@ reviews">
+        <source>%@ reviews</source>
+        <note>as in 'number of' reviews, e.g., 100 reviews</note>
+        <target xml:lang="es" state="translated">%@ comentarios</target>
+      </trans-unit>
+      <trans-unit id="%@ tips">
+        <source>%@ tips</source>
+        <note>as in 'number of' tips, e.g., 100 tips</note>
+        <target xml:lang="es" state="translated">%@ consejos</target>
+      </trans-unit>
+      <trans-unit id="About">
+        <source>About</source>
+        <note>Title for view that shows the 'About' info for an event</note>
+        <target xml:lang="es" state="translated">Acerca de</target>
       </trans-unit>
       <trans-unit id="Add">
         <source>Add</source>
@@ -97,38 +30,50 @@
         <note>A title on the button that, when tapped, allows users to add another visit for the selected event or attraction. Translation should not be too long!</note>
         <target xml:lang="es" state="translated">Agregar otra visita</target>
       </trans-unit>
-      <trans-unit id="Add more times">
-        <source>Add more times</source>
-        <note>A title on the button that, when tapped, allows users to add another time for the event.</note>
-        <target xml:lang="es" state="translated">Agregar más veces</target>
-        <alt-trans>
-          <target xml:lang="es">Añadir más veces</target>
-        </alt-trans>
+      <trans-unit id="Add to agenda">
+        <source>Add to agenda</source>
+        <note>Title for button in detail view that, when tapped, adds the event to agenda</note>
+        <target xml:lang="es" state="needs-translation">Add to agenda</target>
       </trans-unit>
       <trans-unit id="Added">
         <source>Added</source>
         <note>A title on the button showing an event has been selected for attendance.</note>
         <target xml:lang="es" state="translated">Agregado</target>
       </trans-unit>
+      <trans-unit id="Address">
+        <source>Address</source>
+        <note>Title for cell in detail view that shows the event's address</note>
+        <target xml:lang="es" state="translated">Dirección</target>
+      </trans-unit>
       <trans-unit id="Afternoon">
         <source>Afternoon</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Tarde</target>
       </trans-unit>
-      <trans-unit id="Agenda">
-        <source>Agenda</source>
+      <trans-unit id="Attraction">
+        <source>Attraction</source>
         <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Agenda</target>
+        <target xml:lang="es" state="translated">Atracción</target>
+      </trans-unit>
+      <trans-unit id="Attractions">
+        <source>Attractions</source>
+        <note>Search scope (category) name</note>
+        <target xml:lang="es" state="translated">Atracciones</target>
       </trans-unit>
       <trans-unit id="Browse events and places">
         <source>Browse events and places</source>
-        <note>No comment provided by engineer.</note>
+        <note>Title for button that allows users to pick events &amp; places</note>
         <target xml:lang="es" state="translated">Ver eventos y lugares</target>
       </trans-unit>
-      <trans-unit id="Calculating...">
-        <source>Calculating...</source>
-        <note>Placeholder text while calculating trips</note>
-        <target xml:lang="es" state="translated">Calculando...</target>
+      <trans-unit id="Call">
+        <source>Call</source>
+        <note>Title for cell in detail view that shows the event's contact phone number</note>
+        <target xml:lang="es" state="translated">Llamar</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>Title for Cancel button</note>
+        <target xml:lang="es" state="translated">Cancelar</target>
       </trans-unit>
       <trans-unit id="Check in">
         <source>Check in</source>
@@ -140,25 +85,30 @@
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Check-out</target>
       </trans-unit>
-      <trans-unit id="Close">
-        <source>Close</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Cerrar</target>
+      <trans-unit id="Closed">
+        <source>Closed</source>
+        <note>Indicating a place has closed</note>
+        <target xml:lang="es" state="translated">Cerrado</target>
       </trans-unit>
       <trans-unit id="Date">
         <source>Date</source>
         <note>Title for a date (on which to visit an attraction)</note>
         <target xml:lang="es" state="translated">Fecha</target>
       </trans-unit>
-      <trans-unit id="Discover Rio and the Olympics">
-        <source>Discover Rio and the Olympics</source>
+      <trans-unit id="Discover Rio and the Games">
+        <source>Discover Rio and the Games</source>
         <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Descubra Río y los Juegos Olímpicos</target>
+        <target xml:lang="es" state="translated">Descubre Río y los Juegos Olímpicos</target>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
-        <note>No comment provided by engineer.</note>
+        <note>Title for done button</note>
         <target xml:lang="es" state="translated">Listo</target>
+      </trans-unit>
+      <trans-unit id="Download">
+        <source>Download</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="es" state="translated">Descargar</target>
       </trans-unit>
       <trans-unit id="End time">
         <source>End time</source>
@@ -170,25 +120,55 @@
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Noche</target>
       </trans-unit>
+      <trans-unit id="Female">
+        <source>Female</source>
+        <note>Identifying the game is for female division</note>
+        <target xml:lang="es" state="translated">Femenino</target>
+      </trans-unit>
+      <trans-unit id="Final">
+        <source>Final</source>
+        <note>Indicating the game is final, with award ceremony afterwards</note>
+        <target xml:lang="es" state="translated">Final</target>
+      </trans-unit>
+      <trans-unit id="Foursquare Tips">
+        <source>Foursquare Tips</source>
+        <note>Title for cell that shows a list of Foursquare tips. Note, only Tips needs to be translated</note>
+        <target xml:lang="es" state="translated">Consejos de Foursquare</target>
+      </trans-unit>
+      <trans-unit id="Games">
+        <source>Games</source>
+        <note>Search scope (category) name</note>
+        <target xml:lang="es" state="translated">Juegos</target>
+      </trans-unit>
+      <trans-unit id="Gender">
+        <source>Gender</source>
+        <note>Title for cell in detail view that shows the gender, applicable for Oympic game type of events</note>
+        <target xml:lang="es" state="translated">Género</target>
+      </trans-unit>
+      <trans-unit id="Hotels">
+        <source>Hotels</source>
+        <note>Search scope (category) name</note>
+        <target xml:lang="es" state="translated">Hoteles</target>
+      </trans-unit>
+      <trans-unit id="Hours">
+        <source>Hours</source>
+        <note>Title for cell in detail view that shows the event's opening hours</note>
+        <target xml:lang="es" state="translated">Horarios</target>
+      </trans-unit>
       <trans-unit id="How it works">
         <source>How it works</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Cómo funciona</target>
       </trans-unit>
-      <trans-unit id="I'll stay at">
-        <source>I'll stay at</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Me quedaré en</target>
+      <trans-unit id="Locations">
+        <source>Locations</source>
+        <note>Search scope (category) name</note>
+        <target xml:lang="es" state="translated">Ubicaciones</target>
       </trans-unit>
-      <trans-unit id="I'm interested in">
-        <source>I'm interested in</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Estoy interesado en</target>
-      </trans-unit>
-      <trans-unit id="Install">
-        <source>Install</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Instalar</target>
+      <trans-unit id="Male">
+        <source>Male</source>
+        <note>Identifying the game is for male division</note>
+        <target xml:lang="es" state="translated">Masculino</target>
       </trans-unit>
       <trans-unit id="Max Date">
         <source>Max Date</source>
@@ -200,30 +180,98 @@
         <note>Min date used to filter results</note>
         <target xml:lang="es" state="translated">Fecha Mínima</target>
       </trans-unit>
+      <trans-unit id="Mixed">
+        <source>Mixed</source>
+        <note>Identifying the game contains both male and female divisions</note>
+        <target xml:lang="es" state="translated">Mixto</target>
+      </trans-unit>
+      <trans-unit id="More tips from Foursquare">
+        <source>More tips from Foursquare</source>
+        <note>Title for button that takes users to view all tips on Foursquare</note>
+        <target xml:lang="es" state="translated">Más tips de Foursquare</target>
+      </trans-unit>
       <trans-unit id="Morning">
         <source>Morning</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Mañana</target>
       </trans-unit>
-      <trans-unit id="Nearby places">
-        <source>Nearby places</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Lugares cercanos</target>
+      <trans-unit id="My agenda">
+        <source>My agenda</source>
+        <note>Title for section in detail view that lists the dates/times to attend the event</note>
+        <target xml:lang="es" state="translated">Mi agenda</target>
       </trans-unit>
-      <trans-unit id="New to Rio de Janeiro? Don’t worry! Use RioGo to get to your Olympic events in time and without hassle.">
-        <source>New to Rio de Janeiro? Don’t worry! Use RioGo to get to your Olympic events in time and without hassle.</source>
+      <trans-unit id="New to Rio de Janeiro? Don’t worry! Use RioGo to get to your events in time and without hassle.">
+        <source>New to Rio de Janeiro? Don’t worry! Use RioGo to get to your events in time and without hassle.</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">¿Nuevo en Río de Janeiro? ¡No te preocupes! Utiliza RioGo para llegar a los eventos Olímpicos a tiempo y sin complicaciones.</target>
+      </trans-unit>
+      <trans-unit id="Pick a date">
+        <source>Pick a date</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="es" state="translated">Elije una fecha</target>
       </trans-unit>
       <trans-unit id="Pick a time">
         <source>Pick a time</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Elija una hora</target>
       </trans-unit>
-      <trans-unit id="Save">
-        <source>Save</source>
+      <trans-unit id="Please add your holiday information and RioGo will take care of the rest">
+        <source>Please add your holiday information and RioGo will take care of the rest</source>
         <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Guardar</target>
+        <target xml:lang="es" state="translated">Por favor agrega la información de tus vacaciones y RioGo se encargará del resto</target>
+        <alt-trans>
+          <target xml:lang="es">Por favor agregue la información de sus vacaciones y RioGo se encargará del resto</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Please pick a type for this location">
+        <source>Please pick a type for this location</source>
+        <note>Prompted when adding a location of unknown type to the agenda. Possible types would be Stay, Attraction, Restaurant, Place.</note>
+        <target xml:lang="es" state="translated">Por favor elije un tipo para este lugar</target>
+      </trans-unit>
+      <trans-unit id="Powered by ">
+        <source>Powered by </source>
+        <note>E.g., Powered by tripAdvisor</note>
+        <target xml:lang="es" state="translated">Powered by tripAdvisor </target>
+      </trans-unit>
+      <trans-unit id="Powered by Foursquare">
+        <source>Powered by Foursquare</source>
+        <note>Note, only Powered by needs to be translated</note>
+        <target xml:lang="es" state="translated">Powered by Foursquare</target>
+      </trans-unit>
+      <trans-unit id="Read all reviews">
+        <source>Read all reviews</source>
+        <note>Title for button that takes users to view all reviews on TripAdvisor</note>
+        <target xml:lang="es" state="translated">Ver todos los comentarios</target>
+      </trans-unit>
+      <trans-unit id="Read full reivew">
+        <source>Read full reivew</source>
+        <note>Title for button that takes users to full review of the event</note>
+        <target xml:lang="es" state="needs-translation">Read full reivew</target>
+      </trans-unit>
+      <trans-unit id="Read full tip">
+        <source>Read full tip</source>
+        <note>Title for button that takes users to full tip of the event</note>
+        <target xml:lang="es" state="translated">Ver tip completo</target>
+      </trans-unit>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+        <note>Title for button that allows users to remove an event from agenda</note>
+        <target xml:lang="es" state="translated">Eliminar</target>
+      </trans-unit>
+      <trans-unit id="Restaurant">
+        <source>Restaurant</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="es" state="translated">Restaurante</target>
+      </trans-unit>
+      <trans-unit id="Restaurants">
+        <source>Restaurants</source>
+        <note>Search scope (category) name</note>
+        <target xml:lang="es" state="translated">Restaurantes</target>
+      </trans-unit>
+      <trans-unit id="Schedules">
+        <source>Schedules</source>
+        <note>Title for view that shows the list of events under one Games game title, e.g., men's heat 1, heat 2...etc</note>
+        <target xml:lang="es" state="translated">Horarios</target>
       </trans-unit>
       <trans-unit id="Select time">
         <source>Select time</source>
@@ -235,11 +283,6 @@
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Fijar fechas</target>
       </trans-unit>
-      <trans-unit id="Set time">
-        <source>Set time</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Definir hora</target>
-      </trans-unit>
       <trans-unit id="Set times">
         <source>Set times</source>
         <note>No comment provided by engineer.</note>
@@ -247,29 +290,21 @@
       </trans-unit>
       <trans-unit id="Set your hotel location">
         <source>Set your hotel location</source>
-        <note>No comment provided by engineer.</note>
+        <note>Title for button that allows users to pick their hotels</note>
         <target xml:lang="es" state="translated">Establezca la ubicación de su hotel</target>
       </trans-unit>
       <trans-unit id="Set your stay location">
         <source>Set your stay location</source>
-        <note>No comment provided by engineer.</note>
+        <note>Prompt for user to specify their hotel/stay location</note>
         <target xml:lang="es" state="translated">Establezca la ubicación de su estancia</target>
       </trans-unit>
-      <trans-unit id="Show List">
-        <source>Show List</source>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Show list">
+        <source>Show list</source>
+        <note>Title for button that switches the agenda to list mode</note>
         <target xml:lang="es" state="translated">Ver lista</target>
-        <alt-trans>
-          <target xml:lang="es">Mostrar la lista</target>
-        </alt-trans>
       </trans-unit>
-      <trans-unit id="Show Map">
-        <source>Show Map</source>
-        <note>No comment provided by engineer.</note>
-        <target xml:lang="es" state="translated">Ver mapa</target>
-      </trans-unit>
-      <trans-unit id="Simply enter your hotel, Olympic events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.">
-        <source>Simply enter your hotel, Olympic events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</source>
+      <trans-unit id="Simply enter your hotel, events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.">
+        <source>Simply enter your hotel, events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Simplemente introduzca su hotel, eventos Olímpicos y otros puntos de interés que le gustaría ver. RioGo creará el itinerario perfecto para usted cada día.</target>
       </trans-unit>
@@ -277,6 +312,31 @@
         <source>Start time</source>
         <note>Title for a start time (on which to visit an attraction)</note>
         <target xml:lang="es" state="translated">Hora de inicio</target>
+      </trans-unit>
+      <trans-unit id="Stay">
+        <source>Stay</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="es" state="translated">Alojamiento</target>
+      </trans-unit>
+      <trans-unit id="Stay allows you to select check in and check out times while others allow you to pick an attendance date">
+        <source>Stay allows you to select check in and check out times while others allow you to pick an attendance date</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="es" state="translated">"Alojamiento" permite seleccionar tiempos de entrada y salida mientras que "otros" permite escojer una fecha de asistencia</target>
+      </trans-unit>
+      <trans-unit id="This event has already been added">
+        <source>This event has already been added</source>
+        <note>No comment provided by engineer.</note>
+        <target xml:lang="es" state="translated">Este evento ya ha sido agregado</target>
+      </trans-unit>
+      <trans-unit id="Time">
+        <source>Time</source>
+        <note>Title for cell in detail view that shows the event's time, applicable for Oympic game type of events</note>
+        <target xml:lang="es" state="translated">Horario</target>
+      </trans-unit>
+      <trans-unit id="TripAdvisor® Traveler Reviews">
+        <source>TripAdvisor® Traveler Reviews</source>
+        <note>Title for cell that shows a list of TripAdvisor reviews. Note, only Traveler Reviews needs to be translated</note>
+        <target xml:lang="es" state="translated">Comentarios de los viajeros de TripAdvisor®</target>
       </trans-unit>
       <trans-unit id="TripGo is recommended for optimal experience. You can install it from App Store.">
         <source>TripGo is recommended for optimal experience. You can install it from App Store.</source>
@@ -292,6 +352,19 @@
         <source>View agenda</source>
         <note>No comment provided by engineer.</note>
         <target xml:lang="es" state="translated">Ver agenda</target>
+      </trans-unit>
+      <trans-unit id="View trips">
+        <source>View trips</source>
+        <note>Title for button that allows users to either view trips in browser or in TripGo</note>
+        <target xml:lang="es" state="translated">Ver viajes</target>
+        <alt-trans>
+          <target xml:lang="es">Vista viajes</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Website">
+        <source>Website</source>
+        <note>Title for cell in detail view that shows the event's contact website</note>
+        <target xml:lang="es" state="translated">Sitio web</target>
       </trans-unit>
     </body>
   </file>
