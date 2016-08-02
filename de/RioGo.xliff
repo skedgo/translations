@@ -2,363 +2,423 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="RioGo/Localizable.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3"/>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
     </header>
     <body>
       <trans-unit id="%@ reviews">
         <source>%@ reviews</source>
+        <target xml:lang="de" state="translated">%@ Reviews</target>
         <note>as in 'number of' reviews, e.g., 100 reviews</note>
-        <target xml:lang="de" state="needs-translation">%@ reviews</target>
       </trans-unit>
       <trans-unit id="%@ tips">
         <source>%@ tips</source>
+        <target xml:lang="de" state="translated">%@ Tipps</target>
         <note>as in 'number of' tips, e.g., 100 tips</note>
-        <target xml:lang="de" state="needs-translation">%@ tips</target>
       </trans-unit>
       <trans-unit id="About">
         <source>About</source>
-        <note>Title for view that shows the 'About' info for an event</note>
         <target xml:lang="de" state="translated">Über</target>
-      </trans-unit>
-      <trans-unit id="Add">
-        <source>Add</source>
-        <note>A title on the button that allows users to select the event for attendance.</note>
-        <target xml:lang="de" state="translated">Hinzufügen</target>
+        <note>Title for view that shows the 'About' info for an event</note>
       </trans-unit>
       <trans-unit id="Add another visit">
         <source>Add another visit</source>
-        <note>A title on the button that, when tapped, allows users to add another visit for the selected event or attraction. Translation should not be too long!</note>
         <target xml:lang="de" state="translated">Weiteren Besuch hinzufügen</target>
+        <note>A title on the button that, when tapped, allows users to add another visit for the selected event or attraction. Translation should not be too long!</note>
       </trans-unit>
       <trans-unit id="Add to agenda">
         <source>Add to agenda</source>
+        <target xml:lang="de" state="translated">Zur Agenda hinzufügen</target>
         <note>Title for button in detail view that, when tapped, adds the event to agenda</note>
-        <target xml:lang="de" state="needs-translation">Add to agenda</target>
-      </trans-unit>
-      <trans-unit id="Added">
-        <source>Added</source>
-        <note>A title on the button showing an event has been selected for attendance.</note>
-        <target xml:lang="de" state="translated">Hinzugefügt</target>
       </trans-unit>
       <trans-unit id="Address">
         <source>Address</source>
-        <note>Title for cell in detail view that shows the event's address</note>
         <target xml:lang="de" state="translated">Adresse</target>
+        <note>Title for cell in detail view that shows the event's address</note>
       </trans-unit>
       <trans-unit id="Afternoon">
         <source>Afternoon</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Am Nachmittag</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Attraction">
         <source>Attraction</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Attraktion</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Attractions">
         <source>Attractions</source>
-        <note>Search scope (category) name</note>
         <target xml:lang="de" state="translated">Attraktionen</target>
+        <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Browse events and places">
         <source>Browse events and places</source>
+        <target xml:lang="de" state="translated">Veranstaltungen und Orte</target>
         <note>Title for button that allows users to pick events &amp; places</note>
-        <target xml:lang="de" state="translated">Ereignisse und Orte</target>
+        <alt-trans>
+          <target xml:lang="de">Ereignisse und Orte</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Call">
         <source>Call</source>
-        <note>Title for cell in detail view that shows the event's contact phone number</note>
         <target xml:lang="de" state="translated">Anrufen</target>
+        <note>Title for cell in detail view that shows the event's contact phone number</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
-        <note>Title for Cancel button</note>
         <target xml:lang="de" state="translated">Abbrechen</target>
+        <note>Title for Cancel button</note>
       </trans-unit>
       <trans-unit id="Check in">
         <source>Check in</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Ankunft</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Check out">
         <source>Check out</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Abreise</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Closed">
         <source>Closed</source>
-        <note>Indicating a place has closed</note>
         <target xml:lang="de" state="translated">Geschlossen</target>
+        <note>Indicating a place has closed</note>
       </trans-unit>
       <trans-unit id="Date">
         <source>Date</source>
-        <note>Title for a date (on which to visit an attraction)</note>
         <target xml:lang="de" state="translated">Datum</target>
+        <note>Title for a date (on which to visit an attraction)</note>
       </trans-unit>
       <trans-unit id="Discover Rio and the Games">
         <source>Discover Rio and the Games</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Entdecke Rio und die Spiele</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
-        <note>Title for done button</note>
         <target xml:lang="de" state="translated">Fertig</target>
+        <note>Title for done button</note>
       </trans-unit>
       <trans-unit id="Download">
         <source>Download</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Herunterladen</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="End time">
         <source>End time</source>
-        <note>Title for a end time (on which to visit an attraction)</note>
         <target xml:lang="de" state="translated">Ende</target>
+        <note>Title for a end time (on which to visit an attraction)</note>
       </trans-unit>
       <trans-unit id="Evening">
         <source>Evening</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Am Abend</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Female">
         <source>Female</source>
-        <note>Identifying the game is for female division</note>
         <target xml:lang="de" state="translated">Frauen</target>
+        <note>Identifying the game is for female division</note>
       </trans-unit>
       <trans-unit id="Final">
         <source>Final</source>
-        <note>Indicating the game is final, with award ceremony afterwards</note>
         <target xml:lang="de" state="translated">Finale</target>
+        <note>Indicating the game is final, with award ceremony afterwards</note>
       </trans-unit>
       <trans-unit id="Foursquare Tips">
         <source>Foursquare Tips</source>
-        <note>Title for cell that shows a list of Foursquare tips. Note, only Tips needs to be translated</note>
         <target xml:lang="de" state="translated">Foursquare Tipps</target>
+        <note>Title for cell that shows a list of Foursquare tips. Note, only Tips needs to be translated</note>
+      </trans-unit>
+      <trans-unit id="Game code">
+        <source>Game code</source>
+        <target xml:lang="de" state="translated">Spiel-Code</target>
+        <note>A code associated with a game, e.g., H001 is the code assigned to Hocky. This can be used in search.</note>
       </trans-unit>
       <trans-unit id="Games">
         <source>Games</source>
-        <note>Search scope (category) name</note>
         <target xml:lang="de" state="translated">Spiele</target>
+        <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Gender">
         <source>Gender</source>
-        <note>Title for cell in detail view that shows the gender, applicable for Oympic game type of events</note>
         <target xml:lang="de" state="translated">Geschlecht</target>
+        <note>Title for cell in detail view that shows the gender, applicable for Oympic game type of events</note>
+      </trans-unit>
+      <trans-unit id="Get directions">
+        <source>Get directions</source>
+        <target xml:lang="de" state="translated">Wegbeschreibung hierhin</target>
+        <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="de">Navigieren</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Hotels">
         <source>Hotels</source>
-        <note>Search scope (category) name</note>
         <target xml:lang="de" state="translated">Hotels</target>
+        <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Hours">
         <source>Hours</source>
-        <note>Title for cell in detail view that shows the event's opening hours</note>
         <target xml:lang="de" state="translated">Öffnungszeiten</target>
+        <note>Title for cell in detail view that shows the event's opening hours</note>
       </trans-unit>
       <trans-unit id="How it works">
         <source>How it works</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Wie es funktioniert</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Leave at">
+        <source>Leave at</source>
+        <target xml:lang="de" state="translated">Abfahrt um</target>
+        <note>E.g., 'Leave at', followed by the time you should leave.</note>
       </trans-unit>
       <trans-unit id="Locations">
         <source>Locations</source>
-        <note>Search scope (category) name</note>
         <target xml:lang="de" state="translated">Lokalitäten</target>
+        <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Male">
         <source>Male</source>
-        <note>Identifying the game is for male division</note>
         <target xml:lang="de" state="translated">Männer</target>
+        <note>Identifying the game is for male division</note>
       </trans-unit>
       <trans-unit id="Max Date">
         <source>Max Date</source>
-        <note>Max date used to filter results</note>
         <target xml:lang="de" state="translated">Bis</target>
+        <note>Max date used to filter results</note>
       </trans-unit>
       <trans-unit id="Min Date">
         <source>Min Date</source>
-        <note>Min date used to filter results</note>
         <target xml:lang="de" state="translated">Von</target>
+        <note>Min date used to filter results</note>
       </trans-unit>
       <trans-unit id="Mixed">
         <source>Mixed</source>
-        <note>Identifying the game contains both male and female divisions</note>
         <target xml:lang="de" state="translated">Gemischt</target>
+        <note>Identifying the game contains both male and female divisions</note>
       </trans-unit>
       <trans-unit id="More tips from Foursquare">
         <source>More tips from Foursquare</source>
-        <note>Title for button that takes users to view all tips on Foursquare</note>
         <target xml:lang="de" state="translated">Weitere Tipps von Foursquare</target>
+        <note>Title for button that takes users to view all tips on Foursquare</note>
       </trans-unit>
       <trans-unit id="Morning">
         <source>Morning</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Am Morgen</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="My agenda">
         <source>My agenda</source>
-        <note>Title for section in detail view that lists the dates/times to attend the event</note>
         <target xml:lang="de" state="translated">Meine Agenda</target>
+        <note>Title for section in detail view that lists the dates/times to attend the event</note>
       </trans-unit>
       <trans-unit id="New to Rio de Janeiro? Don’t worry! Use RioGo to get to your events in time and without hassle.">
         <source>New to Rio de Janeiro? Don’t worry! Use RioGo to get to your events in time and without hassle.</source>
+        <target xml:lang="de" state="translated">Neu in Rio de Janeiro? Macht nichts! Verwende RioGo, um pünktlich und ohne Hektik an Veranstaltungen teilzunehmen.</target>
         <note>No comment provided by engineer.</note>
-        <target xml:lang="de" state="translated">Neu in Rio de Janeiro? Macht nichts! Verwende RioGo, um pünktlich und ohne Hektik an Ereignissen teilzunehmen.</target>
+        <alt-trans>
+          <target xml:lang="de">Neu in Rio de Janeiro? Macht nichts! Verwende RioGo, um pünktlich und ohne Hektik an Ereignissen teilzunehmen.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target xml:lang="de" state="translated">OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in Maps">
+        <source>Open in Maps</source>
+        <target xml:lang="de" state="translated">Apple Maps</target>
+        <note>Open Apple Maps app to get direction</note>
+      </trans-unit>
+      <trans-unit id="Open in TripGo">
+        <source>Open in TripGo</source>
+        <target xml:lang="de" state="translated">TripGo</target>
+        <note>Open TripGo to get direction</note>
       </trans-unit>
       <trans-unit id="Pick a date">
         <source>Pick a date</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Datum auswählen</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pick a time">
         <source>Pick a time</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Zeit auswählen</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please add your holiday information and RioGo will take care of the rest">
         <source>Please add your holiday information and RioGo will take care of the rest</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Gib deine Urlaubsinfos ein und RioGo kümmert sich um den Rest.</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please pick a type for this location">
         <source>Please pick a type for this location</source>
+        <target xml:lang="de" state="translated">Typ dieses Ereignisses</target>
         <note>Prompted when adding a location of unknown type to the agenda. Possible types would be Stay, Attraction, Restaurant, Place.</note>
-        <target xml:lang="de" state="needs-translation">Please pick a type for this location</target>
       </trans-unit>
       <trans-unit id="Powered by ">
         <source>Powered by </source>
-        <note>E.g., Powered by tripAdvisor</note>
         <target xml:lang="de" state="translated">Powered by </target>
+        <note>E.g., Powered by tripAdvisor</note>
       </trans-unit>
       <trans-unit id="Powered by Foursquare">
         <source>Powered by Foursquare</source>
-        <note>Note, only Powered by needs to be translated</note>
         <target xml:lang="de" state="translated">Powered by Foursquare</target>
+        <note>Note, only Powered by needs to be translated</note>
       </trans-unit>
       <trans-unit id="Read all reviews">
         <source>Read all reviews</source>
-        <note>Title for button that takes users to view all reviews on TripAdvisor</note>
         <target xml:lang="de" state="translated">Alle Reviews lesen</target>
+        <note>Title for button that takes users to view all reviews on TripAdvisor</note>
       </trans-unit>
-      <trans-unit id="Read full reivew">
-        <source>Read full reivew</source>
-        <note>Title for button that takes users to full review of the event</note>
+      <trans-unit id="Read full review">
+        <source>Read full review</source>
         <target xml:lang="de" state="translated">Review lesen</target>
+        <note>Title for button that takes users to full review of the event</note>
       </trans-unit>
       <trans-unit id="Read full tip">
         <source>Read full tip</source>
-        <note>Title for button that takes users to full tip of the event</note>
         <target xml:lang="de" state="translated">Tipp lesen</target>
+        <note>Title for button that takes users to full tip of the event</note>
       </trans-unit>
       <trans-unit id="Remove">
         <source>Remove</source>
-        <note>Title for button that allows users to remove an event from agenda</note>
         <target xml:lang="de" state="translated">Entfernen</target>
+        <note>Title for button that allows users to remove an event from agenda</note>
       </trans-unit>
       <trans-unit id="Restaurant">
         <source>Restaurant</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Restaurant</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restaurants">
         <source>Restaurants</source>
-        <note>Search scope (category) name</note>
         <target xml:lang="de" state="translated">Restaurants</target>
+        <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Schedules">
         <source>Schedules</source>
-        <note>Title for view that shows the list of events under one Games game title, e.g., men's heat 1, heat 2...etc</note>
         <target xml:lang="de" state="translated">Zeitpläne</target>
+        <note>Title for section that shows the list of sessions under one Game, e.g., men's heat 1, heat 2...etc</note>
       </trans-unit>
       <trans-unit id="Select time">
         <source>Select time</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Zeit auswählen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sessions">
+        <source>Sessions</source>
+        <target xml:lang="de" state="translated">Begegnungen</target>
+        <note>Title for section that lists the sessions under one game, typically used for team sports, e.g., Football Australia vs. Brazil</note>
       </trans-unit>
       <trans-unit id="Set dates">
         <source>Set dates</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Datum auswählen</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Set times">
         <source>Set times</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Zeiten auswählen</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Set your hotel location">
         <source>Set your hotel location</source>
-        <note>Title for button that allows users to pick their hotels</note>
         <target xml:lang="de" state="translated">Aufenthalt auswählen</target>
+        <note>Title for button that allows users to pick their hotels</note>
       </trans-unit>
       <trans-unit id="Set your stay location">
         <source>Set your stay location</source>
-        <note>Prompt for user to specify their hotel/stay location</note>
         <target xml:lang="de" state="translated">Aufenthalt auswählen</target>
+        <note>Prompt for user to specify their hotel/stay location</note>
       </trans-unit>
       <trans-unit id="Show list">
         <source>Show list</source>
-        <note>Title for button that switches the agenda to list mode</note>
         <target xml:lang="de" state="translated">Liste anzeigen</target>
+        <note>Title for button that switches the agenda to list mode</note>
       </trans-unit>
       <trans-unit id="Simply enter your hotel, events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.">
         <source>Simply enter your hotel, events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</source>
+        <target xml:lang="de" state="translated">Gib einfach ein, wo du übernachtest, welche Veranstaltungen und Attraktionen du besuchen möchtest. RioGo erstellt die passende Reiseroute für jeden Tag.</target>
         <note>No comment provided by engineer.</note>
-        <target xml:lang="de" state="translated">Gib einfach ein, wo du übernachtest, welche Ereignisse und anderen Attraktionen du besuchen möchtest. RioGo erstellt die passende Reiseroute für jeden Tag.</target>
+        <alt-trans>
+          <target xml:lang="de">Gib einfach ein, wo du übernachtest, welche Ereignisse und anderen Attraktionen du besuchen möchtest. RioGo erstellt die passende Reiseroute für jeden Tag.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Start time">
         <source>Start time</source>
-        <note>Title for a start time (on which to visit an attraction)</note>
         <target xml:lang="de" state="translated">Anfangszeit</target>
+        <note>Title for a start time (on which to visit an attraction)</note>
       </trans-unit>
       <trans-unit id="Stay">
         <source>Stay</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Übernachtung</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Stay allows you to select check in and check out times while others allow you to pick an attendance date">
         <source>Stay allows you to select check in and check out times while others allow you to pick an attendance date</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Für Übernachtungen kannst du Check-in und Check-out und für andere ein Datum auswählen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There is already a stay with the specified period. Please modify your check-in or check-out dates and try again.">
+        <source>There is already a stay with the specified period. Please modify your check-in or check-out dates and try again.</source>
+        <target xml:lang="de" state="translated">Für diesen Zeitraum gibt es bereits eine Übernachtung. Bitte Ankunft und Abreise anpassen und erneut versuchen.</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This event has already been added">
         <source>This event has already been added</source>
+        <target xml:lang="de" state="translated">Diese Veranstaltung wurde bereits hinzugefügt.</target>
         <note>No comment provided by engineer.</note>
-        <target xml:lang="de" state="translated">Dieses Ereignis wurde bereits hinzugefügt.</target>
+        <alt-trans>
+          <target xml:lang="de">Dieses Ereignis wurde bereits hinzugefügt.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Time">
         <source>Time</source>
-        <note>Title for cell in detail view that shows the event's time, applicable for Oympic game type of events</note>
         <target xml:lang="de" state="translated">Zeiten</target>
+        <note>Title for cell in detail view that shows the event's time, applicable for Oympic game type of events</note>
+      </trans-unit>
+      <trans-unit id="Trip is taking longer than expected\n">
+        <source>Trip is taking longer than expected\n</source>
+        <target xml:lang="de" state="translated">Trip dauert länger als erwartet\n</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TripAdvisor® Traveler Reviews">
         <source>TripAdvisor® Traveler Reviews</source>
-        <note>Title for cell that shows a list of TripAdvisor reviews. Note, only Traveler Reviews needs to be translated</note>
         <target xml:lang="de" state="translated">TripAdvisor®-Kundenbewertungen</target>
+        <note>Title for cell that shows a list of TripAdvisor reviews. Note, only Traveler Reviews needs to be translated</note>
       </trans-unit>
       <trans-unit id="TripGo is recommended for optimal experience. You can install it from App Store.">
         <source>TripGo is recommended for optimal experience. You can install it from App Store.</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Zum Anzeigen der Trips empfehlen wir TripGo — ein kostenloser Download aus dem App Store.</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TripGo not found">
         <source>TripGo not found</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">TripGo nicht installiert</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View agenda">
         <source>View agenda</source>
-        <note>No comment provided by engineer.</note>
         <target xml:lang="de" state="translated">Agenda anzeigen</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View trips">
         <source>View trips</source>
-        <note>Title for button that allows users to either view trips in browser or in TripGo</note>
         <target xml:lang="de" state="translated">Trips anzeigen</target>
+        <note>Title for button that allows users to either view trips in browser or in TripGo</note>
+      </trans-unit>
+      <trans-unit id="Warning">
+        <source>Warning</source>
+        <target xml:lang="de" state="translated">Warnung</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Website">
         <source>Website</source>
-        <note>Title for cell in detail view that shows the event's contact website</note>
         <target xml:lang="de" state="translated">Webseite</target>
+        <note>Title for cell in detail view that shows the event's contact website</note>
+      </trans-unit>
+      <trans-unit id="You are about to remove the last session from the event. This will remove the event from the agenda. Do you wish to proceed?">
+        <source>You are about to remove the last session from the event. This will remove the event from the agenda. Do you wish to proceed?</source>
+        <target xml:lang="de" state="translated">Du bist dabei die letzte Begegnung von dieser Veranstaltung zu entfernen. Dies wird die Veranstaltung selbst von deiner Agenda entfernen. Fortfahren?</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>

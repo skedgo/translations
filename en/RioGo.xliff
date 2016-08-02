@@ -1,294 +1,412 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="RioGo/Localizable.strings" source-language="en">
+  <file original="RioGo/Localizable.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
-      <tool build-num="7D175" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" />
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
     </header>
     <body>
       <trans-unit id="%@ reviews">
         <source>%@ reviews</source>
+        <target>%@ reviews</target>
         <note>as in 'number of' reviews, e.g., 100 reviews</note>
       </trans-unit>
       <trans-unit id="%@ tips">
         <source>%@ tips</source>
+        <target>%@ tips</target>
         <note>as in 'number of' tips, e.g., 100 tips</note>
       </trans-unit>
       <trans-unit id="About">
         <source>About</source>
+        <target>About</target>
         <note>Title for view that shows the 'About' info for an event</note>
-      </trans-unit>
-      <trans-unit id="Add">
-        <source>Add</source>
-        <note>A title on the button that allows users to select the event for attendance.</note>
       </trans-unit>
       <trans-unit id="Add another visit">
         <source>Add another visit</source>
+        <target>Add another visit</target>
         <note>A title on the button that, when tapped, allows users to add another visit for the selected event or attraction. Translation should not be too long!</note>
       </trans-unit>
       <trans-unit id="Add to agenda">
         <source>Add to agenda</source>
+        <target>Add to agenda</target>
         <note>Title for button in detail view that, when tapped, adds the event to agenda</note>
-      </trans-unit>
-      <trans-unit id="Added">
-        <source>Added</source>
-        <note>A title on the button showing an event has been selected for attendance.</note>
       </trans-unit>
       <trans-unit id="Address">
         <source>Address</source>
+        <target>Address</target>
         <note>Title for cell in detail view that shows the event's address</note>
       </trans-unit>
       <trans-unit id="Afternoon">
         <source>Afternoon</source>
+        <target>Afternoon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Attraction">
         <source>Attraction</source>
+        <target>Attraction</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Attractions">
         <source>Attractions</source>
+        <target>Attractions</target>
         <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Browse events and places">
         <source>Browse events and places</source>
+        <target>Browse events and places</target>
         <note>Title for button that allows users to pick events &amp; places</note>
       </trans-unit>
       <trans-unit id="Call">
         <source>Call</source>
+        <target>Call</target>
         <note>Title for cell in detail view that shows the event's contact phone number</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+        <target>Cancel</target>
         <note>Title for Cancel button</note>
       </trans-unit>
       <trans-unit id="Check in">
         <source>Check in</source>
+        <target>Check in</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Check out">
         <source>Check out</source>
+        <target>Check out</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Closed">
         <source>Closed</source>
+        <target>Closed</target>
         <note>Indicating a place has closed</note>
       </trans-unit>
       <trans-unit id="Date">
         <source>Date</source>
+        <target>Date</target>
         <note>Title for a date (on which to visit an attraction)</note>
       </trans-unit>
       <trans-unit id="Discover Rio and the Games">
         <source>Discover Rio and the Games</source>
+        <target>Discover Rio and the Games</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
+        <target>Done</target>
         <note>Title for done button</note>
       </trans-unit>
       <trans-unit id="Download">
         <source>Download</source>
+        <target>Download</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="End time">
         <source>End time</source>
+        <target>End time</target>
         <note>Title for a end time (on which to visit an attraction)</note>
       </trans-unit>
       <trans-unit id="Evening">
         <source>Evening</source>
+        <target>Evening</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Female">
         <source>Female</source>
+        <target>Female</target>
         <note>Identifying the game is for female division</note>
       </trans-unit>
       <trans-unit id="Final">
         <source>Final</source>
+        <target>Final</target>
         <note>Indicating the game is final, with award ceremony afterwards</note>
       </trans-unit>
       <trans-unit id="Foursquare Tips">
         <source>Foursquare Tips</source>
+        <target>Foursquare Tips</target>
         <note>Title for cell that shows a list of Foursquare tips. Note, only Tips needs to be translated</note>
+      </trans-unit>
+      <trans-unit id="Game code">
+        <source>Game code</source>
+        <target>Game code</target>
+        <note>A code associated with a game, e.g., H001 is the code assigned to Hocky. This can be used in search.</note>
       </trans-unit>
       <trans-unit id="Games">
         <source>Games</source>
+        <target>Games</target>
         <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Gender">
         <source>Gender</source>
+        <target>Gender</target>
         <note>Title for cell in detail view that shows the gender, applicable for Oympic game type of events</note>
+      </trans-unit>
+      <trans-unit id="Get directions">
+        <source>Get directions</source>
+        <target>Get directions</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hotels">
         <source>Hotels</source>
+        <target>Hotels</target>
         <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Hours">
         <source>Hours</source>
+        <target>Hours</target>
         <note>Title for cell in detail view that shows the event's opening hours</note>
       </trans-unit>
       <trans-unit id="How it works">
         <source>How it works</source>
+        <target>How it works</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Leave at">
+        <source>Leave at</source>
+        <target>Leave at</target>
+        <note>E.g., 'Leave at', followed by the time you should leave.</note>
       </trans-unit>
       <trans-unit id="Locations">
         <source>Locations</source>
+        <target>Locations</target>
         <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Male">
         <source>Male</source>
+        <target>Male</target>
         <note>Identifying the game is for male division</note>
       </trans-unit>
       <trans-unit id="Max Date">
         <source>Max Date</source>
+        <target>Max Date</target>
         <note>Max date used to filter results</note>
       </trans-unit>
       <trans-unit id="Min Date">
         <source>Min Date</source>
+        <target>Min Date</target>
         <note>Min date used to filter results</note>
       </trans-unit>
       <trans-unit id="Mixed">
         <source>Mixed</source>
+        <target>Mixed</target>
         <note>Identifying the game contains both male and female divisions</note>
       </trans-unit>
       <trans-unit id="More tips from Foursquare">
         <source>More tips from Foursquare</source>
+        <target>More tips from Foursquare</target>
         <note>Title for button that takes users to view all tips on Foursquare</note>
       </trans-unit>
       <trans-unit id="Morning">
         <source>Morning</source>
+        <target>Morning</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="My agenda">
         <source>My agenda</source>
+        <target>My agenda</target>
         <note>Title for section in detail view that lists the dates/times to attend the event</note>
       </trans-unit>
       <trans-unit id="New to Rio de Janeiro? Don’t worry! Use RioGo to get to your events in time and without hassle.">
         <source>New to Rio de Janeiro? Don’t worry! Use RioGo to get to your events in time and without hassle.</source>
+        <target>New to Rio de Janeiro? Don’t worry! Use RioGo to get to your events in time and without hassle.</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in Maps">
+        <source>Open in Maps</source>
+        <target>Open in Maps</target>
+        <note>Open Apple Maps app to get direction</note>
+      </trans-unit>
+      <trans-unit id="Open in TripGo">
+        <source>Open in TripGo</source>
+        <target>Open in TripGo</target>
+        <note>Open TripGo to get direction</note>
       </trans-unit>
       <trans-unit id="Pick a date">
         <source>Pick a date</source>
+        <target>Pick a date</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pick a time">
         <source>Pick a time</source>
+        <target>Pick a time</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please add your holiday information and RioGo will take care of the rest">
         <source>Please add your holiday information and RioGo will take care of the rest</source>
+        <target>Please add your holiday information and RioGo will take care of the rest</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please pick a type for this location">
         <source>Please pick a type for this location</source>
+        <target>Please pick a type for this location</target>
         <note>Prompted when adding a location of unknown type to the agenda. Possible types would be Stay, Attraction, Restaurant, Place.</note>
       </trans-unit>
       <trans-unit id="Powered by ">
         <source>Powered by </source>
+        <target>Powered by </target>
         <note>E.g., Powered by tripAdvisor</note>
       </trans-unit>
       <trans-unit id="Powered by Foursquare">
         <source>Powered by Foursquare</source>
+        <target>Powered by Foursquare</target>
         <note>Note, only Powered by needs to be translated</note>
       </trans-unit>
       <trans-unit id="Read all reviews">
         <source>Read all reviews</source>
+        <target>Read all reviews</target>
         <note>Title for button that takes users to view all reviews on TripAdvisor</note>
       </trans-unit>
-      <trans-unit id="Read full reivew">
-        <source>Read full reivew</source>
+      <trans-unit id="Read full review">
+        <source>Read full review</source>
+        <target>Read full review</target>
         <note>Title for button that takes users to full review of the event</note>
       </trans-unit>
       <trans-unit id="Read full tip">
         <source>Read full tip</source>
+        <target>Read full tip</target>
         <note>Title for button that takes users to full tip of the event</note>
       </trans-unit>
       <trans-unit id="Remove">
         <source>Remove</source>
+        <target>Remove</target>
         <note>Title for button that allows users to remove an event from agenda</note>
       </trans-unit>
       <trans-unit id="Restaurant">
         <source>Restaurant</source>
+        <target>Restaurant</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restaurants">
         <source>Restaurants</source>
+        <target>Restaurants</target>
         <note>Search scope (category) name</note>
       </trans-unit>
       <trans-unit id="Schedules">
         <source>Schedules</source>
-        <note>Title for view that shows the list of events under one Games game title, e.g., men's heat 1, heat 2...etc</note>
+        <target>Schedules</target>
+        <note>Title for section that shows the list of sessions under one Game, e.g., men's heat 1, heat 2...etc</note>
       </trans-unit>
       <trans-unit id="Select time">
         <source>Select time</source>
+        <target>Select time</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sessions">
+        <source>Sessions</source>
+        <target>Sessions</target>
+        <note>Title for section that lists the sessions under one game, typically used for team sports, e.g., Football Australia vs. Brazil</note>
       </trans-unit>
       <trans-unit id="Set dates">
         <source>Set dates</source>
+        <target>Set dates</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Set times">
         <source>Set times</source>
+        <target>Set times</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Set your hotel location">
         <source>Set your hotel location</source>
+        <target>Set your hotel location</target>
         <note>Title for button that allows users to pick their hotels</note>
       </trans-unit>
       <trans-unit id="Set your stay location">
         <source>Set your stay location</source>
+        <target>Set your stay location</target>
         <note>Prompt for user to specify their hotel/stay location</note>
       </trans-unit>
       <trans-unit id="Show list">
         <source>Show list</source>
+        <target>Show list</target>
         <note>Title for button that switches the agenda to list mode</note>
       </trans-unit>
       <trans-unit id="Simply enter your hotel, events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.">
         <source>Simply enter your hotel, events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</source>
+        <target>Simply enter your hotel, events and other attractions you’d like to see. RioGo will create the perfect itinerary for you each day.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Start time">
         <source>Start time</source>
+        <target>Start time</target>
         <note>Title for a start time (on which to visit an attraction)</note>
       </trans-unit>
       <trans-unit id="Stay">
         <source>Stay</source>
+        <target>Stay</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Stay allows you to select check in and check out times while others allow you to pick an attendance date">
         <source>Stay allows you to select check in and check out times while others allow you to pick an attendance date</source>
+        <target>Stay allows you to select check in and check out times while others allow you to pick an attendance date</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There is already a stay with the specified period. Please modify your check-in or check-out dates and try again.">
+        <source>There is already a stay with the specified period. Please modify your check-in or check-out dates and try again.</source>
+        <target>There is already a stay with the specified period. Please modify your check-in or check-out dates and try again.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This event has already been added">
         <source>This event has already been added</source>
+        <target>This event has already been added</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Time">
         <source>Time</source>
+        <target>Time</target>
         <note>Title for cell in detail view that shows the event's time, applicable for Oympic game type of events</note>
+      </trans-unit>
+      <trans-unit id="Trip is taking longer than expected\n">
+        <source>Trip is taking longer than expected
+</source>
+        <target>Trip is taking longer than expected
+</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TripAdvisor® Traveler Reviews">
         <source>TripAdvisor® Traveler Reviews</source>
+        <target>TripAdvisor® Traveler Reviews</target>
         <note>Title for cell that shows a list of TripAdvisor reviews. Note, only Traveler Reviews needs to be translated</note>
       </trans-unit>
       <trans-unit id="TripGo is recommended for optimal experience. You can install it from App Store.">
         <source>TripGo is recommended for optimal experience. You can install it from App Store.</source>
+        <target>TripGo is recommended for optimal experience. You can install it from App Store.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TripGo not found">
         <source>TripGo not found</source>
+        <target>TripGo not found</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View agenda">
         <source>View agenda</source>
+        <target>View agenda</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View trips">
         <source>View trips</source>
+        <target>View trips</target>
         <note>Title for button that allows users to either view trips in browser or in TripGo</note>
+      </trans-unit>
+      <trans-unit id="Warning">
+        <source>Warning</source>
+        <target>Warning</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Website">
         <source>Website</source>
+        <target>Website</target>
         <note>Title for cell in detail view that shows the event's contact website</note>
+      </trans-unit>
+      <trans-unit id="You are about to remove the last session from the event. This will remove the event from the agenda. Do you wish to proceed?">
+        <source>You are about to remove the last session from the event. This will remove the event from the agenda. Do you wish to proceed?</source>
+        <target>You are about to remove the last session from the event. This will remove the event from the agenda. Do you wish to proceed?</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
-  </xliff>
+</xliff>
