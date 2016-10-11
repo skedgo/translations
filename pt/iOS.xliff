@@ -756,7 +756,7 @@
         <note>Minutes format (used for transfer times)</note>
         <target xml:lang="pt" state="translated">%.0f minutos</target>
         <alt-trans>
-          <target xml:lang="pt">%.minutos</target>
+          <target xml:lang="pt">%.0f minutos</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="Minutes before trip">
