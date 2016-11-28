@@ -821,8 +821,8 @@
    Title for setting to minimise a transport mode.</note>
       </trans-unit>
       <trans-unit id="Minutes">
-        <source>Minutes</source>
-        <target>Minutes</target>
+        <source>%.0f minutes</source>
+        <target>%.0f minutes</target>
         <note>Minutes format (used for transfer times)</note>
       </trans-unit>
       <trans-unit id="Minutes before trip">
