@@ -258,6 +258,10 @@
 			<source>Events from those calendars will be used in planning your day</source>
 			<target>Events from those calendars will be used in planning your day</target>
 		</trans-unit>
+		<trans-unit id="minute">
+           <source>1 minute</source>
+           <target>1 minute</target>
+        </trans-unit>
 		<trans-unit id="navigate_current_location">
 			<source>Navigate from current location</source>
 			<target>Navigate from current location</target>
