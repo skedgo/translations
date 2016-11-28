@@ -76,10 +76,6 @@
         <source>The event related to the trip will be excluded. It will still be shown</source>
         <target xml:lang="nl" state="translated">De activiteit gerelateerd aan deze reis worden uitgesloten. Het zal nog steeds worden getoond</target>
       </trans-unit>
-      <trans-unit id="cancel">
-        <source>Cancel</source>
-        <target xml:lang="nl" state="translated">Annuleer</target>
-      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="nl" state="translated">Boeken</target>
@@ -128,13 +124,6 @@
         <source>Delete this event</source>
         <target xml:lang="nl" state="translated">Verwijder deze activiteit</target>
       </trans-unit>
-      <trans-unit id="delete">
-        <source>Delete</source>
-        <target xml:lang="nl" state="translated">Verwijderen</target>
-        <alt-trans>
-          <target xml:lang="nl">Verwijder</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="nl" state="translated">bestemming</target>
@@ -158,14 +147,6 @@
       <trans-unit id="edit_event">
         <source>Edit event</source>
         <target xml:lang="nl" state="translated">Wijzig activiteit</target>
-      </trans-unit>
-      <trans-unit id="done">
-        <source>Done</source>
-        <target xml:lang="nl" state="translated">Klaar</target>
-      </trans-unit>
-      <trans-unit id="dropnewpin">
-        <source>Drop new pin</source>
-        <target xml:lang="nl" state="translated">Nieuwe pin neerzetten</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>

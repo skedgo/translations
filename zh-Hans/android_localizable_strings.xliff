@@ -79,10 +79,6 @@
         <source>The event related to the trip will be excluded. It will still be shown</source>
         <target xml:lang="zh-CN" state="translated">与该行程有关的事件将被移除。但它仍会显示</target>
       </trans-unit>
-      <trans-unit id="cancel">
-        <source>Cancel</source>
-        <target xml:lang="zh-CN" state="translated">取消</target>
-      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="zh-CN" state="translated">预订</target>
@@ -131,10 +127,6 @@
         <source>Delete this event</source>
         <target xml:lang="zh-CN" state="translated">删除此事件</target>
       </trans-unit>
-      <trans-unit id="delete">
-        <source>Delete</source>
-        <target xml:lang="zh-CN" state="translated">刪除</target>
-      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="zh-CN" state="translated">目的地</target>
@@ -158,14 +150,6 @@
       <trans-unit id="edit_event">
         <source>Edit event</source>
         <target xml:lang="zh-CN" state="translated">编辑事件</target>
-      </trans-unit>
-      <trans-unit id="done">
-        <source>Done</source>
-        <target xml:lang="zh-CN" state="translated">完成</target>
-      </trans-unit>
-      <trans-unit id="dropnewpin">
-        <source>Drop new pin</source>
-        <target xml:lang="zh-CN" state="translated">放置新的大头针</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>

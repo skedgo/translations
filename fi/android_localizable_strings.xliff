@@ -100,10 +100,6 @@
         <source>The event related to the trip will be excluded. It will still be shown</source>
         <target xml:lang="fi" state="translated">Valittuun reittiin liittyvä tapahtuma poistetaan. Se jää kuitenkin näkyviin.</target>
       </trans-unit>
-      <trans-unit id="cancel">
-        <source>Cancel</source>
-        <target xml:lang="fi" state="translated">Peruuta</target>
-      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="fi" state="translated">Varaaminen</target>
@@ -170,10 +166,6 @@
           <target xml:lang="fi">Poista tapahtuma</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="delete">
-        <source>Delete</source>
-        <target xml:lang="fi" state="translated">Poista</target>
-      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="fi" state="translated">määränpää</target>
@@ -206,14 +198,6 @@
       <trans-unit id="edit_event">
         <source>Edit event</source>
         <target xml:lang="fi" state="translated">Muokkaa tapahtumaa</target>
-      </trans-unit>
-      <trans-unit id="done">
-        <source>Done</source>
-        <target xml:lang="fi" state="translated">Valmis</target>
-      </trans-unit>
-      <trans-unit id="dropnewpin">
-        <source>Drop new pin</source>
-        <target xml:lang="fi" state="translated">Sijoita uusi piste</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
