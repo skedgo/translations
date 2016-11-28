@@ -76,6 +76,10 @@
         <source>The event related to the trip will be excluded. It will still be shown</source>
         <target xml:lang="nl" state="translated">De activiteit gerelateerd aan deze reis worden uitgesloten. Het zal nog steeds worden getoond</target>
       </trans-unit>
+      <trans-unit id="cancel">
+        <source>Cancel</source>
+        <target xml:lang="nl" state="translated">Annuleer</target>
+      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="nl" state="translated">Boeken</target>
@@ -124,6 +128,13 @@
         <source>Delete this event</source>
         <target xml:lang="nl" state="translated">Verwijder deze activiteit</target>
       </trans-unit>
+      <trans-unit id="delete">
+        <source>Delete</source>
+        <target xml:lang="nl" state="translated">Verwijderen</target>
+        <alt-trans>
+          <target xml:lang="nl">Verwijder</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="nl" state="translated">bestemming</target>
@@ -147,6 +158,14 @@
       <trans-unit id="edit_event">
         <source>Edit event</source>
         <target xml:lang="nl" state="translated">Wijzig activiteit</target>
+      </trans-unit>
+      <trans-unit id="done">
+        <source>Done</source>
+        <target xml:lang="nl" state="translated">Klaar</target>
+      </trans-unit>
+      <trans-unit id="dropnewpin">
+        <source>Drop new pin</source>
+        <target xml:lang="nl" state="translated">Nieuwe pin neerzetten</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
@@ -691,7 +710,10 @@
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to </source>
-        <target xml:lang="nl" state="translated">Reis naar </target>
+        <target xml:lang="nl" state="translated">Trip to %s </target>
+        <alt-trans>
+          <target xml:lang="nl">Reis naar </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>
@@ -699,11 +721,11 @@
       </trans-unit>
       <trans-unit id="transport_selector_header">
         <source>Include in the route results</source>
-        <target xml:lang="nl" state="needs-translation">Include in the route results</target>
+        <target xml:lang="nl" state="translated">Opnemen in de routes</target>
       </trans-unit>
       <trans-unit id="walkthrough_4">
         <source>Search routes directly right from Google search bar without opening TripGo.</source>
-        <target xml:lang="nl" state="needs-translation">Search routes directly right from Google search bar without opening TripGo.</target>
+        <target xml:lang="nl" state="translated">Zoek routes direct vanaf de Google zoekbalk zonder TripGo te openen.</target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
@@ -711,15 +733,15 @@
       </trans-unit>
       <trans-unit id="walkthrough_2">
         <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-        <target xml:lang="nl" state="needs-translation">Never run late. Agenda plans ahead for you and let's you know when you need to leave.</target>
+        <target xml:lang="nl" state="translated">Kom nooit meer te laat. De agenda plant vooruit en laat u weten wanneer het tijd is om te vertrekken.</target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
         <source>For those without an agenda, save favorite places.</source>
-        <target xml:lang="nl" state="needs-translation">For those without an agenda, save favorite places.</target>
+        <target xml:lang="nl" state="translated">Voor diegenen zonder een agenda, u kunt ook favoriete locaties opslaan.</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
-        <target xml:lang="nl" state="needs-translation">Your trip is about to start</target>
+        <target xml:lang="nl" state="translated">Uw trip staat op het moment om te beginnen</target>
       </trans-unit>
       <trans-unit id="you_are_here">
         <source>You are here</source>

@@ -1,737 +1,735 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="input strategy" source-language="en" target-language="pt-PT">
+  <file datatype="plaintext" original="input strategy" source-language="en" target-language="ja">
     <body>
       <trans-unit id="add">
         <source>Add</source>
-        <target xml:lang="pt-PT" state="translated">Adicionar</target>
+        <target xml:lang="ja" state="translated">追加</target>
       </trans-unit>
       <trans-unit id="add_a_routine">
         <source>Add a routine</source>
-        <target xml:lang="pt-PT" state="translated">Adicione uma rotina</target>
+        <target xml:lang="ja" state="translated">課程の追加</target>
       </trans-unit>
       <trans-unit id="add_an_event">
         <source>Add an event</source>
-        <target xml:lang="pt-PT" state="translated">Adicione um evento</target>
+        <target xml:lang="ja" state="translated">イベントを追加します。</target>
       </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
-        <target xml:lang="pt-PT" state="translated">Adicione localização</target>
+        <target xml:lang="ja" state="translated">場所を追加します。</target>
       </trans-unit>
       <trans-unit id="add_new_location">
         <source>Add new location</source>
-        <target xml:lang="pt-PT" state="translated">Adicione nova localização</target>
+        <target xml:lang="ja" state="translated">新しい場所を追加します。</target>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
-        <target xml:lang="pt-PT" state="translated">Adicione em contatos</target>
+        <target xml:lang="ja" state="translated">連絡先に追加します。</target>
       </trans-unit>
       <trans-unit id="add_to_home_screen">
         <source>Add to Home screen</source>
-        <target xml:lang="pt-PT" state="translated">Adicione a tela inicial</target>
+        <target xml:lang="ja" state="translated">ホーム画面に追加します。</target>
       </trans-unit>
       <trans-unit id="address">
         <source>Address</source>
-        <target xml:lang="pt-PT" state="translated">Endereço</target>
+        <target xml:lang="ja" state="translated">住所</target>
       </trans-unit>
       <trans-unit id="agenda_set_or_delete">
         <source>Tap here to set address or long-press to delete</source>
-        <target xml:lang="pt-PT" state="translated">Toqui aqui para configurar endereço ou pressione para deletar</target>
+        <target xml:lang="ja" state="translated">ここをタップすると、アドレスを設定または削除するには長押し</target>
       </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target xml:lang="pt-PT" state="translated">Veja a sua agenda diária e favoritos nas abas abaixo</target>
+        <target xml:lang="ja" state="translated">下のタブで日程表とお気に入りを表示します。</target>
       </trans-unit>
       <trans-unit id="all_alerts">
         <source>All Alerts</source>
-        <target xml:lang="pt-PT" state="translated">AlTodos os alertas</target>
+        <target xml:lang="ja" state="translated">すべてのアラート</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target xml:lang="pt-PT" state="translated">Todos os seus calendários estão invisíveis, porfavor ligue-os no calendário nativo ou configurações da conta</target>
+        <target xml:lang="ja" state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or account settings</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target xml:lang="pt-PT" state="translated">Ocorreu um inexperado erro na rede. Porfavor tente novamente.</target>
+        <target xml:lang="ja" state="translated">予期しないネットワーク エラーが発生しました。再試行してください。</target>
       </trans-unit>
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
-        <target xml:lang="pt-PT" state="translated">Approximadamente %s distante</target>
+        <target xml:lang="ja" state="needs-translation">Approximately %s away</target>
       </trans-unit>
       <trans-unit id="arrivaltimeindication">
         <source>" (arrive "</source>
-        <target xml:lang="pt-PT" state="translated">" (chegada "</target>
+        <target xml:lang="ja" state="needs-translation">" (arrive "</target>
       </trans-unit>
       <trans-unit id="body_exclude_this_event_from_route">
         <source>This event will no longer have trips to or from it. The event will still be shown</source>
-        <target xml:lang="pt-PT" state="translated">Esse evento não possuirá mais trajetos de ida ou vinda. O evento continuará a mostra</target>
+        <target xml:lang="ja" state="translated">この旅行よりイベントが長くなります。イベントは表示されたままです。</target>
       </trans-unit>
       <trans-unit id="body_exclude_related_event_from_route">
         <source>The event related to the trip will be excluded. It will still be shown</source>
-        <target xml:lang="pt-PT" state="translated">O evento relacionado ao trajeto sera excluído. Ele continuará a mostra</target>
+        <target xml:lang="ja" state="translated">旅行に関連するイベントは除外されます。このイベントはまだ表示されます。</target>
       </trans-unit>
       <trans-unit id="cancel">
         <source>Cancel</source>
-        <target xml:lang="pt-PT" state="translated">Cancelada</target>
+        <target xml:lang="ja" state="translated">取り消し</target>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
-        <target xml:lang="pt-PT" state="translated">Reserva</target>
+        <target xml:lang="ja" state="translated">予約</target>
       </trans-unit>
       <trans-unit id="cannot_find_that_location">
         <source>Address not found</source>
-        <target xml:lang="pt-PT" state="translated">Endereço não encontrado</target>
+        <target xml:lang="ja" state="translated">住所が見つかりません</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
-        <target xml:lang="pt-PT" state="translated">Não é possivel adicionar lembrete para trajetos passados</target>
+        <target xml:lang="ja" state="translated">過去の旅行のためのリマインダーを追加できません。</target>
       </trans-unit>
       <trans-unit id="cant_call_error">
         <source>Error placing call</source>
-        <target xml:lang="pt-PT" state="translated">Erro na colocação da chamada</target>
+        <target xml:lang="ja" state="translated">呼び出しエラー</target>
       </trans-unit>
       <trans-unit id="cannot_remove_shortcut">
         <source>Cannot remove shortcut</source>
-        <target xml:lang="pt-PT" state="translated">Não é possivel remover atalhos</target>
+        <target xml:lang="ja" state="translated">ショートカットを削除することはできません。</target>
       </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
-        <target xml:lang="pt-PT" state="translated">Coordenadas: %s</target>
+        <target xml:lang="ja" state="translated">座標: %s</target>
       </trans-unit>
       <trans-unit id="choose_an_alternative">
         <source>Choose an Alternative</source>
-        <target xml:lang="pt-PT" state="translated">Escolha uma alternativa</target>
+        <target xml:lang="ja" state="translated">別の方法を選択します。</target>
       </trans-unit>
       <trans-unit id="del_all_events">
         <source>All events</source>
-        <target xml:lang="pt-PT" state="translated">Todos os eventos</target>
+        <target xml:lang="ja" state="translated">すべてのイベント</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
-        <target xml:lang="pt-PT" state="translated">Não foi possivel achar a sua localização atual</target>
+        <target xml:lang="ja" state="translated">あなたの現在の場所を見つけることができませんでした。</target>
       </trans-unit>
       <trans-unit id="del_this_and_future_events">
         <source>This and future events</source>
-        <target xml:lang="pt-PT" state="translated">Este e eventos futuros</target>
+        <target xml:lang="ja" state="needs-translation">This and future events</target>
       </trans-unit>
       <trans-unit id="del_only_this_event">
         <source>Only this event</source>
-        <target xml:lang="pt-PT" state="translated">Somente esse evento</target>
+        <target xml:lang="ja" state="translated">このイベントのみ</target>
       </trans-unit>
       <trans-unit id="delete_event">
         <source>Delete this event</source>
-        <target xml:lang="pt-PT" state="translated">Apague esse evento</target>
+        <target xml:lang="ja" state="translated">このイベントを削除します。</target>
       </trans-unit>
       <trans-unit id="delete">
         <source>Delete</source>
-        <target xml:lang="pt-PT" state="translated">Apagar</target>
+        <target xml:lang="ja" state="translated">削除</target>
       </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
-        <target xml:lang="pt-PT" state="translated">destino</target>
+        <target xml:lang="ja" state="translated">目的地</target>
       </trans-unit>
       <trans-unit id="did_you_mean">
         <source>Did you mean</source>
-        <target xml:lang="pt-PT" state="translated">Você quis dizer</target>
+        <target xml:lang="ja" state="translated">の意味ですか？</target>
       </trans-unit>
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
-        <target xml:lang="pt-PT" state="translated">Apague esse veículo</target>
+        <target xml:lang="ja" state="translated">この車両を削除します。</target>
       </trans-unit>
       <trans-unit id="departuretimeindication">
         <source>" (depart "</source>
-        <target xml:lang="pt-PT" state="translated">" (saída "</target>
+        <target xml:lang="ja" state="translated">「(出発」</target>
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
-        <target xml:lang="pt-PT" state="translated">Edite</target>
+        <target xml:lang="ja" state="translated">編集</target>
       </trans-unit>
       <trans-unit id="edit_event">
         <source>Edit event</source>
-        <target xml:lang="pt-PT" state="translated">Edite evento</target>
+        <target xml:lang="ja" state="translated">イベントを編集します。</target>
       </trans-unit>
       <trans-unit id="done">
         <source>Done</source>
-        <target xml:lang="pt-PT" state="translated">Pronto</target>
+        <target xml:lang="ja" state="translated">済み</target>
       </trans-unit>
       <trans-unit id="dropnewpin">
         <source>Drop new pin</source>
-        <target xml:lang="pt-PT" state="translated">Baixar novo pin</target>
+        <target xml:lang="ja" state="translated">新しいピンをドロップします。</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
-        <target xml:lang="pt-PT" state="translated">Todos os seus calendários estão desabilitados em TripGo, Porfavor abilite-os em configurações</target>
+        <target xml:lang="ja" state="translated">TripGo であなたのカレンダーをすべて無効にしてください。設定 セクションでそれらを有効にします。</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="pt-PT" state="translated">Nosso Acordo de Licença do Utilizador Final mudou. Voce precisa concordar com o acordo bantes de continuar usando ess aplicativo.</target>
+        <target xml:lang="ja" state="translated">使用許諾契約書が変更されました。このアプリの使用を続行する前に、それに同意する必要があります。</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
-        <target xml:lang="pt-PT" state="translated">Edite favorito</target>
+        <target xml:lang="ja" state="translated">お気に入りを編集します。</target>
       </trans-unit>
       <trans-unit id="empty_event_not_saved">
         <source>Empty event is not saved</source>
-        <target xml:lang="pt-PT" state="translated">Evento vazio não foi salvo</target>
+        <target xml:lang="ja" state="translated">空のイベントは保存されません。</target>
       </trans-unit>
       <trans-unit id="event_must_have_location">
         <source>A location must be set</source>
-        <target xml:lang="pt-PT" state="translated">Uma localização precisa ser definida</target>
+        <target xml:lang="ja" state="translated">場所を設定する必要があります。</target>
       </trans-unit>
       <trans-unit id="event_must_have_title">
         <source>Event must have a title</source>
-        <target xml:lang="pt-PT" state="translated">Evento deve ter um título</target>
+        <target xml:lang="ja" state="translated">イベント タイトルが必要です</target>
       </trans-unit>
       <trans-unit id="event_detail_title">
         <source>Event details</source>
-        <target xml:lang="pt-PT" state="translated">Dados do evento</target>
+        <target xml:lang="ja" state="translated">イベントの詳細</target>
       </trans-unit>
       <trans-unit id="event_excluded">
         <source>Event excluded</source>
-        <target xml:lang="pt-PT" state="translated">Evento excluído</target>
+        <target xml:lang="ja" state="translated">除外イベント</target>
       </trans-unit>
       <trans-unit id="exclude_from_routing_brief">
         <source>Exclude from agenda planning</source>
-        <target xml:lang="pt-PT" state="translated">Excluir do planejamento da agenda</target>
+        <target xml:lang="ja" state="translated">日程を計画から除外します。</target>
       </trans-unit>
       <trans-unit id="exclude_from_routing">
         <source>Exclude this event from agenda planning</source>
-        <target xml:lang="pt-PT" state="translated">Excluir esse evento do planejamento da agenda</target>
+        <target xml:lang="ja" state="translated">計画予定表からこのイベントを除外します。</target>
       </trans-unit>
       <trans-unit id="exclude_event">
         <source>Exclude event</source>
-        <target xml:lang="pt-PT" state="translated">Excluir evento</target>
+        <target xml:lang="ja" state="translated">イベントを除外します。</target>
       </trans-unit>
       <trans-unit id="event_update_warning">
         <source>Event updated, it may take a while to see the change</source>
-        <target xml:lang="pt-PT" state="translated">Evento atualizado, talvez demore um pouco para ver a alteração</target>
+        <target xml:lang="ja" state="translated">イベント更新の為しばらく時間がかかることがあります。</target>
       </trans-unit>
       <trans-unit id="favourite_saved">
         <source>Favorite saved</source>
-        <target xml:lang="pt-PT" state="translated">Favoritos salvos</target>
+        <target xml:lang="ja" state="translated">お気に入りの保存</target>
       </trans-unit>
       <trans-unit id="favourite_location">
         <source>Favorite Location</source>
-        <target xml:lang="pt-PT" state="translated">Localização favorita</target>
+        <target xml:lang="ja" state="translated">お気に入りの場所</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
-        <target xml:lang="pt-PT" state="translated">Falha em resolver localização</target>
+        <target xml:lang="ja" state="translated">場所を解決できませんでした。</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link">
         <source>Failed to resolve link</source>
-        <target xml:lang="pt-PT" state="translated">Falha em resolver o link</target>
+        <target xml:lang="ja" state="translated">リンクを解決できませんでした。</target>
       </trans-unit>
       <trans-unit id="get_off">
         <source>Get Off</source>
-        <target xml:lang="pt-PT" state="translated">Descer</target>
+        <target xml:lang="ja" state="translated">降りてください</target>
       </trans-unit>
       <trans-unit id="get_google_play_services">
         <source>Get Google Play Services</source>
-        <target xml:lang="pt-PT" state="translated">Obter serviços de Google Play</target>
+        <target xml:lang="ja" state="translated">Google Play サービスを取得</target>
       </trans-unit>
       <trans-unit id="first">
         <source>First: </source>
-        <target xml:lang="pt-PT" state="translated">Primeiro: </target>
+        <target xml:lang="ja" state="translated">最初に: </target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
-        <target xml:lang="pt-PT" state="translated">Filtrar por nome de serviço, número de paradas</target>
+        <target xml:lang="ja" state="translated">サービス名、番号でフィルターまたは停止</target>
       </trans-unit>
       <trans-unit id="go_to_date">
         <source>Go to date</source>
-        <target xml:lang="pt-PT" state="translated">Vá para a data</target>
+        <target xml:lang="ja" state="translated">日付へ移動します。</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
-        <target xml:lang="pt-PT" state="translated">Ir aqui</target>
+        <target xml:lang="ja" state="translated">ここに行く</target>
       </trans-unit>
       <trans-unit id="get_uber">
         <source>Get Uber</source>
-        <target xml:lang="pt-PT" state="translated">Obter Uber</target>
+        <target xml:lang="ja" state="translated">タクシーに乗る</target>
       </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
-        <target xml:lang="pt-PT" state="translated">Subir</target>
+        <target xml:lang="ja" state="translated">乗車
+</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target xml:lang="pt-PT" state="translated">Informação sobre concessões sujeito a disponibilidade</target>
+        <target xml:lang="ja" state="translated">値引価格については、空室状況です。</target>
       </trans-unit>
       <trans-unit id="invalid_transfer_time">
         <source>Invalid time, revert to last used value.</source>
-        <target xml:lang="pt-PT" state="translated">Horário inválido, reverter para o último valor.</target>
+        <target xml:lang="ja" state="translated">無効な時間は、最後に使用した値に戻ります。</target>
       </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
-        <target xml:lang="pt-PT" state="translated">Está na hora de ir!</target>
+        <target xml:lang="ja" state="translated">出発時間だ!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time">
         <source>Leave now to make it on time</source>
-        <target xml:lang="pt-PT" state="translated">Saia agora para chegar na hora certa</target>
+        <target xml:lang="ja" state="needs-translation">Leave now to make it on time</target>
       </trans-unit>
       <trans-unit id="lets_start">
         <source>Let's start</source>
-        <target xml:lang="pt-PT" state="translated">Vamos começar</target>
+        <target xml:lang="ja" state="translated">さあ、始めましょう</target>
       </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
-        <target xml:lang="pt-PT" state="translated">Vá para agora</target>
+        <target xml:lang="ja" state="translated">今から行く</target>
       </trans-unit>
       <trans-unit id="go_to_today">
         <source>Go to today</source>
-        <target xml:lang="pt-PT" state="translated">Vá para hoje</target>
+        <target xml:lang="ja" state="translated">今日に移動</target>
       </trans-unit>
       <trans-unit id="include_cal_act">
         <source>Include checked calendars</source>
-        <target xml:lang="pt-PT" state="translated">Incluir calendários checados</target>
+        <target xml:lang="ja" state="translated">チェック カレンダーを含める</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target xml:lang="pt-PT" state="translated">Eventos dos calendários serão usados para voce planejar o seu dia</target>
+        <target xml:lang="ja" state="needs-translation">Events from those calendars will be used in planning your day</target>
       </trans-unit>
       <trans-unit id="minute">
         <source>1 minute</source>
-        <target xml:lang="pt-PT" state="translated">1 minuto</target>
+        <target xml:lang="ja" state="translated">1 分</target>
       </trans-unit>
       <trans-unit id="navigate_current_location">
         <source>Navigate from current location</source>
-        <target xml:lang="pt-PT" state="translated">Navegue da localização atual</target>
+        <target xml:lang="ja" state="translated">現在の場所から移動します。</target>
       </trans-unit>
       <trans-unit id="navigate_from">
         <source>Navigate from %1$s</source>
-        <target xml:lang="pt-PT" state="translated">Navegue de %1$s</target>
+        <target xml:lang="ja" state="translated">%1$s から移動します。</target>
       </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
-        <target xml:lang="pt-PT" state="translated">Veículo novo</target>
+        <target xml:lang="ja" state="translated">新しい車両</target>
       </trans-unit>
       <trans-unit id="location_name">
         <source>Location Name</source>
-        <target xml:lang="pt-PT" state="translated">Nome da localização</target>
+        <target xml:lang="ja" state="translated">場所の名前</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
-        <target xml:lang="pt-PT" state="translated">Localização não encontrada</target>
+        <target xml:lang="ja" state="translated">場所が見つかりません</target>
       </trans-unit>
       <trans-unit id="location_save_by_gps">
         <source>"Cannot find address, location will be saved by GPS coordinates"</source>
-        <target xml:lang="pt-PT" state="translated">"Não consegue achar o endereço, localização será salva pelas coordenadas do GPS"</target>
+        <target xml:lang="ja" state="translated">「住所が見つかりません。場所は GPS の座標によって保存されます」</target>
       </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
-        <target xml:lang="pt-PT" state="translated">Localização selecionada</target>
+        <target xml:lang="ja" state="translated">選択した場所</target>
       </trans-unit>
       <trans-unit id="no_results_found">
         <source>No Results Found</source>
-        <target xml:lang="pt-PT" state="translated">Resultado não encontrado</target>
+        <target xml:lang="ja" state="translated">結果は見つかりませんでした。</target>
       </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
-        <target xml:lang="pt-PT" state="translated">Avaliações não recebidas</target>
+        <target xml:lang="ja" state="needs-translation">No ratings received</target>
       </trans-unit>
       <trans-unit id="one_time_event">
         <source>Don't repeat</source>
-        <target xml:lang="pt-PT" state="translated">Não repita</target>
+        <target xml:lang="ja" state="translated">繰り返さない</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
-        <target xml:lang="pt-PT" state="translated">Sem serviço disponível</target>
+        <target xml:lang="ja" state="translated">サービスが利用できません。</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved">
         <source>No favorite locations saved</source>
-        <target xml:lang="pt-PT" state="translated">Sem localizações favoritas salvas</target>
+        <target xml:lang="ja" state="translated">お気に入りの保存場所がありません。</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target xml:lang="pt-PT" state="translated">Aconteceu um erro e nos foi reportado. Porfavor tente de novo</target>
+        <target xml:lang="ja" state="translated">エラーが発生しました。このエラーは私たちに報告されました。もう一度やり直してください。</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_title">
         <source>No Google Play Services!</source>
-        <target xml:lang="pt-PT" state="translated">Sem serviços de Google Play!</target>
+        <target xml:lang="ja" state="translated">Google Play サービスはありません!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
         <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
-        <target xml:lang="pt-PT" state="translated">este aplicativo requer a instalação de serviços de Google Play.\n\nPorfavor baixe isto e continue usando o applicativo</target>
+        <target xml:lang="ja" state="translated">このアプリで Google Playサービスを再生するのに必要な installed.\n\nPlease をダウンロードしてアプリを続行してください</target>
       </trans-unit>
       <trans-unit id="priority_convenience_subtext">
         <source>Hassle of the trip</source>
-        <target xml:lang="pt-PT" state="translated">Incômodo do trajeto</target>
+        <target xml:lang="ja" state="translated">旅の苦心</target>
       </trans-unit>
       <trans-unit id="priority_budget_subtext">
         <source>Trip cost</source>
-        <target xml:lang="pt-PT" state="translated">Custo do trajeto</target>
+        <target xml:lang="ja" state="translated">旅行の費用</target>
       </trans-unit>
       <trans-unit id="priority_time_subtext">
         <source>Trip duration</source>
-        <target xml:lang="pt-PT" state="translated">Duração do trajeto</target>
+        <target xml:lang="ja" state="translated">旅行期間</target>
       </trans-unit>
       <trans-unit id="priority_environment_subtext">
         <source>Impact of the trip</source>
-        <target xml:lang="pt-PT" state="translated">Impacto do trajeto</target>
+        <target xml:lang="ja" state="translated">旅行の影響</target>
       </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
-        <target xml:lang="pt-PT" state="translated">Origem</target>
+        <target xml:lang="ja" state="translated">始まり</target>
       </trans-unit>
       <trans-unit id="open_uber">
         <source>Open Uber</source>
-        <target xml:lang="pt-PT" state="translated">Abrir Uber</target>
+        <target xml:lang="ja" state="translated"> タクシーを開く</target>
       </trans-unit>
       <trans-unit id="page_between_upcoming_services">
         <source>Page between upcoming services</source>
-        <target xml:lang="pt-PT" state="translated">Página entre próximos serviços</target>
+        <target xml:lang="ja" state="needs-translation">Page between upcoming services</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target xml:lang="pt-PT" state="translated">Desculpe, essa localização está fora do alcance de TripGo!</target>
+        <target xml:lang="ja" state="translated">申し訳ありませんが、その場所は、TripGo の範囲外です!</target>
       </trans-unit>
       <trans-unit id="repeat_end_date_in_past">
         <source>Repetition end date is in the past</source>
-        <target xml:lang="pt-PT" state="translated">Repetição da data final está no passado</target>
+        <target xml:lang="ja" state="translated">繰り返しの終了日は、過去の日付</target>
       </trans-unit>
       <trans-unit id="repeat_ends_on">
         <source>Repeat does end on</source>
-        <target xml:lang="pt-PT" state="translated">Repetir final em</target>
+        <target xml:lang="ja" state="needs-translation">Repeat does end on</target>
       </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
-        <target xml:lang="pt-PT" state="translated">Remover de favoritos</target>
+        <target xml:lang="ja" state="translated">お気に入りから削除します。</target>
       </trans-unit>
       <trans-unit id="remove_shortcut">
         <source>Remove shortcut</source>
-        <target xml:lang="pt-PT" state="translated">Remover atalho</target>
+        <target xml:lang="ja" state="translated">ショートカットを削除します。</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
-        <target xml:lang="pt-PT" state="translated">Atualização</target>
+        <target xml:lang="ja" state="translated">更新</target>
       </trans-unit>
       <trans-unit id="public_transport">
         <source>Public Transport</source>
-        <target xml:lang="pt-PT" state="translated">Transporte público</target>
+        <target xml:lang="ja" state="translated">公共交通機関</target>
       </trans-unit>
       <trans-unit id="rate">
         <source>Rate</source>
-        <target xml:lang="pt-PT" state="translated">Avaliar</target>
+        <target xml:lang="ja" state="translated">レート</target>
       </trans-unit>
       <trans-unit id="service_placeholder">
         <source>Service</source>
-        <target xml:lang="pt-PT" state="translated">Serviço</target>
+        <target xml:lang="ja" state="translated">サービス</target>
       </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
-        <target xml:lang="pt-PT" state="translated">Definir hora de término</target>
+        <target xml:lang="ja" state="translated">終了時刻を設定</target>
       </trans-unit>
       <trans-unit id="search_instantly">
         <source>Search instantly</source>
-        <target xml:lang="pt-PT" state="translated">Procure instantaneamente</target>
+        <target xml:lang="ja" state="translated">瞬時に検索します。</target>
       </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
-        <target xml:lang="pt-PT" state="translated">Selete calendário</target>
+        <target xml:lang="ja" state="translated">カレンダーを選択します。</target>
       </trans-unit>
       <trans-unit id="routes_updated">
         <source>Routes updated</source>
-        <target xml:lang="pt-PT" state="translated">Rotinas atualizadas</target>
+        <target xml:lang="ja" state="translated">ルート更新</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
-        <target xml:lang="pt-PT" state="translated">Salvar</target>
+        <target xml:lang="ja" state="translated">保存</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target xml:lang="pt-PT" state="translated">Rotinas são postagens dos seus movimentos diários, Mas eles não são eventos que voce quer no seu calendário (ex.: trabalho). Eles são importantes para a sua agenda para que voce chegue no lugar certo na hora certa</target>
+        <target xml:lang="ja" state="needs-translation">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
         <source>Anonymous Data Tracking</source>
-        <target xml:lang="pt-PT" state="translated">Dados de ratreamento anônimo</target>
+        <target xml:lang="ja" state="translated">匿名データの追跡</target>
       </trans-unit>
       <trans-unit id="settings_category_searching">
         <source>Searching</source>
-        <target xml:lang="pt-PT" state="translated">Procurando</target>
+        <target xml:lang="ja" state="translated">検索</target>
       </trans-unit>
       <trans-unit id="settings_category_results">
         <source>Trip Results</source>
-        <target xml:lang="pt-PT" state="translated">Resultados de trajeto</target>
+        <target xml:lang="ja" state="translated">旅行の結果</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
-        <target xml:lang="pt-PT" state="translated">Notificações</target>
+        <target xml:lang="ja" state="translated">通知</target>
       </trans-unit>
       <trans-unit id="settings_category_about">
         <source>About</source>
-        <target xml:lang="pt-PT" state="translated">Sobre</target>
+        <target xml:lang="ja" state="translated">について</target>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
-        <target xml:lang="pt-PT" state="translated">Cofigurar horário</target>
+        <target xml:lang="ja" state="translated">時間の設定</target>
       </trans-unit>
       <trans-unit id="set_start_time">
         <source>Set start time</source>
-        <target xml:lang="pt-PT" state="translated">Definir hora de início</target>
+        <target xml:lang="ja" state="translated">開始時刻の設定</target>
       </trans-unit>
       <trans-unit id="set_location">
         <source>Set Location</source>
-        <target xml:lang="pt-PT" state="translated">Set Localização</target>
+        <target xml:lang="ja" state="translated">場所の設定</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
         <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="pt-PT" state="translated">Use os seus próximos eventos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora</target>
+        <target xml:lang="ja" state="translated">場所の候補として予定カレンダーのイベントを使用します。この情報は、任意のサーバーに保存されていません。</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
-        <target xml:lang="pt-PT" state="translated">Mostrar um alerta para sair no início do trajeto</target>
+        <target xml:lang="ja" state="translated">旅行の開始時にアラートを表示します。</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target xml:lang="pt-PT" state="translated">Mostrar um alerta antes de qualquer transporte público no seu trajeto</target>
+        <target xml:lang="ja" state="translated">あなたの旅行のすべての公共交通機関使用前にアラートを表示します。</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target xml:lang="pt-PT" state="translated">Mostrar alerta de serviços que afetam os seus próximos trajetos</target>
+        <target xml:lang="ja" state="needs-translation">Show service alerts which affect your upcoming trips</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target xml:lang="pt-PT" state="translated">Mostrar um alerta no final de qualquer transporte público no seu trajeto</target>
+        <target xml:lang="ja" state="needs-translation">Show an alert towards the end of any public transport on your trip</target>
       </trans-unit>
       <trans-unit id="settings_summary_rate">
         <source>Rate the app in the store!</source>
-        <target xml:lang="pt-PT" state="translated">Avaliar o aplicativo na loja</target>
+        <target xml:lang="ja" state="translated">ストアでアプリを評価!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
         <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
-        <target xml:lang="pt-PT" state="translated">Permita TripGo de anonimamente rastrear a sua localização quando voce o usa (NÃO no fundo)</target>
+        <target xml:lang="ja" state="translated">匿名で使用しない場合、あなたの位置を追跡する TripGo を許可します。（バック グラウンドで) </target>
       </trans-unit>
       <trans-unit id="settings_summary_distance_units">
         <source>Distance units to use in trip results</source>
-        <target xml:lang="pt-PT" state="translated">Unidades de distância para usar no resulatdo do trajeto</target>
+        <target xml:lang="ja" state="translated">旅行の結果に使用する距離の単位</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
-        <target xml:lang="pt-PT" state="translated">Começo do trajeto</target>
+        <target xml:lang="ja" state="translated">旅行の開始</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_service_alerts">
         <source>Service alerts</source>
-        <target xml:lang="pt-PT" state="translated">Alertas de serviço</target>
+        <target xml:lang="ja" state="translated">サービスの警告</target>
       </trans-unit>
       <trans-unit id="settings_title_searching_calendar">
         <source>Search calendar events</source>
-        <target xml:lang="pt-PT" state="translated">Procurar calendário de eventos</target>
+        <target xml:lang="ja" state="translated">イベント カレンダー検索</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
-        <target xml:lang="pt-PT" state="translated">Começo do transporte público</target>
+        <target xml:lang="ja" state="needs-translation">Start of public transport</target>
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
-        <target xml:lang="pt-PT" state="translated">Servidora</target>
+        <target xml:lang="ja" state="translated">サーバー</target>
       </trans-unit>
       <trans-unit id="settings_title_searching_contacts">
         <source>Search contact addresses</source>
-        <target xml:lang="pt-PT" state="translated">Procurar endereços de contatos</target>
+        <target xml:lang="ja" state="translated">連絡先アドレスの検索</target>
       </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
-        <target xml:lang="pt-PT" state="translated">Versão</target>
+        <target xml:lang="ja" state="translated">バージョン</target>
       </trans-unit>
       <trans-unit id="settings_title_track_usage">
         <source>Track App Usage</source>
-        <target xml:lang="pt-PT" state="translated">Rastrear uso do aplicativo</target>
+        <target xml:lang="ja" state="translated">アプリの使用状況を追跡します。</target>
       </trans-unit>
       <trans-unit id="settings_summary_server">
         <source>Server to use. Note this will override *ALL* server calls!</source>
-        <target xml:lang="pt-PT" state="translated">Para uso da servidora. Nota isso substituirá *TODAs* as chamadas da servidora!</target>
+        <target xml:lang="ja" state="translated">使用するサーバーで上書きされます。注意してください * すべて * サーバーを呼び出す!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
         <source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="pt-PT" state="translated">Use os seus endereçøs de contatos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora</target>
+        <target xml:lang="ja" state="translated">場所の候補として、連絡先のアドレスを使用します。この情報は、任意のサーバーに保存されていません。</target>
       </trans-unit>
       <trans-unit id="settings_summary_trip_preferences">
         <source>Influence trip results by setting what's most important to you</source>
-        <target xml:lang="pt-PT" state="translated">Influencie os resutados de trajeto ao configurar o que é mais importante para voce</target>
+        <target xml:lang="ja" state="translated">あなたに何が最も重要かを設定することによって旅行の結果に影響を与えるます。</target>
       </trans-unit>
       <trans-unit id="settings_summary_track_usage">
         <source>Allow TripGo to anonymously track your app usage</source>
-        <target xml:lang="pt-PT" state="translated">Permita TripGo de anonimamente rastrear o seu uso de aplicativos</target>
+        <target xml:lang="ja" state="translated">匿名であなたのアプリの使用状況を追跡する TripGo を許可します。</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
-        <target xml:lang="pt-PT" state="translated">Velocidade de pedalada</target>
+        <target xml:lang="ja" state="needs-translation">Cycling speed</target>
       </trans-unit>
       <trans-unit id="settings_title_contact">
         <source>Contact Support</source>
-        <target xml:lang="pt-PT" state="translated">Contato de suporte</target>
+        <target xml:lang="ja" state="translated">サポートへの問い合わせ</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
-        <target xml:lang="pt-PT" state="translated">Término do transporte público</target>
+        <target xml:lang="ja" state="translated">公共交通機関の終わり</target>
       </trans-unit>
       <trans-unit id="settings_title_gps_submit">
         <source>Track Location</source>
-        <target xml:lang="pt-PT" state="translated">Rastrear localização</target>
+        <target xml:lang="ja" state="translated">位置を追跡します。</target>
       </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
-        <target xml:lang="pt-PT" state="translated">Organizado por preço</target>
+        <target xml:lang="ja" state="translated">価格順に並べ替え</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
-        <target xml:lang="pt-PT" state="translated">Organizado por preferidos</target>
+        <target xml:lang="ja" state="translated">順優先</target>
       </trans-unit>
       <trans-unit id="one_more_thing">
         <source>One more thing…</source>
-        <target xml:lang="pt-PT" state="translated">Mais uma coisa…</target>
+        <target xml:lang="ja" state="translated">もう一つ。。。</target>
       </trans-unit>
       <trans-unit id="taxi">
         <source>Taxi</source>
-        <target xml:lang="pt-PT" state="translated">Táxi</target>
+        <target xml:lang="ja" state="translated">タクシー</target>
       </trans-unit>
       <trans-unit id="terms_and_conditions">
         <source>Terms and Conditions</source>
-        <target xml:lang="pt-PT" state="translated">Termos e condições</target>
+        <target xml:lang="ja" state="translated">利用規約</target>
       </trans-unit>
       <trans-unit id="this_loc">
         <source>this location</source>
-        <target xml:lang="pt-PT" state="translated">essa localização</target>
+        <target xml:lang="ja" state="translated">この場所</target>
       </trans-unit>
       <trans-unit id="time_to_leave_for">
         <source>Time to leave for %s</source>
-        <target xml:lang="pt-PT" state="translated">Hora de ir para %s</target>
+        <target xml:lang="ja" state="translated">%s に出発する時間</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
-        <target xml:lang="pt-PT" state="translated">Erro em baixar serviços</target>
+        <target xml:lang="ja" state="translated">ダウンロード サービス エラー</target>
       </trans-unit>
       <trans-unit id="share_this_result">
         <source>Share this result</source>
-        <target xml:lang="pt-PT" state="translated">Compartilhar esse resultado</target>
+        <target xml:lang="ja" state="translated">この結果を共有します。</target>
       </trans-unit>
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
-        <target xml:lang="pt-PT" state="translated">Compartilhar informação da planilha de horários</target>
+        <target xml:lang="ja" state="translated">時刻表情報の共有</target>
       </trans-unit>
       <trans-unit id="show_agenda_list">
         <source>Show agenda list</source>
-        <target xml:lang="pt-PT" state="translated">Mostrar agenda de listas</target>
+        <target xml:lang="ja" state="translated">議題リストを表示します。</target>
       </trans-unit>
       <trans-unit id="show_agenda_map">
         <source>Show agenda map</source>
-        <target xml:lang="pt-PT" state="translated">Mostrar agenda de mapas</target>
+        <target xml:lang="ja" state="needs-translation">Show agenda map</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
-        <target xml:lang="pt-PT" state="translated">Organizado por</target>
+        <target xml:lang="ja" state="translated">並べ替え</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival">
         <source>Sorted by Arrival</source>
-        <target xml:lang="pt-PT" state="translated">Organizado por chegada</target>
+        <target xml:lang="ja" state="translated">到着順</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure">
         <source>Sorted by Departure</source>
-        <target xml:lang="pt-PT" state="translated">Organizado por saída</target>
+        <target xml:lang="ja" state="translated">出発順</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration">
         <source>Sorted by Duration</source>
-        <target xml:lang="pt-PT" state="translated">Organizado por duração</target>
+        <target xml:lang="ja" state="translated">期間順</target>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
-        <target xml:lang="pt-PT" state="translated">Veja no Yelp</target>
+        <target xml:lang="ja" state="needs-translation">View on Yelp</target>
       </trans-unit>
       <trans-unit id="vehicle_modes">
         <source>Vehicle Modes</source>
-        <target xml:lang="pt-PT" state="translated">Modos de veículos</target>
+        <target xml:lang="ja" state="needs-translation">Vehicle Modes</target>
       </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
-        <target xml:lang="pt-PT" state="translated">Próximos serviços</target>
+        <target xml:lang="ja" state="translated">今後のサービス</target>
       </trans-unit>
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
-        <target xml:lang="pt-PT" state="translated">Localização desconhecida</target>
+        <target xml:lang="ja" state="translated">未知の場所</target>
       </trans-unit>
       <trans-unit id="walkthrough_1">
         <source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-        <target xml:lang="pt-PT" state="translated">TripGo ajuda voce a achar o melhor caminho de A para B usando qualquer meio de transporte.</target>
+        <target xml:lang="ja" state="translated">TripGo でトランスポート モードを使用するとAからBに最良の方法を見つけることができます。</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target xml:lang="pt-PT" state="translated">Espere para sinal da localização, se falhar, voce pode tentar desligar e ligar o GPS.</target>
+        <target xml:lang="ja" state="needs-translation">Waiting for location signal, if fails, you can try turning your GPS off and on..</target>
       </trans-unit>
       <trans-unit id="view_timetable_subtitle">
         <source>Upcoming services</source>
-        <target xml:lang="pt-PT" state="translated">Próximos serviços</target>
+        <target xml:lang="ja" state="translated">今後のサービス</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
-        <target xml:lang="pt-PT" state="translated">Ver planilha de horários para próximos serviços</target>
+        <target xml:lang="ja" state="needs-translation">View timetable of upcoming services</target>
       </trans-unit>
       <trans-unit id="tomorrow">
         <source>Tomorrow</source>
-        <target xml:lang="pt-PT" state="translated">Amanhã</target>
+        <target xml:lang="ja" state="translated">明日</target>
       </trans-unit>
       <trans-unit id="tap_to_set_location">
         <source>Tap to set location</source>
-        <target xml:lang="pt-PT" state="translated">Toque para definir a localização</target>
+        <target xml:lang="ja" state="translated">タップして場所を設定します。</target>
       </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
-        <target xml:lang="pt-PT" state="translated">Hoje</target>
+        <target xml:lang="ja" state="translated">今日</target>
       </trans-unit>
       <trans-unit id="title_exclude_event_from_route">
         <source>Exclude event from routes?</source>
-        <target xml:lang="pt-PT" state="translated">Excluir evento de rotas?</target>
+        <target xml:lang="ja" state="translated">ルートからイベントを除外します。</target>
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
-        <target xml:lang="pt-PT" state="translated">Não encontrado serviços para essa parada</target>
+        <target xml:lang="ja" state="needs-translation">No services found for this stop</target>
       </trans-unit>
       <trans-unit id="trip_to_unknown_dest_about_to_start">
         <source>It looks like you have a trip to make</source>
-        <target xml:lang="pt-PT" state="translated">Parace que voce tem um trajeto a fazer</target>
+        <target xml:lang="ja" state="needs-translation">It looks like you have a trip to make</target>
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to </source>
-        <target xml:lang="pt-PT" state="translated">Trajeto para %s </target>
-        <alt-trans>
-          <target xml:lang="pt-PT">Trajeto para </target>
-        </alt-trans>
+        <target xml:lang="ja" state="translated">旅 </target>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>
-        <target xml:lang="pt-PT" state="translated">Preferências do trajeto</target>
+        <target xml:lang="ja" state="translated">旅行設定</target>
       </trans-unit>
       <trans-unit id="transport_selector_header">
         <source>Include in the route results</source>
-        <target xml:lang="pt-PT" state="translated">Incluir em resultado de rotas</target>
+        <target xml:lang="ja" state="translated">ルート結果に含める</target>
       </trans-unit>
       <trans-unit id="walkthrough_4">
         <source>Search routes directly right from Google search bar without opening TripGo.</source>
-        <target xml:lang="pt-PT" state="translated">Procure rotas diretamente da barra de pesquisa do Google sem abrir TripGo.</target>
+        <target xml:lang="ja" state="translated">TripGo を開かずに、Google の検索バーから直接のルートを検索します。</target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
-        <target xml:lang="pt-PT" state="translated">Ontem</target>
+        <target xml:lang="ja" state="translated">昨日</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
         <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-        <target xml:lang="pt-PT" state="translated">Nunca se atrase. Agenda planeja adiantado pra voce e avisa quando voce deve sair.</target>
+        <target xml:lang="ja" state="translated">あなたの日程表計画が後半は実行されません。出発時間を確認してください。</target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
         <source>For those without an agenda, save favorite places.</source>
-        <target xml:lang="pt-PT" state="translated">Para aqueles que não possuem agenda, salve lugares favoritos.</target>
+        <target xml:lang="ja" state="translated">議題なしでお気に入りの場所を保存します。</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
-        <target xml:lang="pt-PT" state="translated">O seu trajeto está por começar</target>
+        <target xml:lang="ja" state="translated">あなたの旅が始まる</target>
       </trans-unit>
       <trans-unit id="you_are_here">
         <source>You are here</source>
-        <target xml:lang="pt-PT" state="translated">Voce está aqui</target>
+        <target xml:lang="ja" state="translated">現在地</target>
       </trans-unit>
       <trans-unit id="you_r_already_at_s">
         <source>You are already at %s!</source>
-        <target xml:lang="pt-PT" state="translated">Voce ja esta em %s!</target>
+        <target xml:lang="ja" state="translated">あなたは既に %s です！</target>
       </trans-unit>
     </body>
   </file>

@@ -57,6 +57,9 @@
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
         <target xml:lang="it" state="translated">Circa %s di distanza</target>
+        <alt-trans>
+          <target xml:lang="it">Circa % s di distanza</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="arrivaltimeindication">
         <source>" (arrive "</source>
@@ -69,6 +72,10 @@
       <trans-unit id="body_exclude_related_event_from_route">
         <source>The event related to the trip will be excluded. It will still be shown</source>
         <target xml:lang="it" state="translated">corpo esclude evento legato dal percorso</target>
+      </trans-unit>
+      <trans-unit id="cancel">
+        <source>Cancel</source>
+        <target xml:lang="it" state="translated">Cancellare</target>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
@@ -118,6 +125,10 @@
         <source>Delete this event</source>
         <target xml:lang="it" state="translated">Cancella questo evento</target>
       </trans-unit>
+      <trans-unit id="delete">
+        <source>Delete</source>
+        <target xml:lang="it" state="translated">Cancella</target>
+      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="it" state="translated">Destinazione</target>
@@ -141,6 +152,14 @@
       <trans-unit id="edit_event">
         <source>Edit event</source>
         <target xml:lang="it" state="translated">Modifica evento</target>
+      </trans-unit>
+      <trans-unit id="done">
+        <source>Done</source>
+        <target xml:lang="it" state="translated">Fatto</target>
+      </trans-unit>
+      <trans-unit id="dropnewpin">
+        <source>Drop new pin</source>
+        <target xml:lang="it" state="translated">Inserisci nuovo punto</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
@@ -676,7 +695,10 @@
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to </source>
-        <target xml:lang="it" state="translated">Viaggio a </target>
+        <target xml:lang="it" state="translated">Viaggio a %s </target>
+        <alt-trans>
+          <target xml:lang="it">Viaggio a </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>

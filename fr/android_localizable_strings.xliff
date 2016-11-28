@@ -70,6 +70,10 @@
         <source>The event related to the trip will be excluded. It will still be shown</source>
         <target xml:lang="fr" state="translated">L'évenement lié au trajet va être exclu. Il restera affiché.</target>
       </trans-unit>
+      <trans-unit id="cancel">
+        <source>Cancel</source>
+        <target xml:lang="fr" state="translated">Annuler</target>
+      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="fr" state="translated">Réservations</target>
@@ -118,6 +122,10 @@
         <source>Delete this event</source>
         <target xml:lang="fr" state="translated">Supprimer cet évenement</target>
       </trans-unit>
+      <trans-unit id="delete">
+        <source>Delete</source>
+        <target xml:lang="fr" state="translated">Supprimer</target>
+      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="fr" state="translated">destination</target>
@@ -141,6 +149,14 @@
       <trans-unit id="edit_event">
         <source>Edit event</source>
         <target xml:lang="fr" state="translated">Editer l'évenement</target>
+      </trans-unit>
+      <trans-unit id="done">
+        <source>Done</source>
+        <target xml:lang="fr" state="translated">Ok</target>
+      </trans-unit>
+      <trans-unit id="dropnewpin">
+        <source>Drop new pin</source>
+        <target xml:lang="fr" state="translated">Déposer un nouveau point</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
@@ -676,7 +692,10 @@
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to </source>
-        <target xml:lang="fr" state="translated">Aller à </target>
+        <target xml:lang="fr" state="translated">Trip to %s </target>
+        <alt-trans>
+          <target xml:lang="fr">Aller à </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>

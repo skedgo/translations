@@ -73,6 +73,10 @@
         <source>The event related to the trip will be excluded. It will still be shown</source>
         <target xml:lang="de" state="translated">Das zum Trip zugehörige Ereignis wird ausgeschlossen. Es wird weiter angezeigt</target>
       </trans-unit>
+      <trans-unit id="cancel" approved="yes">
+        <source>Cancel</source>
+        <target xml:lang="de">Abbrechen</target>
+      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="de" state="translated">Buchen</target>
@@ -133,6 +137,10 @@
         <source>Delete this event</source>
         <target xml:lang="de">Ereignis löschen</target>
       </trans-unit>
+      <trans-unit id="delete" approved="yes">
+        <source>Delete</source>
+        <target xml:lang="de">Löschen</target>
+      </trans-unit>
       <trans-unit id="destination" approved="yes">
         <source>destination</source>
         <target xml:lang="de">Ziel</target>
@@ -159,6 +167,14 @@
       <trans-unit id="edit_event" approved="yes">
         <source>Edit event</source>
         <target xml:lang="de">Ereignis bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="done" approved="yes">
+        <source>Done</source>
+        <target xml:lang="de">Fertig</target>
+      </trans-unit>
+      <trans-unit id="dropnewpin" approved="yes">
+        <source>Drop new pin</source>
+        <target xml:lang="de">Stecknadel</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings" approved="yes">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
@@ -697,7 +713,10 @@
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to </source>
-        <target xml:lang="de" state="translated">Trip nach </target>
+        <target xml:lang="de" state="translated">Trip nach %s </target>
+        <alt-trans>
+          <target xml:lang="de">Trip nach </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>
