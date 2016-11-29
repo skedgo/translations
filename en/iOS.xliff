@@ -130,6 +130,11 @@
         <target>TripGo cannot update its local files.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Trips">
+         <source>Trips</source>
+         <target>Trips</target>
+         <note>Trips tab bar name</note>
+      </trans-unit>
       <trans-unit id="Upcoming Trip">
         <source>Upcoming Trip</source>
         <target>Upcoming Trip</target>
@@ -429,6 +434,10 @@
         <target>DateFromFormat</target>
         <note>From %date</note>
       </trans-unit>
+      <trans-unit id="DateFromToFormat">
+        <source>DateFromToFormat</source>
+        <target>From %@ to %@</target>
+      </trans-unit>
       <trans-unit id="Departure">
         <source>Departure</source>
         <target>Departure</target>
@@ -591,10 +600,30 @@
         <target>Filter</target>
         <note>Placeholder text for search bar that is used for filtering</note>
       </trans-unit>
+      <trans-unit id="Flight number">
+         <source>Flight number</source>
+         <target>Flight number</target>
+      </trans-unit>
+      <trans-unit id="FlightDate">
+         <source>FlightDate</source>
+         <target>Flight date</target>
+      </trans-unit>
+      <trans-unit id="FlightDetails">
+         <source>FlightDetails</source>
+         <target>Flight details</target>
+      </trans-unit>
+      <trans-unit id="FlightNote" approved="yes">
+         <source>FlightNote</source>
+         <target xml:lang="de">Kommentar</target>
+      </trans-unit>
       <trans-unit id="FlightNumberFormat">
         <source>FlightNumberFormat</source>
         <target>FlightNumberFormat</target>
         <note>Title for flight with %flightNumber</note>
+      </trans-unit>
+      <trans-unit id="FlightSearch">
+        <source>FlightSearch</source>
+        <target>Flight search</target>
       </trans-unit>
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
@@ -1141,6 +1170,11 @@
         <target>Removing this trip will exclude the following event from your agenda.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Removing this trip will exclude the preceeding event from your agenda.">
+        <source>Removing this trip will exclude the preceeding event from your agenda.</source>
+        <target>Removing this trip will exclude the preceeding event from your agenda.</target>
+         <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Repeat does end">
         <source>Repeat does end</source>
         <target>Repeat does end</target>
@@ -1212,6 +1246,11 @@
         <target>Routing from </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Routing from %@ to %@ is not yet supported">
+         <source>Routing from %@ to %@ is not yet supported</source>
+         <target>Routing from %@ to %@ is not yet supported</target>
+          <note>Error message if interregional routing isn't yet supported</note>
+       </trans-unit>
       <trans-unit id="Routing request">
         <source>Routing request</source>
         <target>Routing request</target>
@@ -1247,10 +1286,22 @@
         <target>SearchButton</target>
         <note>Search tab bar name</note>
       </trans-unit>
+      <trans-unit id="Select Bike Share">
+        <source>Select Bike Share</source>
+        <target>Select Bike Share</target>
+      </trans-unit>
+      <trans-unit id="Select Car Park">
+        <source>Select Car Park</source>
+        <target>Select Car Park</target>
+      </trans-unit>
       <trans-unit id="Select Vehicle">
         <source>Select Vehicle</source>
         <target>Select Vehicle</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select a date to get flight details." approved="yes">
+        <source>Select a date to get flight details.</source>
+        <target>Select a date to get flight details.</target>
       </trans-unit>
       <trans-unit id="Select the place where you stay at the end of each day">
         <source>Select the place where you stay at the end of each day</source>
@@ -1342,6 +1393,10 @@
         <source>Spread the word</source>
         <target>Spread the word</target>
         <note>Spread the word preference</note>
+      </trans-unit>
+      <trans-unit id="SrcToDstFormat">
+        <source>SrcToDstFormat</source>
+        <target>%@ (%@) to %@ (%@)</target>
       </trans-unit>
       <trans-unit id="Stay">
         <source>Stay</source>
@@ -1611,6 +1666,14 @@
         <source>Zoom into map to view public transport stops</source>
         <target>Zoom into map to view public transport stops</target>
         <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="pricingDescription">
+        <source>pricingDescription</source>
+        <target>Price</target>
+      </trans-unit>
+      <trans-unit id="terminalDescription">
+        <source>terminalDescription</source>
+        <target>Terminal</target>
       </trans-unit>
     </body>
   </file>
