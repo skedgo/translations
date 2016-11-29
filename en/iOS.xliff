@@ -291,7 +291,7 @@
       </trans-unit>
       <trans-unit id="ArriveBefore">
         <source>ArriveBefore</source>
-        <target>ArriveBefore</target>
+        <target>Arrive by</target>
         <note>Arrive before button</note>
       </trans-unit>
       <trans-unit id="Assign to vehicle">
@@ -725,7 +725,7 @@
       </trans-unit>
       <trans-unit id="LeaveAfter">
         <source>LeaveAfter</source>
-        <target>LeaveAfter</target>
+        <target>Leave at</target>
         <note>Leave after button</note>
       </trans-unit>
       <trans-unit id="List">
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="LocationWantToGo">
         <source>LocationWantToGo</source>
-        <target>LocationWantToGo</target>
+        <target>Where do you want to go?</target>
         <note>Where do you want to go?</note>
       </trans-unit>
       <trans-unit id="Long press on the map to choose a location">
@@ -877,7 +877,7 @@
       </trans-unit>
       <trans-unit id="NameVehicle">
         <source>NameVehicle</source>
-        <target>NameVehicle</target>
+        <target>Name</target>
         <note>Name of the vehicle</note>
       </trans-unit>
       <trans-unit id="Navigate to a supported city on a map.">
@@ -902,7 +902,7 @@
       </trans-unit>
       <trans-unit id="NewItemHereActionTitle">
         <source>NewItemHereActionTitle</source>
-        <target>NewItemHereActionTitle</target>
+        <target>Add when I'm here</target>
         <note>Action title for adding another habitual visit to a favourite</note>
       </trans-unit>
       <trans-unit id="NewItemHereTitle">
@@ -1455,7 +1455,7 @@
       </trans-unit>
       <trans-unit id="TitleFavouriteName">
         <source>TitleFavouriteName</source>
-        <target>TitleFavouriteName</target>
+        <target>Title</target>
         <note>Title favourite name</note>
       </trans-unit>
       <trans-unit id="To">
@@ -1528,17 +1528,17 @@
       </trans-unit>
       <trans-unit id="ViewDurationButton">
         <source>ViewDurationButton</source>
-        <target>ViewDurationButton</target>
+        <target>Duration</target>
         <note>Label for 'Duration' button to sort trips by their total duration.</note>
       </trans-unit>
       <trans-unit id="ViewOverallButton">
         <source>ViewOverallButton</source>
-        <target>ViewOverallButton</target>
+        <target>Preferred</target>
         <note>Label for 'Overall' button to sort trips by their overall total score considering all factors.</note>
       </trans-unit>
       <trans-unit id="ViewPriceButton">
         <source>ViewPriceButton</source>
-        <target>ViewPriceButton</target>
+        <target>Price</target>
         <note>Label for 'Price' button to sort trips by their total cost.</note>
       </trans-unit>
       <trans-unit id="Walk speed">

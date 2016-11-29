@@ -58,7 +58,7 @@
         <source>Approximately %s away</source>
         <target xml:lang="it" state="translated">Circa %s di distanza</target>
         <alt-trans>
-          <target xml:lang="it">Circa % s di distanza</target>
+          <target xml:lang="it">Circa %s di distanza</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="arrivaltimeindication">
@@ -679,7 +679,7 @@
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to </source>
-        <target xml:lang="it" state="translated">Viaggio a %s </target>
+        <target xml:lang="it" state="translated">Viaggio a %s</target>
         <alt-trans>
           <target xml:lang="it">Viaggio a </target>
         </alt-trans>
