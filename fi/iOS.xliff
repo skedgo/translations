@@ -2112,7 +2112,7 @@
       </trans-unit>
       <trans-unit id="ArrivalLocation">
         <source>ArrivalLocation</source>
-        <target xml:lang="fi" state="translated">Saapumispaikka</target>
+        <target xml:lang="fi" state="translated">Saapuu kohteeseen %@</target>
         <note>The place of arrival</note>
         <alt-trans>
           <target xml:lang="fi">Saapuu kohteeseen %@</target>
