@@ -1,139 +1,156 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<xliff version="1.2"
+  xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="input strategy" source-language="en" target-language="de">
     <body>
-      <trans-unit id="add" approved="yes">
+      <trans-unit approved="yes" id="add">
         <source>Add</source>
         <target xml:lang="de">Hinzufügen</target>
       </trans-unit>
-      <trans-unit id="add_a_routine" approved="yes">
+      <trans-unit approved="yes" id="add_a_routine">
         <source>Add a routine</source>
         <target xml:lang="de">Routine hinzufügen</target>
       </trans-unit>
-      <trans-unit id="add_an_event" approved="yes">
+      <trans-unit approved="yes" id="add_an_event">
         <source>Add an event</source>
         <target xml:lang="de">Ereignis hinzufügen</target>
       </trans-unit>
-      <trans-unit id="add_location" approved="yes">
+      <trans-unit approved="yes" id="add_location">
         <source>Add Location</source>
         <target xml:lang="de">Ort hinzufügen</target>
       </trans-unit>
-      <trans-unit id="add_new_location" approved="yes">
+      <trans-unit approved="yes" id="add_new_location">
         <source>Add new location</source>
         <target xml:lang="de">Neuen Ort hinzufügen</target>
       </trans-unit>
-      <trans-unit id="add_to_contacts" approved="yes">
+      <trans-unit approved="yes" id="add_to_contacts">
         <source>Add to contacts</source>
         <target xml:lang="de">Zu Kontakten hinzufügen</target>
       </trans-unit>
-      <trans-unit id="add_to_home_screen" approved="yes">
+      <trans-unit approved="yes" id="add_to_home_screen">
         <source>Add to Home screen</source>
         <target xml:lang="de">Zum Home-Bildschirm hinzufügen</target>
       </trans-unit>
-      <trans-unit id="address" approved="yes">
+      <trans-unit approved="yes" id="address">
         <source>Address</source>
         <target xml:lang="de">Adresse</target>
       </trans-unit>
-      <trans-unit id="agenda_set_or_delete" approved="yes">
+      <trans-unit approved="yes" id="agenda_set_or_delete">
         <source>Tap here to set address or long-press to delete</source>
-        <target xml:lang="de">Hier tippen um Adresse hinzuzufügen; lange drücken um zu löschen</target>
+        <target xml:lang="de">Hier tippen um Adresse hinzuzufügen; lange drücken um zu löschen
+        </target>
       </trans-unit>
-      <trans-unit id="agenda_tip" approved="yes">
+      <trans-unit approved="yes" id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
         <target xml:lang="de">Auf deine Agenda und Favoriten kannst du unten zugreifen</target>
       </trans-unit>
-      <trans-unit id="all_alerts" approved="yes">
+      <trans-unit approved="yes" id="all_alerts">
         <source>All Alerts</source>
         <target xml:lang="de">Alle Alarme</target>
       </trans-unit>
-      <trans-unit id="all_cals_invisible" approved="yes">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target xml:lang="de">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein</target>
+      <trans-unit approved="yes" id="all_cals_invisible">
+        <source>All your calendars are invisible, please switch them on in native calendar app or
+          account settings
+        </source>
+        <target xml:lang="de">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der
+          Kalender-App oder den Einstellungen ein
+        </target>
       </trans-unit>
-      <trans-unit id="an_unexpected_network_error" approved="yes">
+      <trans-unit approved="yes" id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
         <target xml:lang="de">Unerwarteter Netzwerkfehler. Bitte versuche es noch einmal.</target>
       </trans-unit>
-      <trans-unit id="approximately_s_away" approved="yes">
+      <trans-unit approved="yes" id="approximately_s_away">
         <source>Approximately %s away</source>
         <target xml:lang="de">Etwa %s entfernt</target>
       </trans-unit>
-      <trans-unit id="arrivaltimeindication" approved="yes">
+      <trans-unit approved="yes" id="arrivaltimeindication">
         <source>" (arrive "</source>
         <target xml:lang="de">" (Ankunft "</target>
       </trans-unit>
       <trans-unit id="body_exclude_this_event_from_route">
-        <source>This event will no longer have trips to or from it. The event will still be shown</source>
-        <target xml:lang="de" state="translated">Routen werden nicht mehr zu diesem Ereignis geplant, aber das Ereignis wird weiterhin angezeigt</target>
+        <source>This event will no longer have trips to or from it. The event will still be shown
+        </source>
+        <target state="translated" xml:lang="de">Routen werden nicht mehr zu diesem Ereignis
+          geplant, aber das Ereignis wird weiterhin angezeigt
+        </target>
         <alt-trans>
-          <target xml:lang="de">Dieses Ereignis zeigt keine Route an. Das Ereignis wird weiter angezeigt</target>
+          <target xml:lang="de">Dieses Ereignis zeigt keine Route an. Das Ereignis wird weiter
+            angezeigt
+          </target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="body_exclude_related_event_from_route">
         <source>The event related to the trip will be excluded. It will still be shown</source>
-        <target xml:lang="de" state="translated">Das zum Trip zugehörige Ereignis wird ausgeschlossen. Es wird weiter angezeigt</target>
+        <target state="translated" xml:lang="de">Das zum Trip zugehörige Ereignis wird
+          ausgeschlossen. Es wird weiter angezeigt
+        </target>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
-        <target xml:lang="de" state="translated">Buchen</target>
+        <target state="translated" xml:lang="de">Buchen</target>
       </trans-unit>
-      <trans-unit id="cannot_find_that_location" approved="yes">
+      <trans-unit approved="yes" id="cannot_find_that_location">
         <source>Address not found</source>
         <target xml:lang="de">Adresse nicht gefunden</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
-        <target xml:lang="de" state="translated">Erinnerungen für Ereignisse in der Vergangenheit können nicht hinzufügen werden</target>
+        <target state="translated" xml:lang="de">Erinnerungen für Ereignisse in der Vergangenheit
+          können nicht hinzufügen werden
+        </target>
         <alt-trans>
-          <target xml:lang="de">Kann keine Erinnerung für Ereignis in der Vergangenheit hinzufügen</target>
+          <target xml:lang="de">Kann keine Erinnerung für Ereignis in der Vergangenheit hinzufügen
+          </target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="cant_call_error" approved="yes">
+      <trans-unit approved="yes" id="cant_call_error">
         <source>Error placing call</source>
         <target xml:lang="de">Aufruf fehlgeschlagen</target>
       </trans-unit>
       <trans-unit id="cannot_remove_shortcut">
         <source>Cannot remove shortcut</source>
-        <target xml:lang="de" state="translated">Verknüpfung kann nicht gelöscht werden</target>
+        <target state="translated" xml:lang="de">Verknüpfung kann nicht gelöscht werden</target>
         <alt-trans>
           <target xml:lang="de">Verknüpfung nicht löschbar</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="coordinates_s" approved="yes">
+      <trans-unit approved="yes" id="coordinates_s">
         <source>Coordinates: %s</source>
         <target xml:lang="de">Koordinaten: %s</target>
       </trans-unit>
       <trans-unit id="choose_an_alternative">
         <source>Choose an Alternative</source>
-        <target xml:lang="de" state="translated">Alternative auswählen</target>
+        <target state="translated" xml:lang="de">Alternative auswählen</target>
         <alt-trans>
           <target xml:lang="de">Wähle eine Alternative</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="del_all_events" approved="yes">
+      <trans-unit approved="yes" id="del_all_events">
         <source>All events</source>
         <target xml:lang="de">Alle Ereignisse</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
-        <target xml:lang="de" state="translated">Ortung fehlgeschlagen</target>
+        <target state="translated" xml:lang="de">Ortung fehlgeschlagen</target>
         <alt-trans>
           <target xml:lang="de">Konnte deinen gegenwärtigen Ort nicht bestimmen</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="del_this_and_future_events" approved="yes">
+      <trans-unit approved="yes" id="del_this_and_future_events">
         <source>This and future events</source>
         <target xml:lang="de">Dieses und zukünftige Ereignisse</target>
       </trans-unit>
-      <trans-unit id="del_only_this_event" approved="yes">
+      <trans-unit approved="yes" id="del_only_this_event">
         <source>Only this event</source>
         <target xml:lang="de">Nur dieses Ereignis</target>
       </trans-unit>
-      <trans-unit id="delete_event" approved="yes">
+      <trans-unit approved="yes" id="delete_event">
         <source>Delete this event</source>
         <target xml:lang="de">Ereignis löschen</target>
       </trans-unit>
-      <trans-unit id="destination" approved="yes">
+      <trans-unit approved="yes" id="destination">
         <source>destination</source>
         <target xml:lang="de">Ziel</target>
         <alt-trans>
@@ -142,603 +159,710 @@
       </trans-unit>
       <trans-unit id="did_you_mean">
         <source>Did you mean</source>
-        <target xml:lang="de" state="translated">Meintest du</target>
+        <target state="translated" xml:lang="de">Meintest du</target>
       </trans-unit>
-      <trans-unit id="delete_vehicle" approved="yes">
+      <trans-unit approved="yes" id="delete_vehicle">
         <source>Delete this vehicle</source>
         <target xml:lang="de">Fahrzeug löschen</target>
       </trans-unit>
-      <trans-unit id="departuretimeindication" approved="yes">
+      <trans-unit approved="yes" id="departuretimeindication">
         <source>" (depart "</source>
         <target xml:lang="de">" (Abfahrt "</target>
       </trans-unit>
-      <trans-unit id="edit" approved="yes">
+      <trans-unit approved="yes" id="edit">
         <source>Edit</source>
         <target xml:lang="de">Bearbeiten</target>
       </trans-unit>
-      <trans-unit id="edit_event" approved="yes">
+      <trans-unit approved="yes" id="edit_event">
         <source>Edit event</source>
         <target xml:lang="de">Ereignis bearbeiten</target>
       </trans-unit>
-      <trans-unit id="enable_calendar_in_tripgo_settings" approved="yes">
-        <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
-        <target xml:lang="de">Alle deine Kalender sind in TripGo deaktiviert. Bitte aktiviere sie in den Einstellungen.</target>
+      <trans-unit approved="yes" id="enable_calendar_in_tripgo_settings">
+        <source>All your calendars are disabled in TripGo, please enable them in Settings section
+        </source>
+        <target xml:lang="de">Alle deine Kalender sind in TripGo deaktiviert. Bitte aktiviere sie in
+          den Einstellungen.
+        </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="de" state="translated">Wir haben unsere EULA aktualisiert. Um die App zu verwenden, muss die neue EULA akzeptiert werden.</target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
+          the use of this app.
+        </source>
+        <target state="translated" xml:lang="de">Wir haben unsere EULA aktualisiert. Um die App zu
+          verwenden, muss die neue EULA akzeptiert werden.
+        </target>
         <alt-trans>
-          <target xml:lang="de">Unser Lizenzvertrag wurde geändert. Du musst ihm zustimmen um diese App weiter benutzen zu können.</target>
+          <target xml:lang="de">Unser Lizenzvertrag wurde geändert. Du musst ihm zustimmen um diese
+            App weiter benutzen zu können.
+          </target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="edit_favourite" approved="yes">
+      <trans-unit approved="yes" id="edit_favourite">
         <source>Edit favorite</source>
         <target xml:lang="de">Favorit bearbeiten</target>
       </trans-unit>
-      <trans-unit id="empty_event_not_saved" approved="yes">
+      <trans-unit approved="yes" id="empty_event_not_saved">
         <source>Empty event is not saved</source>
         <target xml:lang="de">Leeres Ereignis wird nicht gespeichert</target>
       </trans-unit>
       <trans-unit id="event_must_have_location">
         <source>A location must be set</source>
-        <target xml:lang="de" state="translated">Ein Ort muss vorhanden sein</target>
+        <target state="translated" xml:lang="de">Ein Ort muss vorhanden sein</target>
       </trans-unit>
       <trans-unit id="event_must_have_title">
         <source>Event must have a title</source>
-        <target xml:lang="de" state="translated">Ereignis muss einen Titel haben</target>
+        <target state="translated" xml:lang="de">Ereignis muss einen Titel haben</target>
       </trans-unit>
       <trans-unit id="event_detail_title">
         <source>Event details</source>
-        <target xml:lang="de" state="translated">Ereignis-Details</target>
+        <target state="translated" xml:lang="de">Ereignis-Details</target>
       </trans-unit>
       <trans-unit id="event_excluded">
         <source>Event excluded</source>
-        <target xml:lang="de" state="translated">Ereignis ausgeschlossen</target>
+        <target state="translated" xml:lang="de">Ereignis ausgeschlossen</target>
       </trans-unit>
       <trans-unit id="exclude_from_routing_brief">
         <source>Exclude from agenda planning</source>
-        <target xml:lang="de" state="translated">Von der Agenda ausschließen</target>
+        <target state="translated" xml:lang="de">Von der Agenda ausschließen</target>
       </trans-unit>
       <trans-unit id="exclude_from_routing">
         <source>Exclude this event from agenda planning</source>
-        <target xml:lang="de" state="translated">Ereignis von der Agenda ausschließen</target>
+        <target state="translated" xml:lang="de">Ereignis von der Agenda ausschließen</target>
       </trans-unit>
       <trans-unit id="exclude_event">
         <source>Exclude event</source>
-        <target xml:lang="de" state="translated">Ereignis ausschließen</target>
+        <target state="translated" xml:lang="de">Ereignis ausschließen</target>
       </trans-unit>
       <trans-unit id="event_update_warning">
         <source>Event updated, it may take a while to see the change</source>
-        <target xml:lang="de" state="translated">Ereignis aktualisiert. Es kann eine Weile dauern bis die Änderung angezeigt wird.</target>
+        <target state="translated" xml:lang="de">Ereignis aktualisiert. Es kann eine Weile dauern
+          bis die Änderung angezeigt wird.
+        </target>
       </trans-unit>
       <trans-unit id="favourite_saved">
         <source>Favorite saved</source>
-        <target xml:lang="de" state="translated">Favorit gespeichert</target>
+        <target state="translated" xml:lang="de">Favorit gespeichert</target>
       </trans-unit>
       <trans-unit id="favourite_location">
         <source>Favorite Location</source>
-        <target xml:lang="de" state="translated">Favorit</target>
+        <target state="translated" xml:lang="de">Favorit</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
-        <target xml:lang="de" state="translated">Ort nicht gefunden</target>
+        <target state="translated" xml:lang="de">Ort nicht gefunden</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link">
         <source>Failed to resolve link</source>
-        <target xml:lang="de" state="translated">Link nicht gefunden</target>
+        <target state="translated" xml:lang="de">Link nicht gefunden</target>
       </trans-unit>
       <trans-unit id="get_off">
         <source>Get Off</source>
-        <target xml:lang="de" state="translated">Aussteigen</target>
+        <target state="translated" xml:lang="de">Aussteigen</target>
       </trans-unit>
       <trans-unit id="get_google_play_services">
         <source>Get Google Play Services</source>
-        <target xml:lang="de" state="translated">Google Play Services</target>
+        <target state="translated" xml:lang="de">Google Play Services</target>
       </trans-unit>
       <trans-unit id="first">
-        <source>First: </source>
-        <target xml:lang="de" state="translated">Zuerst: </target>
+        <source>First:</source>
+        <target state="translated" xml:lang="de">Zuerst:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
-        <target xml:lang="de" state="translated">Nach Name, Nummer oder Haltestelle filtern</target>
+        <target state="translated" xml:lang="de">Nach Name, Nummer oder Haltestelle filtern</target>
       </trans-unit>
       <trans-unit id="go_to_date">
         <source>Go to date</source>
-        <target xml:lang="de" state="translated">Gehe zu Datum</target>
+        <target state="translated" xml:lang="de">Gehe zu Datum</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
-        <target xml:lang="de" state="translated">Hierhin gehen</target>
+        <target state="translated" xml:lang="de">Hierhin gehen</target>
       </trans-unit>
       <trans-unit id="get_uber">
         <source>Get Uber</source>
-        <target xml:lang="de" state="translated">Uber herunterladen</target>
+        <target state="translated" xml:lang="de">Uber herunterladen</target>
       </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
-        <target xml:lang="de" state="translated">Einsteigen</target>
+        <target state="translated" xml:lang="de">Einsteigen</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target xml:lang="de" state="translated">Informationen über Ermässigungen nach Verfügbarkeit.</target>
+        <target state="translated" xml:lang="de">Informationen über Ermässigungen nach
+          Verfügbarkeit.
+        </target>
       </trans-unit>
       <trans-unit id="invalid_transfer_time">
         <source>Invalid time, revert to last used value.</source>
-        <target xml:lang="de" state="translated">Zeit ist ungültig, benutze letzten gültigen Wert.</target>
+        <target state="translated" xml:lang="de">Zeit ist ungültig, benutze letzten gültigen Wert.
+        </target>
       </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
-        <target xml:lang="de" state="translated">Es ist Zeit zu gehen!</target>
+        <target state="translated" xml:lang="de">Es ist Zeit zu gehen!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time">
         <source>Leave now to make it on time</source>
-        <target xml:lang="de" state="translated">Gehe jetzt los um pünktlich zu kommen</target>
+        <target state="translated" xml:lang="de">Gehe jetzt los um pünktlich zu kommen</target>
       </trans-unit>
       <trans-unit id="lets_start">
         <source>Let's start</source>
-        <target xml:lang="de" state="translated">Beginnen wir</target>
+        <target state="translated" xml:lang="de">Beginnen wir</target>
       </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
-        <target xml:lang="de" state="translated">Gehe zu Jetzt</target>
+        <target state="translated" xml:lang="de">Gehe zu Jetzt</target>
       </trans-unit>
       <trans-unit id="go_to_today">
         <source>Go to today</source>
-        <target xml:lang="de" state="translated">Gehe zu heute</target>
+        <target state="translated" xml:lang="de">Gehe zu heute</target>
       </trans-unit>
       <trans-unit id="include_cal_act">
         <source>Include checked calendars</source>
-        <target xml:lang="de" state="translated">Diese Kalender mit einbeziehen</target>
+        <target state="translated" xml:lang="de">Diese Kalender mit einbeziehen</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target xml:lang="de" state="translated">Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
+        <target state="translated" xml:lang="de">Ereignisse aus diesen Kalendern werden genutzt um
+          deinen Tag zu planen
+        </target>
       </trans-unit>
       <trans-unit id="minute">
         <source>1 minute</source>
-        <target xml:lang="de" state="translated">1 Minute</target>
+        <target state="translated" xml:lang="de">1 Minute</target>
       </trans-unit>
       <trans-unit id="navigate_current_location">
         <source>Navigate from current location</source>
-        <target xml:lang="de" state="translated">Von meinem Standort</target>
+        <target state="translated" xml:lang="de">Von meinem Standort</target>
       </trans-unit>
       <trans-unit id="navigate_from">
         <source>Navigate from %1$s</source>
-        <target xml:lang="de" state="translated">Navigiere von %1$s</target>
+        <target state="translated" xml:lang="de">Navigiere von %1$s</target>
       </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
-        <target xml:lang="de" state="translated">Neues Fahrzeug</target>
+        <target state="translated" xml:lang="de">Neues Fahrzeug</target>
       </trans-unit>
       <trans-unit id="location_name">
         <source>Location Name</source>
-        <target xml:lang="de" state="translated">Ortsname</target>
+        <target state="translated" xml:lang="de">Ortsname</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
-        <target xml:lang="de" state="translated">Ort nicht gefunden</target>
+        <target state="translated" xml:lang="de">Ort nicht gefunden</target>
       </trans-unit>
       <trans-unit id="location_save_by_gps">
         <source>"Cannot find address, location will be saved by GPS coordinates"</source>
-        <target xml:lang="de" state="translated">"Kann Adresse nicht finden, Ort wird laut GPS-Daten gespeichert"</target>
+        <target state="translated" xml:lang="de">"Kann Adresse nicht finden, Ort wird laut GPS-Daten
+          gespeichert"
+        </target>
       </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
-        <target xml:lang="de" state="translated">Ort ausgewählt</target>
+        <target state="translated" xml:lang="de">Ort ausgewählt</target>
       </trans-unit>
       <trans-unit id="no_results_found">
         <source>No Results Found</source>
-        <target xml:lang="de" state="translated">Keine Ergebnisse gefunden</target>
+        <target state="translated" xml:lang="de">Keine Ergebnisse gefunden</target>
       </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
-        <target xml:lang="de" state="translated">Noch keine Bewertungen</target>
+        <target state="translated" xml:lang="de">Noch keine Bewertungen</target>
       </trans-unit>
       <trans-unit id="one_time_event">
         <source>Don't repeat</source>
-        <target xml:lang="de" state="translated">Nicht wiederholen</target>
+        <target state="translated" xml:lang="de">Nicht wiederholen</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
-        <target xml:lang="de" state="translated">Keine Dienste verfügbar</target>
+        <target state="translated" xml:lang="de">Keine Dienste verfügbar</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved">
         <source>No favorite locations saved</source>
-        <target xml:lang="de" state="translated">Keine Favoriten gespeichert</target>
+        <target state="translated" xml:lang="de">Keine Favoriten gespeichert</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target xml:lang="de" state="translated">Es ist ein Fehler aufgetreten und wir wurden benachrichtigt. Bitte versuche es noch einmal.</target>
+        <target state="translated" xml:lang="de">Es ist ein Fehler aufgetreten und wir wurden
+          benachrichtigt. Bitte versuche es noch einmal.
+        </target>
       </trans-unit>
       <trans-unit id="no_google_play_services_title">
         <source>No Google Play Services!</source>
-        <target xml:lang="de" state="translated">Kein Google Play!</target>
+        <target state="translated" xml:lang="de">Kein Google Play!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
-        <target xml:lang="de" state="translated">Diese App benötigt Google Play. \n\n Bitte installiere es um die App weiter benutzen zu können</target>
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
+          continue using the app
+        </source>
+        <target state="translated" xml:lang="de">Diese App benötigt Google Play. \n\n Bitte
+          installiere es um die App weiter benutzen zu können
+        </target>
       </trans-unit>
       <trans-unit id="priority_convenience_subtext">
         <source>Hassle of the trip</source>
-        <target xml:lang="de" state="translated">Unbequemlichkeit des Trips</target>
+        <target state="translated" xml:lang="de">Unbequemlichkeit des Trips</target>
       </trans-unit>
       <trans-unit id="priority_budget_subtext">
         <source>Trip cost</source>
-        <target xml:lang="de" state="translated">Trip-Kosten</target>
+        <target state="translated" xml:lang="de">Trip-Kosten</target>
       </trans-unit>
       <trans-unit id="priority_time_subtext">
         <source>Trip duration</source>
-        <target xml:lang="de" state="translated">Trip-Dauer</target>
+        <target state="translated" xml:lang="de">Trip-Dauer</target>
       </trans-unit>
       <trans-unit id="priority_environment_subtext">
         <source>Impact of the trip</source>
-        <target xml:lang="de" state="translated">Auswirkung des Trips</target>
+        <target state="translated" xml:lang="de">Auswirkung des Trips</target>
       </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
-        <target xml:lang="de" state="translated">Startpunkt</target>
+        <target state="translated" xml:lang="de">Startpunkt</target>
       </trans-unit>
       <trans-unit id="open_uber">
         <source>Open Uber</source>
-        <target xml:lang="de" state="translated">Uber öffnen</target>
+        <target state="translated" xml:lang="de">Uber öffnen</target>
       </trans-unit>
       <trans-unit id="page_between_upcoming_services">
         <source>Page between upcoming services</source>
-        <target xml:lang="de" state="translated">Seite zwischen den nächsten Abfahrten</target>
+        <target state="translated" xml:lang="de">Seite zwischen den nächsten Abfahrten</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target xml:lang="de" state="translated">Dieser Ort ist leider außerhalb von TripGos Reichweite!</target>
+        <target state="translated" xml:lang="de">Dieser Ort ist leider außerhalb von TripGos
+          Reichweite!
+        </target>
       </trans-unit>
       <trans-unit id="repeat_end_date_in_past">
         <source>Repetition end date is in the past</source>
-        <target xml:lang="de" state="translated">Enddatum der Wiederholung ist in der Vergangenheit</target>
+        <target state="translated" xml:lang="de">Enddatum der Wiederholung ist in der
+          Vergangenheit
+        </target>
       </trans-unit>
       <trans-unit id="repeat_ends_on">
         <source>Repeat does end on</source>
-        <target xml:lang="de" state="translated">Wiederholung endet am</target>
+        <target state="translated" xml:lang="de">Wiederholung endet am</target>
       </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
-        <target xml:lang="de" state="translated">Von Favoriten löschen</target>
+        <target state="translated" xml:lang="de">Von Favoriten löschen</target>
       </trans-unit>
       <trans-unit id="remove_shortcut">
         <source>Remove shortcut</source>
-        <target xml:lang="de" state="translated">Verknüpfung löschen</target>
+        <target state="translated" xml:lang="de">Verknüpfung löschen</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
-        <target xml:lang="de" state="translated">Aktualisieren</target>
+        <target state="translated" xml:lang="de">Aktualisieren</target>
       </trans-unit>
       <trans-unit id="public_transport">
         <source>Public Transport</source>
-        <target xml:lang="de" state="translated">Öffentliche Verkehrsmittel</target>
+        <target state="translated" xml:lang="de">Öffentliche Verkehrsmittel</target>
       </trans-unit>
       <trans-unit id="rate">
         <source>Rate</source>
-        <target xml:lang="de" state="translated">Bewerten</target>
+        <target state="translated" xml:lang="de">Bewerten</target>
       </trans-unit>
       <trans-unit id="service_placeholder">
         <source>Service</source>
-        <target xml:lang="de" state="translated">Service</target>
+        <target state="translated" xml:lang="de">Service</target>
       </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
-        <target xml:lang="de" state="translated">Setze Endzeit</target>
+        <target state="translated" xml:lang="de">Setze Endzeit</target>
       </trans-unit>
       <trans-unit id="search_instantly">
         <source>Search instantly</source>
-        <target xml:lang="de" state="translated">Sofort suchen</target>
+        <target state="translated" xml:lang="de">Sofort suchen</target>
       </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
-        <target xml:lang="de" state="translated">Kalendar auswählen</target>
+        <target state="translated" xml:lang="de">Kalendar auswählen</target>
       </trans-unit>
       <trans-unit id="routes_updated">
         <source>Routes updated</source>
-        <target xml:lang="de" state="translated">Routen aktualisiert</target>
+        <target state="translated" xml:lang="de">Routen aktualisiert</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Speichern</target>
+        <target state="translated" xml:lang="de">Speichern</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target xml:lang="de" state="translated">Routinen sind Teil deines Tagesablaufs aber nicht Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.</target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in
+          your calendar (e.g. work). They are important for the Agenda to get you to the right
+          location at the right time
+        </source>
+        <target state="translated" xml:lang="de">Routinen sind Teil deines Tagesablaufs aber nicht
+          Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für
+          die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.
+        </target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
         <source>Anonymous Data Tracking</source>
-        <target xml:lang="de" state="translated">Anonymes Daten-Tracking</target>
+        <target state="translated" xml:lang="de">Anonymes Daten-Tracking</target>
       </trans-unit>
       <trans-unit id="settings_category_searching">
         <source>Searching</source>
-        <target xml:lang="de" state="translated">Suche</target>
+        <target state="translated" xml:lang="de">Suche</target>
       </trans-unit>
       <trans-unit id="settings_category_results">
         <source>Trip Results</source>
-        <target xml:lang="de" state="translated">Trip-Ergebnisse</target>
+        <target state="translated" xml:lang="de">Trip-Ergebnisse</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
-        <target xml:lang="de" state="translated">Mitteilungen</target>
+        <target state="translated" xml:lang="de">Mitteilungen</target>
       </trans-unit>
       <trans-unit id="settings_category_about">
         <source>About</source>
-        <target xml:lang="de" state="translated">Über</target>
+        <target state="translated" xml:lang="de">Über</target>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
-        <target xml:lang="de" state="translated">Setze Zeit</target>
+        <target state="translated" xml:lang="de">Setze Zeit</target>
       </trans-unit>
       <trans-unit id="set_start_time">
         <source>Set start time</source>
-        <target xml:lang="de" state="translated">Setze Anfangszeit</target>
+        <target state="translated" xml:lang="de">Setze Anfangszeit</target>
       </trans-unit>
       <trans-unit id="set_location">
         <source>Set Location</source>
-        <target xml:lang="de" state="translated">Setze Ort</target>
+        <target state="translated" xml:lang="de">Setze Ort</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="de" state="translated">Benutze deine Kalenderereignisse für Ortsvorschläge. Diese Information wird nicht auf einem Server gespeichert.</target>
+        <source>Use your upcoming calendar events as location suggestions. This information is not
+          stored on any server
+        </source>
+        <target state="translated" xml:lang="de">Benutze deine Kalenderereignisse für
+          Ortsvorschläge. Diese Information wird nicht auf einem Server gespeichert.
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
-        <target xml:lang="de" state="translated">Alarm anzeigen um loszugehen</target>
+        <target state="translated" xml:lang="de">Alarm anzeigen um loszugehen</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target xml:lang="de" state="translated">Alarm vor jedem öffentlichen Verkehrsmittel auf deinem Trip anzeigen</target>
+        <target state="translated" xml:lang="de">Alarm vor jedem öffentlichen Verkehrsmittel auf
+          deinem Trip anzeigen
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target xml:lang="de" state="translated">Service-Alarms zeigen die deine nächsten Trips beeinflussen</target>
+        <target state="translated" xml:lang="de">Service-Alarms zeigen die deine nächsten Trips
+          beeinflussen
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target xml:lang="de" state="translated">Alarm gegen Ende jedes öffentlichen Verkehrsmittels auf deinem Trip anzeigen</target>
+        <target state="translated" xml:lang="de">Alarm gegen Ende jedes öffentlichen Verkehrsmittels
+          auf deinem Trip anzeigen
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_rate">
         <source>Rate the app in the store!</source>
-        <target xml:lang="de" state="translated">Bewerte die App!</target>
+        <target state="translated" xml:lang="de">Bewerte die App!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
-        <target xml:lang="de" state="translated">TripGo erlauben, deinen Standort anonym zu nutzen wenn du es benutzt (NICHT im Hintergrund)</target>
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
+          background)
+        </source>
+        <target state="translated" xml:lang="de">TripGo erlauben, deinen Standort anonym zu nutzen
+          wenn du es benutzt (NICHT im Hintergrund)
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_distance_units">
         <source>Distance units to use in trip results</source>
-        <target xml:lang="de" state="translated">Entfernungseinheiten für Trip-Ergebnisse</target>
+        <target state="translated" xml:lang="de">Entfernungseinheiten für Trip-Ergebnisse</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
-        <target xml:lang="de" state="translated">Trip-Anfang</target>
+        <target state="translated" xml:lang="de">Trip-Anfang</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_service_alerts">
         <source>Service alerts</source>
-        <target xml:lang="de" state="translated">Service-Alarms</target>
+        <target state="translated" xml:lang="de">Service-Alarms</target>
       </trans-unit>
       <trans-unit id="settings_title_searching_calendar">
         <source>Search calendar events</source>
-        <target xml:lang="de" state="translated">Kalenderereignisse suchen</target>
+        <target state="translated" xml:lang="de">Kalenderereignisse suchen</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
-        <target xml:lang="de" state="translated">Beginn öffentliche Verkehrsmittel</target>
+        <target state="translated" xml:lang="de">Beginn öffentliche Verkehrsmittel</target>
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
-        <target xml:lang="de" state="translated">Server</target>
+        <target state="translated" xml:lang="de">Server</target>
       </trans-unit>
       <trans-unit id="settings_title_searching_contacts">
         <source>Search contact addresses</source>
-        <target xml:lang="de" state="translated">Kontaktadressen suchen</target>
+        <target state="translated" xml:lang="de">Kontaktadressen suchen</target>
       </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
-        <target xml:lang="de" state="translated">Version</target>
+        <target state="translated" xml:lang="de">Version</target>
       </trans-unit>
       <trans-unit id="settings_title_track_usage">
         <source>Track App Usage</source>
-        <target xml:lang="de" state="translated">App-Benutzung aufzeichnen</target>
+        <target state="translated" xml:lang="de">App-Benutzung aufzeichnen</target>
       </trans-unit>
       <trans-unit id="settings_summary_server">
         <source>Server to use. Note this will override *ALL* server calls!</source>
-        <target xml:lang="de" state="translated">Server; diese Einstellung überschreibt *ALLE* Server-Aufrufe.</target>
+        <target state="translated" xml:lang="de">Server; diese Einstellung überschreibt *ALLE*
+          Server-Aufrufe.
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="de" state="translated">Benutze deine Kontaktadressen als Ortsvorschläge. Diese Information wird nicht auf einem Server gespeichert.</target>
+        <source>Use your contact addresses as location suggestions. This information is not stored
+          on any server
+        </source>
+        <target state="translated" xml:lang="de">Benutze deine Kontaktadressen als Ortsvorschläge.
+          Diese Information wird nicht auf einem Server gespeichert.
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_trip_preferences">
         <source>Influence trip results by setting what's most important to you</source>
-        <target xml:lang="de" state="translated">Beeinflusse deine Trip-Ergebnisse indem du eingibst was dir wichtig ist.</target>
+        <target state="translated" xml:lang="de">Beeinflusse deine Trip-Ergebnisse indem du eingibst
+          was dir wichtig ist.
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_track_usage">
         <source>Allow TripGo to anonymously track your app usage</source>
-        <target xml:lang="de" state="translated">TripGo erlauben anonym App-Nutzung aufzuzeichnen</target>
+        <target state="translated" xml:lang="de">TripGo erlauben anonym App-Nutzung aufzuzeichnen
+        </target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
-        <target xml:lang="de" state="translated">Radfahrgeschwindigkeit</target>
+        <target state="translated" xml:lang="de">Radfahrgeschwindigkeit</target>
       </trans-unit>
       <trans-unit id="settings_title_contact">
         <source>Contact Support</source>
-        <target xml:lang="de" state="translated">Kontaktiere uns</target>
+        <target state="translated" xml:lang="de">Kontaktiere uns</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
-        <target xml:lang="de" state="translated">Ende  öffentliche Verkehrsmittel</target>
+        <target state="translated" xml:lang="de">Ende öffentliche Verkehrsmittel</target>
       </trans-unit>
       <trans-unit id="settings_title_gps_submit">
         <source>Track Location</source>
-        <target xml:lang="de" state="translated">Ort folgen</target>
+        <target state="translated" xml:lang="de">Ort folgen</target>
       </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
-        <target xml:lang="de" state="translated">Nach Preis sortiert</target>
+        <target state="translated" xml:lang="de">Nach Preis sortiert</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
-        <target xml:lang="de" state="translated">Nach Präferenz sortiert</target>
+        <target state="translated" xml:lang="de">Nach Präferenz sortiert</target>
       </trans-unit>
       <trans-unit id="one_more_thing">
         <source>One more thing…</source>
-        <target xml:lang="de" state="translated">Noch etwas...</target>
+        <target state="translated" xml:lang="de">Noch etwas...</target>
       </trans-unit>
       <trans-unit id="taxi">
         <source>Taxi</source>
-        <target xml:lang="de" state="translated">Taxi</target>
+        <target state="translated" xml:lang="de">Taxi</target>
       </trans-unit>
       <trans-unit id="terms_and_conditions">
         <source>Terms and Conditions</source>
-        <target xml:lang="de" state="translated">Allgemeine Geschäftsbedingungen</target>
+        <target state="translated" xml:lang="de">Allgemeine Geschäftsbedingungen</target>
       </trans-unit>
       <trans-unit id="this_loc">
         <source>this location</source>
-        <target xml:lang="de" state="translated">dieser Ort</target>
+        <target state="translated" xml:lang="de">dieser Ort</target>
       </trans-unit>
       <trans-unit id="time_to_leave_for">
         <source>Time to leave for %s</source>
-        <target xml:lang="de" state="translated">Zeit zu gehen: Trip nach %s</target>
+        <target state="translated" xml:lang="de">Zeit zu gehen: Trip nach %s</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
-        <target xml:lang="de" state="translated">Fehler beim Herunterladen</target>
+        <target state="translated" xml:lang="de">Fehler beim Herunterladen</target>
       </trans-unit>
       <trans-unit id="share_this_result">
         <source>Share this result</source>
-        <target xml:lang="de" state="translated">Ergebnis teilen</target>
+        <target state="translated" xml:lang="de">Ergebnis teilen</target>
       </trans-unit>
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
-        <target xml:lang="de" state="translated">Fahrplan-Info teilen</target>
+        <target state="translated" xml:lang="de">Fahrplan-Info teilen</target>
       </trans-unit>
       <trans-unit id="show_agenda_list">
         <source>Show agenda list</source>
-        <target xml:lang="de" state="translated">Agenda-Liste zeigen</target>
+        <target state="translated" xml:lang="de">Agenda-Liste zeigen</target>
       </trans-unit>
       <trans-unit id="show_agenda_map">
         <source>Show agenda map</source>
-        <target xml:lang="de" state="translated">Agenda-Karte zeigen</target>
+        <target state="translated" xml:lang="de">Agenda-Karte zeigen</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
-        <target xml:lang="de" state="translated">Sortieren nach</target>
+        <target state="translated" xml:lang="de">Sortieren nach</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival">
         <source>Sorted by Arrival</source>
-        <target xml:lang="de" state="translated">Nach Ankunft sortiert</target>
+        <target state="translated" xml:lang="de">Nach Ankunft sortiert</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure">
         <source>Sorted by Departure</source>
-        <target xml:lang="de" state="translated">Nach Abreise sortiert</target>
+        <target state="translated" xml:lang="de">Nach Abreise sortiert</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration">
         <source>Sorted by Duration</source>
-        <target xml:lang="de" state="translated">Nach Dauer sortiert</target>
+        <target state="translated" xml:lang="de">Nach Dauer sortiert</target>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
-        <target xml:lang="de" state="translated">Auf Yelp anschauen</target>
+        <target state="translated" xml:lang="de">Auf Yelp anschauen</target>
       </trans-unit>
       <trans-unit id="vehicle_modes">
         <source>Vehicle Modes</source>
-        <target xml:lang="de" state="translated">Fahrzeugarten</target>
+        <target state="translated" xml:lang="de">Fahrzeugarten</target>
       </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
-        <target xml:lang="de" state="translated">Nächste Abfahrten</target>
+        <target state="translated" xml:lang="de">Nächste Abfahrten</target>
       </trans-unit>
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
-        <target xml:lang="de" state="translated">Unbekannter Ort</target>
+        <target state="translated" xml:lang="de">Unbekannter Ort</target>
       </trans-unit>
       <trans-unit id="walkthrough_1">
         <source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-        <target xml:lang="de" state="translated">TripGo hilft dir, den besten Weg von A nach B zu finden - egal welches Verkehrsmittel.</target>
+        <target state="translated" xml:lang="de">TripGo hilft dir, den besten Weg von A nach B zu
+          finden - egal welches Verkehrsmittel.
+        </target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target xml:lang="de" state="translated">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...</target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
+        </source>
+        <target state="translated" xml:lang="de">Warte auf Signal; falls erfolglos, versuche GPS
+          aus- und wieder einzuschalten...
+        </target>
       </trans-unit>
       <trans-unit id="view_timetable_subtitle">
         <source>Upcoming services</source>
-        <target xml:lang="de" state="translated">Nächste Abfahrten</target>
+        <target state="translated" xml:lang="de">Nächste Abfahrten</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
-        <target xml:lang="de" state="translated">Fahrplan der nächsten Abfahrten sehen</target>
+        <target state="translated" xml:lang="de">Fahrplan der nächsten Abfahrten sehen</target>
       </trans-unit>
       <trans-unit id="tomorrow">
         <source>Tomorrow</source>
-        <target xml:lang="de" state="translated">Morgen</target>
+        <target state="translated" xml:lang="de">Morgen</target>
       </trans-unit>
       <trans-unit id="tap_to_set_location">
         <source>Tap to set location</source>
-        <target xml:lang="de" state="translated">Ort auswählen</target>
+        <target state="translated" xml:lang="de">Ort auswählen</target>
       </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
-        <target xml:lang="de" state="translated">Heute</target>
+        <target state="translated" xml:lang="de">Heute</target>
       </trans-unit>
       <trans-unit id="title_exclude_event_from_route">
         <source>Exclude event from routes?</source>
-        <target xml:lang="de" state="translated">Ereignis von der Route ausschließen?</target>
+        <target state="translated" xml:lang="de">Ereignis von der Route ausschließen?</target>
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
-        <target xml:lang="de" state="translated">Keine Daten für diese Haltestelle gefunden</target>
+        <target state="translated" xml:lang="de">Keine Daten für diese Haltestelle gefunden</target>
       </trans-unit>
       <trans-unit id="trip_to_unknown_dest_about_to_start">
         <source>It looks like you have a trip to make</source>
-        <target xml:lang="de" state="translated">Sieht aus als wenn ein Trip ansteht</target>
+        <target state="translated" xml:lang="de">Sieht aus als wenn ein Trip ansteht</target>
       </trans-unit>
       <trans-unit id="trip_to">
-        <source>Trip to </source>
-        <target xml:lang="de" state="translated">Trip nach %s </target>
+        <source>Trip to</source>
+        <target state="translated" xml:lang="de">Trip nach %s</target>
         <alt-trans>
-          <target xml:lang="de">Trip nach </target>
+          <target xml:lang="de">Trip nach</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>
-        <target xml:lang="de" state="translated">Trip-Einstellungen</target>
+        <target state="translated" xml:lang="de">Trip-Einstellungen</target>
       </trans-unit>
       <trans-unit id="transport_selector_header">
         <source>Include in the route results</source>
-        <target xml:lang="de" state="translated">In Ergebnissen berücksichtigen</target>
+        <target state="translated" xml:lang="de">In Ergebnissen berücksichtigen</target>
       </trans-unit>
       <trans-unit id="walkthrough_4">
         <source>Search routes directly right from Google search bar without opening TripGo.</source>
-        <target xml:lang="de" state="translated">Plane Routen direkt in der Google-Suchleiste, ohne TripGo zu öffnen.</target>
+        <target state="translated" xml:lang="de">Plane Routen direkt in der Google-Suchleiste, ohne
+          TripGo zu öffnen.
+        </target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
-        <target xml:lang="de" state="translated">Gestern</target>
+        <target state="translated" xml:lang="de">Gestern</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-        <target xml:lang="de" state="translated">Komme immer pünktlich. Die Agenda plant für dich im Voraus und gibt dir Bescheid wenn es Zeit ist zu gehen.</target>
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
+          leave.
+        </source>
+        <target state="translated" xml:lang="de">Komme immer pünktlich. Die Agenda plant für dich im
+          Voraus und gibt dir Bescheid wenn es Zeit ist zu gehen.
+        </target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
         <source>For those without an agenda, save favorite places.</source>
-        <target xml:lang="de" state="translated">Keine Agenda? Speicher deine Favoriten.</target>
+        <target state="translated" xml:lang="de">Keine Agenda? Speicher deine Favoriten.</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
-        <target xml:lang="de" state="translated">Dein Trip beginnt gleich</target>
+        <target state="translated" xml:lang="de">Dein Trip beginnt gleich</target>
       </trans-unit>
       <trans-unit id="you_are_here">
         <source>You are here</source>
-        <target xml:lang="de" state="translated">Du bist hier</target>
+        <target state="translated" xml:lang="de">Du bist hier</target>
       </trans-unit>
       <trans-unit id="you_r_already_at_s">
         <source>You are already at %s!</source>
-        <target xml:lang="de" state="translated">Du bist schon in %s!</target>
+        <target state="translated" xml:lang="de">Du bist schon in %s!</target>
+      </trans-unit>
+      <trans-unit id="news">
+        <source>News</source>
+        <target state="needs-translation" xml:lang="de">News</target>
+        <note>Settings option to enable/disable news (notifications).</note>
+      </trans-unit>
+      <trans-unit id="include_in_trips">
+        <source>Include in trips</source>
+        <target state="needs-translation" xml:lang="de">Include in trips</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
+        </note>
+      </trans-unit>
+      <trans-unit id="multiple_slots_available">
+        <source>%s slots available</source>
+        <target state="needs-translation" xml:lang="de">%s slots available</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
+        </note>
+      </trans-unit>
+      <trans-unit id="one_slot_available">
+        <source>%s slot available</source>
+        <target state="needs-translation" xml:lang="de">%s slot available</target>
+        <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
+      </trans-unit>
+      <trans-unit id="no_slots_available">
+        <source>No slots available</source>
+        <target state="needs-translation" xml:lang="de">No slots available</target>
+        <note>Used for parking slots, when there's no slots available.</note>
+      </trans-unit>
+      <trans-unit id="updated_at">
+        <source>Updated at: %s</source>
+        <target state="needs-translation" xml:lang="de">Updated at: %s</target>
+        <note>Parking slots, updated time. Example: Updated at: 10am</note>
+      </trans-unit>
+      <trans-unit id="almost_full">
+        <source>Almost full</source>
+        <target state="needs-translation" xml:lang="de">Almost full</target>
+        <note>Occupancy almost full</note>
       </trans-unit>
     </body>
   </file>
 </xliff>
-<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->
+

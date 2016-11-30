@@ -717,7 +717,42 @@
         <source>You are already at %s!</source>
         <target xml:lang="fr" state="translated">Vous êtes déjà à %s!</target>
       </trans-unit>
+      <trans-unit id="news">
+        <source>News</source>
+        <target xml:lang="fr" state="needs-translation">News</target>
+        <note>Settings option to enable/disable news (notifications).</note>
+      </trans-unit>
+      <trans-unit id="include_in_trips">
+        <source>Include in trips</source>
+        <target xml:lang="de" state="needs-translation">Include in trips</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in trips.</note>
+      </trans-unit>
+      <trans-unit id="multiple_slots_available">
+        <source>%s slots available</source>
+        <target xml:lang="fr" state="needs-translation">%s slots available</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available</note>
+      </trans-unit>
+      <trans-unit id="one_slot_available">
+        <source>%s slot available</source>
+        <target xml:lang="fr" state="needs-translation">%s slot available</target>
+        <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
+      </trans-unit>
+      <trans-unit id="no_slots_available">
+        <source>No slots available</source>
+        <target xml:lang="fr" state="needs-translation">No slots available</target>
+        <note>Used for parking slots, when there's no slots available.</note>
+      </trans-unit>
+      <trans-unit id="updated_at">
+        <source>Updated at: %s</source>
+        <target xml:lang="fr" state="needs-translation">Updated at: %s</target>
+        <note>Parking slots, updated time. Example: Updated at: 10am</note>
+      </trans-unit>
+      <trans-unit id="almost_full">
+        <source>Almost full</source>
+        <target xml:lang="fr" state="needs-translation">Almost full</target>
+        <note>Occupancy almost full</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
-<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->
+
