@@ -741,9 +741,9 @@
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
-        <source>No slots available</source>
-        <target xml:lang="it" state="needs-translation">No slots available</target>
-        <note>Used for parking slots, when there's no slots available.</note>
+        <source>No slot available</source>
+        <target xml:lang="it" state="needs-translation">No slot available</target>
+        <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
