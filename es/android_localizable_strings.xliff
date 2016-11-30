@@ -856,6 +856,16 @@
         <target state="translated" xml:lang="es-ES">Casi lleno</target>
         <note>Occupancy almost full</note>
       </trans-unit>
+      <trans-unit id="valid_from">
+        <source>Valid From</source>
+        <target state="translated" xml:lang="es-ES">Valido desde</target>
+        <note>Valid From title (date)</note>
+      </trans-unit>
+      <trans-unit id="ticket_info">
+        <source>Ticket Info</source>
+        <target state="translatedn" xml:lang="es-ES">Información del Ticket</target>
+        <note>Ticket Info title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

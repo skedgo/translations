@@ -727,7 +727,7 @@
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target xml:lang="ja state="needs-translation">%s slots available</target>
+        <target xml:lang="ja" state="needs-translation">%s slots available</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available</note>
       </trans-unit>
       <trans-unit id="one_slot_available">
@@ -749,6 +749,16 @@
         <source>Almost full</source>
         <target xml:lang="ja" state="needs-translation">Almost full</target>
         <note>Occupancy almost full</note>
+      </trans-unit>
+      <trans-unit id="valid_from">
+        <source>Valid From</source>
+        <target state="needs-translation" xml:lang="ja">Valid From</target>
+        <note>Valid From title (date)</note>
+      </trans-unit>
+      <trans-unit id="ticket_info">
+        <source>Ticket Info</source>
+        <target state="needs-translation" xml:lang="ja">Ticket Info</target>
+        <note>Ticket Info title</note>
       </trans-unit>
     </body>
   </file>
