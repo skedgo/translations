@@ -50,11 +50,6 @@
         <target>Home</target>
         <note>Typical name that you'd give your home location</note>
       </trans-unit>
-      <trans-unit id="NewEvent">
-        <source>NewEvent</source>
-        <target>NewEvent</target>
-        <note>Title for unnamed new event</note>
-      </trans-unit>
       <trans-unit id="No planned trip">
         <source>No planned trip</source>
         <target>No planned trip</target>
@@ -240,7 +235,7 @@
       </trans-unit>
       <trans-unit id="AgendaButton">
         <source>AgendaButton</source>
-        <target>AgendaButton</target>
+        <target>Agenda</target>
         <note>Agenda tab bar name</note>
       </trans-unit>
       <trans-unit id="Agree">
@@ -251,12 +246,12 @@
       </trans-unit>
       <trans-unit id="AirlineFlightNumber">
         <source>AirlineFlightNumber</source>
-        <target>AirlineFlightNumber</target>
+        <target>%@ flight %@</target>
         <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'</note>
       </trans-unit>
       <trans-unit id="AirlineFromTo">
         <source>AirlineFromTo</source>
-        <target>AirlineFromTo</target>
+        <target>>%@ (%@) to %@ (%@)</target>
         <note>Flight from a city to an other one</note>
       </trans-unit>
       <trans-unit id="Alert">
@@ -266,7 +261,7 @@
       </trans-unit>
       <trans-unit id="AlertTitleFormat">
         <source>AlertTitleFormat</source>
-        <target>AlertTitleFormat</target>
+        <target>Alert: %@</target>
         <note>Description of alert with %title</note>
       </trans-unit>
       <trans-unit id="All">
@@ -336,7 +331,7 @@
       </trans-unit>
       <trans-unit id="BookTaxi">
         <source>BookTaxi</source>
-        <target>BookTaxi</target>
+        <target>Book a taxi</target>
         <note>Book a taxi</note>
       </trans-unit>
       <trans-unit id="Bookings made with TripGo will appear here.">
@@ -356,12 +351,12 @@
       </trans-unit>
       <trans-unit id="Calendar Event">
         <source>Calendar Event</source>
-        <target>Calendar Event</target>
+        <target>Event</target>
         <note>Type for regular events that go in the phone's calendar.</note>
       </trans-unit>
       <trans-unit id="CalendarEventDescription">
         <source>CalendarEventDescription</source>
-        <target>CalendarEventDescription</target>
+        <target>Regular events which will be saved in your device's calendar.</target>
         <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
       </trans-unit>
       <trans-unit id="Calendars">
@@ -406,12 +401,12 @@
       </trans-unit>
       <trans-unit id="CriticalError">
         <source>CriticalError</source>
-        <target>CriticalError</target>
+        <target>Critical Error</target>
         <note>Title for critical error</note>
       </trans-unit>
       <trans-unit id="CriticalErrorFormat">
         <source>CriticalErrorFormat</source>
-        <target>CriticalErrorFormat</target>
+        <target>The application encountered a critical error and can't recover:</target>
         <note>Description for critical error where error will be shown below.</note>
       </trans-unit>
       <trans-unit id="Custom trip does not fit">
@@ -431,7 +426,7 @@
       </trans-unit>
       <trans-unit id="DateFromFormat">
         <source>DateFromFormat</source>
-        <target>DateFromFormat</target>
+        <target>From %@</target>
         <note>From %date</note>
       </trans-unit>
       <trans-unit id="DateFromToFormat">
@@ -472,7 +467,7 @@
       </trans-unit>
       <trans-unit id="EditItemHereTitle">
         <source>EditItemHereTitle</source>
-        <target>EditItemHereTitle</target>
+        <target>Agenda Item</target>
         <note>Title for page for modifying a routine/stay at a specific location</note>
       </trans-unit>
       <trans-unit id="End Date">
@@ -517,17 +512,17 @@
       </trans-unit>
       <trans-unit id="EventEndDateTime">
         <source>EventEndDateTime</source>
-        <target>EventEndDateTime</target>
+        <target>End</target>
         <note>Title for the time an event ends (including date information)</note>
       </trans-unit>
       <trans-unit id="EventRepeat">
         <source>EventRepeat</source>
-        <target>EventRepeat</target>
+        <target>Repeats</target>
         <note>Title for when an event repeats</note>
       </trans-unit>
       <trans-unit id="EventStartDateTime">
         <source>EventStartDateTime</source>
-        <target>EventStartDateTime</target>
+        <target>Start</target>
         <note>Title for the time an event starts (including date information)</note>
       </trans-unit>
       <trans-unit id="Every %@">
@@ -552,7 +547,7 @@
       </trans-unit>
       <trans-unit id="ExcuseDueToLate">
         <source>ExcuseDueToLate</source>
-        <target>ExcuseDueToLate</target>
+        <target>TripGo - There goes my excuse for being late...</target>
         <note>There goes my excuse for being late...</note>
       </trans-unit>
       <trans-unit id="Fast">
@@ -587,7 +582,7 @@
       </trans-unit>
       <trans-unit id="FavouritesButton">
         <source>FavouritesButton</source>
-        <target>FavouritesButton</target>
+        <target>Favourites</target>
         <note>Favourites tab bar name</note>
       </trans-unit>
       <trans-unit id="Feedback &amp; Support">
@@ -618,7 +613,7 @@
       </trans-unit>
       <trans-unit id="FlightNumberFormat">
         <source>FlightNumberFormat</source>
-        <target>FlightNumberFormat</target>
+        <target>Flight %@</target>
         <note>Title for flight with %flightNumber</note>
       </trans-unit>
       <trans-unit id="FlightSearch">
@@ -632,7 +627,7 @@
       </trans-unit>
       <trans-unit id="FreeDirections">
         <source>FreeDirections</source>
-        <target>FreeDirections</target>
+        <target>TripGo - Free directions</target>
         <note>Free directions</note>
       </trans-unit>
       <trans-unit id="From">
@@ -652,7 +647,7 @@
       </trans-unit>
       <trans-unit id="FromToForEventLocationFormat">
         <source>FromToForEventLocationFormat</source>
-        <target>FromToForEventLocationFormat</target>
+        <target>From %@ to %@</target>
         <note>Location for trip exported as event going from %location1 to %location2</note>
       </trans-unit>
       <trans-unit id="Garaged Vehicles">
@@ -692,7 +687,7 @@
       </trans-unit>
       <trans-unit id="GetAround">
         <source>GetAround</source>
-        <target>GetAround</target>
+        <target>I use TripGo to get around.</target>
         <note>I use TripGo to get around</note>
       </trans-unit>
       <trans-unit id="Getting trip...">
@@ -702,13 +697,13 @@
       </trans-unit>
       <trans-unit id="Habitual Visit">
         <source>Habitual Visit</source>
-        <target>Habitual Visit</target>
+        <target>Routine</target>
         <note>Routine, i.e., type for regular times when at one of the user's favorites
    Type for events that are regular visit's to one of the user's favorites</note>
       </trans-unit>
       <trans-unit id="HabitualEventDescription">
         <source>HabitualEventDescription</source>
-        <target>HabitualEventDescription</target>
+        <target>Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</target>
         <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish.</note>
       </trans-unit>
       <trans-unit id="Has TripGo been useful to you?">
@@ -784,7 +779,7 @@
       </trans-unit>
       <trans-unit id="LocationComingFrom">
         <source>LocationComingFrom</source>
-        <target>LocationComingFrom</target>
+        <target>Where are you going from?</target>
         <note>Where are you going from?</note>
       </trans-unit>
       <trans-unit id="LocationWantToGo">
@@ -799,7 +794,7 @@
       </trans-unit>
       <trans-unit id="LostOnce">
         <source>LostOnce</source>
-        <target>LostOnce</target>
+        <target>I once was lost but now I have found... TripGo.</target>
         <note>I once was lost but now I have found... TripGo</note>
       </trans-unit>
       <trans-unit id="Manual Reminders">
@@ -861,7 +856,7 @@
       </trans-unit>
       <trans-unit id="MinutesBefore">
         <source>MinutesBefore</source>
-        <target>MinutesBefore</target>
+        <target>%.0f minutes before</target>
         <note>Number of minutes before departure</note>
       </trans-unit>
       <trans-unit id="More">
@@ -920,13 +915,13 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NewEvent">
-        <source>NewEvent</source>
-        <target>NewEvent</target>
+        <source>New Event</source>
+        <target>New Event</target>
         <note>Title for unnamed new event</note>
       </trans-unit>
       <trans-unit id="NewItemAwayActionTitle">
         <source>NewItemAwayActionTitle</source>
-        <target>NewItemAwayActionTitle</target>
+        <target>Stay at a different location</target>
         <note>Action title for adding a habitual item away from some location</note>
       </trans-unit>
       <trans-unit id="NewItemHereActionTitle">
@@ -936,12 +931,12 @@
       </trans-unit>
       <trans-unit id="NewItemHereTitle">
         <source>NewItemHereTitle</source>
-        <target>NewItemHereTitle</target>
+        <target>Agenda Item</target>
         <note>Title for page for adding a new routine/stay at a specific location</note>
       </trans-unit>
       <trans-unit id="NewStayTitle">
         <source>NewStayTitle</source>
-        <target>NewStayTitle</target>
+        <target>New Stay</target>
         <note>Title for page for adding a new routing/stay at a specific location</note>
       </trans-unit>
       <trans-unit id="No 'From' location selected">
@@ -991,7 +986,7 @@
       </trans-unit>
       <trans-unit id="NumberRouteFormat">
         <source>NumberRouteFormat</source>
-        <target>NumberRouteFormat</target>
+        <target>Route %ld of %ld</target>
         <note>Title for route number %1 of %total, where %total &gt; 1.</note>
       </trans-unit>
       <trans-unit id="OK">
@@ -1283,7 +1278,7 @@
       </trans-unit>
       <trans-unit id="SearchButton">
         <source>SearchButton</source>
-        <target>SearchButton</target>
+        <target>Search</target>
         <note>Search tab bar name</note>
       </trans-unit>
       <trans-unit id="Select Bike Share">
@@ -1505,7 +1500,7 @@
       </trans-unit>
       <trans-unit id="TitleEventName">
         <source>TitleEventName</source>
-        <target>TitleEventName</target>
+        <target>Title</target>
         <note>Title event name</note>
       </trans-unit>
       <trans-unit id="TitleFavouriteName">
@@ -1526,27 +1521,27 @@
       </trans-unit>
       <trans-unit id="TransportGenius">
         <source>TransportGenius</source>
-        <target>TransportGenius</target>
+        <target>TripGo - Transport genius</target>
         <note>Transport genius</note>
       </trans-unit>
       <trans-unit id="TransportModeWish">
         <source>TransportModeWish</source>
-        <target>TransportModeWish</target>
+        <target>TripGo - How do you want to go today?</target>
         <note>How do you want to go today?</note>
       </trans-unit>
       <trans-unit id="TripsButton">
         <source>TripsButton</source>
-        <target>TripsButton</target>
+        <target>Trips</target>
         <note>Trips tab bar name</note>
       </trans-unit>
       <trans-unit id="TypeEvent">
         <source>TypeEvent</source>
-        <target>TypeEvent</target>
+        <target>Type</target>
         <note>Type of the event (calendar event, stay, routine)</note>
       </trans-unit>
       <trans-unit id="TypeVehicle">
         <source>TypeVehicle</source>
-        <target>TypeVehicle</target>
+        <target>Type</target>
         <note>Type of the vehicle</note>
       </trans-unit>
       <trans-unit id="Upcoming">
@@ -1623,12 +1618,12 @@
       </trans-unit>
       <trans-unit id="WhenIAmAwayHeader">
         <source>WhenIAmAwayHeader</source>
-        <target>WhenIAmAwayHeader</target>
+        <target>Stays</target>
         <note>Header for staying away form home, i.e., when a user is NOT at their home</note>
       </trans-unit>
       <trans-unit id="WhenIAmHereHeader">
         <source>WhenIAmHereHeader</source>
-        <target>WhenIAmHereHeader</target>
+        <target>Agenda</target>
         <note>Header for accommodations, i.e., when a user is typically at this location
    Header for routines and accommodations, i.e., when a user is typically at this location</note>
       </trans-unit>
