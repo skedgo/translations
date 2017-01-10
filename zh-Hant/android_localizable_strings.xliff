@@ -682,10 +682,6 @@
         <source>Tomorrow</source>
         <target xml:lang="zh-TW" state="translated">明天</target>
       </trans-unit>
-      <trans-unit id="tap_to_set_location">
-        <source>Tap to set location</source>
-        <target xml:lang="zh-TW" state="translated">點擊來選取地點</target>
-      </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
         <target xml:lang="zh-TW" state="translated">今天</target>

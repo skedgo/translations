@@ -915,13 +915,6 @@
         <source>Tomorrow</source>
         <target xml:lang="fi" state="translated">Huomenna</target>
       </trans-unit>
-      <trans-unit id="tap_to_set_location">
-        <source>Tap to set location</source>
-        <target xml:lang="fi" state="translated">Napauta asettaaksesi sijainnin</target>
-        <alt-trans>
-          <target xml:lang="fi">Napauta asettaaksesi sijainti</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
         <target xml:lang="fi" state="translated">Tänään</target>

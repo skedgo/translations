@@ -655,10 +655,6 @@
         <source>Tomorrow</source>
         <target xml:lang="ja" state="translated">明日</target>
       </trans-unit>
-      <trans-unit id="tap_to_set_location">
-        <source>Tap to set location</source>
-        <target xml:lang="ja" state="translated">タップして場所を設定します。</target>
-      </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
         <target xml:lang="ja" state="translated">今日</target>

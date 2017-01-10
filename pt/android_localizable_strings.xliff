@@ -682,10 +682,6 @@
         <source>Tomorrow</source>
         <target xml:lang="pt-PT" state="translated">Amanhã</target>
       </trans-unit>
-      <trans-unit id="tap_to_set_location">
-        <source>Tap to set location</source>
-        <target xml:lang="pt-PT" state="translated">Toque para definir a localização</target>
-      </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
         <target xml:lang="pt-PT" state="translated">Hoje</target>
