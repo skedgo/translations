@@ -47,8 +47,11 @@
         <target xml:lang="pt-PT" state="translated">AlTodos os alertas</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target xml:lang="pt-PT" state="translated">Todos os seus calendários estão invisíveis, porfavor ligue-os no calendário nativo ou configurações da conta</target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or
+          account settings
+        </source>
+        <target xml:lang="pt-PT" state="translated">Todos os seus calendários estão invisíveis, porfavor ligue-os no calendário nativo ou configurações da conta
+        </target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -63,8 +66,10 @@
         <target xml:lang="pt-PT" state="translated">" (chegada "</target>
       </trans-unit>
       <trans-unit id="body_exclude_this_event_from_route">
-        <source>This event will no longer have trips to or from it. The event will still be shown</source>
-        <target xml:lang="pt-PT" state="translated">Esse evento não possuirá mais trajetos de ida ou vinda. O evento continuará a mostra</target>
+        <source>This event will no longer have trips to or from it. The event will still be shown
+        </source>
+        <target xml:lang="pt-PT" state="translated">Esse evento não possuirá mais trajetos de ida ou vinda. O evento continuará a mostra
+        </target>
       </trans-unit>
       <trans-unit id="body_exclude_related_event_from_route">
         <source>The event related to the trip will be excluded. It will still be shown</source>
@@ -143,12 +148,17 @@
         <target xml:lang="pt-PT" state="translated">Edite evento</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
-        <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
-        <target xml:lang="pt-PT" state="translated">Todos os seus calendários estão desabilitados em TripGo, Porfavor abilite-os em configurações</target>
+        <source>All your calendars are disabled in TripGo, please enable them in Settings section
+        </source>
+        <target xml:lang="pt-PT" state="translated">Todos os seus calendários estão desabilitados em TripGo, Porfavor abilite-os em configurações
+        </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="pt-PT" state="translated">Nosso Acordo de Licença do Utilizador Final mudou. Voce precisa concordar com o acordo bantes de continuar usando ess aplicativo.</target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
+          the use of this app.
+        </source>
+        <target xml:lang="pt-PT" state="translated">Nosso Acordo de Licença do Utilizador Final mudou. Voce precisa concordar com o acordo bantes de continuar usando ess aplicativo.
+        </target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -215,8 +225,8 @@
         <target xml:lang="pt-PT" state="translated">Obter serviços de Google Play</target>
       </trans-unit>
       <trans-unit id="first">
-        <source>First: </source>
-        <target xml:lang="pt-PT" state="translated">Primeiro: </target>
+        <source>First:</source>
+        <target xml:lang="pt-PT" state="translated">Primeiro:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
@@ -335,8 +345,11 @@
         <target xml:lang="pt-PT" state="translated">Sem serviços de Google Play!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
-        <target xml:lang="pt-PT" state="translated">este aplicativo requer a instalação de serviços de Google Play.\n\nPorfavor baixe isto e continue usando o applicativo</target>
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
+          continue using the app
+        </source>
+        <target xml:lang="pt-PT" state="translated">este aplicativo requer a instalação de serviços de Google Play.\n\nPorfavor baixe isto e continue usando o applicativo
+        </target>
       </trans-unit>
       <trans-unit id="priority_convenience_subtext">
         <source>Hassle of the trip</source>
@@ -423,8 +436,12 @@
         <target xml:lang="pt-PT" state="translated">Salvar</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target xml:lang="pt-PT" state="translated">Rotinas são postagens dos seus movimentos diários, Mas eles não são eventos que voce quer no seu calendário (ex.: trabalho). Eles são importantes para a sua agenda para que voce chegue no lugar certo na hora certa</target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in
+          your calendar (e.g. work). They are important for the Agenda to get you to the right
+          location at the right time
+        </source>
+        <target xml:lang="pt-PT" state="translated">Rotinas são postagens dos seus movimentos diários, Mas eles não são eventos que voce quer no seu calendário (ex.: trabalho). Eles são importantes para a sua agenda para que voce chegue no lugar certo na hora certa
+        </target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
         <source>Anonymous Data Tracking</source>
@@ -459,8 +476,11 @@
         <target xml:lang="pt-PT" state="translated">Set Localização</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="pt-PT" state="translated">Use os seus próximos eventos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora</target>
+        <source>Use your upcoming calendar events as location suggestions. This information is not
+          stored on any server
+        </source>
+        <target xml:lang="pt-PT" state="translated">Use os seus próximos eventos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
@@ -483,8 +503,11 @@
         <target xml:lang="pt-PT" state="translated">Avaliar o aplicativo na loja</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
-        <target xml:lang="pt-PT" state="translated">Permita TripGo de anonimamente rastrear a sua localização quando voce o usa (NÃO no fundo)</target>
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
+          background)
+        </source>
+        <target xml:lang="pt-PT" state="translated">Permita TripGo de anonimamente rastrear a sua localização quando voce o usa (NÃO no fundo)
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_distance_units">
         <source>Distance units to use in trip results</source>
@@ -527,8 +550,11 @@
         <target xml:lang="pt-PT" state="translated">Para uso da servidora. Nota isso substituirá *TODAs* as chamadas da servidora!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="pt-PT" state="translated">Use os seus endereçøs de contatos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora</target>
+        <source>Use your contact addresses as location suggestions. This information is not stored
+          on any server
+        </source>
+        <target xml:lang="pt-PT" state="translated">Use os seus endereçøs de contatos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_trip_preferences">
         <source>Influence trip results by setting what's most important to you</source>
@@ -639,8 +665,10 @@
         <target xml:lang="pt-PT" state="translated">TripGo ajuda voce a achar o melhor caminho de A para B usando qualquer meio de transporte.</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target xml:lang="pt-PT" state="translated">Espere para sinal da localização, se falhar, voce pode tentar desligar e ligar o GPS.</target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
+        </source>
+        <target xml:lang="pt-PT" state="translated">Espere para sinal da localização, se falhar, voce pode tentar desligar e ligar o GPS.
+        </target>
       </trans-unit>
       <trans-unit id="view_timetable_subtitle">
         <source>Upcoming services</source>
@@ -675,10 +703,10 @@
         <target xml:lang="pt-PT" state="translated">Parace que voce tem um trajeto a fazer</target>
       </trans-unit>
       <trans-unit id="trip_to">
-        <source>Trip to </source>
-        <target xml:lang="pt-PT" state="translated">Trajeto para %s </target>
+        <source>Trip to</source>
+        <target xml:lang="pt-PT" state="translated">Trajeto para %s</target>
         <alt-trans>
-          <target xml:lang="pt-PT">Trajeto para </target>
+          <target xml:lang="pt-PT">Trajeto para</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
@@ -698,8 +726,11 @@
         <target xml:lang="pt-PT" state="translated">Ontem</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-        <target xml:lang="pt-PT" state="translated">Nunca se atrase. Agenda planeja adiantado pra voce e avisa quando voce deve sair.</target>
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
+          leave.
+        </source>
+        <target xml:lang="pt-PT" state="translated">Nunca se atrase. Agenda planeja adiantado pra voce e avisa quando voce deve sair.
+        </target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
         <source>For those without an agenda, save favorite places.</source>
@@ -719,50 +750,52 @@
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target xml:lang="pt-PT" state="needs-translation">News</target>
+        <target xml:lang="pt-PT" state="translated">Noticias</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target xml:lang="pt-PT" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.</note>
+        <target xml:lang="pt-PT" state="translated">Incluir em viagens</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
+        </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target xml:lang="pt-PT" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available</note>
+        <target xml:lang="pt-PT" state="translated">%s lugares disponíveis</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target xml:lang="pt-PT" state="needs-translation">%s slot available</target>
+        <target xml:lang="pt-PT" state="translated">%s lugar disponível</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target xml:lang="pt-PT" state="needs-translation">No slot available</target>
+        <target xml:lang="pt-PT" state="translated">Nenhum lugar disponível</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target xml:lang="pt-PT" state="needs-translation">Updated at: %s</target>
+        <target xml:lang="pt-PT" state="translated">Atualizado às: %s</target>
         <note>Parking slots, updated time. Example: Updated at: 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target xml:lang="pt-PT" state="needs-translation">Almost full</target>
+        <target xml:lang="pt-PT" state="translated">Quase cheio</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="valid_from">
         <source>Valid From</source>
-        <target state="needs-translation" xml:lang="pt-PT">Valid From</target>
+        <target xml:lang="pt-PT" state="translated">Válido Desde</target>
         <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>
-        <target state="needs-translation" xml:lang="pt-PT">Ticket Info</target>
+        <target xml:lang="pt-PT" state="translated">Informação do Bilhete</target>
         <note>Ticket Info title</note>
       </trans-unit>
     </body>
   </file>
 </xliff>
-<!-- This is an auto generated file (Thu Apr 07 10:22:55 ART 2016) -->

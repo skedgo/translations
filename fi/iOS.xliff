@@ -1,8 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="TripGo WatchKit Extension/Watch.strings" source-language="en" target-language="fi">
+  <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8T61a" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1"/>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo Agenda</source>
+        <target xml:lang="fi" state="translated">TripGo Agenda</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>Notification Extension</source>
+        <target xml:lang="fi" state="needs-translation">Notification Extension</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="00e-CH-gOu.title">
+        <source>Reminder</source>
+        <target xml:lang="fi" state="translated">Muistutus</target>
+        <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
+      </trans-unit>
+      <trans-unit id="0mK-e0-427.text">
+        <source>Description</source>
+        <target xml:lang="fi" state="translated">Kuvaus</target>
+        <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
+      </trans-unit>
+      <trans-unit id="6Qf-Ve-PDJ.text">
+        <source>No Data</source>
+        <target xml:lang="fi" state="translated">Ei tietoja</target>
+        <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
+      </trans-unit>
+      <trans-unit id="AgC-eL-Hgc.title">
+        <source>TripGo</source>
+        <target xml:lang="fi" state="translated">TripGo</target>
+        <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
+      </trans-unit>
+      <trans-unit id="F85-mJ-6yD.text">
+        <source>Getting trip</source>
+        <target xml:lang="fi" state="translated">Matkaa haetaan...</target>
+        <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
+        <alt-trans>
+          <target xml:lang="fi">Matkan vieminen...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="GGf-v0-vEJ.title">
+        <source>Show Map</source>
+        <target xml:lang="fi" state="translated">Näytä kartta</target>
+        <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
+      </trans-unit>
+      <trans-unit id="RoM-Us-t1Y.title">
+        <source>Favourites</source>
+        <target xml:lang="fi" state="translated">Suosikit</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
+      </trans-unit>
+      <trans-unit id="Uzb-ex-6N5.title">
+        <source>Agenda</source>
+        <target xml:lang="fi" state="translated">Agenda</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
+      </trans-unit>
+      <trans-unit id="cAf-NX-Z7L.title">
+        <source>Favourites</source>
+        <target xml:lang="fi" state="translated">Suosikit</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
+      </trans-unit>
+      <trans-unit id="h3q-kR-2ID.title">
+        <source>Timetable</source>
+        <target xml:lang="fi" state="translated">Aikataulu</target>
+        <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
+      </trans-unit>
+      <trans-unit id="jYK-Fw-rhR.text">
+        <source>Alert</source>
+        <target xml:lang="fi" state="translated">Ilmoitus</target>
+        <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
+      </trans-unit>
+      <trans-unit id="r0K-AY-XvO.title">
+        <source>Retry</source>
+        <target xml:lang="fi" state="translated">Yritä uudelleen</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
+      </trans-unit>
+      <trans-unit id="rQN-eo-Bg2.title">
+        <source>Timetable</source>
+        <target xml:lang="fi" state="translated">Aikataulu</target>
+        <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo</source>
+        <target xml:lang="fi" state="translated">TripGo</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo WatchKit Extension</source>
+        <target xml:lang="fi" state="needs-translation">TripGo WatchKit Extension</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Watch.strings" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
     </header>
     <body>
       <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
@@ -10,32 +135,34 @@
         <target xml:lang="fi" state="translated">Suunnittele matka puhelimellasi tai paina pitkään päästäksesi suosikkeihin.</target>
         <note>Instruction to users when there are no upcoming trips</note>
       </trans-unit>
-      <trans-unit id="Plan a trip on your phone.">
-        <source>Plan a trip on your phone.</source>
-        <target xml:lang="fi" state="translated">Suunnittele matka puhelimellasi.</target>
-        <note>Instruction to users when there are no upcoming trips (for non-interactive Glance)</note>
-      </trans-unit>
     </body>
+  </file>
+  <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8T61a" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1"/>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
     </header>
     <body>
       <trans-unit id="%@ to %@">
         <source>%@ to %@</source>
         <target xml:lang="fi" state="translated">%@ -&gt; %@</target>
-        <note>Format string for going from one location to another. Used to name favourite trips.</note>
+        <note>Format string for going from one location to another. For example: Used to name favourite trips.</note>
+      </trans-unit>
+      <trans-unit id="Add stopover...">
+        <source>Add stopover...</source>
+        <target xml:lang="fi" state="translated">Lisää välipysäkki</target>
+        <note>Add a new stopover</note>
       </trans-unit>
       <trans-unit id="Add to Agenda">
         <source>Add to Agenda</source>
         <target xml:lang="fi" state="translated">Lisää Agendalle</target>
         <note>Button to save a trip to the agenda</note>
-      </trans-unit>
-      <trans-unit id="AddStopover">
-        <source>AddStopover</source>
-        <target xml:lang="fi" state="translated">Lisää välipysäkki</target>
-        <note>Add a new stopover</note>
       </trans-unit>
       <trans-unit id="Agenda">
         <source>Agenda</source>
@@ -92,11 +219,6 @@
         <target xml:lang="fi" state="translated">Lento</target>
         <note>Title for a flight</note>
       </trans-unit>
-      <trans-unit id="From %@">
-        <source>From %@</source>
-        <target xml:lang="fi" state="translated">Kohteesta %@</target>
-        <note>Format string for going from one location to others. Used to name favourite stops.</note>
-      </trans-unit>
       <trans-unit id="Getting current location">
         <source>Getting current location</source>
         <target xml:lang="fi" state="translated">Haetaan tämänhetkistä sijaintia</target>
@@ -132,20 +254,10 @@
         <target xml:lang="fi" state="translated">Piilotettu</target>
         <note>Indicator that a transport mode will appear minimised on the routes screen.</note>
       </trans-unit>
-      <trans-unit id="NewEvent">
-        <source>NewEvent</source>
+      <trans-unit id="New event">
+        <source>New event</source>
         <target xml:lang="fi" state="translated">Uusi tapahtuma</target>
         <note>Title for unnamed new event</note>
-      </trans-unit>
-      <trans-unit id="No planned trip">
-        <source>No planned trip</source>
-        <target xml:lang="fi" state="translated">Ei suunniteltua matkaa</target>
-        <note>Text to show if there's no planned trip.</note>
-      </trans-unit>
-      <trans-unit id="No planned trips">
-        <source>No planned trips</source>
-        <target xml:lang="fi" state="translated">Ei suunniteltuja matkoja</target>
-        <note>Indicating no trips have been planned within 24 hrs</note>
       </trans-unit>
       <trans-unit id="Only This">
         <source>Only This</source>
@@ -160,22 +272,7 @@
       <trans-unit id="Please restart the app. Sorry for the inconvenience!">
         <source>Please restart the app. Sorry for the inconvenience!</source>
         <target xml:lang="fi" state="translated">Ole hyvä ja käynnistä sovellus uudelleen. Pahoittelut häiriöstä!</target>
-        <note>Recovery suggestion when database got corrupted</note>
-      </trans-unit>
-      <trans-unit id="Please try restarting the app. Sorry for the inconvenience!">
-        <source>Please try restarting the app. Sorry for the inconvenience!</source>
-        <target xml:lang="fi" state="translated">Käynnistä sovellus uudelleen. Pahoittelut häiriöstä!</target>
-        <note>Recovery suggestion when TripGo cannot update its local files</note>
-      </trans-unit>
-      <trans-unit id="PrivateTimeToLeave">
-        <source>PrivateTimeToLeave</source>
-        <target xml:lang="fi" state="translated">Aika lähteä! Matkasi kohteeseen %@ alkaa klo %@</target>
-        <note>Notification message for a trip. Provided is %destination and %time you need to leave.</note>
-      </trans-unit>
-      <trans-unit id="PrivateTimeToLeaveNoLocation">
-        <source>PrivateTimeToLeaveNoLocation</source>
-        <target xml:lang="fi" state="translated">Aika lähteä! Matkasi alkaa klo %@</target>
-        <note>Notification message for trip with unknown destination. Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
+        <note>Recovery suggestion when an app restart is required, e.g., when the database got corrupted and/or the app can't access its local files.</note>
       </trans-unit>
       <trans-unit id="Profile">
         <source>Profile</source>
@@ -197,19 +294,19 @@
         <target xml:lang="fi" state="translated">Näytä kartta</target>
         <note>Action title to show map for a segment</note>
       </trans-unit>
-      <trans-unit id="ShowTrip">
-        <source>ShowTrip</source>
+      <trans-unit id="Show trip">
+        <source>Show trip</source>
         <target xml:lang="fi" state="translated">Näytä Matka</target>
         <note>Show trip</note>
       </trans-unit>
       <trans-unit id="Snooze 5 mins">
         <source>Snooze 5 mins</source>
-        <target xml:lang="fi" state="needs-translation">Snooze 5 mins</target>
+        <target xml:lang="fi" state="translated">Torkku 5 min</target>
         <note>Action button on trip reminders to snooze it for a fixed amount.</note>
       </trans-unit>
       <trans-unit id="Snooze until next">
         <source>Snooze until next</source>
-        <target xml:lang="fi" state="needs-translation">Snooze until next</target>
+        <target xml:lang="fi" state="translated">Odota seuraavaa</target>
         <note>Action button on public transport trip reminders to skip this service and get reminded for the next service</note>
       </trans-unit>
       <trans-unit id="Stay">
@@ -217,15 +314,20 @@
         <target xml:lang="fi" state="translated">Yöpyminen</target>
         <note>Stay, i.e., type for dates you're staying at a hotel, or when moving house.</note>
       </trans-unit>
-      <trans-unit id="StepsNumber">
-        <source>StepsNumber</source>
-        <target xml:lang="fi" state="translated">%@ askelta</target>
-        <note>Number of steps</note>
-      </trans-unit>
       <trans-unit id="Stopover">
         <source>Stopover</source>
         <target xml:lang="fi" state="translated">Välipysäkki</target>
         <note>Title for stopover event</note>
+      </trans-unit>
+      <trans-unit id="Time to leave! Your trip commences at %@">
+        <source>Time to leave! Your trip commences at %@</source>
+        <target xml:lang="fi" state="translated">Aika lähteä! Matkasi alkaa klo %@</target>
+        <note>Notification message for trip with unknown destination. Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
+      </trans-unit>
+      <trans-unit id="Time to leave! Your trip to %@ commences at %@">
+        <source>Time to leave! Your trip to %@ commences at %@</source>
+        <target xml:lang="fi" state="translated">Aika lähteä! Matkasi kohteeseen %@ alkaa klo %@</target>
+        <note>Notification message for a trip. Provided is %destination and %time you need to leave.</note>
       </trans-unit>
       <trans-unit id="Timetable">
         <source>Timetable</source>
@@ -240,11 +342,6 @@
       <trans-unit id="TripGo cannot access its local files.">
         <source>TripGo cannot access its local files.</source>
         <target xml:lang="fi" state="translated">TripGo ei saa yhteyttä paikallisiin tiedostoihinsa.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="TripGo cannot update its local files.">
-        <source>TripGo cannot update its local files.</source>
-        <target xml:lang="fi" state="translated">TripGo ei voi päivittää paikallisia tiedostojaan.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Trips">
@@ -262,18 +359,168 @@
         <target xml:lang="fi" state="translated">Näytä</target>
         <note>Button to view something, e.g., a notification content or the EULA</note>
       </trans-unit>
-      <trans-unit id="WhenIAmHereHeader">
-        <source>WhenIAmHereHeader</source>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="3d9-Hg-2Fe.title">
+        <source>Trips</source>
+        <target xml:lang="fi" state="translated">Matkat</target>
+        <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+      </trans-unit>
+      <trans-unit id="5WK-au-VFq.title">
+        <source>Settings</source>
+        <target xml:lang="fi" state="translated">Asetukset</target>
+        <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq";</note>
+      </trans-unit>
+      <trans-unit id="IFX-i9-ymN.title">
+        <source>Routes</source>
+        <target xml:lang="fi" state="translated">Reitit</target>
+        <note>Class = "UINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN";</note>
+      </trans-unit>
+      <trans-unit id="JMk-5m-B22.title">
+        <source>Service</source>
+        <target xml:lang="fi" state="translated">Yhteys</target>
+        <note>Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22";</note>
+        <alt-trans>
+          <target xml:lang="fi">Palvelu</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="QTR-Ae-g7f.title">
+        <source>Trip</source>
+        <target xml:lang="fi" state="translated">Matka</target>
+        <note>Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f";</note>
+      </trans-unit>
+      <trans-unit id="TNA-bx-79H.title">
+        <source>Agenda</source>
         <target xml:lang="fi" state="translated">Agenda</target>
-        <note>Header for accommodations, i.e., when a user is typically at this location</note>
+        <note>Class = "UITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H";</note>
+      </trans-unit>
+      <trans-unit id="TYM-9i-XBA.title">
+        <source>Profile</source>
+        <target xml:lang="fi" state="translated">Profiili</target>
+        <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA";</note>
+        <alt-trans>
+          <target xml:lang="fi">Asetukset</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="t3k-Ks-sqa.title">
+        <source>Alerts</source>
+        <target xml:lang="fi" state="translated">Ilmoitukset</target>
+        <note>Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa";</note>
+      </trans-unit>
+      <trans-unit id="ye4-ch-zSe.title">
+        <source>Favourites</source>
+        <target xml:lang="fi" state="translated">Suosikit</target>
+        <note>Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe";</note>
+      </trans-unit>
+      <trans-unit id="zCk-Ai-u6n.title">
+        <source>Timetable</source>
+        <target xml:lang="fi" state="translated">Aikataulu</target>
+        <note>Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n";</note>
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="fi">
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8T61a" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1"/>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
     </header>
     <body>
+      <trans-unit id="30.accessibilityLabel">
+        <source>Swap from and to</source>
+        <target xml:lang="fi" state="translated">Vaihda lähtöpaikka ja määränpää</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+      </trans-unit>
+      <trans-unit id="44.normalTitle">
+        <source>Time</source>
+        <target xml:lang="fi" state="translated">Aika</target>
+        <note>Class = "UIButton"; normalTitle = "Time"; ObjectID = "44";</note>
+      </trans-unit>
+      <trans-unit id="57.accessibilityLabel">
+        <source>Route</source>
+        <target xml:lang="fi" state="translated">Reitti</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="57.normalTitle">
+        <source>Route</source>
+        <target xml:lang="fi" state="translated">Reitti</target>
+        <note>Class = "UIButton"; normalTitle = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="JFm-H4-fOo.accessibilityLabel">
+        <source>To Location</source>
+        <target xml:lang="fi" state="translated">Määränpää</target>
+        <note>Class = "UIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo";</note>
+      </trans-unit>
+      <trans-unit id="bs1-li-naL.accessibilityLabel">
+        <source>From Location</source>
+        <target xml:lang="fi" state="translated">Lähtöpaikka</target>
+        <note>Class = "UIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/QRCodeViewController.xib" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="Ymf-LY-K7e.text">
+        <source>VALID FROM</source>
+        <target xml:lang="fi" state="translated">Voimassa alkaen</target>
+        <note>Class = "UILabel"; text = "VALID FROM"; ObjectID = "Ymf-LY-K7e";</note>
+      </trans-unit>
+      <trans-unit id="x1o-my-P1Q.text">
+        <source>TO</source>
+        <target xml:lang="fi" state="translated">-</target>
+        <note>Class = "UILabel"; text = "TO"; ObjectID = "x1o-my-P1Q";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/TripBoyView.xib" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="xKe-fs-FjF.normalTitle">
+        <source>Retry</source>
+        <target xml:lang="fi" state="translated">Yritä uudelleen</target>
+        <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "xKe-fs-FjF";</note>
+        <alt-trans>
+          <target xml:lang="fi">Kokeile uudelleen</target>
+        </alt-trans>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="fi">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="%.0f minutes">
+        <source>%.0f minutes</source>
+        <target xml:lang="fi" state="translated">%.0f minuuttia</target>
+        <note>Minutes format (used for transfer times). (old key: Minutes)</note>
+      </trans-unit>
+      <trans-unit id="%.0f minutes before">
+        <source>%.0f minutes before</source>
+        <target xml:lang="fi" state="translated">%.0f minuuttia ennen</target>
+        <note>Minutes format (used alert firing X minuts before departure). (old key: MinutesBefore)</note>
+      </trans-unit>
       <trans-unit id="%@ Account">
         <source>%@ Account</source>
         <target xml:lang="fi" state="translated">%@ Tili</target>
@@ -288,6 +535,11 @@
         <source>%@ every %@</source>
         <target xml:lang="fi" state="translated">%1$@ joka %2$@</target>
         <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
+      </trans-unit>
+      <trans-unit id="%@ flight %@">
+        <source>%@ flight %@</source>
+        <target xml:lang="fi" state="translated">%@ Lento %@</target>
+        <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'. (old key: AirlineFlightNumber)</note>
       </trans-unit>
       <trans-unit id="Access to location services required.">
         <source>Access to location services required.</source>
@@ -330,15 +582,15 @@
         <target xml:lang="fi" state="translated">Lisää ajoneuvo</target>
         <note>Action title for adding a vehicle</note>
       </trans-unit>
-      <trans-unit id="Added to Agenda">
-        <source>Added to Agenda</source>
-        <target xml:lang="fi" state="translated">Lisätty Agendalle</target>
-        <note>Add to agenda HUD notice</note>
+      <trans-unit id="Add when I'm here">
+        <source>Add when I'm here</source>
+        <target xml:lang="fi" state="translated">Lisää rutiini suosikkeihin</target>
+        <note>Action title for adding another habitual visit to a favourite. (old key: NewItemHereActionTitle)</note>
       </trans-unit>
-      <trans-unit id="Added to calendar">
-        <source>Added to calendar</source>
-        <target xml:lang="fi" state="translated">Lisätty Kalenteriin</target>
-        <note>Added to calendar HUD message</note>
+      <trans-unit id="Added">
+        <source>Added</source>
+        <target xml:lang="fi" state="translated">Lisätty</target>
+        <note>Confirmation that something got added HUD notice</note>
       </trans-unit>
       <trans-unit id="Address required">
         <source>Address required</source>
@@ -353,31 +605,10 @@
           <target xml:lang="fi">Agendan asettaminen</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="AirlineFlightNumber">
-        <source>AirlineFlightNumber</source>
-        <target xml:lang="fi" state="translated">%@ Lento %@</target>
-        <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'</note>
-      </trans-unit>
-      <trans-unit id="AirlineFromTo">
-        <source>AirlineFromTo</source>
-        <target xml:lang="fi" state="translated">%@ (%@) -&gt; %@ (%@)</target>
-        <note>Flight from a city to an other one</note>
-        <alt-trans>
-          <target xml:lang="fi">Kohteesta %@ (%@) kohteeseen %@ (%@)</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">%@ (%@):stä %@ (%@):iin</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="Alert">
         <source>Alert</source>
         <target xml:lang="fi" state="translated">Ilmoitus</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="AlertTitleFormat">
-        <source>AlertTitleFormat</source>
-        <target xml:lang="fi" state="translated">Ilmoitus: %@</target>
-        <note>Description of alert with %title</note>
       </trans-unit>
       <trans-unit id="Alerts">
         <source>Alerts</source>
@@ -401,9 +632,9 @@
         <target xml:lang="fi" state="translated">Saapuminen</target>
         <note>Arrival date+time for overnight stay</note>
       </trans-unit>
-      <trans-unit id="ArriveBefore">
-        <source>ArriveBefore</source>
-        <target xml:lang="fi" state="translated">Perillä</target>
+      <trans-unit id="Arrive by">
+        <source>Arrive by</source>
+        <target xml:lang="fi" state="translated">Saapu klo</target>
         <note>Arrive before button</note>
       </trans-unit>
       <trans-unit id="Assign to vehicle">
@@ -418,11 +649,6 @@
         <source>At %@</source>
         <target xml:lang="fi" state="translated">Klo %@</target>
         <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
-      </trans-unit>
-      <trans-unit id="Authentication cannot be completed at this time. Please try again later.">
-        <source>Authentication cannot be completed at this time. Please try again later.</source>
-        <target xml:lang="fi" state="translated">Todennusta ei voitu suorittaa tällä kertaa. Ole hyvä, yritä myöhemmin uudelleen.</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Auto">
         <source>Auto</source>
@@ -445,20 +671,9 @@
           <target xml:lang="fi">Erinomaista! Haluaisitko arvostella meidät?</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="Book vehicle">
-        <source>Book vehicle</source>
-        <target xml:lang="fi" state="translated">Varaa ajoneuvo</target>
-        <note>vehicle booking action</note>
-        <alt-trans>
-          <target xml:lang="fi">Varaa kulkuneuvo</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Varaa auto</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="BookTaxi">
-        <source>BookTaxi</source>
-        <target xml:lang="fi" state="translated">Varaa Taxi</target>
+      <trans-unit id="Book a taxi">
+        <source>Book a taxi</source>
+        <target xml:lang="fi" state="translated">Varaa taksi</target>
         <note>Book a taxi</note>
       </trans-unit>
       <trans-unit id="Bookings made with TripGo will appear here.">
@@ -475,14 +690,6 @@
         <source>Calendar</source>
         <target xml:lang="fi" state="translated">Kalenteri</target>
         <note>Calendar</note>
-      </trans-unit>
-      <trans-unit id="CalendarEventDescription">
-        <source>CalendarEventDescription</source>
-        <target xml:lang="fi" state="translated">Säännöllisiin tapahtumiin lukeutuvat tapahtumat, jotka tallennetaan laitteen kalenteriin.</target>
-        <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
-        <alt-trans>
-          <target xml:lang="fi">Säännölliset tapahtumat, jotka tallennetaan laitteen kalenteriin.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="Calendars">
         <source>Calendars</source>
@@ -530,18 +737,10 @@
           <target xml:lang="fi">Kaupunkia ei löydy.</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="CriticalError">
-        <source>CriticalError</source>
+      <trans-unit id="Critical Error">
+        <source>Critical Error</source>
         <target xml:lang="fi" state="translated">Kriittinen virhe</target>
         <note>Title for critical error</note>
-      </trans-unit>
-      <trans-unit id="CriticalErrorFormat">
-        <source>CriticalErrorFormat</source>
-        <target xml:lang="fi" state="translated">Sovellus on havainnut vakavan virheen eikä sitä voida palauttaa:</target>
-        <note>Description for critical error where error will be shown below.</note>
-        <alt-trans>
-          <target xml:lang="fi">Sovellus on havainnut vakavan virheen eikä voi periä maksua:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="Custom trip does not fit">
         <source>Custom trip does not fit</source>
@@ -562,21 +761,6 @@
         <note>Cycling speed preference</note>
         <alt-trans>
           <target xml:lang="fi">Polkupyörän nopeus</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="DateFromFormat">
-        <source>DateFromFormat</source>
-        <target xml:lang="fi" state="translated">%@ lähtien</target>
-        <note>From %date</note>
-        <alt-trans>
-          <target xml:lang="fi">%@:stä</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="DateFromToFormat">
-        <source>DateFromToFormat</source>
-        <target xml:lang="fi" state="translated">%@ - %@</target>
-        <alt-trans>
-          <target xml:lang="fi">%@:stä to %@:iin</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="Departure">
@@ -613,18 +797,20 @@
           <target xml:lang="fi">Ei työ- tai opiskelupaikan kiinteää osoitetta? Ohita tämä vaihe.</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="EditItemHereTitle">
-        <source>EditItemHereTitle</source>
-        <target xml:lang="fi" state="translated">Agendan Merkintä</target>
-        <note>Title for page for modifying a routine/stay at a specific location</note>
-        <alt-trans>
-          <target xml:lang="fi">Agendan Kohta</target>
-        </alt-trans>
+      <trans-unit id="Duration">
+        <source>Duration</source>
+        <target xml:lang="fi" state="translated">Kesto</target>
+        <note>Label for 'Duration' button to sort trips by their total duration. (old key: ViewDurationButton)</note>
+      </trans-unit>
+      <trans-unit id="Effective in">
+        <source>Effective in</source>
+        <target xml:lang="fi" state="translated">Voimassa</target>
+        <note>Used in countdown context, indicating when a ticket becomes valid</note>
       </trans-unit>
       <trans-unit id="End Date">
         <source>End Date</source>
         <target xml:lang="fi" state="translated">Päättymispäivä</target>
-        <note>Title for date when an event ends repeating</note>
+        <note>Title for the time an event ends (including date information)</note>
       </trans-unit>
       <trans-unit id="End User Licence Agreement">
         <source>End User Licence Agreement</source>
@@ -667,27 +853,6 @@
         <target xml:lang="fi" state="translated">Tapahtuma peruttiin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="EventEndDateTime">
-        <source>EventEndDateTime</source>
-        <target xml:lang="fi" state="translated">Päättymisaika</target>
-        <note>Title for the time an event ends (including date information)</note>
-        <alt-trans>
-          <target xml:lang="fi">Päättyy</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="EventRepeat">
-        <source>EventRepeat</source>
-        <target xml:lang="fi" state="translated">Toistuva</target>
-        <note>Title for when an event repeats</note>
-      </trans-unit>
-      <trans-unit id="EventStartDateTime">
-        <source>EventStartDateTime</source>
-        <target xml:lang="fi" state="translated">Alkamisaika</target>
-        <note>Title for the time an event starts (including date information)</note>
-        <alt-trans>
-          <target xml:lang="fi">Alku</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
         <target xml:lang="fi" state="translated">Joka %@</target>
@@ -698,20 +863,23 @@
         <target xml:lang="fi" state="translated">Esim.</target>
         <note>Text do mark an example</note>
       </trans-unit>
-      <trans-unit id="Example Trip">
-        <source>Example Trip</source>
-        <target xml:lang="fi" state="needs-translation">Example Trip</target>
-        <note>Title for example trip</note>
-      </trans-unit>
       <trans-unit id="Exclude">
         <source>Exclude</source>
         <target xml:lang="fi" state="translated">Poissulje</target>
         <note>Exclude event action</note>
       </trans-unit>
-      <trans-unit id="ExcuseDueToLate">
-        <source>ExcuseDueToLate</source>
-        <target xml:lang="fi" state="translated">TripGo - Siinä menivät tekosyyt myöhästymisille...</target>
-        <note>There goes my excuse for being late...</note>
+      <trans-unit id="Expire in">
+        <source>Expire in</source>
+        <target xml:lang="fi" state="translated">Loppuu</target>
+        <note>Used in countdown context, indicating when a ticket expires</note>
+        <alt-trans>
+          <target xml:lang="fi">Erääntyy</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Expired">
+        <source>Expired</source>
+        <target xml:lang="fi" state="translated">Loppunut</target>
+        <note>Title for list of expired tickets</note>
       </trans-unit>
       <trans-unit id="Fast">
         <source>Fast</source>
@@ -727,22 +895,6 @@
         <source>Favourite Trip</source>
         <target xml:lang="fi" state="translated">Suosikkimatka</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Favourite added">
-        <source>Favourite added</source>
-        <target xml:lang="fi" state="translated">Lisätty suosikkeihin</target>
-        <note>Add favourite HUD notice</note>
-        <alt-trans>
-          <target xml:lang="fi">Suosikki lisätty</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="Favourite removed">
-        <source>Favourite removed</source>
-        <target xml:lang="fi" state="translated">Poistettu suosikeista</target>
-        <note>Remove trip from favourites HUD notice</note>
-        <alt-trans>
-          <target xml:lang="fi">Suosikki poistettu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="Feedback &amp; Support">
         <source>Feedback &amp; Support</source>
@@ -761,42 +913,6 @@
         <source>Flight number</source>
         <target xml:lang="fi" state="translated">Lentonumero</target>
       </trans-unit>
-      <trans-unit id="FlightDate">
-        <source>FlightDate</source>
-        <target xml:lang="fi" state="translated">Lentopäivä</target>
-        <alt-trans>
-          <target xml:lang="fi">Päivämäärä</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="FlightDetails">
-        <source>FlightDetails</source>
-        <target xml:lang="fi" state="translated">Tarkemmat lentotiedot</target>
-        <alt-trans>
-          <target xml:lang="fi">Tarkemmat tiedot</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="FlightNote">
-        <source>FlightNote</source>
-        <target xml:lang="fi" state="translated">Kommentit</target>
-        <alt-trans>
-          <target xml:lang="fi">Huom.</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="FlightNumberFormat">
-        <source>FlightNumberFormat</source>
-        <target xml:lang="fi" state="translated">Lentonumero %@</target>
-        <note>Title for flight with %flightNumber</note>
-        <alt-trans>
-          <target xml:lang="fi">Lento %@</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="FlightSearch">
-        <source>FlightSearch</source>
-        <target xml:lang="fi" state="translated">Hae lentoa</target>
-        <alt-trans>
-          <target xml:lang="fi">Etsi Lento</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
         <target xml:lang="fi" state="translated">Kun pitää lähteä</target>
@@ -808,14 +924,6 @@
           <target xml:lang="fi">Lähteminen</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="FreeDirections">
-        <source>FreeDirections</source>
-        <target xml:lang="fi" state="translated">Tripgo - Ilmaisia reittiohjeita</target>
-        <note>Free directions</note>
-        <alt-trans>
-          <target xml:lang="fi">Tripgo - Ilmaisia ohjeita</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="From">
         <source>From</source>
         <target xml:lang="fi" state="translated">Kohteesta</target>
@@ -824,31 +932,12 @@
           <target xml:lang="fi">Lähtösijainti</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="From %@, leaving now">
-        <source>From %@, leaving now</source>
-        <target xml:lang="fi" state="translated">Lähde nyt kohteesta %@</target>
-        <note>No comment provided by engineer.</note>
-        <alt-trans>
-          <target xml:lang="fi">Kohteesta %@, lähde nyt</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="From current location">
         <source>From current location</source>
         <target xml:lang="fi" state="translated">Tämänhetkisestä sijainnista</target>
         <note>Route here... ...from Current location</note>
         <alt-trans>
           <target xml:lang="fi">Nykyisestä sijainnista</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="FromToForEventLocationFormat">
-        <source>FromToForEventLocationFormat</source>
-        <target xml:lang="fi" state="translated">%@ -&gt; %@</target>
-        <note>Location for trip exported as event going from %location1 to %location2</note>
-        <alt-trans>
-          <target xml:lang="fi">Kohteesta %@ kohteeseen %@</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Mistä: %@ Mihin: %@</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="Garaged Vehicles">
@@ -877,12 +966,12 @@
       <trans-unit id="Get off here">
         <source>Get off here</source>
         <target xml:lang="fi" state="translated">Jää pois tässä</target>
-        <note>No comment provided by engineer.</note>
+        <note>Get off here</note>
       </trans-unit>
       <trans-unit id="Get on here">
         <source>Get on here</source>
         <target xml:lang="fi" state="translated">Nouse kyytiin tässä</target>
-        <note>No comment provided by engineer.</note>
+        <note>Get on here</note>
         <alt-trans>
           <target xml:lang="fi">Mene kyytiin tässä</target>
         </alt-trans>
@@ -893,27 +982,6 @@
         <note>Description for button to get on or off at the selected public transport stop rather than where TripGo suggested.</note>
         <alt-trans>
           <target xml:lang="fi">Mene kyytiin tai jää pois tässä</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="GetAround">
-        <source>GetAround</source>
-        <target xml:lang="fi" state="translated">Käytän TripGo:ta päästäkseni paikasta toiseen.</target>
-        <note>I use TripGo to get around</note>
-        <alt-trans>
-          <target xml:lang="fi">Käytän TripGoa kiertelyyn.</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="Habitual Visit">
-        <source>Habitual Visit</source>
-        <target xml:lang="fi" state="translated">Rutiini</target>
-        <note>Routine, i.e., type for regular times when at one of the user's favorites</note>
-      </trans-unit>
-      <trans-unit id="HabitualEventDescription">
-        <source>HabitualEventDescription</source>
-        <target xml:lang="fi" state="translated">Rutiineihin kuuluvat sellaiset säännölliset matkat, joita et halua merkitä kalenteriisi (esim. työ). Ne ovat tärkeitä, sillä ilman niitä Agenda ei osaisi suunnitella matkojasi siten, että olet aina oikeassa paikassa oikeaan aikaan.</target>
-        <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish.</note>
-        <alt-trans>
-          <target xml:lang="fi">Rutiinit ovat osa päivittäistä liikkumista, mutta ne eivät ole tapahtumia, jotka haluat näkyvän kalenterissa (esim työ). Ne ovat tärkeitä päästäksesi oikeaan paikkaan oikeaan aikaan.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="Has TripGo been useful to you?">
@@ -939,7 +1007,6 @@
       <trans-unit id="Include Step Count">
         <source>Include Step Count</source>
         <target xml:lang="fi" state="translated">Sisällytä askelmäärä</target>
-        <note>Title for setting to include step count on Agenda screen</note>
         <alt-trans>
           <target xml:lang="fi">Sisällytä askelmäärät</target>
         </alt-trans>
@@ -947,8 +1014,7 @@
       <trans-unit id="Include in routes">
         <source>Include in routes</source>
         <target xml:lang="fi" state="translated">Sisällytä reitteihin</target>
-        <note>Title for a switch indicating if this event should be included in all-day routes
-   Title for setting to include transport mode in trips.</note>
+        <note>Title for a switch indicating two things: 1) if transport mode should be included in trips and 2) if this event should be included in all-day routes</note>
       </trans-unit>
       <trans-unit id="Jump to today">
         <source>Jump to today</source>
@@ -963,8 +1029,8 @@
         <target xml:lang="fi" state="translated">Km</target>
         <note>Distance 'kilometers'</note>
       </trans-unit>
-      <trans-unit id="LeaveAfter">
-        <source>LeaveAfter</source>
+      <trans-unit id="Leave at">
+        <source>Leave at</source>
         <target xml:lang="fi" state="translated">Lähtöaika</target>
         <note>Leave after button</note>
       </trans-unit>
@@ -991,33 +1057,12 @@
           <target xml:lang="fi">Sijainti puuttuu.</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="LocationComingFrom">
-        <source>LocationComingFrom</source>
-        <target xml:lang="fi" state="translated">Mistä lähdet?</target>
-        <note>Where are you going from?</note>
-      </trans-unit>
-      <trans-unit id="LocationWantToGo">
-        <source>LocationWantToGo</source>
-        <target xml:lang="fi" state="translated">Minne haluat mennä?</target>
-        <note>Where do you want to go?</note>
-        <alt-trans>
-          <target xml:lang="fi">Minne menet?</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="Long press on the map to choose a location">
         <source>Long press on the map to choose a location</source>
         <target xml:lang="fi" state="translated">Valitse sijainti painamalla haluttua kohtaa pitkään kartalla</target>
         <note>No comment provided by engineer.</note>
         <alt-trans>
           <target xml:lang="fi">Valise sijainti painamalla haluttua kohtaa pitkään kartalla</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="LostOnce">
-        <source>LostOnce</source>
-        <target xml:lang="fi" state="translated">Jätä hyvästit eksymisille.... TripGo.</target>
-        <note>I once was lost but now I have found... TripGo</note>
-        <alt-trans>
-          <target xml:lang="fi">Kerran eksyin, mutta nyt olen löytynyt.... TripGo.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="Manual Reminders">
@@ -1079,20 +1124,10 @@
           <target xml:lang="fi">Minimoi tämän kulkumuodon osalta tulokset reittinäytöllä. Ominaisuus helpottaa löytämään kulkutavat joita käytät vain silloin tällöin.</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="Minutes">
-        <source>Minutes</source>
-        <target xml:lang="fi" state="translated">%.0f min</target>
-        <note>Minutes format (used for transfer times)</note>
-      </trans-unit>
       <trans-unit id="Minutes before trip">
         <source>Minutes before trip</source>
         <target xml:lang="fi" state="translated">Minuuttia ennen matkaa</target>
         <note>Reminder to leave preference</note>
-      </trans-unit>
-      <trans-unit id="MinutesBefore">
-        <source>MinutesBefore</source>
-        <target xml:lang="fi" state="translated">%.0f min ennen lähtöä</target>
-        <note>Number of minutes before departure</note>
       </trans-unit>
       <trans-unit id="More">
         <source>More</source>
@@ -1108,14 +1143,6 @@
         <source>Movie</source>
         <target xml:lang="fi" state="translated">Elokuva</target>
         <note>Sample event name ('Movie')</note>
-      </trans-unit>
-      <trans-unit id="My Agenda">
-        <source>My Agenda</source>
-        <target xml:lang="fi" state="translated">Oma Agenda</target>
-        <note>No comment provided by engineer.</note>
-        <alt-trans>
-          <target xml:lang="fi">Oma Asialista</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="My Bookings">
         <source>My Bookings</source>
@@ -1149,11 +1176,6 @@
           <target xml:lang="fi">Omat ajoneuvot</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="NameVehicle">
-        <source>NameVehicle</source>
-        <target xml:lang="fi" state="translated">Nimi</target>
-        <note>Name of the vehicle</note>
-      </trans-unit>
       <trans-unit id="Navigate to a supported city on a map.">
         <source>Navigate to a supported city on a map.</source>
         <target xml:lang="fi" state="translated">Siirry tuetun kaupungin kohdalle kartalla.</target>
@@ -1163,40 +1185,6 @@
         <source>New Favourite</source>
         <target xml:lang="fi" state="translated">Uusi suosikki</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="NewEvent">
-        <source>NewEvent</source>
-        <target xml:lang="fi" state="translated">Uusi tapahtuma</target>
-        <note>Title for unnamed new event</note>
-      </trans-unit>
-      <trans-unit id="NewItemAwayActionTitle">
-        <source>NewItemAwayActionTitle</source>
-        <target xml:lang="fi" state="translated">Määritä uusi paikka</target>
-        <note>Action title for adding a habitual item away from some location</note>
-      </trans-unit>
-      <trans-unit id="NewItemHereActionTitle">
-        <source>NewItemHereActionTitle</source>
-        <target xml:lang="fi" state="translated">Lisää rutiini suosikkeihin</target>
-        <note>Action title for adding another habitual visit to a favourite</note>
-        <alt-trans>
-          <target xml:lang="fi">Lisää milloin olen tässä</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="NewItemHereTitle">
-        <source>NewItemHereTitle</source>
-        <target xml:lang="fi" state="translated">Uusi Agendamerkintä</target>
-        <note>Title for page for adding a new routine/stay at a specific location</note>
-        <alt-trans>
-          <target xml:lang="fi">Uusi merkintä Agendaan</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Uusi kohta Agendalle</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="NewStayTitle">
-        <source>NewStayTitle</source>
-        <target xml:lang="fi" state="translated">Uusi paikka</target>
-        <note>Title for page for adding a new routing/stay at a specific location</note>
       </trans-unit>
       <trans-unit id="No 'From' location selected">
         <source>No 'From' location selected</source>
@@ -1247,14 +1235,6 @@
         <target xml:lang="fi" state="translated">Nyt</target>
         <note>Countdown cell 'now' indicator</note>
       </trans-unit>
-      <trans-unit id="NumberRouteFormat">
-        <source>NumberRouteFormat</source>
-        <target xml:lang="fi" state="translated">Reitti %ld / %ld</target>
-        <note>Title for route number %1 of %total, where %total &gt; 1.</note>
-        <alt-trans>
-          <target xml:lang="fi">Reitti %ld %ld:stä</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
         <target xml:lang="fi" state="translated">Ok</target>
@@ -1265,7 +1245,7 @@
       </trans-unit>
       <trans-unit id="Open Agenda">
         <source>Open Agenda</source>
-        <target xml:lang="fi" state="needs-translation">Open Agenda</target>
+        <target xml:lang="fi" state="translated">Avaa Agenda</target>
         <note>Title for homescreen action to open the agenda</note>
       </trans-unit>
       <trans-unit id="Open TripGo app and add the location of this favourite.">
@@ -1280,11 +1260,6 @@
         <alt-trans>
           <target xml:lang="fi">Avaa TripGo tai puhelimen Asetukset ja salli TripGolle pääsy sijaintipalveluihin.</target>
         </alt-trans>
-      </trans-unit>
-      <trans-unit id="Open URL">
-        <source>Open URL</source>
-        <target xml:lang="fi" state="translated">Avaa URL</target>
-        <note>Button title to open URL</note>
       </trans-unit>
       <trans-unit id="Open website">
         <source>Open website</source>
@@ -1319,13 +1294,13 @@
       </trans-unit>
       <trans-unit id="Plan Trip">
         <source>Plan Trip</source>
-        <target xml:lang="fi" state="needs-translation">Plan Trip</target>
+        <target xml:lang="fi" state="translated">Suunnittele matka</target>
         <note>Title for homescreen action to plan a new trip</note>
       </trans-unit>
       <trans-unit id="Plan a new trip">
         <source>Plan a new trip</source>
-        <target xml:lang="fi" state="needs-translation">Plan a new trip</target>
-        <note>Title for butotn that allows users to plan a new trip</note>
+        <target xml:lang="fi" state="translated">Suunnittele uusi matka</target>
+        <note>Title for button that allows users to plan a new trip</note>
       </trans-unit>
       <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
         <source>Plan a trip on your phone or press firmly to access your favourites.</source>
@@ -1359,15 +1334,20 @@
         <target xml:lang="fi" state="translated">Ole hyvä, määritä osoite.</target>
         <note>Alert message that asks users to provide the missing address for a new event.</note>
       </trans-unit>
+      <trans-unit id="Preferred">
+        <source>Preferred</source>
+        <target xml:lang="fi" state="translated">Suositut</target>
+        <note>Label for 'Overall' button to sort trips by their overall total score considering all factors. (old key: ViewOverallButton)</note>
+      </trans-unit>
       <trans-unit id="Preferred transport">
         <source>Preferred transport</source>
         <target xml:lang="fi" state="translated">Ensisijainen kulkutapa</target>
         <note>Title for preferred public transport modes.</note>
       </trans-unit>
-      <trans-unit id="Previous">
-        <source>Previous</source>
-        <target xml:lang="fi" state="translated">Edellinen</target>
-        <note>Title for list of past bookings</note>
+      <trans-unit id="Price">
+        <source>Price</source>
+        <target xml:lang="fi" state="translated">Hinta</target>
+        <note>Label for 'Price' button to sort trips by their total cost. (old key: ViewPriceButton)</note>
       </trans-unit>
       <trans-unit id="Priorities">
         <source>Priorities</source>
@@ -1393,19 +1373,10 @@
         <target xml:lang="fi" state="translated">Arvostele TripGo</target>
         <note>Rate us preference</note>
       </trans-unit>
-      <trans-unit id="Reminder">
-        <source>Reminder</source>
-        <target xml:lang="fi" state="translated">Muistutus</target>
-      </trans-unit>
-      <trans-unit id="Reminder added">
-        <source>Reminder added</source>
-        <target xml:lang="fi" state="translated">Muistutus lisätty</target>
-        <note>Added reminder notice</note>
-      </trans-unit>
-      <trans-unit id="Reminder removed">
-        <source>Reminder removed</source>
-        <target xml:lang="fi" state="translated">Muistutus poistettu</target>
-        <note>Removed reminder HUD notice</note>
+      <trans-unit id="Regular events which will be saved in your device's calendar.">
+        <source>Regular events which will be saved in your device's calendar.</source>
+        <target xml:lang="fi" state="translated">Säännöllisiin tapahtumiin lukeutuvat tapahtumat, jotka tallennetaan laitteen kalenteriin.</target>
+        <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
       </trans-unit>
       <trans-unit id="Reminders">
         <source>Reminders</source>
@@ -1437,10 +1408,10 @@
         <target xml:lang="fi" state="translated">Poista Agendalta</target>
         <note>Unsave trip action</note>
       </trans-unit>
-      <trans-unit id="Removed from Agenda">
-        <source>Removed from Agenda</source>
-        <target xml:lang="fi" state="translated">Poistettu Agendalta</target>
-        <note>Remove from agenda HUD notice</note>
+      <trans-unit id="Removed">
+        <source>Removed</source>
+        <target xml:lang="fi" state="translated">Poistettu</target>
+        <note>Confirmation that something got removed HUD notice</note>
       </trans-unit>
       <trans-unit id="Removing this trip will exclude the following event from your agenda.">
         <source>Removing this trip will exclude the following event from your agenda.</source>
@@ -1465,6 +1436,11 @@
           <target xml:lang="fi">Sarja loppuu</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="Repeats">
+        <source>Repeats</source>
+        <target xml:lang="fi" state="translated">Toistuu</target>
+        <note>Title for when an event repeats</note>
+      </trans-unit>
       <trans-unit id="Report Problem">
         <source>Report Problem</source>
         <target xml:lang="fi" state="translated">Ilmoita Ongelmasta</target>
@@ -1472,7 +1448,7 @@
       </trans-unit>
       <trans-unit id="Request support">
         <source>Request support</source>
-        <target xml:lang="fi" state="needs-translation">Request support</target>
+        <target xml:lang="fi" state="translated">Ota yhteyttä tukeen</target>
         <note>Title for button that allows users to request support</note>
       </trans-unit>
       <trans-unit id="Request...">
@@ -1524,7 +1500,12 @@
       <trans-unit id="Routes">
         <source>Routes</source>
         <target xml:lang="fi" state="translated">Reitit</target>
-        <note>Results screen title</note>
+        <note>Title of routes screen, that shows all the results for getting from A to B</note>
+      </trans-unit>
+      <trans-unit id="Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.">
+        <source>Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</source>
+        <target xml:lang="fi" state="translated">Rutiineihin kuuluvat sellaiset säännölliset matkat, joita et halua merkitä kalenteriisi (esim. työ). Ne ovat tärkeitä, sillä ilman niitä Agenda ei osaisi suunnitella matkojasi siten, että olet aina oikeassa paikassa oikeaan aikaan.</target>
+        <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish. (old key: HabitualEventDescription)</note>
       </trans-unit>
       <trans-unit id="Routing from %@ to %@ is not yet supported">
         <source>Routing from %@ to %@ is not yet supported</source>
@@ -1533,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="Routing request">
         <source>Routing request</source>
-        <target xml:lang="fi" state="needs-translation">Routing request</target>
+        <target xml:lang="fi" state="translated">Reitityspyyntö</target>
         <note>Used in the form that requests support for a specific routing</note>
       </trans-unit>
       <trans-unit id="Satellite">
@@ -1574,28 +1555,6 @@
           <target xml:lang="fi">Etsi työpaikkasi</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="SearchButton">
-        <source>SearchButton</source>
-        <target xml:lang="fi" state="translated">Hae</target>
-        <note>Search tab bar name</note>
-        <alt-trans>
-          <target xml:lang="fi">Etsi</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="Select Bike Share">
-        <source>Select Bike Share</source>
-        <target xml:lang="fi" state="translated">Valitse kaupunkipyörät</target>
-        <alt-trans>
-          <target xml:lang="fi">Valitse jaetut pyörät</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="Select Car Park">
-        <source>Select Car Park</source>
-        <target xml:lang="fi" state="translated">Valitse parkkihalli</target>
-        <alt-trans>
-          <target xml:lang="fi">Valitse autoparkki</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="Select Vehicle">
         <source>Select Vehicle</source>
         <target xml:lang="fi" state="translated">Valitse ajoneuvo</target>
@@ -1615,15 +1574,10 @@
         <target xml:lang="fi" state="translated">Lähetä Reaaliaikainen tekstiviesti (SMS)</target>
         <note>Action button title for composing an SMS to a real-time service</note>
       </trans-unit>
-      <trans-unit id="Settings">
-        <source>Settings</source>
-        <target xml:lang="fi" state="translated">Asetukset</target>
-      </trans-unit>
       <trans-unit id="Share Arrival">
         <source>Share Arrival</source>
         <target xml:lang="fi" state="translated">Jaa saapumisaika</target>
-        <note>Action button title for sharing when you arrive
-   Share arrival</note>
+        <note>Action button title for sharing when you arrive</note>
         <alt-trans>
           <target xml:lang="fi">Jaa saapuminen</target>
         </alt-trans>
@@ -1641,7 +1595,6 @@
       <trans-unit id="Show booking options">
         <source>Show booking options</source>
         <target xml:lang="fi" state="translated">Näytä varausvaihtoehdot</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show details">
         <source>Show details</source>
@@ -1681,7 +1634,7 @@
       </trans-unit>
       <trans-unit id="Showing %@ of %@ transport modes">
         <source>Showing %@ of %@ transport modes</source>
-        <target xml:lang="fi" state="needs-translation">Showing %@ of %@ transport modes</target>
+        <target xml:lang="fi" state="translated">Näytetään %@ / %@ kulkumuodoista</target>
         <note>Indicator for how many transport modes are being displayed out of the total available ones for the region of the trip. First placeholder will be replaced with selected number, second with total number.</note>
       </trans-unit>
       <trans-unit id="Skip">
@@ -1704,31 +1657,15 @@
         <target xml:lang="fi" state="translated">Kerro kaverillesi</target>
         <note>Spread the word preference</note>
       </trans-unit>
-      <trans-unit id="SrcToDstFormat">
-        <source>SrcToDstFormat</source>
-        <target xml:lang="fi" state="translated">Lento kohteesta %@ (%@) kohteeseen %@ (%@)</target>
-        <alt-trans>
-          <target xml:lang="fi">Kohteesta %@ (%@) kohteeseen %@ (%@)</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">%@ (%@):stä %@ (%@):n</target>
-        </alt-trans>
+      <trans-unit id="Start">
+        <source>Start</source>
+        <target xml:lang="fi" state="translated">Lähtö</target>
+        <note>Title for the time an event starts (including date information)</note>
       </trans-unit>
-      <trans-unit id="Stay">
-        <source>Stay</source>
-        <target xml:lang="fi" state="translated">Yöpyminen</target>
-        <note>Stay, i.e., type for dates you're staying at a hotel, or when moving house.</note>
-        <alt-trans>
-          <target xml:lang="fi">Yövy</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="StayEventDescription">
-        <source>StayEventDescription</source>
-        <target xml:lang="fi" state="translated">Yöpymisiä verrataan kalenterin tapahtumiin ja rutiineihin, jotta mahdolliset hotellivaraukset tehdään oikeille päiville oikeissa paikoissa.</target>
-        <note>Explanation for what stays are compared to calendar events and routines. Can be long-ish.</note>
-        <alt-trans>
-          <target xml:lang="fi">Vertaa hotellien käyttämistä matkoilla kalenterin tapahtumiin ja rutiineihin.</target>
-        </alt-trans>
+      <trans-unit id="Stay at a different location">
+        <source>Stay at a different location</source>
+        <target xml:lang="fi" state="translated">Määritä uusi paikka</target>
+        <note>Action title for adding a habitual item away from some location. (old key: NewItemAwayActionTitle)</note>
       </trans-unit>
       <trans-unit id="Stop code: %@">
         <source>Stop code: %@</source>
@@ -1754,14 +1691,6 @@
         <note>Walkthrough</note>
         <alt-trans>
           <target xml:lang="fi">Rullamalla päiviä voit selailla viikkojen välillä</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="Tap 'Routes' for alternative routes">
-        <source>Tap 'Routes' for alternative routes</source>
-        <target xml:lang="fi" state="translated">Napauta 'Reitit' nähdäksesi vaihtoehtoisia reittejä</target>
-        <note>Walkthrough - should match translation for '\"Routes\"'</note>
-        <alt-trans>
-          <target xml:lang="fi">Napauta "Reitit" nähdäksesi vaihtoehtoisia reittejä.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="Tap and hold title to jump directly to a specified date.">
@@ -1816,9 +1745,19 @@
         <target xml:lang="fi" state="translated">Kiitos!</target>
         <note>Thank you HUD notice</note>
       </trans-unit>
+      <trans-unit id="The application encountered a critical error and can't recover:">
+        <source>The application encountered a critical error and can't recover:</source>
+        <target xml:lang="fi" state="translated">Sovellus on havainnut vakavan virheen eikä sitä voida palauttaa:</target>
+        <note>Description for critical error where error will be shown below.</note>
+      </trans-unit>
+      <trans-unit id="Ticket">
+        <source>Ticket</source>
+        <target xml:lang="fi" state="translated">Lippu</target>
+        <note>Title for view that presents a purchased ticket</note>
+      </trans-unit>
       <trans-unit id="Ticket expired">
         <source>Ticket expired</source>
-        <target xml:lang="fi" state="needs-translation">Ticket expired</target>
+        <target xml:lang="fi" state="translated">Lipun voimassaolo päättynyt</target>
         <note>Indicating that a ticket has expired.</note>
       </trans-unit>
       <trans-unit id="Time at Work">
@@ -1828,11 +1767,6 @@
         <alt-trans>
           <target xml:lang="fi">Aika työpaikalla</target>
         </alt-trans>
-      </trans-unit>
-      <trans-unit id="Time left">
-        <source>Time left</source>
-        <target xml:lang="fi" state="needs-translation">Time left</target>
-        <note>Indicating how much time is left for a valid ticket.</note>
       </trans-unit>
       <trans-unit id="Time zone">
         <source>Time zone</source>
@@ -1844,15 +1778,10 @@
         <target xml:lang="fi" state="translated">Ajat</target>
         <note>Header for times a user is typically at this location, e.g., working hours</note>
       </trans-unit>
-      <trans-unit id="TitleEventName">
-        <source>TitleEventName</source>
-        <target xml:lang="fi" state="translated">Otsikko</target>
-        <note>Title event name</note>
-      </trans-unit>
-      <trans-unit id="TitleFavouriteName">
-        <source>TitleFavouriteName</source>
-        <target xml:lang="fi" state="translated">Otsikko</target>
-        <note>Title favourite name</note>
+      <trans-unit id="Title">
+        <source>Title</source>
+        <target xml:lang="fi" state="translated">Titteli</target>
+        <note>Title, e.g., for event or favourite. (old key: TitleFavouriteName)</note>
       </trans-unit>
       <trans-unit id="To">
         <source>To</source>
@@ -1865,38 +1794,25 @@
           <target xml:lang="fi">Mihin?</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="TransportGenius">
-        <source>TransportGenius</source>
-        <target xml:lang="fi" state="translated">TripGo - Älykästä liikkumista</target>
-        <note>Transport genius</note>
-      </trans-unit>
-      <trans-unit id="TransportModeWish">
-        <source>TransportModeWish</source>
-        <target xml:lang="fi" state="translated">TripGo - Miten pääset tänään perille?</target>
-        <note>How do you want to go today?</note>
-        <alt-trans>
-          <target xml:lang="fi">TripGo - Miten haluat kulkea tänään?</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="TypeEvent">
-        <source>TypeEvent</source>
-        <target xml:lang="fi" state="translated">Luokka</target>
-        <note>Type of the event (calendar event, stay, routine)</note>
-      </trans-unit>
-      <trans-unit id="TypeVehicle">
-        <source>TypeVehicle</source>
+      <trans-unit id="Type">
+        <source>Type</source>
         <target xml:lang="fi" state="translated">Tyyppi</target>
-        <note>Type of the vehicle</note>
-      </trans-unit>
-      <trans-unit id="Upcoming">
-        <source>Upcoming</source>
-        <target xml:lang="fi" state="translated">Tuleva</target>
-        <note>Title for list of upcoming bookings</note>
+        <note>Type of something, e.g., an event (calendar event, stay, routine) or a vehicle (car, motorbike, bicycle). (old key: TypeEvent)</note>
       </trans-unit>
       <trans-unit id="Updated: ">
         <source>Updated: </source>
-        <target xml:lang="fi" state="needs-translation">Updated: </target>
+        <target xml:lang="fi" state="translated">Päivitetty: </target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use for hotels while travelling, so that the Agenda starts and ends at the correct location.">
+        <source>Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</source>
+        <target xml:lang="fi" state="translated">Yöpymisiä verrataan kalenterin tapahtumiin ja rutiineihin, jotta mahdolliset hotellivaraukset tehdään oikeille päiville oikeissa paikoissa.</target>
+        <note>Explanation for what stays are compared to calendar events and routines. Can be long-ish. (old key: StayEventDescription)</note>
+      </trans-unit>
+      <trans-unit id="Valid">
+        <source>Valid</source>
+        <target xml:lang="fi" state="translated">Voimassa</target>
+        <note>Title for list of valid tickets</note>
       </trans-unit>
       <trans-unit id="Vehicle">
         <source>Vehicle</source>
@@ -1915,21 +1831,6 @@
         <source>View times</source>
         <target xml:lang="fi" state="translated">Selaa aikoja</target>
         <note>View alternative times for this trip</note>
-      </trans-unit>
-      <trans-unit id="ViewDurationButton">
-        <source>ViewDurationButton</source>
-        <target xml:lang="fi" state="translated">Kesto</target>
-        <note>Label for 'Duration' button to sort trips by their total duration.</note>
-      </trans-unit>
-      <trans-unit id="ViewOverallButton">
-        <source>ViewOverallButton</source>
-        <target xml:lang="fi" state="translated">Suositut</target>
-        <note>Label for 'Overall' button to sort trips by their overall total score considering all factors.</note>
-      </trans-unit>
-      <trans-unit id="ViewPriceButton">
-        <source>ViewPriceButton</source>
-        <target xml:lang="fi" state="translated">Hinta</target>
-        <note>Label for 'Price' button to sort trips by their total cost.</note>
       </trans-unit>
       <trans-unit id="Walk speed">
         <source>Walk speed</source>
@@ -1956,16 +1857,18 @@
       </trans-unit>
       <trans-unit id="Wheelchair information">
         <source>Wheelchair information</source>
-        <target xml:lang="fi" state="needs-translation">Wheelchair information</target>
+        <target xml:lang="fi" state="translated">Pyörätuoli tiedot</target>
         <note>Preference to highlight wheelchair information</note>
       </trans-unit>
-      <trans-unit id="WhenIAmAwayHeader">
-        <source>WhenIAmAwayHeader</source>
-        <target xml:lang="fi" state="translated">Yöpymiset</target>
-        <note>Header for staying away form home, i.e., when a user is NOT at their home</note>
-        <alt-trans>
-          <target xml:lang="fi">Yöpyminen</target>
-        </alt-trans>
+      <trans-unit id="Where are you going from?">
+        <source>Where are you going from?</source>
+        <target xml:lang="fi" state="translated">Mistä lähdet?</target>
+        <note>Where are you going from?</note>
+      </trans-unit>
+      <trans-unit id="Where do you want to go?">
+        <source>Where do you want to go?</source>
+        <target xml:lang="fi" state="translated">Minne haluat mennä?</target>
+        <note>Where do you want to go?</note>
       </trans-unit>
       <trans-unit id="Which would you like to delete">
         <source>Which would you like to delete</source>
@@ -2014,19 +1917,11 @@
           <target xml:lang="fi">Suurenna karttaa nähdäkseesi joukkoliikenteen pysäkit.</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="pricingDescription">
-        <source>pricingDescription</source>
-        <target xml:lang="fi" state="translated">Hinta</target>
-      </trans-unit>
-      <trans-unit id="terminalDescription">
-        <source>terminalDescription</source>
-        <target xml:lang="fi" state="translated">Terminaali</target>
-      </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8T61a" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1"/>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
     </header>
     <body>
       <trans-unit id="%1$@ early">
@@ -2057,8 +1952,18 @@
       </trans-unit>
       <trans-unit id="%@ cycle friendly">
         <source>%@ cycle friendly</source>
-        <target xml:lang="fi" state="needs-translation">%@ cycle friendly</target>
+        <target xml:lang="fi" state="translated">%@ Suotuisa pyöräilyyn</target>
         <note>Indicator for how cycle-friendly a cycling route is. Placeholder will get replaced with '75%'.</note>
+      </trans-unit>
+      <trans-unit id="%@ stops">
+        <source>%@ stops</source>
+        <target xml:lang="fi" state="translated">%@ pysäkki(ä)</target>
+        <note>Number of stops before you get off a vehicle, if there are 2 stops or more, e.g., '10 stops'. (old key: Stops)</note>
+      </trans-unit>
+      <trans-unit id="%@ to %@">
+        <source>%@ to %@</source>
+        <target xml:lang="fi" state="translated">%@ -&gt; %@</target>
+        <note>From %time1 to %time2. (old key: TimeFromToShortFormat)</note>
       </trans-unit>
       <trans-unit id="%@ w/o traffic">
         <source>%@ w/o traffic</source>
@@ -2070,23 +1975,15 @@
       </trans-unit>
       <trans-unit id="%@ wheelchair friendly">
         <source>%@ wheelchair friendly</source>
-        <target xml:lang="fi" state="needs-translation">%@ wheelchair friendly</target>
+        <target xml:lang="fi" state="translated">%@ Pyörätuolille suotuisa</target>
         <note>Indicator for how wheelchair-friendly a wheeelchair route is. Placeholder will get replaced with '75%'.</note>
       </trans-unit>
       <trans-unit id="1 stop">
         <source>1 stop</source>
         <target xml:lang="fi" state="translated">1 pysähdys</target>
-        <note>No comment provided by engineer.</note>
+        <note>Number of stops before you get off a stop, if there's just 1 stop.</note>
         <alt-trans>
           <target xml:lang="fi">1 pysäkki</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="ActivityIndication">
-        <source>ActivityIndication</source>
-        <target xml:lang="fi" state="translated">Merkki aktiivisuudesta</target>
-        <note>Indication of an activity</note>
-        <alt-trans>
-          <target xml:lang="fi">Vien %@ klo %@ %@:stä.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="Alerts">
@@ -2110,47 +2007,34 @@
           <target xml:lang="fi">Saapumis</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="ArrivalLocation">
-        <source>ArrivalLocation</source>
-        <target xml:lang="fi" state="translated">Saapuu kohteeseen %@</target>
-        <note>The place of arrival</note>
-        <alt-trans>
-          <target xml:lang="fi">Saapuu kohteeseen %@</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Saavu klo %@</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="ArrivalLocationTime">
-        <source>ArrivalLocationTime</source>
-        <target xml:lang="fi" state="translated">Saapuminen kohteeseen %@ klo %@</target>
-        <note>The place of arrival with time</note>
-        <alt-trans>
-          <target xml:lang="fi">Saavu %@:lla klo %@</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="ArrivalTime">
-        <source>ArrivalTime</source>
-        <target xml:lang="fi" state="translated">Saapuu klo %@</target>
-        <note>'Arrive at %@', where '%@' will be replace with the arrival time.
-   Arrival %time.</note>
-        <alt-trans>
-          <target xml:lang="fi">Saapumisaika</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Saavu klo %@</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="Arrive">
         <source>Arrive</source>
         <target xml:lang="fi" state="translated">Saapuu</target>
         <note>Prefix for selected 'arrive by' time
    Single line instruction to arrive</note>
       </trans-unit>
+      <trans-unit id="Arrive at %@">
+        <source>Arrive at %@</source>
+        <target xml:lang="fi" state="translated">Saapuu klo %@</target>
+        <note>'%@' will be replaced with the arrival time. (old key: ArrivalTime)</note>
+      </trans-unit>
+      <trans-unit id="Arrive at %@ at %@">
+        <source>Arrive at %@ at %@</source>
+        <target xml:lang="fi" state="translated">Saapuminen kohteeseen %@ klo %@</target>
+        <note>The first '%@' will be replaced with the place of arrival, the second with the time. (old key: ArrivalLocationTime)</note>
+      </trans-unit>
       <trans-unit id="Arrive in">
         <source>Arrive in</source>
-        <target xml:lang="fi" state="needs-translation">Arrive in</target>
+        <target xml:lang="fi" state="translated">Saapuu</target>
         <note>Title for when you'll arrive when on a trip. Countdown to arrival will be displayed below.</note>
+        <alt-trans>
+          <target xml:lang="fi">Perillä</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="At %@">
+        <source>At %@</source>
+        <target xml:lang="fi" state="translated">Kohteessa %@</target>
+        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)</note>
       </trans-unit>
       <trans-unit id="Book with FlitWays">
         <source>Book with FlitWays</source>
@@ -2175,16 +2059,10 @@
         <target xml:lang="fi" state="translated">Soita</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="CallTaxiFormat" approved="yes">
-        <source>CallTaxiFormat</source>
-        <target xml:lang="fi">Soita firmalle %@</target>
-        <note>Action title for calling provider of %name</note>
-        <alt-trans>
-          <target xml:lang="fi">Soita %@:lle</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">CallTaxiFormat</target>
-        </alt-trans>
+      <trans-unit id="Call %@">
+        <source>Call %@</source>
+        <target xml:lang="fi" state="translated">Soita firmalle %@</target>
+        <note>Action title for calling provider of name. (old key: CallTaxiFormat)</note>
       </trans-unit>
       <trans-unit id="Connect to Internet to get trips">
         <source>Connect to Internet to get trips</source>
@@ -2207,29 +2085,10 @@
           <target xml:lang="fi">Lähtö</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="DepartureTime">
-        <source>DepartureTime</source>
-        <target xml:lang="fi" state="translated">Lähtee klo %@</target>
-        <note>Time of the bus departure</note>
-        <alt-trans>
-          <target xml:lang="fi">Lähtöaika</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Klo %@</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="Direction">
         <source>Direction</source>
         <target xml:lang="fi" state="translated">Suunta</target>
         <note>Destination of the bus</note>
-        <alt-trans>
-          <target xml:lang="fi">Suunta: %@</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="Duration">
-        <source>Duration</source>
-        <target xml:lang="fi" state="translated">Kesto %@</target>
-        <note>Walking time</note>
       </trans-unit>
       <trans-unit id="Empty">
         <source>Empty</source>
@@ -2238,8 +2097,13 @@
       </trans-unit>
       <trans-unit id="Few seats available">
         <source>Few seats available</source>
-        <target xml:lang="fi" state="needs-translation">Few seats available</target>
+        <target xml:lang="fi" state="translated">Muutamia paikkoja vapaana</target>
         <note>As in 'this bus/train has few seats available'</note>
+      </trans-unit>
+      <trans-unit id="From %@">
+        <source>From %@</source>
+        <target xml:lang="fi" state="translated">Kohteesta %@</target>
+        <note>Departure location. (old key: PrimaryLocationStart)</note>
       </trans-unit>
       <trans-unit id="Full">
         <source>Full</source>
@@ -2277,14 +2141,27 @@
         <target xml:lang="fi" state="translated">Google Maps</target>
         <note>google maps directions action</note>
       </trans-unit>
+      <trans-unit id="I'll arrive at %@ at %@">
+        <source>I'll arrive at %@ at %@</source>
+        <target xml:lang="fi" state="translated">Saapuminen kohteeseen %@ klo %@</target>
+        <note>First '%@' will be replaced with destination location, second with arrival at that location. (old key: MessageArrivalTime)</note>
+      </trans-unit>
+      <trans-unit id="I'll take a %@ at %@ from %@.">
+        <source>I'll take a %@ at %@ from %@.</source>
+        <target xml:lang="fi" state="translated">Otan %@ paikasta %@</target>
+        <note>Indication of an activity. (old key: ActivityIndication)</note>
+        <alt-trans>
+          <target xml:lang="fi">Otan %@ paikasta %@ </target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="In the meantime, let's keep exploring %@ and enjoy your trips">
         <source>In the meantime, let's keep exploring %@ and enjoy your trips</source>
-        <target xml:lang="fi" state="needs-translation">In the meantime, let's keep exploring %@ and enjoy your trips</target>
+        <target xml:lang="fi" state="translated">Sillä välin, jatketaan selailua %@ ja nautitaan saatavilla olevista matkoista</target>
         <note>%@ is replaced with app name</note>
       </trans-unit>
       <trans-unit id="In the meantime, let's keep exploring and enjoy your trips">
         <source>In the meantime, let's keep exploring and enjoy your trips</source>
-        <target xml:lang="fi" state="needs-translation">In the meantime, let's keep exploring and enjoy your trips</target>
+        <target xml:lang="fi" state="translated">Sillä välin, jatketaan selailua ja nautitaan matkoistasi</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Leave">
@@ -2296,9 +2173,24 @@
           <target xml:lang="fi">Lähde</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="Leave %@">
+        <source>Leave %@</source>
+        <target xml:lang="fi" state="translated">Lähde kohteesta %@</target>
+        <note>The place of departure. (old key: LeaveLocation)</note>
+      </trans-unit>
+      <trans-unit id="Leave %@ at %@">
+        <source>Leave %@ at %@</source>
+        <target xml:lang="fi" state="translated">Lähde kohteesta %@ klo %@</target>
+        <note>The place of departure with time. (old key: LeaveLocationTime)</note>
+      </trans-unit>
+      <trans-unit id="Leave at %@">
+        <source>Leave at %@</source>
+        <target xml:lang="fi" state="translated">Lähde klo %@</target>
+        <note>Time departure. (old key: LeaveTime)</note>
+      </trans-unit>
       <trans-unit id="Leave in">
         <source>Leave in</source>
-        <target xml:lang="fi" state="needs-translation">Leave in</target>
+        <target xml:lang="fi" state="translated">Lähtöaika</target>
         <note>Title for when to depart. Countdown to departure will be displayed below.</note>
       </trans-unit>
       <trans-unit id="Leave now">
@@ -2306,31 +2198,13 @@
         <target xml:lang="fi" state="translated">Lähde nyt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="LeaveLocation">
-        <source>LeaveLocation</source>
-        <target xml:lang="fi" state="translated">Lähde kohteesta %@</target>
-        <note>The place of departure</note>
-        <alt-trans>
-          <target xml:lang="fi">Lähde %@:stä</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="LeaveLocationTime">
-        <source>LeaveLocationTime</source>
-        <target xml:lang="fi" state="translated">Lähde kohteesta %@ klo %@</target>
-        <note>The place of departure with time</note>
-        <alt-trans>
-          <target xml:lang="fi">Lähde %@:stä klo %@</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="LeaveTime">
-        <source>LeaveTime</source>
-        <target xml:lang="fi" state="translated">Lähde klo %@</target>
-        <note>Time departure</note>
-      </trans-unit>
       <trans-unit id="Limited standing room only">
         <source>Limited standing room only</source>
-        <target xml:lang="fi" state="needs-translation">Limited standing room only</target>
+        <target xml:lang="fi" state="translated">Vain seisomapaikkoja saatavilla</target>
         <note>As in 'this bus/train is so full, there's only limited standing room'</note>
+        <alt-trans>
+          <target xml:lang="fi">Vain seisomapaikkoja jäljellä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Live traffic">
         <source>Live traffic</source>
@@ -2344,19 +2218,8 @@
       </trans-unit>
       <trans-unit id="Many seats available">
         <source>Many seats available</source>
-        <target xml:lang="fi" state="needs-translation">Many seats available</target>
+        <target xml:lang="fi" state="translated">Paljon istumapaikkoja jäljellä</target>
         <note>As in 'this bus/train has many seats available'</note>
-      </trans-unit>
-      <trans-unit id="MessageArrivalTime">
-        <source>MessageArrivalTime</source>
-        <target xml:lang="fi" state="translated">Saapuminen kohteeseen %@ klo %@</target>
-        <note>ArrivalTime</note>
-        <alt-trans>
-          <target xml:lang="fi">Saavun kohteeseen %@ klo %@.</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Saavutaan %@ klo %@.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="More info">
         <source>More info</source>
@@ -2366,11 +2229,11 @@
       <trans-unit id="No planned trips">
         <source>No planned trips</source>
         <target xml:lang="fi" state="translated">Ei suunniteltuja matkoja</target>
-        <note>Indicating no trips have been planned within 24 hrs</note>
+        <note>Indicating no trips have been planned within the next 24 hrs</note>
       </trans-unit>
       <trans-unit id="Not accepting passengers">
         <source>Not accepting passengers</source>
-        <target xml:lang="fi" state="needs-translation">Not accepting passengers</target>
+        <target xml:lang="fi" state="translated">Ei tilaa lisämatkustajille</target>
         <note>As in 'this bus/train is full and definitely not accepting further passengers'</note>
       </trans-unit>
       <trans-unit id="On time">
@@ -2388,34 +2251,20 @@
         <target xml:lang="fi" state="translated">Avaa Ola</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Opening Hours">
+        <source>Opening Hours</source>
+        <target xml:lang="fi" state="translated">Avoinna lähtien</target>
+        <note>Title for opening hours</note>
+      </trans-unit>
       <trans-unit id="Plan a trip and it will show up here.">
         <source>Plan a trip and it will show up here.</source>
-        <target xml:lang="fi" state="needs-translation">Plan a trip and it will show up here.</target>
+        <target xml:lang="fi" state="translated">Suunniteltuasi reitin löydät sen täältä.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="PrimaryLocationEnd">
-        <source>PrimaryLocationEnd</source>
-        <target xml:lang="fi" state="translated">Kohteeseen %@</target>
-        <note>Arrival Location</note>
-        <alt-trans>
-          <target xml:lang="fi">Kohde: %@</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="PrimaryLocationStart">
-        <source>PrimaryLocationStart</source>
-        <target xml:lang="fi" state="translated">Kohteesta %@</target>
-        <note>Departure Location</note>
-        <alt-trans>
-          <target xml:lang="fi">Lähtö: %@</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="PrimaryLocationStationary">
-        <source>PrimaryLocationStationary</source>
-        <target xml:lang="fi" state="translated">Kohteessa %@</target>
-        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park</note>
-        <alt-trans>
-          <target xml:lang="fi">%@:ssä</target>
-        </alt-trans>
+      <trans-unit id="Public holiday">
+        <source>Public holiday</source>
+        <target xml:lang="fi" state="translated">Yleinen vapaapäivä</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
@@ -2448,46 +2297,53 @@
       </trans-unit>
       <trans-unit id="Standing room only">
         <source>Standing room only</source>
-        <target xml:lang="fi" state="needs-translation">Standing room only</target>
+        <target xml:lang="fi" state="translated">Vain seisomapaikkoja</target>
         <note>As in 'this bus/train is fairly full and has standing room only'</note>
       </trans-unit>
-      <trans-unit id="Stops">
-        <source>Stops</source>
-        <target xml:lang="fi" state="translated">%ld pysäkki(ä)</target>
-        <note>Number of stops before you get off a vehicle</note>
-        <alt-trans>
-          <target xml:lang="fi">%ld  pysäkkiä</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="TimeFromToShortFormat">
-        <source>TimeFromToShortFormat</source>
-        <target xml:lang="fi" state="translated">%@ - %@</target>
-        <note>From %time1 to %time2</note>
+      <trans-unit id="To %@">
+        <source>To %@</source>
+        <target xml:lang="fi" state="translated">Kohteeseen %@</target>
+        <note>Destination location. For trip titles, e.g., 'To work'. (old key: PrimaryLocationEnd)</note>
       </trans-unit>
       <trans-unit id="Trip">
         <source>Trip</source>
         <target xml:lang="fi" state="translated">Matka</target>
-        <note>No comment provided by engineer.</note>
+        <note>Title for a trip</note>
       </trans-unit>
-      <trans-unit id="VehicleCalledUpdated">
-        <source>VehicleCalledUpdated</source>
-        <target xml:lang="fi" state="translated">Ajoneuvo %@ päivitetty %@ sitten</target>
-        <note>Vehicle 'x' updated</note>
-      </trans-unit>
-      <trans-unit id="VehicleUpdated">
-        <source>VehicleUpdated</source>
+      <trans-unit id="Updated %@ ago">
+        <source>Updated %@ ago</source>
         <target xml:lang="fi" state="translated">Päivitetty %@ sitten</target>
-        <note>Vehicle updated</note>
+        <note>Vehicle updated. (old key: VehicleUpdated)</note>
+      </trans-unit>
+      <trans-unit id="Vehicle %@ updated %@ ago">
+        <source>Vehicle %@ updated %@ ago</source>
+        <target xml:lang="fi" state="translated">Ajoneuvo %@ päivitetty %@ sitten</target>
+        <note>Vehicle 'x' updated. (old key: VehicleCalledUpdated)</note>
       </trans-unit>
       <trans-unit id="We are busy getting your upcoming trip. Please wait...">
         <source>We are busy getting your upcoming trip. Please wait...</source>
-        <target xml:lang="fi" state="needs-translation">We are busy getting your upcoming trip. Please wait...</target>
+        <target xml:lang="fi" state="translated">Matkan tietojen latauksessa viivettä. Ole hyvä, odota...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="We'll keep you updated with the latest transit alerts here">
         <source>We'll keep you updated with the latest transit alerts here</source>
-        <target xml:lang="fi" state="needs-translation">We'll keep you updated with the latest transit alerts here</target>
+        <target xml:lang="fi" state="translated">Täältä löydät viimeisimmät matkaasi liittyvät ilmoitukset</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Wheelchair accessible">
+        <source>Wheelchair accessible</source>
+        <target xml:lang="fi" state="translated">Pyörätuolilla liikkuminen huomioitu</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="at %@">
+        <source>at %@</source>
+        <target xml:lang="fi" state="translated">Lähtee klo %@</target>
+        <note>Time of the bus departure. (old key: DepartureTime)</note>
+      </trans-unit>
+      <trans-unit id="for %@">
+        <source>for %@</source>
+        <target xml:lang="fi" state="translated">kesto %@</target>
+        <note>Text indiction for how long a segment might take, where '%@' will be replaced with a duration. E.g., the instruction 'Take bus' might have this next to it as 'for 10 minutes'.</note>
       </trans-unit>
       <trans-unit id="goCatch a Taxi">
         <source>goCatch a Taxi</source>
@@ -2503,13 +2359,33 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8T61a" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1"/>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
     </header>
     <body>
-      <trans-unit id="%@ does not work in this area yet. please navigate to one of our supported regions and try again.">
-        <source>%@ does not work in this area yet. please navigate to one of our supported regions and try again.</source>
-        <target xml:lang="fi" state="translated">%@ ei vielä toimi tällä alueella. Yritä hakua uudelleen lähimmällä tuetulla alueella.</target>
-        <note>'%@' will be replaced with app's name.</note>
+      <trans-unit id="%@'s">
+        <source>%@'s</source>
+        <target xml:lang="fi" state="translated">Käyttäjän %@</target>
+        <note>Name for a {%@}'s place if it's unclear if it's home, work or something else.</note>
+      </trans-unit>
+      <trans-unit id="%@'s Home">
+        <source>%@'s Home</source>
+        <target xml:lang="fi" state="translated">Käyttäjän %@ Koti</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@'s Work">
+        <source>%@'s Work</source>
+        <target xml:lang="fi" state="translated">Käyttäjän %@ Työ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lu recurrences">
+        <source>%lu recurrences</source>
+        <target xml:lang="fi" state="translated">%lu kerta(a)</target>
+        <note>Number of repeats. (old key: NumberRecurrences)</note>
+      </trans-unit>
+      <trans-unit id="'%@' not found.">
+        <source>'%@' not found.</source>
+        <target xml:lang="fi" state="translated">Sijaintia '%@' ei löytynyt</target>
+        <note>Error when location search for %input was not successful. (old key: RequestErrorFormat)</note>
       </trans-unit>
       <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
         <source>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</source>
@@ -2568,7 +2444,7 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target xml:lang="fi" state="translated">Peruuta</target>
-        <note>Cancel - for action sheets</note>
+        <note>Cancel action</note>
       </trans-unit>
       <trans-unit id="Cancelled">
         <source>Cancelled</source>
@@ -2608,14 +2484,12 @@
       <trans-unit id="Close">
         <source>Close</source>
         <target xml:lang="fi" state="translated">Sulje</target>
-        <note>Button title to dismiss a view
-   Close action</note>
+        <note>Close action</note>
       </trans-unit>
       <trans-unit id="Confirm">
         <source>Confirm</source>
         <target xml:lang="fi" state="translated">Vahvista</target>
-        <note>Title on the button that asks users to confirm if they want to proceed with an action
-   Title on the button that asks users to confirm if they want to proceed with booking</note>
+        <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
       </trans-unit>
       <trans-unit id="Could not determine your current location.">
         <source>Could not determine your current location.</source>
@@ -2625,16 +2499,10 @@
           <target xml:lang="fi">Nykyistä sijaintiasi ei voitu määrittää.</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="CouldNotDownloadSupportedRegions">
-        <source>CouldNotDownloadSupportedRegions</source>
-        <target xml:lang="fi" state="translated">Tuettuja alueita ei voitu ladata TripGon palvelimelle. Yritä myöhemmin uudelleen</target>
-        <note>Could not download supported regions warning</note>
-        <alt-trans>
-          <target xml:lang="fi">Tuettuja alueita ei voitu ladata TripGo:n palvelimelle. Yritä myöhemmin uudelleen</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Tuettuja alueita ei voitu ladata TripGo palvelimelle. Yritä myöhemmin uudelleen.</target>
-        </alt-trans>
+      <trans-unit id="Could not download supported regions from TripGo's server. Please try again later.">
+        <source>Could not download supported regions from TripGo's server. Please try again later.</source>
+        <target xml:lang="fi" state="translated">Tuettuja alueita ei voitu ladata TripGo:n palvelimelle. Yritä myöhemmin uudelleen</target>
+        <note>Could not download supported regions warning. (old key: CouldNotDownloadSupportedRegions)</note>
       </trans-unit>
       <trans-unit id="Creating account">
         <source>Creating account</source>
@@ -2654,12 +2522,7 @@
       <trans-unit id="Current Location">
         <source>Current Location</source>
         <target xml:lang="fi" state="translated">Tämänhetkinen sijainti</target>
-        <note>Current location</note>
-      </trans-unit>
-      <trans-unit id="DateToFormat">
-        <source>DateToFormat</source>
-        <target xml:lang="fi" state="translated">%@ asti</target>
-        <note>to %date</note>
+        <note>Title for user's current location</note>
       </trans-unit>
       <trans-unit id="Delete">
         <source>Delete</source>
@@ -2682,11 +2545,10 @@
       <trans-unit id="Done">
         <source>Done</source>
         <target xml:lang="fi" state="translated">Valmis</target>
-        <note>Done button
-   Keyboard accessory button title</note>
+        <note>Done action</note>
       </trans-unit>
-      <trans-unit id="DropNewPin">
-        <source>DropNewPin</source>
+      <trans-unit id="Drop new pin">
+        <source>Drop new pin</source>
         <target xml:lang="fi" state="translated">Sijoita uusi piste</target>
         <note>Drop new pin</note>
       </trans-unit>
@@ -2696,11 +2558,10 @@
         <note>Email address where receipt is sent
    Email used as Facebook username</note>
       </trans-unit>
-      <trans-unit id="EveryDayFormat">
-        <source>EveryDayFormat</source>
+      <trans-unit id="Every %@">
+        <source>Every %@</source>
         <target xml:lang="fi" state="translated">Joka %@</target>
-        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'
-   Every %day, e.g., 'Every Monday'</note>
+        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'. (old key: EveryDayFormat)</note>
       </trans-unit>
       <trans-unit id="Everyday">
         <source>Everyday</source>
@@ -2715,7 +2576,8 @@
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
         <target xml:lang="fi" state="translated">Kun pitää lähteä</target>
-        <note>Option that allows users to indicate whether reminder is needed</note>
+        <note>Option that allows users to indicate whether reminder is needed
+   Reminder to leave preference</note>
       </trans-unit>
       <trans-unit id="Free">
         <source>Free</source>
@@ -2781,8 +2643,7 @@
       <trans-unit id="Location">
         <source>Location</source>
         <target xml:lang="fi" state="translated">Sijainti</target>
-        <note>Title for location search screen
-   Title for unnamed location</note>
+        <note>Title for unnamed location</note>
       </trans-unit>
       <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
         <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
@@ -2803,7 +2664,8 @@
       <trans-unit id="Minutes before trip">
         <source>Minutes before trip</source>
         <target xml:lang="fi" state="translated">Minuuttia ennen lähtöä</target>
-        <note>Option that allows users to indicate how eary to show trip reminder</note>
+        <note>Option that allows users to indicate how eary to show trip reminder
+   Reminder to leave preference</note>
         <alt-trans>
           <target xml:lang="fi">Minuuttia ennen matkaa</target>
         </alt-trans>
@@ -2828,13 +2690,13 @@
         <target xml:lang="fi" state="translated">Nimi</target>
         <note>Name to which receipt is sent
    Name used in Facebook
-   Sort by name</note>
+   Sort by name
+   Title for name of something (or someone)</note>
       </trans-unit>
       <trans-unit id="Never">
         <source>Never</source>
         <target xml:lang="fi" state="translated">Ei koskaan</target>
-        <note>Never in context of repetitions (especially recurring events)
-   Response to question whether user wants to report a problem when taking a screenshot.</note>
+        <note>Response to question whether user wants to report a problem when taking a screenshot. Also used in context of repetitions (especially recurring events).</note>
       </trans-unit>
       <trans-unit id="New account">
         <source>New account</source>
@@ -2844,8 +2706,7 @@
       <trans-unit id="Next">
         <source>Next</source>
         <target xml:lang="fi" state="translated">Seuraava</target>
-        <note>Button title to complete this step and advance to next
-   Keyboard accessory button title to complete this step and advance to next</note>
+        <note>Next action</note>
       </trans-unit>
       <trans-unit id="No CO₂">
         <source>No CO₂</source>
@@ -2856,14 +2717,6 @@
         <source>Now</source>
         <target xml:lang="fi" state="translated">Nyt</target>
         <note>Countdown cell 'now' indicator</note>
-      </trans-unit>
-      <trans-unit id="NumberReccurences">
-        <source>NumberReccurences</source>
-        <target xml:lang="fi" state="translated">%lu kerta(a)</target>
-        <note>Number of repeats</note>
-        <alt-trans>
-          <target xml:lang="fi">%lu kertaa.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
@@ -2942,7 +2795,8 @@
       <trans-unit id="Reminder">
         <source>Reminder</source>
         <target xml:lang="fi" state="translated">Muistutus</target>
-        <note>Section title at the end of a booking that allows users to set reminders</note>
+        <note>Action title to add/remove reminder
+   Section title at the end of a booking that allows users to set reminders</note>
       </trans-unit>
       <trans-unit id="Repeats daily">
         <source>Repeats daily</source>
@@ -2967,15 +2821,7 @@
       <trans-unit id="Report Problem">
         <source>Report Problem</source>
         <target xml:lang="fi" state="translated">Ilmoita ongelmasta</target>
-        <note>Report problem</note>
-      </trans-unit>
-      <trans-unit id="RequestErrorFormat">
-        <source>RequestErrorFormat</source>
-        <target xml:lang="fi" state="translated">Sijaintia '%@' ei löytynyt</target>
-        <note>Error when location search for %input was not successful.</note>
-        <alt-trans>
-          <target xml:lang="fi">'%@' ei löytynyt.</target>
-        </alt-trans>
+        <note>Button title to report a problem</note>
       </trans-unit>
       <trans-unit id="SUV">
         <source>SUV</source>
@@ -3015,11 +2861,6 @@
         <source>Searching for '%@'...</source>
         <target xml:lang="fi" state="translated">Haetaan sijaintia '%@'...</target>
         <note>Placeholder text while waiting for server response when searching for a location.</note>
-      </trans-unit>
-      <trans-unit id="SetLocation">
-        <source>SetLocation</source>
-        <target xml:lang="fi" state="translated">Napauta asettaaksesi sijainti</target>
-        <note>Tap to set location</note>
       </trans-unit>
       <trans-unit id="Settings">
         <source>Settings</source>
@@ -3066,6 +2907,16 @@
         <note>Message that indicates the app has successfully completed signing out
    Message that indicates the app is signing users out of their accounts</note>
       </trans-unit>
+      <trans-unit id="Starting %@">
+        <source>Starting %@</source>
+        <target xml:lang="fi" state="translated">%@ lähtien</target>
+        <note>Starting %date. (old key: DateFromFormat)</note>
+      </trans-unit>
+      <trans-unit id="Tap to set location">
+        <source>Tap to set location</source>
+        <target xml:lang="fi" state="translated">Napauta asettaaksesi sijainnin</target>
+        <note>Tap to set location. (old key: SetLocation)</note>
+      </trans-unit>
       <trans-unit id="The app will now sign out">
         <source>The app will now sign out</source>
         <target xml:lang="fi" state="translated">Sovellus sulkeutuu</target>
@@ -3094,6 +2945,11 @@
         <target xml:lang="fi" state="translated">Tuntematon virhe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Up to %@">
+        <source>Up to %@</source>
+        <target xml:lang="fi" state="translated">%@ asti</target>
+        <note>Up to %date. (old key: DateToFormat)</note>
+      </trans-unit>
       <trans-unit id="Updating trip">
         <source>Updating trip</source>
         <target xml:lang="fi" state="translated">Matkaa päivitetään</target>
@@ -3103,11 +2959,6 @@
         <source>Values missing from required fields.</source>
         <target xml:lang="fi" state="translated">Osa pakollisista tiedoista puuttuu.</target>
         <note>Message that informs users that some values are missing from the required fields in a booking form.</note>
-      </trans-unit>
-      <trans-unit id="Waiting">
-        <source>Waiting</source>
-        <target xml:lang="fi" state="translated">Odottaa</target>
-        <note>Title on the button that indicates to the user that an action is progressing</note>
       </trans-unit>
       <trans-unit id="Weekdays">
         <source>Weekdays</source>
@@ -3126,7 +2977,7 @@
       </trans-unit>
       <trans-unit id="Would you like to report a problem?">
         <source>Would you like to report a problem?</source>
-        <target xml:lang="fi" state="needs-translation">Would you like to report a problem?</target>
+        <target xml:lang="fi" state="translated">Haluaisitko ilmoittaa ongelmasta?</target>
         <note>Question asked when user is taking a screenshot</note>
       </trans-unit>
       <trans-unit id="You need to agree to the booking terms and conditions.">
@@ -3202,20 +3053,10 @@
         <target xml:lang="fi" state="translated">alkaa klo %@</target>
         <note>Short indicator of start-time</note>
       </trans-unit>
-      <trans-unit id="{Name}'s">
-        <source>{Name}'s</source>
-        <target xml:lang="fi" state="translated">Käyttäjän %@</target>
-        <note>Name for a {Name}'s place if it's unclear if it's home, work or something else.</note>
-      </trans-unit>
-      <trans-unit id="{Name}'s Home">
-        <source>{Name}'s Home</source>
-        <target xml:lang="fi" state="translated">Käyttäjän %@ Koti</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="{Name}'s Work">
-        <source>{Name}'s Work</source>
-        <target xml:lang="fi" state="translated">Käyttäjän %@ Työ</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="to %@">
+        <source>to %@</source>
+        <target xml:lang="fi" state="translated">%@ asti</target>
+        <note>to %date. (old key: DateToFormat)</note>
       </trans-unit>
     </body>
   </file>

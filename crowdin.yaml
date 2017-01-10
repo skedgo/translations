@@ -1,0 +1,8 @@
+project_identifier: tripgo
+api_key: 8d45d9d77285a28189afd03c0f9507ee                          
+base_path: /
+
+files:
+  -
+    source: '/en/*.xliff'                                    #source files filter
+    translation: '/%two_letters_code%/%original_file_name%' #where translations live

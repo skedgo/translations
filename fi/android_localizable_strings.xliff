@@ -71,11 +71,11 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target xml:lang="fi" state="translated">Kalenterisi eivät ole saatavilla. Ole hyvä, laita ne päälle laitteesi kalenterin asetuksista</target>
-        <alt-trans>
-          <target xml:lang="fi">Kalenterisi eivät ole saatavilla, ole hyvä ja laita ne päälle laitteen  kalenterin asetuksista</target>
-        </alt-trans>
+        <source>All your calendars are invisible, please switch them on in native calendar app or
+          account settings
+        </source>
+        <target xml:lang="fi" state="translated">Kalenterisi eivät ole saatavilla. Ole hyvä, laita ne päälle laitteesi kalenterin asetuksista
+        </target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -93,8 +93,10 @@
         <target xml:lang="fi" state="translated">" (saapuu "</target>
       </trans-unit>
       <trans-unit id="body_exclude_this_event_from_route">
-        <source>This event will no longer have trips to or from it. The event will still be shown</source>
-        <target xml:lang="fi" state="translated">Tapahtuma ei sisällä enää siihen liittyviä matkoja. Tapahtuma kuitenkin jää näkyviin.</target>
+        <source>This event will no longer have trips to or from it. The event will still be shown
+        </source>
+        <target xml:lang="fi" state="translated">Tapahtuma ei sisällä enää siihen liittyviä matkoja. Tapahtuma kuitenkin jää näkyviin.
+        </target>
       </trans-unit>
       <trans-unit id="body_exclude_related_event_from_route">
         <source>The event related to the trip will be excluded. It will still be shown</source>
@@ -200,15 +202,21 @@
         <target xml:lang="fi" state="translated">Muokkaa tapahtumaa</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
-        <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
-        <target xml:lang="fi" state="translated">Kaikki kalenterit ovat pois päältä TripGossa. Ole hyvä, aktivoi ne Asetuksissa</target>
+        <source>All your calendars are disabled in TripGo, please enable them in Settings section
+        </source>
+        <target xml:lang="fi" state="translated">Kaikki kalenterit ovat pois päältä TripGossa. Ole hyvä, aktivoi ne Asetuksissa
+        </target>
         <alt-trans>
-          <target xml:lang="fi">Kaikki kalenterit ovat pois päältä TripGossa, Ole hyvä ja aktivoi ne Asetuksissa</target>
+          <target xml:lang="fi">Kaikki kalenterit ovat pois päältä TripGossa, Ole hyvä ja aktivoi ne Asetuksissa
+        </target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="fi" state="translated">TripGon käyttäjälisenssi on muuttunut. Sovellusta voi käyttää vain hyväksymällä sen.</target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
+          the use of this app.
+        </source>
+        <target xml:lang="fi" state="translated">TripGon käyttäjälisenssi on muuttunut. Sovellusta voi käyttää vain hyväksymällä sen.
+        </target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -305,8 +313,8 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="first">
-        <source>First: </source>
-        <target xml:lang="fi" state="translated">Ensimmäinen: </target>
+        <source>First:</source>
+        <target xml:lang="fi" state="translated">Ensimmäinen:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
@@ -455,11 +463,11 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
-        <target xml:lang="fi" state="translated">Tämä sovellus vaatii Google Play Palveluiden asennuksen.\n\nOle hyvä, lataa ne jatkaaksesi sovelluksen käyttöä</target>
-        <alt-trans>
-          <target xml:lang="fi">Tämä app vaatii Google Play palveluiden asennuksen.\n\n Ole hyvä, ja lataa se jatkaaksesi sovelluksen käyttöä</target>
-        </alt-trans>
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
+          continue using the app
+        </source>
+        <target xml:lang="fi" state="translated">Tämä sovellus vaatii Google Play Palveluiden asennuksen.\n\nOle hyvä, lataa ne jatkaaksesi sovelluksen käyttöä
+        </target>
       </trans-unit>
       <trans-unit id="priority_convenience_subtext">
         <source>Hassle of the trip</source>
@@ -558,14 +566,12 @@
         <target xml:lang="fi" state="translated">Tallenna</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target xml:lang="fi" state="translated">Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan</target>
-        <alt-trans>
-          <target xml:lang="fi">Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Asialistaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta eivät ole tapahtumia joita haluat kalenteriisi (esim. Töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan.</target>
-        </alt-trans>
+        <source>Routines are post of your daily movement, but they aren't events that you want in
+          your calendar (e.g. work). They are important for the Agenda to get you to the right
+          location at the right time
+        </source>
+        <target xml:lang="fi" state="translated">Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan
+        </target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
         <source>Anonymous Data Tracking</source>
@@ -603,14 +609,11 @@
         <target xml:lang="fi" state="translated">Aseta sijainti</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="fi" state="translated">Käytä tulevia kalenteritapahtumia sijaintiehdotuksina. Näitä tietoja ei tallenneta millekään palvelemille</target>
-        <alt-trans>
-          <target xml:lang="fi">Käytä tulevia kalenteritapahtumia sijaintisuosituksiin. Näitä tietoja ei tallenneta millekään palvelemille</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Käytä tulevia kalenteritapahtumia sijaintisuosituksiin. Nämä tiedot eivät ole tallennettuna mihinkään palvelimille.</target>
-        </alt-trans>
+        <source>Use your upcoming calendar events as location suggestions. This information is not
+          stored on any server
+        </source>
+        <target xml:lang="fi" state="translated">Käytä tulevia kalenteritapahtumia sijaintiehdotuksina. Näitä tietoja ei tallenneta millekään palvelemille
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
@@ -645,11 +648,11 @@
         <target xml:lang="fi" state="translated">Arvostele sovellus Storessa!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
-        <target xml:lang="fi" state="translated">Salli TripGon seurata sijaintiasi nimettömästi aina käyttäessäsi sovellusta (EI taustalla)</target>
-        <alt-trans>
-          <target xml:lang="fi">Salli TripGon seurata anonyymisti sijaintiasi kun asetat sen. (EI taustalla)</target>
-        </alt-trans>
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
+          background)
+        </source>
+        <target xml:lang="fi" state="translated">Salli TripGon seurata sijaintiasi nimettömästi aina käyttäessäsi sovellusta (EI taustalla)
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_distance_units">
         <source>Distance units to use in trip results</source>
@@ -713,14 +716,11 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="fi" state="translated">Käytä yhteystietojesi osoitteita sijaintiehdotuksina. Näitä tietoja ei tallenneta millekään palvelimelle</target>
-        <alt-trans>
-          <target xml:lang="fi">Käytä yhteystietojesi osoitteita sijaintisuosituksiin. Näitä tietoja ei tallenneta millekään palvelimelle</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Käytä yhteystietojesi osoitteita sijaintisuosituksiin. Nämä tiedot eivät ole tallennettuna mihinkään palvelimille</target>
-        </alt-trans>
+        <source>Use your contact addresses as location suggestions. This information is not stored
+          on any server
+        </source>
+        <target xml:lang="fi" state="translated">Käytä yhteystietojesi osoitteita sijaintiehdotuksina. Näitä tietoja ei tallenneta millekään palvelimelle
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_trip_preferences">
         <source>Influence trip results by setting what's most important to you</source>
@@ -891,10 +891,13 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target xml:lang="fi" state="translated">Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen päälle..</target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
+        </source>
+        <target xml:lang="fi" state="translated">Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen päälle..
+        </target>
         <alt-trans>
-          <target xml:lang="fi">Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..</target>
+          <target xml:lang="fi">Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..
+        </target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="view_timetable_subtitle">
@@ -945,10 +948,10 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="trip_to">
-        <source>Trip to </source>
-        <target xml:lang="fi" state="translated">Matka kohteeseen %s </target>
+        <source>Trip to</source>
+        <target xml:lang="fi" state="translated">Matka kohteeseen %s</target>
         <alt-trans>
-          <target xml:lang="fi">Matka kohteeseen </target>
+          <target xml:lang="fi">Matka kohteeseen</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
@@ -980,14 +983,11 @@
         <target xml:lang="fi" state="translated">Eilen</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-        <target xml:lang="fi" state="translated">Älä koskaan myöhästy. Agenda suunnittelee matkat puolestasi, ja kertoo milloin sinun pitää lähteä.</target>
-        <alt-trans>
-          <target xml:lang="fi">Älä koskaan myöhästy. Agenda suunnittelee matkat puolestasi ja kertoo milloin sinun pitää lähteä.</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fi">Älä koskaan myöhästy. Asialista suunnittelee matkat puolestasi ja kertoo milloin sinun pitää lähteä.</target>
-        </alt-trans>
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
+          leave.
+        </source>
+        <target xml:lang="fi" state="translated">Älä koskaan myöhästy. Agenda suunnittelee matkat puolestasi, ja kertoo milloin sinun pitää lähteä.
+        </target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
         <source>For those without an agenda, save favorite places.</source>
@@ -1017,52 +1017,54 @@
         <source>You are already at %s!</source>
         <target xml:lang="fi" state="translated">Olet jo kohteessa %s!</target>
       </trans-unit>
-     <trans-unit id="news">
+      <trans-unit id="news">
         <source>News</source>
-        <target xml:lang="fi" state="needs-translation">News</target>
+        <target xml:lang="fi" state="translated">Uutiset</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target xml:lang="fi" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.</note>
+        <target xml:lang="fi" state="translated">Sisällytä matkat</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
+        </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target xml:lang="fi" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available</note>
+        <target xml:lang="fi" state="translated">%s paikkoja vapaana</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target xml:lang="fi" state="needs-translation">%s slot available</target>
+        <target xml:lang="fi" state="translated">%s paikka vapaana</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target xml:lang="fi" state="needs-translation">No slot available</target>
+        <target xml:lang="fi" state="translated">Ei vapaita parkkipaikkoja</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target xml:lang="fi" state="needs-translation">Updated at: %s</target>
+        <target xml:lang="fi" state="translated">Päivitetty: %s</target>
         <note>Parking slots, updated time. Example: Updated at: 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target xml:lang="fi" state="needs-translation">Almost full</target>
+        <target xml:lang="fi" state="translated">Melkein täynnä</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="valid_from">
         <source>Valid From</source>
-        <target state="needs-translation" xml:lang="fi">Valid From</target>
+        <target xml:lang="fi" state="translated">Voimassa alkaen</target>
         <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>
-        <target state="needs-translation" xml:lang="fi">Ticket Info</target>
+        <target xml:lang="fi" state="translated">Lipun tiedot</target>
         <note>Ticket Info title</note>
       </trans-unit>
     </body>
   </file>
 </xliff>
-

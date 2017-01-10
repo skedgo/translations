@@ -47,8 +47,11 @@
         <target xml:lang="nl" state="translated">Alle meldingen</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target xml:lang="nl" state="translated">Alle kalenders zijn uitgeschakeld, schakel kalenders in in uw kalender app of in de account instellingen</target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or
+          account settings
+        </source>
+        <target xml:lang="nl" state="translated">Alle kalenders zijn uitgeschakeld, schakel kalenders in in uw kalender app of in de account instellingen
+        </target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -63,13 +66,17 @@
         <target xml:lang="nl" state="translated">"(arriveer"</target>
       </trans-unit>
       <trans-unit id="body_exclude_this_event_from_route">
-        <source>This event will no longer have trips to or from it. The event will still be shown</source>
-        <target xml:lang="nl" state="translated">Deze activiteit heeft geen reizen meer hier naartoe of hier vandaan. De activiteit wordt wel nog steeds getoond</target>
+        <source>This event will no longer have trips to or from it. The event will still be shown
+        </source>
+        <target xml:lang="nl" state="translated">Deze activiteit heeft geen reizen meer hier naartoe of hier vandaan. De activiteit wordt wel nog steeds getoond
+        </target>
         <alt-trans>
-          <target xml:lang="nl">Dit evenement heeft geen reizen meer hier naartoe of hier vandaan. Het evenement wordt wel nog steeds getoond</target>
+          <target xml:lang="nl">Dit evenement heeft geen reizen meer hier naartoe of hier vandaan. Het evenement wordt wel nog steeds getoond
+        </target>
         </alt-trans>
         <alt-trans>
-          <target xml:lang="nl">Dit evenement heeft geen reizen meer hier naartoe of hier vandaan. Het evenement wordt wel nog steeds getoond.</target>
+          <target xml:lang="nl">Dit evenement heeft geen reizen meer hier naartoe of hier vandaan. Het evenement wordt wel nog steeds getoond.
+        </target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="body_exclude_related_event_from_route">
@@ -149,12 +156,17 @@
         <target xml:lang="nl" state="translated">Wijzig activiteit</target>
       </trans-unit>
       <trans-unit id="enable_calendar_in_tripgo_settings">
-        <source>All your calendars are disabled in TripGo, please enable them in Settings section</source>
-        <target xml:lang="nl" state="translated">Alle kalenders zijn gedeactiveerd, ga naar de instellingen om deze te activeren</target>
+        <source>All your calendars are disabled in TripGo, please enable them in Settings section
+        </source>
+        <target xml:lang="nl" state="translated">Alle kalenders zijn gedeactiveerd, ga naar de instellingen om deze te activeren
+        </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="nl" state="translated">Onze gebruikersovereenkomst is veranderd. U moet hiermee akkoord gaan voordat u verder kunt met het gebruik van deze app.</target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
+          the use of this app.
+        </source>
+        <target xml:lang="nl" state="translated">Onze gebruikersovereenkomst is veranderd. U moet hiermee akkoord gaan voordat u verder kunt met het gebruik van deze app.
+        </target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -224,8 +236,8 @@
         <target xml:lang="nl" state="translated">Download Google Play Services</target>
       </trans-unit>
       <trans-unit id="first">
-        <source>First: </source>
-        <target xml:lang="nl" state="translated">Ten eerste: </target>
+        <source>First:</source>
+        <target xml:lang="nl" state="translated">Ten eerste:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
@@ -347,8 +359,11 @@
         <target xml:lang="nl" state="translated">Geen Google Play Services!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app</source>
-        <target xml:lang="nl" state="translated">Google Play Services is vereist voor deze app.\n\nDownload deze eerst voordat u deze app kunt gebruiken</target>
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
+          continue using the app
+        </source>
+        <target xml:lang="nl" state="translated">Google Play Services is vereist voor deze app.\n\nDownload deze eerst voordat u deze app kunt gebruiken
+        </target>
       </trans-unit>
       <trans-unit id="priority_convenience_subtext">
         <source>Hassle of the trip</source>
@@ -438,8 +453,12 @@
         <target xml:lang="nl" state="translated">Opslaan</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target xml:lang="nl" state="translated">"Routines" zijn plaatsen waar u vaak bent maar normaal niet in u uw agenda zet, zoals thuis of het werk. Het is belangrijk voor de agenda om deze locaties te weten zodat alle reizen in uw planning bepaalt kan worden.</target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in
+          your calendar (e.g. work). They are important for the Agenda to get you to the right
+          location at the right time
+        </source>
+        <target xml:lang="nl" state="translated">"Routines" zijn plaatsen waar u vaak bent maar normaal niet in u uw agenda zet, zoals thuis of het werk. Het is belangrijk voor de agenda om deze locaties te weten zodat alle reizen in uw planning bepaalt kan worden.
+        </target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
         <source>Anonymous Data Tracking</source>
@@ -474,8 +493,11 @@
         <target xml:lang="nl" state="translated">Stel location in</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="nl" state="translated">Gebruik de locaties van uw activiteiten in de zoeksuggesties.</target>
+        <source>Use your upcoming calendar events as location suggestions. This information is not
+          stored on any server
+        </source>
+        <target xml:lang="nl" state="translated">Gebruik de locaties van uw activiteiten in de zoeksuggesties.
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
@@ -498,8 +520,11 @@
         <target xml:lang="nl" state="translated">Waardeer deze app in de App Store!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)</source>
-        <target xml:lang="nl" state="translated">Geef TripGo toestemming om anoniem locatie gegevens te verzamelen wanneer u de app gebruikt (dit gebeurd NIET wanneer u TripGo in de achtergrond gebruikt)</target>
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
+          background)
+        </source>
+        <target xml:lang="nl" state="translated">Geef TripGo toestemming om anoniem locatie gegevens te verzamelen wanneer u de app gebruikt (dit gebeurd NIET wanneer u TripGo in de achtergrond gebruikt)
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_distance_units">
         <source>Distance units to use in trip results</source>
@@ -542,8 +567,11 @@
         <target xml:lang="nl" state="translated">Kies de server. Dit zal alle andere server oproepen negeren!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored on any server</source>
-        <target xml:lang="nl" state="translated">Geef adressen weer uit uw contactenlijst in de zoeksuggesties.</target>
+        <source>Use your contact addresses as location suggestions. This information is not stored
+          on any server
+        </source>
+        <target xml:lang="nl" state="translated">Geef adressen weer uit uw contactenlijst in de zoeksuggesties.
+        </target>
       </trans-unit>
       <trans-unit id="settings_summary_trip_preferences">
         <source>Influence trip results by setting what's most important to you</source>
@@ -654,8 +682,10 @@
         <target xml:lang="nl" state="translated">TripGo helpt u bij het vinden van de beste manier om van A naar B te reizen via elk mogelijk vervoermiddel.</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target xml:lang="nl" state="translated">Wacht op het GPS signaal.. als er geen signaal gevonden wordt kunt u proberen uw GPS uit en aan te zetten.</target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
+        </source>
+        <target xml:lang="nl" state="translated">Wacht op het GPS signaal.. als er geen signaal gevonden wordt kunt u proberen uw GPS uit en aan te zetten.
+        </target>
       </trans-unit>
       <trans-unit id="view_timetable_subtitle">
         <source>Upcoming services</source>
@@ -690,10 +720,10 @@
         <target xml:lang="nl" state="translated">Het ziet ernaar uit dat u ergens naartoe moet</target>
       </trans-unit>
       <trans-unit id="trip_to">
-        <source>Trip to </source>
-        <target xml:lang="nl" state="translated">Trip to %s </target>
+        <source>Trip to</source>
+        <target xml:lang="nl" state="translated">Trip to %s</target>
         <alt-trans>
-          <target xml:lang="nl">Reis naar </target>
+          <target xml:lang="nl">Reis naar</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="trip_preferences">
@@ -713,8 +743,11 @@
         <target xml:lang="nl" state="translated">Gisteren</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.</source>
-        <target xml:lang="nl" state="translated">Kom nooit meer te laat. De agenda plant vooruit en laat u weten wanneer het tijd is om te vertrekken.</target>
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
+          leave.
+        </source>
+        <target xml:lang="nl" state="translated">Kom nooit meer te laat. De agenda plant vooruit en laat u weten wanneer het tijd is om te vertrekken.
+        </target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
         <source>For those without an agenda, save favorite places.</source>
@@ -734,50 +767,52 @@
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target xml:lang="nl" state="needs-translation">News</target>
+        <target xml:lang="nl" state="translated">Nieuws</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target xml:lang="nl" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.</note>
+        <target xml:lang="nl" state="translated">Meetellen bij reizen</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
+        </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target xml:lang="nl" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available</note>
+        <target xml:lang="nl" state="translated">%s slots beschikbaar</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target xml:lang="nl" state="needs-translation">%s slot available</target>
+        <target xml:lang="nl" state="translated">%s slot beschikbaar</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target xml:lang="nl" state="needs-translation">No slot available</target>
+        <target xml:lang="nl" state="translated">Geen slot beschikbaar</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target xml:lang="nl" state="needs-translation">Updated at: %s</target>
+        <target xml:lang="nl" state="translated">Bijgewerkt op %s</target>
         <note>Parking slots, updated time. Example: Updated at: 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target xml:lang="nl" state="needs-translation">Almost full</target>
+        <target xml:lang="nl" state="translated">Bijna vol</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="valid_from">
         <source>Valid From</source>
-        <target state="needs-translation" xml:lang="nl">Valid From</target>
+        <target xml:lang="nl" state="translated">Geldig vanaf</target>
         <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>
-        <target state="needs-translation" xml:lang="nl">Ticket Info</target>
+        <target xml:lang="nl" state="translated">Ticket Info</target>
         <note>Ticket Info title</note>
       </trans-unit>
     </body>
   </file>
 </xliff>
-
