@@ -1138,10 +1138,7 @@
           your calendar (e.g., work). They are important for the Agenda to get you to the right
           location at the right time.
         </source>
-        <target>Routines are part of your daily movement, but they aren't events that you want in
-          your calendar (e.g., work). They are important for the Agenda to get you to the right
-          location at the right time.
-        </target>
+        <target>Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</target>
         <note>Explanation for what routines are compared to calendar events and stays. Can be
           long-ish. (old key: HabitualEventDescription)
         </note>

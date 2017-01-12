@@ -756,6 +756,27 @@
         <target state="needs-translation" xml:lang="ja">Ticket Info</target>
         <note>Ticket Info title</note>
       </trans-unit>
+      <trans-unit id="Reminder added">
+        <source>Reminder added</source>
+        <target state="needs-translation" xml:lang="ja">Reminder added</target>
+        <note>Added reminder notice</note>
+      </trans-unit>
+      <trans-unit id="Reminder removed">
+        <source>Reminder removed</source>
+        <target state="needs-translation" xml:lang="ja">Reminder removed</target>
+        <note>Removed reminder HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Favourite added">
+        <source>Favourite added</source>
+        <target state="needs-translation" xml:lang="ja">Favourite added</target>
+        <note>Add favourite HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Favourite removed">
+        <source>Favourite removed</source>
+        <target state="needs-translation" xml:lang="ja">Favourite removed</target>
+        <note>Remove trip from favourites HUD notice</note>
+      </trans-unit>
+
     </body>
   </file>
 </xliff>

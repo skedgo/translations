@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="TripGo WatchKit Extension/Watch.strings" source-language="en" target-language="ja">
-    <header>
-      <tool build-num="8T61a" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1"/>
-    </header>
-    <body>
-      <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
-        <source>Plan a trip on your phone or press firmly to access your favourites.</source>
-        <target xml:lang="ja" state="needs-translation">Plan a trip on your phone or press firmly to access your favourites.</target>
-        <note>Instruction to users when there are no upcoming trips</note>
-      </trans-unit>
-      <trans-unit id="Plan a trip on your phone.">
-        <source>Plan a trip on your phone.</source>
-        <target xml:lang="ja" state="needs-translation">Plan a trip on your phone.</target>
-        <note>Instruction to users when there are no upcoming trips (for non-interactive Glance)</note>
-      </trans-unit>
-    </body>
-  </file>
   <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="ja">
     <header>
       <tool build-num="8T61a" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1"/>

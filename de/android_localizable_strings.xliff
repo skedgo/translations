@@ -902,6 +902,27 @@
         <target xml:lang="de" state="translated">Ticketinfos</target>
         <note>Ticket Info title</note>
       </trans-unit>
+      <trans-unit id="Reminder added" approved="yes">
+        <source>Reminder added</source>
+        <target xml:lang="de">Erinnerung hinzugefügt</target>
+        <note>Added reminder notice</note>
+      </trans-unit>
+      <trans-unit id="Reminder removed" approved="yes">
+        <source>Reminder removed</source>
+        <target xml:lang="de">Erinnerung gelöscht</target>
+        <note>Removed reminder HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Favourite added" approved="yes">
+        <source>Favourite added</source>
+        <target xml:lang="de">Favorit hinzugefügt</target>
+        <note>Add favourite HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Favourite removed" approved="yes">
+        <source>Favourite removed</source>
+        <target xml:lang="de">Favorit gelöscht</target>
+        <note>Remove trip from favourites HUD notice</note>
+      </trans-unit>
+
     </body>
   </file>
 </xliff>
