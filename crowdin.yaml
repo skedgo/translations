@@ -1,8 +1,14 @@
 project_identifier: tripgo
 api_key: 8d45d9d77285a28189afd03c0f9507ee                          
-base_path: /
+base_path: ./
 
 files:
   -
-    source: '/en/*.xliff'                                    #source files filter
-    translation: '/%two_letters_code%/%original_file_name%' #where translations live
+    source: '/en/android_localizable_strings.xliff'                                   
+    translation: '/%two_letters_code%/%original_file_name%'
+    languages_mapping:
+      two_letters_code:
+        'es-ES': 'es'
+        'pt-PT': 'pt'
+        'zh-CN': 'zh-Hans'
+        'zh-TW': 'zh-Hant'
