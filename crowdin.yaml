@@ -6,13 +6,8 @@ files:
   -  
     source: '/en/android_localizable_strings.xliff'                                   
     translation: '/%locale%/%original_file_name%'
-          
+
+        
   -  
     source: '/en/iOS.xliff'                                   
-    translation: '/%locale%/%original_file_name%'
-    languages_mapping:
-      locale:
-        'es-ES': 'es'
-        'pt-PT': 'pt'
-        'zh-CN': 'zh-Hans'
-        'zh-TW': 'zh-Hant'
+    translation: '/Translations/4_FromCrowdin/%osx_locale%/iOS.xliff'

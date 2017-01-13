@@ -1,0 +1,2676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo Agenda</source>
+        <target xml:lang="sv" state="needs-translation">TripGo Agenda</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>Notification Extension</source>
+        <target xml:lang="sv" state="needs-translation">Notification Extension</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="00e-CH-gOu.title">
+        <source>Reminder</source>
+        <target xml:lang="sv" state="needs-translation">Reminder</target>
+        <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
+      </trans-unit>
+      <trans-unit id="0mK-e0-427.text">
+        <source>Description</source>
+        <target xml:lang="sv" state="needs-translation">Description</target>
+        <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
+      </trans-unit>
+      <trans-unit id="6Qf-Ve-PDJ.text">
+        <source>No Data</source>
+        <target xml:lang="sv" state="needs-translation">No Data</target>
+        <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
+      </trans-unit>
+      <trans-unit id="AgC-eL-Hgc.title">
+        <source>TripGo</source>
+        <target xml:lang="sv" state="needs-translation">TripGo</target>
+        <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
+      </trans-unit>
+      <trans-unit id="F85-mJ-6yD.text">
+        <source>Getting trip</source>
+        <target xml:lang="sv" state="needs-translation">Getting trip</target>
+        <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
+      </trans-unit>
+      <trans-unit id="GGf-v0-vEJ.title">
+        <source>Show Map</source>
+        <target xml:lang="sv" state="needs-translation">Show Map</target>
+        <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
+      </trans-unit>
+      <trans-unit id="RoM-Us-t1Y.title">
+        <source>Favourites</source>
+        <target xml:lang="sv" state="needs-translation">Favourites</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
+      </trans-unit>
+      <trans-unit id="Uzb-ex-6N5.title">
+        <source>Agenda</source>
+        <target xml:lang="sv" state="needs-translation">Agenda</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
+      </trans-unit>
+      <trans-unit id="cAf-NX-Z7L.title">
+        <source>Favourites</source>
+        <target xml:lang="sv" state="needs-translation">Favourites</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
+      </trans-unit>
+      <trans-unit id="h3q-kR-2ID.title">
+        <source>Timetable</source>
+        <target xml:lang="sv" state="needs-translation">Timetable</target>
+        <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
+      </trans-unit>
+      <trans-unit id="jYK-Fw-rhR.text">
+        <source>Alert</source>
+        <target xml:lang="sv" state="needs-translation">Alert</target>
+        <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
+      </trans-unit>
+      <trans-unit id="r0K-AY-XvO.title">
+        <source>Retry</source>
+        <target xml:lang="sv" state="needs-translation">Retry</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
+      </trans-unit>
+      <trans-unit id="rQN-eo-Bg2.title">
+        <source>Timetable</source>
+        <target xml:lang="sv" state="needs-translation">Timetable</target>
+        <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo</source>
+        <target xml:lang="sv" state="needs-translation">TripGo</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo WatchKit Extension</source>
+        <target xml:lang="sv" state="needs-translation">TripGo WatchKit Extension</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Watch.strings" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
+        <source>Plan a trip on your phone or press firmly to access your favourites.</source>
+        <target xml:lang="sv" state="needs-translation">Plan a trip on your phone or press firmly to access your favourites.</target>
+        <note>Instruction to users when there are no upcoming trips</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="%@ to %@">
+        <source>%@ to %@</source>
+        <target xml:lang="sv" state="needs-translation">%@ to %@</target>
+        <note>Format string for going from one location to another. For example: Used to name favourite trips.</note>
+      </trans-unit>
+      <trans-unit id="Add stopover...">
+        <source>Add stopover...</source>
+        <target xml:lang="sv" state="needs-translation">Add stopover...</target>
+        <note>Add a new stopover</note>
+      </trans-unit>
+      <trans-unit id="Add to Agenda">
+        <source>Add to Agenda</source>
+        <target xml:lang="sv" state="needs-translation">Add to Agenda</target>
+        <note>Button to save a trip to the agenda</note>
+      </trans-unit>
+      <trans-unit id="Agenda">
+        <source>Agenda</source>
+        <target xml:lang="sv" state="needs-translation">Agenda</target>
+        <note>Title for button to access agenda</note>
+      </trans-unit>
+      <trans-unit id="Agenda is not set up.">
+        <source>Agenda is not set up.</source>
+        <target xml:lang="sv" state="needs-translation">Agenda is not set up.</target>
+        <note>Error title when agenda isn't yet set up.</note>
+      </trans-unit>
+      <trans-unit id="Agree">
+        <source>Agree</source>
+        <target xml:lang="sv" state="needs-translation">Agree</target>
+        <note>Button to agree to EULA or a similar agreement</note>
+      </trans-unit>
+      <trans-unit id="All">
+        <source>All</source>
+        <target xml:lang="sv" state="needs-translation">All</target>
+        <note>Option to use this trip for all similar cases.</note>
+      </trans-unit>
+      <trans-unit id="All From Here">
+        <source>All From Here</source>
+        <target xml:lang="sv" state="needs-translation">All From Here</target>
+        <note>Option to delete this event and all after in a recurrence</note>
+      </trans-unit>
+      <trans-unit id="Calendar Event">
+        <source>Calendar Event</source>
+        <target xml:lang="sv" state="needs-translation">Calendar Event</target>
+        <note>Type for regular events that go in the phone's calendar.</note>
+      </trans-unit>
+      <trans-unit id="Current Trip">
+        <source>Current Trip</source>
+        <target xml:lang="sv" state="needs-translation">Current Trip</target>
+        <note>Indicating the next trip is a current trip</note>
+      </trans-unit>
+      <trans-unit id="Database corrupted and lost.">
+        <source>Database corrupted and lost.</source>
+        <target xml:lang="sv" state="needs-translation">Database corrupted and lost.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss">
+        <source>Dismiss</source>
+        <target xml:lang="sv" state="needs-translation">Dismiss</target>
+        <note>Button to dismiss something, e.g., an error or action action sheet</note>
+      </trans-unit>
+      <trans-unit id="Favourites">
+        <source>Favourites</source>
+        <target xml:lang="sv" state="needs-translation">Favourites</target>
+        <note>Title for button to access favourites</note>
+      </trans-unit>
+      <trans-unit id="Flight">
+        <source>Flight</source>
+        <target xml:lang="sv" state="needs-translation">Flight</target>
+        <note>Title for a flight</note>
+      </trans-unit>
+      <trans-unit id="Getting current location">
+        <source>Getting current location</source>
+        <target xml:lang="sv" state="needs-translation">Getting current location</target>
+        <note>Indicating localisation is in progress</note>
+      </trans-unit>
+      <trans-unit id="Getting trip...">
+        <source>Getting trip...</source>
+        <target xml:lang="sv" state="needs-translation">Getting trip...</target>
+        <note>Message to show when trying to get trip for a favorite</note>
+      </trans-unit>
+      <trans-unit id="Habitual Visit">
+        <source>Habitual Visit</source>
+        <target xml:lang="sv" state="needs-translation">Habitual Visit</target>
+        <note>Type for events that are regular visit's to one of the user's favorites</note>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <target xml:lang="sv" state="needs-translation">Home</target>
+        <note>Typical name that you'd give your home location</note>
+      </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <target xml:lang="sv" state="needs-translation">Loading...</target>
+        <note>Inidcating the watch app is loading</note>
+      </trans-unit>
+      <trans-unit id="Map">
+        <source>Map</source>
+        <target xml:lang="sv" state="needs-translation">Map</target>
+        <note>Button to show a map or to modify the map's settings</note>
+      </trans-unit>
+      <trans-unit id="Minimised">
+        <source>Minimised</source>
+        <target xml:lang="sv" state="needs-translation">Minimised</target>
+        <note>Indicator that a transport mode will appear minimised on the routes screen.</note>
+      </trans-unit>
+      <trans-unit id="New event">
+        <source>New event</source>
+        <target xml:lang="sv" state="needs-translation">New event</target>
+        <note>Title for unnamed new event</note>
+      </trans-unit>
+      <trans-unit id="Only This">
+        <source>Only This</source>
+        <target xml:lang="sv" state="needs-translation">Only This</target>
+        <note>Option to delete only this event in a recurence</note>
+      </trans-unit>
+      <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
+        <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
+        <target xml:lang="sv" state="needs-translation">Please delete the app and re-install from the App Store. Sorry for the inconvenience!</target>
+        <note>Recovery suggestion when TripGo cannot access its local files</note>
+      </trans-unit>
+      <trans-unit id="Please restart the app. Sorry for the inconvenience!">
+        <source>Please restart the app. Sorry for the inconvenience!</source>
+        <target xml:lang="sv" state="needs-translation">Please restart the app. Sorry for the inconvenience!</target>
+        <note>Recovery suggestion when an app restart is required, e.g., when the database got corrupted and/or the app can't access its local files.</note>
+      </trans-unit>
+      <trans-unit id="Profile">
+        <source>Profile</source>
+        <target xml:lang="sv" state="needs-translation">Profile</target>
+        <note>Profile tab bar name</note>
+      </trans-unit>
+      <trans-unit id="Reset">
+        <source>Reset</source>
+        <target xml:lang="sv" state="needs-translation">Reset</target>
+        <note>Action title to reset something, e.g., settings</note>
+      </trans-unit>
+      <trans-unit id="Set up your Agenda in the TripGo app.">
+        <source>Set up your Agenda in the TripGo app.</source>
+        <target xml:lang="sv" state="needs-translation">Set up your Agenda in the TripGo app.</target>
+        <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.</note>
+      </trans-unit>
+      <trans-unit id="Show map">
+        <source>Show map</source>
+        <target xml:lang="sv" state="needs-translation">Show map</target>
+        <note>Action title to show map for a segment</note>
+      </trans-unit>
+      <trans-unit id="Show trip">
+        <source>Show trip</source>
+        <target xml:lang="sv" state="needs-translation">Show trip</target>
+        <note>Show trip</note>
+      </trans-unit>
+      <trans-unit id="Snooze 5 mins">
+        <source>Snooze 5 mins</source>
+        <target xml:lang="sv" state="needs-translation">Snooze 5 mins</target>
+        <note>Action button on trip reminders to snooze it for a fixed amount.</note>
+      </trans-unit>
+      <trans-unit id="Snooze until next">
+        <source>Snooze until next</source>
+        <target xml:lang="sv" state="needs-translation">Snooze until next</target>
+        <note>Action button on public transport trip reminders to skip this service and get reminded for the next service</note>
+      </trans-unit>
+      <trans-unit id="Stay">
+        <source>Stay</source>
+        <target xml:lang="sv" state="needs-translation">Stay</target>
+        <note>Stay, i.e., type for dates you're staying at a hotel, or when moving house.</note>
+      </trans-unit>
+      <trans-unit id="Stopover">
+        <source>Stopover</source>
+        <target xml:lang="sv" state="needs-translation">Stopover</target>
+        <note>Title for stopover event</note>
+      </trans-unit>
+      <trans-unit id="Time to leave! Your trip commences at %@">
+        <source>Time to leave! Your trip commences at %@</source>
+        <target xml:lang="sv" state="needs-translation">Time to leave! Your trip commences at %@</target>
+        <note>Notification message for trip with unknown destination. Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
+      </trans-unit>
+      <trans-unit id="Time to leave! Your trip to %@ commences at %@">
+        <source>Time to leave! Your trip to %@ commences at %@</source>
+        <target xml:lang="sv" state="needs-translation">Time to leave! Your trip to %@ commences at %@</target>
+        <note>Notification message for a trip. Provided is %destination and %time you need to leave.</note>
+      </trans-unit>
+      <trans-unit id="Timetable">
+        <source>Timetable</source>
+        <target xml:lang="sv" state="needs-translation">Timetable</target>
+        <note>Title of button to access timetable</note>
+      </trans-unit>
+      <trans-unit id="Transport">
+        <source>Transport</source>
+        <target xml:lang="sv" state="needs-translation">Transport</target>
+        <note>Title for button to access transport modes</note>
+      </trans-unit>
+      <trans-unit id="TripGo cannot access its local files.">
+        <source>TripGo cannot access its local files.</source>
+        <target xml:lang="sv" state="needs-translation">TripGo cannot access its local files.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trips">
+        <source>Trips</source>
+        <target xml:lang="sv" state="needs-translation">Trips</target>
+        <note>Trips tab bar name</note>
+      </trans-unit>
+      <trans-unit id="Upcoming Trip">
+        <source>Upcoming Trip</source>
+        <target xml:lang="sv" state="needs-translation">Upcoming Trip</target>
+        <note>Indicating the next trip is an upcoming trip</note>
+      </trans-unit>
+      <trans-unit id="View">
+        <source>View</source>
+        <target xml:lang="sv" state="needs-translation">View</target>
+        <note>Button to view something, e.g., a notification content or the EULA</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="3d9-Hg-2Fe.title">
+        <source>Trips</source>
+        <target xml:lang="sv" state="needs-translation">Trips</target>
+        <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+      </trans-unit>
+      <trans-unit id="5WK-au-VFq.title">
+        <source>Settings</source>
+        <target xml:lang="sv" state="needs-translation">Settings</target>
+        <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq";</note>
+      </trans-unit>
+      <trans-unit id="IFX-i9-ymN.title">
+        <source>Routes</source>
+        <target xml:lang="sv" state="needs-translation">Routes</target>
+        <note>Class = "UINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN";</note>
+      </trans-unit>
+      <trans-unit id="JMk-5m-B22.title">
+        <source>Service</source>
+        <target xml:lang="sv" state="needs-translation">Service</target>
+        <note>Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22";</note>
+      </trans-unit>
+      <trans-unit id="QTR-Ae-g7f.title">
+        <source>Trip</source>
+        <target xml:lang="sv" state="needs-translation">Trip</target>
+        <note>Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f";</note>
+      </trans-unit>
+      <trans-unit id="TNA-bx-79H.title">
+        <source>Agenda</source>
+        <target xml:lang="sv" state="needs-translation">Agenda</target>
+        <note>Class = "UITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H";</note>
+      </trans-unit>
+      <trans-unit id="TYM-9i-XBA.title">
+        <source>Profile</source>
+        <target xml:lang="sv" state="needs-translation">Profile</target>
+        <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA";</note>
+      </trans-unit>
+      <trans-unit id="t3k-Ks-sqa.title">
+        <source>Alerts</source>
+        <target xml:lang="sv" state="needs-translation">Alerts</target>
+        <note>Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa";</note>
+      </trans-unit>
+      <trans-unit id="ye4-ch-zSe.title">
+        <source>Favourites</source>
+        <target xml:lang="sv" state="needs-translation">Favourites</target>
+        <note>Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe";</note>
+      </trans-unit>
+      <trans-unit id="zCk-Ai-u6n.title">
+        <source>Timetable</source>
+        <target xml:lang="sv" state="needs-translation">Timetable</target>
+        <note>Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="30.accessibilityLabel">
+        <source>Swap from and to</source>
+        <target xml:lang="sv" state="needs-translation">Swap from and to</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+      </trans-unit>
+      <trans-unit id="44.normalTitle">
+        <source>Time</source>
+        <target xml:lang="sv" state="needs-translation">Time</target>
+        <note>Class = "UIButton"; normalTitle = "Time"; ObjectID = "44";</note>
+      </trans-unit>
+      <trans-unit id="57.accessibilityLabel">
+        <source>Route</source>
+        <target xml:lang="sv" state="needs-translation">Route</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="57.normalTitle">
+        <source>Route</source>
+        <target xml:lang="sv" state="needs-translation">Route</target>
+        <note>Class = "UIButton"; normalTitle = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="JFm-H4-fOo.accessibilityLabel">
+        <source>To Location</source>
+        <target xml:lang="sv" state="needs-translation">To Location</target>
+        <note>Class = "UIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo";</note>
+      </trans-unit>
+      <trans-unit id="bs1-li-naL.accessibilityLabel">
+        <source>From Location</source>
+        <target xml:lang="sv" state="needs-translation">From Location</target>
+        <note>Class = "UIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/QRCodeViewController.xib" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="Ymf-LY-K7e.text">
+        <source>VALID FROM</source>
+        <target xml:lang="sv" state="needs-translation">VALID FROM</target>
+        <note>Class = "UILabel"; text = "VALID FROM"; ObjectID = "Ymf-LY-K7e";</note>
+      </trans-unit>
+      <trans-unit id="x1o-my-P1Q.text">
+        <source>TO</source>
+        <target xml:lang="sv" state="needs-translation">TO</target>
+        <note>Class = "UILabel"; text = "TO"; ObjectID = "x1o-my-P1Q";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/TripBoyView.xib" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="xKe-fs-FjF.normalTitle">
+        <source>Retry</source>
+        <target xml:lang="sv" state="needs-translation">Retry</target>
+        <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "xKe-fs-FjF";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="%.0f minutes">
+        <source>%.0f minutes</source>
+        <target xml:lang="sv" state="needs-translation">%.0f minutes</target>
+        <note>Minutes format (used for transfer times). (old key: Minutes)</note>
+      </trans-unit>
+      <trans-unit id="%.0f minutes before">
+        <source>%.0f minutes before</source>
+        <target xml:lang="sv" state="needs-translation">%.0f minutes before</target>
+        <note>Minutes format (used alert firing X minuts before departure). (old key: MinutesBefore)</note>
+      </trans-unit>
+      <trans-unit id="%@ Account">
+        <source>%@ Account</source>
+        <target xml:lang="sv" state="needs-translation">%@ Account</target>
+        <note>Title for linked third-party account, e.g., 'Uber Account'</note>
+      </trans-unit>
+      <trans-unit id="%@ at %@">
+        <source>%@ at %@</source>
+        <target xml:lang="sv" state="needs-translation">%@ at %@</target>
+        <note>Filler for a specific service running at a time, e.g., '396 at 11:56am'</note>
+      </trans-unit>
+      <trans-unit id="%@ every %@">
+        <source>%@ every %@</source>
+        <target xml:lang="sv" state="needs-translation">%@ every %@</target>
+        <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
+      </trans-unit>
+      <trans-unit id="%@ flight %@">
+        <source>%@ flight %@</source>
+        <target xml:lang="sv" state="needs-translation">%@ flight %@</target>
+        <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'. (old key: AirlineFlightNumber)</note>
+      </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <target xml:lang="sv" state="needs-translation">Access to location services required.</target>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Add Reminder">
+        <source>Add Reminder</source>
+        <target xml:lang="sv" state="needs-translation">Add Reminder</target>
+        <note>Add reminder activity title</note>
+      </trans-unit>
+      <trans-unit id="Add address...">
+        <source>Add address...</source>
+        <target xml:lang="sv" state="needs-translation">Add address...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add another recurrence">
+        <source>Add another recurrence</source>
+        <target xml:lang="sv" state="needs-translation">Add another recurrence</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add to Calendar">
+        <source>Add to Calendar</source>
+        <target xml:lang="sv" state="needs-translation">Add to Calendar</target>
+        <note>Add to calendar activity title</note>
+      </trans-unit>
+      <trans-unit id="Add to favourites">
+        <source>Add to favourites</source>
+        <target xml:lang="sv" state="needs-translation">Add to favourites</target>
+        <note>Add favourite activity title</note>
+      </trans-unit>
+      <trans-unit id="Add vehicle">
+        <source>Add vehicle</source>
+        <target xml:lang="sv" state="needs-translation">Add vehicle</target>
+        <note>Action title for adding a vehicle</note>
+      </trans-unit>
+      <trans-unit id="Add when I'm here">
+        <source>Add when I'm here</source>
+        <target xml:lang="sv" state="needs-translation">Add when I'm here</target>
+        <note>Action title for adding another habitual visit to a favourite. (old key: NewItemHereActionTitle)</note>
+      </trans-unit>
+      <trans-unit id="Added">
+        <source>Added</source>
+        <target xml:lang="sv" state="needs-translation">Added</target>
+        <note>Confirmation that something got added HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Address required">
+        <source>Address required</source>
+        <target xml:lang="sv" state="needs-translation">Address required</target>
+        <note>Alert title that indicates an address is missing when creating a new event.</note>
+      </trans-unit>
+      <trans-unit id="Agenda Setup">
+        <source>Agenda Setup</source>
+        <target xml:lang="sv" state="needs-translation">Agenda Setup</target>
+        <note>Title for agenda screen while it's still in setup mode.</note>
+      </trans-unit>
+      <trans-unit id="Alert">
+        <source>Alert</source>
+        <target xml:lang="sv" state="needs-translation">Alert</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Alerts">
+        <source>Alerts</source>
+        <target xml:lang="sv" state="needs-translation">Alerts</target>
+      </trans-unit>
+      <trans-unit id="Alternative routes">
+        <source>Alternative routes</source>
+        <target xml:lang="sv" state="needs-translation">Alternative routes</target>
+        <note>Action button title to see alternative options for the case where you can't make the next connection.</note>
+      </trans-unit>
+      <trans-unit id="Ambiguous event address.">
+        <source>Ambiguous event address.</source>
+        <target xml:lang="sv" state="needs-translation">Ambiguous event address.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Arrival">
+        <source>Arrival</source>
+        <target xml:lang="sv" state="needs-translation">Arrival</target>
+        <note>Arrival date+time for overnight stay</note>
+      </trans-unit>
+      <trans-unit id="Arrive by">
+        <source>Arrive by</source>
+        <target xml:lang="sv" state="needs-translation">Arrive by</target>
+        <note>Arrive before button</note>
+      </trans-unit>
+      <trans-unit id="Assign to vehicle">
+        <source>Assign to vehicle</source>
+        <target xml:lang="sv" state="needs-translation">Assign to vehicle</target>
+        <note>Title for section to assign a trip to a vehicle.</note>
+      </trans-unit>
+      <trans-unit id="At %@">
+        <source>At %@</source>
+        <target xml:lang="sv" state="needs-translation">At %@</target>
+        <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
+      </trans-unit>
+      <trans-unit id="Auto">
+        <source>Auto</source>
+        <target xml:lang="sv" state="needs-translation">Auto</target>
+        <note>Distance 'automatic'</note>
+      </trans-unit>
+      <trans-unit id="Automatic Reminders">
+        <source>Automatic Reminders</source>
+        <target xml:lang="sv" state="needs-translation">Automatic Reminders</target>
+        <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
+      </trans-unit>
+      <trans-unit id="Awesome! How about rating us?">
+        <source>Awesome! How about rating us?</source>
+        <target xml:lang="sv" state="needs-translation">Awesome! How about rating us?</target>
+        <note>Response to positive answer to question whether TripGo is useful, prompting for App Store rating.</note>
+      </trans-unit>
+      <trans-unit id="Book a taxi">
+        <source>Book a taxi</source>
+        <target xml:lang="sv" state="needs-translation">Book a taxi</target>
+        <note>Book a taxi</note>
+      </trans-unit>
+      <trans-unit id="Bookings made with TripGo will appear here.">
+        <source>Bookings made with TripGo will appear here.</source>
+        <target xml:lang="sv" state="needs-translation">Bookings made with TripGo will appear here.</target>
+        <note>Description on empty bookings screen</note>
+      </trans-unit>
+      <trans-unit id="Bummer... How about some feedback?">
+        <source>Bummer... How about some feedback?</source>
+        <target xml:lang="sv" state="needs-translation">Bummer... How about some feedback?</target>
+        <note>Response to negative answer to question whether TripGo is useful, prompting for feedback.</note>
+      </trans-unit>
+      <trans-unit id="Calendar">
+        <source>Calendar</source>
+        <target xml:lang="sv" state="needs-translation">Calendar</target>
+        <note>Calendar</note>
+      </trans-unit>
+      <trans-unit id="Calendars">
+        <source>Calendars</source>
+        <target xml:lang="sv" state="needs-translation">Calendars</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change time">
+        <source>Change time</source>
+        <target xml:lang="sv" state="needs-translation">Change time</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear cache">
+        <source>Clear cache</source>
+        <target xml:lang="sv" state="needs-translation">Clear cache</target>
+        <note>clear cache preference</note>
+      </trans-unit>
+      <trans-unit id="Clear search history">
+        <source>Clear search history</source>
+        <target xml:lang="sv" state="needs-translation">Clear search history</target>
+        <note>clear search history preference</note>
+      </trans-unit>
+      <trans-unit id="Concession Pricing">
+        <source>Concession Pricing</source>
+        <target xml:lang="sv" state="needs-translation">Concession Pricing</target>
+        <note>School pricing preference</note>
+      </trans-unit>
+      <trans-unit id="Convenience">
+        <source>Convenience</source>
+        <target xml:lang="sv" state="needs-translation">Convenience</target>
+        <note>Hassle preference</note>
+      </trans-unit>
+      <trans-unit id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.">
+        <source>Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</source>
+        <target xml:lang="sv" state="needs-translation">Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</target>
+        <note>Convenience description</note>
+      </trans-unit>
+      <trans-unit id="Could not find your city.">
+        <source>Could not find your city.</source>
+        <target xml:lang="sv" state="needs-translation">Could not find your city.</target>
+        <note>Error title when TripGo couldn't identify the user's current city.</note>
+      </trans-unit>
+      <trans-unit id="Critical Error">
+        <source>Critical Error</source>
+        <target xml:lang="sv" state="needs-translation">Critical Error</target>
+        <note>Title for critical error</note>
+      </trans-unit>
+      <trans-unit id="Custom trip does not fit">
+        <source>Custom trip does not fit</source>
+        <target xml:lang="sv" state="needs-translation">Custom trip does not fit</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom trip has been cancelled">
+        <source>Custom trip has been cancelled</source>
+        <target xml:lang="sv" state="needs-translation">Custom trip has been cancelled</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cycle speed">
+        <source>Cycle speed</source>
+        <target xml:lang="sv" state="needs-translation">Cycle speed</target>
+        <note>Cycling speed preference</note>
+      </trans-unit>
+      <trans-unit id="Departure">
+        <source>Departure</source>
+        <target xml:lang="sv" state="needs-translation">Departure</target>
+        <note>Departure date+time for overnight stay</note>
+      </trans-unit>
+      <trans-unit id="Distances">
+        <source>Distances</source>
+        <target xml:lang="sv" state="needs-translation">Distances</target>
+        <note>Distances preference</note>
+      </trans-unit>
+      <trans-unit id="Do Not Include">
+        <source>Do Not Include</source>
+        <target xml:lang="sv" state="needs-translation">Do Not Include</target>
+        <note>Title for transport modes that the user doesn't want included</note>
+      </trans-unit>
+      <trans-unit id="Do you want to always use this trip and add it to your favourites?">
+        <source>Do you want to always use this trip and add it to your favourites?</source>
+        <target xml:lang="sv" state="needs-translation">Do you want to always use this trip and add it to your favourites?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Don't have a fixed place of work or study? Skip this step.">
+        <source>Don't have a fixed place of work or study? Skip this step.</source>
+        <target xml:lang="sv" state="needs-translation">Don't have a fixed place of work or study? Skip this step.</target>
+        <note>Walkthrough (skip in here should match translation for 'Skip'.</note>
+      </trans-unit>
+      <trans-unit id="Duration">
+        <source>Duration</source>
+        <target xml:lang="sv" state="needs-translation">Duration</target>
+        <note>Label for 'Duration' button to sort trips by their total duration. (old key: ViewDurationButton)</note>
+      </trans-unit>
+      <trans-unit id="Effective in">
+        <source>Effective in</source>
+        <target xml:lang="sv" state="needs-translation">Effective in</target>
+        <note>Used in countdown context, indicating when a ticket becomes valid</note>
+      </trans-unit>
+      <trans-unit id="End Date">
+        <source>End Date</source>
+        <target xml:lang="sv" state="needs-translation">End Date</target>
+        <note>Title for the time an event ends (including date information)</note>
+      </trans-unit>
+      <trans-unit id="End User Licence Agreement">
+        <source>End User Licence Agreement</source>
+        <target xml:lang="sv" state="needs-translation">End User Licence Agreement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Environment">
+        <source>Environment</source>
+        <target xml:lang="sv" state="needs-translation">Environment</target>
+        <note>Carbon preference</note>
+      </trans-unit>
+      <trans-unit id="Event">
+        <source>Event</source>
+        <target xml:lang="sv" state="needs-translation">Event</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event does not fit">
+        <source>Event does not fit</source>
+        <target xml:lang="sv" state="needs-translation">Event does not fit</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event is missing an address.">
+        <source>Event is missing an address.</source>
+        <target xml:lang="sv" state="needs-translation">Event is missing an address.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event is outside TripGo's range.">
+        <source>Event is outside TripGo's range.</source>
+        <target xml:lang="sv" state="needs-translation">Event is outside TripGo's range.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event was cancelled">
+        <source>Event was cancelled</source>
+        <target xml:lang="sv" state="needs-translation">Event was cancelled</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Every %@">
+        <source>Every %@</source>
+        <target xml:lang="sv" state="needs-translation">Every %@</target>
+        <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes'</note>
+      </trans-unit>
+      <trans-unit id="Example">
+        <source>Example</source>
+        <target xml:lang="sv" state="needs-translation">Example</target>
+        <note>Text do mark an example</note>
+      </trans-unit>
+      <trans-unit id="Exclude">
+        <source>Exclude</source>
+        <target xml:lang="sv" state="needs-translation">Exclude</target>
+        <note>Exclude event action</note>
+      </trans-unit>
+      <trans-unit id="Expire in">
+        <source>Expire in</source>
+        <target xml:lang="sv" state="needs-translation">Expire in</target>
+        <note>Used in countdown context, indicating when a ticket expires</note>
+      </trans-unit>
+      <trans-unit id="Expired">
+        <source>Expired</source>
+        <target xml:lang="sv" state="needs-translation">Expired</target>
+        <note>Title for list of expired tickets</note>
+      </trans-unit>
+      <trans-unit id="Fast">
+        <source>Fast</source>
+        <target xml:lang="sv" state="needs-translation">Fast</target>
+        <note>Speed preference 'fast'</note>
+      </trans-unit>
+      <trans-unit id="Favourite">
+        <source>Favourite</source>
+        <target xml:lang="sv" state="needs-translation">Favourite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favourite Trip">
+        <source>Favourite Trip</source>
+        <target xml:lang="sv" state="needs-translation">Favourite Trip</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feedback &amp; Support">
+        <source>Feedback &amp; Support</source>
+        <target xml:lang="sv" state="needs-translation">Feedback &amp; Support</target>
+        <note>Help title</note>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+        <target xml:lang="sv" state="needs-translation">Filter</target>
+        <note>Placeholder text for search bar that is used for filtering</note>
+      </trans-unit>
+      <trans-unit id="Flight number">
+        <source>Flight number</source>
+        <target xml:lang="sv" state="needs-translation">Flight number</target>
+      </trans-unit>
+      <trans-unit id="For when to leave">
+        <source>For when to leave</source>
+        <target xml:lang="sv" state="needs-translation">For when to leave</target>
+        <note>Reminder to leave preference</note>
+      </trans-unit>
+      <trans-unit id="From">
+        <source>From</source>
+        <target xml:lang="sv" state="needs-translation">From</target>
+        <note>Favorite trip 'from' title</note>
+      </trans-unit>
+      <trans-unit id="From current location">
+        <source>From current location</source>
+        <target xml:lang="sv" state="needs-translation">From current location</target>
+        <note>Route here... ...from Current location</note>
+      </trans-unit>
+      <trans-unit id="Garaged Vehicles">
+        <source>Garaged Vehicles</source>
+        <target xml:lang="sv" state="needs-translation">Garaged Vehicles</target>
+        <note>Header for list of vehicles garaged at this location</note>
+      </trans-unit>
+      <trans-unit id="General">
+        <source>General</source>
+        <target xml:lang="sv" state="needs-translation">General</target>
+        <note>Title of settings for generic transport stuff</note>
+      </trans-unit>
+      <trans-unit id="Get Involved">
+        <source>Get Involved</source>
+        <target xml:lang="sv" state="needs-translation">Get Involved</target>
+        <note>Header for settings for feedback, recommending and rating TripGo</note>
+      </trans-unit>
+      <trans-unit id="Get directions">
+        <source>Get directions</source>
+        <target xml:lang="sv" state="needs-translation">Get directions</target>
+        <note>Action button title for getting turn-by-turn directions</note>
+      </trans-unit>
+      <trans-unit id="Get off here">
+        <source>Get off here</source>
+        <target xml:lang="sv" state="needs-translation">Get off here</target>
+        <note>Get off here</note>
+      </trans-unit>
+      <trans-unit id="Get on here">
+        <source>Get on here</source>
+        <target xml:lang="sv" state="needs-translation">Get on here</target>
+        <note>Get on here</note>
+      </trans-unit>
+      <trans-unit id="Get on or off here">
+        <source>Get on or off here</source>
+        <target xml:lang="sv" state="needs-translation">Get on or off here</target>
+        <note>Description for button to get on or off at the selected public transport stop rather than where TripGo suggested.</note>
+      </trans-unit>
+      <trans-unit id="Has TripGo been useful to you?">
+        <source>Has TripGo been useful to you?</source>
+        <target xml:lang="sv" state="needs-translation">Has TripGo been useful to you?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <target xml:lang="sv" state="needs-translation">Home</target>
+        <note>Typical name that you'd give your home location</note>
+      </trans-unit>
+      <trans-unit id="Hybrid">
+        <source>Hybrid</source>
+        <target xml:lang="sv" state="needs-translation">Hybrid</target>
+        <note>Map mode 'streets + satellite'</note>
+      </trans-unit>
+      <trans-unit id="Include">
+        <source>Include</source>
+        <target xml:lang="sv" state="needs-translation">Include</target>
+        <note>Include event action</note>
+      </trans-unit>
+      <trans-unit id="Include Step Count">
+        <source>Include Step Count</source>
+        <target xml:lang="sv" state="needs-translation">Include Step Count</target>
+      </trans-unit>
+      <trans-unit id="Include in routes">
+        <source>Include in routes</source>
+        <target xml:lang="sv" state="needs-translation">Include in routes</target>
+        <note>Title for a switch indicating two things: 1) if transport mode should be included in trips and 2) if this event should be included in all-day routes</note>
+      </trans-unit>
+      <trans-unit id="Jump to today">
+        <source>Jump to today</source>
+        <target xml:lang="sv" state="needs-translation">Jump to today</target>
+        <note>Accessibility hint for tapping title in agenda - jumps to 'today'</note>
+      </trans-unit>
+      <trans-unit id="Km">
+        <source>Km</source>
+        <target xml:lang="sv" state="needs-translation">Km</target>
+        <note>Distance 'kilometers'</note>
+      </trans-unit>
+      <trans-unit id="Leave at">
+        <source>Leave at</source>
+        <target xml:lang="sv" state="needs-translation">Leave at</target>
+        <note>Leave after button</note>
+      </trans-unit>
+      <trans-unit id="List">
+        <source>List</source>
+        <target xml:lang="sv" state="needs-translation">List</target>
+        <note>Button title to switch view to list mode</note>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <target xml:lang="sv" state="needs-translation">Location</target>
+        <note>Title for showing the details of a location, typically picked from the map after searching or dropping a pin</note>
+      </trans-unit>
+      <trans-unit id="Location missing.">
+        <source>Location missing.</source>
+        <target xml:lang="sv" state="needs-translation">Location missing.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Location not set.">
+        <source>Location not set.</source>
+        <target xml:lang="sv" state="needs-translation">Location not set.</target>
+        <note>Error title when favourite is missing a location..</note>
+      </trans-unit>
+      <trans-unit id="Long press on the map to choose a location">
+        <source>Long press on the map to choose a location</source>
+        <target xml:lang="sv" state="needs-translation">Long press on the map to choose a location</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Manual Reminders">
+        <source>Manual Reminders</source>
+        <target xml:lang="sv" state="needs-translation">Manual Reminders</target>
+        <note>Header for settings of reminders that the user manually added</note>
+      </trans-unit>
+      <trans-unit id="Marking a location as a favourite will allow quick access to routing results for going there from your current location.">
+        <source>Marking a location as a favourite will allow quick access to routing results for going there from your current location.</source>
+        <target xml:lang="sv" state="needs-translation">Marking a location as a favourite will allow quick access to routing results for going there from your current location.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Marking a transit stop as a favourite will allow quick access to its timetable.">
+        <source>Marking a transit stop as a favourite will allow quick access to its timetable.</source>
+        <target xml:lang="sv" state="needs-translation">Marking a transit stop as a favourite will allow quick access to its timetable.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Medium">
+        <source>Medium</source>
+        <target xml:lang="sv" state="needs-translation">Medium</target>
+        <note>Speed preference 'medium'</note>
+      </trans-unit>
+      <trans-unit id="Mi">
+        <source>Mi</source>
+        <target xml:lang="sv" state="needs-translation">Mi</target>
+        <note>Distance 'miles'</note>
+      </trans-unit>
+      <trans-unit id="Min transfer time">
+        <source>Min transfer time</source>
+        <target xml:lang="sv" state="needs-translation">Min transfer time</target>
+        <note>Minimum transfer time preference</note>
+      </trans-unit>
+      <trans-unit id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.">
+        <source>Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</source>
+        <target xml:lang="sv" state="needs-translation">Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Minutes before trip">
+        <source>Minutes before trip</source>
+        <target xml:lang="sv" state="needs-translation">Minutes before trip</target>
+        <note>Reminder to leave preference</note>
+      </trans-unit>
+      <trans-unit id="More">
+        <source>More</source>
+        <target xml:lang="sv" state="needs-translation">More</target>
+        <note>More button accessibility label</note>
+      </trans-unit>
+      <trans-unit id="More Information">
+        <source>More Information</source>
+        <target xml:lang="sv" state="needs-translation">More Information</target>
+        <note>Header for list of how to get more information (e.g., by opening a website)</note>
+      </trans-unit>
+      <trans-unit id="Movie">
+        <source>Movie</source>
+        <target xml:lang="sv" state="needs-translation">Movie</target>
+        <note>Sample event name ('Movie')</note>
+      </trans-unit>
+      <trans-unit id="My Bookings">
+        <source>My Bookings</source>
+        <target xml:lang="sv" state="needs-translation">My Bookings</target>
+        <note>Title for profile item that loads a list of user's bookings</note>
+      </trans-unit>
+      <trans-unit id="My Priorities">
+        <source>My Priorities</source>
+        <target xml:lang="sv" state="needs-translation">My Priorities</target>
+        <note>User preferences title</note>
+      </trans-unit>
+      <trans-unit id="My Transport">
+        <source>My Transport</source>
+        <target xml:lang="sv" state="needs-translation">My Transport</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="My Vehicles">
+        <source>My Vehicles</source>
+        <target xml:lang="sv" state="needs-translation">My Vehicles</target>
+        <note>Header for list of my vehicles</note>
+      </trans-unit>
+      <trans-unit id="Navigate to a supported city on a map.">
+        <source>Navigate to a supported city on a map.</source>
+        <target xml:lang="sv" state="needs-translation">Navigate to a supported city on a map.</target>
+        <note>Error recovery suggestion for when TripGo couldn't identify the user's current city.</note>
+      </trans-unit>
+      <trans-unit id="New Favourite">
+        <source>New Favourite</source>
+        <target xml:lang="sv" state="needs-translation">New Favourite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No 'From' location selected">
+        <source>No 'From' location selected</source>
+        <target xml:lang="sv" state="needs-translation">No 'From' location selected</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No 'To' location selected">
+        <source>No 'To' location selected</source>
+        <target xml:lang="sv" state="needs-translation">No 'To' location selected</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No calendar found.">
+        <source>No calendar found.</source>
+        <target xml:lang="sv" state="needs-translation">No calendar found.</target>
+        <note>Error title for when no calendar found.</note>
+      </trans-unit>
+      <trans-unit id="No locations set">
+        <source>No locations set</source>
+        <target xml:lang="sv" state="needs-translation">No locations set</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No routes found.">
+        <source>No routes found.</source>
+        <target xml:lang="sv" state="needs-translation">No routes found.</target>
+        <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
+      </trans-unit>
+      <trans-unit id="No, thanks">
+        <source>No, thanks</source>
+        <target xml:lang="sv" state="needs-translation">No, thanks</target>
+        <note>Negative answer to follow-up question for rating or feedback.</note>
+      </trans-unit>
+      <trans-unit id="Not really">
+        <source>Not really</source>
+        <target xml:lang="sv" state="needs-translation">Not really</target>
+        <note>Negative answer to question whether TripGo is useful.</note>
+      </trans-unit>
+      <trans-unit id="Now">
+        <source>Now</source>
+        <target xml:lang="sv" state="needs-translation">Now</target>
+        <note>Countdown cell 'now' indicator</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target xml:lang="sv" state="needs-translation">OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open Agenda">
+        <source>Open Agenda</source>
+        <target xml:lang="sv" state="needs-translation">Open Agenda</target>
+        <note>Title for homescreen action to open the agenda</note>
+      </trans-unit>
+      <trans-unit id="Open TripGo app and add the location of this favourite.">
+        <source>Open TripGo app and add the location of this favourite.</source>
+        <target xml:lang="sv" state="needs-translation">Open TripGo app and add the location of this favourite.</target>
+        <note>Error recovery suggestion for favourites with missing location.</note>
+      </trans-unit>
+      <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
+        <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
+        <target xml:lang="sv" state="needs-translation">Open TripGo or Settings app on your phone and grant TripGo access to location services.</target>
+        <note>Error recovery suggestion for when watch doesn't have access to location services.</note>
+      </trans-unit>
+      <trans-unit id="Open website">
+        <source>Open website</source>
+        <target xml:lang="sv" state="needs-translation">Open website</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
+        <target xml:lang="sv" state="needs-translation">Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Permission was granted. Please go back and try again.">
+        <source>Permission was granted. Please go back and try again.</source>
+        <target xml:lang="sv" state="needs-translation">Permission was granted. Please go back and try again.</target>
+        <note>Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results.</note>
+      </trans-unit>
+      <trans-unit id="Permissions">
+        <source>Permissions</source>
+        <target xml:lang="sv" state="needs-translation">Permissions</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pick a Time">
+        <source>Pick a Time</source>
+        <target xml:lang="sv" state="needs-translation">Pick a Time</target>
+        <note>Timetable screen title</note>
+      </trans-unit>
+      <trans-unit id="Plan Trip">
+        <source>Plan Trip</source>
+        <target xml:lang="sv" state="needs-translation">Plan Trip</target>
+        <note>Title for homescreen action to plan a new trip</note>
+      </trans-unit>
+      <trans-unit id="Plan a new trip">
+        <source>Plan a new trip</source>
+        <target xml:lang="sv" state="needs-translation">Plan a new trip</target>
+        <note>Title for button that allows users to plan a new trip</note>
+      </trans-unit>
+      <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
+        <source>Plan a trip on your phone or press firmly to access your favourites.</source>
+        <target xml:lang="sv" state="needs-translation">Plan a trip on your phone or press firmly to access your favourites.</target>
+      </trans-unit>
+      <trans-unit id="Plan a trip on your phone.">
+        <source>Plan a trip on your phone.</source>
+        <target xml:lang="sv" state="needs-translation">Plan a trip on your phone.</target>
+      </trans-unit>
+      <trans-unit id="Please adjust your query and try again.">
+        <source>Please adjust your query and try again.</source>
+        <target xml:lang="sv" state="needs-translation">Please adjust your query and try again.</target>
+        <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
+      </trans-unit>
+      <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
+        <source>Please check your Calendar app and make sure you have a calendar configured.</source>
+        <target xml:lang="sv" state="needs-translation">Please check your Calendar app and make sure you have a calendar configured.</target>
+        <note>Error recovery suggestion for when no calendar found.</note>
+      </trans-unit>
+      <trans-unit id="Please specify an address.">
+        <source>Please specify an address.</source>
+        <target xml:lang="sv" state="needs-translation">Please specify an address.</target>
+        <note>Alert message that asks users to provide the missing address for a new event.</note>
+      </trans-unit>
+      <trans-unit id="Preferred">
+        <source>Preferred</source>
+        <target xml:lang="sv" state="needs-translation">Preferred</target>
+        <note>Label for 'Overall' button to sort trips by their overall total score considering all factors. (old key: ViewOverallButton)</note>
+      </trans-unit>
+      <trans-unit id="Preferred transport">
+        <source>Preferred transport</source>
+        <target xml:lang="sv" state="needs-translation">Preferred transport</target>
+        <note>Title for preferred public transport modes.</note>
+      </trans-unit>
+      <trans-unit id="Price">
+        <source>Price</source>
+        <target xml:lang="sv" state="needs-translation">Price</target>
+        <note>Label for 'Price' button to sort trips by their total cost. (old key: ViewPriceButton)</note>
+      </trans-unit>
+      <trans-unit id="Priorities">
+        <source>Priorities</source>
+        <target xml:lang="sv" state="needs-translation">Priorities</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Profile">
+        <source>Profile</source>
+        <target xml:lang="sv" state="needs-translation">Profile</target>
+        <note>Title for view that shows user's profile</note>
+      </trans-unit>
+      <trans-unit id="Rate TripGo">
+        <source>Rate TripGo</source>
+        <target xml:lang="sv" state="needs-translation">Rate TripGo</target>
+        <note>Rate us preference</note>
+      </trans-unit>
+      <trans-unit id="Regular events which will be saved in your device's calendar.">
+        <source>Regular events which will be saved in your device's calendar.</source>
+        <target xml:lang="sv" state="needs-translation">Regular events which will be saved in your device's calendar.</target>
+        <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
+      </trans-unit>
+      <trans-unit id="Reminders">
+        <source>Reminders</source>
+        <target xml:lang="sv" state="needs-translation">Reminders</target>
+        <note>Reminders title</note>
+      </trans-unit>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+        <target xml:lang="sv" state="needs-translation">Remove</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Favourite">
+        <source>Remove Favourite</source>
+        <target xml:lang="sv" state="needs-translation">Remove Favourite</target>
+        <note>Remove favourite activity title</note>
+      </trans-unit>
+      <trans-unit id="Remove Reminder">
+        <source>Remove Reminder</source>
+        <target xml:lang="sv" state="needs-translation">Remove Reminder</target>
+        <note>Remove reminder activity title</note>
+      </trans-unit>
+      <trans-unit id="Remove and exclude event">
+        <source>Remove and exclude event</source>
+        <target xml:lang="sv" state="needs-translation">Remove and exclude event</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from Agenda">
+        <source>Remove from Agenda</source>
+        <target xml:lang="sv" state="needs-translation">Remove from Agenda</target>
+        <note>Unsave trip action</note>
+      </trans-unit>
+      <trans-unit id="Removed">
+        <source>Removed</source>
+        <target xml:lang="sv" state="needs-translation">Removed</target>
+        <note>Confirmation that something got removed HUD notice</note>
+      </trans-unit>
+      <trans-unit id="Removing this trip will exclude the following event from your agenda.">
+        <source>Removing this trip will exclude the following event from your agenda.</source>
+        <target xml:lang="sv" state="needs-translation">Removing this trip will exclude the following event from your agenda.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Removing this trip will exclude the preceeding event from your agenda.">
+        <source>Removing this trip will exclude the preceeding event from your agenda.</source>
+        <target xml:lang="sv" state="needs-translation">Removing this trip will exclude the preceeding event from your agenda.</target>
+      </trans-unit>
+      <trans-unit id="Repeat does end">
+        <source>Repeat does end</source>
+        <target xml:lang="sv" state="needs-translation">Repeat does end</target>
+        <note>Title for switch indicating if an event repeats or not</note>
+      </trans-unit>
+      <trans-unit id="Repeats">
+        <source>Repeats</source>
+        <target xml:lang="sv" state="needs-translation">Repeats</target>
+        <note>Title for when an event repeats</note>
+      </trans-unit>
+      <trans-unit id="Report Problem">
+        <source>Report Problem</source>
+        <target xml:lang="sv" state="needs-translation">Report Problem</target>
+        <note>Report problem</note>
+      </trans-unit>
+      <trans-unit id="Request support">
+        <source>Request support</source>
+        <target xml:lang="sv" state="needs-translation">Request support</target>
+        <note>Title for button that allows users to request support</note>
+      </trans-unit>
+      <trans-unit id="Request...">
+        <source>Request...</source>
+        <target xml:lang="sv" state="needs-translation">Request...</target>
+        <note>Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event.</note>
+      </trans-unit>
+      <trans-unit id="Reset agenda">
+        <source>Reset agenda</source>
+        <target xml:lang="sv" state="needs-translation">Reset agenda</target>
+        <note>Action title to reset agenda content.</note>
+      </trans-unit>
+      <trans-unit id="Reset tutorial">
+        <source>Reset tutorial</source>
+        <target xml:lang="sv" state="needs-translation">Reset tutorial</target>
+        <note>Action title to reset tutorial progress.</note>
+      </trans-unit>
+      <trans-unit id="Return time">
+        <source>Return time</source>
+        <target xml:lang="sv" state="needs-translation">Return time</target>
+        <note>Title for selector of return time for a trip</note>
+      </trans-unit>
+      <trans-unit id="Return trip">
+        <source>Return trip</source>
+        <target xml:lang="sv" state="needs-translation">Return trip</target>
+        <note>Header for section to configure return trip</note>
+      </trans-unit>
+      <trans-unit id="Review EULA">
+        <source>Review EULA</source>
+        <target xml:lang="sv" state="needs-translation">Review EULA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Route">
+        <source>Route</source>
+        <target xml:lang="sv" state="needs-translation">Route</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Route here">
+        <source>Route here</source>
+        <target xml:lang="sv" state="needs-translation">Route here</target>
+        <note>Title for options for routing to this location, options are: current location, &lt;some previously selected location&gt;.</note>
+      </trans-unit>
+      <trans-unit id="Routes">
+        <source>Routes</source>
+        <target xml:lang="sv" state="needs-translation">Routes</target>
+        <note>Title of routes screen, that shows all the results for getting from A to B</note>
+      </trans-unit>
+      <trans-unit id="Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.">
+        <source>Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</source>
+        <target xml:lang="sv" state="needs-translation">Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</target>
+        <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish. (old key: HabitualEventDescription)</note>
+      </trans-unit>
+      <trans-unit id="Routing from %@ to %@ is not yet supported">
+        <source>Routing from %@ to %@ is not yet supported</source>
+        <target xml:lang="sv" state="needs-translation">Routing from %@ to %@ is not yet supported</target>
+        <note>Error message if interregional routing isn't yet supported</note>
+      </trans-unit>
+      <trans-unit id="Routing request">
+        <source>Routing request</source>
+        <target xml:lang="sv" state="needs-translation">Routing request</target>
+        <note>Used in the form that requests support for a specific routing</note>
+      </trans-unit>
+      <trans-unit id="Satellite">
+        <source>Satellite</source>
+        <target xml:lang="sv" state="needs-translation">Satellite</target>
+        <note>Map mode 'satellite'</note>
+      </trans-unit>
+      <trans-unit id="Save Money">
+        <source>Save Money</source>
+        <target xml:lang="sv" state="needs-translation">Save Money</target>
+        <note>Price preference</note>
+      </trans-unit>
+      <trans-unit id="Save Time">
+        <source>Save Time</source>
+        <target xml:lang="sv" state="needs-translation">Save Time</target>
+        <note>Time preference</note>
+      </trans-unit>
+      <trans-unit id="Search for a city">
+        <source>Search for a city</source>
+        <target xml:lang="sv" state="needs-translation">Search for a city</target>
+      </trans-unit>
+      <trans-unit id="Search for your home address">
+        <source>Search for your home address</source>
+        <target xml:lang="sv" state="needs-translation">Search for your home address</target>
+        <note>Agenda onboarding: placeholder text for search bar for 'home'.</note>
+      </trans-unit>
+      <trans-unit id="Search for your work address">
+        <source>Search for your work address</source>
+        <target xml:lang="sv" state="needs-translation">Search for your work address</target>
+        <note>Agenda onboarding: placeholder text for search bar for 'work'.</note>
+      </trans-unit>
+      <trans-unit id="Select Vehicle">
+        <source>Select Vehicle</source>
+        <target xml:lang="sv" state="needs-translation">Select Vehicle</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select a date to get flight details.">
+        <source>Select a date to get flight details.</source>
+        <target xml:lang="sv" state="needs-translation">Select a date to get flight details.</target>
+      </trans-unit>
+      <trans-unit id="Select the place where you stay at the end of each day">
+        <source>Select the place where you stay at the end of each day</source>
+        <target xml:lang="sv" state="needs-translation">Select the place where you stay at the end of each day</target>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Send Real-time SMS">
+        <source>Send Real-time SMS</source>
+        <target xml:lang="sv" state="needs-translation">Send Real-time SMS</target>
+        <note>Action button title for composing an SMS to a real-time service</note>
+      </trans-unit>
+      <trans-unit id="Share Arrival">
+        <source>Share Arrival</source>
+        <target xml:lang="sv" state="needs-translation">Share Arrival</target>
+        <note>Action button title for sharing when you arrive</note>
+      </trans-unit>
+      <trans-unit id="Share Trip">
+        <source>Share Trip</source>
+        <target xml:lang="sv" state="needs-translation">Share Trip</target>
+        <note>Share trip</note>
+      </trans-unit>
+      <trans-unit id="Show alternatives">
+        <source>Show alternatives</source>
+        <target xml:lang="sv" state="needs-translation">Show alternatives</target>
+        <note>Button title on trips to show alternatives for it</note>
+      </trans-unit>
+      <trans-unit id="Show booking options">
+        <source>Show booking options</source>
+        <target xml:lang="sv" state="needs-translation">Show booking options</target>
+      </trans-unit>
+      <trans-unit id="Show details">
+        <source>Show details</source>
+        <target xml:lang="sv" state="needs-translation">Show details</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show disclaimer">
+        <source>Show disclaimer</source>
+        <target xml:lang="sv" state="needs-translation">Show disclaimer</target>
+        <note>Button to show disclaimers, e.g., info of public transport data.</note>
+      </trans-unit>
+      <trans-unit id="Show info">
+        <source>Show info</source>
+        <target xml:lang="sv" state="needs-translation">Show info</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show parking options">
+        <source>Show parking options</source>
+        <target xml:lang="sv" state="needs-translation">Show parking options</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show ticket Info">
+        <source>Show ticket Info</source>
+        <target xml:lang="sv" state="needs-translation">Show ticket Info</target>
+        <note>Button Title to get to website with ticket details.</note>
+      </trans-unit>
+      <trans-unit id="Show timetable">
+        <source>Show timetable</source>
+        <target xml:lang="sv" state="needs-translation">Show timetable</target>
+        <note>Action button title for viewing timetable for public transport</note>
+      </trans-unit>
+      <trans-unit id="Showing %@ of %@ transport modes">
+        <source>Showing %@ of %@ transport modes</source>
+        <target xml:lang="sv" state="needs-translation">Showing %@ of %@ transport modes</target>
+        <note>Indicator for how many transport modes are being displayed out of the total available ones for the region of the trip. First placeholder will be replaced with selected number, second with total number.</note>
+      </trans-unit>
+      <trans-unit id="Skip">
+        <source>Skip</source>
+        <target xml:lang="sv" state="needs-translation">Skip</target>
+        <note>Button title to skip a certain step</note>
+      </trans-unit>
+      <trans-unit id="Slow">
+        <source>Slow</source>
+        <target xml:lang="sv" state="needs-translation">Slow</target>
+        <note>Speed preference 'slow'</note>
+      </trans-unit>
+      <trans-unit id="Sorry. TripGo doesn't work here yet!">
+        <source>Sorry. TripGo doesn't work here yet!</source>
+        <target xml:lang="sv" state="needs-translation">Sorry. TripGo doesn't work here yet!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Spread the word">
+        <source>Spread the word</source>
+        <target xml:lang="sv" state="needs-translation">Spread the word</target>
+        <note>Spread the word preference</note>
+      </trans-unit>
+      <trans-unit id="Start">
+        <source>Start</source>
+        <target xml:lang="sv" state="needs-translation">Start</target>
+        <note>Title for the time an event starts (including date information)</note>
+      </trans-unit>
+      <trans-unit id="Stay at a different location">
+        <source>Stay at a different location</source>
+        <target xml:lang="sv" state="needs-translation">Stay at a different location</target>
+        <note>Action title for adding a habitual item away from some location. (old key: NewItemAwayActionTitle)</note>
+      </trans-unit>
+      <trans-unit id="Stop code: %@">
+        <source>Stop code: %@</source>
+        <target xml:lang="sv" state="needs-translation">Stop code: %@</target>
+        <note>Additional information for official stop code of a public transport stop.</note>
+      </trans-unit>
+      <trans-unit id="Streets">
+        <source>Streets</source>
+        <target xml:lang="sv" state="needs-translation">Streets</target>
+        <note>Map mode 'streets'</note>
+      </trans-unit>
+      <trans-unit id="Support">
+        <source>Support</source>
+        <target xml:lang="sv" state="needs-translation">Support</target>
+        <note>Contact support error button</note>
+      </trans-unit>
+      <trans-unit id="Swipe dates to navigate between weeks">
+        <source>Swipe dates to navigate between weeks</source>
+        <target xml:lang="sv" state="needs-translation">Swipe dates to navigate between weeks</target>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap and hold title to jump directly to a specified date.">
+        <source>Tap and hold title to jump directly to a specified date.</source>
+        <target xml:lang="sv" state="needs-translation">Tap and hold title to jump directly to a specified date.</target>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target xml:lang="sv" state="needs-translation">Tap public transport stops for access to timetable</target>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap title to go to 'today'">
+        <source>Tap title to go to 'today'</source>
+        <target xml:lang="sv" state="needs-translation">Tap title to go to 'today'</target>
+        <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap to confirm hours or swipe to delete">
+        <source>Tap to confirm hours or swipe to delete</source>
+        <target xml:lang="sv" state="needs-translation">Tap to confirm hours or swipe to delete</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to set address">
+        <source>Tap to set address</source>
+        <target xml:lang="sv" state="needs-translation">Tap to set address</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to set address or swipe to delete">
+        <source>Tap to set address or swipe to delete</source>
+        <target xml:lang="sv" state="needs-translation">Tap to set address or swipe to delete</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to set garage">
+        <source>Tap to set garage</source>
+        <target xml:lang="sv" state="needs-translation">Tap to set garage</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you!">
+        <source>Thank you!</source>
+        <target xml:lang="sv" state="needs-translation">Thank you!</target>
+        <note>Thank you HUD notice</note>
+      </trans-unit>
+      <trans-unit id="The application encountered a critical error and can't recover:">
+        <source>The application encountered a critical error and can't recover:</source>
+        <target xml:lang="sv" state="needs-translation">The application encountered a critical error and can't recover:</target>
+        <note>Description for critical error where error will be shown below.</note>
+      </trans-unit>
+      <trans-unit id="Ticket">
+        <source>Ticket</source>
+        <target xml:lang="sv" state="needs-translation">Ticket</target>
+        <note>Title for view that presents a purchased ticket</note>
+      </trans-unit>
+      <trans-unit id="Ticket expired">
+        <source>Ticket expired</source>
+        <target xml:lang="sv" state="needs-translation">Ticket expired</target>
+        <note>Indicating that a ticket has expired.</note>
+      </trans-unit>
+      <trans-unit id="Time at Work">
+        <source>Time at Work</source>
+        <target xml:lang="sv" state="needs-translation">Time at Work</target>
+        <note>Title for screen to pick your working hours</note>
+      </trans-unit>
+      <trans-unit id="Time zone">
+        <source>Time zone</source>
+        <target xml:lang="sv" state="needs-translation">Time zone</target>
+        <note>Time zone (typically for an event)</note>
+      </trans-unit>
+      <trans-unit id="Times">
+        <source>Times</source>
+        <target xml:lang="sv" state="needs-translation">Times</target>
+        <note>Header for times a user is typically at this location, e.g., working hours</note>
+      </trans-unit>
+      <trans-unit id="Title">
+        <source>Title</source>
+        <target xml:lang="sv" state="needs-translation">Title</target>
+        <note>Title, e.g., for event or favourite. (old key: TitleFavouriteName)</note>
+      </trans-unit>
+      <trans-unit id="To">
+        <source>To</source>
+        <target xml:lang="sv" state="needs-translation">To</target>
+        <note>Favorite trip 'to' title</note>
+      </trans-unit>
+      <trans-unit id="Type">
+        <source>Type</source>
+        <target xml:lang="sv" state="needs-translation">Type</target>
+        <note>Type of something, e.g., an event (calendar event, stay, routine) or a vehicle (car, motorbike, bicycle). (old key: TypeEvent)</note>
+      </trans-unit>
+      <trans-unit id="Updated: ">
+        <source>Updated: </source>
+        <target xml:lang="sv" state="needs-translation">Updated: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use for hotels while travelling, so that the Agenda starts and ends at the correct location.">
+        <source>Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</source>
+        <target xml:lang="sv" state="needs-translation">Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</target>
+        <note>Explanation for what stays are compared to calendar events and routines. Can be long-ish. (old key: StayEventDescription)</note>
+      </trans-unit>
+      <trans-unit id="Valid">
+        <source>Valid</source>
+        <target xml:lang="sv" state="needs-translation">Valid</target>
+        <note>Title for list of valid tickets</note>
+      </trans-unit>
+      <trans-unit id="Vehicle">
+        <source>Vehicle</source>
+        <target xml:lang="sv" state="needs-translation">Vehicle</target>
+        <note>Which of my vehicles to assign this to</note>
+      </trans-unit>
+      <trans-unit id="Verify location...">
+        <source>Verify location...</source>
+        <target xml:lang="sv" state="needs-translation">Verify location...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View times">
+        <source>View times</source>
+        <target xml:lang="sv" state="needs-translation">View times</target>
+        <note>View alternative times for this trip</note>
+      </trans-unit>
+      <trans-unit id="Walk speed">
+        <source>Walk speed</source>
+        <target xml:lang="sv" state="needs-translation">Walk speed</target>
+        <note>Walking speed preference</note>
+      </trans-unit>
+      <trans-unit id="Website">
+        <source>Website</source>
+        <target xml:lang="sv" state="needs-translation">Website</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Week starts">
+        <source>Week starts</source>
+        <target xml:lang="sv" state="needs-translation">Week starts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What3words Address">
+        <source>What3words Address</source>
+        <target xml:lang="sv" state="needs-translation">What3words Address</target>
+        <note>Title for showing what3words address including info button</note>
+      </trans-unit>
+      <trans-unit id="Wheelchair information">
+        <source>Wheelchair information</source>
+        <target xml:lang="sv" state="needs-translation">Wheelchair information</target>
+        <note>Preference to highlight wheelchair information</note>
+      </trans-unit>
+      <trans-unit id="Where are you going from?">
+        <source>Where are you going from?</source>
+        <target xml:lang="sv" state="needs-translation">Where are you going from?</target>
+        <note>Where are you going from?</note>
+      </trans-unit>
+      <trans-unit id="Where do you want to go?">
+        <source>Where do you want to go?</source>
+        <target xml:lang="sv" state="needs-translation">Where do you want to go?</target>
+        <note>Where do you want to go?</note>
+      </trans-unit>
+      <trans-unit id="Which would you like to delete">
+        <source>Which would you like to delete</source>
+        <target xml:lang="sv" state="needs-translation">Which would you like to delete</target>
+        <note>Question for which events in a recurrence to delete (options are typically this/all/any from here)</note>
+      </trans-unit>
+      <trans-unit id="Work">
+        <source>Work</source>
+        <target xml:lang="sv" state="needs-translation">Work</target>
+        <note>Typical name that you'd give your work location</note>
+      </trans-unit>
+      <trans-unit id="Yeah, ok!">
+        <source>Yeah, ok!</source>
+        <target xml:lang="sv" state="needs-translation">Yeah, ok!</target>
+        <note>Positive answer to follow-up question for rating or feedback.</note>
+      </trans-unit>
+      <trans-unit id="Yes!">
+        <source>Yes!</source>
+        <target xml:lang="sv" state="needs-translation">Yes!</target>
+        <note>Positive answer to question whether TripGo is useful.</note>
+      </trans-unit>
+      <trans-unit id="You might not make this transfer.">
+        <source>You might not make this transfer.</source>
+        <target xml:lang="sv" state="needs-translation">You might not make this transfer.</target>
+        <note>Alert if service running late/early, meaning that the user might not make the next service.</note>
+      </trans-unit>
+      <trans-unit id="Zoom in">
+        <source>Zoom in</source>
+        <target xml:lang="sv" state="needs-translation">Zoom in</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zoom into map to view public transport stops">
+        <source>Zoom into map to view public transport stops</source>
+        <target xml:lang="sv" state="needs-translation">Zoom into map to view public transport stops</target>
+        <note>Walkthrough</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="%1$@ early">
+        <source>%1$@ early</source>
+        <target xml:lang="sv" state="needs-translation">%1$@ early</target>
+        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'.</note>
+      </trans-unit>
+      <trans-unit id="%1$@ early (%2$@ service)">
+        <source>%1$@ early (%2$@ service)</source>
+        <target xml:lang="sv" state="needs-translation">%1$@ early (%2$@ service)</target>
+        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+      </trans-unit>
+      <trans-unit id="%1$@ late">
+        <source>%1$@ late</source>
+        <target xml:lang="sv" state="needs-translation">%1$@ late</target>
+        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min'</note>
+      </trans-unit>
+      <trans-unit id="%1$@ late (%2$@ service)">
+        <source>%1$@ late (%2$@ service)</source>
+        <target xml:lang="sv" state="needs-translation">%1$@ late (%2$@ service)</target>
+        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+      </trans-unit>
+      <trans-unit id="%@ cycle friendly">
+        <source>%@ cycle friendly</source>
+        <target xml:lang="sv" state="needs-translation">%@ cycle friendly</target>
+        <note>Indicator for how cycle-friendly a cycling route is. Placeholder will get replaced with '75%'.</note>
+      </trans-unit>
+      <trans-unit id="%@ stops">
+        <source>%@ stops</source>
+        <target xml:lang="sv" state="needs-translation">%@ stops</target>
+        <note>Number of stops before you get off a vehicle, if there are 2 stops or more, e.g., '10 stops'. (old key: Stops)</note>
+      </trans-unit>
+      <trans-unit id="%@ to %@">
+        <source>%@ to %@</source>
+        <target xml:lang="sv" state="needs-translation">%@ to %@</target>
+        <note>From %time1 to %time2. (old key: TimeFromToShortFormat)</note>
+      </trans-unit>
+      <trans-unit id="%@ w/o traffic">
+        <source>%@ w/o traffic</source>
+        <target xml:lang="sv" state="needs-translation">%@ w/o traffic</target>
+        <note>Duration without traffic</note>
+      </trans-unit>
+      <trans-unit id="%@ wheelchair friendly">
+        <source>%@ wheelchair friendly</source>
+        <target xml:lang="sv" state="needs-translation">%@ wheelchair friendly</target>
+        <note>Indicator for how wheelchair-friendly a wheeelchair route is. Placeholder will get replaced with '75%'.</note>
+      </trans-unit>
+      <trans-unit id="1 stop">
+        <source>1 stop</source>
+        <target xml:lang="sv" state="needs-translation">1 stop</target>
+        <note>Number of stops before you get off a stop, if there's just 1 stop.</note>
+      </trans-unit>
+      <trans-unit id="Alerts">
+        <source>Alerts</source>
+        <target xml:lang="sv" state="needs-translation">Alerts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apple Maps">
+        <source>Apple Maps</source>
+        <target xml:lang="sv" state="needs-translation">Apple Maps</target>
+        <note>apple maps directions action</note>
+      </trans-unit>
+      <trans-unit id="Arrival">
+        <source>Arrival</source>
+        <target xml:lang="sv" state="needs-translation">Arrival</target>
+        <note>Arrival time sorter title</note>
+      </trans-unit>
+      <trans-unit id="Arrive">
+        <source>Arrive</source>
+        <target xml:lang="sv" state="needs-translation">Arrive</target>
+        <note>Prefix for selected 'arrive by' time
+   Single line instruction to arrive</note>
+      </trans-unit>
+      <trans-unit id="Arrive at %@">
+        <source>Arrive at %@</source>
+        <target xml:lang="sv" state="needs-translation">Arrive at %@</target>
+        <note>'%@' will be replaced with the arrival time. (old key: ArrivalTime)</note>
+      </trans-unit>
+      <trans-unit id="Arrive at %@ at %@">
+        <source>Arrive at %@ at %@</source>
+        <target xml:lang="sv" state="needs-translation">Arrive at %@ at %@</target>
+        <note>The first '%@' will be replaced with the place of arrival, the second with the time. (old key: ArrivalLocationTime)</note>
+      </trans-unit>
+      <trans-unit id="Arrive in">
+        <source>Arrive in</source>
+        <target xml:lang="sv" state="needs-translation">Arrive in</target>
+        <note>Title for when you'll arrive when on a trip. Countdown to arrival will be displayed below.</note>
+      </trans-unit>
+      <trans-unit id="At %@">
+        <source>At %@</source>
+        <target xml:lang="sv" state="needs-translation">At %@</target>
+        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)</note>
+      </trans-unit>
+      <trans-unit id="Book with FlitWays">
+        <source>Book with FlitWays</source>
+        <target xml:lang="sv" state="needs-translation">Book with FlitWays</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Book with Uber">
+        <source>Book with Uber</source>
+        <target xml:lang="sv" state="needs-translation">Book with Uber</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calculating trips...">
+        <source>Calculating trips...</source>
+        <target xml:lang="sv" state="needs-translation">Calculating trips...</target>
+        <note>Placeholder title while calculating trips</note>
+      </trans-unit>
+      <trans-unit id="Call">
+        <source>Call</source>
+        <target xml:lang="sv" state="needs-translation">Call</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Call %@">
+        <source>Call %@</source>
+        <target xml:lang="sv" state="needs-translation">Call %@</target>
+        <note>Action title for calling provider of name. (old key: CallTaxiFormat)</note>
+      </trans-unit>
+      <trans-unit id="Connect to Internet to get trips">
+        <source>Connect to Internet to get trips</source>
+        <target xml:lang="sv" state="needs-translation">Connect to Internet to get trips</target>
+        <note>Single line instruction if device is offline and user needs to reconnect to internet to calculate trips</note>
+      </trans-unit>
+      <trans-unit id="Could not find transit stop.">
+        <source>Could not find transit stop.</source>
+        <target xml:lang="sv" state="needs-translation">Could not find transit stop.</target>
+        <note>Error title when server could not find a given transit stop.</note>
+      </trans-unit>
+      <trans-unit id="Departure">
+        <source>Departure</source>
+        <target xml:lang="sv" state="needs-translation">Departure</target>
+        <note>Departure time sorter title</note>
+      </trans-unit>
+      <trans-unit id="Direction">
+        <source>Direction</source>
+        <target xml:lang="sv" state="needs-translation">Direction</target>
+        <note>Destination of the bus</note>
+      </trans-unit>
+      <trans-unit id="Empty">
+        <source>Empty</source>
+        <target xml:lang="sv" state="needs-translation">Empty</target>
+        <note>As in 'this bus/train is empty'</note>
+      </trans-unit>
+      <trans-unit id="Few seats available">
+        <source>Few seats available</source>
+        <target xml:lang="sv" state="needs-translation">Few seats available</target>
+        <note>As in 'this bus/train has few seats available'</note>
+      </trans-unit>
+      <trans-unit id="From %@">
+        <source>From %@</source>
+        <target xml:lang="sv" state="needs-translation">From %@</target>
+        <note>Departure location. (old key: PrimaryLocationStart)</note>
+      </trans-unit>
+      <trans-unit id="Full">
+        <source>Full</source>
+        <target xml:lang="sv" state="needs-translation">Full</target>
+        <note>As in 'this bus/train is full and likely can't accept further passengers'</note>
+      </trans-unit>
+      <trans-unit id="Get Lyft">
+        <source>Get Lyft</source>
+        <target xml:lang="sv" state="needs-translation">Get Lyft</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get Ola">
+        <source>Get Ola</source>
+        <target xml:lang="sv" state="needs-translation">Get Ola</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get directions">
+        <source>Get directions</source>
+        <target xml:lang="sv" state="needs-translation">Get directions</target>
+        <note>Action button title for getting turn-by-turn directions</note>
+      </trans-unit>
+      <trans-unit id="Get ingogo">
+        <source>Get ingogo</source>
+        <target xml:lang="sv" state="needs-translation">Get ingogo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Google Maps">
+        <source>Google Maps</source>
+        <target xml:lang="sv" state="needs-translation">Google Maps</target>
+        <note>google maps directions action</note>
+      </trans-unit>
+      <trans-unit id="I'll arrive at %@ at %@">
+        <source>I'll arrive at %@ at %@</source>
+        <target xml:lang="sv" state="needs-translation">I'll arrive at %@ at %@</target>
+        <note>First '%@' will be replaced with destination location, second with arrival at that location. (old key: MessageArrivalTime)</note>
+      </trans-unit>
+      <trans-unit id="I'll take a %@ at %@ from %@.">
+        <source>I'll take a %@ at %@ from %@.</source>
+        <target xml:lang="sv" state="needs-translation">I'll take a %@ at %@ from %@.</target>
+        <note>Indication of an activity. (old key: ActivityIndication)</note>
+      </trans-unit>
+      <trans-unit id="In the meantime, let's keep exploring %@ and enjoy your trips">
+        <source>In the meantime, let's keep exploring %@ and enjoy your trips</source>
+        <target xml:lang="sv" state="needs-translation">In the meantime, let's keep exploring %@ and enjoy your trips</target>
+        <note>%@ is replaced with app name</note>
+      </trans-unit>
+      <trans-unit id="In the meantime, let's keep exploring and enjoy your trips">
+        <source>In the meantime, let's keep exploring and enjoy your trips</source>
+        <target xml:lang="sv" state="needs-translation">In the meantime, let's keep exploring and enjoy your trips</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Leave">
+        <source>Leave</source>
+        <target xml:lang="sv" state="needs-translation">Leave</target>
+        <note>Prefix for selected 'leave after' time
+   Single line instruction to leave</note>
+      </trans-unit>
+      <trans-unit id="Leave %@">
+        <source>Leave %@</source>
+        <target xml:lang="sv" state="needs-translation">Leave %@</target>
+        <note>The place of departure. (old key: LeaveLocation)</note>
+      </trans-unit>
+      <trans-unit id="Leave %@ at %@">
+        <source>Leave %@ at %@</source>
+        <target xml:lang="sv" state="needs-translation">Leave %@ at %@</target>
+        <note>The place of departure with time. (old key: LeaveLocationTime)</note>
+      </trans-unit>
+      <trans-unit id="Leave at %@">
+        <source>Leave at %@</source>
+        <target xml:lang="sv" state="needs-translation">Leave at %@</target>
+        <note>Time departure. (old key: LeaveTime)</note>
+      </trans-unit>
+      <trans-unit id="Leave in">
+        <source>Leave in</source>
+        <target xml:lang="sv" state="needs-translation">Leave in</target>
+        <note>Title for when to depart. Countdown to departure will be displayed below.</note>
+      </trans-unit>
+      <trans-unit id="Leave now">
+        <source>Leave now</source>
+        <target xml:lang="sv" state="needs-translation">Leave now</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Limited standing room only">
+        <source>Limited standing room only</source>
+        <target xml:lang="sv" state="needs-translation">Limited standing room only</target>
+        <note>As in 'this bus/train is so full, there's only limited standing room'</note>
+      </trans-unit>
+      <trans-unit id="Live traffic">
+        <source>Live traffic</source>
+        <target xml:lang="sv" state="needs-translation">Live traffic</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <target xml:lang="sv" state="needs-translation">Loading...</target>
+        <note>Title to show while loading/waiting for results</note>
+      </trans-unit>
+      <trans-unit id="Many seats available">
+        <source>Many seats available</source>
+        <target xml:lang="sv" state="needs-translation">Many seats available</target>
+        <note>As in 'this bus/train has many seats available'</note>
+      </trans-unit>
+      <trans-unit id="More info">
+        <source>More info</source>
+        <target xml:lang="sv" state="needs-translation">More info</target>
+        <note>Title of button to get more details about an alert</note>
+      </trans-unit>
+      <trans-unit id="No planned trips">
+        <source>No planned trips</source>
+        <target xml:lang="sv" state="needs-translation">No planned trips</target>
+        <note>Indicating no trips have been planned within the next 24 hrs</note>
+      </trans-unit>
+      <trans-unit id="Not accepting passengers">
+        <source>Not accepting passengers</source>
+        <target xml:lang="sv" state="needs-translation">Not accepting passengers</target>
+        <note>As in 'this bus/train is full and definitely not accepting further passengers'</note>
+      </trans-unit>
+      <trans-unit id="On time">
+        <source>On time</source>
+        <target xml:lang="sv" state="needs-translation">On time</target>
+        <note>Indicator to show when a service is on time according to real-time data.</note>
+      </trans-unit>
+      <trans-unit id="Open Lyft">
+        <source>Open Lyft</source>
+        <target xml:lang="sv" state="needs-translation">Open Lyft</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open Ola">
+        <source>Open Ola</source>
+        <target xml:lang="sv" state="needs-translation">Open Ola</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Opening Hours">
+        <source>Opening Hours</source>
+        <target xml:lang="sv" state="needs-translation">Opening Hours</target>
+        <note>Title for opening hours</note>
+      </trans-unit>
+      <trans-unit id="Plan a trip and it will show up here.">
+        <source>Plan a trip and it will show up here.</source>
+        <target xml:lang="sv" state="needs-translation">Plan a trip and it will show up here.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Public holiday">
+        <source>Public holiday</source>
+        <target xml:lang="sv" state="needs-translation">Public holiday</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Real-time">
+        <source>Real-time</source>
+        <target xml:lang="sv" state="needs-translation">Real-time</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search for this stop again or try again later..">
+        <source>Search for this stop again or try again later..</source>
+        <target xml:lang="sv" state="needs-translation">Search for this stop again or try again later..</target>
+        <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
+      </trans-unit>
+      <trans-unit id="Send SMS">
+        <source>Send SMS</source>
+        <target xml:lang="sv" state="needs-translation">Send SMS</target>
+        <note>Send SMS action</note>
+      </trans-unit>
+      <trans-unit id="Show website">
+        <source>Show website</source>
+        <target xml:lang="sv" state="needs-translation">Show website</target>
+        <note>Show website action</note>
+      </trans-unit>
+      <trans-unit id="Standing room only">
+        <source>Standing room only</source>
+        <target xml:lang="sv" state="needs-translation">Standing room only</target>
+        <note>As in 'this bus/train is fairly full and has standing room only'</note>
+      </trans-unit>
+      <trans-unit id="To %@">
+        <source>To %@</source>
+        <target xml:lang="sv" state="needs-translation">To %@</target>
+        <note>Destination location. For trip titles, e.g., 'To work'. (old key: PrimaryLocationEnd)</note>
+      </trans-unit>
+      <trans-unit id="Trip">
+        <source>Trip</source>
+        <target xml:lang="sv" state="needs-translation">Trip</target>
+        <note>Title for a trip</note>
+      </trans-unit>
+      <trans-unit id="Updated %@ ago">
+        <source>Updated %@ ago</source>
+        <target xml:lang="sv" state="needs-translation">Updated %@ ago</target>
+        <note>Vehicle updated. (old key: VehicleUpdated)</note>
+      </trans-unit>
+      <trans-unit id="Vehicle %@ updated %@ ago">
+        <source>Vehicle %@ updated %@ ago</source>
+        <target xml:lang="sv" state="needs-translation">Vehicle %@ updated %@ ago</target>
+        <note>Vehicle 'x' updated. (old key: VehicleCalledUpdated)</note>
+      </trans-unit>
+      <trans-unit id="We are busy getting your upcoming trip. Please wait...">
+        <source>We are busy getting your upcoming trip. Please wait...</source>
+        <target xml:lang="sv" state="needs-translation">We are busy getting your upcoming trip. Please wait...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We'll keep you updated with the latest transit alerts here">
+        <source>We'll keep you updated with the latest transit alerts here</source>
+        <target xml:lang="sv" state="needs-translation">We'll keep you updated with the latest transit alerts here</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Wheelchair accessible">
+        <source>Wheelchair accessible</source>
+        <target xml:lang="sv" state="needs-translation">Wheelchair accessible</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="at %@">
+        <source>at %@</source>
+        <target xml:lang="sv" state="needs-translation">at %@</target>
+        <note>Time of the bus departure. (old key: DepartureTime)</note>
+      </trans-unit>
+      <trans-unit id="for %@">
+        <source>for %@</source>
+        <target xml:lang="sv" state="needs-translation">for %@</target>
+        <note>Text indiction for how long a segment might take, where '%@' will be replaced with a duration. E.g., the instruction 'Take bus' might have this next to it as 'for 10 minutes'.</note>
+      </trans-unit>
+      <trans-unit id="goCatch a Taxi">
+        <source>goCatch a Taxi</source>
+        <target xml:lang="sv" state="needs-translation">goCatch a Taxi</target>
+        <note>goCatch action</note>
+      </trans-unit>
+      <trans-unit id="ingogo a Taxi">
+        <source>ingogo a Taxi</source>
+        <target xml:lang="sv" state="needs-translation">ingogo a Taxi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="sv">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body>
+      <trans-unit id="%@'s">
+        <source>%@'s</source>
+        <target xml:lang="sv" state="needs-translation">%@'s</target>
+        <note>Name for a {%@}'s place if it's unclear if it's home, work or something else.</note>
+      </trans-unit>
+      <trans-unit id="%@'s Home">
+        <source>%@'s Home</source>
+        <target xml:lang="sv" state="needs-translation">%@'s Home</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@'s Work">
+        <source>%@'s Work</source>
+        <target xml:lang="sv" state="needs-translation">%@'s Work</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lu recurrences">
+        <source>%lu recurrences</source>
+        <target xml:lang="sv" state="needs-translation">%lu recurrences</target>
+        <note>Number of repeats. (old key: NumberRecurrences)</note>
+      </trans-unit>
+      <trans-unit id="'%@' not found.">
+        <source>'%@' not found.</source>
+        <target xml:lang="sv" state="needs-translation">'%@' not found.</target>
+        <note>Error when location search for %input was not successful. (old key: RequestErrorFormat)</note>
+      </trans-unit>
+      <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
+        <source>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</source>
+        <target xml:lang="sv" state="needs-translation">Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</target>
+        <note>Authorization restricted alert message</note>
+      </trans-unit>
+      <trans-unit id="Action">
+        <source>Action</source>
+        <target xml:lang="sv" state="needs-translation">Action</target>
+        <note>Accessibility label for action button</note>
+      </trans-unit>
+      <trans-unit id="Alert">
+        <source>Alert</source>
+        <target xml:lang="sv" state="needs-translation">Alert</target>
+        <note>Default title for alert view</note>
+      </trans-unit>
+      <trans-unit id="Already have an account? Sign in">
+        <source>Already have an account? Sign in</source>
+        <target xml:lang="sv" state="needs-translation">Already have an account? Sign in</target>
+        <note>Option for users if they already owned a SkedGo account</note>
+      </trans-unit>
+      <trans-unit id="Authentication">
+        <source>Authentication</source>
+        <target xml:lang="sv" state="needs-translation">Authentication</target>
+        <note>Source where the account was derived, e.g., Facebook</note>
+      </trans-unit>
+      <trans-unit id="Authorisation needed">
+        <source>Authorisation needed</source>
+        <target xml:lang="sv" state="needs-translation">Authorisation needed</target>
+        <note>Authorisation needed title</note>
+      </trans-unit>
+      <trans-unit id="Bicycle">
+        <source>Bicycle</source>
+        <target xml:lang="sv" state="needs-translation">Bicycle</target>
+        <note>Type of vehicle : bicycle</note>
+      </trans-unit>
+      <trans-unit id="CVC">
+        <source>CVC</source>
+        <target xml:lang="sv" state="needs-translation">CVC</target>
+        <note>Credit card CVC</note>
+      </trans-unit>
+      <trans-unit id="Can't find your current city">
+        <source>Can't find your current city</source>
+        <target xml:lang="sv" state="needs-translation">Can't find your current city</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target xml:lang="sv" state="needs-translation">Cancel</target>
+        <note>Cancel action</note>
+      </trans-unit>
+      <trans-unit id="Cancelled">
+        <source>Cancelled</source>
+        <target xml:lang="sv" state="needs-translation">Cancelled</target>
+        <note>Label for when a service is cancelled.</note>
+      </trans-unit>
+      <trans-unit id="Cannot proceed without a valid email address">
+        <source>Cannot proceed without a valid email address</source>
+        <target xml:lang="sv" state="needs-translation">Cannot proceed without a valid email address</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Car">
+        <source>Car</source>
+        <target xml:lang="sv" state="needs-translation">Car</target>
+        <note>Type of vehicle : car</note>
+      </trans-unit>
+      <trans-unit id="Card No.">
+        <source>Card No.</source>
+        <target xml:lang="sv" state="needs-translation">Card No.</target>
+        <note>Credit card number</note>
+      </trans-unit>
+      <trans-unit id="Change">
+        <source>Change</source>
+        <target xml:lang="sv" state="needs-translation">Change</target>
+        <note>Instruction for changing password</note>
+      </trans-unit>
+      <trans-unit id="Change tracking options">
+        <source>Change tracking options</source>
+        <target xml:lang="sv" state="needs-translation">Change tracking options</target>
+        <note>Accessibility - user location button - hint</note>
+      </trans-unit>
+      <trans-unit id="Checkmark">
+        <source>Checkmark</source>
+        <target xml:lang="sv" state="needs-translation">Checkmark</target>
+        <note>Accessibility title for a checkmark/tick button</note>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <target xml:lang="sv" state="needs-translation">Close</target>
+        <note>Close action</note>
+      </trans-unit>
+      <trans-unit id="Confirm">
+        <source>Confirm</source>
+        <target xml:lang="sv" state="needs-translation">Confirm</target>
+        <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
+      </trans-unit>
+      <trans-unit id="Could not determine your current location.">
+        <source>Could not determine your current location.</source>
+        <target xml:lang="sv" state="needs-translation">Could not determine your current location.</target>
+        <note>Error title when GPS failed.</note>
+      </trans-unit>
+      <trans-unit id="Could not download supported regions from TripGo's server. Please try again later.">
+        <source>Could not download supported regions from TripGo's server. Please try again later.</source>
+        <target xml:lang="sv" state="needs-translation">Could not download supported regions from TripGo's server. Please try again later.</target>
+        <note>Could not download supported regions warning. (old key: CouldNotDownloadSupportedRegions)</note>
+      </trans-unit>
+      <trans-unit id="Creating account">
+        <source>Creating account</source>
+        <target xml:lang="sv" state="needs-translation">Creating account</target>
+        <note>Message that indicates the app is creating accounts for users</note>
+      </trans-unit>
+      <trans-unit id="Credit card">
+        <source>Credit card</source>
+        <target xml:lang="sv" state="needs-translation">Credit card</target>
+        <note>Section title for credit card payment</note>
+      </trans-unit>
+      <trans-unit id="Current City">
+        <source>Current City</source>
+        <target xml:lang="sv" state="needs-translation">Current City</target>
+        <note>Current city</note>
+      </trans-unit>
+      <trans-unit id="Current Location">
+        <source>Current Location</source>
+        <target xml:lang="sv" state="needs-translation">Current Location</target>
+        <note>Title for user's current location</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target xml:lang="sv" state="needs-translation">Delete</target>
+        <note>Delete action</note>
+      </trans-unit>
+      <trans-unit id="Distance">
+        <source>Distance</source>
+        <target xml:lang="sv" state="needs-translation">Distance</target>
+        <note>Sort by distance</note>
+      </trans-unit>
+      <trans-unit id="Don't have an account? Sign up">
+        <source>Don't have an account? Sign up</source>
+        <target xml:lang="sv" state="needs-translation">Don't have an account? Sign up</target>
+        <note>Option for users if they don't yet have a SkedGo account</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target xml:lang="sv" state="needs-translation">Done</target>
+        <note>Done action</note>
+      </trans-unit>
+      <trans-unit id="Drop new pin">
+        <source>Drop new pin</source>
+        <target xml:lang="sv" state="needs-translation">Drop new pin</target>
+        <note>Drop new pin</note>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target xml:lang="sv" state="needs-translation">Email</target>
+        <note>Email address where receipt is sent
+   Email used as Facebook username</note>
+      </trans-unit>
+      <trans-unit id="Every %@">
+        <source>Every %@</source>
+        <target xml:lang="sv" state="needs-translation">Every %@</target>
+        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'. (old key: EveryDayFormat)</note>
+      </trans-unit>
+      <trans-unit id="Everyday">
+        <source>Everyday</source>
+        <target xml:lang="sv" state="needs-translation">Everyday</target>
+        <note>Everyday in context of repetitions (especially recurring events)</note>
+      </trans-unit>
+      <trans-unit id="Expiry Date">
+        <source>Expiry Date</source>
+        <target xml:lang="sv" state="needs-translation">Expiry Date</target>
+        <note>Credit card expiry date</note>
+      </trans-unit>
+      <trans-unit id="For when to leave">
+        <source>For when to leave</source>
+        <target xml:lang="sv" state="needs-translation">For when to leave</target>
+        <note>Option that allows users to indicate whether reminder is needed
+   Reminder to leave preference</note>
+      </trans-unit>
+      <trans-unit id="Free">
+        <source>Free</source>
+        <target xml:lang="sv" state="needs-translation">Free</target>
+        <note>Free as in beer</note>
+      </trans-unit>
+      <trans-unit id="Full name">
+        <source>Full name</source>
+        <target xml:lang="sv" state="needs-translation">Full name</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Getting a lift">
+        <source>Getting a lift</source>
+        <target xml:lang="sv" state="needs-translation">Getting a lift</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Has reminder">
+        <source>Has reminder</source>
+        <target xml:lang="sv" state="needs-translation">Has reminder</target>
+        <note>Accessibility annotation for trips which have a reminder set.</note>
+      </trans-unit>
+      <trans-unit id="Include contacts">
+        <source>Include contacts</source>
+        <target xml:lang="sv" state="needs-translation">Include contacts</target>
+        <note>Include contacts.</note>
+      </trans-unit>
+      <trans-unit id="Include events">
+        <source>Include events</source>
+        <target xml:lang="sv" state="needs-translation">Include events</target>
+        <note>Include events.</note>
+      </trans-unit>
+      <trans-unit id="Instant results">
+        <source>Instant results</source>
+        <target xml:lang="sv" state="needs-translation">Instant results</target>
+        <note>Instant results proposal</note>
+      </trans-unit>
+      <trans-unit id="Invalid account">
+        <source>Invalid account</source>
+        <target xml:lang="sv" state="needs-translation">Invalid account</target>
+        <note>Title for alert that indicates the user account has become invalid</note>
+      </trans-unit>
+      <trans-unit id="John Appleseed">
+        <source>John Appleseed</source>
+        <target xml:lang="sv" state="needs-translation">John Appleseed</target>
+        <note>Name placeholder text</note>
+      </trans-unit>
+      <trans-unit id="Linking Facebook">
+        <source>Linking Facebook</source>
+        <target xml:lang="sv" state="needs-translation">Linking Facebook</target>
+        <note>Used when user signs in using Facebook</note>
+      </trans-unit>
+      <trans-unit id="Loading">
+        <source>Loading</source>
+        <target xml:lang="sv" state="needs-translation">Loading</target>
+        <note>Title on the button that indicates to the user that booking is in progressing</note>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <target xml:lang="sv" state="needs-translation">Location</target>
+        <note>Title for unnamed location</note>
+      </trans-unit>
+      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
+        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
+        <target xml:lang="sv" state="needs-translation">Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</target>
+        <note>Location iOS6+ authorisation needed text</note>
+      </trans-unit>
+      <trans-unit id="Making payment">
+        <source>Making payment</source>
+        <target xml:lang="sv" state="needs-translation">Making payment</target>
+        <note>Indicating a payment is in progress</note>
+      </trans-unit>
+      <trans-unit id="Minutes before trip">
+        <source>Minutes before trip</source>
+        <target xml:lang="sv" state="needs-translation">Minutes before trip</target>
+        <note>Option that allows users to indicate how eary to show trip reminder
+   Reminder to leave preference</note>
+      </trans-unit>
+      <trans-unit id="More results">
+        <source>More results</source>
+        <target xml:lang="sv" state="needs-translation">More results</target>
+        <note>More results proposal</note>
+      </trans-unit>
+      <trans-unit id="Motorbike">
+        <source>Motorbike</source>
+        <target xml:lang="sv" state="needs-translation">Motorbike</target>
+        <note>Type of vehicle : motorbike</note>
+      </trans-unit>
+      <trans-unit id="My account">
+        <source>My account</source>
+        <target xml:lang="sv" state="needs-translation">My account</target>
+        <note>Title for view that shows the summary of a user's account information</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target xml:lang="sv" state="needs-translation">Name</target>
+        <note>Name to which receipt is sent
+   Name used in Facebook
+   Sort by name
+   Title for name of something (or someone)</note>
+      </trans-unit>
+      <trans-unit id="Never">
+        <source>Never</source>
+        <target xml:lang="sv" state="needs-translation">Never</target>
+        <note>Response to question whether user wants to report a problem when taking a screenshot. Also used in context of repetitions (especially recurring events).</note>
+      </trans-unit>
+      <trans-unit id="New account">
+        <source>New account</source>
+        <target xml:lang="sv" state="needs-translation">New account</target>
+        <note>Title for sign in view when user does not have an account</note>
+      </trans-unit>
+      <trans-unit id="Next">
+        <source>Next</source>
+        <target xml:lang="sv" state="needs-translation">Next</target>
+        <note>Next action</note>
+      </trans-unit>
+      <trans-unit id="No CO₂">
+        <source>No CO₂</source>
+        <target xml:lang="sv" state="needs-translation">No CO₂</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Now">
+        <source>Now</source>
+        <target xml:lang="sv" state="needs-translation">Now</target>
+        <note>Countdown cell 'now' indicator</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target xml:lang="sv" state="needs-translation">OK</target>
+        <note>Authorisation ok button
+   Default title for button that dismisses alert view
+   Error alert cancel</note>
+      </trans-unit>
+      <trans-unit id="Open Settings">
+        <source>Open Settings</source>
+        <target xml:lang="sv" state="needs-translation">Open Settings</target>
+        <note>Button to open Settings app section for this app</note>
+      </trans-unit>
+      <trans-unit id="Open in Safari">
+        <source>Open in Safari</source>
+        <target xml:lang="sv" state="needs-translation">Open in Safari</target>
+        <note>Open in Safari action</note>
+      </trans-unit>
+      <trans-unit id="Password">
+        <source>Password</source>
+        <target xml:lang="sv" state="needs-translation">Password</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Payment successful">
+        <source>Payment successful</source>
+        <target xml:lang="sv" state="needs-translation">Payment successful</target>
+        <note>Indicating a payment is successful</note>
+      </trans-unit>
+      <trans-unit id="Paypal">
+        <source>Paypal</source>
+        <target xml:lang="sv" state="needs-translation">Paypal</target>
+        <note>Section title for Paypal payment</note>
+      </trans-unit>
+      <trans-unit id="Please select a location">
+        <source>Please select a location</source>
+        <target xml:lang="sv" state="needs-translation">Please select a location</target>
+        <note>Please select a location prompt</note>
+      </trans-unit>
+      <trans-unit id="Please try again or set your location manually.">
+        <source>Please try again or set your location manually.</source>
+        <target xml:lang="sv" state="needs-translation">Please try again or set your location manually.</target>
+        <note>Error recovery suggestion when GPS fails.</note>
+      </trans-unit>
+      <trans-unit id="Please verify the location">
+        <source>Please verify the location</source>
+        <target xml:lang="sv" state="needs-translation">Please verify the location</target>
+        <note>Please verify the location prompt</note>
+      </trans-unit>
+      <trans-unit id="Press 'search' for more...">
+        <source>Press 'search' for more...</source>
+        <target xml:lang="sv" state="needs-translation">Press 'search' for more...</target>
+        <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
+      </trans-unit>
+      <trans-unit id="Real-time">
+        <source>Real-time</source>
+        <target xml:lang="sv" state="needs-translation">Real-time</target>
+        <note>Indicator for real-time information</note>
+      </trans-unit>
+      <trans-unit id="Receipt">
+        <source>Receipt</source>
+        <target xml:lang="sv" state="needs-translation">Receipt</target>
+        <note>Title for section that asks users where payment receipt should be sent</note>
+      </trans-unit>
+      <trans-unit id="Reminder">
+        <source>Reminder</source>
+        <target xml:lang="sv" state="needs-translation">Reminder</target>
+        <note>Action title to add/remove reminder
+   Section title at the end of a booking that allows users to set reminders</note>
+      </trans-unit>
+      <trans-unit id="Repeats daily">
+        <source>Repeats daily</source>
+        <target xml:lang="sv" state="needs-translation">Repeats daily</target>
+        <note>Repeats daily</note>
+      </trans-unit>
+      <trans-unit id="Repeats monthly">
+        <source>Repeats monthly</source>
+        <target xml:lang="sv" state="needs-translation">Repeats monthly</target>
+        <note>Repeats monthly</note>
+      </trans-unit>
+      <trans-unit id="Repeats weekly">
+        <source>Repeats weekly</source>
+        <target xml:lang="sv" state="needs-translation">Repeats weekly</target>
+        <note>Repeats weekly</note>
+      </trans-unit>
+      <trans-unit id="Repeats yearly">
+        <source>Repeats yearly</source>
+        <target xml:lang="sv" state="needs-translation">Repeats yearly</target>
+        <note>Repeats yearly</note>
+      </trans-unit>
+      <trans-unit id="Report Problem">
+        <source>Report Problem</source>
+        <target xml:lang="sv" state="needs-translation">Report Problem</target>
+        <note>Button title to report a problem</note>
+      </trans-unit>
+      <trans-unit id="SUV">
+        <source>SUV</source>
+        <target xml:lang="sv" state="needs-translation">SUV</target>
+        <note>Sports utility vehicle abbreviation</note>
+      </trans-unit>
+      <trans-unit id="Score">
+        <source>Score</source>
+        <target xml:lang="sv" state="needs-translation">Score</target>
+        <note>Sort by overall score, like a ranking.</note>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <target xml:lang="sv" state="needs-translation">Search</target>
+        <note>Empty search bar placeholder</note>
+      </trans-unit>
+      <trans-unit id="Search Results">
+        <source>Search Results</source>
+        <target xml:lang="sv" state="needs-translation">Search Results</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search for a city">
+        <source>Search for a city</source>
+        <target xml:lang="sv" state="needs-translation">Search for a city</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Searching for '%@'...">
+        <source>Searching for '%@'...</source>
+        <target xml:lang="sv" state="needs-translation">Searching for '%@'...</target>
+        <note>Placeholder text while waiting for server response when searching for a location.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target xml:lang="sv" state="needs-translation">Settings</target>
+        <note>Button that goes to the Setting's app</note>
+      </trans-unit>
+      <trans-unit id="Sign in">
+        <source>Sign in</source>
+        <target xml:lang="sv" state="needs-translation">Sign in</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign out">
+        <source>Sign out</source>
+        <target xml:lang="sv" state="needs-translation">Sign out</target>
+        <note>Instruction for signing out user account</note>
+      </trans-unit>
+      <trans-unit id="Sign up">
+        <source>Sign up</source>
+        <target xml:lang="sv" state="needs-translation">Sign up</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign up cannot be completed without a valid password">
+        <source>Sign up cannot be completed without a valid password</source>
+        <target xml:lang="sv" state="needs-translation">Sign up cannot be completed without a valid password</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Signing in">
+        <source>Signing in</source>
+        <target xml:lang="sv" state="needs-translation">Signing in</target>
+        <note>Message that indicates the app is signing users into their user accounts</note>
+      </trans-unit>
+      <trans-unit id="Signing out">
+        <source>Signing out</source>
+        <target xml:lang="sv" state="needs-translation">Signing out</target>
+        <note>Message that indicates the app has successfully completed signing out
+   Message that indicates the app is signing users out of their accounts</note>
+      </trans-unit>
+      <trans-unit id="Starting %@">
+        <source>Starting %@</source>
+        <target xml:lang="sv" state="needs-translation">Starting %@</target>
+        <note>Starting %date. (old key: DateFromFormat)</note>
+      </trans-unit>
+      <trans-unit id="Tap to set location">
+        <source>Tap to set location</source>
+        <target xml:lang="sv" state="needs-translation">Tap to set location</target>
+        <note>Tap to set location. (old key: SetLocation)</note>
+      </trans-unit>
+      <trans-unit id="The app will now sign out">
+        <source>The app will now sign out</source>
+        <target xml:lang="sv" state="needs-translation">The app will now sign out</target>
+        <note>Message that indicates the app is about to sign users out of their user accounts</note>
+      </trans-unit>
+      <trans-unit id="Tracking - off">
+        <source>Tracking - off</source>
+        <target xml:lang="sv" state="needs-translation">Tracking - off</target>
+        <note>Accessibility - user location button - off</note>
+      </trans-unit>
+      <trans-unit id="Tracking - on">
+        <source>Tracking - on</source>
+        <target xml:lang="sv" state="needs-translation">Tracking - on</target>
+        <note>user location button - follow</note>
+      </trans-unit>
+      <trans-unit id="Tracking - on with heading">
+        <source>Tracking - on with heading</source>
+        <target xml:lang="sv" state="needs-translation">Tracking - on with heading</target>
+        <note>user location button - follow with heading</note>
+      </trans-unit>
+      <trans-unit id="Unknown error">
+        <source>Unknown error</source>
+        <target xml:lang="sv" state="needs-translation">Unknown error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Up to %@">
+        <source>Up to %@</source>
+        <target xml:lang="sv" state="needs-translation">Up to %@</target>
+        <note>Up to %date. (old key: DateToFormat)</note>
+      </trans-unit>
+      <trans-unit id="Updating trip">
+        <source>Updating trip</source>
+        <target xml:lang="sv" state="needs-translation">Updating trip</target>
+        <note>Message that shows app is updating trip after user finalised bookings</note>
+      </trans-unit>
+      <trans-unit id="Values missing from required fields.">
+        <source>Values missing from required fields.</source>
+        <target xml:lang="sv" state="needs-translation">Values missing from required fields.</target>
+        <note>Message that informs users that some values are missing from the required fields in a booking form.</note>
+      </trans-unit>
+      <trans-unit id="Weekdays">
+        <source>Weekdays</source>
+        <target xml:lang="sv" state="needs-translation">Weekdays</target>
+        <note>Every weekday in context of repetitions (especially recurring events)</note>
+      </trans-unit>
+      <trans-unit id="Weekends">
+        <source>Weekends</source>
+        <target xml:lang="sv" state="needs-translation">Weekends</target>
+        <note>Every weekend day in context of repetitions (especially recurring events)</note>
+      </trans-unit>
+      <trans-unit id="Wheelchair accessible">
+        <source>Wheelchair accessible</source>
+        <target xml:lang="sv" state="needs-translation">Wheelchair accessible</target>
+        <note>Indicator for wheelchair accessible services</note>
+      </trans-unit>
+      <trans-unit id="Would you like to report a problem?">
+        <source>Would you like to report a problem?</source>
+        <target xml:lang="sv" state="needs-translation">Would you like to report a problem?</target>
+        <note>Question asked when user is taking a screenshot</note>
+      </trans-unit>
+      <trans-unit id="You need to agree to the booking terms and conditions.">
+        <source>You need to agree to the booking terms and conditions.</source>
+        <target xml:lang="sv" state="needs-translation">You need to agree to the booking terms and conditions.</target>
+        <note>Message that informs users that T&amp;C must be agreed before booking can be made.</note>
+      </trans-unit>
+      <trans-unit id="You need to agree to the insurance terms and conditions.">
+        <source>You need to agree to the insurance terms and conditions.</source>
+        <target xml:lang="sv" state="needs-translation">You need to agree to the insurance terms and conditions.</target>
+        <note>Message that informs users that T&amp;C for insurance must be agreed before booking can be made.</note>
+      </trans-unit>
+      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
+        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
+        <target xml:lang="sv" state="needs-translation">You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</target>
+        <note>Calendar authorisation needed text</note>
+      </trans-unit>
+      <trans-unit id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
+        <source>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</source>
+        <target xml:lang="sv" state="needs-translation">You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</target>
+        <note>Contacts authorisation needed text</note>
+      </trans-unit>
+      <trans-unit id="all-day">
+        <source>all-day</source>
+        <target xml:lang="sv" state="needs-translation">all-day</target>
+        <note>Indicator that an event is all-day</note>
+      </trans-unit>
+      <trans-unit id="arrives %@">
+        <source>arrives %@</source>
+        <target xml:lang="sv" state="needs-translation">arrives %@</target>
+        <note>Estimated time of arrival; parameter is time, e.g., 'arrives 15:30'</note>
+      </trans-unit>
+      <trans-unit id="departs %@">
+        <source>departs %@</source>
+        <target xml:lang="sv" state="needs-translation">departs %@</target>
+        <note>Estimated time of departure; parameter is time, e.g., 'departs 15:30'</note>
+      </trans-unit>
+      <trans-unit id="ends at %@">
+        <source>ends at %@</source>
+        <target xml:lang="sv" state="needs-translation">ends at %@</target>
+        <note>Short indicator of end-time</note>
+      </trans-unit>
+      <trans-unit id="example@example.com">
+        <source>example@example.com</source>
+        <target xml:lang="sv" state="needs-translation">example@example.com</target>
+        <note>Email placeholder text</note>
+      </trans-unit>
+      <trans-unit id="mm/yy">
+        <source>mm/yy</source>
+        <target xml:lang="sv" state="needs-translation">mm/yy</target>
+        <note>Credit card expiry date placeholder, mm/yy</note>
+      </trans-unit>
+      <trans-unit id="starts at %@">
+        <source>starts at %@</source>
+        <target xml:lang="sv" state="needs-translation">starts at %@</target>
+        <note>Short indicator of start-time</note>
+      </trans-unit>
+      <trans-unit id="to %@">
+        <source>to %@</source>
+        <target xml:lang="sv" state="needs-translation">to %@</target>
+        <note>to %date. (old key: DateToFormat)</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

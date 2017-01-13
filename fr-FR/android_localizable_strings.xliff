@@ -240,10 +240,6 @@
         <source>Go Here</source>
         <target xml:lang="fr" state="translated">Allez ici</target>
       </trans-unit>
-      <trans-unit id="get_uber">
-        <source>Get Uber</source>
-        <target xml:lang="fr" state="translated">Téléchargez Uber</target>
-      </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
         <target xml:lang="fr" state="translated">Monter</target>
@@ -370,10 +366,6 @@
       <trans-unit id="origin">
         <source>origin</source>
         <target xml:lang="fr" state="translated">origine</target>
-      </trans-unit>
-      <trans-unit id="open_uber">
-        <source>Open Uber</source>
-        <target xml:lang="fr" state="translated">Ouvrir Uber</target>
       </trans-unit>
       <trans-unit id="page_between_upcoming_services">
         <source>Page between upcoming services</source>
@@ -699,11 +691,8 @@
         <target xml:lang="fr" state="translated">On dirait que vous avez un trajet à faire</target>
       </trans-unit>
       <trans-unit id="trip_to">
-        <source>Trip to</source>
-        <target xml:lang="fr" state="translated">Trip to %s</target>
-        <alt-trans>
-          <target xml:lang="fr">Aller à</target>
-        </alt-trans>
+        <source>Trip to %s</source>
+        <target xml:lang="fr" state="needs-translation">Trip to %s</target>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>
@@ -759,7 +748,8 @@
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="fr" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
@@ -775,7 +765,7 @@
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
         <target xml:lang="fr" state="needs-translation">Updated at: %s</target>
-        <note>Parking slots, updated time. Example: Updated at: 10am</note>
+        <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>

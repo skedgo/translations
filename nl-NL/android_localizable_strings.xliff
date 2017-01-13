@@ -251,10 +251,6 @@
         <source>Go Here</source>
         <target xml:lang="nl" state="translated">Ga naar hier</target>
       </trans-unit>
-      <trans-unit id="get_uber">
-        <source>Get Uber</source>
-        <target xml:lang="nl" state="translated">Bij Uber aanmelden</target>
-      </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
         <target xml:lang="nl" state="translated">Instappen</target>
@@ -384,13 +380,6 @@
       <trans-unit id="origin">
         <source>origin</source>
         <target xml:lang="nl" state="translated">oorsprong</target>
-      </trans-unit>
-      <trans-unit id="open_uber">
-        <source>Open Uber</source>
-        <target xml:lang="nl" state="translated">Uber openen</target>
-        <alt-trans>
-          <target xml:lang="nl">Open Uber</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="page_between_upcoming_services">
         <source>Page between upcoming services</source>
@@ -716,11 +705,8 @@
         <target xml:lang="nl" state="translated">Het ziet ernaar uit dat u ergens naartoe moet</target>
       </trans-unit>
       <trans-unit id="trip_to">
-        <source>Trip to</source>
-        <target xml:lang="nl" state="translated">Trip to %s</target>
-        <alt-trans>
-          <target xml:lang="nl">Reis naar</target>
-        </alt-trans>
+        <source>Trip to %s</source>
+        <target xml:lang="nl" state="needs-translation">Trip to %s</target>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>
@@ -776,7 +762,8 @@
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="nl" state="translated">%s slots beschikbaar</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
@@ -792,7 +779,7 @@
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
         <target xml:lang="nl" state="translated">Bijgewerkt op %s</target>
-        <note>Parking slots, updated time. Example: Updated at: 10am</note>
+        <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
