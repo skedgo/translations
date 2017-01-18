@@ -403,10 +403,6 @@
         <source>Rate</source>
         <target xml:lang="fr" state="translated">Évaluer</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="fr" state="translated">Service</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="fr" state="translated">Régler l'heure de fin</target>
@@ -771,11 +767,6 @@
         <source>Almost full</source>
         <target xml:lang="fr" state="needs-translation">Almost full</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="fr" state="needs-translation">Valid From</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>

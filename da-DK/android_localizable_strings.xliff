@@ -403,10 +403,6 @@
         <source>Rate</source>
         <target xml:lang="da" state="translated">Bedøm</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="da" state="translated">Tjeneste</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="da" state="translated">Indstil sluttidspunkt</target>
@@ -771,11 +767,6 @@
         <source>Almost full</source>
         <target xml:lang="da" state="translated">Næsten fuld</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="da" state="translated">Gyldig fra</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>

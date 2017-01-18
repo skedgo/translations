@@ -407,10 +407,6 @@
         <source>Rate</source>
         <target xml:lang="ja" state="translated">レート</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="ja" state="translated">サービス</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="ja" state="translated">終了時刻を設定</target>
@@ -775,11 +771,6 @@
         <source>Almost full</source>
         <target xml:lang="ja" state="needs-translation">Almost full</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="ja" state="needs-translation">Valid From</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>

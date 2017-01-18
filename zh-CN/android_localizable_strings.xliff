@@ -412,10 +412,6 @@
         <source>Rate</source>
         <target xml:lang="zh-CN" state="translated">评分</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="zh-CN" state="translated">车次</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="zh-CN" state="translated">设置结束时间</target>
@@ -783,11 +779,6 @@
         <source>Almost full</source>
         <target xml:lang="zh-CN" state="translated">几乎满位</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="zh-CN" state="translated">有效期起始于</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>

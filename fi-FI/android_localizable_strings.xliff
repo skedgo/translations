@@ -530,10 +530,6 @@
         <source>Rate</source>
         <target xml:lang="fi" state="translated">Arvostele</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="fi" state="translated">Yhteys</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="fi" state="translated">Aseta loppumisaika</target>
@@ -1037,11 +1033,6 @@
         <source>Almost full</source>
         <target xml:lang="fi" state="translated">Melkein täynnä</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="fi" state="translated">Voimassa alkaen</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>

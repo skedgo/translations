@@ -406,10 +406,6 @@
         <source>Rate</source>
         <target xml:lang="hu" state="needs-translation">Rate</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="hu" state="translated">Szolgáltatás</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="hu" state="translated">Végidő beállítása</target>
@@ -780,11 +776,6 @@
         <source>Almost full</source>
         <target xml:lang="hu" state="needs-translation">Almost full</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="hu" state="needs-translation">Valid From</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>

@@ -417,10 +417,6 @@
         <source>Rate</source>
         <target xml:lang="nl" state="translated">Waardeer</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="nl" state="translated">Dienst</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="nl" state="translated">Stel eind tijd in</target>
@@ -785,11 +781,6 @@
         <source>Almost full</source>
         <target xml:lang="nl" state="translated">Bijna vol</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="nl" state="translated">Geldig vanaf</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>

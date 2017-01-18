@@ -407,10 +407,6 @@
         <source>Rate</source>
         <target xml:lang="ko" state="translated">평가</target>
       </trans-unit>
-      <trans-unit id="service_placeholder">
-        <source>Service</source>
-        <target xml:lang="ko" state="translated">서비스</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="ko" state="translated">종료시간 설정</target>
@@ -775,11 +771,6 @@
         <source>Almost full</source>
         <target xml:lang="ko" state="translated">거의 다 참</target>
         <note>Occupancy almost full</note>
-      </trans-unit>
-      <trans-unit id="valid_from">
-        <source>Valid From</source>
-        <target xml:lang="ko" state="translated">다음부터 유효함</target>
-        <note>Valid From title (date)</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>
