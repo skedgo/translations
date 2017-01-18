@@ -1,21 +1,155 @@
 <?xml version='1.0' encoding='utf-8'?>
-<xliff version="1.2"
-  xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-
-  <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en"
-    target-language="en">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="en">
     <header>
-      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode"
-        tool-version="8.2.1" />
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo Agenda</source>
+        <target>TripGo Agenda</target>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body />
+  </file>
+  <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>Notification Extension</source>
+        <target>Notification Extension</target>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="00e-CH-gOu.title">
+        <source>Reminder</source>
+        <target>Reminder</target>
+        <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
+      </trans-unit>
+      <trans-unit id="0mK-e0-427.text">
+        <source>Description</source>
+        <target>Description</target>
+        <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
+      </trans-unit>
+      <trans-unit id="6Qf-Ve-PDJ.text">
+        <source>No Data</source>
+        <target>No Data</target>
+        <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
+      </trans-unit>
+      <trans-unit id="AgC-eL-Hgc.title">
+        <source>TripGo</source>
+        <target>TripGo</target>
+        <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
+      </trans-unit>
+      <trans-unit id="F85-mJ-6yD.text">
+        <source>Getting trip</source>
+        <target>Getting trip</target>
+        <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
+      </trans-unit>
+      <trans-unit id="GGf-v0-vEJ.title">
+        <source>Show Map</source>
+        <target>Show Map</target>
+        <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
+      </trans-unit>
+      <trans-unit id="RoM-Us-t1Y.title">
+        <source>Favourites</source>
+        <target>Favourites</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
+      </trans-unit>
+      <trans-unit id="Uzb-ex-6N5.title">
+        <source>Agenda</source>
+        <target>Agenda</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
+      </trans-unit>
+      <trans-unit id="cAf-NX-Z7L.title">
+        <source>Favourites</source>
+        <target>Favourites</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
+      </trans-unit>
+      <trans-unit id="h3q-kR-2ID.title">
+        <source>Timetable</source>
+        <target>Timetable</target>
+        <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
+      </trans-unit>
+      <trans-unit id="jYK-Fw-rhR.text">
+        <source>Alert</source>
+        <target>Alert</target>
+        <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
+      </trans-unit>
+      <trans-unit id="r0K-AY-XvO.title">
+        <source>Retry</source>
+        <target>Retry</target>
+        <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
+      </trans-unit>
+      <trans-unit id="rQN-eo-Bg2.title">
+        <source>Timetable</source>
+        <target>Timetable</target>
+        <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo</source>
+        <target>TripGo</target>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>TripGo WatchKit Extension</source>
+        <target>TripGo WatchKit Extension</target>
+      </trans-unit>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Watch.strings" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
+        <source>Plan a trip on your phone or press firmly to access your favourites.</source>
+        <target>Plan a trip on your phone or press firmly to access your favourites.</target>
+        <note>Instruction to users when there are no upcoming trips</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
     </header>
     <body>
       <trans-unit id="%@ to %@">
         <source>%@ to %@</source>
         <target>%@ to %@</target>
-        <note>Format string for going from one location to another. For example: Used to name
-          favourite trips.
-        </note>
+        <note>Format string for going from one location to another. For example: Used to name favourite trips.</note>
       </trans-unit>
       <trans-unit id="Add stopover...">
         <source>Add stopover...</source>
@@ -127,22 +261,15 @@
         <target>Only This</target>
         <note>Option to delete only this event in a recurence</note>
       </trans-unit>
-      <trans-unit
-        id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
-        <source>Please delete the app and re-install from the App Store. Sorry for the
-          inconvenience!
-        </source>
-        <target>Please delete the app and re-install from the App Store. Sorry for the
-          inconvenience!
-        </target>
+      <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
+        <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
+        <target>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</target>
         <note>Recovery suggestion when TripGo cannot access its local files</note>
       </trans-unit>
       <trans-unit id="Please restart the app. Sorry for the inconvenience!">
         <source>Please restart the app. Sorry for the inconvenience!</source>
         <target>Please restart the app. Sorry for the inconvenience!</target>
-        <note>Recovery suggestion when an app restart is required, e.g., when the database got
-          corrupted and/or the app can't access its local files.
-        </note>
+        <note>Recovery suggestion when an app restart is required, e.g., when the database got corrupted and/or the app can't access its local files.</note>
       </trans-unit>
       <trans-unit id="Profile">
         <source>Profile</source>
@@ -157,8 +284,7 @@
       <trans-unit id="Set up your Agenda in the TripGo app.">
         <source>Set up your Agenda in the TripGo app.</source>
         <target>Set up your Agenda in the TripGo app.</target>
-        <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.
-        </note>
+        <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.</note>
       </trans-unit>
       <trans-unit id="Show map">
         <source>Show map</source>
@@ -178,9 +304,7 @@
       <trans-unit id="Snooze until next">
         <source>Snooze until next</source>
         <target>Snooze until next</target>
-        <note>Action button on public transport trip reminders to skip this service and get reminded
-          for the next service
-        </note>
+        <note>Action button on public transport trip reminders to skip this service and get reminded for the next service</note>
       </trans-unit>
       <trans-unit id="Stay">
         <source>Stay</source>
@@ -195,16 +319,12 @@
       <trans-unit id="Time to leave! Your trip commences at %@">
         <source>Time to leave! Your trip commences at %@</source>
         <target>Time to leave! Your trip commences at %@</target>
-        <note>Notification message for trip with unknown destination. Notification message for a
-          non-public transport trip. Provided is %time you need to leave.
-        </note>
+        <note>Notification message for trip with unknown destination. Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
       </trans-unit>
       <trans-unit id="Time to leave! Your trip to %@ commences at %@">
         <source>Time to leave! Your trip to %@ commences at %@</source>
         <target>Time to leave! Your trip to %@ commences at %@</target>
-        <note>Notification message for a trip. Provided is %destination and %time you need to
-          leave.
-        </note>
+        <note>Notification message for a trip. Provided is %destination and %time you need to leave.</note>
       </trans-unit>
       <trans-unit id="Timetable">
         <source>Timetable</source>
@@ -238,11 +358,145 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en"
-    target-language="en">
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="en">
     <header>
-      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode"
-        tool-version="8.2.1" />
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body />
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="3d9-Hg-2Fe.title">
+        <source>Trips</source>
+        <target>Trips</target>
+        <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+      </trans-unit>
+      <trans-unit id="5WK-au-VFq.title">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "5WK-au-VFq";</note>
+      </trans-unit>
+      <trans-unit id="IFX-i9-ymN.title">
+        <source>Routes</source>
+        <target>Routes</target>
+        <note>Class = "UINavigationItem"; title = "Routes"; ObjectID = "IFX-i9-ymN";</note>
+      </trans-unit>
+      <trans-unit id="JMk-5m-B22.title">
+        <source>Service</source>
+        <target>Service</target>
+        <note>Class = "UINavigationItem"; title = "Service"; ObjectID = "JMk-5m-B22";</note>
+      </trans-unit>
+      <trans-unit id="QTR-Ae-g7f.title">
+        <source>Trip</source>
+        <target>Trip</target>
+        <note>Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f";</note>
+      </trans-unit>
+      <trans-unit id="TNA-bx-79H.title">
+        <source>Agenda</source>
+        <target>Agenda</target>
+        <note>Class = "UITabBarItem"; title = "Agenda"; ObjectID = "TNA-bx-79H";</note>
+      </trans-unit>
+      <trans-unit id="TYM-9i-XBA.title">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA";</note>
+      </trans-unit>
+      <trans-unit id="t3k-Ks-sqa.title">
+        <source>Alerts</source>
+        <target>Alerts</target>
+        <note>Class = "UINavigationItem"; title = "Alerts"; ObjectID = "t3k-Ks-sqa";</note>
+      </trans-unit>
+      <trans-unit id="ye4-ch-zSe.title">
+        <source>Favourites</source>
+        <target>Favourites</target>
+        <note>Class = "UITabBarItem"; title = "Favourites"; ObjectID = "ye4-ch-zSe";</note>
+      </trans-unit>
+      <trans-unit id="zCk-Ai-u6n.title">
+        <source>Timetable</source>
+        <target>Timetable</target>
+        <note>Class = "UINavigationItem"; title = "Timetable"; ObjectID = "zCk-Ai-u6n";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="30.accessibilityLabel">
+        <source>Swap from and to</source>
+        <target>Swap from and to</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+      </trans-unit>
+      <trans-unit id="44.normalTitle">
+        <source>Time</source>
+        <target>Time</target>
+        <note>Class = "UIButton"; normalTitle = "Time"; ObjectID = "44";</note>
+      </trans-unit>
+      <trans-unit id="57.accessibilityLabel">
+        <source>Route</source>
+        <target>Route</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="57.normalTitle">
+        <source>Route</source>
+        <target>Route</target>
+        <note>Class = "UIButton"; normalTitle = "Route"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="JFm-H4-fOo.accessibilityLabel">
+        <source>To Location</source>
+        <target>To Location</target>
+        <note>Class = "UIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo";</note>
+      </trans-unit>
+      <trans-unit id="bs1-li-naL.accessibilityLabel">
+        <source>From Location</source>
+        <target>From Location</target>
+        <note>Class = "UIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/QRCodeViewController.xib" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="Ymf-LY-K7e.text">
+        <source>VALID FROM</source>
+        <target>VALID FROM</target>
+        <note>Class = "UILabel"; text = "VALID FROM"; ObjectID = "Ymf-LY-K7e";</note>
+      </trans-unit>
+      <trans-unit id="x1o-my-P1Q.text">
+        <source>TO</source>
+        <target>TO</target>
+        <note>Class = "UILabel"; text = "TO"; ObjectID = "x1o-my-P1Q";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/TripBoyView.xib" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      <trans-unit id="xKe-fs-FjF.normalTitle">
+        <source>Retry</source>
+        <target>Retry</target>
+        <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "xKe-fs-FjF";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
+    </header>
+    <body>
+      </body>
+  </file>
+  <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="en">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
     </header>
     <body>
       <trans-unit id="%.0f minutes">
@@ -253,9 +507,7 @@
       <trans-unit id="%.0f minutes before">
         <source>%.0f minutes before</source>
         <target>%.0f minutes before</target>
-        <note>Minutes format (used alert firing X minuts before departure). (old key:
-          MinutesBefore)
-        </note>
+        <note>Minutes format (used alert firing X minuts before departure). (old key: MinutesBefore)</note>
       </trans-unit>
       <trans-unit id="%@ Account">
         <source>%@ Account</source>
@@ -270,22 +522,17 @@
       <trans-unit id="%@ every %@">
         <source>%@ every %@</source>
         <target>%1$@ every %2$@</target>
-        <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10
-          every 10 minutes'
-        </note>
+        <note>Filler for a specific frequency-based service indicating its frequency, e.g., 'M10 every 10 minutes'</note>
       </trans-unit>
       <trans-unit id="%@ flight %@">
         <source>%@ flight %@</source>
         <target>%1$@ flight %2$@</target>
-        <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'. (old
-          key: AirlineFlightNumber)
-        </note>
+        <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'. (old key: AirlineFlightNumber)</note>
       </trans-unit>
       <trans-unit id="Access to location services required.">
         <source>Access to location services required.</source>
         <target>Access to location services required.</target>
-        <note>Error title when access to location hasn't been granted, but location is required.
-        </note>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
       </trans-unit>
       <trans-unit id="Add Reminder">
         <source>Add Reminder</source>
@@ -320,9 +567,7 @@
       <trans-unit id="Add when I'm here">
         <source>Add when I'm here</source>
         <target>Add when I'm here</target>
-        <note>Action title for adding another habitual visit to a favourite. (old key:
-          NewItemHereActionTitle)
-        </note>
+        <note>Action title for adding another habitual visit to a favourite. (old key: NewItemHereActionTitle)</note>
       </trans-unit>
       <trans-unit id="Added">
         <source>Added</source>
@@ -351,9 +596,7 @@
       <trans-unit id="Alternative routes">
         <source>Alternative routes</source>
         <target>Alternative routes</target>
-        <note>Action button title to see alternative options for the case where you can't make the
-          next connection.
-        </note>
+        <note>Action button title to see alternative options for the case where you can't make the next connection.</note>
       </trans-unit>
       <trans-unit id="Ambiguous event address.">
         <source>Ambiguous event address.</source>
@@ -388,15 +631,12 @@
       <trans-unit id="Automatic Reminders">
         <source>Automatic Reminders</source>
         <target>Automatic Reminders</target>
-        <note>Header for settings of reminders automatically added by TripGo through the agenda
-        </note>
+        <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
       </trans-unit>
       <trans-unit id="Awesome! How about rating us?">
         <source>Awesome! How about rating us?</source>
         <target>Awesome! How about rating us?</target>
-        <note>Response to positive answer to question whether TripGo is useful, prompting for App
-          Store rating.
-        </note>
+        <note>Response to positive answer to question whether TripGo is useful, prompting for App Store rating.</note>
       </trans-unit>
       <trans-unit id="Book a taxi">
         <source>Book a taxi</source>
@@ -411,9 +651,7 @@
       <trans-unit id="Bummer... How about some feedback?">
         <source>Bummer... How about some feedback?</source>
         <target>Bummer... How about some feedback?</target>
-        <note>Response to negative answer to question whether TripGo is useful, prompting for
-          feedback.
-        </note>
+        <note>Response to negative answer to question whether TripGo is useful, prompting for feedback.</note>
       </trans-unit>
       <trans-unit id="Calendar">
         <source>Calendar</source>
@@ -450,14 +688,9 @@
         <target>Convenience</target>
         <note>Hassle preference</note>
       </trans-unit>
-      <trans-unit
-        id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.">
-        <source>Convenience is affected by things such as changing public transport services, the
-          amount of walking, and finding a taxi.
-        </source>
-        <target>Convenience is affected by things such as changing public transport services, the
-          amount of walking, and finding a taxi.
-        </target>
+      <trans-unit id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.">
+        <source>Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</source>
+        <target>Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</target>
         <note>Convenience description</note>
       </trans-unit>
       <trans-unit id="Could not find your city.">
@@ -513,9 +746,7 @@
       <trans-unit id="Duration">
         <source>Duration</source>
         <target>Duration</target>
-        <note>Label for 'Duration' button to sort trips by their total duration. (old key:
-          ViewDurationButton)
-        </note>
+        <note>Label for 'Duration' button to sort trips by their total duration. (old key: ViewDurationButton)</note>
       </trans-unit>
       <trans-unit id="Effective in">
         <source>Effective in</source>
@@ -565,9 +796,7 @@
       <trans-unit id="Every %@">
         <source>Every %@</source>
         <target>Every %@</target>
-        <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10
-          minutes'
-        </note>
+        <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes'</note>
       </trans-unit>
       <trans-unit id="Example">
         <source>Example</source>
@@ -666,9 +895,7 @@
       <trans-unit id="Get on or off here">
         <source>Get on or off here</source>
         <target>Get on or off here</target>
-        <note>Description for button to get on or off at the selected public transport stop rather
-          than where TripGo suggested.
-        </note>
+        <note>Description for button to get on or off at the selected public transport stop rather than where TripGo suggested.</note>
       </trans-unit>
       <trans-unit id="Has TripGo been useful to you?">
         <source>Has TripGo been useful to you?</source>
@@ -697,9 +924,7 @@
       <trans-unit id="Include in routes">
         <source>Include in routes</source>
         <target>Include in trips</target>
-        <note>Title for a switch indicating two things: 1) if transport mode should be included in
-          trips and 2) if this event should be included in all-day routes
-        </note>
+        <note>Title for a switch indicating two things: 1) if transport mode should be included in trips and 2) if this event should be included in all-day routes</note>
       </trans-unit>
       <trans-unit id="Jump to today">
         <source>Jump to today</source>
@@ -724,9 +949,7 @@
       <trans-unit id="Location">
         <source>Location</source>
         <target>Location</target>
-        <note>Title for showing the details of a location, typically picked from the map after
-          searching or dropping a pin
-        </note>
+        <note>Title for showing the details of a location, typically picked from the map after searching or dropping a pin</note>
       </trans-unit>
       <trans-unit id="Location missing.">
         <source>Location missing.</source>
@@ -748,20 +971,14 @@
         <target>Manual Reminders</target>
         <note>Header for settings of reminders that the user manually added</note>
       </trans-unit>
-      <trans-unit
-        id="Marking a location as a favourite will allow quick access to routing results for going there from your current location.">
-        <source>Marking a location as a favourite will allow quick access to routing results for
-          going there from your current location.
-        </source>
+      <trans-unit id="Marking a location as a favourite will allow quick access to routing results for going there from your current location.">
+        <source>Marking a location as a favourite will allow quick access to routing results for going there from your current location.</source>
         <target>Favourite locations give you quick trip solutions from wherever you are.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit
-        id="Marking a transit stop as a favourite will allow quick access to its timetable.">
-        <source>Marking a transit stop as a favourite will allow quick access to its timetable.
-        </source>
-        <target>Marking a transit stop as a favourite will allow quick access to its timetable.
-        </target>
+      <trans-unit id="Marking a transit stop as a favourite will allow quick access to its timetable.">
+        <source>Marking a transit stop as a favourite will allow quick access to its timetable.</source>
+        <target>Marking a transit stop as a favourite will allow quick access to its timetable.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Medium">
@@ -779,14 +996,9 @@
         <target>Min transfer time</target>
         <note>Minimum transfer time preference</note>
       </trans-unit>
-      <trans-unit
-        id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.">
-        <source>Minimise results for this mode on the routes screen. Great for transport options you
-          only use occasionally.
-        </source>
-        <target>Minimise results for this mode on the routes screen. Great for transport options you
-          only use occasionally.
-        </target>
+      <trans-unit id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.">
+        <source>Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</source>
+        <target>Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minutes before trip">
@@ -832,8 +1044,7 @@
       <trans-unit id="Navigate to a supported city on a map.">
         <source>Navigate to a supported city on a map.</source>
         <target>Navigate to a supported city on a map.</target>
-        <note>Error recovery suggestion for when TripGo couldn't identify the user's current city.
-        </note>
+        <note>Error recovery suggestion for when TripGo couldn't identify the user's current city.</note>
       </trans-unit>
       <trans-unit id="New Favourite">
         <source>New Favourite</source>
@@ -863,9 +1074,7 @@
       <trans-unit id="No routes found.">
         <source>No routes found.</source>
         <target>No routes found.</target>
-        <note>Error title when routing produced no results (but no specific error was returned from
-          routing).
-        </note>
+        <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
       <trans-unit id="No, thanks">
         <source>No, thanks</source>
@@ -897,39 +1106,25 @@
         <target>Open TripGo app and add the location of this favourite.</target>
         <note>Error recovery suggestion for favourites with missing location.</note>
       </trans-unit>
-      <trans-unit
-        id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
-        <source>Open TripGo or Settings app on your phone and grant TripGo access to location
-          services.
-        </source>
-        <target>Open TripGo or Settings app on your phone and grant TripGo access to location
-          services.
-        </target>
-        <note>Error recovery suggestion for when watch doesn't have access to location services.
-        </note>
+      <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
+        <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
+        <target>Open TripGo or Settings app on your phone and grant TripGo access to location services.</target>
+        <note>Error recovery suggestion for when watch doesn't have access to location services.</note>
       </trans-unit>
       <trans-unit id="Open website">
         <source>Open website</source>
         <target>Open website</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit
-        id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
-          use of this app
-        </source>
-        <target>Our End User Licence Agreement has changed. You must agree to it before continuing
-          use of this app
-        </target>
+      <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
+        <target>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Permission was granted. Please go back and try again.">
         <source>Permission was granted. Please go back and try again.</source>
         <target>Permission was granted. Please go back and try again.</target>
-        <note>Text displayed when the user has given the app access to private data such as their
-          calendar or contacts, but the user needs to perform the original action again to now see
-          the results.
-        </note>
+        <note>Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results.</note>
       </trans-unit>
       <trans-unit id="Permissions">
         <source>Permissions</source>
@@ -962,15 +1157,11 @@
       <trans-unit id="Please adjust your query and try again.">
         <source>Please adjust your query and try again.</source>
         <target>Please adjust your query and try again.</target>
-        <note>Error recovery suggestion for when routing produced no results (but no specific error
-          was returned from routing).
-        </note>
+        <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
       <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
-        <source>Please check your Calendar app and make sure you have a calendar configured.
-        </source>
-        <target>Please check your Calendar app and make sure you have a calendar configured.
-        </target>
+        <source>Please check your Calendar app and make sure you have a calendar configured.</source>
+        <target>Please check your Calendar app and make sure you have a calendar configured.</target>
         <note>Error recovery suggestion for when no calendar found.</note>
       </trans-unit>
       <trans-unit id="Please specify an address.">
@@ -981,9 +1172,7 @@
       <trans-unit id="Preferred">
         <source>Preferred</source>
         <target>Preferred</target>
-        <note>Label for 'Overall' button to sort trips by their overall total score considering all
-          factors. (old key: ViewOverallButton)
-        </note>
+        <note>Label for 'Overall' button to sort trips by their overall total score considering all factors. (old key: ViewOverallButton)</note>
       </trans-unit>
       <trans-unit id="Preferred transport">
         <source>Preferred transport</source>
@@ -993,9 +1182,7 @@
       <trans-unit id="Price">
         <source>Price</source>
         <target>Price</target>
-        <note>Label for 'Price' button to sort trips by their total cost. (old key:
-          ViewPriceButton)
-        </note>
+        <note>Label for 'Price' button to sort trips by their total cost. (old key: ViewPriceButton)</note>
       </trans-unit>
       <trans-unit id="Priorities">
         <source>Priorities</source>
@@ -1015,9 +1202,7 @@
       <trans-unit id="Regular events which will be saved in your device's calendar.">
         <source>Regular events which will be saved in your device's calendar.</source>
         <target>Regular events which will be saved in your device's calendar.</target>
-        <note>Explanation for what calendar events are compared to habituals and stays. Can be
-          long-ish.
-        </note>
+        <note>Explanation for what calendar events are compared to habituals and stays. Can be long-ish.</note>
       </trans-unit>
       <trans-unit id="Reminders">
         <source>Reminders</source>
@@ -1086,9 +1271,7 @@
       <trans-unit id="Request...">
         <source>Request...</source>
         <target>Request...</target>
-        <note>Title for action to perform by the user if an event is outside TripGo's range. The
-          action will display a feedback form to request the region of that event.
-        </note>
+        <note>Title for action to perform by the user if an event is outside TripGo's range. The action will display a feedback form to request the region of that event.</note>
       </trans-unit>
       <trans-unit id="Reset agenda">
         <source>Reset agenda</source>
@@ -1123,25 +1306,17 @@
       <trans-unit id="Route here">
         <source>Route here</source>
         <target>Route here</target>
-        <note>Title for options for routing to this location, options are: current location, &lt;some
-          previously selected location&gt;.
-        </note>
+        <note>Title for options for routing to this location, options are: current location, &lt;some previously selected location&gt;.</note>
       </trans-unit>
       <trans-unit id="Routes">
         <source>Routes</source>
         <target>Routes</target>
         <note>Title of routes screen, that shows all the results for getting from A to B</note>
       </trans-unit>
-      <trans-unit
-        id="Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.">
-        <source>Routines are part of your daily movement, but they aren't events that you want in
-          your calendar (e.g., work). They are important for the Agenda to get you to the right
-          location at the right time.
-        </source>
+      <trans-unit id="Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.">
+        <source>Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</source>
         <target>Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</target>
-        <note>Explanation for what routines are compared to calendar events and stays. Can be
-          long-ish. (old key: HabitualEventDescription)
-        </note>
+        <note>Explanation for what routines are compared to calendar events and stays. Can be long-ish. (old key: HabitualEventDescription)</note>
       </trans-unit>
       <trans-unit id="Routing from %@ to %@ is not yet supported">
         <source>Routing from %@ to %@ is not yet supported</source>
@@ -1253,10 +1428,7 @@
       <trans-unit id="Showing %@ of %@ transport modes">
         <source>Showing %@ of %@ transport modes</source>
         <target>Showing %1$@ of %2$@ transport modes</target>
-        <note>Indicator for how many transport modes are being displayed out of the total available
-          ones for the region of the trip. First placeholder will be replaced with selected number,
-          second with total number.
-        </note>
+        <note>Indicator for how many transport modes are being displayed out of the total available ones for the region of the trip. First placeholder will be replaced with selected number, second with total number.</note>
       </trans-unit>
       <trans-unit id="Skip">
         <source>Skip</source>
@@ -1286,9 +1458,7 @@
       <trans-unit id="Stay at a different location">
         <source>Stay at a different location</source>
         <target>Stay at a different location</target>
-        <note>Action title for adding a habitual item away from some location. (old key:
-          NewItemAwayActionTitle)
-        </note>
+        <note>Action title for adding a habitual item away from some location. (old key: NewItemAwayActionTitle)</note>
       </trans-unit>
       <trans-unit id="Stop code: %@">
         <source>Stop code: %@</source>
@@ -1393,26 +1563,17 @@
       <trans-unit id="Type">
         <source>Type</source>
         <target>Type</target>
-        <note>Type of something, e.g., an event (calendar event, stay, routine) or a vehicle (car,
-          motorbike, bicycle). (old key: TypeEvent)
-        </note>
+        <note>Type of something, e.g., an event (calendar event, stay, routine) or a vehicle (car, motorbike, bicycle). (old key: TypeEvent)</note>
       </trans-unit>
       <trans-unit id="Updated: ">
-        <source>Updated:</source>
-        <target>Updated:</target>
+        <source>Updated: </source>
+        <target>Updated: </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit
-        id="Use for hotels while travelling, so that the Agenda starts and ends at the correct location.">
-        <source>Use for hotels while travelling, so that the Agenda starts and ends at the correct
-          location.
-        </source>
-        <target>Use for hotels while travelling, so that the Agenda starts and ends at the correct
-          location.
-        </target>
-        <note>Explanation for what stays are compared to calendar events and routines. Can be
-          long-ish. (old key: StayEventDescription)
-        </note>
+      <trans-unit id="Use for hotels while travelling, so that the Agenda starts and ends at the correct location.">
+        <source>Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</source>
+        <target>Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</target>
+        <note>Explanation for what stays are compared to calendar events and routines. Can be long-ish. (old key: StayEventDescription)</note>
       </trans-unit>
       <trans-unit id="Valid">
         <source>Valid</source>
@@ -1472,9 +1633,7 @@
       <trans-unit id="Which would you like to delete">
         <source>Which would you like to delete</source>
         <target>Which would you like to delete</target>
-        <note>Question for which events in a recurrence to delete (options are typically
-          this/all/any from here)
-        </note>
+        <note>Question for which events in a recurrence to delete (options are typically this/all/any from here)</note>
       </trans-unit>
       <trans-unit id="Work">
         <source>Work</source>
@@ -1494,9 +1653,7 @@
       <trans-unit id="You might not make this transfer.">
         <source>You might not make this transfer.</source>
         <target>You might not make this transfer.</target>
-        <note>Alert if service running late/early, meaning that the user might not make the next
-          service.
-        </note>
+        <note>Alert if service running late/early, meaning that the user might not make the next service.</note>
       </trans-unit>
       <trans-unit id="Zoom in">
         <source>Zoom in</source>
@@ -1510,56 +1667,40 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en"
-    target-language="en">
+<file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="en">
     <header>
-      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode"
-        tool-version="8.2.1" />
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
     </header>
     <body>
       <trans-unit id="%1$@ early">
         <source>%1$@ early</source>
         <target>%1$@ early</target>
-        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min
-          early. This means #1 is replaced with something like '1 min'.
-        </note>
+        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early. This means #1 is replaced with something like '1 min'.</note>
       </trans-unit>
       <trans-unit id="%1$@ early (%2$@ service)">
         <source>%1$@ early (%2$@ service)</source>
         <target>%1$@ early (%2$@ service)</target>
-        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min
-          early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is
-          replaced with the original time, e.g., '1:10 pm').
-        </note>
+        <note>Format for a service's real-time indicator for a service which is early, e.g., '1 min early (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
       </trans-unit>
       <trans-unit id="%1$@ late">
         <source>%1$@ late</source>
         <target>%1$@ late</target>
-        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min
-          late. This means #1 is replaced with something like '1 min'
-        </note>
+        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late. This means #1 is replaced with something like '1 min'</note>
       </trans-unit>
       <trans-unit id="%1$@ late (%2$@ service)">
         <source>%1$@ late (%2$@ service)</source>
         <target>%1$@ late (%2$@ service)</target>
-        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min
-          late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is
-          replaced with the original time, e.g., '1:10 pm').
-        </note>
+        <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
       </trans-unit>
       <trans-unit id="%@ cycle friendly">
         <source>%@ cycle friendly</source>
         <target>%@ cycle friendly</target>
-        <note>Indicator for how cycle-friendly a cycling route is. Placeholder will get replaced
-          with '75%'.
-        </note>
+        <note>Indicator for how cycle-friendly a cycling route is. Placeholder will get replaced with '75%'.</note>
       </trans-unit>
       <trans-unit id="%@ stops">
         <source>%@ stops</source>
         <target>%@ stops</target>
-        <note>Number of stops before you get off a vehicle, if there are 2 stops or more, e.g., '10
-          stops'. (old key: Stops)
-        </note>
+        <note>Number of stops before you get off a vehicle, if there are 2 stops or more, e.g., '10 stops'. (old key: Stops)</note>
       </trans-unit>
       <trans-unit id="%@ to %@">
         <source>%@ to %@</source>
@@ -1574,9 +1715,7 @@
       <trans-unit id="%@ wheelchair friendly">
         <source>%@ wheelchair friendly</source>
         <target>%@ wheelchair friendly</target>
-        <note>Indicator for how wheelchair-friendly a wheeelchair route is. Placeholder will get
-          replaced with '75%'.
-        </note>
+        <note>Indicator for how wheelchair-friendly a wheeelchair route is. Placeholder will get replaced with '75%'.</note>
       </trans-unit>
       <trans-unit id="1 stop">
         <source>1 stop</source>
@@ -1602,8 +1741,7 @@
         <source>Arrive</source>
         <target>Arrive</target>
         <note>Prefix for selected 'arrive by' time
-          Single line instruction to arrive
-        </note>
+   Single line instruction to arrive</note>
       </trans-unit>
       <trans-unit id="Arrive at %@">
         <source>Arrive at %@</source>
@@ -1613,23 +1751,17 @@
       <trans-unit id="Arrive at %@ at %@">
         <source>Arrive at %@ at %@</source>
         <target>Arrive at %1$@ at %2$@</target>
-        <note>The first '%@' will be replaced with the place of arrival, the second with the time.
-          (old key: ArrivalLocationTime)
-        </note>
+        <note>The first '%@' will be replaced with the place of arrival, the second with the time. (old key: ArrivalLocationTime)</note>
       </trans-unit>
       <trans-unit id="Arrive in">
         <source>Arrive in</source>
         <target>Arrive in</target>
-        <note>Title for when you'll arrive when on a trip. Countdown to arrival will be displayed
-          below.
-        </note>
+        <note>Title for when you'll arrive when on a trip. Countdown to arrival will be displayed below.</note>
       </trans-unit>
       <trans-unit id="At %@">
         <source>At %@</source>
         <target>At %@</target>
-        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g.,
-          waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)
-        </note>
+        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)</note>
       </trans-unit>
       <trans-unit id="Book with FlitWays">
         <source>Book with FlitWays</source>
@@ -1659,9 +1791,7 @@
       <trans-unit id="Connect to Internet to get trips">
         <source>Connect to Internet to get trips</source>
         <target>Connect to Internet to get trips</target>
-        <note>Single line instruction if device is offline and user needs to reconnect to internet
-          to calculate trips
-        </note>
+        <note>Single line instruction if device is offline and user needs to reconnect to internet to calculate trips</note>
       </trans-unit>
       <trans-unit id="Could not find transit stop.">
         <source>Could not find transit stop.</source>
@@ -1726,9 +1856,7 @@
       <trans-unit id="I'll arrive at %@ at %@">
         <source>I'll arrive at %@ at %@</source>
         <target>I'll arrive at %1$@ at %2$@</target>
-        <note>First '%@' will be replaced with destination location, second with arrival at that
-          location. (old key: MessageArrivalTime)
-        </note>
+        <note>First '%@' will be replaced with destination location, second with arrival at that location. (old key: MessageArrivalTime)</note>
       </trans-unit>
       <trans-unit id="I'll take a %@ at %@ from %@.">
         <source>I'll take a %@ at %@ from %@.</source>
@@ -1749,8 +1877,7 @@
         <source>Leave</source>
         <target>Leave</target>
         <note>Prefix for selected 'leave after' time
-          Single line instruction to leave
-        </note>
+   Single line instruction to leave</note>
       </trans-unit>
       <trans-unit id="Leave %@">
         <source>Leave %@</source>
@@ -1850,8 +1977,7 @@
       <trans-unit id="Search for this stop again or try again later..">
         <source>Search for this stop again or try again later..</source>
         <target>Search for this stop again or try again later.</target>
-        <note>Error recovery suggestion for when when server could not find a given transit stop.
-        </note>
+        <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
       </trans-unit>
       <trans-unit id="Send SMS">
         <source>Send SMS</source>
@@ -1871,9 +1997,7 @@
       <trans-unit id="To %@">
         <source>To %@</source>
         <target>To %@</target>
-        <note>Destination location. For trip titles, e.g., 'To work'. (old key:
-          PrimaryLocationEnd)
-        </note>
+        <note>Destination location. For trip titles, e.g., 'To work'. (old key: PrimaryLocationEnd)</note>
       </trans-unit>
       <trans-unit id="Trip">
         <source>Trip</source>
@@ -1913,9 +2037,7 @@
       <trans-unit id="for %@">
         <source>for %@</source>
         <target>for %@</target>
-        <note>Text indiction for how long a segment might take, where '%@' will be replaced with a
-          duration. E.g., the instruction 'Take bus' might have this next to it as 'for 10 minutes'.
-        </note>
+        <note>Text indiction for how long a segment might take, where '%@' will be replaced with a duration. E.g., the instruction 'Take bus' might have this next to it as 'for 10 minutes'.</note>
       </trans-unit>
       <trans-unit id="goCatch a Taxi">
         <source>goCatch a Taxi</source>
@@ -1929,11 +2051,9 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en"
-    target-language="en">
+  <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="en">
     <header>
-      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode"
-        tool-version="8.2.1" />
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" />
     </header>
     <body>
       <trans-unit id="%@'s">
@@ -1959,18 +2079,11 @@
       <trans-unit id="'%@' not found.">
         <source>'%@' not found.</source>
         <target>'%@' not found.</target>
-        <note>Error when location search for %input was not successful. (old key:
-          RequestErrorFormat)
-        </note>
+        <note>Error when location search for %input was not successful. (old key: RequestErrorFormat)</note>
       </trans-unit>
-      <trans-unit
-        id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
-        <source>Access to this feature has been restricted for your device. Please check the
-          Settings app &gt; General &gt; Restrictions or ask your device provider.
-        </source>
-        <target>Access to this feature has been restricted for your device. Please check the
-          Settings app &gt; General &gt; Restrictions or ask your device provider.
-        </target>
+      <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
+        <source>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</source>
+        <target>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</target>
         <note>Authorization restricted alert message</note>
       </trans-unit>
       <trans-unit id="Action">
@@ -2061,23 +2174,17 @@
       <trans-unit id="Confirm">
         <source>Confirm</source>
         <target>Confirm</target>
-        <note>Title on the button that asks users to confirm if they want to proceed with booking
-        </note>
+        <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
       </trans-unit>
       <trans-unit id="Could not determine your current location.">
         <source>Could not determine your current location.</source>
         <target>Could not determine your current location.</target>
         <note>Error title when GPS failed.</note>
       </trans-unit>
-      <trans-unit
-        id="Could not download supported regions from TripGo's server. Please try again later.">
-        <source>Could not download supported regions from TripGo's server. Please try again later.
-        </source>
-        <target>Could not download supported regions from TripGo's server. Please try again later.
-        </target>
-        <note>Could not download supported regions warning. (old key:
-          CouldNotDownloadSupportedRegions)
-        </note>
+      <trans-unit id="Could not download supported regions from TripGo's server. Please try again later.">
+        <source>Could not download supported regions from TripGo's server. Please try again later.</source>
+        <target>Could not download supported regions from TripGo's server. Please try again later.</target>
+        <note>Could not download supported regions warning. (old key: CouldNotDownloadSupportedRegions)</note>
       </trans-unit>
       <trans-unit id="Creating account">
         <source>Creating account</source>
@@ -2128,15 +2235,12 @@
         <source>Email</source>
         <target>Email</target>
         <note>Email address where receipt is sent
-          Email used as Facebook username
-        </note>
+   Email used as Facebook username</note>
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
         <target>Every %@</target>
-        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every
-          Monday'. (old key: EveryDayFormat)
-        </note>
+        <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'. (old key: EveryDayFormat)</note>
       </trans-unit>
       <trans-unit id="Everyday">
         <source>Everyday</source>
@@ -2152,8 +2256,7 @@
         <source>For when to leave</source>
         <target>For when to leave</target>
         <note>Option that allows users to indicate whether reminder is needed
-          Reminder to leave preference
-        </note>
+   Reminder to leave preference</note>
       </trans-unit>
       <trans-unit id="Free">
         <source>Free</source>
@@ -2215,14 +2318,9 @@
         <target>Location</target>
         <note>Title for unnamed location</note>
       </trans-unit>
-      <trans-unit
-        id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
-        <source>Location services are required to use this feature. Please go to the Settings app
-          &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.
-        </source>
-        <target>Location services are required to use this feature. Please go to the Settings app
-          &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.
-        </target>
+      <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
+        <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
+        <target>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</target>
         <note>Location iOS6+ authorisation needed text</note>
       </trans-unit>
       <trans-unit id="Making payment">
@@ -2234,8 +2332,7 @@
         <source>Minutes before trip</source>
         <target>Minutes before trip</target>
         <note>Option that allows users to indicate how eary to show trip reminder
-          Reminder to leave preference
-        </note>
+   Reminder to leave preference</note>
       </trans-unit>
       <trans-unit id="More results">
         <source>More results</source>
@@ -2256,17 +2353,14 @@
         <source>Name</source>
         <target>Name</target>
         <note>Name to which receipt is sent
-          Name used in Facebook
-          Sort by name
-          Title for name of something (or someone)
-        </note>
+   Name used in Facebook
+   Sort by name
+   Title for name of something (or someone)</note>
       </trans-unit>
       <trans-unit id="Never">
         <source>Never</source>
         <target>Never</target>
-        <note>Response to question whether user wants to report a problem when taking a screenshot.
-          Also used in context of repetitions (especially recurring events).
-        </note>
+        <note>Response to question whether user wants to report a problem when taking a screenshot. Also used in context of repetitions (especially recurring events).</note>
       </trans-unit>
       <trans-unit id="New account">
         <source>New account</source>
@@ -2292,9 +2386,8 @@
         <source>OK</source>
         <target>OK</target>
         <note>Authorisation ok button
-          Default title for button that dismisses alert view
-          Error alert cancel
-        </note>
+   Default title for button that dismisses alert view
+   Error alert cancel</note>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
@@ -2339,8 +2432,7 @@
       <trans-unit id="Press 'search' for more...">
         <source>Press 'search' for more...</source>
         <target>Press 'search' for more...</target>
-        <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.
-        </note>
+        <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
       </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
@@ -2356,8 +2448,7 @@
         <source>Reminder</source>
         <target>Reminder</target>
         <note>Action title to add/remove reminder
-          Section title at the end of a booking that allows users to set reminders
-        </note>
+   Section title at the end of a booking that allows users to set reminders</note>
       </trans-unit>
       <trans-unit id="Repeats daily">
         <source>Repeats daily</source>
@@ -2412,8 +2503,7 @@
       <trans-unit id="Searching for '%@'...">
         <source>Searching for '%@'...</source>
         <target>Searching for '%@'...</target>
-        <note>Placeholder text while waiting for server response when searching for a location.
-        </note>
+        <note>Placeholder text while waiting for server response when searching for a location.</note>
       </trans-unit>
       <trans-unit id="Settings">
         <source>Settings</source>
@@ -2449,8 +2539,7 @@
         <source>Signing out</source>
         <target>Signing out</target>
         <note>Message that indicates the app has successfully completed signing out
-          Message that indicates the app is signing users out of their accounts
-        </note>
+   Message that indicates the app is signing users out of their accounts</note>
       </trans-unit>
       <trans-unit id="Starting %@">
         <source>Starting %@</source>
@@ -2465,8 +2554,7 @@
       <trans-unit id="The app will now sign out">
         <source>The app will now sign out</source>
         <target>The app will now sign out</target>
-        <note>Message that indicates the app is about to sign users out of their user accounts
-        </note>
+        <note>Message that indicates the app is about to sign users out of their user accounts</note>
       </trans-unit>
       <trans-unit id="Tracking - off">
         <source>Tracking - off</source>
@@ -2501,9 +2589,7 @@
       <trans-unit id="Values missing from required fields.">
         <source>Values missing from required fields.</source>
         <target>Values missing from required fields.</target>
-        <note>Message that informs users that some values are missing from the required fields in a
-          booking form.
-        </note>
+        <note>Message that informs users that some values are missing from the required fields in a booking form.</note>
       </trans-unit>
       <trans-unit id="Weekdays">
         <source>Weekdays</source>
@@ -2528,34 +2614,21 @@
       <trans-unit id="You need to agree to the booking terms and conditions.">
         <source>You need to agree to the booking terms and conditions.</source>
         <target>You need to agree to the booking terms and conditions.</target>
-        <note>Message that informs users that T&amp;C must be agreed before booking can be made.
-        </note>
+        <note>Message that informs users that T&amp;C must be agreed before booking can be made.</note>
       </trans-unit>
       <trans-unit id="You need to agree to the insurance terms and conditions.">
         <source>You need to agree to the insurance terms and conditions.</source>
         <target>You need to agree to the insurance terms and conditions.</target>
-        <note>Message that informs users that T&amp;C for insurance must be agreed before booking
-          can be made.
-        </note>
+        <note>Message that informs users that T&amp;C for insurance must be agreed before booking can be made.</note>
       </trans-unit>
-      <trans-unit
-        id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
-        <source>You previously denied this app access to your calendar. Please go to the Settings
-          app &gt; Privacy &gt; Calendar and authorise this app to use this feature.
-        </source>
-        <target>You previously denied this app access to your calendar. Please go to the Settings
-          app &gt; Privacy &gt; Calendar and authorise this app to use this feature.
-        </target>
+      <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
+        <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
+        <target>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</target>
         <note>Calendar authorisation needed text</note>
       </trans-unit>
-      <trans-unit
-        id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
-        <source>You previously denied this app access to your contacts. Please go to the Settings
-          app &gt; Privacy &gt; Contacts and authorise this app to use this feature.
-        </source>
-        <target>You previously denied this app access to your contacts. Please go to the Settings
-          app &gt; Privacy &gt; Contacts and authorise this app to use this feature.
-        </target>
+      <trans-unit id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
+        <source>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</source>
+        <target>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</target>
         <note>Contacts authorisation needed text</note>
       </trans-unit>
       <trans-unit id="all-day">
@@ -2600,4 +2673,4 @@
       </trans-unit>
     </body>
   </file>
-</xliff>
+  </xliff>
