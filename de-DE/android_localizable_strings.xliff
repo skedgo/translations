@@ -47,11 +47,9 @@
         <target xml:lang="de">Alle Alarme</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible" approved="yes">
-        <source>All your calendars are invisible, please switch them on in native calendar app or
-          account settings
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
-        <target xml:lang="de">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der
-          Kalender-App oder den Einstellungen ein
+        <target xml:lang="de">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein
         </target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error" approved="yes">
@@ -69,8 +67,7 @@
       <trans-unit id="body_exclude_this_event_from_route">
         <source>This event will no longer have trips to or from it. The event will still be shown
         </source>
-        <target xml:lang="de" state="translated">Routen werden nicht mehr zu diesem Ereignis
-          geplant, aber das Ereignis wird weiterhin angezeigt
+        <target xml:lang="de" state="translated">Routen werden nicht mehr zu diesem Ereignis geplant, aber das Ereignis wird weiterhin angezeigt
         </target>
         <alt-trans>
           <target xml:lang="de">Routen werden nicht mehr zu diesem Ereignis geplant, aber das Ereignis wird weiterhin angezeigt
@@ -83,8 +80,7 @@
       </trans-unit>
       <trans-unit id="body_exclude_related_event_from_route">
         <source>The event related to the trip will be excluded. It will still be shown</source>
-        <target xml:lang="de" state="translated">Das zum Trip zugehörige Ereignis wird
-          ausgeschlossen. Es wird weiter angezeigt</target>
+        <target xml:lang="de" state="translated">Das zum Trip zugehörige Ereignis wird ausgeschlossen. Es wird weiter angezeigt</target>
         <alt-trans>
           <target xml:lang="de">Das zum Trip zugehörige Ereignis wird ausgeschlossen. Es wird weiter angezeigt</target>
         </alt-trans>
@@ -99,8 +95,7 @@
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
-        <target xml:lang="de" state="translated">Erinnerungen für Ereignisse in der Vergangenheit
-          können nicht hinzufügen werden</target>
+        <target xml:lang="de" state="translated">Erinnerungen für Ereignisse in der Vergangenheit können nicht hinzufügen werden</target>
         <alt-trans>
           <target xml:lang="de">Erinnerungen für Ereignisse in der Vergangenheit können nicht hinzufügen werden</target>
         </alt-trans>
@@ -183,8 +178,7 @@
       <trans-unit id="enable_calendar_in_tripgo_settings" approved="yes">
         <source>All your calendars are disabled in TripGo, please enable them in Settings section
         </source>
-        <target xml:lang="de">Alle deine Kalender sind in TripGo deaktiviert. Bitte aktiviere sie in
-          den Einstellungen.
+        <target xml:lang="de">Alle deine Kalender sind in TripGo deaktiviert. Bitte aktiviere sie in den Einstellungen.
         </target>
         <alt-trans>
           <target xml:lang="de">Alle deine Kalender sind in TripGo deaktiviert. Bitte aktiviere sie in den Einstellungen.
@@ -192,11 +186,9 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
-          the use of this app.
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
-        <target xml:lang="de" state="translated">Wir haben unsere EULA aktualisiert. Um die App zu
-          verwenden, muss die neue EULA akzeptiert werden.
+        <target xml:lang="de" state="translated">Wir haben unsere EULA aktualisiert. Um die App zu verwenden, muss die neue EULA akzeptiert werden.
         </target>
       </trans-unit>
       <trans-unit id="edit_favourite" approved="yes">
@@ -237,8 +229,7 @@
       </trans-unit>
       <trans-unit id="event_update_warning">
         <source>Event updated, it may take a while to see the change</source>
-        <target xml:lang="de" state="translated">Ereignis aktualisiert. Es kann eine Weile dauern
-          bis die Änderung angezeigt wird.</target>
+        <target xml:lang="de" state="translated">Ereignis aktualisiert. Es kann eine Weile dauern bis die Änderung angezeigt wird.</target>
         <alt-trans>
           <target xml:lang="de">Ereignis aktualisiert. Es kann eine Weile dauern bis die Änderung angezeigt wird.</target>
         </alt-trans>
@@ -289,8 +280,7 @@
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target xml:lang="de" state="translated">Informationen über Ermässigungen nach
-          Verfügbarkeit.</target>
+        <target xml:lang="de" state="translated">Informationen über Ermässigungen nach Verfügbarkeit.</target>
         <alt-trans>
           <target xml:lang="de">Informationen über Ermässigungen nach Verfügbarkeit.</target>
         </alt-trans>
@@ -325,8 +315,7 @@
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target xml:lang="de" state="translated">Ereignisse aus diesen Kalendern werden genutzt um
-          deinen Tag zu planen</target>
+        <target xml:lang="de" state="translated">Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
         <alt-trans>
           <target xml:lang="de">Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
         </alt-trans>
@@ -357,8 +346,7 @@
       </trans-unit>
       <trans-unit id="location_save_by_gps">
         <source>"Cannot find address, location will be saved by GPS coordinates"</source>
-        <target xml:lang="de" state="translated">"Kann Adresse nicht finden, Ort wird laut GPS-Daten
-          gespeichert"</target>
+        <target xml:lang="de" state="translated">"Kann Adresse nicht finden, Ort wird laut GPS-Daten gespeichert"</target>
         <alt-trans>
           <target xml:lang="de">"Kann Adresse nicht finden, Ort wird laut GPS-Daten gespeichert"</target>
         </alt-trans>
@@ -389,8 +377,7 @@
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target xml:lang="de" state="translated">Es ist ein Fehler aufgetreten und wir wurden
-          benachrichtigt. Bitte versuche es noch einmal.</target>
+        <target xml:lang="de" state="translated">Es ist ein Fehler aufgetreten und wir wurden benachrichtigt. Bitte versuche es noch einmal.</target>
         <alt-trans>
           <target xml:lang="de">Es ist ein Fehler aufgetreten und wir wurden benachrichtigt. Bitte versuche es noch einmal.</target>
         </alt-trans>
@@ -400,11 +387,9 @@
         <target xml:lang="de" state="translated">Kein Google Play!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
-          continue using the app
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
         </source>
-        <target xml:lang="de" state="translated">Diese App benötigt Google Play. \n\n Bitte
-          installiere es um die App weiter benutzen zu können
+        <target xml:lang="de" state="translated">Diese App benötigt Google Play. \n\n Bitte installiere es um die App weiter benutzen zu können
         </target>
       </trans-unit>
       <trans-unit id="priority_convenience_subtext">
@@ -433,16 +418,14 @@
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target xml:lang="de" state="translated">Dieser Ort ist leider außerhalb von TripGos
-          Reichweite!</target>
+        <target xml:lang="de" state="translated">Dieser Ort ist leider außerhalb von TripGos Reichweite!</target>
         <alt-trans>
           <target xml:lang="de">Dieser Ort ist leider außerhalb von TripGos Reichweite!</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="repeat_end_date_in_past">
         <source>Repetition end date is in the past</source>
-        <target xml:lang="de" state="translated">Enddatum der Wiederholung ist in der
-          Vergangenheit</target>
+        <target xml:lang="de" state="translated">Enddatum der Wiederholung ist in der Vergangenheit</target>
         <alt-trans>
           <target xml:lang="de">Enddatum der Wiederholung ist in der Vergangenheit</target>
         </alt-trans>
@@ -492,13 +475,9 @@
         <target xml:lang="de" state="translated">Speichern</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in
-          your calendar (e.g. work). They are important for the Agenda to get you to the right
-          location at the right time
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
-        <target xml:lang="de" state="translated">Routinen sind Teil deines Tagesablaufs aber nicht
-          Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für
-          die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.
+        <target xml:lang="de" state="translated">Routinen sind Teil deines Tagesablaufs aber nicht Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.
         </target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
@@ -534,11 +513,9 @@
         <target xml:lang="de" state="translated">Setze Ort</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not
-          stored on any server
+        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </source>
-        <target xml:lang="de" state="translated">Benutze deine Kalenderereignisse für
-          Ortsvorschläge. Diese Information wird nicht auf einem Server gespeichert.
+        <target xml:lang="de" state="translated">Benutze deine Kalenderereignisse für Ortsvorschläge. Diese Information wird nicht auf einem Server gespeichert.
         </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
@@ -547,24 +524,21 @@
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target xml:lang="de" state="translated">Alarm vor jedem öffentlichen Verkehrsmittel auf
-          deinem Trip anzeigen</target>
+        <target xml:lang="de" state="translated">Alarm vor jedem öffentlichen Verkehrsmittel auf deinem Trip anzeigen</target>
         <alt-trans>
           <target xml:lang="de">Alarm vor jedem öffentlichen Verkehrsmittel auf deinem Trip anzeigen</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target xml:lang="de" state="translated">Service-Alarms zeigen die deine nächsten Trips
-          beeinflussen</target>
+        <target xml:lang="de" state="translated">Service-Alarms zeigen die deine nächsten Trips beeinflussen</target>
         <alt-trans>
           <target xml:lang="de">Service-Alarms zeigen die deine nächsten Trips beeinflussen</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target xml:lang="de" state="translated">Alarm gegen Ende jedes öffentlichen Verkehrsmittels
-          auf deinem Trip anzeigen</target>
+        <target xml:lang="de" state="translated">Alarm gegen Ende jedes öffentlichen Verkehrsmittels auf deinem Trip anzeigen</target>
         <alt-trans>
           <target xml:lang="de">Alarm gegen Ende jedes öffentlichen Verkehrsmittels auf deinem Trip anzeigen</target>
         </alt-trans>
@@ -574,11 +548,9 @@
         <target xml:lang="de" state="translated">Bewerte die App!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
-          background)
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
         </source>
-        <target xml:lang="de" state="translated">TripGo erlauben, deinen Standort anonym zu nutzen
-          wenn du es benutzt (NICHT im Hintergrund)
+        <target xml:lang="de" state="translated">TripGo erlauben, deinen Standort anonym zu nutzen wenn du es benutzt (NICHT im Hintergrund)
         </target>
       </trans-unit>
       <trans-unit id="settings_summary_distance_units">
@@ -619,24 +591,20 @@
       </trans-unit>
       <trans-unit id="settings_summary_server">
         <source>Server to use. Note this will override *ALL* server calls!</source>
-        <target xml:lang="de" state="translated">Server; diese Einstellung überschreibt *ALLE*
-          Server-Aufrufe.</target>
+        <target xml:lang="de" state="translated">Server; diese Einstellung überschreibt *ALLE* Server-Aufrufe.</target>
         <alt-trans>
           <target xml:lang="de">Server; diese Einstellung überschreibt *ALLE* Server-Aufrufe.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored
-          on any server
+        <source>Use your contact addresses as location suggestions. This information is not stored on any server
         </source>
-        <target xml:lang="de" state="translated">Benutze deine Kontaktadressen als Ortsvorschläge.
-          Diese Information wird nicht auf einem Server gespeichert.
+        <target xml:lang="de" state="translated">Benutze deine Kontaktadressen als Ortsvorschläge. Diese Information wird nicht auf einem Server gespeichert.
         </target>
       </trans-unit>
       <trans-unit id="settings_summary_trip_preferences">
         <source>Influence trip results by setting what's most important to you</source>
-        <target xml:lang="de" state="translated">Beeinflusse deine Trip-Ergebnisse indem du eingibst
-          was dir wichtig ist.</target>
+        <target xml:lang="de" state="translated">Beeinflusse deine Trip-Ergebnisse indem du eingibst was dir wichtig ist.</target>
         <alt-trans>
           <target xml:lang="de">Beeinflusse deine Trip-Ergebnisse indem du eingibst was dir wichtig ist.</target>
         </alt-trans>
@@ -746,8 +714,7 @@
       </trans-unit>
       <trans-unit id="walkthrough_1">
         <source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-        <target xml:lang="de" state="translated">TripGo hilft dir, den besten Weg von A nach B zu
-          finden - egal welches Verkehrsmittel.</target>
+        <target xml:lang="de" state="translated">TripGo hilft dir, den besten Weg von A nach B zu finden - egal welches Verkehrsmittel.</target>
         <alt-trans>
           <target xml:lang="de">TripGo hilft dir, den besten Weg von A nach B zu finden - egal welches Verkehrsmittel.</target>
         </alt-trans>
@@ -755,8 +722,7 @@
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
         </source>
-        <target xml:lang="de" state="translated">Warte auf Signal; falls erfolglos, versuche GPS
-          aus- und wieder einzuschalten...
+        <target xml:lang="de" state="translated">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...
         </target>
         <alt-trans>
           <target xml:lang="de">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...
@@ -805,8 +771,7 @@
       </trans-unit>
       <trans-unit id="walkthrough_4">
         <source>Search routes directly right from Google search bar without opening TripGo.</source>
-        <target xml:lang="de" state="translated">Plane Routen direkt in der Google-Suchleiste, ohne
-          TripGo zu öffnen.</target>
+        <target xml:lang="de" state="translated">Plane Routen direkt in der Google-Suchleiste, ohne TripGo zu öffnen.</target>
         <alt-trans>
           <target xml:lang="de">Plane Routen direkt in der Google-Suchleiste, ohne TripGo zu öffnen.</target>
         </alt-trans>
@@ -816,11 +781,9 @@
         <target xml:lang="de" state="translated">Gestern</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
-          leave.
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
         </source>
-        <target xml:lang="de" state="translated">Komme immer pünktlich. Die Agenda plant für dich im
-          Voraus und gibt dir Bescheid wenn es Zeit ist zu gehen.
+        <target xml:lang="de" state="translated">Komme immer pünktlich. Die Agenda plant für dich im Voraus und gibt dir Bescheid wenn es Zeit ist zu gehen.
         </target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
@@ -847,15 +810,13 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="de" state="translated">Für Routen verwenden</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in
-          trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="de" state="translated">%s Parkplätze verfügbar</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
-          available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">

@@ -47,8 +47,7 @@
         <target xml:lang="da" state="translated">Alle indberetninger</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or
-          account settings
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
         <target xml:lang="da" state="translated">Alle dine kalendere er usynlige, skift dem i din native kalender app eller konto indstillinger
         </target>
@@ -154,8 +153,7 @@
         </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
-          the use of this app.
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
         <target xml:lang="da" state="translated">Vores Slutbruger licensaftalen er ændret. Du skal acceptere det før fortsat brug af denne app.
         </target>
@@ -341,8 +339,7 @@
         <target xml:lang="da" state="translated">Ingen Google Play Services!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
-          continue using the app
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
         </source>
         <target xml:lang="da" state="translated">Denne app kræver Google spille tjenester er installeret.\n\nVær venlig at downloade den for fortsat benyttelse af denne app
         </target>
@@ -424,9 +421,7 @@
         <target xml:lang="da" state="translated">Gem</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in
-          your calendar (e.g. work). They are important for the Agenda to get you to the right
-          location at the right time
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
         <target xml:lang="da" state="translated">Rutiner er en del af din daglige bevægelighed, men de er ikke begivenheder, som du ønsker i din kalender (fx arbejde). De er vigtige for dagsordenen til at få dig det rigtige sted hen, på det rigtige tidspunkt
         </target>
@@ -464,8 +459,7 @@
         <target xml:lang="da" state="translated">Angiv placering</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not
-          stored on any server
+        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="da" state="translated">Bruge dine kommende kalenderbegivenheder som beliggenheds forslag. Disse oplysninger gemmes ikke på nogen server
         </target>
@@ -491,8 +485,7 @@
         <target xml:lang="da" state="translated">Bedøm app'en i butikken!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
-          background)
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
         </source>
         <target xml:lang="da" state="translated">Tillad TripGo anonymt at spore din placering, når du bruger det (IKKE i baggrunden)
         </target>
@@ -538,8 +531,7 @@
         <target xml:lang="da" state="translated">Server der skal at bruges. Bemærk, dette vil tilsidesætte * ALLE * server opfordringer!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored
-          on any server
+        <source>Use your contact addresses as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="da" state="translated">Bruge dine kontaktpersoners adresser som beliggenheds forslag. Disse oplysninger gemmes ikke på nogen server
         </target>
@@ -707,8 +699,7 @@
         <target xml:lang="da" state="translated">Igår</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
-          leave.
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
         </source>
         <target xml:lang="da" state="translated">Vær aldrig forsent. Dagsorden planer forud for dig og lader dig vide, hvornår du skal tage afsted.
         </target>
@@ -737,15 +728,13 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="da" state="translated">Medtag i ture</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in
-          trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="da" state="translated">%s pladser til rådighed</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
-          available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">

@@ -47,11 +47,9 @@
         <target xml:lang="et" state="needs-translation">All Alerts</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or
-          account settings
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
-        <target xml:lang="et" state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or
-          account settings
+        <target xml:lang="et" state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or account settings
         </target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
@@ -155,11 +153,9 @@
         </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
-          the use of this app.
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
-        <target xml:lang="et" state="needs-translation">Our End User Licence Agreement has changed. You must agree to it before continuing
-          the use of this app.
+        <target xml:lang="et" state="needs-translation">Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </target>
       </trans-unit>
       <trans-unit id="edit_favourite">
@@ -343,11 +339,9 @@
         <target xml:lang="et" state="needs-translation">No Google Play Services!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
-          continue using the app
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
         </source>
-        <target xml:lang="et" state="needs-translation">This app requires Google Play Services to be installed.\n\nPlease download it to
-          continue using the app
+        <target xml:lang="et" state="needs-translation">This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
         </target>
       </trans-unit>
       <trans-unit id="priority_convenience_subtext">
@@ -427,13 +421,9 @@
         <target xml:lang="et" state="needs-translation">Save</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in
-          your calendar (e.g. work). They are important for the Agenda to get you to the right
-          location at the right time
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
-        <target xml:lang="et" state="needs-translation">Routines are post of your daily movement, but they aren't events that you want in
-          your calendar (e.g. work). They are important for the Agenda to get you to the right
-          location at the right time
+        <target xml:lang="et" state="needs-translation">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
@@ -469,11 +459,9 @@
         <target xml:lang="et" state="needs-translation">Set Location</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not
-          stored on any server
+        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </source>
-        <target xml:lang="et" state="needs-translation">Use your upcoming calendar events as location suggestions. This information is not
-          stored on any server
+        <target xml:lang="et" state="needs-translation">Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
@@ -497,11 +485,9 @@
         <target xml:lang="et" state="needs-translation">Rate the app in the store!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
-          background)
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
         </source>
-        <target xml:lang="et" state="needs-translation">Allow TripGo to anonymously track your location when you use it (NOT in the
-          background)
+        <target xml:lang="et" state="needs-translation">Allow TripGo to anonymously track your location when you use it (NOT in the background)
         </target>
       </trans-unit>
       <trans-unit id="settings_summary_distance_units">
@@ -545,11 +531,9 @@
         <target xml:lang="et" state="needs-translation">Server to use. Note this will override *ALL* server calls!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored
-          on any server
+        <source>Use your contact addresses as location suggestions. This information is not stored on any server
         </source>
-        <target xml:lang="et" state="needs-translation">Use your contact addresses as location suggestions. This information is not stored
-          on any server
+        <target xml:lang="et" state="needs-translation">Use your contact addresses as location suggestions. This information is not stored on any server
         </target>
       </trans-unit>
       <trans-unit id="settings_summary_trip_preferences">
@@ -715,11 +699,9 @@
         <target xml:lang="et" state="needs-translation">Yesterday</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
-          leave.
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
         </source>
-        <target xml:lang="et" state="needs-translation">Never run late. Agenda plans ahead for you and let's you know when you need to
-          leave.
+        <target xml:lang="et" state="needs-translation">Never run late. Agenda plans ahead for you and let's you know when you need to leave.
         </target>
       </trans-unit>
       <trans-unit id="walkthrough_3">
@@ -746,15 +728,13 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="et" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in
-          trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="et" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
-          available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">

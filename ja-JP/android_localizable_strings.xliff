@@ -47,8 +47,7 @@
         <target xml:lang="ja" state="translated">すべてのアラート</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or
-          account settings
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
         <target xml:lang="ja" state="translated">All your calendars are invisible, please switch them on in native calendar app or account settings
         </target>
@@ -154,8 +153,7 @@
         </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
-          the use of this app.
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
         <target xml:lang="ja" state="translated">使用許諾契約書が変更されました。このアプリの使用を続行する前に、それに同意する必要があります。
         </target>
@@ -244,8 +242,7 @@
         <source>Get On</source>
         <target xml:lang="ja" state="translated">乗車</target>
         <alt-trans>
-          <target xml:lang="ja">乗車
-</target>
+          <target xml:lang="ja">乗車</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
@@ -345,8 +342,7 @@
         <target xml:lang="ja" state="translated">Google Play サービスはありません!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
-          continue using the app
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
         </source>
         <target xml:lang="ja" state="translated">このアプリで Google Playサービスを再生するのに必要な installed.\n\nPlease をダウンロードしてアプリを続行してください
         </target>
@@ -428,9 +424,7 @@
         <target xml:lang="ja" state="translated">保存</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in
-          your calendar (e.g. work). They are important for the Agenda to get you to the right
-          location at the right time
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
         <target xml:lang="ja" state="translated">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </target>
@@ -468,8 +462,7 @@
         <target xml:lang="ja" state="translated">場所の設定</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not
-          stored on any server
+        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="ja" state="translated">場所の候補として予定カレンダーのイベントを使用します。この情報は、任意のサーバーに保存されていません。
         </target>
@@ -495,8 +488,7 @@
         <target xml:lang="ja" state="translated">ストアでアプリを評価!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
-          background)
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
         </source>
         <target xml:lang="ja" state="translated">匿名で使用しない場合、あなたの位置を追跡する TripGo を許可します。（バック グラウンドで)
         </target>
@@ -542,8 +534,7 @@
         <target xml:lang="ja" state="translated">使用するサーバーで上書きされます。注意してください * すべて * サーバーを呼び出す!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored
-          on any server
+        <source>Use your contact addresses as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="ja" state="translated">場所の候補として、連絡先のアドレスを使用します。この情報は、任意のサーバーに保存されていません。
         </target>
@@ -711,8 +702,7 @@
         <target xml:lang="ja" state="translated">昨日</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
-          leave.
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
         </source>
         <target xml:lang="ja" state="translated">あなたの日程表計画が後半は実行されません。出発時間を確認してください。
         </target>
@@ -748,8 +738,7 @@
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="ja" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
-          available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">

@@ -47,8 +47,7 @@
         <target xml:lang="it" state="translated">Tutti avvisi</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or
-          account settings
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
         <target xml:lang="it" state="translated">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del conto
         </target>
@@ -157,8 +156,7 @@
         </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
-          the use of this app.
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
         <target xml:lang="it" state="translated">Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </target>
@@ -344,8 +342,7 @@
         <target xml:lang="it" state="translated">No servizi di Google Play!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
-          continue using the app
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
         </source>
         <target xml:lang="it" state="translated">Questa applicazione richiede di installare i servizi di Google Play.\n\nSi prega di scaricarlo per continuare ad utilizzare l'applicazione
         </target>
@@ -427,9 +424,7 @@
         <target xml:lang="it" state="translated">Salva</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in
-          your calendar (e.g. work). They are important for the Agenda to get you to the right
-          location at the right time
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
         <target xml:lang="it" state="translated">Le routine sono la maggior parte del vostro movimento quotidiano, ma non sono gli eventi che desideri nel tuo calendario (per esempio il lavoro). Sono importanti per l'agenda per portarti nel posto giusto al momento giusto
         </target>
@@ -467,8 +462,7 @@
         <target xml:lang="it" state="translated">Imposta posizione</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not
-          stored on any server
+        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="it" state="translated">Usa i tuoi prossimi eventi del calendario come suggerimenti per la posizione. Questa informazione non è memorizzata su qualsiasi server
         </target>
@@ -494,8 +488,7 @@
         <target xml:lang="it" state="translated">Valutare le app nel negozio!</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
-          background)
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
         </source>
         <target xml:lang="it" state="translated">Consenti TripGo monitorare anonimo vostra posizione quando lo usi (NON in sottofondo)
         </target>
@@ -541,8 +534,7 @@
         <target xml:lang="it" state="translated">Server per l'utilizzo. Nota questo sovrascriverà * TUTTE * chiamate al server!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored
-          on any server
+        <source>Use your contact addresses as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="it" state="translated">Usa i tuoi indirizzi di contatto come suggerimenti per la posizione. Queste informazioni non sono memorizzate su qualsiasi server
         </target>
@@ -710,8 +702,7 @@
         <target xml:lang="it" state="translated">Ieri</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
-          leave.
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
         </source>
         <target xml:lang="it" state="translated">Non essere mai in ritardo. Agenda prevede in anticipo per te e ti fa sapere quando è l'ora di partire.
         </target>
@@ -740,15 +731,13 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="it" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in
-          trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="it" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
-          available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">

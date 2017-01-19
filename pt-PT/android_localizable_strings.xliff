@@ -47,8 +47,7 @@
         <target xml:lang="pt-PT" state="translated">AlTodos os alertas</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or
-          account settings
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
         <target xml:lang="pt-PT" state="translated">Todos os seus calendários estão invisíveis, porfavor ligue-os no calendário nativo ou configurações da conta
         </target>
@@ -154,8 +153,7 @@
         </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing
-          the use of this app.
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
         <target xml:lang="pt-PT" state="translated">Nosso Acordo de Licença do Utilizador Final mudou. Voce precisa concordar com o acordo bantes de continuar usando ess aplicativo.
         </target>
@@ -341,8 +339,7 @@
         <target xml:lang="pt-PT" state="translated">Sem serviços de Google Play!</target>
       </trans-unit>
       <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to
-          continue using the app
+        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
         </source>
         <target xml:lang="pt-PT" state="translated">este aplicativo requer a instalação de serviços de Google Play.\n\nPorfavor baixe isto e continue usando o applicativo
         </target>
@@ -424,9 +421,7 @@
         <target xml:lang="pt-PT" state="translated">Salvar</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in
-          your calendar (e.g. work). They are important for the Agenda to get you to the right
-          location at the right time
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
         <target xml:lang="pt-PT" state="translated">Rotinas são postagens dos seus movimentos diários, Mas eles não são eventos que voce quer no seu calendário (ex.: trabalho). Eles são importantes para a sua agenda para que voce chegue no lugar certo na hora certa
         </target>
@@ -464,8 +459,7 @@
         <target xml:lang="pt-PT" state="translated">Set Localização</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not
-          stored on any server
+        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="pt-PT" state="translated">Use os seus próximos eventos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora
         </target>
@@ -491,8 +485,7 @@
         <target xml:lang="pt-PT" state="translated">Avaliar o aplicativo na loja</target>
       </trans-unit>
       <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the
-          background)
+        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
         </source>
         <target xml:lang="pt-PT" state="translated">Permita TripGo de anonimamente rastrear a sua localização quando voce o usa (NÃO no fundo)
         </target>
@@ -538,8 +531,7 @@
         <target xml:lang="pt-PT" state="translated">Para uso da servidora. Nota isso substituirá *TODAs* as chamadas da servidora!</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored
-          on any server
+        <source>Use your contact addresses as location suggestions. This information is not stored on any server
         </source>
         <target xml:lang="pt-PT" state="translated">Use os seus endereçøs de contatos como localizações sugeridas. Essa informação não é guardada em nenhuma servidora
         </target>
@@ -707,8 +699,7 @@
         <target xml:lang="pt-PT" state="translated">Ontem</target>
       </trans-unit>
       <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to
-          leave.
+        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
         </source>
         <target xml:lang="pt-PT" state="translated">Nunca se atrase. Agenda planeja adiantado pra voce e avisa quando voce deve sair.
         </target>
@@ -737,15 +728,13 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="pt-PT" state="translated">Incluir em viagens</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in
-          trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="pt-PT" state="translated">%s lugares disponíveis</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
-          available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
