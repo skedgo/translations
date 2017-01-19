@@ -784,26 +784,6 @@
         <target>Ticket Info</target>
         <note>Ticket Info title</note>
       </trans-unit>
-      <trans-unit id="Reminder added">
-        <source>Reminder added</source>
-        <target>Reminder added</target>
-        <note>Added reminder notice</note>
-      </trans-unit>
-      <trans-unit id="Reminder removed">
-        <source>Reminder removed</source>
-        <target>Reminder removed</target>
-        <note>Removed reminder HUD notice</note>
-      </trans-unit>
-      <trans-unit id="Favourite added">
-        <source>Favourite added</source>
-        <target>Favourite added</target>
-        <note>Add favourite HUD notice</note>
-      </trans-unit>
-      <trans-unit id="Favourite removed">
-        <source>Favourite removed</source>
-        <target>Favourite removed</target>
-        <note>Remove trip from favourites HUD notice</note>
-      </trans-unit>
     </body>
 
   </file>

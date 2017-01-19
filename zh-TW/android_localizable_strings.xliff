@@ -773,26 +773,6 @@
         <target xml:lang="zh-TW" state="translated">票證詳情</target>
         <note>Ticket Info title</note>
       </trans-unit>
-      <trans-unit id="Reminder added">
-        <source>Reminder added</source>
-        <target xml:lang="zh-TW" state="translated">已新增提醒事項</target>
-        <note>Added reminder notice</note>
-      </trans-unit>
-      <trans-unit id="Reminder removed">
-        <source>Reminder removed</source>
-        <target xml:lang="zh-TW" state="translated">已刪除提醒事項</target>
-        <note>Removed reminder HUD notice</note>
-      </trans-unit>
-      <trans-unit id="Favourite added">
-        <source>Favourite added</source>
-        <target xml:lang="zh-TW" state="translated">已加入常用項目</target>
-        <note>Add favourite HUD notice</note>
-      </trans-unit>
-      <trans-unit id="Favourite removed">
-        <source>Favourite removed</source>
-        <target xml:lang="zh-TW" state="translated">已從常用項目中移除</target>
-        <note>Remove trip from favourites HUD notice</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

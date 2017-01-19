@@ -1039,26 +1039,6 @@
         <target xml:lang="fi" state="translated">Lipun tiedot</target>
         <note>Ticket Info title</note>
       </trans-unit>
-      <trans-unit id="Reminder added">
-        <source>Reminder added</source>
-        <target xml:lang="fi" state="translated">Muistutus lisätty</target>
-        <note>Added reminder notice</note>
-      </trans-unit>
-      <trans-unit id="Reminder removed">
-        <source>Reminder removed</source>
-        <target xml:lang="fi" state="translated">Muistutus poistettu</target>
-        <note>Removed reminder HUD notice</note>
-      </trans-unit>
-      <trans-unit id="Favourite added">
-        <source>Favourite added</source>
-        <target xml:lang="fi" state="translated">Lisätty suosikkeihin</target>
-        <note>Add favourite HUD notice</note>
-      </trans-unit>
-      <trans-unit id="Favourite removed">
-        <source>Favourite removed</source>
-        <target xml:lang="fi" state="translated">Poistettu suosikeista</target>
-        <note>Remove trip from favourites HUD notice</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
