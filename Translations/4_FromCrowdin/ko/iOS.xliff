@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="ko">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body/>
+  </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="ko">
     <header>
       <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
@@ -376,9 +382,12 @@
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
         <source>Trips</source>
-        <target xml:lang="ko" state="translated">
-경로</target>
+        <target xml:lang="ko" state="translated">경로</target>
         <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+        <alt-trans>
+          <target xml:lang="ko">
+경로</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5WK-au-VFq.title">
         <source>Settings</source>
@@ -538,10 +547,20 @@
         <target xml:lang="ko" state="translated">%@ 항공편 %@</target>
         <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'. (old key: AirlineFlightNumber)</note>
       </trans-unit>
+      <trans-unit id="About %@">
+        <source>About %@</source>
+        <target xml:lang="ko" state="translated">%@에 대한</target>
+        <note>'About' for a provider, usually takes users to view a web page, e.g., 'About PayiQ'</note>
+      </trans-unit>
       <trans-unit id="Access to location services required.">
         <source>Access to location services required.</source>
         <target xml:lang="ko" state="translated"> 위치 서비스 연결이 필요합니다.</target>
         <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Account required">
+        <source>Account required</source>
+        <target xml:lang="ko" state="translated">계정이 필요합니다.</target>
+        <note>Error text to show when trying to use a feature which requires an account, but the user hasn't set one up (yet).</note>
       </trans-unit>
       <trans-unit id="Add Reminder">
         <source>Add Reminder</source>
@@ -642,6 +661,16 @@
         <target xml:lang="ko" state="translated">자동 알림</target>
         <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
       </trans-unit>
+      <trans-unit id="Available bikes">
+        <source>Available bikes</source>
+        <target xml:lang="ko" state="needs-translation">Available bikes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available spots">
+        <source>Available spots</source>
+        <target xml:lang="ko" state="needs-translation">Available spots</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Awesome! How about rating us?">
         <source>Awesome! How about rating us?</source>
         <target xml:lang="ko" state="translated">좋아요! 저희에게 별점을 주시겠습니까?</target>
@@ -656,6 +685,11 @@
         <source>Bookings made with TripGo will appear here.</source>
         <target xml:lang="ko" state="translated">TripGo를 통해서 한 예약들은 여기에 표시됩니다.</target>
         <note>Description on empty bookings screen</note>
+      </trans-unit>
+      <trans-unit id="Bookings may be outdated">
+        <source>Bookings may be outdated</source>
+        <target xml:lang="ko" state="needs-translation">Bookings may be outdated</target>
+        <note>Informing users that they may be viewing cached bookings</note>
       </trans-unit>
       <trans-unit id="Bummer... How about some feedback?">
         <source>Bummer... How about some feedback?</source>
@@ -706,6 +740,11 @@
         <source>Could not find your city.</source>
         <target xml:lang="ko" state="translated">당신의 도시를 찾을 수 없습니다.</target>
         <note>Error title when TripGo couldn't identify the user's current city.</note>
+      </trans-unit>
+      <trans-unit id="Create account">
+        <source>Create account</source>
+        <target xml:lang="ko" state="needs-translation">Create account</target>
+        <note>Title for button that allows users to create a user account</note>
       </trans-unit>
       <trans-unit id="Critical Error">
         <source>Critical Error</source>
@@ -762,6 +801,11 @@
         <target xml:lang="ko" state="translated">에 유효함</target>
         <note>Used in countdown context, indicating when a ticket becomes valid</note>
       </trans-unit>
+      <trans-unit id="Empty docks">
+        <source>Empty docks</source>
+        <target xml:lang="ko" state="needs-translation">Empty docks</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="End Date">
         <source>End Date</source>
         <target xml:lang="ko" state="translated">종료일</target>
@@ -774,8 +818,16 @@
       </trans-unit>
       <trans-unit id="Environment">
         <source>Environment</source>
-        <target xml:lang="ko" state="translated">환경</target>
+        <target xml:lang="ko" state="translated">친환경</target>
         <note>Carbon preference</note>
+        <alt-trans>
+          <target xml:lang="ko">환경</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Error encountered">
+        <source>Error encountered</source>
+        <target xml:lang="ko" state="needs-translation">Error encountered</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Event">
         <source>Event</source>
@@ -911,8 +963,11 @@
       </trans-unit>
       <trans-unit id="Has TripGo been useful to you?">
         <source>Has TripGo been useful to you?</source>
-        <target xml:lang="ko" state="translated">TripGo이 유용했습니까?</target>
+        <target xml:lang="ko" state="translated">TripGo 사용이 유용했다고 생각하세요?</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="ko">TripGo이 유용했습니까?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Home">
         <source>Home</source>
@@ -923,6 +978,11 @@
         <source>Hybrid</source>
         <target xml:lang="ko" state="translated">하이브리드</target>
         <note>Map mode 'streets + satellite'</note>
+      </trans-unit>
+      <trans-unit id="In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.">
+        <source>In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.</source>
+        <target xml:lang="ko" state="needs-translation">In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.</target>
+        <note>Instruction text to show when user is trying to make a booking, but he/she needs to create an account first.</note>
       </trans-unit>
       <trans-unit id="Include">
         <source>Include</source>
@@ -1073,6 +1133,11 @@
         <target xml:lang="ko" state="translated">목적지가 선택되지 않음</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="No bookings yet!">
+        <source>No bookings yet!</source>
+        <target xml:lang="ko" state="needs-translation">No bookings yet!</target>
+        <note>Text to show on screen that lists bookings if user hasn't made a booking yet.</note>
+      </trans-unit>
       <trans-unit id="No calendar found.">
         <source>No calendar found.</source>
         <target xml:lang="ko" state="translated">캘린더를 찾을 수 없습니다.</target>
@@ -1095,8 +1160,11 @@
       </trans-unit>
       <trans-unit id="Not really">
         <source>Not really</source>
-        <target xml:lang="ko" state="translated">별로입니다.</target>
+        <target xml:lang="ko" state="translated">아니오</target>
         <note>Negative answer to question whether TripGo is useful.</note>
+        <alt-trans>
+          <target xml:lang="ko">별로입니다.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Now">
         <source>Now</source>
@@ -1171,6 +1239,11 @@
         <target xml:lang="ko" state="translated">입력값을 바꾸거나 다시 시도하세요.</target>
         <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
+      <trans-unit id="Please be advised that you are viewing cached copies of your bookings">
+        <source>Please be advised that you are viewing cached copies of your bookings</source>
+        <target xml:lang="ko" state="needs-translation">Please be advised that you are viewing cached copies of your bookings</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
         <source>Please check your Calendar app and make sure you have a calendar configured.</source>
         <target xml:lang="ko" state="translated">캘린더 어플라케이션이 설정되어있는지 확인하세요.</target>
@@ -1180,6 +1253,16 @@
         <source>Please specify an address.</source>
         <target xml:lang="ko" state="translated">정확한 주소를 입력해 주세요.</target>
         <note>Alert message that asks users to provide the missing address for a new event.</note>
+      </trans-unit>
+      <trans-unit id="Powered by">
+        <source>Powered by</source>
+        <target xml:lang="ko" state="translated">제공</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Powered by %@">
+        <source>Powered by %@</source>
+        <target xml:lang="ko" state="needs-translation">Powered by %@</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preferred">
         <source>Preferred</source>
@@ -1245,6 +1328,11 @@
         <source>Remove from Agenda</source>
         <target xml:lang="ko" state="translated">일정에서 제거</target>
         <note>Unsave trip action</note>
+      </trans-unit>
+      <trans-unit id="Remove from favourites">
+        <source>Remove from favourites</source>
+        <target xml:lang="ko" state="needs-translation">Remove from favourites</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Removed">
         <source>Removed</source>
@@ -1315,6 +1403,11 @@
         <target xml:lang="ko" state="translated">경로</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Route from">
+        <source>Route from</source>
+        <target xml:lang="ko" state="needs-translation">Route from</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Route here">
         <source>Route here</source>
         <target xml:lang="ko" state="translated">여기로 경로탐색</target>
@@ -1347,13 +1440,19 @@
       </trans-unit>
       <trans-unit id="Save Money">
         <source>Save Money</source>
-        <target xml:lang="ko" state="translated">비용 절감</target>
+        <target xml:lang="ko" state="translated">비용</target>
         <note>Price preference</note>
+        <alt-trans>
+          <target xml:lang="ko">비용 절감</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Save Time">
         <source>Save Time</source>
-        <target xml:lang="ko" state="translated">시간 절약</target>
+        <target xml:lang="ko" state="translated">시간</target>
         <note>Time preference</note>
+        <alt-trans>
+          <target xml:lang="ko">시간 절약</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Search for a city">
         <source>Search for a city</source>
@@ -1452,6 +1551,11 @@
         <target xml:lang="ko" state="translated">천천히</target>
         <note>Speed preference 'slow'</note>
       </trans-unit>
+      <trans-unit id="Some of the trips failed to download. Please try again">
+        <source>Some of the trips failed to download. Please try again</source>
+        <target xml:lang="ko" state="needs-translation">Some of the trips failed to download. Please try again</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Sorry. TripGo doesn't work here yet!">
         <source>Sorry. TripGo doesn't work here yet!</source>
         <target xml:lang="ko" state="translated">죄송합니다.  여기는 TripGo 서비스 지역을 벗어납니다. </target>
@@ -1485,7 +1589,6 @@
       <trans-unit id="Support">
         <source>Support</source>
         <target xml:lang="ko" state="translated">고객 지원</target>
-        <note>Contact support error button</note>
       </trans-unit>
       <trans-unit id="Swipe dates to navigate between weeks">
         <source>Swipe dates to navigate between weeks</source>
@@ -1572,6 +1675,11 @@
         <target xml:lang="ko" state="translated">어디로</target>
         <note>Favorite trip 'to' title</note>
       </trans-unit>
+      <trans-unit id="Total spaces">
+        <source>Total spaces</source>
+        <target xml:lang="ko" state="needs-translation">Total spaces</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Type">
         <source>Type</source>
         <target xml:lang="ko" state="translated">종류</target>
@@ -1580,7 +1688,7 @@
       <trans-unit id="Updated: ">
         <source>Updated: </source>
         <target xml:lang="ko" state="translated">업데이트 완료 </target>
-        <note>No comment provided by engineer.</note>
+        <note>This is followed by some date, e.g., Last updated: 11 Nov, 9:28am</note>
       </trans-unit>
       <trans-unit id="Use for hotels while travelling, so that the Agenda starts and ends at the correct location.">
         <source>Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</source>
@@ -1659,8 +1767,11 @@
       </trans-unit>
       <trans-unit id="Yes!">
         <source>Yes!</source>
-        <target xml:lang="ko" state="translated">예이!</target>
+        <target xml:lang="ko" state="translated">네</target>
         <note>Positive answer to question whether TripGo is useful.</note>
+        <alt-trans>
+          <target xml:lang="ko">예이!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="You might not make this transfer.">
         <source>You might not make this transfer.</source>
@@ -1676,6 +1787,11 @@
         <source>Zoom into map to view public transport stops</source>
         <target xml:lang="ko" state="translated">확대해서 정류장 보기</target>
         <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="what3words address">
+        <source>what3words address</source>
+        <target xml:lang="ko" state="needs-translation">what3words address</target>
+        <note>Description of a what3words address, which is an addressing-sytem alternative to GPS or regular addresses based on 3 word pairs, e.g., 'gazed-across-like`.</note>
       </trans-unit>
     </body>
   </file>
@@ -1819,6 +1935,11 @@
         <source>Direction</source>
         <target xml:lang="ko" state="translated">방향</target>
         <note>Destination of the bus</note>
+      </trans-unit>
+      <trans-unit id="Disconnect">
+        <source>Disconnect</source>
+        <target xml:lang="ko" state="translated">접속끊기</target>
+        <note>To disconnect/unlink from a service provider, e.g., Uber</note>
       </trans-unit>
       <trans-unit id="Empty">
         <source>Empty</source>
@@ -1995,6 +2116,11 @@
         <source>Send SMS</source>
         <target xml:lang="ko" state="translated">SMS 보내기</target>
         <note>Send SMS action</note>
+      </trans-unit>
+      <trans-unit id="Setup">
+        <source>Setup</source>
+        <target xml:lang="ko" state="translated">설정</target>
+        <note>Set up to connect/link to a service provider, e.g., Uber</note>
       </trans-unit>
       <trans-unit id="Show website">
         <source>Show website</source>
@@ -2191,6 +2317,11 @@
         <source>Confirm</source>
         <target xml:lang="ko" state="translated">확인</target>
         <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
+      </trans-unit>
+      <trans-unit id="Contact support">
+        <source>Contact support</source>
+        <target xml:lang="ko" state="needs-translation">Contact support</target>
+        <note>Title for button that allows users to contact our support team to help resolve some error in the app.</note>
       </trans-unit>
       <trans-unit id="Could not determine your current location.">
         <source>Could not determine your current location.</source>
@@ -2403,7 +2534,8 @@
         <target xml:lang="ko" state="translated">확인</target>
         <note>Authorisation ok button
    Default title for button that dismisses alert view
-   Error alert cancel</note>
+   Error alert cancel
+   Ok action</note>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
@@ -2450,6 +2582,11 @@
         <target xml:lang="ko" state="translated">더 자세한 정보를 원하시면 검색을 눌러주세요.</target>
         <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
       </trans-unit>
+      <trans-unit id="Read more...">
+        <source>Read more...</source>
+        <target xml:lang="ko" state="needs-translation">Read more...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
         <target xml:lang="ko" state="translated">실시간</target>
@@ -2490,6 +2627,11 @@
         <source>Report Problem</source>
         <target xml:lang="ko" state="translated">문제점 보고</target>
         <note>Button title to report a problem</note>
+      </trans-unit>
+      <trans-unit id="Retry">
+        <source>Retry</source>
+        <target xml:lang="ko" state="translated">재시도</target>
+        <note>Retry action, e.g., in case something didn't load</note>
       </trans-unit>
       <trans-unit id="SUV">
         <source>SUV</source>

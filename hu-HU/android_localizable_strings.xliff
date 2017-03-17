@@ -728,13 +728,15 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="hu" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="hu" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="zh-Hans">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body/>
+  </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="zh-Hans">
     <header>
       <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
@@ -532,10 +538,20 @@
         <target xml:lang="zh-Hans" state="translated">%@航班%@</target>
         <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'. (old key: AirlineFlightNumber)</note>
       </trans-unit>
+      <trans-unit id="About %@">
+        <source>About %@</source>
+        <target xml:lang="zh-Hans" state="needs-translation">About %@</target>
+        <note>'About' for a provider, usually takes users to view a web page, e.g., 'About PayiQ'</note>
+      </trans-unit>
       <trans-unit id="Access to location services required.">
         <source>Access to location services required.</source>
         <target xml:lang="zh-Hans" state="translated">请打开定位服务。</target>
         <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Account required">
+        <source>Account required</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Account required</target>
+        <note>Error text to show when trying to use a feature which requires an account, but the user hasn't set one up (yet).</note>
       </trans-unit>
       <trans-unit id="Add Reminder">
         <source>Add Reminder</source>
@@ -636,6 +652,16 @@
         <target xml:lang="zh-Hans" state="translated">自动提醒</target>
         <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
       </trans-unit>
+      <trans-unit id="Available bikes">
+        <source>Available bikes</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Available bikes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available spots">
+        <source>Available spots</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Available spots</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Awesome! How about rating us?">
         <source>Awesome! How about rating us?</source>
         <target xml:lang="zh-Hans" state="translated">太赞了! 给我们打个分吧?!</target>
@@ -650,6 +676,11 @@
         <source>Bookings made with TripGo will appear here.</source>
         <target xml:lang="zh-Hans" state="translated">来自TripGo的预定将在此显示。</target>
         <note>Description on empty bookings screen</note>
+      </trans-unit>
+      <trans-unit id="Bookings may be outdated">
+        <source>Bookings may be outdated</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Bookings may be outdated</target>
+        <note>Informing users that they may be viewing cached bookings</note>
       </trans-unit>
       <trans-unit id="Bummer... How about some feedback?">
         <source>Bummer... How about some feedback?</source>
@@ -700,6 +731,11 @@
         <source>Could not find your city.</source>
         <target xml:lang="zh-Hans" state="translated">找不到您所在的城市！</target>
         <note>Error title when TripGo couldn't identify the user's current city.</note>
+      </trans-unit>
+      <trans-unit id="Create account">
+        <source>Create account</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Create account</target>
+        <note>Title for button that allows users to create a user account</note>
       </trans-unit>
       <trans-unit id="Critical Error">
         <source>Critical Error</source>
@@ -759,6 +795,11 @@
           <target xml:lang="zh-Hans">生效</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="Empty docks">
+        <source>Empty docks</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Empty docks</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="End Date">
         <source>End Date</source>
         <target xml:lang="zh-Hans" state="translated">结束日期</target>
@@ -773,6 +814,11 @@
         <source>Environment</source>
         <target xml:lang="zh-Hans" state="translated">减少二氧化碳排放</target>
         <note>Carbon preference</note>
+      </trans-unit>
+      <trans-unit id="Error encountered">
+        <source>Error encountered</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Error encountered</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Event">
         <source>Event</source>
@@ -917,6 +963,11 @@
         <source>Hybrid</source>
         <target xml:lang="zh-Hans" state="translated">混合</target>
         <note>Map mode 'streets + satellite'</note>
+      </trans-unit>
+      <trans-unit id="In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.">
+        <source>In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.</source>
+        <target xml:lang="zh-Hans" state="needs-translation">In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.</target>
+        <note>Instruction text to show when user is trying to make a booking, but he/she needs to create an account first.</note>
       </trans-unit>
       <trans-unit id="Include">
         <source>Include</source>
@@ -1067,6 +1118,11 @@
         <target xml:lang="zh-Hans" state="translated">您未选取您的目的地</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="No bookings yet!">
+        <source>No bookings yet!</source>
+        <target xml:lang="zh-Hans" state="needs-translation">No bookings yet!</target>
+        <note>Text to show on screen that lists bookings if user hasn't made a booking yet.</note>
+      </trans-unit>
       <trans-unit id="No calendar found.">
         <source>No calendar found.</source>
         <target xml:lang="zh-Hans" state="translated">无法在您的装置上找到任何日历.</target>
@@ -1165,6 +1221,11 @@
         <target xml:lang="zh-Hans" state="translated">有疑问？再试一次吧。</target>
         <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
+      <trans-unit id="Please be advised that you are viewing cached copies of your bookings">
+        <source>Please be advised that you are viewing cached copies of your bookings</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Please be advised that you are viewing cached copies of your bookings</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
         <source>Please check your Calendar app and make sure you have a calendar configured.</source>
         <target xml:lang="zh-Hans" state="translated">请确认您已在此装置上设定了日历.</target>
@@ -1174,6 +1235,16 @@
         <source>Please specify an address.</source>
         <target xml:lang="zh-Hans" state="translated">请填写一个具体地址。</target>
         <note>Alert message that asks users to provide the missing address for a new event.</note>
+      </trans-unit>
+      <trans-unit id="Powered by">
+        <source>Powered by</source>
+        <target xml:lang="zh-Hans" state="translated">供应商</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Powered by %@">
+        <source>Powered by %@</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Powered by %@</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preferred">
         <source>Preferred</source>
@@ -1239,6 +1310,11 @@
         <source>Remove from Agenda</source>
         <target xml:lang="zh-Hans" state="translated">从行程中删除</target>
         <note>Unsave trip action</note>
+      </trans-unit>
+      <trans-unit id="Remove from favourites">
+        <source>Remove from favourites</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Remove from favourites</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Removed">
         <source>Removed</source>
@@ -1307,6 +1383,11 @@
       <trans-unit id="Route">
         <source>Route</source>
         <target xml:lang="zh-Hans" state="translated">旅程</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Route from">
+        <source>Route from</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Route from</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Route here">
@@ -1446,6 +1527,11 @@
         <target xml:lang="zh-Hans" state="translated">慢</target>
         <note>Speed preference 'slow'</note>
       </trans-unit>
+      <trans-unit id="Some of the trips failed to download. Please try again">
+        <source>Some of the trips failed to download. Please try again</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Some of the trips failed to download. Please try again</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Sorry. TripGo doesn't work here yet!">
         <source>Sorry. TripGo doesn't work here yet!</source>
         <target xml:lang="zh-Hans" state="translated">抱歉，TripGo目前不覆盖此地区。</target>
@@ -1479,7 +1565,6 @@
       <trans-unit id="Support">
         <source>Support</source>
         <target xml:lang="zh-Hans" state="translated">支持</target>
-        <note>Contact support error button</note>
       </trans-unit>
       <trans-unit id="Swipe dates to navigate between weeks">
         <source>Swipe dates to navigate between weeks</source>
@@ -1566,6 +1651,11 @@
         <target xml:lang="zh-Hans" state="translated">去</target>
         <note>Favorite trip 'to' title</note>
       </trans-unit>
+      <trans-unit id="Total spaces">
+        <source>Total spaces</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Total spaces</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Type">
         <source>Type</source>
         <target xml:lang="zh-Hans" state="translated">类型</target>
@@ -1574,7 +1664,7 @@
       <trans-unit id="Updated: ">
         <source>Updated: </source>
         <target xml:lang="zh-Hans" state="translated">更新： </target>
-        <note>No comment provided by engineer.</note>
+        <note>This is followed by some date, e.g., Last updated: 11 Nov, 9:28am</note>
       </trans-unit>
       <trans-unit id="Use for hotels while travelling, so that the Agenda starts and ends at the correct location.">
         <source>Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</source>
@@ -1670,6 +1760,11 @@
         <source>Zoom into map to view public transport stops</source>
         <target xml:lang="zh-Hans" state="translated">放大地图来显示公共交通车站信息</target>
         <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="what3words address">
+        <source>what3words address</source>
+        <target xml:lang="zh-Hans" state="needs-translation">what3words address</target>
+        <note>Description of a what3words address, which is an addressing-sytem alternative to GPS or regular addresses based on 3 word pairs, e.g., 'gazed-across-like`.</note>
       </trans-unit>
     </body>
   </file>
@@ -1816,6 +1911,11 @@
         <alt-trans>
           <target xml:lang="zh-Hans">方向: %@</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="Disconnect">
+        <source>Disconnect</source>
+        <target xml:lang="zh-Hans" state="translated">断开连接</target>
+        <note>To disconnect/unlink from a service provider, e.g., Uber</note>
       </trans-unit>
       <trans-unit id="Empty">
         <source>Empty</source>
@@ -1998,6 +2098,11 @@
         <source>Send SMS</source>
         <target xml:lang="zh-Hans" state="translated">发送短信</target>
         <note>Send SMS action</note>
+      </trans-unit>
+      <trans-unit id="Setup">
+        <source>Setup</source>
+        <target xml:lang="zh-Hans" state="translated">设置</target>
+        <note>Set up to connect/link to a service provider, e.g., Uber</note>
       </trans-unit>
       <trans-unit id="Show website">
         <source>Show website</source>
@@ -2190,6 +2295,11 @@
         <source>Confirm</source>
         <target xml:lang="zh-Hans" state="translated">确认</target>
         <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
+      </trans-unit>
+      <trans-unit id="Contact support">
+        <source>Contact support</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Contact support</target>
+        <note>Title for button that allows users to contact our support team to help resolve some error in the app.</note>
       </trans-unit>
       <trans-unit id="Could not determine your current location.">
         <source>Could not determine your current location.</source>
@@ -2402,7 +2512,8 @@
         <target xml:lang="zh-Hans" state="translated">好</target>
         <note>Authorisation ok button
    Default title for button that dismisses alert view
-   Error alert cancel</note>
+   Error alert cancel
+   Ok action</note>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
@@ -2449,6 +2560,11 @@
         <target xml:lang="zh-Hans" state="translated">点击'搜寻'来取得更多结果...</target>
         <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
       </trans-unit>
+      <trans-unit id="Read more...">
+        <source>Read more...</source>
+        <target xml:lang="zh-Hans" state="needs-translation">Read more...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
         <target xml:lang="zh-Hans" state="translated">实时</target>
@@ -2489,6 +2605,11 @@
         <source>Report Problem</source>
         <target xml:lang="zh-Hans" state="translated">反馈问题</target>
         <note>Button title to report a problem</note>
+      </trans-unit>
+      <trans-unit id="Retry">
+        <source>Retry</source>
+        <target xml:lang="zh-Hans" state="translated">重新尝试</target>
+        <note>Retry action, e.g., in case something didn't load</note>
       </trans-unit>
       <trans-unit id="SUV">
         <source>SUV</source>

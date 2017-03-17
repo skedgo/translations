@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="ja">
+    <header>
+      <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
+    </header>
+    <body/>
+  </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="ja">
     <header>
       <tool build-num="8C1002" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1"/>
@@ -129,7 +135,7 @@
     <body>
       <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
         <source>Plan a trip on your phone or press firmly to access your favourites.</source>
-        <target xml:lang="ja" state="needs-translation">Plan a trip on your phone or press firmly to access your favourites.</target>
+        <target xml:lang="ja" state="translated">携帯電話で旅行を計画するかあなたのお気に入りにアクセスするを押してください。</target>
         <note>Instruction to users when there are no upcoming trips</note>
       </trans-unit>
     </body>
@@ -178,7 +184,7 @@
       </trans-unit>
       <trans-unit id="All">
         <source>All</source>
-        <target xml:lang="ja" state="needs-translation">All</target>
+        <target xml:lang="ja" state="translated">全て</target>
         <note>Option to use this trip for all similar cases.</note>
       </trans-unit>
       <trans-unit id="All From Here">
@@ -193,17 +199,17 @@
       </trans-unit>
       <trans-unit id="Current Trip">
         <source>Current Trip</source>
-        <target xml:lang="ja" state="needs-translation">Current Trip</target>
+        <target xml:lang="ja" state="translated">現在の旅行</target>
         <note>Indicating the next trip is a current trip</note>
       </trans-unit>
       <trans-unit id="Database corrupted and lost.">
         <source>Database corrupted and lost.</source>
-        <target xml:lang="ja" state="needs-translation">Database corrupted and lost.</target>
+        <target xml:lang="ja" state="translated">データベースは破損し、失われました。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dismiss">
         <source>Dismiss</source>
-        <target xml:lang="ja" state="needs-translation">Dismiss</target>
+        <target xml:lang="ja" state="translated">消去する</target>
         <note>Button to dismiss something, e.g., an error or action action sheet</note>
       </trans-unit>
       <trans-unit id="Favourites">
@@ -243,17 +249,17 @@
       </trans-unit>
       <trans-unit id="Map">
         <source>Map</source>
-        <target xml:lang="ja" state="needs-translation">Map</target>
+        <target xml:lang="ja" state="translated">地図</target>
         <note>Button to show a map or to modify the map's settings</note>
       </trans-unit>
       <trans-unit id="Minimised">
         <source>Minimised</source>
-        <target xml:lang="ja" state="needs-translation">Minimised</target>
+        <target xml:lang="ja" state="translated">最小限に抑える</target>
         <note>Indicator that a transport mode will appear minimised on the routes screen.</note>
       </trans-unit>
       <trans-unit id="New event">
         <source>New event</source>
-        <target xml:lang="ja" state="needs-translation">New event</target>
+        <target xml:lang="ja" state="translated">新しい予定</target>
         <note>Title for unnamed new event</note>
       </trans-unit>
       <trans-unit id="Only This">
@@ -263,12 +269,12 @@
       </trans-unit>
       <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
         <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
-        <target xml:lang="ja" state="needs-translation">Please delete the app and re-install from the App Store. Sorry for the inconvenience!</target>
+        <target xml:lang="ja" state="translated">アプリを削除し、App Store から再インストールしてください。ご不便をお詫びします。</target>
         <note>Recovery suggestion when TripGo cannot access its local files</note>
       </trans-unit>
       <trans-unit id="Please restart the app. Sorry for the inconvenience!">
         <source>Please restart the app. Sorry for the inconvenience!</source>
-        <target xml:lang="ja" state="needs-translation">Please restart the app. Sorry for the inconvenience!</target>
+        <target xml:lang="ja" state="translated">不便をおかけ申し訳ありませんがアプリを再起動してください!</target>
         <note>Recovery suggestion when an app restart is required, e.g., when the database got corrupted and/or the app can't access its local files.</note>
       </trans-unit>
       <trans-unit id="Profile">
@@ -283,7 +289,7 @@
       </trans-unit>
       <trans-unit id="Set up your Agenda in the TripGo app.">
         <source>Set up your Agenda in the TripGo app.</source>
-        <target xml:lang="ja" state="needs-translation">Set up your Agenda in the TripGo app.</target>
+        <target xml:lang="ja" state="translated">TripGo アプリであなたの議題を設定します。</target>
         <note>Error recovery suggestion when agenda isn't yet set up but needed for Watch app.</note>
       </trans-unit>
       <trans-unit id="Show map">
@@ -293,7 +299,7 @@
       </trans-unit>
       <trans-unit id="Show trip">
         <source>Show trip</source>
-        <target xml:lang="ja" state="needs-translation">Show trip</target>
+        <target xml:lang="ja" state="translated">旅行を表示します。</target>
         <note>Show trip</note>
       </trans-unit>
       <trans-unit id="Snooze 5 mins">
@@ -353,7 +359,7 @@
       </trans-unit>
       <trans-unit id="View">
         <source>View</source>
-        <target xml:lang="ja" state="needs-translation">View</target>
+        <target xml:lang="ja" state="translated">表示:</target>
         <note>Button to view something, e.g., a notification content or the EULA</note>
       </trans-unit>
     </body>
@@ -470,7 +476,7 @@
       </trans-unit>
       <trans-unit id="x1o-my-P1Q.text">
         <source>TO</source>
-        <target xml:lang="ja" state="needs-translation">TO</target>
+        <target xml:lang="ja" state="translated">へ</target>
         <note>Class = "UILabel"; text = "TO"; ObjectID = "x1o-my-P1Q";</note>
       </trans-unit>
     </body>
@@ -501,12 +507,12 @@
     <body>
       <trans-unit id="%.0f minutes">
         <source>%.0f minutes</source>
-        <target xml:lang="ja" state="needs-translation">%.0f minutes</target>
+        <target xml:lang="ja" state="translated">%.の時間</target>
         <note>Minutes format (used for transfer times). (old key: Minutes)</note>
       </trans-unit>
       <trans-unit id="%.0f minutes before">
         <source>%.0f minutes before</source>
-        <target xml:lang="ja" state="needs-translation">%.0f minutes before</target>
+        <target xml:lang="ja" state="translated">の%. 分前に、</target>
         <note>Minutes format (used alert firing X minuts before departure). (old key: MinutesBefore)</note>
       </trans-unit>
       <trans-unit id="%@ Account">
@@ -529,10 +535,20 @@
         <target xml:lang="ja" state="needs-translation">%@ flight %@</target>
         <note>Airline flight number with %airline and %flightNumber, e.g., 'Qantas flight QF1'. (old key: AirlineFlightNumber)</note>
       </trans-unit>
+      <trans-unit id="About %@">
+        <source>About %@</source>
+        <target xml:lang="ja" state="needs-translation">About %@</target>
+        <note>'About' for a provider, usually takes users to view a web page, e.g., 'About PayiQ'</note>
+      </trans-unit>
       <trans-unit id="Access to location services required.">
         <source>Access to location services required.</source>
-        <target xml:lang="ja" state="needs-translation">Access to location services required.</target>
+        <target xml:lang="ja" state="translated">必要な位置情報サービスへのアクセス。</target>
         <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Account required">
+        <source>Account required</source>
+        <target xml:lang="ja" state="needs-translation">Account required</target>
+        <note>Error text to show when trying to use a feature which requires an account, but the user hasn't set one up (yet).</note>
       </trans-unit>
       <trans-unit id="Add Reminder">
         <source>Add Reminder</source>
@@ -566,12 +582,12 @@
       </trans-unit>
       <trans-unit id="Add when I'm here">
         <source>Add when I'm here</source>
-        <target xml:lang="ja" state="needs-translation">Add when I'm here</target>
+        <target xml:lang="ja" state="translated">ここを追加します。</target>
         <note>Action title for adding another habitual visit to a favourite. (old key: NewItemHereActionTitle)</note>
       </trans-unit>
       <trans-unit id="Added">
         <source>Added</source>
-        <target xml:lang="ja" state="needs-translation">Added</target>
+        <target xml:lang="ja" state="translated">追加</target>
         <note>Confirmation that something got added HUD notice</note>
       </trans-unit>
       <trans-unit id="Address required">
@@ -581,7 +597,7 @@
       </trans-unit>
       <trans-unit id="Agenda Setup">
         <source>Agenda Setup</source>
-        <target xml:lang="ja" state="needs-translation">Agenda Setup</target>
+        <target xml:lang="ja" state="translated">旅程設定</target>
         <note>Title for agenda screen while it's still in setup mode.</note>
       </trans-unit>
       <trans-unit id="Alert">
@@ -610,7 +626,7 @@
       </trans-unit>
       <trans-unit id="Arrive by">
         <source>Arrive by</source>
-        <target xml:lang="ja" state="needs-translation">Arrive by</target>
+        <target xml:lang="ja" state="translated">到着します。</target>
         <note>Arrive before button</note>
       </trans-unit>
       <trans-unit id="Assign to vehicle">
@@ -620,7 +636,7 @@
       </trans-unit>
       <trans-unit id="At %@">
         <source>At %@</source>
-        <target xml:lang="ja" state="needs-translation">At %@</target>
+        <target xml:lang="ja" state="translated">%@ で</target>
         <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
       </trans-unit>
       <trans-unit id="Auto">
@@ -633,6 +649,16 @@
         <target xml:lang="ja" state="needs-translation">Automatic Reminders</target>
         <note>Header for settings of reminders automatically added by TripGo through the agenda</note>
       </trans-unit>
+      <trans-unit id="Available bikes">
+        <source>Available bikes</source>
+        <target xml:lang="ja" state="needs-translation">Available bikes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available spots">
+        <source>Available spots</source>
+        <target xml:lang="ja" state="needs-translation">Available spots</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Awesome! How about rating us?">
         <source>Awesome! How about rating us?</source>
         <target xml:lang="ja" state="needs-translation">Awesome! How about rating us?</target>
@@ -640,13 +666,18 @@
       </trans-unit>
       <trans-unit id="Book a taxi">
         <source>Book a taxi</source>
-        <target xml:lang="ja" state="needs-translation">Book a taxi</target>
+        <target xml:lang="ja" state="translated">タクシーを予約します。</target>
         <note>Book a taxi</note>
       </trans-unit>
       <trans-unit id="Bookings made with TripGo will appear here.">
         <source>Bookings made with TripGo will appear here.</source>
-        <target xml:lang="ja" state="needs-translation">Bookings made with TripGo will appear here.</target>
+        <target xml:lang="ja" state="translated">TripGo での予約は、ここに表示されます。</target>
         <note>Description on empty bookings screen</note>
+      </trans-unit>
+      <trans-unit id="Bookings may be outdated">
+        <source>Bookings may be outdated</source>
+        <target xml:lang="ja" state="needs-translation">Bookings may be outdated</target>
+        <note>Informing users that they may be viewing cached bookings</note>
       </trans-unit>
       <trans-unit id="Bummer... How about some feedback?">
         <source>Bummer... How about some feedback?</source>
@@ -698,6 +729,11 @@
         <target xml:lang="ja" state="needs-translation">Could not find your city.</target>
         <note>Error title when TripGo couldn't identify the user's current city.</note>
       </trans-unit>
+      <trans-unit id="Create account">
+        <source>Create account</source>
+        <target xml:lang="ja" state="needs-translation">Create account</target>
+        <note>Title for button that allows users to create a user account</note>
+      </trans-unit>
       <trans-unit id="Critical Error">
         <source>Critical Error</source>
         <target xml:lang="ja" state="needs-translation">Critical Error</target>
@@ -710,7 +746,7 @@
       </trans-unit>
       <trans-unit id="Custom trip has been cancelled">
         <source>Custom trip has been cancelled</source>
-        <target xml:lang="ja" state="needs-translation">Custom trip has been cancelled</target>
+        <target xml:lang="ja" state="translated">オーダーメイド旅行は取り消されました</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cycle speed">
@@ -720,7 +756,7 @@
       </trans-unit>
       <trans-unit id="Departure">
         <source>Departure</source>
-        <target xml:lang="ja" state="needs-translation">Departure</target>
+        <target xml:lang="ja" state="translated">出発</target>
         <note>Departure date+time for overnight stay</note>
       </trans-unit>
       <trans-unit id="Distances">
@@ -750,8 +786,13 @@
       </trans-unit>
       <trans-unit id="Effective in">
         <source>Effective in</source>
-        <target xml:lang="ja" state="needs-translation">Effective in</target>
+        <target xml:lang="ja" state="translated">有効であります。</target>
         <note>Used in countdown context, indicating when a ticket becomes valid</note>
+      </trans-unit>
+      <trans-unit id="Empty docks">
+        <source>Empty docks</source>
+        <target xml:lang="ja" state="needs-translation">Empty docks</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="End Date">
         <source>End Date</source>
@@ -770,6 +811,11 @@
         <source>Environment</source>
         <target xml:lang="ja" state="translated">環境</target>
         <note>Carbon preference</note>
+      </trans-unit>
+      <trans-unit id="Error encountered">
+        <source>Error encountered</source>
+        <target xml:lang="ja" state="needs-translation">Error encountered</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Event">
         <source>Event</source>
@@ -798,7 +844,7 @@
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
-        <target xml:lang="ja" state="needs-translation">Every %@</target>
+        <target xml:lang="ja" state="translated">すべての %@</target>
         <note>Filler for a frequency-based service indicating its frequency, e.g., 'Every 10 minutes'</note>
       </trans-unit>
       <trans-unit id="Example">
@@ -813,12 +859,12 @@
       </trans-unit>
       <trans-unit id="Expire in">
         <source>Expire in</source>
-        <target xml:lang="ja" state="needs-translation">Expire in</target>
+        <target xml:lang="ja" state="translated">有効期限まで</target>
         <note>Used in countdown context, indicating when a ticket expires</note>
       </trans-unit>
       <trans-unit id="Expired">
         <source>Expired</source>
-        <target xml:lang="ja" state="needs-translation">Expired</target>
+        <target xml:lang="ja" state="translated">失効</target>
         <note>Title for list of expired tickets</note>
       </trans-unit>
       <trans-unit id="Fast">
@@ -843,12 +889,12 @@
       </trans-unit>
       <trans-unit id="Filter">
         <source>Filter</source>
-        <target xml:lang="ja" state="needs-translation">Filter</target>
+        <target xml:lang="ja" state="translated">絞り込み</target>
         <note>Placeholder text for search bar that is used for filtering</note>
       </trans-unit>
       <trans-unit id="Flight number">
         <source>Flight number</source>
-        <target xml:lang="ja" state="needs-translation">Flight number</target>
+        <target xml:lang="ja" state="translated">フライト番号</target>
       </trans-unit>
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
@@ -917,6 +963,11 @@
         <source>Hybrid</source>
         <target xml:lang="ja" state="needs-translation">Hybrid</target>
         <note>Map mode 'streets + satellite'</note>
+      </trans-unit>
+      <trans-unit id="In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.">
+        <source>In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.</source>
+        <target xml:lang="ja" state="needs-translation">In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.</target>
+        <note>Instruction text to show when user is trying to make a booking, but he/she needs to create an account first.</note>
       </trans-unit>
       <trans-unit id="Include">
         <source>Include</source>
@@ -1015,27 +1066,27 @@
       </trans-unit>
       <trans-unit id="More">
         <source>More</source>
-        <target xml:lang="ja" state="needs-translation">More</target>
+        <target xml:lang="ja" state="translated">もっと</target>
         <note>More button accessibility label</note>
       </trans-unit>
       <trans-unit id="More Information">
         <source>More Information</source>
-        <target xml:lang="ja" state="needs-translation">More Information</target>
+        <target xml:lang="ja" state="translated">詳細情報</target>
         <note>Header for list of how to get more information (e.g., by opening a website)</note>
       </trans-unit>
       <trans-unit id="Movie">
         <source>Movie</source>
-        <target xml:lang="ja" state="needs-translation">Movie</target>
+        <target xml:lang="ja" state="translated">映画</target>
         <note>Sample event name ('Movie')</note>
       </trans-unit>
       <trans-unit id="My Bookings">
         <source>My Bookings</source>
-        <target xml:lang="ja" state="needs-translation">My Bookings</target>
+        <target xml:lang="ja" state="translated">予約</target>
         <note>Title for profile item that loads a list of user's bookings</note>
       </trans-unit>
       <trans-unit id="My Priorities">
         <source>My Priorities</source>
-        <target xml:lang="ja" state="needs-translation">My Priorities</target>
+        <target xml:lang="ja" state="translated">私の優先順位</target>
         <note>User preferences title</note>
       </trans-unit>
       <trans-unit id="My Transport">
@@ -1045,17 +1096,17 @@
       </trans-unit>
       <trans-unit id="My Vehicles">
         <source>My Vehicles</source>
-        <target xml:lang="ja" state="needs-translation">My Vehicles</target>
+        <target xml:lang="ja" state="translated">私の車</target>
         <note>Header for list of my vehicles</note>
       </trans-unit>
       <trans-unit id="Navigate to a supported city on a map.">
         <source>Navigate to a supported city on a map.</source>
-        <target xml:lang="ja" state="needs-translation">Navigate to a supported city on a map.</target>
+        <target xml:lang="ja" state="translated">サポートされている市内地図に移動します。</target>
         <note>Error recovery suggestion for when TripGo couldn't identify the user's current city.</note>
       </trans-unit>
       <trans-unit id="New Favourite">
         <source>New Favourite</source>
-        <target xml:lang="ja" state="needs-translation">New Favourite</target>
+        <target xml:lang="ja" state="translated">新しいお気に入り</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No 'From' location selected">
@@ -1068,64 +1119,69 @@
         <target xml:lang="ja" state="needs-translation">No 'To' location selected</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="No bookings yet!">
+        <source>No bookings yet!</source>
+        <target xml:lang="ja" state="needs-translation">No bookings yet!</target>
+        <note>Text to show on screen that lists bookings if user hasn't made a booking yet.</note>
+      </trans-unit>
       <trans-unit id="No calendar found.">
         <source>No calendar found.</source>
-        <target xml:lang="ja" state="needs-translation">No calendar found.</target>
+        <target xml:lang="ja" state="translated">カレンダーが見つかりません。</target>
         <note>Error title for when no calendar found.</note>
       </trans-unit>
       <trans-unit id="No locations set">
         <source>No locations set</source>
-        <target xml:lang="ja" state="needs-translation">No locations set</target>
+        <target xml:lang="ja" state="translated">場所が設定されていません</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No routes found.">
         <source>No routes found.</source>
-        <target xml:lang="ja" state="needs-translation">No routes found.</target>
+        <target xml:lang="ja" state="translated">ルートが見つかりません。</target>
         <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
       <trans-unit id="No, thanks">
         <source>No, thanks</source>
-        <target xml:lang="ja" state="needs-translation">No, thanks</target>
+        <target xml:lang="ja" state="translated">いいえ、結構です</target>
         <note>Negative answer to follow-up question for rating or feedback.</note>
       </trans-unit>
       <trans-unit id="Not really">
         <source>Not really</source>
-        <target xml:lang="ja" state="needs-translation">Not really</target>
+        <target xml:lang="ja" state="translated">いいえ</target>
         <note>Negative answer to question whether TripGo is useful.</note>
       </trans-unit>
       <trans-unit id="Now">
         <source>Now</source>
-        <target xml:lang="ja" state="needs-translation">Now</target>
+        <target xml:lang="ja" state="translated">今</target>
         <note>Countdown cell 'now' indicator</note>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
-        <target xml:lang="ja" state="needs-translation">OK</target>
+        <target xml:lang="ja" state="translated">はい</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open Agenda">
         <source>Open Agenda</source>
-        <target xml:lang="ja" state="needs-translation">Open Agenda</target>
+        <target xml:lang="ja" state="translated">開いている旅程</target>
         <note>Title for homescreen action to open the agenda</note>
       </trans-unit>
       <trans-unit id="Open TripGo app and add the location of this favourite.">
         <source>Open TripGo app and add the location of this favourite.</source>
-        <target xml:lang="ja" state="needs-translation">Open TripGo app and add the location of this favourite.</target>
+        <target xml:lang="ja" state="translated">TripGo アプリを開き、このお気に入りの場所を追加します。</target>
         <note>Error recovery suggestion for favourites with missing location.</note>
       </trans-unit>
       <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
         <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
-        <target xml:lang="ja" state="needs-translation">Open TripGo or Settings app on your phone and grant TripGo access to location services.</target>
+        <target xml:lang="ja" state="translated">あなたの携帯電話上の TripGo または設定アプリを開き、位置情報サービスへの TripGo のアクセスを許可します。</target>
         <note>Error recovery suggestion for when watch doesn't have access to location services.</note>
       </trans-unit>
       <trans-unit id="Open website">
         <source>Open website</source>
-        <target xml:lang="ja" state="needs-translation">Open website</target>
+        <target xml:lang="ja" state="translated">Web サイトを開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Our End User Licence Agreement has changed. You must agree to it before continuing use of this app">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</source>
-        <target xml:lang="ja" state="needs-translation">Our End User Licence Agreement has changed. You must agree to it before continuing use of this app</target>
+        <target xml:lang="ja" state="translated">使用許諾契約書が変更されました。このアプリの使用を続行する前に、それに同意する必要があります。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Permission was granted. Please go back and try again.">
@@ -1135,27 +1191,27 @@
       </trans-unit>
       <trans-unit id="Permissions">
         <source>Permissions</source>
-        <target xml:lang="ja" state="needs-translation">Permissions</target>
+        <target xml:lang="ja" state="translated">許可</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pick a Time">
         <source>Pick a Time</source>
-        <target xml:lang="ja" state="needs-translation">Pick a Time</target>
+        <target xml:lang="ja" state="translated">時間を選択</target>
         <note>Timetable screen title</note>
       </trans-unit>
       <trans-unit id="Plan Trip">
         <source>Plan Trip</source>
-        <target xml:lang="ja" state="needs-translation">Plan Trip</target>
+        <target xml:lang="ja" state="translated">旅行計画</target>
         <note>Title for homescreen action to plan a new trip</note>
       </trans-unit>
       <trans-unit id="Plan a new trip">
         <source>Plan a new trip</source>
-        <target xml:lang="ja" state="needs-translation">Plan a new trip</target>
+        <target xml:lang="ja" state="translated">新しい旅行計画</target>
         <note>Title for button that allows users to plan a new trip</note>
       </trans-unit>
       <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
         <source>Plan a trip on your phone or press firmly to access your favourites.</source>
-        <target xml:lang="ja" state="needs-translation">Plan a trip on your phone or press firmly to access your favourites.</target>
+        <target xml:lang="ja" state="translated">携帯電話で旅行を計画するかあなたのお気に入りにアクセスするを押してください。</target>
       </trans-unit>
       <trans-unit id="Plan a trip on your phone.">
         <source>Plan a trip on your phone.</source>
@@ -1166,6 +1222,11 @@
         <target xml:lang="ja" state="needs-translation">Please adjust your query and try again.</target>
         <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
+      <trans-unit id="Please be advised that you are viewing cached copies of your bookings">
+        <source>Please be advised that you are viewing cached copies of your bookings</source>
+        <target xml:lang="ja" state="needs-translation">Please be advised that you are viewing cached copies of your bookings</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
         <source>Please check your Calendar app and make sure you have a calendar configured.</source>
         <target xml:lang="ja" state="needs-translation">Please check your Calendar app and make sure you have a calendar configured.</target>
@@ -1175,6 +1236,16 @@
         <source>Please specify an address.</source>
         <target xml:lang="ja" state="needs-translation">Please specify an address.</target>
         <note>Alert message that asks users to provide the missing address for a new event.</note>
+      </trans-unit>
+      <trans-unit id="Powered by">
+        <source>Powered by</source>
+        <target xml:lang="ja" state="translated">使用</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Powered by %@">
+        <source>Powered by %@</source>
+        <target xml:lang="ja" state="needs-translation">Powered by %@</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preferred">
         <source>Preferred</source>
@@ -1240,6 +1311,11 @@
         <source>Remove from Agenda</source>
         <target xml:lang="ja" state="needs-translation">Remove from Agenda</target>
         <note>Unsave trip action</note>
+      </trans-unit>
+      <trans-unit id="Remove from favourites">
+        <source>Remove from favourites</source>
+        <target xml:lang="ja" state="needs-translation">Remove from favourites</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Removed">
         <source>Removed</source>
@@ -1310,6 +1386,11 @@
         <target xml:lang="ja" state="translated">ルート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Route from">
+        <source>Route from</source>
+        <target xml:lang="ja" state="needs-translation">Route from</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Route here">
         <source>Route here</source>
         <target xml:lang="ja" state="needs-translation">Route here</target>
@@ -1361,17 +1442,17 @@
       </trans-unit>
       <trans-unit id="Search for your work address">
         <source>Search for your work address</source>
-        <target xml:lang="ja" state="needs-translation">Search for your work address</target>
+        <target xml:lang="ja" state="translated">有効なアドレスを検索</target>
         <note>Agenda onboarding: placeholder text for search bar for 'work'.</note>
       </trans-unit>
       <trans-unit id="Select Vehicle">
         <source>Select Vehicle</source>
-        <target xml:lang="ja" state="needs-translation">Select Vehicle</target>
+        <target xml:lang="ja" state="translated">車両を選択します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Select a date to get flight details.">
         <source>Select a date to get flight details.</source>
-        <target xml:lang="ja" state="needs-translation">Select a date to get flight details.</target>
+        <target xml:lang="ja" state="translated">フライトの日付を選択します。</target>
       </trans-unit>
       <trans-unit id="Select the place where you stay at the end of each day">
         <source>Select the place where you stay at the end of each day</source>
@@ -1380,7 +1461,7 @@
       </trans-unit>
       <trans-unit id="Send Real-time SMS">
         <source>Send Real-time SMS</source>
-        <target xml:lang="ja" state="needs-translation">Send Real-time SMS</target>
+        <target xml:lang="ja" state="translated">リアルタイムの SMS を送信します。</target>
         <note>Action button title for composing an SMS to a real-time service</note>
       </trans-unit>
       <trans-unit id="Share Arrival">
@@ -1395,41 +1476,41 @@
       </trans-unit>
       <trans-unit id="Show alternatives">
         <source>Show alternatives</source>
-        <target xml:lang="ja" state="needs-translation">Show alternatives</target>
+        <target xml:lang="ja" state="translated">選択肢を表示します。</target>
         <note>Button title on trips to show alternatives for it</note>
       </trans-unit>
       <trans-unit id="Show booking options">
         <source>Show booking options</source>
-        <target xml:lang="ja" state="needs-translation">Show booking options</target>
+        <target xml:lang="ja" state="translated">予約オプションを表示します。</target>
       </trans-unit>
       <trans-unit id="Show details">
         <source>Show details</source>
-        <target xml:lang="ja" state="needs-translation">Show details</target>
+        <target xml:lang="ja" state="translated">詳細を表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show disclaimer">
         <source>Show disclaimer</source>
-        <target xml:lang="ja" state="needs-translation">Show disclaimer</target>
+        <target xml:lang="ja" state="translated">免責事項を表示します。</target>
         <note>Button to show disclaimers, e.g., info of public transport data.</note>
       </trans-unit>
       <trans-unit id="Show info">
         <source>Show info</source>
-        <target xml:lang="ja" state="needs-translation">Show info</target>
+        <target xml:lang="ja" state="translated">情報を表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show parking options">
         <source>Show parking options</source>
-        <target xml:lang="ja" state="needs-translation">Show parking options</target>
+        <target xml:lang="ja" state="translated">駐車場オプションを表示します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show ticket Info">
         <source>Show ticket Info</source>
-        <target xml:lang="ja" state="needs-translation">Show ticket Info</target>
+        <target xml:lang="ja" state="translated">チケット情報の表示</target>
         <note>Button Title to get to website with ticket details.</note>
       </trans-unit>
       <trans-unit id="Show timetable">
         <source>Show timetable</source>
-        <target xml:lang="ja" state="needs-translation">Show timetable</target>
+        <target xml:lang="ja" state="translated">時刻表を表示します。</target>
         <note>Action button title for viewing timetable for public transport</note>
       </trans-unit>
       <trans-unit id="Showing %@ of %@ transport modes">
@@ -1439,48 +1520,52 @@
       </trans-unit>
       <trans-unit id="Skip">
         <source>Skip</source>
-        <target xml:lang="ja" state="needs-translation">Skip</target>
+        <target xml:lang="ja" state="translated">Skip</target>
         <note>Button title to skip a certain step</note>
       </trans-unit>
       <trans-unit id="Slow">
         <source>Slow</source>
-        <target xml:lang="ja" state="needs-translation">Slow</target>
+        <target xml:lang="ja" state="translated">遅い</target>
         <note>Speed preference 'slow'</note>
+      </trans-unit>
+      <trans-unit id="Some of the trips failed to download. Please try again">
+        <source>Some of the trips failed to download. Please try again</source>
+        <target xml:lang="ja" state="needs-translation">Some of the trips failed to download. Please try again</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sorry. TripGo doesn't work here yet!">
         <source>Sorry. TripGo doesn't work here yet!</source>
-        <target xml:lang="ja" state="needs-translation">Sorry. TripGo doesn't work here yet!</target>
+        <target xml:lang="ja" state="translated">すみません。TripGo はここでは、まだ作動していません!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spread the word">
         <source>Spread the word</source>
-        <target xml:lang="ja" state="needs-translation">Spread the word</target>
+        <target xml:lang="ja" state="translated">口コミ</target>
         <note>Spread the word preference</note>
       </trans-unit>
       <trans-unit id="Start">
         <source>Start</source>
-        <target xml:lang="ja" state="needs-translation">Start</target>
+        <target xml:lang="ja" state="translated">スタート</target>
         <note>Title for the time an event starts (including date information)</note>
       </trans-unit>
       <trans-unit id="Stay at a different location">
         <source>Stay at a different location</source>
-        <target xml:lang="ja" state="needs-translation">Stay at a different location</target>
+        <target xml:lang="ja" state="translated">別の場所で滞在します。</target>
         <note>Action title for adding a habitual item away from some location. (old key: NewItemAwayActionTitle)</note>
       </trans-unit>
       <trans-unit id="Stop code: %@">
         <source>Stop code: %@</source>
-        <target xml:lang="ja" state="needs-translation">Stop code: %@</target>
+        <target xml:lang="ja" state="translated">停止コード: %@</target>
         <note>Additional information for official stop code of a public transport stop.</note>
       </trans-unit>
       <trans-unit id="Streets">
         <source>Streets</source>
-        <target xml:lang="ja" state="needs-translation">Streets</target>
+        <target xml:lang="ja" state="translated">通り</target>
         <note>Map mode 'streets'</note>
       </trans-unit>
       <trans-unit id="Support">
         <source>Support</source>
-        <target xml:lang="ja" state="needs-translation">Support</target>
-        <note>Contact support error button</note>
+        <target xml:lang="ja" state="translated">サポート</target>
       </trans-unit>
       <trans-unit id="Swipe dates to navigate between weeks">
         <source>Swipe dates to navigate between weeks</source>
@@ -1494,17 +1579,17 @@
       </trans-unit>
       <trans-unit id="Tap public transport stops for access to timetable">
         <source>Tap public transport stops for access to timetable</source>
-        <target xml:lang="ja" state="needs-translation">Tap public transport stops for access to timetable</target>
+        <target xml:lang="ja" state="translated">タップして公共交通機関時刻表へのアクセスの停止</target>
         <note>Walkthrough</note>
       </trans-unit>
       <trans-unit id="Tap title to go to 'today'">
         <source>Tap title to go to 'today'</source>
-        <target xml:lang="ja" state="needs-translation">Tap title to go to 'today'</target>
+        <target xml:lang="ja" state="translated">タイトルをタップ '今日'へ</target>
         <note>Walkthrough</note>
       </trans-unit>
       <trans-unit id="Tap to confirm hours or swipe to delete">
         <source>Tap to confirm hours or swipe to delete</source>
-        <target xml:lang="ja" state="needs-translation">Tap to confirm hours or swipe to delete</target>
+        <target xml:lang="ja" state="translated">時間をタップまたはスワイプすると削除します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tap to set address">
@@ -1514,7 +1599,7 @@
       </trans-unit>
       <trans-unit id="Tap to set address or swipe to delete">
         <source>Tap to set address or swipe to delete</source>
-        <target xml:lang="ja" state="needs-translation">Tap to set address or swipe to delete</target>
+        <target xml:lang="ja" state="translated">アドレスをタップまたはスワイプで削除されます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tap to set garage">
@@ -1524,12 +1609,12 @@
       </trans-unit>
       <trans-unit id="Thank you!">
         <source>Thank you!</source>
-        <target xml:lang="ja" state="needs-translation">Thank you!</target>
+        <target xml:lang="ja" state="translated">ありがとうございました！</target>
         <note>Thank you HUD notice</note>
       </trans-unit>
       <trans-unit id="The application encountered a critical error and can't recover:">
         <source>The application encountered a critical error and can't recover:</source>
-        <target xml:lang="ja" state="needs-translation">The application encountered a critical error and can't recover:</target>
+        <target xml:lang="ja" state="translated">アプリケーションに重大なエラーが発生し、回復できません。</target>
         <note>Description for critical error where error will be shown below.</note>
       </trans-unit>
       <trans-unit id="Ticket">
@@ -1539,7 +1624,7 @@
       </trans-unit>
       <trans-unit id="Ticket expired">
         <source>Ticket expired</source>
-        <target xml:lang="ja" state="needs-translation">Ticket expired</target>
+        <target xml:lang="ja" state="translated">チケットの有効期限切れ</target>
         <note>Indicating that a ticket has expired.</note>
       </trans-unit>
       <trans-unit id="Time at Work">
@@ -1549,12 +1634,12 @@
       </trans-unit>
       <trans-unit id="Time zone">
         <source>Time zone</source>
-        <target xml:lang="ja" state="needs-translation">Time zone</target>
+        <target xml:lang="ja" state="translated">タイムゾーン</target>
         <note>Time zone (typically for an event)</note>
       </trans-unit>
       <trans-unit id="Times">
         <source>Times</source>
-        <target xml:lang="ja" state="needs-translation">Times</target>
+        <target xml:lang="ja" state="translated">時間</target>
         <note>Header for times a user is typically at this location, e.g., working hours</note>
       </trans-unit>
       <trans-unit id="Title">
@@ -1567,15 +1652,20 @@
         <target xml:lang="ja" state="needs-translation">To</target>
         <note>Favorite trip 'to' title</note>
       </trans-unit>
+      <trans-unit id="Total spaces">
+        <source>Total spaces</source>
+        <target xml:lang="ja" state="needs-translation">Total spaces</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Type">
         <source>Type</source>
-        <target xml:lang="ja" state="needs-translation">Type</target>
+        <target xml:lang="ja" state="translated">タイプ</target>
         <note>Type of something, e.g., an event (calendar event, stay, routine) or a vehicle (car, motorbike, bicycle). (old key: TypeEvent)</note>
       </trans-unit>
       <trans-unit id="Updated: ">
         <source>Updated: </source>
-        <target xml:lang="ja" state="needs-translation">Updated: </target>
-        <note>No comment provided by engineer.</note>
+        <target xml:lang="ja" state="translated">更新完了 </target>
+        <note>This is followed by some date, e.g., Last updated: 11 Nov, 9:28am</note>
       </trans-unit>
       <trans-unit id="Use for hotels while travelling, so that the Agenda starts and ends at the correct location.">
         <source>Use for hotels while travelling, so that the Agenda starts and ends at the correct location.</source>
@@ -1589,12 +1679,12 @@
       </trans-unit>
       <trans-unit id="Vehicle">
         <source>Vehicle</source>
-        <target xml:lang="ja" state="needs-translation">Vehicle</target>
+        <target xml:lang="ja" state="translated">車両</target>
         <note>Which of my vehicles to assign this to</note>
       </trans-unit>
       <trans-unit id="Verify location...">
         <source>Verify location...</source>
-        <target xml:lang="ja" state="needs-translation">Verify location...</target>
+        <target xml:lang="ja" state="translated">場所を確認.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View times">
@@ -1604,7 +1694,7 @@
       </trans-unit>
       <trans-unit id="Walk speed">
         <source>Walk speed</source>
-        <target xml:lang="ja" state="needs-translation">Walk speed</target>
+        <target xml:lang="ja" state="translated">徒歩速度</target>
         <note>Walking speed preference</note>
       </trans-unit>
       <trans-unit id="Website">
@@ -1614,7 +1704,7 @@
       </trans-unit>
       <trans-unit id="Week starts">
         <source>Week starts</source>
-        <target xml:lang="ja" state="needs-translation">Week starts</target>
+        <target xml:lang="ja" state="translated">週の始め</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="What3words Address">
@@ -1672,6 +1762,11 @@
         <target xml:lang="ja" state="needs-translation">Zoom into map to view public transport stops</target>
         <note>Walkthrough</note>
       </trans-unit>
+      <trans-unit id="what3words address">
+        <source>what3words address</source>
+        <target xml:lang="ja" state="needs-translation">what3words address</target>
+        <note>Description of a what3words address, which is an addressing-sytem alternative to GPS or regular addresses based on 3 word pairs, e.g., 'gazed-across-like`.</note>
+      </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="ja">
@@ -1726,7 +1821,7 @@
       </trans-unit>
       <trans-unit id="1 stop">
         <source>1 stop</source>
-        <target xml:lang="ja" state="needs-translation">1 stop</target>
+        <target xml:lang="ja" state="translated">1 ストップ</target>
         <note>Number of stops before you get off a stop, if there's just 1 stop.</note>
       </trans-unit>
       <trans-unit id="Alerts">
@@ -1752,22 +1847,22 @@
       </trans-unit>
       <trans-unit id="Arrive at %@">
         <source>Arrive at %@</source>
-        <target xml:lang="ja" state="needs-translation">Arrive at %@</target>
+        <target xml:lang="ja" state="translated">%@ に到着します。</target>
         <note>'%@' will be replaced with the arrival time. (old key: ArrivalTime)</note>
       </trans-unit>
       <trans-unit id="Arrive at %@ at %@">
         <source>Arrive at %@ at %@</source>
-        <target xml:lang="ja" state="needs-translation">Arrive at %@ at %@</target>
+        <target xml:lang="ja" state="translated">%@ で %@ に到着します。</target>
         <note>The first '%@' will be replaced with the place of arrival, the second with the time. (old key: ArrivalLocationTime)</note>
       </trans-unit>
       <trans-unit id="Arrive in">
         <source>Arrive in</source>
-        <target xml:lang="ja" state="needs-translation">Arrive in</target>
+        <target xml:lang="ja" state="translated">到着します。</target>
         <note>Title for when you'll arrive when on a trip. Countdown to arrival will be displayed below.</note>
       </trans-unit>
       <trans-unit id="At %@">
         <source>At %@</source>
-        <target xml:lang="ja" state="needs-translation">At %@</target>
+        <target xml:lang="ja" state="translated">%@ で</target>
         <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)</note>
       </trans-unit>
       <trans-unit id="Book with FlitWays">
@@ -1777,12 +1872,12 @@
       </trans-unit>
       <trans-unit id="Book with Uber">
         <source>Book with Uber</source>
-        <target xml:lang="ja" state="needs-translation">Book with Uber</target>
+        <target xml:lang="ja" state="translated">タクシー予約</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Calculating trips...">
         <source>Calculating trips...</source>
-        <target xml:lang="ja" state="needs-translation">Calculating trips...</target>
+        <target xml:lang="ja" state="translated">旅行を計算する.</target>
         <note>Placeholder title while calculating trips</note>
       </trans-unit>
       <trans-unit id="Call">
@@ -1792,7 +1887,7 @@
       </trans-unit>
       <trans-unit id="Call %@">
         <source>Call %@</source>
-        <target xml:lang="ja" state="needs-translation">Call %@</target>
+        <target xml:lang="ja" state="translated">%@ を呼び出す</target>
         <note>Action title for calling provider of name. (old key: CallTaxiFormat)</note>
       </trans-unit>
       <trans-unit id="Connect to Internet to get trips">
@@ -1802,7 +1897,7 @@
       </trans-unit>
       <trans-unit id="Could not find transit stop.">
         <source>Could not find transit stop.</source>
-        <target xml:lang="ja" state="needs-translation">Could not find transit stop.</target>
+        <target xml:lang="ja" state="translated">公共交通の停止を見つけることができませんでした。</target>
         <note>Error title when server could not find a given transit stop.</note>
       </trans-unit>
       <trans-unit id="Departure">
@@ -1815,14 +1910,19 @@
         <target xml:lang="ja" state="translated">方向</target>
         <note>Destination of the bus</note>
       </trans-unit>
+      <trans-unit id="Disconnect">
+        <source>Disconnect</source>
+        <target xml:lang="ja" state="translated">切断</target>
+        <note>To disconnect/unlink from a service provider, e.g., Uber</note>
+      </trans-unit>
       <trans-unit id="Empty">
         <source>Empty</source>
-        <target xml:lang="ja" state="needs-translation">Empty</target>
+        <target xml:lang="ja" state="translated">空です</target>
         <note>As in 'this bus/train is empty'</note>
       </trans-unit>
       <trans-unit id="Few seats available">
         <source>Few seats available</source>
-        <target xml:lang="ja" state="needs-translation">Few seats available</target>
+        <target xml:lang="ja" state="translated">いくつかの空席</target>
         <note>As in 'this bus/train has few seats available'</note>
       </trans-unit>
       <trans-unit id="From %@">
@@ -1888,12 +1988,12 @@
       </trans-unit>
       <trans-unit id="Leave %@">
         <source>Leave %@</source>
-        <target xml:lang="ja" state="needs-translation">Leave %@</target>
+        <target xml:lang="ja" state="translated">%@ を離れる</target>
         <note>The place of departure. (old key: LeaveLocation)</note>
       </trans-unit>
       <trans-unit id="Leave %@ at %@">
         <source>Leave %@ at %@</source>
-        <target xml:lang="ja" state="needs-translation">Leave %@ at %@</target>
+        <target xml:lang="ja" state="translated">%@ で %@ 離れる</target>
         <note>The place of departure with time. (old key: LeaveLocationTime)</note>
       </trans-unit>
       <trans-unit id="Leave at %@">
@@ -1918,7 +2018,7 @@
       </trans-unit>
       <trans-unit id="Live traffic">
         <source>Live traffic</source>
-        <target xml:lang="ja" state="needs-translation">Live traffic</target>
+        <target xml:lang="ja" state="translated">交通状況</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading...">
@@ -1928,12 +2028,12 @@
       </trans-unit>
       <trans-unit id="Many seats available">
         <source>Many seats available</source>
-        <target xml:lang="ja" state="needs-translation">Many seats available</target>
+        <target xml:lang="ja" state="translated">沢山の座席が利用可能</target>
         <note>As in 'this bus/train has many seats available'</note>
       </trans-unit>
       <trans-unit id="More info">
         <source>More info</source>
-        <target xml:lang="ja" state="needs-translation">More info</target>
+        <target xml:lang="ja" state="translated">さらに詳しい情報</target>
         <note>Title of button to get more details about an alert</note>
       </trans-unit>
       <trans-unit id="No planned trips">
@@ -1963,7 +2063,7 @@
       </trans-unit>
       <trans-unit id="Opening Hours">
         <source>Opening Hours</source>
-        <target xml:lang="ja" state="needs-translation">Opening Hours</target>
+        <target xml:lang="ja" state="translated">営業時間</target>
         <note>Title for opening hours</note>
       </trans-unit>
       <trans-unit id="Plan a trip and it will show up here.">
@@ -1973,7 +2073,7 @@
       </trans-unit>
       <trans-unit id="Public holiday">
         <source>Public holiday</source>
-        <target xml:lang="ja" state="needs-translation">Public holiday</target>
+        <target xml:lang="ja" state="translated">国民の休日</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Real-time">
@@ -1991,6 +2091,11 @@
         <target xml:lang="ja" state="translated">SMS を送信します。</target>
         <note>Send SMS action</note>
       </trans-unit>
+      <trans-unit id="Setup">
+        <source>Setup</source>
+        <target xml:lang="ja" state="translated">セットアップ</target>
+        <note>Set up to connect/link to a service provider, e.g., Uber</note>
+      </trans-unit>
       <trans-unit id="Show website">
         <source>Show website</source>
         <target xml:lang="ja" state="translated">ウェブサイトを見る</target>
@@ -2003,7 +2108,7 @@
       </trans-unit>
       <trans-unit id="To %@">
         <source>To %@</source>
-        <target xml:lang="ja" state="needs-translation">To %@</target>
+        <target xml:lang="ja" state="translated">%@ へ</target>
         <note>Destination location. For trip titles, e.g., 'To work'. (old key: PrimaryLocationEnd)</note>
       </trans-unit>
       <trans-unit id="Trip">
@@ -2018,7 +2123,7 @@
       </trans-unit>
       <trans-unit id="Vehicle %@ updated %@ ago">
         <source>Vehicle %@ updated %@ ago</source>
-        <target xml:lang="ja" state="needs-translation">Vehicle %@ updated %@ ago</target>
+        <target xml:lang="ja" state="translated">車両更新 %@ %@ 前</target>
         <note>Vehicle 'x' updated. (old key: VehicleCalledUpdated)</note>
       </trans-unit>
       <trans-unit id="We are busy getting your upcoming trip. Please wait...">
@@ -2033,7 +2138,7 @@
       </trans-unit>
       <trans-unit id="Wheelchair accessible">
         <source>Wheelchair accessible</source>
-        <target xml:lang="ja" state="needs-translation">Wheelchair accessible</target>
+        <target xml:lang="ja" state="translated">車椅子可</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="at %@">
@@ -2065,7 +2170,7 @@
     <body>
       <trans-unit id="%@'s">
         <source>%@'s</source>
-        <target xml:lang="ja" state="needs-translation">%@'s</target>
+        <target xml:lang="ja" state="translated">%@の</target>
         <note>Name for a {%@}'s place if it's unclear if it's home, work or something else.</note>
       </trans-unit>
       <trans-unit id="%@'s Home">
@@ -2085,7 +2190,7 @@
       </trans-unit>
       <trans-unit id="'%@' not found.">
         <source>'%@' not found.</source>
-        <target xml:lang="ja" state="needs-translation">'%@' not found.</target>
+        <target xml:lang="ja" state="translated">'%@' が見つかりませんでした。</target>
         <note>Error when location search for %input was not successful. (old key: RequestErrorFormat)</note>
       </trans-unit>
       <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
@@ -2125,7 +2230,7 @@
       </trans-unit>
       <trans-unit id="CVC">
         <source>CVC</source>
-        <target xml:lang="ja" state="needs-translation">CVC</target>
+        <target xml:lang="ja" state="translated">セキュリティコード（CVC）</target>
         <note>Credit card CVC</note>
       </trans-unit>
       <trans-unit id="Can't find your current city">
@@ -2183,6 +2288,11 @@
         <target xml:lang="ja" state="translated">確認します。</target>
         <note>Title on the button that asks users to confirm if they want to proceed with booking</note>
       </trans-unit>
+      <trans-unit id="Contact support">
+        <source>Contact support</source>
+        <target xml:lang="ja" state="needs-translation">Contact support</target>
+        <note>Title for button that allows users to contact our support team to help resolve some error in the app.</note>
+      </trans-unit>
       <trans-unit id="Could not determine your current location.">
         <source>Could not determine your current location.</source>
         <target xml:lang="ja" state="translated">あなたの現在位置を特定できませんでした。</target>
@@ -2190,7 +2300,7 @@
       </trans-unit>
       <trans-unit id="Could not download supported regions from TripGo's server. Please try again later.">
         <source>Could not download supported regions from TripGo's server. Please try again later.</source>
-        <target xml:lang="ja" state="needs-translation">Could not download supported regions from TripGo's server. Please try again later.</target>
+        <target xml:lang="ja" state="translated">TripGo のサーバーからダウンロードが サポートされていない可能性があります。後でもう一度試してください。</target>
         <note>Could not download supported regions warning. (old key: CouldNotDownloadSupportedRegions)</note>
       </trans-unit>
       <trans-unit id="Creating account">
@@ -2246,7 +2356,7 @@
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
-        <target xml:lang="ja" state="needs-translation">Every %@</target>
+        <target xml:lang="ja" state="translated">すべての %@</target>
         <note>'Every %day' in context of repetitions (especially recurring events), e.g., 'Every Monday'. (old key: EveryDayFormat)</note>
       </trans-unit>
       <trans-unit id="Everyday">
@@ -2277,7 +2387,7 @@
       </trans-unit>
       <trans-unit id="Getting a lift">
         <source>Getting a lift</source>
-        <target xml:lang="ja" state="needs-translation">Getting a lift</target>
+        <target xml:lang="ja" state="translated">エレベータに乗る</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Has reminder">
@@ -2353,12 +2463,12 @@
       </trans-unit>
       <trans-unit id="My account">
         <source>My account</source>
-        <target xml:lang="ja" state="needs-translation">My account</target>
+        <target xml:lang="ja" state="translated">自分のアカウント</target>
         <note>Title for view that shows the summary of a user's account information</note>
       </trans-unit>
       <trans-unit id="Name">
         <source>Name</source>
-        <target xml:lang="ja" state="needs-translation">Name</target>
+        <target xml:lang="ja" state="translated">名前</target>
         <note>Name to which receipt is sent
    Name used in Facebook
    Sort by name
@@ -2366,17 +2476,17 @@
       </trans-unit>
       <trans-unit id="Never">
         <source>Never</source>
-        <target xml:lang="ja" state="needs-translation">Never</target>
+        <target xml:lang="ja" state="translated">指定なし</target>
         <note>Response to question whether user wants to report a problem when taking a screenshot. Also used in context of repetitions (especially recurring events).</note>
       </trans-unit>
       <trans-unit id="New account">
         <source>New account</source>
-        <target xml:lang="ja" state="needs-translation">New account</target>
+        <target xml:lang="ja" state="translated">新規アカウント</target>
         <note>Title for sign in view when user does not have an account</note>
       </trans-unit>
       <trans-unit id="Next">
         <source>Next</source>
-        <target xml:lang="ja" state="needs-translation">Next</target>
+        <target xml:lang="ja" state="translated">進む</target>
         <note>Next action</note>
       </trans-unit>
       <trans-unit id="No CO₂">
@@ -2386,7 +2496,7 @@
       </trans-unit>
       <trans-unit id="Now">
         <source>Now</source>
-        <target xml:lang="ja" state="needs-translation">Now</target>
+        <target xml:lang="ja" state="translated">今</target>
         <note>Countdown cell 'now' indicator</note>
       </trans-unit>
       <trans-unit id="OK">
@@ -2394,7 +2504,8 @@
         <target xml:lang="ja" state="translated">わかりました</target>
         <note>Authorisation ok button
    Default title for button that dismisses alert view
-   Error alert cancel</note>
+   Error alert cancel
+   Ok action</note>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
@@ -2403,7 +2514,7 @@
       </trans-unit>
       <trans-unit id="Open in Safari">
         <source>Open in Safari</source>
-        <target xml:lang="ja" state="needs-translation">Open in Safari</target>
+        <target xml:lang="ja" state="translated">Safariで開く</target>
         <note>Open in Safari action</note>
       </trans-unit>
       <trans-unit id="Password">
@@ -2440,6 +2551,11 @@
         <source>Press 'search' for more...</source>
         <target xml:lang="ja" state="translated">詳細については '検索' を押してください.</target>
         <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
+      </trans-unit>
+      <trans-unit id="Read more...">
+        <source>Read more...</source>
+        <target xml:lang="ja" state="needs-translation">Read more...</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
@@ -2481,6 +2597,11 @@
         <source>Report Problem</source>
         <target xml:lang="ja" state="needs-translation">Report Problem</target>
         <note>Button title to report a problem</note>
+      </trans-unit>
+      <trans-unit id="Retry">
+        <source>Retry</source>
+        <target xml:lang="ja" state="translated">再試行</target>
+        <note>Retry action, e.g., in case something didn't load</note>
       </trans-unit>
       <trans-unit id="SUV">
         <source>SUV</source>
@@ -2580,17 +2701,17 @@
       </trans-unit>
       <trans-unit id="Unknown error">
         <source>Unknown error</source>
-        <target xml:lang="ja" state="needs-translation">Unknown error</target>
+        <target xml:lang="ja" state="translated">不明なエラー。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Up to %@">
         <source>Up to %@</source>
-        <target xml:lang="ja" state="needs-translation">Up to %@</target>
+        <target xml:lang="ja" state="translated">%@ まで</target>
         <note>Up to %date. (old key: DateToFormat)</note>
       </trans-unit>
       <trans-unit id="Updating trip">
         <source>Updating trip</source>
-        <target xml:lang="ja" state="needs-translation">Updating trip</target>
+        <target xml:lang="ja" state="translated">旅行の更新</target>
         <note>Message that shows app is updating trip after user finalised bookings</note>
       </trans-unit>
       <trans-unit id="Values missing from required fields.">
@@ -2600,7 +2721,7 @@
       </trans-unit>
       <trans-unit id="Weekdays">
         <source>Weekdays</source>
-        <target xml:lang="ja" state="needs-translation">Weekdays</target>
+        <target xml:lang="ja" state="translated">平日</target>
         <note>Every weekday in context of repetitions (especially recurring events)</note>
       </trans-unit>
       <trans-unit id="Weekends">
@@ -2610,32 +2731,32 @@
       </trans-unit>
       <trans-unit id="Wheelchair accessible">
         <source>Wheelchair accessible</source>
-        <target xml:lang="ja" state="needs-translation">Wheelchair accessible</target>
+        <target xml:lang="ja" state="translated">車椅子可</target>
         <note>Indicator for wheelchair accessible services</note>
       </trans-unit>
       <trans-unit id="Would you like to report a problem?">
         <source>Would you like to report a problem?</source>
-        <target xml:lang="ja" state="needs-translation">Would you like to report a problem?</target>
+        <target xml:lang="ja" state="translated">問題を報告しますか?</target>
         <note>Question asked when user is taking a screenshot</note>
       </trans-unit>
       <trans-unit id="You need to agree to the booking terms and conditions.">
         <source>You need to agree to the booking terms and conditions.</source>
-        <target xml:lang="ja" state="needs-translation">You need to agree to the booking terms and conditions.</target>
+        <target xml:lang="ja" state="translated">ご予約の契約条件に同意する必要があります。</target>
         <note>Message that informs users that T&amp;C must be agreed before booking can be made.</note>
       </trans-unit>
       <trans-unit id="You need to agree to the insurance terms and conditions.">
         <source>You need to agree to the insurance terms and conditions.</source>
-        <target xml:lang="ja" state="needs-translation">You need to agree to the insurance terms and conditions.</target>
+        <target xml:lang="ja" state="translated">保険約款に同意する必要があります。</target>
         <note>Message that informs users that T&amp;C for insurance must be agreed before booking can be made.</note>
       </trans-unit>
       <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
         <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
-        <target xml:lang="ja" state="needs-translation">You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</target>
+        <target xml:lang="ja" state="translated">あなたは以前、あなたのカレンダーにこのアプリのアクセスを拒否されました。設定アプリにアクセスしてい &gt; プライバシー &gt; カレンダーに、この機能を使用するこのアプリを承認してください。</target>
         <note>Calendar authorisation needed text</note>
       </trans-unit>
       <trans-unit id="You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.">
         <source>You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</source>
-        <target xml:lang="ja" state="needs-translation">You previously denied this app access to your contacts. Please go to the Settings app &gt; Privacy &gt; Contacts and authorise this app to use this feature.</target>
+        <target xml:lang="ja" state="translated">あなたは以前、あなたの連絡先にこのアプリのアクセスを拒否されました。設定アプリにアクセスして &gt; プライバシー &gt; 連絡先に、この機能を使用するこのアプリを承認してください。</target>
         <note>Contacts authorisation needed text</note>
       </trans-unit>
       <trans-unit id="all-day">
@@ -2665,7 +2786,7 @@
       </trans-unit>
       <trans-unit id="mm/yy">
         <source>mm/yy</source>
-        <target xml:lang="ja" state="needs-translation">mm/yy</target>
+        <target xml:lang="ja" state="translated">年月</target>
         <note>Credit card expiry date placeholder, mm/yy</note>
       </trans-unit>
       <trans-unit id="starts at %@">
@@ -2675,7 +2796,7 @@
       </trans-unit>
       <trans-unit id="to %@">
         <source>to %@</source>
-        <target xml:lang="ja" state="needs-translation">to %@</target>
+        <target xml:lang="ja" state="translated">%@ に</target>
         <note>to %date. (old key: DateToFormat)</note>
       </trans-unit>
     </body>

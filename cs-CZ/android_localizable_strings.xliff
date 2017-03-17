@@ -459,9 +459,9 @@
         <target xml:lang="cs" state="needs-translation">Set Location</target>
       </trans-unit>
       <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is no stored on any server
+        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
         </source>
-        <target xml:lang="cs" state="needs-translation">Use your upcoming calendar events as location suggestions. This information is no stored on any server
+        <target xml:lang="cs" state="translated">Use your upcoming calendar events as location suggestions. This information is no stored on any server
         </target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
@@ -728,7 +728,8 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="cs" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">

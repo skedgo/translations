@@ -742,13 +742,15 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="nl" state="translated">Meetellen bij reizen</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="nl" state="translated">%s slots beschikbaar</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">

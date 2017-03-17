@@ -737,7 +737,8 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="zh-CN" state="translated">添加到该行程中</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
         </note>
         <alt-trans>
           <target xml:lang="zh-CN">包含在旅程中</target>
@@ -746,7 +747,8 @@
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="zh-CN" state="translated">%s 个停车位可用</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
