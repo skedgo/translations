@@ -650,10 +650,6 @@
         <source>Cycling speed</source>
         <target xml:lang="es-ES" state="translated">Vel. en bicicleta</target>
       </trans-unit>
-      <trans-unit id="settings_title_contact">
-        <source>Contact Support</source>
-        <target xml:lang="es-ES" state="translated">Contactar a Soporte</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
         <target xml:lang="es-ES" state="translated">Fin del transporte público</target>

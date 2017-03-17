@@ -559,10 +559,6 @@
         <source>Cycling speed</source>
         <target xml:lang="ko" state="translated">자전거 속도</target>
       </trans-unit>
-      <trans-unit id="settings_title_contact">
-        <source>Contact Support</source>
-        <target xml:lang="ko" state="translated">고객지원센터 연락하기</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
         <target xml:lang="ko" state="translated">대중교통으로 끝내기</target>

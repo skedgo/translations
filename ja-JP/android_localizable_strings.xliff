@@ -552,10 +552,6 @@
         <source>Cycling speed</source>
         <target xml:lang="ja" state="needs-translation">Cycling speed</target>
       </trans-unit>
-      <trans-unit id="settings_title_contact">
-        <source>Contact Support</source>
-        <target xml:lang="ja" state="translated">サポートへの問い合わせ</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
         <target xml:lang="ja" state="translated">公共交通機関の終わり</target>

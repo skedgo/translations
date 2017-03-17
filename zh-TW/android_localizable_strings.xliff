@@ -548,10 +548,6 @@
         <source>Cycling speed</source>
         <target xml:lang="zh-TW" state="translated">單車騎速</target>
       </trans-unit>
-      <trans-unit id="settings_title_contact">
-        <source>Contact Support</source>
-        <target xml:lang="zh-TW" state="translated">聯繫支援</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
         <target xml:lang="zh-TW" state="translated">在大眾交通路線即將結束時</target>

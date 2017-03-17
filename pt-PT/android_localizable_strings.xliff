@@ -548,10 +548,6 @@
         <source>Cycling speed</source>
         <target xml:lang="pt-PT" state="translated">Velocidade de pedalada</target>
       </trans-unit>
-      <trans-unit id="settings_title_contact">
-        <source>Contact Support</source>
-        <target xml:lang="pt-PT" state="translated">Contato de suporte</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
         <target xml:lang="pt-PT" state="translated">Término do transporte público</target>

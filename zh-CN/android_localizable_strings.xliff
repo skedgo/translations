@@ -557,10 +557,6 @@
         <source>Cycling speed</source>
         <target xml:lang="zh-CN" state="translated">自行车骑速</target>
       </trans-unit>
-      <trans-unit id="settings_title_contact">
-        <source>Contact Support</source>
-        <target xml:lang="zh-CN" state="translated">联系技术支持</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
         <target xml:lang="zh-CN" state="translated">公共交通即将结束</target>
