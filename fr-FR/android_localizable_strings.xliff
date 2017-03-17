@@ -680,7 +680,7 @@
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
-        <target xml:lang="fr" state="needs-translation">Trip to %s</target>
+        <target xml:lang="fr" state="translated">Voyage à %s</target>
       </trans-unit>
       <trans-unit id="trip_preferences">
         <source>Trip Preferences</source>
@@ -722,44 +722,49 @@
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target xml:lang="fr" state="needs-translation">News</target>
+        <target xml:lang="fr" state="translated">Actualités</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target xml:lang="fr" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
+        <target xml:lang="fr" state="translated">Inclus dans le voyage</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target xml:lang="fr" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <target xml:lang="fr" state="translated">%s horaires disponibles</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target xml:lang="fr" state="needs-translation">%s slot available</target>
+        <target xml:lang="fr" state="translated">%s créneaux horaires disponibles</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
+        <alt-trans>
+          <target xml:lang="fr">%s horaires disponibles</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target xml:lang="fr" state="needs-translation">No slot available</target>
+        <target xml:lang="fr" state="translated">Aucun créneau horaire disponible</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target xml:lang="fr" state="needs-translation">Updated at: %s</target>
+        <target xml:lang="fr" state="translated">Mis à jour à %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target xml:lang="fr" state="needs-translation">Almost full</target>
+        <target xml:lang="fr" state="translated">Presque complet</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>
-        <target xml:lang="fr" state="needs-translation">Ticket Info</target>
+        <target xml:lang="fr" state="translated">Info Billets</target>
         <note>Ticket Info title</note>
       </trans-unit>
     </body>

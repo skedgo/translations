@@ -69,6 +69,11 @@
         </source>
         <target xml:lang="ko" state="translated">이 일정에 출발 도착 장소가 누락되었지만 계속 표시됩니다.
         </target>
+        <alt-trans>
+          <target xml:lang="ko">이 일정에 출발 도착 장소가 누락되었지만 계속 표시됩니다.
+
+        </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="body_exclude_related_event_from_route">
         <source>The event related to the trip will be excluded. It will still be shown</source>
@@ -231,7 +236,10 @@
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
-        <target xml:lang="ko" state="translated"> 서비스 이름과 번호 그리고 정류장으로 필터링</target>
+        <target xml:lang="ko" state="translated">서비스 이름과 번호 그리고 정류장으로 필터링</target>
+        <alt-trans>
+          <target xml:lang="ko"> 서비스 이름과 번호 그리고 정류장으로 필터링</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="go_to_date">
         <source>Go to date</source>
@@ -731,13 +739,15 @@
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
         <target xml:lang="ko" state="translated">경로에 포함</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="ko" state="translated">%s 슬롯은 사용수 있음</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
@@ -752,8 +762,11 @@
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target xml:lang="ko" state="translated"> %s에 업데이트</target>
+        <target xml:lang="ko" state="translated">%s에 업데이트</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
+        <alt-trans>
+          <target xml:lang="ko"> %s에 업데이트</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>

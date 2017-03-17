@@ -158,7 +158,7 @@
       <trans-unit id="eula_has_changed">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
-        <target xml:lang="it" state="translated">Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
+        <target xml:lang="it" state="translated">Ha cambiato il nostro accordo di licenza utente finale. È necessario accettare prima di continuare l'uso di questa app.
         </target>
       </trans-unit>
       <trans-unit id="edit_favourite">
@@ -247,7 +247,7 @@
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target xml:lang="it" state="needs-translation">Information on concession pricing is subject to availability.</target>
+        <target xml:lang="it" state="translated">Informazioni sui prezzi di concessione sono soggetti a disponibilità.</target>
       </trans-unit>
       <trans-unit id="invalid_transfer_time">
         <source>Invalid time, revert to last used value.</source>
@@ -515,7 +515,7 @@
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
-        <target xml:lang="it" state="needs-translation">Server</target>
+        <target xml:lang="it" state="translated">Server</target>
       </trans-unit>
       <trans-unit id="settings_title_searching_contacts">
         <source>Search contact addresses</source>
@@ -577,7 +577,7 @@
       </trans-unit>
       <trans-unit id="taxi">
         <source>Taxi</source>
-        <target xml:lang="it" state="needs-translation">Taxi</target>
+        <target xml:lang="it" state="translated">Taxi</target>
       </trans-unit>
       <trans-unit id="terms_and_conditions">
         <source>Terms and Conditions</source>
@@ -725,44 +725,46 @@
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target xml:lang="it" state="needs-translation">News</target>
+        <target xml:lang="it" state="translated">Notizie</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target xml:lang="it" state="needs-translation">Include in trips</target>
-        <note>In transport mode detail, setting to enable that transport mode to be included in trips.
+        <target xml:lang="it" state="translated">Includere in viaggi</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target xml:lang="it" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <target xml:lang="it" state="translated">%s posti disponibili</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target xml:lang="it" state="needs-translation">%s slot available</target>
+        <target xml:lang="it" state="translated">%s posti disponibili</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target xml:lang="it" state="needs-translation">No slot available</target>
+        <target xml:lang="it" state="translated">Nessuno posto disponibile</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target xml:lang="it" state="needs-translation">Updated at: %s</target>
+        <target xml:lang="it" state="translated">Data di aggiornamento: %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target xml:lang="it" state="needs-translation">Almost full</target>
+        <target xml:lang="it" state="translated">Quasi pieno</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="ticket_info">
         <source>Ticket Info</source>
-        <target xml:lang="it" state="needs-translation">Ticket Info</target>
+        <target xml:lang="it" state="translated">Info biglietti</target>
         <note>Ticket Info title</note>
       </trans-unit>
     </body>

@@ -49,7 +49,7 @@
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
-        <target xml:lang="ja" state="translated">All your calendars are invisible, please switch them on in native calendar app or account settings
+        <target xml:lang="ja" state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or account settings
         </target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
@@ -242,7 +242,8 @@
         <source>Get On</source>
         <target xml:lang="ja" state="translated">乗車</target>
         <alt-trans>
-          <target xml:lang="ja">乗車</target>
+          <target xml:lang="ja">乗車
+</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
@@ -426,7 +427,7 @@
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
-        <target xml:lang="ja" state="translated">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
+        <target xml:lang="ja" state="needs-translation">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </target>
       </trans-unit>
       <trans-unit id="settings_category_usage">
@@ -738,7 +739,8 @@
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
         <target xml:lang="ja" state="needs-translation">%s slots available</target>
-        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots available
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
