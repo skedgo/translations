@@ -2,13 +2,13 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -19,13 +19,13 @@
   </file>
   <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -36,7 +36,7 @@
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="00e-CH-gOu.title">
@@ -111,7 +111,7 @@
   </file>
   <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -122,7 +122,7 @@
   </file>
   <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -133,7 +133,7 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Base.lproj/OnBoarding.storyboard" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="4Da-23-dIr.text">
@@ -267,7 +267,7 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Classes/controller/Base.lproj/TurkuOnboardingViewController.xib" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="1sJ-hr-VuN.text">
@@ -300,21 +300,21 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="%.0f minutes">
@@ -546,13 +546,6 @@
       <trans-unit id="Convenience">
         <source>Convenience</source>
         <target xml:lang="fi" state="translated">Mukavuus</target>
-      </trans-unit>
-      <trans-unit id="Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.">
-        <source>Convenience is affected by things such as changing public transport services, the amount of walking, and finding a taxi.</source>
-        <target xml:lang="fi" state="translated">Mukavuuteen vaikuttavat esimerkiksi muutokset julkisen liikenteen palveluissa, kävelymatkan pituus ja taksin löytäminen.</target>
-        <alt-trans>
-          <target xml:lang="fi">Mukavuuteen vaikuttavat esimerkiksi muutokset julkisen liikenteen palveluissa, kävelymatka, ja taksin löytäminen.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="Could not find your city.">
         <source>Could not find your city.</source>
@@ -1351,14 +1344,6 @@
         <target xml:lang="fi" state="translated">Satelliitti</target>
         <note>Map mode satellite</note>
       </trans-unit>
-      <trans-unit id="Save Money">
-        <source>Save Money</source>
-        <target xml:lang="fi" state="translated">Säästä Rahaa</target>
-      </trans-unit>
-      <trans-unit id="Save Time">
-        <source>Save Time</source>
-        <target xml:lang="fi" state="translated">Säästä Aikaa</target>
-      </trans-unit>
       <trans-unit id="Search for your home address">
         <source>Search for your home address</source>
         <target xml:lang="fi" state="translated">Hae kotiosoitteesi</target>
@@ -1732,7 +1717,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="%@ to %@">
@@ -1792,7 +1777,7 @@
       </trans-unit>
       <trans-unit id="Could not plan the next trip. Better check TripGo.">
         <source>Could not plan the next trip. Better check TripGo.</source>
-        <target xml:lang="fi" state="needs-translation">Could not plan the next trip. Better check TripGo.</target>
+        <target xml:lang="fi" state="translated">Seuraavaa matkaa ei voitu suunnitella. Tarkista TripGosta.</target>
         <note>Text shown when a new trip couldn't get planned through a notification.</note>
       </trans-unit>
       <trans-unit id="Current Trip">
@@ -2018,13 +2003,13 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
@@ -2087,7 +2072,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="30.accessibilityLabel">
@@ -2124,7 +2109,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -2151,7 +2136,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="%@'s">
@@ -2512,6 +2497,11 @@
         <target xml:lang="fi" state="translated">Ei CO₂</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Not wheelchair accessible">
+        <source>Not wheelchair accessible</source>
+        <target xml:lang="fi" state="needs-translation">Not wheelchair accessible</target>
+        <note>Indicator for wheelchair not accessible services</note>
+      </trans-unit>
       <trans-unit id="Now">
         <source>Now</source>
         <target xml:lang="fi" state="translated">Nyt</target>
@@ -2776,6 +2766,11 @@
         <target xml:lang="fi" state="translated">Viikonloppuisin</target>
         <note>Every weekend day in context of repetitions (especially recurring events)</note>
       </trans-unit>
+      <trans-unit id="Wheelchair accessibility unknown">
+        <source>Wheelchair accessibility unknown</source>
+        <target xml:lang="fi" state="needs-translation">Wheelchair accessibility unknown</target>
+        <note>Indicator for unknow if service or station is wheelchair accessible or not</note>
+      </trans-unit>
       <trans-unit id="Wheelchair accessible">
         <source>Wheelchair accessible</source>
         <target xml:lang="fi" state="translated">Pyörätuolilla liikkuminen huomioitu</target>
@@ -2868,7 +2863,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="fi">
     <header>
-      <tool build-num="8E3004b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3"/>
+      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
     </header>
     <body>
       <trans-unit id="%1$@ early">
@@ -2896,6 +2891,11 @@
         <alt-trans>
           <target xml:lang="fi">%1$@ myöhässä (%2$@ palvelu)</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="%@ alerts">
+        <source>%@ alerts</source>
+        <target xml:lang="fi" state="translated">%@ hälytykset</target>
+        <note>Number of alerts, in this case, there are multiple (plural</note>
       </trans-unit>
       <trans-unit id="%@ cycle friendly">
         <source>%@ cycle friendly</source>
@@ -3052,6 +3052,11 @@
         <source>Few seats available</source>
         <target xml:lang="fi" state="translated">Muutamia paikkoja vapaana</target>
         <note>As in 'this bus/train has few seats available'</note>
+      </trans-unit>
+      <trans-unit id="Friendly">
+        <source>Friendly</source>
+        <target xml:lang="fi" state="needs-translation">Friendly</target>
+        <note>Indicating a path is wheelchair/cycyling friendly</note>
       </trans-unit>
       <trans-unit id="From %@">
         <source>From %@</source>
@@ -3245,6 +3250,11 @@
         <target xml:lang="fi" state="translated">Asetukset</target>
         <note>Set up to connect/link to a service provider, e.g., Uber</note>
       </trans-unit>
+      <trans-unit id="Show">
+        <source>Show</source>
+        <target xml:lang="fi" state="needs-translation">Show</target>
+        <note>Title for button that, when tapped, shows something, e.g., a list of alert</note>
+      </trans-unit>
       <trans-unit id="Show website">
         <source>Show website</source>
         <target xml:lang="fi" state="translated">Avaa nettisivusto</target>
@@ -3268,6 +3278,16 @@
         <target xml:lang="fi" state="translated">Matka</target>
         <note>Title for a trip</note>
       </trans-unit>
+      <trans-unit id="Unfriendly">
+        <source>Unfriendly</source>
+        <target xml:lang="fi" state="needs-translation">Unfriendly</target>
+        <note>Indicating a path is wheelchair/cycyling unfriendly</note>
+      </trans-unit>
+      <trans-unit id="Unknown">
+        <source>Unknown</source>
+        <target xml:lang="fi" state="needs-translation">Unknown</target>
+        <note>Indicating the wheelchair/cycling friendliness of a path is unknown</note>
+      </trans-unit>
       <trans-unit id="Updated %@ ago">
         <source>Updated %@ ago</source>
         <target xml:lang="fi" state="translated">Päivitetty %@ sitten</target>
@@ -3286,11 +3306,6 @@
       <trans-unit id="We'll keep you updated with the latest transit alerts here">
         <source>We'll keep you updated with the latest transit alerts here</source>
         <target xml:lang="fi" state="translated">Täältä löydät viimeisimmät matkaasi liittyvät ilmoitukset</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Wheelchair accessible">
-        <source>Wheelchair accessible</source>
-        <target xml:lang="fi" state="translated">Pyörätuolilla liikkuminen huomioitu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="at %@">
