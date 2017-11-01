@@ -4,6 +4,14 @@
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="input strategy" source-language="en" target-language="en">
     <body>
+      <trans-unit id="access_to_your_calendar">
+        <source>Access to your calendar is required</source>
+        <target>Access to your calendar is required</target>
+      </trans-unit>
+      <trans-unit id="access_to_your_contacts">
+        <source>Access to your contacts is required</source>
+        <target>Access to your contacts is required</target>
+      </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
         <target>Add</target>
