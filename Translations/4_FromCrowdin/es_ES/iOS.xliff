@@ -2,13 +2,13 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -19,13 +19,13 @@
   </file>
   <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -34,103 +34,53 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripGo WatchKit App/Base.lproj/Interface.storyboard" source-language="en" target-language="es">
+  <file datatype="plaintext" original="TripGo Preview/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="TripGo Preview/Base.lproj/Main.storyboard" source-language="en" target-language="es">
+    <header>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="TripGo Preview/Info.plist" source-language="en" target-language="es">
+    <header>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
-      <trans-unit id="00e-CH-gOu.title">
-        <source>Reminder</source>
-        <target xml:lang="es" state="translated">Recordatorio</target>
-        <note>Class = "WKInterfaceSwitch"; title = "Reminder"; ObjectID = "00e-CH-gOu";</note>
+      <trans-unit id="NSCalendarsUsageDescription">
+        <source>Get automated trips from and to events in your calendar, and search your calendar for events.</source>
+        <target xml:lang="es" state="translated">Obtén viajes automáticos desde y hacia eventos de tu calendario, y busca tus eventos del calendario.</target>
       </trans-unit>
-      <trans-unit id="0mK-e0-427.text">
-        <source>Description</source>
-        <target xml:lang="es" state="translated">Descripción</target>
-        <note>Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "0mK-e0-427";</note>
-      </trans-unit>
-      <trans-unit id="6Qf-Ve-PDJ.text">
-        <source>No Data</source>
-        <target xml:lang="es" state="translated">No hay datos</target>
-        <note>Class = "WKInterfaceLabel"; text = "No Data"; ObjectID = "6Qf-Ve-PDJ";</note>
-      </trans-unit>
-      <trans-unit id="AgC-eL-Hgc.title">
-        <source>TripGo</source>
-        <target xml:lang="es" state="translated">TripGo</target>
-        <note>Class = "WKInterfaceController"; title = "TripGo"; ObjectID = "AgC-eL-Hgc";</note>
-      </trans-unit>
-      <trans-unit id="F85-mJ-6yD.text">
-        <source>Getting trip</source>
-        <target xml:lang="es" state="translated">Obteniendo viaje</target>
-        <note>Class = "WKInterfaceLabel"; text = "Getting trip"; ObjectID = "F85-mJ-6yD";</note>
-      </trans-unit>
-      <trans-unit id="GGf-v0-vEJ.title">
-        <source>Show Map</source>
-        <target xml:lang="es" state="translated">Ver mapa</target>
-        <note>Class = "WKInterfaceButton"; title = "Show Map"; ObjectID = "GGf-v0-vEJ";</note>
-      </trans-unit>
-      <trans-unit id="RoM-Us-t1Y.title">
-        <source>Favourites</source>
-        <target xml:lang="es" state="translated">Favoritos</target>
-        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "RoM-Us-t1Y";</note>
-      </trans-unit>
-      <trans-unit id="Uzb-ex-6N5.title">
-        <source>Agenda</source>
-        <target xml:lang="es" state="translated">Agenda</target>
-        <note>Class = "WKInterfaceMenuItem"; title = "Agenda"; ObjectID = "Uzb-ex-6N5";</note>
-      </trans-unit>
-      <trans-unit id="cAf-NX-Z7L.title">
-        <source>Favourites</source>
-        <target xml:lang="es" state="translated">Favoritos</target>
-        <note>Class = "WKInterfaceMenuItem"; title = "Favourites"; ObjectID = "cAf-NX-Z7L";</note>
-      </trans-unit>
-      <trans-unit id="h3q-kR-2ID.title">
-        <source>Timetable</source>
-        <target xml:lang="es" state="translated">Horarios</target>
-        <note>Class = "WKInterfaceButton"; title = "Timetable"; ObjectID = "h3q-kR-2ID";</note>
-      </trans-unit>
-      <trans-unit id="jYK-Fw-rhR.text">
-        <source>Alert</source>
-        <target xml:lang="es" state="translated">Alerta</target>
-        <note>Class = "WKInterfaceLabel"; text = "Alert"; ObjectID = "jYK-Fw-rhR";</note>
-      </trans-unit>
-      <trans-unit id="r0K-AY-XvO.title">
-        <source>Retry</source>
-        <target xml:lang="es" state="translated">Reintentar</target>
-        <note>Class = "WKInterfaceMenuItem"; title = "Retry"; ObjectID = "r0K-AY-XvO";</note>
-      </trans-unit>
-      <trans-unit id="rQN-eo-Bg2.title">
-        <source>Timetable</source>
-        <target xml:lang="es" state="translated">Horarios</target>
-        <note>Class = "WKInterfaceController"; title = "Timetable"; ObjectID = "rQN-eo-Bg2";</note>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Search from or to your current location. Locate yourself on the map.</source>
+        <target xml:lang="es" state="translated">Busca desde o hacia tu ubicación actual. Localízate en el mapa.</target>
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripGo WatchKit App/Info.plist" source-language="en" target-language="es">
+  <file datatype="plaintext" original="TripGo Preview/Localizable.strings" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>TripGo</source>
-        <target xml:lang="es" state="translated">TripGo</target>
+      <trans-unit id="No routes found.">
+        <source>No routes found.</source>
+        <target xml:lang="es" state="translated">Ninguna ruta encontrada.</target>
+        <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
-    </body>
-  </file>
-  <file datatype="plaintext" original="TripGo WatchKit Extension/Info.plist" source-language="en" target-language="es">
-    <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>TripGo WatchKit Extension</source>
-        <target xml:lang="es" state="translated">Extensión del WatchKit de TripGo</target>
+      <trans-unit id="Please adjust your query and try again.">
+        <source>Please adjust your query and try again.</source>
+        <target xml:lang="es" state="translated">Por favor, ajuste la consulta y vuelva a intentarlo.</target>
+        <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Base.lproj/OnBoarding.storyboard" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="4Da-23-dIr.text">
@@ -252,7 +202,7 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Classes/controller/Base.lproj/TurkuOnboardingViewController.xib" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="1sJ-hr-VuN.text">
@@ -285,21 +235,21 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Info.plist" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%.0f minutes">
@@ -593,6 +543,11 @@
         <source>Empty docks</source>
         <target xml:lang="es" state="translated">Muelles vacíos</target>
         <note>Empty docks that are available to return a shared bicycle.</note>
+      </trans-unit>
+      <trans-unit id="End">
+        <source>End</source>
+        <target xml:lang="es" state="translated">Fin</target>
+        <note>Title for the time an event ends (without date information)</note>
       </trans-unit>
       <trans-unit id="End Date">
         <source>End Date</source>
@@ -1277,7 +1232,7 @@
       <trans-unit id="Start">
         <source>Start</source>
         <target xml:lang="es" state="translated">Inicio</target>
-        <note>Title for the time an event starts (including date information)</note>
+        <note>Title for the time an event starts (without date information)</note>
       </trans-unit>
       <trans-unit id="Stay at a different location">
         <source>Stay at a different location</source>
@@ -1297,7 +1252,6 @@
       <trans-unit id="Swipe dates to navigate between weeks">
         <source>Swipe dates to navigate between weeks</source>
         <target xml:lang="es" state="translated">Deslice los días para navegar entre semanas.</target>
-        <note>Walkthrough</note>
       </trans-unit>
       <trans-unit id="Tap and hold title to jump directly to a specified date.">
         <source>Tap and hold title to jump directly to a specified date.</source>
@@ -1307,12 +1261,10 @@
       <trans-unit id="Tap public transport stops for access to timetable">
         <source>Tap public transport stops for access to timetable</source>
         <target xml:lang="es" state="translated">Presione sobre las paradas de transporte público para acceder a los horarios.</target>
-        <note>Walkthrough</note>
       </trans-unit>
       <trans-unit id="Tap title to go to 'today'">
         <source>Tap title to go to 'today'</source>
         <target xml:lang="es" state="translated">Presione el título para ir a 'hoy'.</target>
-        <note>Walkthrough</note>
       </trans-unit>
       <trans-unit id="Tap to confirm hours or swipe to delete">
         <source>Tap to confirm hours or swipe to delete</source>
@@ -1487,7 +1439,6 @@
       <trans-unit id="Zoom into map to view public transport stops">
         <source>Zoom into map to view public transport stops</source>
         <target xml:lang="es" state="translated">Haga zoom en el mapa para ver las paradas de transporte público.</target>
-        <note>Walkthrough</note>
       </trans-unit>
       <trans-unit id="what3words address">
         <source>what3words address</source>
@@ -1498,7 +1449,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%@ to %@">
@@ -1698,7 +1649,6 @@
       <trans-unit id="Show trip">
         <source>Show trip</source>
         <target xml:lang="es" state="translated">Mostrar Viaje</target>
-        <note>Show trip</note>
       </trans-unit>
       <trans-unit id="Snooze 5 mins">
         <source>Snooze 5 mins</source>
@@ -1784,13 +1734,13 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
@@ -1847,7 +1797,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="30.accessibilityLabel">
@@ -1884,7 +1834,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -1911,7 +1861,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%@'s">
@@ -1983,11 +1933,6 @@
         <source>CVC</source>
         <target xml:lang="es" state="translated">CVC</target>
         <note>Credit card CVC</note>
-      </trans-unit>
-      <trans-unit id="Can't find your current city">
-        <source>Can't find your current city</source>
-        <target xml:lang="es" state="translated">No se pudo detectar su ciudad actual</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
@@ -2560,7 +2505,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="es">
     <header>
-      <tool build-num="9A235" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%1$@ early">
