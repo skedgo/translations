@@ -770,8 +770,26 @@
         <target>Ticket Info</target>
         <note>Ticket Info title</note>
       </trans-unit>
+      <trans-unit id="got_it">
+        <source>Got it</source>
+        <target>Got it</target>
+        <note>"Understood" button label</note>
+      </trans-unit>
+      <trans-unit id="see_your_favourites_on_your_home_screen">
+        <source>See your favourites on your home screen!</source>
+        <target>See your favourites on your home screen!</target>
+        <note>Add favourite direct access message</note>
+      </trans-unit>
+      <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
+        <source>You can quickly access your favourite locations from your launcher.</source>
+        <target>You can quickly access your favourite locations from your launcher.</target>
+        <note>Add favourite direct access description</note>
+      </trans-unit>
+      <trans-unit id="just_tap_pattern_then_add_to_home_screen">
+        <source>Just tap %s then \'Add to Home screen\'</source>
+        <target>Just tap %s then \'Add to Home screen\'</target>
+        <note>Add favourite direct access action label</note>
+      </trans-unit>
     </body>
-
   </file>
-
 </xliff>
