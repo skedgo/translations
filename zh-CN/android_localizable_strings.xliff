@@ -2,31 +2,21 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="input strategy" source-language="en" target-language="zh-CN">
     <body>
+      <trans-unit id="access_to_your_calendar">
+        <source>Access to your calendar is required</source>
+        <target xml:lang="zh-CN" state="translated">需要访问您的日历</target>
+      </trans-unit>
+      <trans-unit id="access_to_your_contacts">
+        <source>Access to your contacts is required</source>
+        <target xml:lang="zh-CN" state="translated">需要访问您的通讯录</target>
+      </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
         <target xml:lang="zh-CN" state="translated">添加</target>
       </trans-unit>
-      <trans-unit id="add_a_routine">
-        <source>Add a routine</source>
-        <target xml:lang="zh-CN" state="translated">添加路线</target>
-        <alt-trans>
-          <target xml:lang="zh-CN">添加一个日程</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="add_an_event">
-        <source>Add an event</source>
-        <target xml:lang="zh-CN" state="translated">添加事件</target>
-      </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
         <target xml:lang="zh-CN" state="translated">添加位置</target>
-      </trans-unit>
-      <trans-unit id="add_new_location">
-        <source>Add new location</source>
-        <target xml:lang="zh-CN" state="translated">添加新的位置</target>
-        <alt-trans>
-          <target xml:lang="zh-CN">添加新位置</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
@@ -39,14 +29,6 @@
         <source>Add to Home screen</source>
         <target xml:lang="zh-CN" state="translated">添加到主屏幕</target>
       </trans-unit>
-      <trans-unit id="address">
-        <source>Address</source>
-        <target xml:lang="zh-CN" state="translated">地址</target>
-      </trans-unit>
-      <trans-unit id="agenda_set_or_delete">
-        <source>Tap here to set address or long-press to delete</source>
-        <target xml:lang="zh-CN" state="translated">点击这里设置地址或长按删除</target>
-      </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
         <target xml:lang="zh-CN" state="translated">点击下方的选项栏查看你的日常行程和收藏</target>
@@ -58,12 +40,19 @@
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings
         </source>
-        <target xml:lang="zh-CN" state="translated">你的所有日历都不可见，请切换到本地日历app或账号设置里
+        <target xml:lang="zh-CN" state="translated">您的所有日历都不可见，请在本机日历应用或帐户设置中切换
         </target>
+        <alt-trans>
+          <target xml:lang="zh-CN">你的所有日历都不可见，请切换到本地日历app或账号设置里
+        </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target xml:lang="zh-CN" state="translated">您遇到了一个网络错误，请重试</target>
+        <target xml:lang="zh-CN" state="translated">发生意外的网络错误。请重试。</target>
+        <alt-trans>
+          <target xml:lang="zh-CN">您遇到了一个网络错误，请重试</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
@@ -73,23 +62,9 @@
         <source>" (arrive "</source>
         <target xml:lang="zh-CN" state="translated">到达时间</target>
       </trans-unit>
-      <trans-unit id="body_exclude_this_event_from_route">
-        <source>This event will no longer have trips to or from it. The event will still be shown
-        </source>
-        <target xml:lang="zh-CN" state="translated">该事件将不会再有相关行程。但它仍会显示
-        </target>
-      </trans-unit>
-      <trans-unit id="body_exclude_related_event_from_route">
-        <source>The event related to the trip will be excluded. It will still be shown</source>
-        <target xml:lang="zh-CN" state="translated">与该行程有关的事件将被移除。但它仍会显示</target>
-      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="zh-CN" state="translated">预订</target>
-      </trans-unit>
-      <trans-unit id="cannot_find_that_location">
-        <source>Address not found</source>
-        <target xml:lang="zh-CN" state="translated">无法找到该地址</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
@@ -99,67 +74,25 @@
         <source>Error placing call</source>
         <target xml:lang="zh-CN" state="translated">拨号错误</target>
       </trans-unit>
-      <trans-unit id="cannot_remove_shortcut">
-        <source>Cannot remove shortcut</source>
-        <target xml:lang="zh-CN" state="translated">无法移除捷径</target>
-      </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
         <target xml:lang="zh-CN" state="translated">坐标: %s</target>
-      </trans-unit>
-      <trans-unit id="choose_an_alternative">
-        <source>Choose an Alternative</source>
-        <target xml:lang="zh-CN" state="translated">选择其他替代方案</target>
-      </trans-unit>
-      <trans-unit id="del_all_events">
-        <source>All events</source>
-        <target xml:lang="zh-CN" state="translated">所有事件</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
         <target xml:lang="zh-CN" state="translated">无法找到您的当前位置</target>
       </trans-unit>
-      <trans-unit id="del_this_and_future_events">
-        <source>This and future events</source>
-        <target xml:lang="zh-CN" state="translated">此事件和将来的事件</target>
-      </trans-unit>
-      <trans-unit id="del_only_this_event">
-        <source>Only this event</source>
-        <target xml:lang="zh-CN" state="translated">只有这个事件</target>
-      </trans-unit>
-      <trans-unit id="delete_event">
-        <source>Delete this event</source>
-        <target xml:lang="zh-CN" state="translated">删除此事件</target>
-      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="zh-CN" state="translated">目的地</target>
-      </trans-unit>
-      <trans-unit id="did_you_mean">
-        <source>Did you mean</source>
-        <target xml:lang="zh-CN" state="translated">您指的是</target>
       </trans-unit>
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
         <target xml:lang="zh-CN" state="translated">删除此车辆</target>
       </trans-unit>
-      <trans-unit id="departuretimeindication">
-        <source>" (depart "</source>
-        <target xml:lang="zh-CN" state="translated">" (离站 "</target>
-      </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
         <target xml:lang="zh-CN" state="translated">编辑</target>
-      </trans-unit>
-      <trans-unit id="edit_event">
-        <source>Edit event</source>
-        <target xml:lang="zh-CN" state="translated">编辑事件</target>
-      </trans-unit>
-      <trans-unit id="enable_calendar_in_tripgo_settings">
-        <source>All your calendars are disabled in TripGo, please enable them in Settings section
-        </source>
-        <target xml:lang="zh-CN" state="translated">TripGo无法使用您的日历，请去设置里授权
-        </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
@@ -170,50 +103,6 @@
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
         <target xml:lang="zh-CN" state="translated">编辑收藏</target>
-      </trans-unit>
-      <trans-unit id="empty_event_not_saved">
-        <source>Empty event is not saved</source>
-        <target xml:lang="zh-CN" state="translated">无法保存为空的事件</target>
-      </trans-unit>
-      <trans-unit id="event_must_have_location">
-        <source>A location must be set</source>
-        <target xml:lang="zh-CN" state="translated">必须设置一个地理位置</target>
-      </trans-unit>
-      <trans-unit id="event_must_have_title">
-        <source>Event must have a title</source>
-        <target xml:lang="zh-CN" state="translated">事件必须包含名字</target>
-      </trans-unit>
-      <trans-unit id="event_detail_title">
-        <source>Event details</source>
-        <target xml:lang="zh-CN" state="translated">事件详情</target>
-      </trans-unit>
-      <trans-unit id="event_excluded">
-        <source>Event excluded</source>
-        <target xml:lang="zh-CN" state="translated">未包含事件</target>
-      </trans-unit>
-      <trans-unit id="exclude_from_routing_brief">
-        <source>Exclude from agenda planning</source>
-        <target xml:lang="zh-CN" state="translated">从行程计划中移除</target>
-      </trans-unit>
-      <trans-unit id="exclude_from_routing">
-        <source>Exclude this event from agenda planning</source>
-        <target xml:lang="zh-CN" state="translated">将此事件从行程计划种移除</target>
-      </trans-unit>
-      <trans-unit id="exclude_event">
-        <source>Exclude event</source>
-        <target xml:lang="zh-CN" state="translated">移除此事件</target>
-      </trans-unit>
-      <trans-unit id="event_update_warning">
-        <source>Event updated, it may take a while to see the change</source>
-        <target xml:lang="zh-CN" state="translated">事件已经更新，可能需要过一会才能看见新内容</target>
-      </trans-unit>
-      <trans-unit id="favourite_saved">
-        <source>Favorite saved</source>
-        <target xml:lang="zh-CN" state="translated">收藏成功</target>
-      </trans-unit>
-      <trans-unit id="favourite_location">
-        <source>Favorite Location</source>
-        <target xml:lang="zh-CN" state="translated">收藏的位置</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
@@ -227,10 +116,6 @@
         <source>Get Off</source>
         <target xml:lang="zh-CN" state="translated">下车</target>
       </trans-unit>
-      <trans-unit id="get_google_play_services">
-        <source>Get Google Play Services</source>
-        <target xml:lang="zh-CN" state="translated">获取Google Play服务</target>
-      </trans-unit>
       <trans-unit id="first">
         <source>First:</source>
         <target xml:lang="zh-CN" state="translated">首先:</target>
@@ -238,10 +123,6 @@
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
         <target xml:lang="zh-CN" state="translated">通过公交路线名字、号码或者停靠站进行查询</target>
-      </trans-unit>
-      <trans-unit id="go_to_date">
-        <source>Go to date</source>
-        <target xml:lang="zh-CN" state="translated">出发日期</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
@@ -255,10 +136,6 @@
         <source>Information on concession pricing is subject to availability.</source>
         <target xml:lang="zh-CN" state="translated">取得优惠票价的信息是视情况而定的。</target>
       </trans-unit>
-      <trans-unit id="invalid_transfer_time">
-        <source>Invalid time, revert to last used value.</source>
-        <target xml:lang="zh-CN" state="translated">无效时间，调回到上次使用的时间</target>
-      </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
         <target xml:lang="zh-CN" state="translated">出发时间到啦!</target>
@@ -267,21 +144,9 @@
         <source>Leave now to make it on time</source>
         <target xml:lang="zh-CN" state="translated">现在出发可以准时到达</target>
       </trans-unit>
-      <trans-unit id="lets_start">
-        <source>Let's start</source>
-        <target xml:lang="zh-CN" state="translated">我们开始吧!</target>
-      </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
         <target xml:lang="zh-CN" state="translated">现在出发</target>
-      </trans-unit>
-      <trans-unit id="go_to_today">
-        <source>Go to today</source>
-        <target xml:lang="zh-CN" state="translated">今天出发</target>
-      </trans-unit>
-      <trans-unit id="include_cal_act">
-        <source>Include checked calendars</source>
-        <target xml:lang="zh-CN" state="translated">包含选中的日历</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
@@ -291,45 +156,21 @@
         <source>1 minute</source>
         <target xml:lang="zh-CN" state="translated">1分钟</target>
       </trans-unit>
-      <trans-unit id="navigate_current_location">
-        <source>Navigate from current location</source>
-        <target xml:lang="zh-CN" state="translated">从当前位置导航</target>
-      </trans-unit>
-      <trans-unit id="navigate_from">
-        <source>Navigate from %1$s</source>
-        <target xml:lang="zh-CN" state="translated">从 %1$s 导航</target>
-      </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
         <target xml:lang="zh-CN" state="translated">新的车辆</target>
-      </trans-unit>
-      <trans-unit id="location_name">
-        <source>Location Name</source>
-        <target xml:lang="zh-CN" state="translated">位置名称</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
         <target xml:lang="zh-CN" state="translated">无法找到位置</target>
       </trans-unit>
-      <trans-unit id="location_save_by_gps">
-        <source>"Cannot find address, location will be saved by GPS coordinates"</source>
-        <target xml:lang="zh-CN" state="translated">"找不到地址，位置将被GPS记录"</target>
-      </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
         <target xml:lang="zh-CN" state="translated">选中位置</target>
       </trans-unit>
-      <trans-unit id="no_results_found">
-        <source>No Results Found</source>
-        <target xml:lang="zh-CN" state="translated">找不到结果</target>
-      </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
         <target xml:lang="zh-CN" state="translated">没有收到任何评分</target>
-      </trans-unit>
-      <trans-unit id="one_time_event">
-        <source>Don't repeat</source>
-        <target xml:lang="zh-CN" state="translated">不要重复</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
@@ -343,87 +184,29 @@
         <source>There was an error and it was reported to us. Please try again</source>
         <target xml:lang="zh-CN" state="translated">有一个错误已经反馈给我们。请再试一次</target>
       </trans-unit>
-      <trans-unit id="no_google_play_services_title">
-        <source>No Google Play Services!</source>
-        <target xml:lang="zh-CN" state="translated">没有Google Play服务!</target>
-      </trans-unit>
-      <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
-        </source>
-        <target xml:lang="zh-CN" state="translated">本app要求安装Goole Play服务。\n\n请下载它以便您继续使用该app
-        </target>
-      </trans-unit>
-      <trans-unit id="priority_convenience_subtext">
-        <source>Hassle of the trip</source>
-        <target xml:lang="zh-CN" state="translated">路程的方便性</target>
-      </trans-unit>
-      <trans-unit id="priority_budget_subtext">
-        <source>Trip cost</source>
-        <target xml:lang="zh-CN" state="translated">路程花费</target>
-      </trans-unit>
-      <trans-unit id="priority_time_subtext">
-        <source>Trip duration</source>
-        <target xml:lang="zh-CN" state="translated">路程历时</target>
-      </trans-unit>
-      <trans-unit id="priority_environment_subtext">
-        <source>Impact of the trip</source>
-        <target xml:lang="zh-CN" state="translated">路程对环境的影响</target>
-      </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
         <target xml:lang="zh-CN" state="translated">出发地</target>
-      </trans-unit>
-      <trans-unit id="page_between_upcoming_services">
-        <source>Page between upcoming services</source>
-        <target xml:lang="zh-CN" state="translated">即将到来的服务前的中间页</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
         <target xml:lang="zh-CN" state="translated">抱歉，该位置不在TripGo服务范围内!</target>
       </trans-unit>
-      <trans-unit id="repeat_end_date_in_past">
-        <source>Repetition end date is in the past</source>
-        <target xml:lang="zh-CN" state="translated">重复事件结束日期已经过去</target>
-      </trans-unit>
-      <trans-unit id="repeat_ends_on">
-        <source>Repeat does end on</source>
-        <target xml:lang="zh-CN" state="translated">重复事件将在此日结束</target>
-      </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
         <target xml:lang="zh-CN" state="translated">移出收藏栏</target>
-      </trans-unit>
-      <trans-unit id="remove_shortcut">
-        <source>Remove shortcut</source>
-        <target xml:lang="zh-CN" state="translated">移除捷径</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
         <target xml:lang="zh-CN" state="translated">刷新</target>
       </trans-unit>
-      <trans-unit id="public_transport">
-        <source>Public Transport</source>
-        <target xml:lang="zh-CN" state="translated">公共交通</target>
-      </trans-unit>
-      <trans-unit id="rate">
-        <source>Rate</source>
-        <target xml:lang="zh-CN" state="translated">评分</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="zh-CN" state="translated">设置结束时间</target>
       </trans-unit>
-      <trans-unit id="search_instantly">
-        <source>Search instantly</source>
-        <target xml:lang="zh-CN" state="translated">立即搜索</target>
-      </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
         <target xml:lang="zh-CN" state="translated">选取日历</target>
-      </trans-unit>
-      <trans-unit id="routes_updated">
-        <source>Routes updated</source>
-        <target xml:lang="zh-CN" state="translated">路线已被更新</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
@@ -434,18 +217,6 @@
         </source>
         <target xml:lang="zh-CN" state="translated">例行事件是您每天必须要做的事，但是你不想将它们记录在日历中（例如：上班）。例行事件可以让“行程”功能在对的时间带您到对的地方
         </target>
-      </trans-unit>
-      <trans-unit id="settings_category_usage">
-        <source>Anonymous Data Tracking</source>
-        <target xml:lang="zh-CN" state="translated">匿名数据追踪</target>
-      </trans-unit>
-      <trans-unit id="settings_category_searching">
-        <source>Searching</source>
-        <target xml:lang="zh-CN" state="translated">正在搜索</target>
-      </trans-unit>
-      <trans-unit id="settings_category_results">
-        <source>Trip Results</source>
-        <target xml:lang="zh-CN" state="translated">路程结果</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -467,12 +238,6 @@
         <source>Set Location</source>
         <target xml:lang="zh-CN" state="translated">设置位置</target>
       </trans-unit>
-      <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
-        </source>
-        <target xml:lang="zh-CN" state="translated">使用您日历上即将到来的事件作为您搜索位置时的建议。这些资料将不会存放在服务器上
-        </target>
-      </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
         <target xml:lang="zh-CN" state="translated">在行程开始前显示提示</target>
@@ -489,20 +254,6 @@
         <source>Show an alert towards the end of any public transport on your trip</source>
         <target xml:lang="zh-CN" state="translated">在您行程上任何公共交通路段结束前显示提示</target>
       </trans-unit>
-      <trans-unit id="settings_summary_rate">
-        <source>Rate the app in the store!</source>
-        <target xml:lang="zh-CN" state="translated">在Google Play里评价本程序!</target>
-      </trans-unit>
-      <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
-        </source>
-        <target xml:lang="zh-CN" state="translated">允许TripGo在您使用时（不是后台模式），匿名追踪您的位置
-        </target>
-      </trans-unit>
-      <trans-unit id="settings_summary_distance_units">
-        <source>Distance units to use in trip results</source>
-        <target xml:lang="zh-CN" state="translated">在路程结果中使用的距离单位</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
         <target xml:lang="zh-CN" state="translated">行程开始</target>
@@ -510,10 +261,6 @@
       <trans-unit id="settings_title_reminder_service_alerts">
         <source>Service alerts</source>
         <target xml:lang="zh-CN" state="translated">车次变动</target>
-      </trans-unit>
-      <trans-unit id="settings_title_searching_calendar">
-        <source>Search calendar events</source>
-        <target xml:lang="zh-CN" state="translated">搜索日历上的事件</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
@@ -523,35 +270,9 @@
         <source>Server</source>
         <target xml:lang="zh-CN" state="translated">服务器</target>
       </trans-unit>
-      <trans-unit id="settings_title_searching_contacts">
-        <source>Search contact addresses</source>
-        <target xml:lang="zh-CN" state="translated">搜索通讯录地址</target>
-      </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
         <target xml:lang="zh-CN" state="translated">版本</target>
-      </trans-unit>
-      <trans-unit id="settings_title_track_usage">
-        <source>Track App Usage</source>
-        <target xml:lang="zh-CN" state="translated">追踪程序使用情况</target>
-      </trans-unit>
-      <trans-unit id="settings_summary_server">
-        <source>Server to use. Note this will override *ALL* server calls!</source>
-        <target xml:lang="zh-CN" state="translated">要使用的服务器。请注意，这将覆盖 * 所有 * 服务器调用 ！</target>
-      </trans-unit>
-      <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored on any server
-        </source>
-        <target xml:lang="zh-CN" state="translated">使用您通讯录上的地址作为您搜索位置时的建议。这些资料将不会存放在服务器上
-        </target>
-      </trans-unit>
-      <trans-unit id="settings_summary_trip_preferences">
-        <source>Influence trip results by setting what's most important to you</source>
-        <target xml:lang="zh-CN" state="translated">您可以通过设置什么对您是最重要的来影响路线规划的结果</target>
-      </trans-unit>
-      <trans-unit id="settings_summary_track_usage">
-        <source>Allow TripGo to anonymously track your app usage</source>
-        <target xml:lang="zh-CN" state="translated">允许TripGo匿名追踪您的程序使用情况</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
@@ -561,10 +282,6 @@
         <source>End of public transport</source>
         <target xml:lang="zh-CN" state="translated">公共交通即将结束</target>
       </trans-unit>
-      <trans-unit id="settings_title_gps_submit">
-        <source>Track Location</source>
-        <target xml:lang="zh-CN" state="translated">追踪定位</target>
-      </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
         <target xml:lang="zh-CN" state="translated">根据路程费用排序</target>
@@ -572,26 +289,6 @@
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
         <target xml:lang="zh-CN" state="translated">根据您的偏好排序</target>
-      </trans-unit>
-      <trans-unit id="one_more_thing">
-        <source>One more thing…</source>
-        <target xml:lang="zh-CN" state="translated">还有一件事…</target>
-      </trans-unit>
-      <trans-unit id="taxi">
-        <source>Taxi</source>
-        <target xml:lang="zh-CN" state="translated">出租车</target>
-      </trans-unit>
-      <trans-unit id="terms_and_conditions">
-        <source>Terms and Conditions</source>
-        <target xml:lang="zh-CN" state="translated">使用条款和说明</target>
-      </trans-unit>
-      <trans-unit id="this_loc">
-        <source>this location</source>
-        <target xml:lang="zh-CN" state="translated">这个位置</target>
-      </trans-unit>
-      <trans-unit id="time_to_leave_for">
-        <source>Time to leave for %s</source>
-        <target xml:lang="zh-CN" state="translated">该出发前往 %s</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
@@ -604,14 +301,6 @@
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
         <target xml:lang="zh-CN" state="translated">分享时刻表</target>
-      </trans-unit>
-      <trans-unit id="show_agenda_list">
-        <source>Show agenda list</source>
-        <target xml:lang="zh-CN" state="translated">分享行程列表</target>
-      </trans-unit>
-      <trans-unit id="show_agenda_map">
-        <source>Show agenda map</source>
-        <target xml:lang="zh-CN" state="translated">分享行程地图</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
@@ -633,10 +322,6 @@
         <source>View on Yelp</source>
         <target xml:lang="zh-CN" state="translated">在Yelp上查看</target>
       </trans-unit>
-      <trans-unit id="vehicle_modes">
-        <source>Vehicle Modes</source>
-        <target xml:lang="zh-CN" state="translated">车辆类型</target>
-      </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
         <target xml:lang="zh-CN" state="translated">即将到来的车次</target>
@@ -644,10 +329,6 @@
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
         <target xml:lang="zh-CN" state="translated">未知的位置</target>
-      </trans-unit>
-      <trans-unit id="walkthrough_1">
-        <source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-        <target xml:lang="zh-CN" state="translated">TripGo根据所有可使用的交通工具来帮助您规划从A到B的最佳路线。</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
@@ -671,47 +352,17 @@
         <source>Today</source>
         <target xml:lang="zh-CN" state="translated">今天</target>
       </trans-unit>
-      <trans-unit id="title_exclude_event_from_route">
-        <source>Exclude event from routes?</source>
-        <target xml:lang="zh-CN" state="translated">从路线中移除此事件?</target>
-      </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
         <target xml:lang="zh-CN" state="translated">没有找到停靠此站的车次</target>
-      </trans-unit>
-      <trans-unit id="trip_to_unknown_dest_about_to_start">
-        <source>It looks like you have a trip to make</source>
-        <target xml:lang="zh-CN" state="translated">您似乎有个行程即将开始</target>
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
         <target xml:lang="zh-CN" state="translated">行程前往 %s</target>
       </trans-unit>
-      <trans-unit id="trip_preferences">
-        <source>Trip Preferences</source>
-        <target xml:lang="zh-CN" state="translated">路程偏好</target>
-      </trans-unit>
-      <trans-unit id="transport_selector_header">
-        <source>Include in the route results</source>
-        <target xml:lang="zh-CN" state="translated">显示在路线结果中</target>
-      </trans-unit>
-      <trans-unit id="walkthrough_4">
-        <source>Search routes directly right from Google search bar without opening TripGo.</source>
-        <target xml:lang="zh-CN" state="translated">您不需要打开TripGo，可以直接从Google搜索栏查询路线</target>
-      </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
         <target xml:lang="zh-CN" state="translated">昨天</target>
-      </trans-unit>
-      <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
-        </source>
-        <target xml:lang="zh-CN" state="translated">再也不会迟到。“行程”功能将提前帮您做好规划，并让您知道何时该出发。
-        </target>
-      </trans-unit>
-      <trans-unit id="walkthrough_3">
-        <source>For those without an agenda, save favorite places.</source>
-        <target xml:lang="zh-CN" state="translated">对于不需要“行程”功能的使用者，您可以保存您的常用位置到“收藏”。</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
@@ -720,10 +371,6 @@
       <trans-unit id="you_are_here">
         <source>You are here</source>
         <target xml:lang="zh-CN" state="translated">你在这里</target>
-      </trans-unit>
-      <trans-unit id="you_r_already_at_s">
-        <source>You are already at %s!</source>
-        <target xml:lang="zh-CN" state="translated">您已经在 %s!</target>
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
@@ -767,13 +414,25 @@
         <target xml:lang="zh-CN" state="translated">几乎满位</target>
         <note>Occupancy almost full</note>
       </trans-unit>
-      <trans-unit id="ticket_info">
-        <source>Ticket Info</source>
-        <target xml:lang="zh-CN" state="translated">门票信息</target>
-        <note>Ticket Info title</note>
-        <alt-trans>
-          <target xml:lang="zh-CN">票信息</target>
-        </alt-trans>
+      <trans-unit id="got_it">
+        <source>Got it</source>
+        <target xml:lang="zh-CN" state="translated">知道啦</target>
+        <note>"Understood" button label</note>
+      </trans-unit>
+      <trans-unit id="see_your_favourites_on_your_home_screen">
+        <source>See your favourites on your home screen!</source>
+        <target xml:lang="zh-CN" state="translated">在主屏幕上查看您的收藏夹！</target>
+        <note>Add favourite direct access message</note>
+      </trans-unit>
+      <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
+        <source>You can quickly access your favourite locations from your launcher.</source>
+        <target xml:lang="zh-CN" state="translated">您可以从快捷界面直接访问您喜欢的位置。</target>
+        <note>Add favourite direct access description</note>
+      </trans-unit>
+      <trans-unit id="just_tap_pattern_then_add_to_home_screen">
+        <source>Just tap %s then 'Add to Home screen'</source>
+        <target xml:lang="zh-CN" state="translated">只需点击%s，然后点击“添加到主屏幕”</target>
+        <note>Add favourite direct access action label</note>
       </trans-unit>
     </body>
   </file>

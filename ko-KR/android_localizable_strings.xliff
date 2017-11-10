@@ -2,25 +2,21 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="input strategy" source-language="en" target-language="ko">
     <body>
+      <trans-unit id="access_to_your_calendar">
+        <source>Access to your calendar is required</source>
+        <target xml:lang="ko" state="needs-translation">Access to your calendar is required</target>
+      </trans-unit>
+      <trans-unit id="access_to_your_contacts">
+        <source>Access to your contacts is required</source>
+        <target xml:lang="ko" state="needs-translation">Access to your contacts is required</target>
+      </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
         <target xml:lang="ko" state="translated">추가 </target>
       </trans-unit>
-      <trans-unit id="add_a_routine">
-        <source>Add a routine</source>
-        <target xml:lang="ko" state="translated">일정에 추가 </target>
-      </trans-unit>
-      <trans-unit id="add_an_event">
-        <source>Add an event</source>
-        <target xml:lang="ko" state="translated">이벤트 추가</target>
-      </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
         <target xml:lang="ko" state="translated">위치 추가</target>
-      </trans-unit>
-      <trans-unit id="add_new_location">
-        <source>Add new location</source>
-        <target xml:lang="ko" state="translated">새 위치 추가</target>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
@@ -29,14 +25,6 @@
       <trans-unit id="add_to_home_screen">
         <source>Add to Home screen</source>
         <target xml:lang="ko" state="translated">홈 화면에 추가</target>
-      </trans-unit>
-      <trans-unit id="address">
-        <source>Address</source>
-        <target xml:lang="ko" state="translated">주소</target>
-      </trans-unit>
-      <trans-unit id="agenda_set_or_delete">
-        <source>Tap here to set address or long-press to delete</source>
-        <target xml:lang="ko" state="translated">주소를 설정하려면 여기를 누르고 삭제하려면 길게 누르세요.</target>
       </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
@@ -64,28 +52,9 @@
         <source>" (arrive "</source>
         <target xml:lang="ko" state="translated">"(도착"</target>
       </trans-unit>
-      <trans-unit id="body_exclude_this_event_from_route">
-        <source>This event will no longer have trips to or from it. The event will still be shown
-        </source>
-        <target xml:lang="ko" state="translated">이 일정에 출발 도착 장소가 누락되었지만 계속 표시됩니다.
-        </target>
-        <alt-trans>
-          <target xml:lang="ko">이 일정에 출발 도착 장소가 누락되었지만 계속 표시됩니다.
-
-        </target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="body_exclude_related_event_from_route">
-        <source>The event related to the trip will be excluded. It will still be shown</source>
-        <target xml:lang="ko" state="translated">일정에 포합된 경로가 누락되었지만  계속 표시됩니다.</target>
-      </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
         <target xml:lang="ko" state="translated">예약</target>
-      </trans-unit>
-      <trans-unit id="cannot_find_that_location">
-        <source>Address not found</source>
-        <target xml:lang="ko" state="translated">주소를 찾을 수 없음</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
@@ -95,53 +64,21 @@
         <source>Error placing call</source>
         <target xml:lang="ko" state="translated">오류 발생</target>
       </trans-unit>
-      <trans-unit id="cannot_remove_shortcut">
-        <source>Cannot remove shortcut</source>
-        <target xml:lang="ko" state="translated">바로 가기는 제거할 수 없습니다.</target>
-      </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
         <target xml:lang="ko" state="translated">좌표: %s</target>
-      </trans-unit>
-      <trans-unit id="choose_an_alternative">
-        <source>Choose an Alternative</source>
-        <target xml:lang="ko" state="translated">대안 선택</target>
-      </trans-unit>
-      <trans-unit id="del_all_events">
-        <source>All events</source>
-        <target xml:lang="ko" state="translated">모든 일정</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
         <target xml:lang="ko" state="translated">현재 위치를 파악 할 수 없습니다.</target>
       </trans-unit>
-      <trans-unit id="del_this_and_future_events">
-        <source>This and future events</source>
-        <target xml:lang="ko" state="translated">지금과 미래 일정</target>
-      </trans-unit>
-      <trans-unit id="del_only_this_event">
-        <source>Only this event</source>
-        <target xml:lang="ko" state="translated">이 일정에만</target>
-      </trans-unit>
-      <trans-unit id="delete_event">
-        <source>Delete this event</source>
-        <target xml:lang="ko" state="translated">이 일정 삭제</target>
-      </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
         <target xml:lang="ko" state="translated">도착지</target>
       </trans-unit>
-      <trans-unit id="did_you_mean">
-        <source>Did you mean</source>
-        <target xml:lang="ko" state="translated">혹시</target>
-      </trans-unit>
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
         <target xml:lang="ko" state="translated">이 차량 삭제</target>
-      </trans-unit>
-      <trans-unit id="departuretimeindication">
-        <source>" (depart "</source>
-        <target xml:lang="ko" state="translated">"(출발"</target>
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
@@ -149,16 +86,6 @@
         <alt-trans>
           <target xml:lang="ko"> 수정</target>
         </alt-trans>
-      </trans-unit>
-      <trans-unit id="edit_event">
-        <source>Edit event</source>
-        <target xml:lang="ko" state="translated">일정 수정하기</target>
-      </trans-unit>
-      <trans-unit id="enable_calendar_in_tripgo_settings">
-        <source>All your calendars are disabled in TripGo, please enable them in Settings section
-        </source>
-        <target xml:lang="ko" state="translated">TripGo의 모든 캘린더 기능이 꺼져있습니다. 설정에서 허용해 주세요.
-        </target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
@@ -169,50 +96,6 @@
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
         <target xml:lang="ko" state="translated">즐겨찾기 수정하기</target>
-      </trans-unit>
-      <trans-unit id="empty_event_not_saved">
-        <source>Empty event is not saved</source>
-        <target xml:lang="ko" state="translated">빈 일정은 저장이 되지 않습니다.</target>
-      </trans-unit>
-      <trans-unit id="event_must_have_location">
-        <source>A location must be set</source>
-        <target xml:lang="ko" state="translated">위치를 설정 해야 합니다.</target>
-      </trans-unit>
-      <trans-unit id="event_must_have_title">
-        <source>Event must have a title</source>
-        <target xml:lang="ko" state="translated">일정 제목이 있어야 합니다.</target>
-      </trans-unit>
-      <trans-unit id="event_detail_title">
-        <source>Event details</source>
-        <target xml:lang="ko" state="translated">일정 상세 정보</target>
-      </trans-unit>
-      <trans-unit id="event_excluded">
-        <source>Event excluded</source>
-        <target xml:lang="ko" state="translated">일정 제외</target>
-      </trans-unit>
-      <trans-unit id="exclude_from_routing_brief">
-        <source>Exclude from agenda planning</source>
-        <target xml:lang="ko" state="translated">일정 계획에서 제외</target>
-      </trans-unit>
-      <trans-unit id="exclude_from_routing">
-        <source>Exclude this event from agenda planning</source>
-        <target xml:lang="ko" state="translated">이 일정을 일정 계획에서 제외</target>
-      </trans-unit>
-      <trans-unit id="exclude_event">
-        <source>Exclude event</source>
-        <target xml:lang="ko" state="translated">일정 제외</target>
-      </trans-unit>
-      <trans-unit id="event_update_warning">
-        <source>Event updated, it may take a while to see the change</source>
-        <target xml:lang="ko" state="translated">일정이 업데이트 되었습니다. 몇 분 뒤 확인하세요.</target>
-      </trans-unit>
-      <trans-unit id="favourite_saved">
-        <source>Favorite saved</source>
-        <target xml:lang="ko" state="translated">즐겨찾기가 저장되었습니다.</target>
-      </trans-unit>
-      <trans-unit id="favourite_location">
-        <source>Favorite Location</source>
-        <target xml:lang="ko" state="translated">즐겨찾는 위치</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
@@ -226,10 +109,6 @@
         <source>Get Off</source>
         <target xml:lang="ko" state="translated">내리기</target>
       </trans-unit>
-      <trans-unit id="get_google_play_services">
-        <source>Get Google Play Services</source>
-        <target xml:lang="ko" state="translated">구글 플레이 서비스 사용하기</target>
-      </trans-unit>
       <trans-unit id="first">
         <source>First:</source>
         <target xml:lang="ko" state="translated">첫번째:</target>
@@ -240,10 +119,6 @@
         <alt-trans>
           <target xml:lang="ko"> 서비스 이름과 번호 그리고 정류장으로 필터링</target>
         </alt-trans>
-      </trans-unit>
-      <trans-unit id="go_to_date">
-        <source>Go to date</source>
-        <target xml:lang="ko" state="translated">날짜로 이동</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
@@ -257,10 +132,6 @@
         <source>Information on concession pricing is subject to availability.</source>
         <target xml:lang="ko" state="translated">할인 가격에 대 한 정보는 구매 가능 한 것만 나열됩니다.</target>
       </trans-unit>
-      <trans-unit id="invalid_transfer_time">
-        <source>Invalid time, revert to last used value.</source>
-        <target xml:lang="ko" state="translated">시간이 맞지 않습니다. 마지막으로 사용된 값으로 되돌아갑니다.</target>
-      </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
         <target xml:lang="ko" state="translated">떠날 시간입니다!</target>
@@ -269,21 +140,9 @@
         <source>Leave now to make it on time</source>
         <target xml:lang="ko" state="translated">늦지 않으려면 지금 떠나세요.</target>
       </trans-unit>
-      <trans-unit id="lets_start">
-        <source>Let's start</source>
-        <target xml:lang="ko" state="translated">시작하기</target>
-      </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
         <target xml:lang="ko" state="translated">지금으로 가기</target>
-      </trans-unit>
-      <trans-unit id="go_to_today">
-        <source>Go to today</source>
-        <target xml:lang="ko" state="translated">오늘로 가기</target>
-      </trans-unit>
-      <trans-unit id="include_cal_act">
-        <source>Include checked calendars</source>
-        <target xml:lang="ko" state="translated">체크 된 달력 포함</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
@@ -293,45 +152,21 @@
         <source>1 minute</source>
         <target xml:lang="ko" state="translated">1분</target>
       </trans-unit>
-      <trans-unit id="navigate_current_location">
-        <source>Navigate from current location</source>
-        <target xml:lang="ko" state="translated">현재 위치에서 이동</target>
-      </trans-unit>
-      <trans-unit id="navigate_from">
-        <source>Navigate from %1$s</source>
-        <target xml:lang="ko" state="translated">%1$s에서 이동</target>
-      </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
         <target xml:lang="ko" state="translated">새로운 운송수단</target>
-      </trans-unit>
-      <trans-unit id="location_name">
-        <source>Location Name</source>
-        <target xml:lang="ko" state="translated">위치 이름</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
         <target xml:lang="ko" state="translated">위치를 찾을 수 없습니다.</target>
       </trans-unit>
-      <trans-unit id="location_save_by_gps">
-        <source>"Cannot find address, location will be saved by GPS coordinates"</source>
-        <target xml:lang="ko" state="translated">"주소 찾을 수 없습니다. GPS 좌표에 의해 위치가 저장될 것 입니다."</target>
-      </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
         <target xml:lang="ko" state="translated">위치가 선택되었습니다.</target>
       </trans-unit>
-      <trans-unit id="no_results_found">
-        <source>No Results Found</source>
-        <target xml:lang="ko" state="translated">결과를 찾을 수 없습니다.</target>
-      </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
         <target xml:lang="ko" state="translated">평점을 받지 않았습니다.</target>
-      </trans-unit>
-      <trans-unit id="one_time_event">
-        <source>Don't repeat</source>
-        <target xml:lang="ko" state="translated">반복하지 않기</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
@@ -345,87 +180,29 @@
         <source>There was an error and it was reported to us. Please try again</source>
         <target xml:lang="ko" state="translated">오류가 발생했고 보고되었습니다. 다시 시도해 주세요.</target>
       </trans-unit>
-      <trans-unit id="no_google_play_services_title">
-        <source>No Google Play Services!</source>
-        <target xml:lang="ko" state="translated">구글 플레이 서비스가 없습니다.</target>
-      </trans-unit>
-      <trans-unit id="no_google_play_services_message">
-        <source>This app requires Google Play Services to be installed.\n\nPlease download it to continue using the app
-        </source>
-        <target xml:lang="ko" state="translated">이 어플리케이션은 구글 플레이가 설치 되어있어야 합니다. 계속 사용하기 위해서는 \n\n을 다운로드 하세요.
-        </target>
-      </trans-unit>
-      <trans-unit id="priority_convenience_subtext">
-        <source>Hassle of the trip</source>
-        <target xml:lang="ko" state="translated">이동의 번거로움</target>
-      </trans-unit>
-      <trans-unit id="priority_budget_subtext">
-        <source>Trip cost</source>
-        <target xml:lang="ko" state="translated">경비</target>
-      </trans-unit>
-      <trans-unit id="priority_time_subtext">
-        <source>Trip duration</source>
-        <target xml:lang="ko" state="translated">이동 시간</target>
-      </trans-unit>
-      <trans-unit id="priority_environment_subtext">
-        <source>Impact of the trip</source>
-        <target xml:lang="ko" state="translated">이동의 영향</target>
-      </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
         <target xml:lang="ko" state="translated">근원지</target>
-      </trans-unit>
-      <trans-unit id="page_between_upcoming_services">
-        <source>Page between upcoming services</source>
-        <target xml:lang="ko" state="needs-translation">Page between upcoming services</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
         <target xml:lang="ko" state="translated">죄송합니다. 그 위치는 TripGo의 서비스 범위를 벗어납니다.</target>
       </trans-unit>
-      <trans-unit id="repeat_end_date_in_past">
-        <source>Repetition end date is in the past</source>
-        <target xml:lang="ko" state="translated">과거 종료 날짜 반복</target>
-      </trans-unit>
-      <trans-unit id="repeat_ends_on">
-        <source>Repeat does end on</source>
-        <target xml:lang="ko" state="translated">반복 일정이 끝납니다.</target>
-      </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
         <target xml:lang="ko" state="translated">즐겨찾기에서 삭제</target>
-      </trans-unit>
-      <trans-unit id="remove_shortcut">
-        <source>Remove shortcut</source>
-        <target xml:lang="ko" state="translated">바로가기 삭제</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
         <target xml:lang="ko" state="translated">새로고침</target>
       </trans-unit>
-      <trans-unit id="public_transport">
-        <source>Public Transport</source>
-        <target xml:lang="ko" state="translated">대중 교통</target>
-      </trans-unit>
-      <trans-unit id="rate">
-        <source>Rate</source>
-        <target xml:lang="ko" state="translated">평가</target>
-      </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
         <target xml:lang="ko" state="translated">종료시간 설정</target>
       </trans-unit>
-      <trans-unit id="search_instantly">
-        <source>Search instantly</source>
-        <target xml:lang="ko" state="translated">즉시 검색</target>
-      </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
         <target xml:lang="ko" state="translated">달력 선택</target>
-      </trans-unit>
-      <trans-unit id="routes_updated">
-        <source>Routes updated</source>
-        <target xml:lang="ko" state="translated">경로 업데이트</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
@@ -436,18 +213,6 @@
         </source>
         <target xml:lang="ko" state="translated">반복 일정은 사용자님의 매일 반복되는 경로이지만 달력에 저장되는 이벤트는 아닙니다. (예: 회사) 반복 일정은 사용자님이 정확한 장소에 정확한 시간에 갈 수 있도록 돕습니다.
         </target>
-      </trans-unit>
-      <trans-unit id="settings_category_usage">
-        <source>Anonymous Data Tracking</source>
-        <target xml:lang="ko" state="translated">익명 데이터 추적</target>
-      </trans-unit>
-      <trans-unit id="settings_category_searching">
-        <source>Searching</source>
-        <target xml:lang="ko" state="translated">검색중...</target>
-      </trans-unit>
-      <trans-unit id="settings_category_results">
-        <source>Trip Results</source>
-        <target xml:lang="ko" state="translated">경로 검색 결과</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -469,12 +234,6 @@
         <source>Set Location</source>
         <target xml:lang="ko" state="translated">위치 설정</target>
       </trans-unit>
-      <trans-unit id="settings_summary_searching_calendar">
-        <source>Use your upcoming calendar events as location suggestions. This information is not stored on any server
-        </source>
-        <target xml:lang="ko" state="translated">위치 설정 제안으로 달력에 저장된 이벤트를 사용하세요. 이 정보는 서버에 저장되지 않습니다.
-        </target>
-      </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
         <target xml:lang="ko" state="translated">일정이 시작될 때 떠남 알람을 표시합니다.</target>
@@ -491,20 +250,6 @@
         <source>Show an alert towards the end of any public transport on your trip</source>
         <target xml:lang="ko" state="translated">일정 중에 더 이상 대중교통 이용이 없으면 알람을 표시합니다.</target>
       </trans-unit>
-      <trans-unit id="settings_summary_rate">
-        <source>Rate the app in the store!</source>
-        <target xml:lang="ko" state="translated">스토어에서 이 앱을 평가해 주세요!</target>
-      </trans-unit>
-      <trans-unit id="settings_summary_gps_submit">
-        <source>Allow TripGo to anonymously track your location when you use it (NOT in the background)
-        </source>
-        <target xml:lang="ko" state="translated">TripGo에서 익명으로 사용자님의 위치를 추적할 수 있게 허용합니다.
-        </target>
-      </trans-unit>
-      <trans-unit id="settings_summary_distance_units">
-        <source>Distance units to use in trip results</source>
-        <target xml:lang="ko" state="translated">이동 경로에서 사용되는 거리 단위</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
         <target xml:lang="ko" state="translated">경로 시작</target>
@@ -512,10 +257,6 @@
       <trans-unit id="settings_title_reminder_service_alerts">
         <source>Service alerts</source>
         <target xml:lang="ko" state="translated">서비스 알림</target>
-      </trans-unit>
-      <trans-unit id="settings_title_searching_calendar">
-        <source>Search calendar events</source>
-        <target xml:lang="ko" state="translated">캘린더 일정 보기</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
@@ -525,35 +266,9 @@
         <source>Server</source>
         <target xml:lang="ko" state="translated">서버</target>
       </trans-unit>
-      <trans-unit id="settings_title_searching_contacts">
-        <source>Search contact addresses</source>
-        <target xml:lang="ko" state="translated">연락처 보기</target>
-      </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
         <target xml:lang="ko" state="translated">버전 </target>
-      </trans-unit>
-      <trans-unit id="settings_title_track_usage">
-        <source>Track App Usage</source>
-        <target xml:lang="ko" state="translated">앱 사용량 보기</target>
-      </trans-unit>
-      <trans-unit id="settings_summary_server">
-        <source>Server to use. Note this will override *ALL* server calls!</source>
-        <target xml:lang="ko" state="translated">서버 사용.  *모든* 서버들이 무효화됩니다.</target>
-      </trans-unit>
-      <trans-unit id="settings_summary_searching_contacts">
-        <source>Use your contact addresses as location suggestions. This information is not stored on any server
-        </source>
-        <target xml:lang="ko" state="translated">위치 제안으로 저장된 연락처를 사용합니다.
-        </target>
-      </trans-unit>
-      <trans-unit id="settings_summary_trip_preferences">
-        <source>Influence trip results by setting what's most important to you</source>
-        <target xml:lang="ko" state="translated">설정되 가장 중요한 것데로 경로에 영향을 줍니다. </target>
-      </trans-unit>
-      <trans-unit id="settings_summary_track_usage">
-        <source>Allow TripGo to anonymously track your app usage</source>
-        <target xml:lang="ko" state="translated">익명으로 TripGo가 이 어플리케이션을 사용량을 추적하는 것을 허용합니다.</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
@@ -563,10 +278,6 @@
         <source>End of public transport</source>
         <target xml:lang="ko" state="translated">대중교통으로 끝내기</target>
       </trans-unit>
-      <trans-unit id="settings_title_gps_submit">
-        <source>Track Location</source>
-        <target xml:lang="ko" state="translated">위치 추적</target>
-      </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
         <target xml:lang="ko" state="translated">가격순으로 정렬</target>
@@ -574,26 +285,6 @@
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
         <target xml:lang="ko" state="translated">선호도 순으로 정렬</target>
-      </trans-unit>
-      <trans-unit id="one_more_thing">
-        <source>One more thing…</source>
-        <target xml:lang="ko" state="translated">한 가지 더...</target>
-      </trans-unit>
-      <trans-unit id="taxi">
-        <source>Taxi</source>
-        <target xml:lang="ko" state="translated">택시</target>
-      </trans-unit>
-      <trans-unit id="terms_and_conditions">
-        <source>Terms and Conditions</source>
-        <target xml:lang="ko" state="translated">이용약관</target>
-      </trans-unit>
-      <trans-unit id="this_loc">
-        <source>this location</source>
-        <target xml:lang="ko" state="translated">이 위치</target>
-      </trans-unit>
-      <trans-unit id="time_to_leave_for">
-        <source>Time to leave for %s</source>
-        <target xml:lang="ko" state="translated">%s로 떠날 시간</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
@@ -606,14 +297,6 @@
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
         <target xml:lang="ko" state="translated">이 시간표  퍼가기</target>
-      </trans-unit>
-      <trans-unit id="show_agenda_list">
-        <source>Show agenda list</source>
-        <target xml:lang="ko" state="translated">일정 목록 보기</target>
-      </trans-unit>
-      <trans-unit id="show_agenda_map">
-        <source>Show agenda map</source>
-        <target xml:lang="ko" state="translated">일정을 지도에 표시</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
@@ -635,10 +318,6 @@
         <source>View on Yelp</source>
         <target xml:lang="ko" state="translated">Yelp에서 보기</target>
       </trans-unit>
-      <trans-unit id="vehicle_modes">
-        <source>Vehicle Modes</source>
-        <target xml:lang="ko" state="translated">차량 모드</target>
-      </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
         <target xml:lang="ko" state="translated">곧 출시될 버전</target>
@@ -646,10 +325,6 @@
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
         <target xml:lang="ko" state="translated">알 수 없는 위치</target>
-      </trans-unit>
-      <trans-unit id="walkthrough_1">
-        <source>TripGo helps you finding the best way from A to B using any transport mode.</source>
-        <target xml:lang="ko" state="translated">TripGo는 A에서 B로 갈 수 있는 모든 방법을 보여줍니다.</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
@@ -673,47 +348,17 @@
         <source>Today</source>
         <target xml:lang="ko" state="translated">오늘</target>
       </trans-unit>
-      <trans-unit id="title_exclude_event_from_route">
-        <source>Exclude event from routes?</source>
-        <target xml:lang="ko" state="translated">이벤트를 경로에서 제외합니까?</target>
-      </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
         <target xml:lang="ko" state="translated">이 정류장에서는 더 이상의 서비스가 없습니다.</target>
       </trans-unit>
-      <trans-unit id="trip_to_unknown_dest_about_to_start">
-        <source>It looks like you have a trip to make</source>
-        <target xml:lang="ko" state="translated">이동 경로 지정할 것을 권장합니다.</target>
-      </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
-        <target xml:lang="ko" state="needs-translation">Trip to %s</target>
-      </trans-unit>
-      <trans-unit id="trip_preferences">
-        <source>Trip Preferences</source>
-        <target xml:lang="ko" state="translated">경로 환경 설정</target>
-      </trans-unit>
-      <trans-unit id="transport_selector_header">
-        <source>Include in the route results</source>
-        <target xml:lang="ko" state="translated">경로 검색 결과에 포함</target>
-      </trans-unit>
-      <trans-unit id="walkthrough_4">
-        <source>Search routes directly right from Google search bar without opening TripGo.</source>
-        <target xml:lang="ko" state="translated">TripGo를 열지 않고 구글 검색 창에서 바로 직접 경로 검색 합니다.</target>
+        <target xml:lang="ko" state="translated">%s로 가기</target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
         <target xml:lang="ko" state="translated">어제</target>
-      </trans-unit>
-      <trans-unit id="walkthrough_2">
-        <source>Never run late. Agenda plans ahead for you and let's you know when you need to leave.
-        </source>
-        <target xml:lang="ko" state="translated">더이상 지각하지 마세요. 일정을 설정하면 언제 떠나야 할지 알 수 있습니다.
-        </target>
-      </trans-unit>
-      <trans-unit id="walkthrough_3">
-        <source>For those without an agenda, save favorite places.</source>
-        <target xml:lang="ko" state="translated">일정 설정을 원치 않으면 즐겨찾기에 저장하세요.</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
@@ -722,10 +367,6 @@
       <trans-unit id="you_are_here">
         <source>You are here</source>
         <target xml:lang="ko" state="translated">현위치</target>
-      </trans-unit>
-      <trans-unit id="you_r_already_at_s">
-        <source>You are already at %s!</source>
-        <target xml:lang="ko" state="translated">%s에 이미 있습니다!</target>
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
@@ -769,10 +410,25 @@
         <target xml:lang="ko" state="translated">거의 다 참</target>
         <note>Occupancy almost full</note>
       </trans-unit>
-      <trans-unit id="ticket_info">
-        <source>Ticket Info</source>
-        <target xml:lang="ko" state="translated">티켓 정보</target>
-        <note>Ticket Info title</note>
+      <trans-unit id="got_it">
+        <source>Got it</source>
+        <target xml:lang="ko" state="needs-translation">Got it</target>
+        <note>"Understood" button label</note>
+      </trans-unit>
+      <trans-unit id="see_your_favourites_on_your_home_screen">
+        <source>See your favourites on your home screen!</source>
+        <target xml:lang="ko" state="needs-translation">See your favourites on your home screen!</target>
+        <note>Add favourite direct access message</note>
+      </trans-unit>
+      <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
+        <source>You can quickly access your favourite locations from your launcher.</source>
+        <target xml:lang="ko" state="needs-translation">You can quickly access your favourite locations from your launcher.</target>
+        <note>Add favourite direct access description</note>
+      </trans-unit>
+      <trans-unit id="just_tap_pattern_then_add_to_home_screen">
+        <source>Just tap %s then 'Add to Home screen'</source>
+        <target xml:lang="ko" state="needs-translation">Just tap %s then 'Add to Home screen'</target>
+        <note>Add favourite direct access action label</note>
       </trans-unit>
     </body>
   </file>
