@@ -531,10 +531,10 @@
         <target xml:lang="fi" state="translated">Näet suosikkipaikkasi nopeasti käynnistimestäsi.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
-      <trans-unit id="just_tap_pattern_then_add_to_home_screen">
-        <source>Just tap %s then 'Add to Home screen'</source>
-        <target xml:lang="fi" state="translated">Klikkaa %s ja 'Add to Home screen'</target>
-        <note>Add favourite direct access action label</note>
+      <trans-unit id="just_tap_pattern_then_pattern">
+        <source>Just tap %1$s then '%2$s'</source>
+        <target xml:lang="fi" state="translated">Klikkaa %1$s ja '%2$s'</target>
+        <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>
   </file>
