@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="access_to_your_calendar">
         <source>Access to your calendar is required</source>
-        <target xml:lang="it" state="needs-translation">Access to your calendar is required</target>
+        <target xml:lang="it" state="translated">È richiesto l'accesso al tuo calendario</target>
       </trans-unit>
       <trans-unit id="access_to_your_contacts">
         <source>Access to your contacts is required</source>
-        <target xml:lang="it" state="needs-translation">Access to your contacts is required</target>
+        <target xml:lang="it" state="translated">È richiesto l'accesso ai tuoi contatti</target>
       </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
@@ -444,22 +444,22 @@
       </trans-unit>
       <trans-unit id="got_it">
         <source>Got it</source>
-        <target xml:lang="it" state="needs-translation">Got it</target>
+        <target xml:lang="it" state="translated">Fatto</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen">
         <source>See your favourites on your home screen!</source>
-        <target xml:lang="it" state="needs-translation">See your favourites on your home screen!</target>
+        <target xml:lang="it" state="translated">Guarda i tuoi preferiti sulla schermata iniziale!</target>
         <note>Add favourite direct access message</note>
       </trans-unit>
       <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target xml:lang="it" state="needs-translation">You can quickly access your favourite locations from your launcher.</target>
+        <target xml:lang="it" state="translated">Puoi accedere rapidamente alle tue posizioni preferite dall'applicazione predefinita.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target xml:lang="it" state="needs-translation">Just tap %1$s then '%2$s'</target>
+        <target xml:lang="it" state="translated">Basta toccare %1$s poi '%2$s'</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>
