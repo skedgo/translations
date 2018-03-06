@@ -326,10 +326,6 @@
         <target xml:lang="pt-PT" state="translated">Espere para sinal da localização, se falhar, voce pode tentar desligar e ligar o GPS.
         </target>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="pt-PT" state="translated">Próximos serviços</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="pt-PT" state="translated">Ver planilha de horários para próximos serviços</target>

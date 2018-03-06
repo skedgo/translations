@@ -336,10 +336,6 @@
         <target xml:lang="zh-CN" state="translated">正在等待定位信号，如果失败，您可以试着先将GPS关闭再打开..
         </target>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="zh-CN" state="translated">即将到来的车次</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="zh-CN" state="translated">查阅即将到来的车次的时刻表</target>

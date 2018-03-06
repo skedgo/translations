@@ -326,10 +326,6 @@
         <target xml:lang="da" state="translated">Afventer placeringens signal, hvis det mislykkes, kan du prøve at tænde og slukke din GPS..
         </target>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="da" state="translated">Kommende tjenester</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="da" state="translated">Se tidsplan for kommende tjenester</target>

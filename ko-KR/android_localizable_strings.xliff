@@ -332,10 +332,6 @@
         <target xml:lang="ko" state="translated">위치 신호를 기다리고 있습니다. 실패 할 경우 GPS를 컸다 켜보세요.
         </target>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="ko" state="translated">곧 출시될 버전</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="ko" state="translated">스케줄된 서비스 시간표 보기</target>

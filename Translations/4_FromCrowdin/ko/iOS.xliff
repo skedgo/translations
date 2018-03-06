@@ -2,13 +2,13 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -17,15 +17,9 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="ko">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body/>
-  </file>
   <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -34,53 +28,9 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripGo Preview/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="ko">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body/>
-  </file>
-  <file datatype="plaintext" original="TripGo Preview/Base.lproj/Main.storyboard" source-language="en" target-language="ko">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body/>
-  </file>
-  <file datatype="plaintext" original="TripGo Preview/Info.plist" source-language="en" target-language="ko">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body>
-      <trans-unit id="NSCalendarsUsageDescription">
-        <source>Get automated trips from and to events in your calendar, and search your calendar for events.</source>
-        <target xml:lang="ko" state="translated">사용자님의 캘린더에서 부터 자동으로 일정을 가져옵니다. </target>
-      </trans-unit>
-      <trans-unit id="NSLocationWhenInUseUsageDescription">
-        <source>Search from or to your current location. Locate yourself on the map.</source>
-        <target xml:lang="ko" state="translated">현재 위치에서 또는 현재 위치로 검색하십시오. </target>
-      </trans-unit>
-    </body>
-  </file>
-  <file datatype="plaintext" original="TripGo Preview/Localizable.strings" source-language="en" target-language="ko">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body>
-      <trans-unit id="No routes found.">
-        <source>No routes found.</source>
-        <target xml:lang="ko" state="translated">설정된 경로가 없음</target>
-        <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
-      </trans-unit>
-      <trans-unit id="Please adjust your query and try again.">
-        <source>Please adjust your query and try again.</source>
-        <target xml:lang="ko" state="translated">입력값을 바꾸거나 다시 시도하세요.</target>
-        <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
-      </trans-unit>
-    </body>
-  </file>
   <file datatype="plaintext" original="TripGoAppKit/Base.lproj/OnBoarding.storyboard" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="4Da-23-dIr.text">
@@ -205,7 +155,7 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Classes/controller/Base.lproj/TurkuOnboardingViewController.xib" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="1sJ-hr-VuN.text">
@@ -238,21 +188,21 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Info.plist" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%.0f minutes">
@@ -349,11 +299,6 @@
         <source>Agenda Setup</source>
         <target xml:lang="ko" state="translated">일정 설정</target>
         <note>Title for agenda screen while its still in setup mode</note>
-      </trans-unit>
-      <trans-unit id="Alert">
-        <source>Alert</source>
-        <target xml:lang="ko" state="translated">알림</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Alternative routes">
         <source>Alternative routes</source>
@@ -463,6 +408,7 @@
       <trans-unit id="Convenience">
         <source>Convenience</source>
         <target xml:lang="ko" state="translated">편의</target>
+        <note>Label for Convenience button to sort trips by their overall total score considering all factors</note>
       </trans-unit>
       <trans-unit id="Could not find your city.">
         <source>Could not find your city.</source>
@@ -912,6 +858,11 @@
         <target xml:lang="ko" state="translated">TripGo나 휴대폰 설정에서 위치 서비스 액세스를 허용해 주세요.</target>
         <note>Error recovery suggestion for when watch doesnt have access to location services</note>
       </trans-unit>
+      <trans-unit id="Open notification settings">
+        <source>Open notification settings</source>
+        <target xml:lang="ko" state="needs-translation">Open notification settings</target>
+        <note>Button title to open notification settings</note>
+      </trans-unit>
       <trans-unit id="Open website">
         <source>Open website</source>
         <target xml:lang="ko" state="translated">웹 사이트 열기</target>
@@ -997,6 +948,21 @@
         <target xml:lang="ko" state="translated">우선순위</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Push Notifications">
+        <source>Push Notifications</source>
+        <target xml:lang="ko" state="needs-translation">Push Notifications</target>
+        <note>Header for settings and information about push notifications</note>
+      </trans-unit>
+      <trans-unit id="Push notifications are enabled.">
+        <source>Push notifications are enabled.</source>
+        <target xml:lang="ko" state="needs-translation">Push notifications are enabled.</target>
+        <note>Informational text</note>
+      </trans-unit>
+      <trans-unit id="Push notifications are not enabled.">
+        <source>Push notifications are not enabled.</source>
+        <target xml:lang="ko" state="needs-translation">Push notifications are not enabled.</target>
+        <note>Informational text</note>
+      </trans-unit>
       <trans-unit id="Rate TripGo">
         <source>Rate TripGo</source>
         <target xml:lang="ko" state="translated">TripGo 평점주기</target>
@@ -1081,6 +1047,11 @@
         <source>Reset agenda</source>
         <target xml:lang="ko" state="translated">경로 리셋</target>
         <note>Action title to reset agenda content</note>
+      </trans-unit>
+      <trans-unit id="Reset notifications">
+        <source>Reset notifications</source>
+        <target xml:lang="ko" state="needs-translation">Reset notifications</target>
+        <note>Action title to reset notifications, e.g., to work around issues where (push) notifications stop working</note>
       </trans-unit>
       <trans-unit id="Reset tutorial">
         <source>Reset tutorial</source>
@@ -1252,22 +1223,10 @@
         <target xml:lang="ko" state="translated"> 도로 뷰</target>
         <note>Map mode streets</note>
       </trans-unit>
-      <trans-unit id="Swipe dates to navigate between weeks">
-        <source>Swipe dates to navigate between weeks</source>
-        <target xml:lang="ko" state="translated">날짜를 스와이프하세요.</target>
-      </trans-unit>
       <trans-unit id="Tap and hold title to jump directly to a specified date.">
         <source>Tap and hold title to jump directly to a specified date.</source>
         <target xml:lang="ko" state="translated">원하는 날짜로 바로 가려면 제목을 길게 누르세요.</target>
         <note>Walkthrough</note>
-      </trans-unit>
-      <trans-unit id="Tap public transport stops for access to timetable">
-        <source>Tap public transport stops for access to timetable</source>
-        <target xml:lang="ko" state="translated">시간표를 보려면 대중교통 정류장을 누르세요.</target>
-      </trans-unit>
-      <trans-unit id="Tap title to go to 'today'">
-        <source>Tap title to go to 'today'</source>
-        <target xml:lang="ko" state="translated">'오늘'로 가려면 제목을 누르세요.</target>
       </trans-unit>
       <trans-unit id="Tap to confirm hours or swipe to delete">
         <source>Tap to confirm hours or swipe to delete</source>
@@ -1455,7 +1414,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%@ to %@">
@@ -1507,11 +1466,6 @@
         <source>Calendar Event</source>
         <target xml:lang="ko" state="translated">캘린더 일정</target>
         <note>Type for regular events that go in the phone's calendar.</note>
-      </trans-unit>
-      <trans-unit id="Change">
-        <source>Change</source>
-        <target xml:lang="ko" state="translated">변경</target>
-        <note>Title for a button that intiates edigint of something, e.g., work time</note>
       </trans-unit>
       <trans-unit id="Could not plan the next trip. Better check TripGo.">
         <source>Could not plan the next trip. Better check TripGo.</source>
@@ -1582,11 +1536,6 @@
         <target xml:lang="ko" state="translated">상관 없음</target>
         <note>Refer to users not care about a particular aspect of their travel, e.g., cost, time, convenience</note>
       </trans-unit>
-      <trans-unit id="Loading...">
-        <source>Loading...</source>
-        <target xml:lang="ko" state="translated">로딩 중...</target>
-        <note>Inidcating the watch app is loading</note>
-      </trans-unit>
       <trans-unit id="Map">
         <source>Map</source>
         <target xml:lang="ko" state="translated">지도</target>
@@ -1651,10 +1600,6 @@
         <source>Show map</source>
         <target xml:lang="ko" state="translated">지도 보기</target>
         <note>Action title to show map for a segment</note>
-      </trans-unit>
-      <trans-unit id="Show trip">
-        <source>Show trip</source>
-        <target xml:lang="ko" state="translated">경로 보기</target>
       </trans-unit>
       <trans-unit id="Snooze 5 mins">
         <source>Snooze 5 mins</source>
@@ -1722,6 +1667,16 @@
         <target xml:lang="ko" state="translated">TripGo의 로컬 파일에 액세스할 수 없습니다.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="TripGo helps you optimise daily trips">
+        <source>TripGo helps you optimise daily trips</source>
+        <target xml:lang="ko" state="translated">TripGo는 사용자님이 최적화된 여행을 할 수 있게 도와드립니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TripGo will display results according to your preferences">
+        <source>TripGo will display results according to your preferences</source>
+        <target xml:lang="ko" state="translated">TripGo는 사용자님의 설정에 따라 결과가 다르게 표시됩니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Trips">
         <source>Trips</source>
         <target xml:lang="ko" state="translated">
@@ -1747,13 +1702,13 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
@@ -1814,13 +1769,23 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
+      <trans-unit id="19.placeholder">
+        <source>From</source>
+        <target xml:lang="ko" state="translated">부터</target>
+        <note>Class = "UISearchBar"; placeholder = "From"; ObjectID = "19";</note>
+      </trans-unit>
       <trans-unit id="30.accessibilityLabel">
         <source>Swap from and to</source>
         <target xml:lang="ko" state="translated">도착지와 출발지 맞바꾸기</target>
         <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+      </trans-unit>
+      <trans-unit id="43.placeholder">
+        <source>To</source>
+        <target xml:lang="ko" state="translated">어디로</target>
+        <note>Class = "UISearchBar"; placeholder = "To"; ObjectID = "43";</note>
       </trans-unit>
       <trans-unit id="44.normalTitle">
         <source>Time</source>
@@ -1854,7 +1819,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -1881,7 +1846,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%@'s">
@@ -1949,11 +1914,6 @@
         <target xml:lang="ko" state="translated">자전거</target>
         <note>Type of vehicle : bicycle</note>
       </trans-unit>
-      <trans-unit id="CVC">
-        <source>CVC</source>
-        <target xml:lang="ko" state="translated">CVC</target>
-        <note>Credit card CVC</note>
-      </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target xml:lang="ko" state="translated">취소</target>
@@ -1973,11 +1933,6 @@
         <source>Car</source>
         <target xml:lang="ko" state="translated">자동차</target>
         <note>Type of vehicle : car</note>
-      </trans-unit>
-      <trans-unit id="Card No.">
-        <source>Card No.</source>
-        <target xml:lang="ko" state="translated">카드 번호</target>
-        <note>Credit card number</note>
       </trans-unit>
       <trans-unit id="Change">
         <source>Change</source>
@@ -2024,11 +1979,6 @@
         <target xml:lang="ko" state="translated">계정을 만들고 있습니다.</target>
         <note>Message that indicates the app is creating accounts for users</note>
       </trans-unit>
-      <trans-unit id="Credit card">
-        <source>Credit card</source>
-        <target xml:lang="ko" state="translated">신용카드</target>
-        <note>Section title for credit card payment</note>
-      </trans-unit>
       <trans-unit id="Current City">
         <source>Current City</source>
         <target xml:lang="ko" state="translated">현재 도시</target>
@@ -2067,8 +2017,7 @@
       <trans-unit id="Email">
         <source>Email</source>
         <target xml:lang="ko" state="translated">이메일</target>
-        <note>Email address where receipt is sent
-   Email used as Facebook username</note>
+        <note>For email address</note>
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
@@ -2080,11 +2029,6 @@
         <target xml:lang="ko" state="translated">매일</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
-      <trans-unit id="Expiry Date">
-        <source>Expiry Date</source>
-        <target xml:lang="ko" state="translated">유효기간</target>
-        <note>Credit card expiry date</note>
-      </trans-unit>
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
         <target xml:lang="ko" state="translated">출발 시간</target>
@@ -2094,11 +2038,6 @@
         <source>Free</source>
         <target xml:lang="ko" state="translated">무료</target>
         <note>Free as in beer</note>
-      </trans-unit>
-      <trans-unit id="Full name">
-        <source>Full name</source>
-        <target xml:lang="ko" state="translated">성명</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Getting a lift">
         <source>Getting a lift</source>
@@ -2135,10 +2074,10 @@
         <target xml:lang="ko" state="translated">John Appleseed</target>
         <note>Name placeholder text</note>
       </trans-unit>
-      <trans-unit id="Linking Facebook">
-        <source>Linking Facebook</source>
-        <target xml:lang="ko" state="translated">페이스북에 연결</target>
-        <note>Used when user signs in using Facebook</note>
+      <trans-unit id="Later">
+        <source>Later</source>
+        <target xml:lang="ko" state="needs-translation">Later</target>
+        <note>Title of button to perform some action at a later time</note>
       </trans-unit>
       <trans-unit id="Loading">
         <source>Loading</source>
@@ -2154,11 +2093,6 @@
         <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
         <target xml:lang="ko" state="translated">위치 서비스는 이 기능을 요구합니다.  설정으로 가서 어플리케이션  &gt; 개인 정보 &gt; 위치 서비스를 켜주세요. </target>
         <note>Location iOS authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="Making payment">
-        <source>Making payment</source>
-        <target xml:lang="ko" state="translated">결제하기</target>
-        <note>Indicating a payment is in progress</note>
       </trans-unit>
       <trans-unit id="Minutes before trip">
         <source>Minutes before trip</source>
@@ -2183,9 +2117,7 @@
       <trans-unit id="Name">
         <source>Name</source>
         <target xml:lang="ko" state="translated">이름</target>
-        <note>Name to which receipt is sent
-   Name used in Facebook
-   Title for name of something (or someone)</note>
+        <note>Title for name of something (or someone)</note>
       </trans-unit>
       <trans-unit id="Never">
         <source>Never</source>
@@ -2195,7 +2127,7 @@
       <trans-unit id="New account">
         <source>New account</source>
         <target xml:lang="ko" state="translated">새 계정</target>
-        <note>Title for sign in view when user does not have an account</note>
+        <note>Title of page to create new account</note>
       </trans-unit>
       <trans-unit id="Next">
         <source>Next</source>
@@ -2225,7 +2157,7 @@
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target xml:lang="ko" state="translated">설정 열기</target>
-        <note>Button to open Settings app section for this app</note>
+        <note>Button that goes to the Setting's app</note>
       </trans-unit>
       <trans-unit id="Open in Safari">
         <source>Open in Safari</source>
@@ -2236,16 +2168,6 @@
         <source>Password</source>
         <target xml:lang="ko" state="translated">비밀번호</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Payment successful">
-        <source>Payment successful</source>
-        <target xml:lang="ko" state="translated">결제 성공</target>
-        <note>Indicating a payment is successful</note>
-      </trans-unit>
-      <trans-unit id="Paypal">
-        <source>Paypal</source>
-        <target xml:lang="ko" state="translated">페이팔</target>
-        <note>Section title for Paypal payment</note>
       </trans-unit>
       <trans-unit id="Please select a location">
         <source>Please select a location</source>
@@ -2276,11 +2198,6 @@
         <source>Real-time</source>
         <target xml:lang="ko" state="translated">실시간</target>
         <note>Indicator for real-time information</note>
-      </trans-unit>
-      <trans-unit id="Receipt">
-        <source>Receipt</source>
-        <target xml:lang="ko" state="translated">영수증</target>
-        <note>Title for section that asks users where payment receipt should be sent</note>
       </trans-unit>
       <trans-unit id="Reminder">
         <source>Reminder</source>
@@ -2347,15 +2264,10 @@
         <target xml:lang="ko" state="translated">%@ 검색 중...</target>
         <note>Placeholder text while waiting for server response when searching for a location.</note>
       </trans-unit>
-      <trans-unit id="Settings">
-        <source>Settings</source>
-        <target xml:lang="ko" state="translated">설정</target>
-        <note>Button that goes to the Setting's app</note>
-      </trans-unit>
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target xml:lang="ko" state="translated">로그인</target>
-        <note>No comment provided by engineer.</note>
+        <note>Title of page or button to sign in</note>
       </trans-unit>
       <trans-unit id="Sign out">
         <source>Sign out</source>
@@ -2365,7 +2277,7 @@
       <trans-unit id="Sign up">
         <source>Sign up</source>
         <target xml:lang="ko" state="translated">회원가입</target>
-        <note>No comment provided by engineer.</note>
+        <note>Title of page or button to sign up</note>
       </trans-unit>
       <trans-unit id="Sign up cannot be completed without a valid password">
         <source>Sign up cannot be completed without a valid password</source>
@@ -2380,8 +2292,7 @@
       <trans-unit id="Signing out">
         <source>Signing out</source>
         <target xml:lang="ko" state="translated">로그아웃 중...</target>
-        <note>Message that indicates the app has successfully completed signing out
-   Message that indicates the app is signing users out of their accounts</note>
+        <note>Message that indicates the app is signing users out of their accounts</note>
       </trans-unit>
       <trans-unit id="Starting %@">
         <source>Starting %@</source>
@@ -2503,11 +2414,6 @@
         <target xml:lang="ko" state="translated">예: name@example.com</target>
         <note>Email placeholder text</note>
       </trans-unit>
-      <trans-unit id="mm/yy">
-        <source>mm/yy</source>
-        <target xml:lang="ko" state="translated">월/연도</target>
-        <note>Credit card expiry date placeholder, mm/yy</note>
-      </trans-unit>
       <trans-unit id="starts at %@">
         <source>starts at %@</source>
         <target xml:lang="ko" state="translated">%@에 시작</target>
@@ -2522,7 +2428,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="ko">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%1$@ early">
@@ -2544,6 +2450,11 @@
         <source>%1$@ late (%2$@ service)</source>
         <target xml:lang="ko" state="translated">%1$@ 지연 (%2$@ 서비스)</target>
         <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+      </trans-unit>
+      <trans-unit id="%@ ago">
+        <source>%@ ago</source>
+        <target xml:lang="ko" state="needs-translation">%@ ago</target>
+        <note>Title for something that happened a certain timeframe ago, e.g., '5 mins ago'</note>
       </trans-unit>
       <trans-unit id="%@ alerts">
         <source>%@ alerts</source>
@@ -2622,20 +2533,10 @@
         <target xml:lang="ko" state="translated">%@에서</target>
         <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)</note>
       </trans-unit>
-      <trans-unit id="Book with FlitWays">
-        <source>Book with FlitWays</source>
-        <target xml:lang="ko" state="translated">FlitWays에서 예약</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Book with Uber">
-        <source>Book with Uber</source>
-        <target xml:lang="ko" state="translated">우버 예약하기</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Calculating trips...">
-        <source>Calculating trips...</source>
-        <target xml:lang="ko" state="translated">일정을 불러오고 있습니다.</target>
-        <note>Placeholder title while calculating trips</note>
+      <trans-unit id="Book with %@">
+        <source>Book with %@</source>
+        <target xml:lang="ko" state="needs-translation">Book with %@</target>
+        <note>Action title to make a booking using service/app named '@%'</note>
       </trans-unit>
       <trans-unit id="Call">
         <source>Call</source>
@@ -2645,12 +2546,7 @@
       <trans-unit id="Call %@">
         <source>Call %@</source>
         <target xml:lang="ko" state="translated">%@에 전화</target>
-        <note>Action title for calling provider of name. (old key: CallTaxiFormat)</note>
-      </trans-unit>
-      <trans-unit id="Connect to Internet to get trips">
-        <source>Connect to Internet to get trips</source>
-        <target xml:lang="ko" state="translated">인터넷에 연결합니다.</target>
-        <note>Single line instruction if device is offline and user needs to reconnect to internet to calculate trips</note>
+        <note>Action title to make a call to service/company named '@%'</note>
       </trans-unit>
       <trans-unit id="Could not find transit stop.">
         <source>Could not find transit stop.</source>
@@ -2697,25 +2593,15 @@
         <target xml:lang="ko" state="translated">만차</target>
         <note>As in 'this bus/train is full and likely can't accept further passengers'</note>
       </trans-unit>
-      <trans-unit id="Get Lyft">
-        <source>Get Lyft</source>
-        <target xml:lang="ko" state="translated">리프트 부르기</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Get Ola">
-        <source>Get Ola</source>
-        <target xml:lang="ko" state="translated">올라 부르기</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Get %@">
+        <source>Get %@</source>
+        <target xml:lang="ko" state="needs-translation">Get %@</target>
+        <note>Action title get/download app of name '@%'</note>
       </trans-unit>
       <trans-unit id="Get directions">
         <source>Get directions</source>
         <target xml:lang="ko" state="translated">길 찾기</target>
         <note>Action button title for getting turn-by-turn directions</note>
-      </trans-unit>
-      <trans-unit id="Get ingogo">
-        <source>Get ingogo</source>
-        <target xml:lang="ko" state="translated">Ingogo 부르기</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Google Maps">
         <source>Google Maps</source>
@@ -2732,15 +2618,15 @@
         <target xml:lang="ko" state="translated">%@에서 부터 %@에 가는 %@를 타겠습니다.</target>
         <note>Indication of an activity. (old key: ActivityIndication)</note>
       </trans-unit>
+      <trans-unit id="In %@">
+        <source>In %@</source>
+        <target xml:lang="ko" state="needs-translation">In %@</target>
+        <note>Title for something to happen in a certain timeframe, e.g., 'In 5 mins'</note>
+      </trans-unit>
       <trans-unit id="In the meantime, let's keep exploring %@ and enjoy your trips">
         <source>In the meantime, let's keep exploring %@ and enjoy your trips</source>
         <target xml:lang="ko" state="translated">그동안 %@을 계속 둘러보시고 즐거운 여행 되세요.</target>
         <note>%@ is replaced with app name</note>
-      </trans-unit>
-      <trans-unit id="In the meantime, let's keep exploring and enjoy your trips">
-        <source>In the meantime, let's keep exploring and enjoy your trips</source>
-        <target xml:lang="ko" state="translated">그동안 계속 둘러보시고 즐거운 여행 되세요.</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Leave">
         <source>Leave</source>
@@ -2786,7 +2672,7 @@
       <trans-unit id="Loading...">
         <source>Loading...</source>
         <target xml:lang="ko" state="translated">로딩 중...</target>
-        <note>Title to show while loading/waiting for results</note>
+        <note>Indicating when something is loading</note>
       </trans-unit>
       <trans-unit id="Many seats available">
         <source>Many seats available</source>
@@ -2813,15 +2699,10 @@
         <target xml:lang="ko" state="translated">정각에</target>
         <note>Indicator to show when a service is on time according to real-time data.</note>
       </trans-unit>
-      <trans-unit id="Open Lyft">
-        <source>Open Lyft</source>
-        <target xml:lang="ko" state="translated">Lyft 앱 열기</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Open Ola">
-        <source>Open Ola</source>
-        <target xml:lang="ko" state="translated">올라 열기</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Open %@">
+        <source>Open %@</source>
+        <target xml:lang="ko" state="needs-translation">Open %@</target>
+        <note>Action title open app of name '@%'</note>
       </trans-unit>
       <trans-unit id="Opening Hours">
         <source>Opening Hours</source>
@@ -2851,7 +2732,7 @@
       <trans-unit id="Send SMS">
         <source>Send SMS</source>
         <target xml:lang="ko" state="translated">SMS 보내기</target>
-        <note>Send SMS action</note>
+        <note>Send SMS action button</note>
       </trans-unit>
       <trans-unit id="Setup">
         <source>Setup</source>
@@ -2866,7 +2747,7 @@
       <trans-unit id="Show website">
         <source>Show website</source>
         <target xml:lang="ko" state="translated">웹사이트 보기</target>
-        <note>Show website action</note>
+        <note>Show website action button</note>
       </trans-unit>
       <trans-unit id="Standing room only">
         <source>Standing room only</source>
@@ -2935,7 +2816,7 @@
       <trans-unit id="ingogo a Taxi">
         <source>ingogo a Taxi</source>
         <target xml:lang="ko" state="translated">ingogo 택시</target>
-        <note>No comment provided by engineer.</note>
+        <note>inGogo taxi booking action</note>
       </trans-unit>
     </body>
   </file>

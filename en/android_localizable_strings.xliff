@@ -328,10 +328,6 @@
         <target>Waiting for location signal, if fails, you can try turning your GPS off and on..
         </target>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target>Upcoming services</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target>View timetable of upcoming services</target>

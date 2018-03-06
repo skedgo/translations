@@ -379,10 +379,6 @@
         </target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="es-ES" state="translated">Próximos servicios</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="es-ES" state="translated">Ver Horarios de próximos servicios</target>
@@ -471,7 +467,7 @@
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target xml:lang="es-ES" state="translated">Simplemente toca %1$s y luego '%2$s'</target>
+        <target xml:lang="es-ES" state="translated">Simplemente toque %1$s y luego '%2$s'</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>

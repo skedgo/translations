@@ -375,10 +375,6 @@
         </target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="de" state="translated">Nächste Abfahrten</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="de" state="translated">Fahrplan der nächsten Abfahrten sehen</target>

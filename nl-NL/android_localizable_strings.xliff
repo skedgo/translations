@@ -329,10 +329,6 @@
         <target xml:lang="nl" state="translated">Wacht op het GPS signaal.. als er geen signaal gevonden wordt kunt u proberen uw GPS uit en aan te zetten.
         </target>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="nl" state="translated">Eerstvolgende diensten</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="nl" state="translated">Bekijk dienstregeling van opkomende diensten</target>
@@ -421,7 +417,7 @@
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target xml:lang="nl" state="translated">Tik op %1$s en daarna op '%2$s'</target>
+        <target xml:lang="nl" state="translated">Tik op %1$s en daarna op '%2$s</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>

@@ -432,10 +432,6 @@
         </target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="fi" state="translated">Tulevat yhteydet</target>
-      </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
         <target xml:lang="fi" state="translated">Näytä tulevien yhteyksien aikataulut</target>

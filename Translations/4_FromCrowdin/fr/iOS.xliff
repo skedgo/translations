@@ -2,13 +2,13 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -17,15 +17,9 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="fr">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body/>
-  </file>
   <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -34,83 +28,42 @@
       </trans-unit>
     </body>
   </file>
-  <file datatype="plaintext" original="TripGo Preview/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="fr">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body/>
-  </file>
-  <file datatype="plaintext" original="TripGo Preview/Base.lproj/Main.storyboard" source-language="en" target-language="fr">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body/>
-  </file>
-  <file datatype="plaintext" original="TripGo Preview/Info.plist" source-language="en" target-language="fr">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body>
-      <trans-unit id="NSCalendarsUsageDescription">
-        <source>Get automated trips from and to events in your calendar, and search your calendar for events.</source>
-        <target xml:lang="fr" state="translated">Obtenez des itinéraires depuis et vers les évènements de votre calendrier, et recherchez des évènements dans votre calendrier.</target>
-      </trans-unit>
-      <trans-unit id="NSLocationWhenInUseUsageDescription">
-        <source>Search from or to your current location. Locate yourself on the map.</source>
-        <target xml:lang="fr" state="translated">Voyagez depuis ou vers votre position actuelle. Localisez-vous sur la carte.</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file datatype="plaintext" original="TripGo Preview/Localizable.strings" source-language="en" target-language="fr">
-    <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
-    </header>
-    <body>
-      <trans-unit id="No routes found.">
-        <source>No routes found.</source>
-        <target xml:lang="fr" state="translated">Aucun itinéraire trouvé.</target>
-        <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
-      </trans-unit>
-      <trans-unit id="Please adjust your query and try again.">
-        <source>Please adjust your query and try again.</source>
-        <target xml:lang="fr" state="translated">Veuillez ajuster votre requête et réessayez.</target>
-        <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
-      </trans-unit>
-    </body>
-  </file>
   <file datatype="plaintext" original="TripGoAppKit/Base.lproj/OnBoarding.storyboard" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="4Da-23-dIr.text">
         <source>Choose transport modes</source>
-        <target xml:lang="fr" state="needs-translation">Choose transport modes</target>
+        <target xml:lang="fr" state="translated">Choisir les modes de transport</target>
         <note>Class = "UILabel"; text = "Choose transport modes"; ObjectID = "4Da-23-dIr";</note>
       </trans-unit>
       <trans-unit id="41N-Fp-lIr.text">
         <source>Enter your home and work address for more efficient trip planning</source>
-        <target xml:lang="fr" state="needs-translation">Enter your home and work address for more efficient trip planning</target>
+        <target xml:lang="fr" state="translated">Saisissez votre adresse de domicile et de travail pour une planification de voyage plus efficace</target>
         <note>Class = "UILabel"; text = "Enter your home and work address for more efficient trip planning"; ObjectID = "41N-Fp-lIr";</note>
       </trans-unit>
       <trans-unit id="AM7-Fc-NDT.text">
         <source>Last step: Your travel style!</source>
-        <target xml:lang="fr" state="needs-translation">Last step: Your travel style!</target>
+        <target xml:lang="fr" state="translated">Dernière étape: votre style de voyage préféré !</target>
         <note>Class = "UILabel"; text = "Last step: Set up your preferred travel style!"; ObjectID = "AM7-Fc-NDT";</note>
+        <alt-trans>
+          <target xml:lang="fr">Dernière étape: votre type de voyage préféré !</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="BYV-Ke-nqc.text">
         <source>More active</source>
-        <target xml:lang="fr" state="needs-translation">More active</target>
+        <target xml:lang="fr" state="translated">Plus actif</target>
         <note>Class = "UILabel"; text = "More active"; ObjectID = "BYV-Ke-nqc";</note>
       </trans-unit>
       <trans-unit id="Daa-gL-EXc.text">
         <source>Quick &amp; easy setup</source>
-        <target xml:lang="fr" state="needs-translation">Quick &amp; easy setup</target>
+        <target xml:lang="fr" state="translated">Rapide &amp; installation facile</target>
         <note>Class = "UILabel"; text = "Quick &amp; easy setup"; ObjectID = "Daa-gL-EXc";</note>
       </trans-unit>
       <trans-unit id="EzB-oD-wvZ.text">
         <source>Carbon</source>
-        <target xml:lang="fr" state="translated">Carbone</target>
+        <target xml:lang="fr" state="translated">C02</target>
         <note>Class = "UILabel"; text = "Carbon"; ObjectID = "EzB-oD-wvZ";</note>
       </trans-unit>
       <trans-unit id="GjR-iv-Ew6.placeholder">
@@ -120,38 +73,47 @@
       </trans-unit>
       <trans-unit id="KSL-Sc-UHU.text">
         <source>Save time</source>
-        <target xml:lang="fr" state="needs-translation">Save time</target>
+        <target xml:lang="fr" state="translated">Gagner du temps</target>
         <note>Class = "UILabel"; text = "Save time"; ObjectID = "KSL-Sc-UHU";</note>
+        <alt-trans>
+          <target xml:lang="fr">Gagnez du temps</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="MIu-4J-zUJ.normalTitle">
         <source>Let's go</source>
-        <target xml:lang="fr" state="needs-translation">Let's go</target>
+        <target xml:lang="fr" state="translated">Allons-y</target>
         <note>Class = "UIButton"; normalTitle = "Let's go"; ObjectID = "MIu-4J-zUJ";</note>
       </trans-unit>
       <trans-unit id="RKH-vV-EU9.text">
         <source>Reduce carbon</source>
-        <target xml:lang="fr" state="needs-translation">Reduce carbon</target>
+        <target xml:lang="fr" state="translated">Réduire les émissions de C02</target>
         <note>Class = "UILabel"; text = "Reduce carbon"; ObjectID = "RKH-vV-EU9";</note>
       </trans-unit>
       <trans-unit id="Tdu-LJ-B02.text">
         <source>TripGo helps you optimise daily trips</source>
-        <target xml:lang="fr" state="needs-translation">TripGo helps you optimise daily trips</target>
+        <target xml:lang="fr" state="translated">TripGo vous aide à optimiser vos déplacements quotidiens</target>
         <note>Class = "UILabel"; text = "TripGo helps you optimise daily trips"; ObjectID = "Tdu-LJ-B02";</note>
       </trans-unit>
       <trans-unit id="a2d-Mj-Am0.text">
         <source>Pick a supported city to continue</source>
-        <target xml:lang="fr" state="needs-translation">Pick a supported city to continue</target>
+        <target xml:lang="fr" state="translated">Choisissez une ville disponible pour continuer</target>
         <note>Class = "UILabel"; text = "Pick a supported city to continue"; ObjectID = "a2d-Mj-Am0";</note>
+        <alt-trans>
+          <target xml:lang="fr">Choisissez une ville compatible pour continuer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="aMf-bu-Gcg.text">
         <source>TripGo will display results according to your preferences</source>
-        <target xml:lang="fr" state="needs-translation">TripGo will display results according to your preferences</target>
+        <target xml:lang="fr" state="translated">TripGo affichera les résultats en fonction de vos préférences</target>
         <note>Class = "UILabel"; text = "TripGo will display results according to your personal preferences"; ObjectID = "aMf-bu-Gcg";</note>
       </trans-unit>
       <trans-unit id="awR-6l-D62.text">
         <source>Personalise TripGo so you'll get the most relevant results for your trips</source>
-        <target xml:lang="fr" state="needs-translation">Personalise TripGo so you'll get the most relevant results for your trips</target>
+        <target xml:lang="fr" state="translated">Personnaliser TripGo pour obtenir des résultats adaptés à vos voyages</target>
         <note>Class = "UILabel"; text = "Personalise TripGo so you'll get the most relevant results for your trips"; ObjectID = "awR-6l-D62";</note>
+        <alt-trans>
+          <target xml:lang="fr">Personnalisez TripGo pour obtenir des résultats adaptés à vos voyages</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="brC-tq-EEG.text">
         <source>Convenience</source>
@@ -160,27 +122,30 @@
       </trans-unit>
       <trans-unit id="g7e-OY-rPw.text">
         <source>Less hassle</source>
-        <target xml:lang="fr" state="needs-translation">Less hassle</target>
+        <target xml:lang="fr" state="translated">Moins de contraintes</target>
         <note>Class = "UILabel"; text = "Less hassle"; ObjectID = "g7e-OY-rPw";</note>
       </trans-unit>
       <trans-unit id="juE-EN-u70.text">
         <source>Exercise</source>
-        <target xml:lang="fr" state="needs-translation">Exercise</target>
+        <target xml:lang="fr" state="translated">Exercice</target>
         <note>Class = "UILabel"; text = "Exercise"; ObjectID = "juE-EN-u70";</note>
       </trans-unit>
       <trans-unit id="o4h-JW-YBy.text">
         <source>Time</source>
-        <target xml:lang="fr" state="translated">Temps</target>
+        <target xml:lang="fr" state="translated">Horaire</target>
         <note>Class = "UILabel"; text = "Time"; ObjectID = "o4h-JW-YBy";</note>
+        <alt-trans>
+          <target xml:lang="fr">Temps</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="rQd-ri-hHa.text">
         <source>Money</source>
-        <target xml:lang="fr" state="needs-translation">Money</target>
+        <target xml:lang="fr" state="translated">Argent</target>
         <note>Class = "UILabel"; text = "Money"; ObjectID = "rQd-ri-hHa";</note>
       </trans-unit>
       <trans-unit id="uyh-ZB-4id.text">
         <source>Congratulations on being a smart traveller!</source>
-        <target xml:lang="fr" state="needs-translation">Congratulations on being a smart traveller!</target>
+        <target xml:lang="fr" state="translated">Félicitations, vous êtes un voyageur intelligent!</target>
         <note>Class = "UILabel"; text = "Congratulations on being a smart traveller!"; ObjectID = "uyh-ZB-4id";</note>
       </trans-unit>
       <trans-unit id="vhz-Cp-aY4.normalTitle">
@@ -190,29 +155,35 @@
       </trans-unit>
       <trans-unit id="yuP-f9-IR1.text">
         <source>Save money</source>
-        <target xml:lang="fr" state="needs-translation">Save money</target>
+        <target xml:lang="fr" state="translated">Économiser de l'argent</target>
         <note>Class = "UILabel"; text = "Save money"; ObjectID = "yuP-f9-IR1";</note>
+        <alt-trans>
+          <target xml:lang="fr">Économisez de l'argent</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="zS6-hR-gj9.text">
         <source>Sorry, TripGo is yet to work in your home city.</source>
-        <target xml:lang="fr" state="needs-translation">Sorry, TripGo is yet to work in your home city.</target>
+        <target xml:lang="fr" state="translated">Désolé, TripGo n'est pas encore disponible dans votre ville.</target>
         <note>Class = "UILabel"; text = "Sorry, TripGo is yet to work in your home city."; ObjectID = "zS6-hR-gj9";</note>
+        <alt-trans>
+          <target xml:lang="fr">TripGo n'est pas encore disponible dans votre ville.</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Classes/controller/Base.lproj/TurkuOnboardingViewController.xib" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="1sJ-hr-VuN.text">
         <source>WHAT'S NEW</source>
-        <target xml:lang="fr" state="needs-translation">WHAT'S NEW</target>
+        <target xml:lang="fr" state="translated">QUOI DE NEUF</target>
         <note>Class = "UILabel"; text = "WHAT'S NEW"; ObjectID = "1sJ-hr-VuN";</note>
       </trans-unit>
       <trans-unit id="bgs-vp-WEW.normalTitle">
         <source>Continue</source>
-        <target xml:lang="fr" state="needs-translation">Continue</target>
+        <target xml:lang="fr" state="translated">Poursuivre</target>
         <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "bgs-vp-WEW";</note>
       </trans-unit>
       <trans-unit id="hdH-hg-i0a.text">
@@ -220,36 +191,39 @@
  2. Choose ticket and set up payment method
  3. Scan QR code to use ticket
  4. Your tickets are found in My Bookings</source>
-        <target xml:lang="fr" state="needs-translation"> 1. Select your trip
- 2. Choose ticket and set up payment method
- 3. Scan QR code to use ticket
- 4. Your tickets are found in My Bookings</target>
+        <target xml:lang="fr" state="translated"> 1. Sélectionnez votre voyage 2. Choisissez un billet et configurez le mode de paiement 3. Scannez le code QR pour utiliser le billet. 4. Vos billets se trouvent dans Mes réservations</target>
         <note>Class = "UILabel"; text = " 1. Select your trip\n 2. Choose ticket and set up payment method\n 3. Scan QR code to use ticket\n 4. Your tickets are found in My Bookings"; ObjectID = "hdH-hg-i0a";</note>
+        <alt-trans>
+          <target xml:lang="fr"> 1. Sélectionnez votre voyage 2. Choisissez un billet et configurez la méthode de paiement 3. Scannez le code QR pour utiliser le ticket.          4. Vos tickets se trouvent dans Mes réservations</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="igW-xa-f6A.text">
         <source>Book Föli tickets right in TripGo</source>
-        <target xml:lang="fr" state="needs-translation">Book Föli tickets right in TripGo</target>
+        <target xml:lang="fr" state="translated">Réserver les billets Föli par TripGo</target>
         <note>Class = "UILabel"; text = "Book Föli tickets right in TripGo"; ObjectID = "igW-xa-f6A";</note>
+        <alt-trans>
+          <target xml:lang="fr">Réservez les billets Föli par TripGo</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%.0f minutes">
@@ -299,8 +273,11 @@
       </trans-unit>
       <trans-unit id="Add Reminder">
         <source>Add Reminder</source>
-        <target xml:lang="fr" state="translated">Ajouter un rappel</target>
+        <target xml:lang="fr" state="translated">Ajouter un Rappel</target>
         <note>Add reminder activity title</note>
+        <alt-trans>
+          <target xml:lang="fr">Ajouter un rappel</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Add address...">
         <source>Add address...</source>
@@ -314,8 +291,11 @@
       </trans-unit>
       <trans-unit id="Add to Calendar">
         <source>Add to Calendar</source>
-        <target xml:lang="fr" state="translated">Ajouter au calendrier</target>
+        <target xml:lang="fr" state="translated">Ajouter au Calendrier</target>
         <note>Add to calendar activity title</note>
+        <alt-trans>
+          <target xml:lang="fr">Ajouter au calendrier</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Add to favourites">
         <source>Add to favourites</source>
@@ -329,8 +309,11 @@
       </trans-unit>
       <trans-unit id="Add when I'm here">
         <source>Add when I'm here</source>
-        <target xml:lang="fr" state="translated">Ajouter à l'Agenda</target>
+        <target xml:lang="fr" state="translated">Ajouter quand je suis là</target>
         <note>Action title for adding another habitual visit to a favourite (old key: NewItemHereActionTitle)</note>
+        <alt-trans>
+          <target xml:lang="fr">Ajouter à l'Agenda</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Added">
         <source>Added</source>
@@ -347,20 +330,24 @@
         <target xml:lang="fr" state="translated">Configuration de l'Agenda</target>
         <note>Title for agenda screen while its still in setup mode</note>
       </trans-unit>
-      <trans-unit id="Alert">
-        <source>Alert</source>
-        <target xml:lang="fr" state="translated">Alerte</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Alternative routes">
         <source>Alternative routes</source>
-        <target xml:lang="fr" state="translated">Alternatives</target>
+        <target xml:lang="fr" state="translated">Itinéraires alternatifs</target>
         <note>Action button title to see alternative options for the case where you cant make the next connection</note>
+        <alt-trans>
+          <target xml:lang="fr">Alternatives</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Ambiguous event address.">
         <source>Ambiguous event address.</source>
-        <target xml:lang="fr" state="translated">Adresse de l'évènement ambiguë.</target>
+        <target xml:lang="fr" state="translated">Adresse ambigüe.</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Adresse ambiguë.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Adresse de l'évènement ambiguë.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Arrival">
         <source>Arrival</source>
@@ -369,13 +356,19 @@
       </trans-unit>
       <trans-unit id="Arrive by">
         <source>Arrive by</source>
-        <target xml:lang="fr" state="translated">Arr. avant</target>
+        <target xml:lang="fr" state="translated">Arriver avant</target>
         <note>Arrive before button</note>
+        <alt-trans>
+          <target xml:lang="fr">Arr. avant</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Assign to vehicle">
         <source>Assign to vehicle</source>
-        <target xml:lang="fr" state="translated">Assigner au véhicule</target>
+        <target xml:lang="fr" state="translated">Attribuer au véhicule</target>
         <note>Title for section to assign a trip to a vehicle</note>
+        <alt-trans>
+          <target xml:lang="fr">Assigner au véhicule</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="At %@">
         <source>At %@</source>
@@ -404,28 +397,46 @@
       </trans-unit>
       <trans-unit id="Awesome! How about rating us?">
         <source>Awesome! How about rating us?</source>
-        <target xml:lang="fr" state="translated">Génial ! Que diriez-vous de nous noter ?</target>
+        <target xml:lang="fr" state="translated">Super! Et si vous nous donniez votre avis ?</target>
         <note>Response to positive answer to question whether TripGo is useful, prompting for App Store rating</note>
+        <alt-trans>
+          <target xml:lang="fr">Génial! Et si vous nous donniez votre avis ?</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Génial ! Que diriez-vous de nous noter ?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Book a taxi">
         <source>Book a taxi</source>
-        <target xml:lang="fr" state="translated">Réservez Taxi</target>
+        <target xml:lang="fr" state="translated">Réserver un taxi</target>
         <note>Book a taxi</note>
+        <alt-trans>
+          <target xml:lang="fr">Réservez Taxi</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Bookings made with TripGo will appear here.">
         <source>Bookings made with TripGo will appear here.</source>
-        <target xml:lang="fr" state="translated">Réservations effectuées avec TripGo apparaîtront ici.</target>
+        <target xml:lang="fr" state="translated">Les réservations TripGo apparaîtront ici.</target>
         <note>Description on empty bookings screen</note>
+        <alt-trans>
+          <target xml:lang="fr">Les réservations effectuées avec TripGo apparaîtront ici.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Réservations effectuées avec TripGo apparaîtront ici.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Bookings may be outdated">
         <source>Bookings may be outdated</source>
-        <target xml:lang="fr" state="needs-translation">Bookings may be outdated</target>
+        <target xml:lang="fr" state="translated">Les réservations peuvent être périmées</target>
         <note>Informing users that they may be viewing cached bookings</note>
       </trans-unit>
       <trans-unit id="Bummer... How about some feedback?">
         <source>Bummer... How about some feedback?</source>
-        <target xml:lang="fr" state="translated">Mince... Pourquoi pas nous donner des retours ?</target>
+        <target xml:lang="fr" state="translated">Mince... Voulez-vous nous donner votre avis?</target>
         <note>Response to negative answer to question whether TripGo is useful, prompting for feedback</note>
+        <alt-trans>
+          <target xml:lang="fr">Mince... Pourquoi pas nous donner des retours ?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Calendar">
         <source>Calendar</source>
@@ -460,6 +471,7 @@
       <trans-unit id="Convenience">
         <source>Convenience</source>
         <target xml:lang="fr" state="translated">Confort</target>
+        <note>Label for Convenience button to sort trips by their overall total score considering all factors</note>
       </trans-unit>
       <trans-unit id="Could not find your city.">
         <source>Could not find your city.</source>
@@ -468,8 +480,11 @@
       </trans-unit>
       <trans-unit id="Create account">
         <source>Create account</source>
-        <target xml:lang="fr" state="needs-translation">Create account</target>
+        <target xml:lang="fr" state="translated">Créez un compte</target>
         <note>Title for button that allows users to create a user account</note>
+        <alt-trans>
+          <target xml:lang="fr">Créer un compte</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Critical Error">
         <source>Critical Error</source>
@@ -496,12 +511,12 @@
       </trans-unit>
       <trans-unit id="Data Providers">
         <source>Data Providers</source>
-        <target xml:lang="fr" state="needs-translation">Data Providers</target>
+        <target xml:lang="fr" state="translated">Fournisseurs de données</target>
         <note>Title for screen showing data providers</note>
       </trans-unit>
       <trans-unit id="Data provided by %@">
         <source>Data provided by %@</source>
-        <target xml:lang="fr" state="needs-translation">Data provided by %@</target>
+        <target xml:lang="fr" state="translated">Données fournies par %@</target>
         <note>Text for attributing data sources. The list of providers will be used instead of '%@'</note>
       </trans-unit>
       <trans-unit id="Departure">
@@ -516,8 +531,11 @@
       </trans-unit>
       <trans-unit id="Do Not Include">
         <source>Do Not Include</source>
-        <target xml:lang="fr" state="translated">Pas inclus</target>
+        <target xml:lang="fr" state="translated">Ne pas Inclure</target>
         <note>Title for transport modes that the user doesnt want included</note>
+        <alt-trans>
+          <target xml:lang="fr">Pas inclus</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Do you want to always use this trip and add it to your favourites?">
         <source>Do you want to always use this trip and add it to your favourites?</source>
@@ -526,8 +544,11 @@
       </trans-unit>
       <trans-unit id="Don't have a fixed place of work or study? Skip this step.">
         <source>Don't have a fixed place of work or study? Skip this step.</source>
-        <target xml:lang="fr" state="translated">Vous n'avez pas de bureau ou d'école ? Passer cette étape.</target>
+        <target xml:lang="fr" state="translated">Vous n'avez pas de lieu de travail ou d'études fixes? Ignorer cette étape.</target>
         <note>Walkthrough (skip in here should match translation for Skip</note>
+        <alt-trans>
+          <target xml:lang="fr">Vous n'avez pas de bureau ou d'école ? Passer cette étape.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Duration">
         <source>Duration</source>
@@ -541,12 +562,15 @@
       </trans-unit>
       <trans-unit id="Empty docks">
         <source>Empty docks</source>
-        <target xml:lang="fr" state="translated">Quais vides</target>
+        <target xml:lang="fr" state="translated">Bornes vides</target>
         <note>Empty docks that are available to return a shared bicycle.</note>
+        <alt-trans>
+          <target xml:lang="fr">Quais vides</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="End">
         <source>End</source>
-        <target xml:lang="fr" state="translated">Arrivée</target>
+        <target xml:lang="fr" state="translated">Fin</target>
         <note>Title for the time an event ends (without date information)</note>
       </trans-unit>
       <trans-unit id="End Date">
@@ -565,8 +589,11 @@
       </trans-unit>
       <trans-unit id="Error encountered">
         <source>Error encountered</source>
-        <target xml:lang="fr" state="needs-translation">Error encountered</target>
+        <target xml:lang="fr" state="translated">Erreur survenue</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Erreur rencontrée</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Event">
         <source>Event</source>
@@ -605,17 +632,23 @@
       </trans-unit>
       <trans-unit id="Exclude">
         <source>Exclude</source>
-        <target xml:lang="fr" state="translated">Supprimer</target>
+        <target xml:lang="fr" state="translated">Exclure</target>
         <note>Exclude event action</note>
+        <alt-trans>
+          <target xml:lang="fr">Supprimer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Expired">
         <source>Expired</source>
-        <target xml:lang="fr" state="translated">Expiré</target>
+        <target xml:lang="fr" state="translated">Périmé</target>
         <note>Title for list of expired tickets</note>
+        <alt-trans>
+          <target xml:lang="fr">Expiré</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Expires in">
         <source>Expires in</source>
-        <target xml:lang="fr" state="needs-translation">Expires in</target>
+        <target xml:lang="fr" state="translated">Expire dans</target>
         <note>Used in countdown context, indicating when a ticket expires</note>
       </trans-unit>
       <trans-unit id="Fast">
@@ -635,8 +668,11 @@
       </trans-unit>
       <trans-unit id="Feedback &amp; Support">
         <source>Feedback &amp; Support</source>
-        <target xml:lang="fr" state="translated">Retours et commentaires</target>
+        <target xml:lang="fr" state="translated">Retours &amp; Assistance</target>
         <note>Help title</note>
+        <alt-trans>
+          <target xml:lang="fr">Retours et commentaires</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Filter">
         <source>Filter</source>
@@ -655,13 +691,19 @@
       </trans-unit>
       <trans-unit id="From current location">
         <source>From current location</source>
-        <target xml:lang="fr" state="translated">Depuis la position actuelle</target>
+        <target xml:lang="fr" state="translated">De la position actuelle</target>
         <note>Route here from Current location</note>
+        <alt-trans>
+          <target xml:lang="fr">Depuis la position actuelle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Garaged Vehicles">
         <source>Garaged Vehicles</source>
-        <target xml:lang="fr" state="translated">Garages</target>
+        <target xml:lang="fr" state="translated">Véhicules stationnés dans un garage</target>
         <note>Header for list of vehicles garaged at this location</note>
+        <alt-trans>
+          <target xml:lang="fr">Garages</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="General">
         <source>General</source>
@@ -670,8 +712,11 @@
       </trans-unit>
       <trans-unit id="Get Involved">
         <source>Get Involved</source>
-        <target xml:lang="fr" state="translated">Restez impliqués</target>
+        <target xml:lang="fr" state="translated">S'impliquer</target>
         <note>Header for settings for feedback, recommending and rating TripGo</note>
+        <alt-trans>
+          <target xml:lang="fr">Restez impliqués</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Get directions">
         <source>Get directions</source>
@@ -680,8 +725,11 @@
       </trans-unit>
       <trans-unit id="Get off here">
         <source>Get off here</source>
-        <target xml:lang="fr" state="translated">Descendez ici</target>
+        <target xml:lang="fr" state="translated">Descendre ici</target>
         <note>Get off here</note>
+        <alt-trans>
+          <target xml:lang="fr">Descendez ici</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Get on here">
         <source>Get on here</source>
@@ -695,7 +743,7 @@
       </trans-unit>
       <trans-unit id="Has %@ been useful to you?">
         <source>Has %@ been useful to you?</source>
-        <target xml:lang="fr" state="needs-translation">Has %@ been useful to you?</target>
+        <target xml:lang="fr" state="translated">%@ a-t-il été utile pour vous ?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Home">
@@ -710,13 +758,19 @@
       </trans-unit>
       <trans-unit id="In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.">
         <source>In order to make bookings, you either need to log into your device with an Apple ID or you need to create a TripGo Account.</source>
-        <target xml:lang="fr" state="translated">Afin d’effectuer des réservations, vous devez soit vous connecter à votre appareil avec un identifiant Apple ou vous devez créer un compte TripGo.</target>
+        <target xml:lang="fr" state="translated">Afin d’effectuer des réservations, vous devez soit vous connecter à votre appareil avec un identifiant Apple ou créer un compte TripGo.</target>
         <note>Instruction text to show when user is trying to make a booking, but he/she needs to create an account first.</note>
+        <alt-trans>
+          <target xml:lang="fr">Afin d’effectuer des réservations, vous devez soit vous connecter à votre appareil avec un identifiant Apple ou vous devez créer un compte TripGo.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Include">
         <source>Include</source>
-        <target xml:lang="fr" state="translated">Ajouter</target>
+        <target xml:lang="fr" state="translated">Inclure</target>
         <note>Include event action</note>
+        <alt-trans>
+          <target xml:lang="fr">Ajouter</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Include in routes">
         <source>Include in routes</source>
@@ -750,13 +804,19 @@
       </trans-unit>
       <trans-unit id="Location not set.">
         <source>Location not set.</source>
-        <target xml:lang="fr" state="translated">Emplacement non défini.</target>
+        <target xml:lang="fr" state="translated">Position non définie.</target>
         <note>Error title when favourite is missing a location</note>
+        <alt-trans>
+          <target xml:lang="fr">Emplacement non défini.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Long press on the map to choose a location">
         <source>Long press on the map to choose a location</source>
-        <target xml:lang="fr" state="translated">Appuyez longtemps sur la carte pour définir une position</target>
+        <target xml:lang="fr" state="translated">Appuyez longuement sur la carte pour définir une position</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez longtemps sur la carte pour définir une position</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Manual Reminders">
         <source>Manual Reminders</source>
@@ -765,8 +825,11 @@
       </trans-unit>
       <trans-unit id="Marking a location as a favourite will allow quick access to routing results for going there from your current location.">
         <source>Marking a location as a favourite will allow quick access to routing results for going there from your current location.</source>
-        <target xml:lang="fr" state="translated">Définir une position comme favorite vous permettra d'obtenir rapidement un accès vers cette position depuis votre position actuelle.</target>
+        <target xml:lang="fr" state="translated">Définir une position comme favorite vous permettra un accès rapide aux itinéraires depuis votre emplacement actuel.</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Définir une position comme favorite vous permettra d'obtenir rapidement un accès vers cette position depuis votre position actuelle.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Marking a transit stop as a favourite will allow quick access to its timetable.">
         <source>Marking a transit stop as a favourite will allow quick access to its timetable.</source>
@@ -775,8 +838,11 @@
       </trans-unit>
       <trans-unit id="Medium">
         <source>Medium</source>
-        <target xml:lang="fr" state="translated">Moyenne</target>
+        <target xml:lang="fr" state="translated">Moyen</target>
         <note>Speed preference 'medium'</note>
+        <alt-trans>
+          <target xml:lang="fr">Moyenne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Mi">
         <source>Mi</source>
@@ -785,13 +851,19 @@
       </trans-unit>
       <trans-unit id="Min transfer time">
         <source>Min transfer time</source>
-        <target xml:lang="fr" state="translated">Temps de transfert min</target>
+        <target xml:lang="fr" state="translated">Temps de transfert minimum</target>
         <note>Minimum transfer time preference</note>
+        <alt-trans>
+          <target xml:lang="fr">Temps de transfert min</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.">
         <source>Minimise results for this mode on the routes screen. Great for transport options you only use occasionally.</source>
-        <target xml:lang="fr" state="translated">Minimiser les résultats de ce mode sur l'écran de routes. Idéal pour les options de transport que vous utilisez seulement occasionnellement.</target>
+        <target xml:lang="fr" state="translated">Minimiser les résultats de ce mode sur l'écran des itinéraires. Idéal pour les options de transport que vous utilisez occasionnellement.</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Minimiser les résultats de ce mode sur l'écran de routes. Idéal pour les options de transport que vous utilisez seulement occasionnellement.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Minutes before trip">
         <source>Minutes before trip</source>
@@ -810,13 +882,19 @@
       </trans-unit>
       <trans-unit id="My Bookings">
         <source>My Bookings</source>
-        <target xml:lang="fr" state="translated">Mes réservations</target>
+        <target xml:lang="fr" state="translated">Mes Réservations</target>
         <note>Title for profile item that loads a list of user's bookings</note>
+        <alt-trans>
+          <target xml:lang="fr">Mes réservations</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="My Priorities">
         <source>My Priorities</source>
-        <target xml:lang="fr" state="translated">Mes priorités</target>
+        <target xml:lang="fr" state="translated">Mes Priorités</target>
         <note>User preferences title</note>
+        <alt-trans>
+          <target xml:lang="fr">Mes priorités</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="My Transport">
         <source>My Transport</source>
@@ -825,13 +903,19 @@
       </trans-unit>
       <trans-unit id="My Vehicles">
         <source>My Vehicles</source>
-        <target xml:lang="fr" state="translated">Mes véhicules</target>
+        <target xml:lang="fr" state="translated">Mes Véhicules</target>
         <note>Header for list of my vehicles</note>
+        <alt-trans>
+          <target xml:lang="fr">Mes véhicules</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Navigate to a supported city on a map.">
         <source>Navigate to a supported city on a map.</source>
-        <target xml:lang="fr" state="translated">Accédez à une ville pris en charge sur une carte.</target>
+        <target xml:lang="fr" state="translated">Accéder à une ville disponible sur un plan.</target>
         <note>Error recovery suggestion for when TripGo couldnt identify the users current city</note>
+        <alt-trans>
+          <target xml:lang="fr">Accédez à une ville pris en charge sur une carte.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="New Favourite">
         <source>New Favourite</source>
@@ -850,8 +934,11 @@
       </trans-unit>
       <trans-unit id="No bookings yet!">
         <source>No bookings yet!</source>
-        <target xml:lang="fr" state="translated">Aucune réservation encore !</target>
+        <target xml:lang="fr" state="translated">Pas encore de réservation!</target>
         <note>Text to show on screen that lists bookings if user hasn't made a booking yet.</note>
+        <alt-trans>
+          <target xml:lang="fr">Aucune réservation encore !</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="No calendar found.">
         <source>No calendar found.</source>
@@ -880,8 +967,11 @@
       </trans-unit>
       <trans-unit id="Now">
         <source>Now</source>
-        <target xml:lang="fr" state="translated">Immédiat.</target>
+        <target xml:lang="fr" state="translated">Maintenant</target>
         <note>Countdown cell now indicator</note>
+        <alt-trans>
+          <target xml:lang="fr">Immédiat.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
@@ -895,23 +985,43 @@
       </trans-unit>
       <trans-unit id="Open TripGo app and add the location of this favourite.">
         <source>Open TripGo app and add the location of this favourite.</source>
-        <target xml:lang="fr" state="translated">Ouvrez l'app TripGo et ajoutez l'emplacement de ce favori.</target>
+        <target xml:lang="fr" state="translated">Ouvrir l'appli TripGo et ajouter l'emplacement de ce favori.</target>
         <note>Error recovery suggestion for favourites with missing location</note>
+        <alt-trans>
+          <target xml:lang="fr">Ouvrez l'app TripGo et ajoutez l'emplacement de ce favori.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Open TripGo or Settings app on your phone and grant TripGo access to location services.">
         <source>Open TripGo or Settings app on your phone and grant TripGo access to location services.</source>
-        <target xml:lang="fr" state="translated">Ouvrez TripGo ou les paramètres d'application sur votre téléphone et accorder l'accès aux services de localisation pour TripGo.</target>
+        <target xml:lang="fr" state="translated">Ouvrir TripGo ou les Réglages sur votre téléphone et accorder l'accès aux services de localisation pour TripGo.</target>
         <note>Error recovery suggestion for when watch doesnt have access to location services</note>
+        <alt-trans>
+          <target xml:lang="fr">Ouvrez TripGo ou les paramètres d'application sur votre téléphone et accorder l'accès aux services de localisation pour TripGo.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Open notification settings">
+        <source>Open notification settings</source>
+        <target xml:lang="fr" state="needs-translation">Open notification settings</target>
+        <note>Button title to open notification settings</note>
       </trans-unit>
       <trans-unit id="Open website">
         <source>Open website</source>
-        <target xml:lang="fr" state="translated">Ouvrir le site Web</target>
+        <target xml:lang="fr" state="translated">Afficher le site web</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Ouvrir le site Web</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Permission was granted. Please go back and try again.">
         <source>Permission was granted. Please go back and try again.</source>
-        <target xml:lang="fr" state="translated">Autorisation accordée avec succès. Veuillez revenir et essayer à nouveau.</target>
+        <target xml:lang="fr" state="translated">Autorisation accordée avec succès. Veuillez réessayer.</target>
         <note>Text displayed when the user has given the app access to private data such as their calendar or contacts, but the user needs to perform the original action again to now see the results</note>
+        <alt-trans>
+          <target xml:lang="fr">Autorisation accordée avec succès. Veuillez ré-essayer.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Autorisation accordée avec succès. Veuillez revenir et essayer à nouveau.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Permissions">
         <source>Permissions</source>
@@ -920,23 +1030,35 @@
       </trans-unit>
       <trans-unit id="Pick a Time">
         <source>Pick a Time</source>
-        <target xml:lang="fr" state="translated">Choisir une date</target>
+        <target xml:lang="fr" state="translated">Choisir un Horaire</target>
         <note>Timetable screen title</note>
+        <alt-trans>
+          <target xml:lang="fr">Choisir une date</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Plan Trip">
         <source>Plan Trip</source>
-        <target xml:lang="fr" state="translated">Planifier un voyage</target>
+        <target xml:lang="fr" state="translated">Planifier un Trajet</target>
         <note>Title for homescreen action to plan a new trip</note>
+        <alt-trans>
+          <target xml:lang="fr">Planifier un voyage</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Plan a new trip">
         <source>Plan a new trip</source>
-        <target xml:lang="fr" state="translated">Planifier un nouveau voyage</target>
+        <target xml:lang="fr" state="translated">Planifier un nouveau trajet</target>
         <note>Title for button that allows users to plan a new trip</note>
+        <alt-trans>
+          <target xml:lang="fr">Planifier un nouveau voyage</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Plan a trip on your phone or press firmly to access your favourites.">
         <source>Plan a trip on your phone or press firmly to access your favourites.</source>
-        <target xml:lang="fr" state="translated">Planifier un voyage sur votre téléphone ou appuyez fermement pour accéder à vos favoris.</target>
+        <target xml:lang="fr" state="translated">Planifier un trajet sur votre téléphone ou appuyez fermement pour accéder à vos favoris.</target>
         <note>Instruction to users when there are no upcoming trips</note>
+        <alt-trans>
+          <target xml:lang="fr">Planifier un voyage sur votre téléphone ou appuyez fermement pour accéder à vos favoris.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Please adjust your query and try again.">
         <source>Please adjust your query and try again.</source>
@@ -945,13 +1067,16 @@
       </trans-unit>
       <trans-unit id="Please be advised that you are viewing cached copies of your bookings">
         <source>Please be advised that you are viewing cached copies of your bookings</source>
-        <target xml:lang="fr" state="needs-translation">Please be advised that you are viewing cached copies of your bookings</target>
+        <target xml:lang="fr" state="translated">Veuillez noter que vous consultez des copies mises en cache de vos réservations</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please check your Calendar app and make sure you have a calendar configured.">
         <source>Please check your Calendar app and make sure you have a calendar configured.</source>
-        <target xml:lang="fr" state="translated">Veuillez vérifier qu’un calendrier est bien configuré dans votre app Calendrier.</target>
+        <target xml:lang="fr" state="translated">Veuillez vérifier qu’un calendrier est bien configuré dans votre appli Calendrier.</target>
         <note>Error recovery suggestion for when no calendar found</note>
+        <alt-trans>
+          <target xml:lang="fr">Veuillez vérifier qu’un calendrier est bien configuré dans votre app Calendrier.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Please specify an address.">
         <source>Please specify an address.</source>
@@ -960,18 +1085,27 @@
       </trans-unit>
       <trans-unit id="Powered by">
         <source>Powered by</source>
-        <target xml:lang="fr" state="translated">Utilisé par</target>
+        <target xml:lang="fr" state="translated">Réalisé avec</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Utilisé par</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Powered by %@">
         <source>Powered by %@</source>
-        <target xml:lang="fr" state="translated">Utilisé par %s</target>
+        <target xml:lang="fr" state="translated">Réalisé avec %s</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Utilisé par %s</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Preferred">
         <source>Preferred</source>
-        <target xml:lang="fr" state="translated">Global</target>
+        <target xml:lang="fr" state="translated">Préféré</target>
         <note>Label for Overall button to sort trips by their overall total score considering all factors (old key: ViewOverallButton)</note>
+        <alt-trans>
+          <target xml:lang="fr">Global</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Preferred transport">
         <source>Preferred transport</source>
@@ -988,6 +1122,21 @@
         <target xml:lang="fr" state="translated">Priorités</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Push Notifications">
+        <source>Push Notifications</source>
+        <target xml:lang="fr" state="needs-translation">Push Notifications</target>
+        <note>Header for settings and information about push notifications</note>
+      </trans-unit>
+      <trans-unit id="Push notifications are enabled.">
+        <source>Push notifications are enabled.</source>
+        <target xml:lang="fr" state="needs-translation">Push notifications are enabled.</target>
+        <note>Informational text</note>
+      </trans-unit>
+      <trans-unit id="Push notifications are not enabled.">
+        <source>Push notifications are not enabled.</source>
+        <target xml:lang="fr" state="needs-translation">Push notifications are not enabled.</target>
+        <note>Informational text</note>
+      </trans-unit>
       <trans-unit id="Rate TripGo">
         <source>Rate TripGo</source>
         <target xml:lang="fr" state="translated">Évaluer TripGo</target>
@@ -995,8 +1144,11 @@
       </trans-unit>
       <trans-unit id="Regular events which will be saved in your device's calendar.">
         <source>Regular events which will be saved in your device's calendar.</source>
-        <target xml:lang="fr" state="translated">Les évènements réguliers qui seront enregistrés dans le calendrier de votre appareil.</target>
+        <target xml:lang="fr" state="translated">Evènements réguliers qui seront enregistrés dans le calendrier de votre appareil.</target>
         <note>Explanation for what calendar events are compared to habituals and stays Can be long-ish</note>
+        <alt-trans>
+          <target xml:lang="fr">Les évènements réguliers qui seront enregistrés dans le calendrier de votre appareil.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Reminders">
         <source>Reminders</source>
@@ -1010,13 +1162,19 @@
       </trans-unit>
       <trans-unit id="Remove Favourite">
         <source>Remove Favourite</source>
-        <target xml:lang="fr" state="translated">Supprimer des favoris</target>
+        <target xml:lang="fr" state="translated">Supprimer des Favoris</target>
         <note>Remove favourite activity title</note>
+        <alt-trans>
+          <target xml:lang="fr">Supprimer des favoris</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Remove Reminder">
         <source>Remove Reminder</source>
-        <target xml:lang="fr" state="translated">Supprimer des rappels</target>
+        <target xml:lang="fr" state="translated">Supprimer le Rappel</target>
         <note>Remove reminder activity title</note>
+        <alt-trans>
+          <target xml:lang="fr">Supprimer des rappels</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Remove and exclude event">
         <source>Remove and exclude event</source>
@@ -1045,8 +1203,11 @@
       </trans-unit>
       <trans-unit id="Repeat does end">
         <source>Repeat does end</source>
-        <target xml:lang="fr" state="translated">Récurrence</target>
+        <target xml:lang="fr" state="translated">Récurrence jusqu'à</target>
         <note>Title for switch indicating if an event repeats or not</note>
+        <alt-trans>
+          <target xml:lang="fr">Récurrence</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Repeats">
         <source>Repeats</source>
@@ -1055,8 +1216,11 @@
       </trans-unit>
       <trans-unit id="Report Problem">
         <source>Report Problem</source>
-        <target xml:lang="fr" state="translated">Rapporter un problème</target>
+        <target xml:lang="fr" state="translated">Signaler un problème</target>
         <note>Report problem</note>
+        <alt-trans>
+          <target xml:lang="fr">Rapporter un problème</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Request">
         <source>Request</source>
@@ -1072,6 +1236,11 @@
         <source>Reset agenda</source>
         <target xml:lang="fr" state="translated">Réinitialiser l'agenda</target>
         <note>Action title to reset agenda content</note>
+      </trans-unit>
+      <trans-unit id="Reset notifications">
+        <source>Reset notifications</source>
+        <target xml:lang="fr" state="needs-translation">Reset notifications</target>
+        <note>Action title to reset notifications, e.g., to work around issues where (push) notifications stop working</note>
       </trans-unit>
       <trans-unit id="Reset tutorial">
         <source>Reset tutorial</source>
@@ -1113,8 +1282,11 @@
       </trans-unit>
       <trans-unit id="Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.">
         <source>Routines are part of your daily movement, but they aren't events that you want in your calendar (e.g., work). They are important for the Agenda to get you to the right location at the right time.</source>
-        <target xml:lang="fr" state="translated">Les faits courants font partis de vos déplacements quotidiens, mais ne sont pas des évènements qui apparaissent dans votre calendrier (e.g., travail). Ils sont importants pour l'Agenda afin de vous diriger au bon endroit à la bonne heure.</target>
+        <target xml:lang="fr" state="translated">Les routines font partie de vos déplacements quotidiens, mais ne sont pas des évènements qui apparaissent dans votre calendrier (ex: le travail). Elles sont importantes pour l'Agenda afin de vous emmener au bon endroit à l'heure voulue.</target>
         <note>Explanation for what routines are compared to calendar events and stays Can be long-ish (old key: HabitualEventDescription)</note>
+        <alt-trans>
+          <target xml:lang="fr">Les faits courants font partis de vos déplacements quotidiens, mais ne sont pas des évènements qui apparaissent dans votre calendrier (e.g., travail). Ils sont importants pour l'Agenda afin de vous diriger au bon endroit à la bonne heure.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Routing from %@ to %@ is not yet supported">
         <source>Routing from %@ to %@ is not yet supported</source>
@@ -1143,8 +1315,11 @@
       </trans-unit>
       <trans-unit id="Select Vehicle">
         <source>Select Vehicle</source>
-        <target xml:lang="fr" state="translated">Sélectionner un véhicule</target>
+        <target xml:lang="fr" state="translated">Sélectionner un Véhicule</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Sélectionner un véhicule</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Select the place where you stay at the end of each day">
         <source>Select the place where you stay at the end of each day</source>
@@ -1153,18 +1328,27 @@
       </trans-unit>
       <trans-unit id="Send Real-time SMS">
         <source>Send Real-time SMS</source>
-        <target xml:lang="fr" state="translated">Envoyer un SMS au service de temps réel</target>
+        <target xml:lang="fr" state="translated">Envoyer un SMS en temps réel</target>
         <note>Action button title for composing an SMS to a real-time service</note>
+        <alt-trans>
+          <target xml:lang="fr">Envoyer un SMS au service de temps réel</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Share Arrival">
         <source>Share Arrival</source>
-        <target xml:lang="fr" state="translated">Partager l'arrivée</target>
+        <target xml:lang="fr" state="translated">Partager l'Arrivée</target>
         <note>Action button title for sharing when you arrive</note>
+        <alt-trans>
+          <target xml:lang="fr">Partager l'arrivée</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Share Trip">
         <source>Share Trip</source>
-        <target xml:lang="fr" state="translated">Partager le trajet</target>
+        <target xml:lang="fr" state="translated">Partager le Trajet</target>
         <note>Share trip</note>
+        <alt-trans>
+          <target xml:lang="fr">Partager le trajet</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Show alternatives">
         <source>Show alternatives</source>
@@ -1208,18 +1392,30 @@
       </trans-unit>
       <trans-unit id="Slow">
         <source>Slow</source>
-        <target xml:lang="fr" state="translated">Lente</target>
+        <target xml:lang="fr" state="translated">Lent</target>
         <note>Speed preference 'slow'</note>
+        <alt-trans>
+          <target xml:lang="fr">Lente</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Some of the trips failed to download. Please try again">
         <source>Some of the trips failed to download. Please try again</source>
-        <target xml:lang="fr" state="translated">Certains de ces voyages n’ont pas pu se télécharger. S’il vous plaît essayer de nouveau</target>
+        <target xml:lang="fr" state="translated">Certains de ces voyages n’ont pas pu se télécharger. Veuillez réessayer</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Certains de ces voyages n’ont pas pu se télécharger. S’il vous plaît essayer de nouveau</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Sorry. TripGo doesn't work here yet!">
         <source>Sorry. TripGo doesn't work here yet!</source>
-        <target xml:lang="fr" state="translated">Désolé. TripGo est encore indisponible ici !</target>
+        <target xml:lang="fr" state="translated">Désolé, TripGo n'est pas encore indisponible ici!</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Désolé, TripGo est encore indisponible ici.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Désolé. TripGo est encore indisponible ici !</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Spread the word">
         <source>Spread the word</source>
@@ -1246,22 +1442,16 @@
         <target xml:lang="fr" state="translated">Rues</target>
         <note>Map mode streets</note>
       </trans-unit>
-      <trans-unit id="Swipe dates to navigate between weeks">
-        <source>Swipe dates to navigate between weeks</source>
-        <target xml:lang="fr" state="translated">Faites glisser les dates pour naviguer entre les semaines</target>
-      </trans-unit>
       <trans-unit id="Tap and hold title to jump directly to a specified date.">
         <source>Tap and hold title to jump directly to a specified date.</source>
-        <target xml:lang="fr" state="translated">Faites un appui long sur le titre pour choisir une date directement.</target>
+        <target xml:lang="fr" state="translated">Appuyer et maintenir le titre pour accéder directement à une date spécifiée.</target>
         <note>Walkthrough</note>
-      </trans-unit>
-      <trans-unit id="Tap public transport stops for access to timetable">
-        <source>Tap public transport stops for access to timetable</source>
-        <target xml:lang="fr" state="translated">Cliquez sur les stations de transport en commun pour accéder aux horaires</target>
-      </trans-unit>
-      <trans-unit id="Tap title to go to 'today'">
-        <source>Tap title to go to 'today'</source>
-        <target xml:lang="fr" state="translated">Cliquez sur le titre pour revenir à 'aujourd'hui'</target>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez et maintenez le titre pour accéder directement à une date spécifiée.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Faites un appui long sur le titre pour choisir une date directement.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Tap to confirm hours or swipe to delete">
         <source>Tap to confirm hours or swipe to delete</source>
@@ -1270,18 +1460,27 @@
       </trans-unit>
       <trans-unit id="Tap to set address">
         <source>Tap to set address</source>
-        <target xml:lang="fr" state="translated">Appuyez pour régler l'adresse</target>
+        <target xml:lang="fr" state="translated">Appuyer pour régler l'adresse</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour régler l'adresse</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Tap to set address or swipe to delete">
         <source>Tap to set address or swipe to delete</source>
-        <target xml:lang="fr" state="translated">Appuyez pour régler l'adresse ou glissez pour supprimer</target>
+        <target xml:lang="fr" state="translated">Appuyer pour régler l'adresse ou glisser pour supprimer</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour régler l'adresse ou glissez pour supprimer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Tap to set garage">
         <source>Tap to set garage</source>
-        <target xml:lang="fr" state="translated">Appuyez pour localiser un garage</target>
+        <target xml:lang="fr" state="translated">Appuyer pour localiser un garage</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour localiser un garage</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Thank you!">
         <source>Thank you!</source>
@@ -1305,7 +1504,7 @@
       </trans-unit>
       <trans-unit id="Time at work">
         <source>Time at work</source>
-        <target xml:lang="fr" state="needs-translation">Time at work</target>
+        <target xml:lang="fr" state="translated">Temps passé au travail</target>
         <note>Title for screen to pick your working hours</note>
       </trans-unit>
       <trans-unit id="Time zone">
@@ -1315,8 +1514,11 @@
       </trans-unit>
       <trans-unit id="Times">
         <source>Times</source>
-        <target xml:lang="fr" state="translated">Heures</target>
+        <target xml:lang="fr" state="translated">Horaires</target>
         <note>Header for times a user is typically at this location, eg, working hours</note>
+        <alt-trans>
+          <target xml:lang="fr">Heures</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Title">
         <source>Title</source>
@@ -1330,8 +1532,11 @@
       </trans-unit>
       <trans-unit id="Total spaces">
         <source>Total spaces</source>
-        <target xml:lang="fr" state="translated">Places totales</target>
+        <target xml:lang="fr" state="translated">Nombre total de places</target>
         <note>Total car parking spaces, i.e., not just those that are available.</note>
+        <alt-trans>
+          <target xml:lang="fr">Places totales</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Type">
         <source>Type</source>
@@ -1370,8 +1575,11 @@
       </trans-unit>
       <trans-unit id="Walk speed">
         <source>Walk speed</source>
-        <target xml:lang="fr" state="translated">Marche</target>
+        <target xml:lang="fr" state="translated">Vitesse de marche</target>
         <note>Walking speed preference</note>
+        <alt-trans>
+          <target xml:lang="fr">Marche</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Website">
         <source>Website</source>
@@ -1385,13 +1593,16 @@
       </trans-unit>
       <trans-unit id="Welcome Screens">
         <source>Welcome Screens</source>
-        <target xml:lang="fr" state="needs-translation">Welcome Screens</target>
+        <target xml:lang="fr" state="translated">Écrans d'accueil</target>
         <note>Button to show welcome screens again</note>
       </trans-unit>
       <trans-unit id="Wheelchair information">
         <source>Wheelchair information</source>
-        <target xml:lang="fr" state="translated">Afficher les informations d'accessibilité</target>
+        <target xml:lang="fr" state="translated">Accessibilité en fauteuil roulant</target>
         <note>Preference to highlight wheelchair information</note>
+        <alt-trans>
+          <target xml:lang="fr">Afficher les informations d'accessibilité</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Where are you going from?">
         <source>Where are you going from?</source>
@@ -1405,8 +1616,11 @@
       </trans-unit>
       <trans-unit id="Which would you like to delete">
         <source>Which would you like to delete</source>
-        <target xml:lang="fr" state="translated">Lesquels voulez-vous supprimer</target>
+        <target xml:lang="fr" state="translated">Que voulez-vous supprimer</target>
         <note>Question for which events in a recurrence to delete (options are typically this/all/any from here)</note>
+        <alt-trans>
+          <target xml:lang="fr">Lesquels voulez-vous supprimer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Work">
         <source>Work</source>
@@ -1425,17 +1639,29 @@
       </trans-unit>
       <trans-unit id="You might not make this transfer.">
         <source>You might not make this transfer.</source>
-        <target xml:lang="fr" state="translated">Vous n'aurez peut-être pas possibilité de prendre cette correspondance.</target>
+        <target xml:lang="fr" state="translated">Vous n'aurez peut-être pas la possibilité de prendre cette correspondance.</target>
         <note>Alert if service running late/early, meaning that the user might not make the next service</note>
+        <alt-trans>
+          <target xml:lang="fr">Vous n'aurez peut-être pas possibilité de prendre cette correspondance.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Zoom in">
         <source>Zoom in</source>
-        <target xml:lang="fr" state="translated">Zoomer</target>
+        <target xml:lang="fr" state="translated">Zoom</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Zoomer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Zoom into map to view public transport stops">
         <source>Zoom into map to view public transport stops</source>
-        <target xml:lang="fr" state="translated">Zoomez sur la carte pour que les stations de transport en commun s'affichent</target>
+        <target xml:lang="fr" state="translated">Zoomez sur la carte pour voir les arrêts de transport collectif</target>
+        <alt-trans>
+          <target xml:lang="fr">Zoomez sur la carte pour voir les arrêts de transports publics</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Zoomez sur la carte pour que les stations de transport en commun s'affichent</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="what3words address">
         <source>what3words address</source>
@@ -1446,7 +1672,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%@ to %@">
@@ -1461,8 +1687,11 @@
       </trans-unit>
       <trans-unit id="Add to Agenda">
         <source>Add to Agenda</source>
-        <target xml:lang="fr" state="translated">Ajouter à l'agenda</target>
+        <target xml:lang="fr" state="translated">Ajouter à l'Agenda</target>
         <note>Button to save a trip to the agenda</note>
+        <alt-trans>
+          <target xml:lang="fr">Ajouter à l'agenda</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Agenda">
         <source>Agenda</source>
@@ -1471,8 +1700,11 @@
       </trans-unit>
       <trans-unit id="Agenda is not set up.">
         <source>Agenda is not set up.</source>
-        <target xml:lang="fr" state="translated">L'Agenda n'est pas configuré.</target>
+        <target xml:lang="fr" state="translated">L'agenda n'est pas configuré.</target>
         <note>Error title when agenda isn't yet set up.</note>
+        <alt-trans>
+          <target xml:lang="fr">L'Agenda n'est pas configuré.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Agree">
         <source>Agree</source>
@@ -1491,43 +1723,50 @@
       </trans-unit>
       <trans-unit id="By continuing, you are agreeing to our %@ and %@">
         <source>By continuing, you are agreeing to our %@ and %@</source>
-        <target xml:lang="fr" state="needs-translation">By continuing, you are agreeing to our %@ and %@</target>
+        <target xml:lang="fr" state="translated">En continuant, vous acceptez nos %@ et %@</target>
         <note>Format string for agreeing to two different items, for instance, terms of use and privacy policy</note>
       </trans-unit>
       <trans-unit id="Calendar Event">
         <source>Calendar Event</source>
-        <target xml:lang="fr" state="translated">Évènement du calendrier</target>
+        <target xml:lang="fr" state="translated">Évènement Calendrier</target>
         <note>Type for regular events that go in the phone's calendar.</note>
-      </trans-unit>
-      <trans-unit id="Change">
-        <source>Change</source>
-        <target xml:lang="fr" state="translated">Remplacer</target>
-        <note>Title for a button that intiates edigint of something, e.g., work time</note>
+        <alt-trans>
+          <target xml:lang="fr">Évènement du calendrier</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Could not plan the next trip. Better check TripGo.">
         <source>Could not plan the next trip. Better check TripGo.</source>
-        <target xml:lang="fr" state="needs-translation">Could not plan the next trip. Better check TripGo.</target>
+        <target xml:lang="fr" state="translated">Impossible de planifier le prochain voyage. Vérifier TripGo.</target>
         <note>Text shown when a new trip couldn't get planned through a notification.</note>
       </trans-unit>
       <trans-unit id="Current Trip">
         <source>Current Trip</source>
-        <target xml:lang="fr" state="translated">Voyage actuel</target>
+        <target xml:lang="fr" state="translated">Trajet actuel</target>
         <note>Indicating the next trip is a current trip</note>
+        <alt-trans>
+          <target xml:lang="fr">Voyage actuel</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Database corrupted and lost.">
         <source>Database corrupted and lost.</source>
-        <target xml:lang="fr" state="translated">Base de données corrompu et perdu.</target>
+        <target xml:lang="fr" state="translated">Base de données corrompue et perdue.</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Base de données corrompu et perdu.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Departs in %@ minutes">
         <source>Departs in %@ minutes</source>
-        <target xml:lang="fr" state="needs-translation">Departs in %@ minutes</target>
+        <target xml:lang="fr" state="translated">Départ dans %@ minutes</target>
         <note>Notification trip for when next trip departs</note>
       </trans-unit>
       <trans-unit id="Dismiss">
         <source>Dismiss</source>
-        <target xml:lang="fr" state="translated">Resteindre</target>
+        <target xml:lang="fr" state="translated">Ignorer</target>
         <note>Button to dismiss something, e.g., an error or action action sheet</note>
+        <alt-trans>
+          <target xml:lang="fr">Resteindre</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Favourites">
         <source>Favourites</source>
@@ -1541,18 +1780,21 @@
       </trans-unit>
       <trans-unit id="Get Started!">
         <source>Get Started!</source>
-        <target xml:lang="fr" state="needs-translation">Get Started!</target>
+        <target xml:lang="fr" state="translated">Commencer!</target>
         <note>Title for button on first welcome screen</note>
       </trans-unit>
       <trans-unit id="Get ready to leave">
         <source>Get ready to leave</source>
-        <target xml:lang="fr" state="needs-translation">Get ready to leave</target>
+        <target xml:lang="fr" state="translated">Se préparer à partir</target>
         <note>Title of notification for an upcoming trip</note>
       </trans-unit>
       <trans-unit id="Getting current location">
         <source>Getting current location</source>
-        <target xml:lang="fr" state="translated">Obtenir la position actuelle</target>
+        <target xml:lang="fr" state="translated">Position actuelle</target>
         <note>Indicating localisation is in progress</note>
+        <alt-trans>
+          <target xml:lang="fr">Obtenir la position actuelle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Getting trip...">
         <source>Getting trip...</source>
@@ -1561,8 +1803,11 @@
       </trans-unit>
       <trans-unit id="Habitual Visit">
         <source>Habitual Visit</source>
-        <target xml:lang="fr" state="translated">Fait courant</target>
+        <target xml:lang="fr" state="translated">Routine</target>
         <note>Type for events that are regular visit's to one of the user's favorites</note>
+        <alt-trans>
+          <target xml:lang="fr">Fait courant</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Home">
         <source>Home</source>
@@ -1570,13 +1815,11 @@
       </trans-unit>
       <trans-unit id="I don't care">
         <source>I don't care</source>
-        <target xml:lang="fr" state="needs-translation">I don't care</target>
+        <target xml:lang="fr" state="translated">Sans importance</target>
         <note>Refer to users not care about a particular aspect of their travel, e.g., cost, time, convenience</note>
-      </trans-unit>
-      <trans-unit id="Loading...">
-        <source>Loading...</source>
-        <target xml:lang="fr" state="translated">Chargement...</target>
-        <note>Inidcating the watch app is loading</note>
+        <alt-trans>
+          <target xml:lang="fr">Peu importe</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Map">
         <source>Map</source>
@@ -1590,38 +1833,56 @@
       </trans-unit>
       <trans-unit id="New event">
         <source>New event</source>
-        <target xml:lang="fr" state="translated">Nouvel évén.</target>
+        <target xml:lang="fr" state="translated">Nouvel évènement</target>
         <note>Title for unnamed new event</note>
+        <alt-trans>
+          <target xml:lang="fr">Nouvel évén.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Next trip">
         <source>Next trip</source>
-        <target xml:lang="fr" state="needs-translation">Next trip</target>
+        <target xml:lang="fr" state="translated">Prochain voyage</target>
         <note>Title of notification with details of trip after snoozing trip until the next one comes around</note>
       </trans-unit>
       <trans-unit id="Only This">
         <source>Only This</source>
-        <target xml:lang="fr" state="translated">Seulement celui-ci</target>
+        <target xml:lang="fr" state="translated">Seulement ceci</target>
         <note>Option to delete only this event in a recurence</note>
+        <alt-trans>
+          <target xml:lang="fr">Seulement celui-ci</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!">
         <source>Please delete the app and re-install from the App Store. Sorry for the inconvenience!</source>
-        <target xml:lang="fr" state="translated">Veuillez supprimer l'app et ré-installer depuis l'App Store. Désolé pour le dérangement !</target>
+        <target xml:lang="fr" state="translated">Veuillez supprimer l'appli et réinstaller depuis l'App Store. Désolé!</target>
         <note>Recovery suggestion when TripGo cannot access its local files</note>
+        <alt-trans>
+          <target xml:lang="fr">Veuillez supprimer l'app et ré-installer depuis l'App Store. Désolé pour le dérangement !</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Please restart the app. Sorry for the inconvenience!">
         <source>Please restart the app. Sorry for the inconvenience!</source>
-        <target xml:lang="fr" state="translated">Veuillez redémarrer l'app. Désolé pour le dérangement !</target>
+        <target xml:lang="fr" state="translated">Veuillez redémarrer l'appli. Désolé!</target>
         <note>Recovery suggestion when an app restart is required, e.g., when the database got corrupted and/or the app can't access its local files.</note>
+        <alt-trans>
+          <target xml:lang="fr">Veuillez redémarrer l'app. Désolé pour le dérangement !</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Privacy Policy">
         <source>Privacy Policy</source>
-        <target xml:lang="fr" state="needs-translation">Privacy Policy</target>
+        <target xml:lang="fr" state="translated">Politique de confidentialité</target>
         <note>TripGo's privacy policy</note>
+        <alt-trans>
+          <target xml:lang="fr">Charte de confidentialité</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Profile">
         <source>Profile</source>
-        <target xml:lang="fr" state="translated">Réglages</target>
+        <target xml:lang="fr" state="translated">Profil</target>
         <note>Profile tab bar name</note>
+        <alt-trans>
+          <target xml:lang="fr">Réglages</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Reset">
         <source>Reset</source>
@@ -1630,8 +1891,11 @@
       </trans-unit>
       <trans-unit id="Select the modes that you want to use around %@">
         <source>Select the modes that you want to use around %@</source>
-        <target xml:lang="fr" state="needs-translation">Select the modes that you want to use around %@</target>
+        <target xml:lang="fr" state="translated">Sélectionner les modes que vous souhaitez utiliser autour de %@</target>
         <note>Prompt during onboarding to select transport modes for your city</note>
+        <alt-trans>
+          <target xml:lang="fr">Sélectionnez les modes que vous souhaitez utiliser autour de %@</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Set up your Agenda in the TripGo app.">
         <source>Set up your Agenda in the TripGo app.</source>
@@ -1643,10 +1907,6 @@
         <target xml:lang="fr" state="translated">Afficher la carte</target>
         <note>Action title to show map for a segment</note>
       </trans-unit>
-      <trans-unit id="Show trip">
-        <source>Show trip</source>
-        <target xml:lang="fr" state="translated">Afficher le trajet</target>
-      </trans-unit>
       <trans-unit id="Snooze 5 mins">
         <source>Snooze 5 mins</source>
         <target xml:lang="fr" state="translated">Rappel d'alarme dans 5 min</target>
@@ -1654,8 +1914,14 @@
       </trans-unit>
       <trans-unit id="Snooze until next">
         <source>Snooze until next</source>
-        <target xml:lang="fr" state="translated">Répéter jusqu'à la prochaine</target>
+        <target xml:lang="fr" state="translated">Repousser à</target>
         <note>Action button on public transport trip reminders to skip this service and get reminded for the next service</note>
+        <alt-trans>
+          <target xml:lang="fr">Reporter à la prochaine</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Répéter jusqu'à la prochaine</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Stay">
         <source>Stay</source>
@@ -1669,28 +1935,55 @@
       </trans-unit>
       <trans-unit id="Tap to set home">
         <source>Tap to set home</source>
-        <target xml:lang="fr" state="needs-translation">Tap to set home</target>
+        <target xml:lang="fr" state="translated">Appuyer pour configurer votre lieu de domicile</target>
         <note>Indicating an action that leads users to pick their home locations</note>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour configurer votre lieu de domicile</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour définir votre lieu de domicile</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour définir vos points de départ</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour configurer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Tap to set work">
         <source>Tap to set work</source>
-        <target xml:lang="fr" state="needs-translation">Tap to set work</target>
+        <target xml:lang="fr" state="translated">Appuyer pour configurer votre lieu de travail</target>
         <note>Indicating an action that leads users to pick their work locations</note>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour configurer votre lieu de travail</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Appuyez pour définir votre lieu de travail</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Terms of Use">
         <source>Terms of Use</source>
-        <target xml:lang="fr" state="needs-translation">Terms of Use</target>
+        <target xml:lang="fr" state="translated">Conditions d'Utilisation</target>
         <note>TripGo's Terms of Use link</note>
+        <alt-trans>
+          <target xml:lang="fr">Conditions d'utilisation</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Time to leave! Your trip commences at %@">
         <source>Time to leave! Your trip commences at %@</source>
-        <target xml:lang="fr" state="translated">Il est l'heure de partir ! Votre voyage commence à %@</target>
+        <target xml:lang="fr" state="translated">C'est l'heure de partir ! Votre voyage commence à %@</target>
         <note>Notification message for trip with unknown destination. Notification message for a non-public transport trip. Provided is %time you need to leave.</note>
+        <alt-trans>
+          <target xml:lang="fr">Il est l'heure de partir ! Votre voyage commence à %@</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Time to leave! Your trip to %@ commences at %@">
         <source>Time to leave! Your trip to %@ commences at %@</source>
-        <target xml:lang="fr" state="translated">Il est l'heure de partir ! Votre voyage à %@ commence à %@</target>
+        <target xml:lang="fr" state="translated">C'est l'heure de partir ! Votre voyage à %@ commence à %@</target>
         <note>Notification message for a trip. Provided is %destination and %time you need to leave.</note>
+        <alt-trans>
+          <target xml:lang="fr">Il est l'heure de partir ! Votre voyage à %@ commence à %@</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Timetable">
         <source>Timetable</source>
@@ -1707,43 +2000,65 @@
         <target xml:lang="fr" state="translated">TripGo ne peut pas accéder à ses fichiers locaux.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="TripGo helps you optimise daily trips">
+        <source>TripGo helps you optimise daily trips</source>
+        <target xml:lang="fr" state="translated">TripGo vous aide à optimiser vos déplacements quotidiens</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TripGo will display results according to your preferences">
+        <source>TripGo will display results according to your preferences</source>
+        <target xml:lang="fr" state="translated">TripGo affichera les résultats en fonction de vos préférences</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Trips">
         <source>Trips</source>
-        <target xml:lang="fr" state="translated">Voyages</target>
+        <target xml:lang="fr" state="translated">Trajets</target>
         <note>Trips tab bar name</note>
+        <alt-trans>
+          <target xml:lang="fr">Voyages</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Upcoming Trip">
         <source>Upcoming Trip</source>
-        <target xml:lang="fr" state="translated">Prochain voyage</target>
+        <target xml:lang="fr" state="translated">Prochain trajet</target>
         <note>Indicating the next trip is an upcoming trip</note>
+        <alt-trans>
+          <target xml:lang="fr">Prochain voyage</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="View">
         <source>View</source>
-        <target xml:lang="fr" state="translated">Vue</target>
+        <target xml:lang="fr" state="translated">Afficher</target>
         <note>Button to view something, e.g., a notification content or the EULA</note>
+        <alt-trans>
+          <target xml:lang="fr">Vue</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Warning">
         <source>Warning</source>
-        <target xml:lang="fr" state="needs-translation">Warning</target>
+        <target xml:lang="fr" state="translated">Avertissement</target>
         <note>Title of notification showing a non-critical issue</note>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title">
         <source>Trips</source>
-        <target xml:lang="fr" state="translated">Voyages</target>
+        <target xml:lang="fr" state="translated">Trajets</target>
         <note>Class = "UITabBarItem"; title = "Trips"; ObjectID = "3d9-Hg-2Fe";</note>
+        <alt-trans>
+          <target xml:lang="fr">Voyages</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5WK-au-VFq.title">
         <source>Settings</source>
@@ -1762,8 +2077,11 @@
       </trans-unit>
       <trans-unit id="QTR-Ae-g7f.title">
         <source>Trip</source>
-        <target xml:lang="fr" state="translated">Voyage</target>
+        <target xml:lang="fr" state="translated">Trajet</target>
         <note>Class = "UINavigationItem"; title = "Trip"; ObjectID = "QTR-Ae-g7f";</note>
+        <alt-trans>
+          <target xml:lang="fr">Voyage</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="TNA-bx-79H.title">
         <source>Agenda</source>
@@ -1772,8 +2090,11 @@
       </trans-unit>
       <trans-unit id="TYM-9i-XBA.title">
         <source>Profile</source>
-        <target xml:lang="fr" state="translated">Réglages</target>
+        <target xml:lang="fr" state="translated">Profil</target>
         <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "TYM-9i-XBA";</note>
+        <alt-trans>
+          <target xml:lang="fr">Réglages</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="t3k-Ks-sqa.title">
         <source>Alerts</source>
@@ -1794,18 +2115,34 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
+      <trans-unit id="19.placeholder">
+        <source>From</source>
+        <target xml:lang="fr" state="translated">De</target>
+        <note>Class = "UISearchBar"; placeholder = "From"; ObjectID = "19";</note>
+      </trans-unit>
       <trans-unit id="30.accessibilityLabel">
         <source>Swap from and to</source>
-        <target xml:lang="fr" state="translated">Échanger le départ et l'arrivée</target>
+        <target xml:lang="fr" state="translated">Inverser le départ et l'arrivée</target>
         <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
+        <alt-trans>
+          <target xml:lang="fr">Échanger le départ et l'arrivée</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="43.placeholder">
+        <source>To</source>
+        <target xml:lang="fr" state="translated">À</target>
+        <note>Class = "UISearchBar"; placeholder = "To"; ObjectID = "43";</note>
       </trans-unit>
       <trans-unit id="44.normalTitle">
         <source>Time</source>
-        <target xml:lang="fr" state="translated">Temps</target>
+        <target xml:lang="fr" state="translated">Horaire</target>
         <note>Class = "UIButton"; normalTitle = "Time"; ObjectID = "44";</note>
+        <alt-trans>
+          <target xml:lang="fr">Temps</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="57.accessibilityLabel">
         <source>Route</source>
@@ -1819,19 +2156,34 @@
       </trans-unit>
       <trans-unit id="JFm-H4-fOo.accessibilityLabel">
         <source>To Location</source>
-        <target xml:lang="fr" state="translated">Échanger le départ et l'arrivée</target>
+        <target xml:lang="fr" state="translated">Lieu d'arrivée</target>
         <note>Class = "UIButton"; accessibilityLabel = "To Location"; ObjectID = "JFm-H4-fOo";</note>
+        <alt-trans>
+          <target xml:lang="fr">Lieu arrivée</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Définir le lieu</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Échanger le départ et l'arrivée</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bs1-li-naL.accessibilityLabel">
         <source>From Location</source>
-        <target xml:lang="fr" state="translated">Échanger le départ et l'arrivée</target>
+        <target xml:lang="fr" state="translated">Lieu de départ</target>
         <note>Class = "UIButton"; accessibilityLabel = "From Location"; ObjectID = "bs1-li-naL";</note>
+        <alt-trans>
+          <target xml:lang="fr">Départ</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Échanger le départ et l'arrivée</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -1840,7 +2192,10 @@
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription">
         <source>Get automated trips from and to events in your calendar, and search your calendar for events.</source>
-        <target xml:lang="fr" state="translated">Obtenez des itinéraires depuis et vers les évènements de votre calendrier, et recherchez des évènements dans votre calendrier.</target>
+        <target xml:lang="fr" state="translated">Obtenir des itinéraires automatisés depuis et vers les évènements de votre calendrier, et y recherchez d'autres évènements.</target>
+        <alt-trans>
+          <target xml:lang="fr">Obtenez des itinéraires depuis et vers les évènements de votre calendrier, et recherchez des évènements dans votre calendrier.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription">
         <source>Search your contacts for locations.</source>
@@ -1848,17 +2203,23 @@
       </trans-unit>
       <trans-unit id="NSLocationUsageDescription">
         <source>Search from or to your current location. Locate yourself on the map.</source>
-        <target xml:lang="fr" state="translated">Voyagez depuis ou vers votre position actuelle. Localisez-vous sur la carte.</target>
+        <target xml:lang="fr" state="translated">Voyager depuis ou vers votre adresse actuelle. Localisez-vous sur la carte.</target>
+        <alt-trans>
+          <target xml:lang="fr">Voyagez depuis ou vers votre position actuelle. Localisez-vous sur la carte.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Search from or to your current location. Locate yourself on the map.</source>
-        <target xml:lang="fr" state="translated">Voyagez depuis ou vers votre position actuelle. Localisez-vous sur la carte.</target>
+        <target xml:lang="fr" state="translated">Voyager depuis ou vers votre adresse actuelle. Localisez-vous sur la carte.</target>
+        <alt-trans>
+          <target xml:lang="fr">Voyagez depuis ou vers votre position actuelle. Localisez-vous sur la carte.</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%@'s">
@@ -1883,13 +2244,19 @@
       </trans-unit>
       <trans-unit id="'%@' not found.">
         <source>'%@' not found.</source>
-        <target xml:lang="fr" state="translated">'%@' Aucun résultat trouvé. Veuillez réessayer.</target>
+        <target xml:lang="fr" state="translated">'%@' non trouvé.</target>
         <note>Error when location search for %input was not successful. (old key: RequestErrorFormat)</note>
+        <alt-trans>
+          <target xml:lang="fr">'%@' Aucun résultat trouvé. Veuillez réessayer.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.">
         <source>Access to this feature has been restricted for your device. Please check the Settings app &gt; General &gt; Restrictions or ask your device provider.</source>
-        <target xml:lang="fr" state="translated">L'accès à cette fonctionnalité a été limité pour votre appareil. Veuillez vérifier les réglages de l'application &gt; Général &gt; Restrictions ou contactez votre fournisseur.</target>
+        <target xml:lang="fr" state="translated">L'accès à cette fonctionnalité est restreinte pour votre appareil. Veuillez vérifier les Réglages de l'application &gt; Général &gt; Restrictions ou contacter votre fournisseur.</target>
         <note>Authorization restricted alert message</note>
+        <alt-trans>
+          <target xml:lang="fr">L'accès à cette fonctionnalité a été limité pour votre appareil. Veuillez vérifier les réglages de l'application &gt; Général &gt; Restrictions ou contactez votre fournisseur.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Action">
         <source>Action</source>
@@ -1918,18 +2285,13 @@
       </trans-unit>
       <trans-unit id="Back">
         <source>Back</source>
-        <target xml:lang="fr" state="needs-translation">Back</target>
+        <target xml:lang="fr" state="translated">Retour</target>
         <note>Accessibility label for 'back' or 'previous' button</note>
       </trans-unit>
       <trans-unit id="Bicycle">
         <source>Bicycle</source>
         <target xml:lang="fr" state="translated">Vélo</target>
         <note>Type of vehicle : bicycle</note>
-      </trans-unit>
-      <trans-unit id="CVC">
-        <source>CVC</source>
-        <target xml:lang="fr" state="translated">Code CVC</target>
-        <note>Credit card CVC</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
@@ -1943,23 +2305,27 @@
       </trans-unit>
       <trans-unit id="Cannot proceed without a valid email address">
         <source>Cannot proceed without a valid email address</source>
-        <target xml:lang="fr" state="translated">Nous ne pouvons pas procéder sans une adresse e-mail valide</target>
+        <target xml:lang="fr" state="translated">Impossible de continuer sans adresse email valide</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Impossible de continuer sans une adresse email valide</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Nous ne pouvons pas procéder sans une adresse e-mail valide</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Car">
         <source>Car</source>
         <target xml:lang="fr" state="translated">Voiture</target>
         <note>Type of vehicle : car</note>
       </trans-unit>
-      <trans-unit id="Card No.">
-        <source>Card No.</source>
-        <target xml:lang="fr" state="translated">N° de carte.</target>
-        <note>Credit card number</note>
-      </trans-unit>
       <trans-unit id="Change">
         <source>Change</source>
-        <target xml:lang="fr" state="translated">Remplacer</target>
+        <target xml:lang="fr" state="translated">Modifier</target>
         <note>Instruction for changing password</note>
+        <alt-trans>
+          <target xml:lang="fr">Remplacer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Change tracking options">
         <source>Change tracking options</source>
@@ -1983,28 +2349,35 @@
       </trans-unit>
       <trans-unit id="Contact support">
         <source>Contact support</source>
-        <target xml:lang="fr" state="translated">Contactez le service clientèle</target>
+        <target xml:lang="fr" state="translated">Contactez le service client</target>
         <note>Title for button that allows users to contact our support team to help resolve some error in the app.</note>
+        <alt-trans>
+          <target xml:lang="fr">Contactez le service clientèle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Could not determine your current location.">
         <source>Could not determine your current location.</source>
-        <target xml:lang="fr" state="translated">Impossible de déterminer votre position.</target>
+        <target xml:lang="fr" state="translated">Impossible de déterminer votre position actuelle.</target>
         <note>Error title when GPS failed.</note>
+        <alt-trans>
+          <target xml:lang="fr">Impossible de déterminer votre position.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Could not download supported regions from TripGo's server. Please try again later.">
         <source>Could not download supported regions from TripGo's server. Please try again later.</source>
-        <target xml:lang="fr" state="translated">Échec du téléchargement des régions supportées depuis le serveur de TripGo. Veuillez réessayer plus tard.</target>
+        <target xml:lang="fr" state="translated">Échec du téléchargement des régions disponibles sur TripGo. Veuillez réessayer plus tard.</target>
         <note>Could not download supported regions warning. (old key: CouldNotDownloadSupportedRegions)</note>
+        <alt-trans>
+          <target xml:lang="fr">Échec du téléchargement des régions disponible sur TripGo. Veuillez réessayer plus tard.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Échec du téléchargement des régions supportées depuis le serveur de TripGo. Veuillez réessayer plus tard.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Creating account">
         <source>Creating account</source>
         <target xml:lang="fr" state="translated">Création du compte</target>
         <note>Message that indicates the app is creating accounts for users</note>
-      </trans-unit>
-      <trans-unit id="Credit card">
-        <source>Credit card</source>
-        <target xml:lang="fr" state="translated">Carte de crédit</target>
-        <note>Section title for credit card payment</note>
       </trans-unit>
       <trans-unit id="Current City">
         <source>Current City</source>
@@ -2033,19 +2406,24 @@
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
-        <target xml:lang="fr" state="translated">Ok</target>
+        <target xml:lang="fr" state="translated">Validé</target>
         <note>Done action</note>
+        <alt-trans>
+          <target xml:lang="fr">Ok</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Drop new pin">
         <source>Drop new pin</source>
-        <target xml:lang="fr" state="translated">Déposer un nouveau point</target>
+        <target xml:lang="fr" state="translated">Ajouter un marqueur</target>
         <note>Drop new pin</note>
+        <alt-trans>
+          <target xml:lang="fr">Déposer un nouveau point</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Email">
         <source>Email</source>
         <target xml:lang="fr" state="translated">E-mail</target>
-        <note>Email address where receipt is sent
-   Email used as Facebook username</note>
+        <note>For email address</note>
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
@@ -2057,11 +2435,6 @@
         <target xml:lang="fr" state="translated">Tous les jours</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
-      <trans-unit id="Expiry Date">
-        <source>Expiry Date</source>
-        <target xml:lang="fr" state="translated">Date d'expiration</target>
-        <note>Credit card expiry date</note>
-      </trans-unit>
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
         <target xml:lang="fr" state="translated">Pour le départ</target>
@@ -2072,11 +2445,6 @@
         <target xml:lang="fr" state="translated">Gratuit</target>
         <note>Free as in beer</note>
       </trans-unit>
-      <trans-unit id="Full name">
-        <source>Full name</source>
-        <target xml:lang="fr" state="translated">Nom et prénom </target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Getting a lift">
         <source>Getting a lift</source>
         <target xml:lang="fr" state="translated">Vous faire conduire</target>
@@ -2084,8 +2452,11 @@
       </trans-unit>
       <trans-unit id="Has reminder">
         <source>Has reminder</source>
-        <target xml:lang="fr" state="translated">A rappel</target>
+        <target xml:lang="fr" state="translated">A un rappel</target>
         <note>Accessibility annotation for trips which have a reminder set.</note>
+        <alt-trans>
+          <target xml:lang="fr">A rappel</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Include contacts">
         <source>Include contacts</source>
@@ -2104,18 +2475,21 @@
       </trans-unit>
       <trans-unit id="Invalid account">
         <source>Invalid account</source>
-        <target xml:lang="fr" state="translated">Compte non valide</target>
+        <target xml:lang="fr" state="translated">Compte invalide</target>
         <note>Title for alert that indicates the user account has become invalid</note>
+        <alt-trans>
+          <target xml:lang="fr">Compte non valide</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="John Appleseed">
         <source>John Appleseed</source>
         <target xml:lang="fr" state="translated">John Appleseed</target>
         <note>Name placeholder text</note>
       </trans-unit>
-      <trans-unit id="Linking Facebook">
-        <source>Linking Facebook</source>
-        <target xml:lang="fr" state="translated">Lier votre compte avec Facebook</target>
-        <note>Used when user signs in using Facebook</note>
+      <trans-unit id="Later">
+        <source>Later</source>
+        <target xml:lang="fr" state="needs-translation">Later</target>
+        <note>Title of button to perform some action at a later time</note>
       </trans-unit>
       <trans-unit id="Loading">
         <source>Loading</source>
@@ -2129,13 +2503,11 @@
       </trans-unit>
       <trans-unit id="Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.">
         <source>Location services are required to use this feature. Please go to the Settings app &gt; Privacy &gt; Location Services, make sure they are turned on and authorise this app.</source>
-        <target xml:lang="fr" state="translated">La géolocalisation est requise pour utiliser cette fonctionnalité. Veuillez vérifier que ce service est activé dans Réglages &gt; Confidentialité &gt; Localisation et autorisez cette application.</target>
+        <target xml:lang="fr" state="translated">La géolocalisation est requise pour utiliser cette fonctionnalité. Veuillez vérifier que ce service est activé dans Réglages &gt; Confidentialité &gt; Localisation et autoriser cette application.</target>
         <note>Location iOS authorisation needed text</note>
-      </trans-unit>
-      <trans-unit id="Making payment">
-        <source>Making payment</source>
-        <target xml:lang="fr" state="translated">Effectuer le paiement</target>
-        <note>Indicating a payment is in progress</note>
+        <alt-trans>
+          <target xml:lang="fr">La géolocalisation est requise pour utiliser cette fonctionnalité. Veuillez vérifier que ce service est activé dans Réglages &gt; Confidentialité &gt; Localisation et autorisez cette application.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Minutes before trip">
         <source>Minutes before trip</source>
@@ -2160,9 +2532,7 @@
       <trans-unit id="Name">
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
-        <note>Name to which receipt is sent
-   Name used in Facebook
-   Title for name of something (or someone)</note>
+        <note>Title for name of something (or someone)</note>
       </trans-unit>
       <trans-unit id="Never">
         <source>Never</source>
@@ -2172,12 +2542,15 @@
       <trans-unit id="New account">
         <source>New account</source>
         <target xml:lang="fr" state="translated">Nouveau compte</target>
-        <note>Title for sign in view when user does not have an account</note>
+        <note>Title of page to create new account</note>
       </trans-unit>
       <trans-unit id="Next">
         <source>Next</source>
-        <target xml:lang="fr" state="translated">Suivante</target>
+        <target xml:lang="fr" state="translated">Suivant</target>
         <note>Next action</note>
+        <alt-trans>
+          <target xml:lang="fr">Suivante</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="No CO₂">
         <source>No CO₂</source>
@@ -2186,13 +2559,19 @@
       </trans-unit>
       <trans-unit id="Not wheelchair accessible">
         <source>Not wheelchair accessible</source>
-        <target xml:lang="fr" state="needs-translation">Not wheelchair accessible</target>
+        <target xml:lang="fr" state="translated">Pas d'accès en fauteuil roulant</target>
         <note>Indicator for wheelchair not accessible services</note>
+        <alt-trans>
+          <target xml:lang="fr">Pas accessible en fauteuil roulant</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Now">
         <source>Now</source>
-        <target xml:lang="fr" state="translated">Immédiat.</target>
+        <target xml:lang="fr" state="translated">Maintenant</target>
         <note>Countdown cell 'now' indicator</note>
+        <alt-trans>
+          <target xml:lang="fr">Immédiat.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
@@ -2202,7 +2581,7 @@
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target xml:lang="fr" state="translated">Ouvrir Réglages</target>
-        <note>Button to open Settings app section for this app</note>
+        <note>Button that goes to the Setting's app</note>
       </trans-unit>
       <trans-unit id="Open in Safari">
         <source>Open in Safari</source>
@@ -2214,20 +2593,13 @@
         <target xml:lang="fr" state="translated">Mot de passe </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Payment successful">
-        <source>Payment successful</source>
-        <target xml:lang="fr" state="translated">Paiement validé</target>
-        <note>Indicating a payment is successful</note>
-      </trans-unit>
-      <trans-unit id="Paypal">
-        <source>Paypal</source>
-        <target xml:lang="fr" state="translated">Paypal</target>
-        <note>Section title for Paypal payment</note>
-      </trans-unit>
       <trans-unit id="Please select a location">
         <source>Please select a location</source>
-        <target xml:lang="fr" state="translated">Veuillez sélectionner une ville</target>
+        <target xml:lang="fr" state="translated">Veuillez sélectionner un lieu</target>
         <note>Please select a location prompt</note>
+        <alt-trans>
+          <target xml:lang="fr">Veuillez sélectionner une ville</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Please try again or set your location manually.">
         <source>Please try again or set your location manually.</source>
@@ -2236,13 +2608,19 @@
       </trans-unit>
       <trans-unit id="Please verify the location">
         <source>Please verify the location</source>
-        <target xml:lang="fr" state="translated">Veuillez vérifier la ville</target>
+        <target xml:lang="fr" state="translated">Veuillez vérifier le lieu</target>
         <note>Please verify the location prompt</note>
+        <alt-trans>
+          <target xml:lang="fr">Veuillez vérifier la ville</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Press 'search' for more...">
         <source>Press 'search' for more...</source>
-        <target xml:lang="fr" state="translated">Presser 'recherche' pour plus...</target>
+        <target xml:lang="fr" state="translated">Taper sur 'recherche' pour plus...</target>
         <note>Location picker 'no autocompletion results' text. Needs to match text on keyboard.</note>
+        <alt-trans>
+          <target xml:lang="fr">Presser 'recherche' pour plus...</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Read more...">
         <source>Read more...</source>
@@ -2251,13 +2629,11 @@
       </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
-        <target xml:lang="fr" state="translated">Temps-réel</target>
+        <target xml:lang="fr" state="translated">En temps réel</target>
         <note>Indicator for real-time information</note>
-      </trans-unit>
-      <trans-unit id="Receipt">
-        <source>Receipt</source>
-        <target xml:lang="fr" state="translated">Accusé de réception</target>
-        <note>Title for section that asks users where payment receipt should be sent</note>
+        <alt-trans>
+          <target xml:lang="fr">Temps-réel</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Reminder">
         <source>Reminder</source>
@@ -2286,8 +2662,11 @@
       </trans-unit>
       <trans-unit id="Report Problem">
         <source>Report Problem</source>
-        <target xml:lang="fr" state="translated">Rapporter un problème</target>
+        <target xml:lang="fr" state="translated">Signaler un problème</target>
         <note>Button title to report a problem</note>
+        <alt-trans>
+          <target xml:lang="fr">Rapporter un problème</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Retry">
         <source>Retry</source>
@@ -2324,15 +2703,13 @@
         <target xml:lang="fr" state="translated">Recherche de '%@'...</target>
         <note>Placeholder text while waiting for server response when searching for a location.</note>
       </trans-unit>
-      <trans-unit id="Settings">
-        <source>Settings</source>
-        <target xml:lang="fr" state="translated">Réglages</target>
-        <note>Button that goes to the Setting's app</note>
-      </trans-unit>
       <trans-unit id="Sign in">
         <source>Sign in</source>
-        <target xml:lang="fr" state="translated">Identifiez-vous</target>
-        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="translated">S'identifier</target>
+        <note>Title of page or button to sign in</note>
+        <alt-trans>
+          <target xml:lang="fr">Identifiez-vous</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Sign out">
         <source>Sign out</source>
@@ -2341,13 +2718,19 @@
       </trans-unit>
       <trans-unit id="Sign up">
         <source>Sign up</source>
-        <target xml:lang="fr" state="translated">S'identifier</target>
-        <note>No comment provided by engineer.</note>
+        <target xml:lang="fr" state="translated">S'inscrire</target>
+        <note>Title of page or button to sign up</note>
+        <alt-trans>
+          <target xml:lang="fr">S'identifier</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Sign up cannot be completed without a valid password">
         <source>Sign up cannot be completed without a valid password</source>
-        <target xml:lang="fr" state="translated">Vous ne pouvez pas vous identifier sans un mot de passe valide</target>
+        <target xml:lang="fr" state="translated">L'inscription ne peut pas s'effectuer sans mot de passe valide</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Vous ne pouvez pas vous identifier sans un mot de passe valide</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Signing in">
         <source>Signing in</source>
@@ -2357,8 +2740,7 @@
       <trans-unit id="Signing out">
         <source>Signing out</source>
         <target xml:lang="fr" state="translated">Déconnexion en cours</target>
-        <note>Message that indicates the app has successfully completed signing out
-   Message that indicates the app is signing users out of their accounts</note>
+        <note>Message that indicates the app is signing users out of their accounts</note>
       </trans-unit>
       <trans-unit id="Starting %@">
         <source>Starting %@</source>
@@ -2367,8 +2749,11 @@
       </trans-unit>
       <trans-unit id="Tap to set location">
         <source>Tap to set location</source>
-        <target xml:lang="fr" state="translated">Touchez pour définir l'emplacement</target>
+        <target xml:lang="fr" state="translated">Appuyer pour définir la position</target>
         <note>Tap to set location. (old key: SetLocation)</note>
+        <alt-trans>
+          <target xml:lang="fr">Touchez pour définir l'emplacement</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="The app will now sign out">
         <source>The app will now sign out</source>
@@ -2412,18 +2797,33 @@
       </trans-unit>
       <trans-unit id="Weekdays">
         <source>Weekdays</source>
-        <target xml:lang="fr" state="translated">Chaque jour de la semaine</target>
+        <target xml:lang="fr" state="translated">Du lundi au vendredi</target>
         <note>Every weekday in context of repetitions (especially recurring events)</note>
+        <alt-trans>
+          <target xml:lang="fr">Chaque jour de la semaine</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Weekends">
         <source>Weekends</source>
-        <target xml:lang="fr" state="translated">Chaque jour du week-end</target>
+        <target xml:lang="fr" state="translated">Week-ends</target>
         <note>Every weekend day in context of repetitions (especially recurring events)</note>
+        <alt-trans>
+          <target xml:lang="fr">Week-end</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Chaque jour du week-end</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Wheelchair accessibility unknown">
         <source>Wheelchair accessibility unknown</source>
-        <target xml:lang="fr" state="needs-translation">Wheelchair accessibility unknown</target>
+        <target xml:lang="fr" state="translated">L'accès en fauteuil roulant n'est pas précisé</target>
         <note>Indicator for unknow if service or station is wheelchair accessible or not</note>
+        <alt-trans>
+          <target xml:lang="fr">L'accès en fauteuil roulant n'est pas precisé</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">L'accès en fauteuil roulant est à determiner</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Wheelchair accessible">
         <source>Wheelchair accessible</source>
@@ -2437,13 +2837,19 @@
       </trans-unit>
       <trans-unit id="You need to agree to the booking terms and conditions.">
         <source>You need to agree to the booking terms and conditions.</source>
-        <target xml:lang="fr" state="translated">Vous devez accepter les conditions de réservation.</target>
+        <target xml:lang="fr" state="translated">Vous devez accepter les conditions générales de réservation.</target>
         <note>Message that informs users that T&amp;C must be agreed before booking can be made.</note>
+        <alt-trans>
+          <target xml:lang="fr">Vous devez accepter les conditions de réservation.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="You need to agree to the insurance terms and conditions.">
         <source>You need to agree to the insurance terms and conditions.</source>
-        <target xml:lang="fr" state="translated">Vous devez accepter les conditions d’assurance.</target>
+        <target xml:lang="fr" state="translated">Vous devez accepter les conditions générales d’assurance.</target>
         <note>Message that informs users that T&amp;C for insurance must be agreed before booking can be made.</note>
+        <alt-trans>
+          <target xml:lang="fr">Vous devez accepter les conditions d’assurance.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.">
         <source>You previously denied this app access to your calendar. Please go to the Settings app &gt; Privacy &gt; Calendar and authorise this app to use this feature.</source>
@@ -2480,11 +2886,6 @@
         <target xml:lang="fr" state="translated">example@example.com</target>
         <note>Email placeholder text</note>
       </trans-unit>
-      <trans-unit id="mm/yy">
-        <source>mm/yy</source>
-        <target xml:lang="fr" state="translated">mm/aa</target>
-        <note>Credit card expiry date placeholder, mm/yy</note>
-      </trans-unit>
       <trans-unit id="starts at %@">
         <source>starts at %@</source>
         <target xml:lang="fr" state="translated">débute à %@</target>
@@ -2492,14 +2893,17 @@
       </trans-unit>
       <trans-unit id="to %@">
         <source>to %@</source>
-        <target xml:lang="fr" state="translated">jusqu'au %@</target>
+        <target xml:lang="fr" state="translated">à : %@</target>
         <note>to %date. (old key: DateToFormat)</note>
+        <alt-trans>
+          <target xml:lang="fr">jusqu'au %@</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="fr">
     <header>
-      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
     </header>
     <body>
       <trans-unit id="%1$@ early">
@@ -2519,18 +2923,29 @@
       </trans-unit>
       <trans-unit id="%1$@ late (%2$@ service)">
         <source>%1$@ late (%2$@ service)</source>
-        <target xml:lang="fr" state="translated">%1$@ en retard (Service de %2$@)</target>
+        <target xml:lang="fr" state="translated">%1$@ en retard (service de %2$@)</target>
         <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
+        <alt-trans>
+          <target xml:lang="fr">%1$@ en retard (Service de %2$@)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="%@ ago">
+        <source>%@ ago</source>
+        <target xml:lang="fr" state="needs-translation">%@ ago</target>
+        <note>Title for something that happened a certain timeframe ago, e.g., '5 mins ago'</note>
       </trans-unit>
       <trans-unit id="%@ alerts">
         <source>%@ alerts</source>
-        <target xml:lang="fr" state="needs-translation">%@ alerts</target>
+        <target xml:lang="fr" state="translated">%@ alertes</target>
         <note>Number of alerts, in this case, there are multiple (plural</note>
       </trans-unit>
       <trans-unit id="%@ cycle friendly">
         <source>%@ cycle friendly</source>
-        <target xml:lang="fr" state="translated">%@ accessible aux vélos</target>
+        <target xml:lang="fr" state="translated">%@ accessible en vélo</target>
         <note>Indicator for how cycle-friendly a cycling route is. Placeholder will get replaced with '75%'.</note>
+        <alt-trans>
+          <target xml:lang="fr">%@ accessible aux vélos</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="fr">%@ adapté aux vélos</target>
         </alt-trans>
@@ -2553,8 +2968,17 @@
       </trans-unit>
       <trans-unit id="%@ wheelchair friendly">
         <source>%@ wheelchair friendly</source>
-        <target xml:lang="fr" state="translated">%@ accessible au fauteuil roulant</target>
+        <target xml:lang="fr" state="translated">%@ accessible en fauteuil roulant</target>
         <note>Indicator for how wheelchair-friendly a wheeelchair route is. Placeholder will get replaced with '75%'.</note>
+        <alt-trans>
+          <target xml:lang="fr">%@ accès fauteuil roulant</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Accès fauteuil roulant</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">%@ accessible au fauteuil roulant</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="1 stop">
         <source>1 stop</source>
@@ -2602,20 +3026,10 @@
         <target xml:lang="fr" state="translated">À %@</target>
         <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)</note>
       </trans-unit>
-      <trans-unit id="Book with FlitWays">
-        <source>Book with FlitWays</source>
-        <target xml:lang="fr" state="translated">Réserver avec FlitWays</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Book with Uber">
-        <source>Book with Uber</source>
-        <target xml:lang="fr" state="translated">Réserver avec Uber</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Calculating trips...">
-        <source>Calculating trips...</source>
-        <target xml:lang="fr" state="translated">Calcul de voyages...</target>
-        <note>Placeholder title while calculating trips</note>
+      <trans-unit id="Book with %@">
+        <source>Book with %@</source>
+        <target xml:lang="fr" state="translated">Réserver avec %@</target>
+        <note>Action title to make a booking using service/app named '@%'</note>
       </trans-unit>
       <trans-unit id="Call">
         <source>Call</source>
@@ -2625,15 +3039,7 @@
       <trans-unit id="Call %@">
         <source>Call %@</source>
         <target xml:lang="fr" state="translated">Appeler %@</target>
-        <note>Action title for calling provider of name. (old key: CallTaxiFormat)</note>
-      </trans-unit>
-      <trans-unit id="Connect to Internet to get trips">
-        <source>Connect to Internet to get trips</source>
-        <target xml:lang="fr" state="translated">Se connecter à Internet pour accéder aux trajets</target>
-        <note>Single line instruction if device is offline and user needs to reconnect to internet to calculate trips</note>
-        <alt-trans>
-          <target xml:lang="fr">Se connecter à Internet pour accéder aux voyages</target>
-        </alt-trans>
+        <note>Action title to make a call to service/company named '@%'</note>
       </trans-unit>
       <trans-unit id="Could not find transit stop.">
         <source>Could not find transit stop.</source>
@@ -2670,38 +3076,31 @@
       </trans-unit>
       <trans-unit id="Friendly">
         <source>Friendly</source>
-        <target xml:lang="fr" state="needs-translation">Friendly</target>
+        <target xml:lang="fr" state="translated">Accès en vélo et fauteuil roulant</target>
         <note>Indicating a path is wheelchair/cycyling friendly</note>
       </trans-unit>
       <trans-unit id="From %@">
         <source>From %@</source>
-        <target xml:lang="fr" state="translated">À %@</target>
+        <target xml:lang="fr" state="translated">De %@</target>
         <note>Departure location. (old key: PrimaryLocationStart)</note>
+        <alt-trans>
+          <target xml:lang="fr">À %@</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Full">
         <source>Full</source>
         <target xml:lang="fr" state="translated">Complet</target>
         <note>As in 'this bus/train is full and likely can't accept further passengers'</note>
       </trans-unit>
-      <trans-unit id="Get Lyft">
-        <source>Get Lyft</source>
-        <target xml:lang="fr" state="translated">Obtenir Lyft</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Get Ola">
-        <source>Get Ola</source>
-        <target xml:lang="fr" state="translated">Obtenir Ola</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Get %@">
+        <source>Get %@</source>
+        <target xml:lang="fr" state="translated">Obtenir %@</target>
+        <note>Action title get/download app of name '@%'</note>
       </trans-unit>
       <trans-unit id="Get directions">
         <source>Get directions</source>
         <target xml:lang="fr" state="translated">Obtenir les itinéraires</target>
         <note>Action button title for getting turn-by-turn directions</note>
-      </trans-unit>
-      <trans-unit id="Get ingogo">
-        <source>Get ingogo</source>
-        <target xml:lang="fr" state="translated">Obtenir ingogo</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Google Maps">
         <source>Google Maps</source>
@@ -2710,23 +3109,29 @@
       </trans-unit>
       <trans-unit id="I'll arrive at %@ at %@">
         <source>I'll arrive at %@ at %@</source>
-        <target xml:lang="fr" state="translated">Je vais arriver à %@ à %@.</target>
+        <target xml:lang="fr" state="translated">J'arriverai à %@ à %@</target>
         <note>First '%@' will be replaced with destination location, second with arrival at that location. (old key: MessageArrivalTime)</note>
+        <alt-trans>
+          <target xml:lang="fr">Je vais arriver à %@ à %@.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="I'll take a %@ at %@ from %@.">
         <source>I'll take a %@ at %@ from %@.</source>
         <target xml:lang="fr" state="translated">Je vais prendre un %@ à %@ depuis %@.</target>
         <note>Indication of an activity. (old key: ActivityIndication)</note>
       </trans-unit>
+      <trans-unit id="In %@">
+        <source>In %@</source>
+        <target xml:lang="fr" state="needs-translation">In %@</target>
+        <note>Title for something to happen in a certain timeframe, e.g., 'In 5 mins'</note>
+      </trans-unit>
       <trans-unit id="In the meantime, let's keep exploring %@ and enjoy your trips">
         <source>In the meantime, let's keep exploring %@ and enjoy your trips</source>
-        <target xml:lang="fr" state="translated">En attendant, continuons à explorer %@ et profitez de vos voyages</target>
+        <target xml:lang="fr" state="translated">En attendant, continuons d'explorer %@ et profiter de vos voyages</target>
         <note>%@ is replaced with app name</note>
-      </trans-unit>
-      <trans-unit id="In the meantime, let's keep exploring and enjoy your trips">
-        <source>In the meantime, let's keep exploring and enjoy your trips</source>
-        <target xml:lang="fr" state="translated">En attendant, continuons à explorer %@ et profitez de vos voyages</target>
-        <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">En attendant, continuons à explorer %@ et profitez de vos voyages</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Leave">
         <source>Leave</source>
@@ -2775,12 +3180,15 @@
       <trans-unit id="Loading...">
         <source>Loading...</source>
         <target xml:lang="fr" state="translated">Chargement...</target>
-        <note>Title to show while loading/waiting for results</note>
+        <note>Indicating when something is loading</note>
       </trans-unit>
       <trans-unit id="Many seats available">
         <source>Many seats available</source>
-        <target xml:lang="fr" state="translated">Plusieurs places disponibles</target>
+        <target xml:lang="fr" state="translated">De nombreux sièges disponibles</target>
         <note>As in 'this bus/train has many seats available'</note>
+        <alt-trans>
+          <target xml:lang="fr">Plusieurs places disponibles</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="More info">
         <source>More info</source>
@@ -2802,15 +3210,10 @@
         <target xml:lang="fr" state="translated">À l'heure</target>
         <note>Indicator to show when a service is on time according to real-time data.</note>
       </trans-unit>
-      <trans-unit id="Open Lyft">
-        <source>Open Lyft</source>
-        <target xml:lang="fr" state="translated">Ouvrir Lyft</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Open Ola">
-        <source>Open Ola</source>
-        <target xml:lang="fr" state="translated">Ouvrez Ola</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Open %@">
+        <source>Open %@</source>
+        <target xml:lang="fr" state="translated">Ouvrir %@</target>
+        <note>Action title open app of name '@%'</note>
       </trans-unit>
       <trans-unit id="Opening Hours">
         <source>Opening Hours</source>
@@ -2819,8 +3222,11 @@
       </trans-unit>
       <trans-unit id="Plan a trip and it will show up here.">
         <source>Plan a trip and it will show up here.</source>
-        <target xml:lang="fr" state="translated">Planifier un voyage et il sera affiché ici.</target>
+        <target xml:lang="fr" state="translated">Planifier un trajet pour qu'il s'affiche ici.</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Planifier un voyage et il sera affiché ici.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Public holiday">
         <source>Public holiday</source>
@@ -2829,18 +3235,24 @@
       </trans-unit>
       <trans-unit id="Real-time">
         <source>Real-time</source>
-        <target xml:lang="fr" state="translated">Temps-réel</target>
+        <target xml:lang="fr" state="translated">En temps réel</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Temps-réel</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Search for this stop again or try again later..">
         <source>Search for this stop again or try again later..</source>
-        <target xml:lang="fr" state="translated">Search for this stop again or try again later.</target>
+        <target xml:lang="fr" state="translated">Rechercher cet arrêt ou réessayer plus tard ..</target>
         <note>Error recovery suggestion for when when server could not find a given transit stop.</note>
+        <alt-trans>
+          <target xml:lang="fr">Search for this stop again or try again later.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Send SMS">
         <source>Send SMS</source>
         <target xml:lang="fr" state="translated">Envoyer un SMS</target>
-        <note>Send SMS action</note>
+        <note>Send SMS action button</note>
       </trans-unit>
       <trans-unit id="Setup">
         <source>Setup</source>
@@ -2852,23 +3264,35 @@
       </trans-unit>
       <trans-unit id="Show">
         <source>Show</source>
-        <target xml:lang="fr" state="needs-translation">Show</target>
+        <target xml:lang="fr" state="translated">Afficher</target>
         <note>Title for button that, when tapped, shows something, e.g., a list of alert</note>
       </trans-unit>
       <trans-unit id="Show website">
         <source>Show website</source>
-        <target xml:lang="fr" state="translated">Ouvrir le site Web</target>
-        <note>Show website action</note>
+        <target xml:lang="fr" state="translated">Afficher le site web</target>
+        <note>Show website action button</note>
+        <alt-trans>
+          <target xml:lang="fr">Ouvrir le site web</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Ouvrir le site Web</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Standing room only">
         <source>Standing room only</source>
-        <target xml:lang="fr" state="translated">Places debout</target>
+        <target xml:lang="fr" state="translated">Places debout uniquement</target>
         <note>As in 'this bus/train is fairly full and has standing room only'</note>
+        <alt-trans>
+          <target xml:lang="fr">Places debout</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="To %@">
         <source>To %@</source>
-        <target xml:lang="fr" state="translated">Jusqu'à %@</target>
+        <target xml:lang="fr" state="translated">À %@</target>
         <note>Destination location. For trip titles, e.g., 'To work'. (old key: PrimaryLocationEnd)</note>
+        <alt-trans>
+          <target xml:lang="fr">Jusqu'à %@</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Trip">
         <source>Trip</source>
@@ -2877,13 +3301,22 @@
       </trans-unit>
       <trans-unit id="Unfriendly">
         <source>Unfriendly</source>
-        <target xml:lang="fr" state="needs-translation">Unfriendly</target>
+        <target xml:lang="fr" state="translated">Pas d'accès en fauteuil roulant ni vélo</target>
         <note>Indicating a path is wheelchair/cycyling unfriendly</note>
+        <alt-trans>
+          <target xml:lang="fr">Pas d'accès en fauteuil roulant et vélo</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Pas d'accès possible en fauteuil roulant et vélo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Unknown">
         <source>Unknown</source>
-        <target xml:lang="fr" state="needs-translation">Unknown</target>
+        <target xml:lang="fr" state="translated">À déterminer</target>
         <note>Indicating the wheelchair/cycling friendliness of a path is unknown</note>
+        <alt-trans>
+          <target xml:lang="fr">Inconnu(e)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="Updated %@ ago">
         <source>Updated %@ ago</source>
@@ -2902,8 +3335,14 @@
       </trans-unit>
       <trans-unit id="We'll keep you updated with the latest transit alerts here">
         <source>We'll keep you updated with the latest transit alerts here</source>
-        <target xml:lang="fr" state="translated">Nous vous tiendrons à jour avec les dernières alertes de transit ici</target>
+        <target xml:lang="fr" state="translated">Nous vous tiendrons informés des dernières alertes du service des transports</target>
         <note>No comment provided by engineer.</note>
+        <alt-trans>
+          <target xml:lang="fr">Nous vous tiendrons informés des dernières alertes de service</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Nous vous tiendrons à jour avec les dernières alertes de transit ici</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="at %@">
         <source>at %@</source>
@@ -2923,7 +3362,7 @@
       <trans-unit id="ingogo a Taxi">
         <source>ingogo a Taxi</source>
         <target xml:lang="fr" state="translated">ingogo un Taxi</target>
-        <note>No comment provided by engineer.</note>
+        <note>inGogo taxi booking action</note>
       </trans-unit>
     </body>
   </file>

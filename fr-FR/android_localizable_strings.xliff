@@ -4,11 +4,20 @@
     <body>
       <trans-unit id="access_to_your_calendar">
         <source>Access to your calendar is required</source>
-        <target xml:lang="fr" state="needs-translation">Access to your calendar is required</target>
+        <target xml:lang="fr" state="translated">L'accès à votre calendrier est requis</target>
+        <alt-trans>
+          <target xml:lang="fr">L'accès à votre calendrier est nécessaire</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">L'accès à votre calendrier est obligatoire</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="access_to_your_contacts">
         <source>Access to your contacts is required</source>
-        <target xml:lang="fr" state="needs-translation">Access to your contacts is required</target>
+        <target xml:lang="fr" state="translated">L'accès à vos contacts est requis</target>
+        <alt-trans>
+          <target xml:lang="fr">L'accès à vos contacts est nécessaire</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
@@ -16,7 +25,10 @@
       </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
-        <target xml:lang="fr" state="translated">Ajouter une position</target>
+        <target xml:lang="fr" state="translated">Ajouter une Position</target>
+        <alt-trans>
+          <target xml:lang="fr">Ajouter une position</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
@@ -24,15 +36,24 @@
       </trans-unit>
       <trans-unit id="add_to_home_screen">
         <source>Add to Home screen</source>
-        <target xml:lang="fr" state="translated">Ajouter à la page d'accueil</target>
+        <target xml:lang="fr" state="translated">Ajouter à la page d'Accueil</target>
+        <alt-trans>
+          <target xml:lang="fr">Ajouter à la page d'accueil</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target xml:lang="fr" state="translated">Voir votre agenda quotidien et favoris dans l'onglet ci-dessous</target>
+        <target xml:lang="fr" state="translated">Afficher votre agenda quotidien et vos favoris dans les onglets ci-dessous</target>
+        <alt-trans>
+          <target xml:lang="fr">Voir votre agenda quotidien et favoris dans l'onglet ci-dessous</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="all_alerts">
         <source>All Alerts</source>
-        <target xml:lang="fr" state="translated">Toutes les alertes</target>
+        <target xml:lang="fr" state="translated">Toutes les Alertes</target>
+        <alt-trans>
+          <target xml:lang="fr">Toutes les alertes</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings
@@ -42,7 +63,10 @@
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target xml:lang="fr" state="translated">Une erreur inattendue est survenu. Veuillez réessayer.</target>
+        <target xml:lang="fr" state="translated">Une erreur inattendue est survenue. Veuillez réessayer.</target>
+        <alt-trans>
+          <target xml:lang="fr">Une erreur inattendue est survenu. Veuillez réessayer.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
@@ -50,11 +74,20 @@
       </trans-unit>
       <trans-unit id="arrivaltimeindication">
         <source>" (arrive "</source>
-        <target xml:lang="fr" state="translated">(arriver</target>
+        <target xml:lang="fr" state="translated">" (arrivée "</target>
+        <alt-trans>
+          <target xml:lang="fr">« (arriver »</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">(arriver</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
-        <target xml:lang="fr" state="translated">Réservations</target>
+        <target xml:lang="fr" state="translated">Réservation</target>
+        <alt-trans>
+          <target xml:lang="fr">Réservations</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
@@ -62,15 +95,24 @@
       </trans-unit>
       <trans-unit id="cant_call_error">
         <source>Error placing call</source>
-        <target xml:lang="fr" state="translated">Erreur durant l'appel.</target>
+        <target xml:lang="fr" state="translated">Erreur durant l'appel</target>
+        <alt-trans>
+          <target xml:lang="fr">Erreur durant l'appel.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
-        <target xml:lang="fr" state="translated">Coordonnées : %s</target>
+        <target xml:lang="fr" state="translated">Coordonnées</target>
+        <alt-trans>
+          <target xml:lang="fr">Coordonnées : %s</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
-        <target xml:lang="fr" state="translated">Impossible de trouver votre position.</target>
+        <target xml:lang="fr" state="translated">Impossible de vous localiser</target>
+        <alt-trans>
+          <target xml:lang="fr">Impossible de trouver votre position.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
@@ -82,25 +124,44 @@
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
-        <target xml:lang="fr" state="translated">Editer</target>
+        <target xml:lang="fr" state="translated">Modifier</target>
+        <alt-trans>
+          <target xml:lang="fr">Editer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="eula_has_changed">
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
         </source>
-        <target xml:lang="fr" state="translated">Nos Conditions Générales d'Utilisation ont changées. Vous devez les accepter afin de poursuivre l'utilisation du logiciel
+        <target xml:lang="fr" state="translated">Nos Conditions Générales d'Utilisation ont changé. Vous devez les accepter afin de poursuivre l'utilisation du logiciel.
         </target>
+        <alt-trans>
+          <target xml:lang="fr">Nos Conditions Générales d'Utilisation ont changées. Vous devez les accepter afin de poursuivre l'utilisation du logiciel
+        </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
-        <target xml:lang="fr" state="translated">Editer le favori</target>
+        <target xml:lang="fr" state="translated">Modifier le favori</target>
+        <alt-trans>
+          <target xml:lang="fr">Editer le favori</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
-        <target xml:lang="fr" state="translated">Impossible de trouver l'endroit</target>
+        <target xml:lang="fr" state="translated">Echec de localisation</target>
+        <alt-trans>
+          <target xml:lang="fr">Impossible de détecter l'emplacement</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Impossible de trouver l'endroit</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link">
         <source>Failed to resolve link</source>
-        <target xml:lang="fr" state="translated">Impossible de suivre le lien</target>
+        <target xml:lang="fr" state="translated">Impossible de valider le lien</target>
+        <alt-trans>
+          <target xml:lang="fr">Impossible de suivre le lien</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="get_off">
         <source>Get Off</source>
@@ -116,7 +177,10 @@
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
-        <target xml:lang="fr" state="translated">Allez ici</target>
+        <target xml:lang="fr" state="translated">Aller Ici</target>
+        <alt-trans>
+          <target xml:lang="fr">Allez ici</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
@@ -128,7 +192,10 @@
       </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
-        <target xml:lang="fr" state="translated">Il faut y aller!</target>
+        <target xml:lang="fr" state="translated">Il est temps de partir !</target>
+        <alt-trans>
+          <target xml:lang="fr">Il faut y aller!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time">
         <source>Leave now to make it on time</source>
@@ -136,11 +203,17 @@
       </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
-        <target xml:lang="fr" state="translated">Aller maintenant</target>
+        <target xml:lang="fr" state="translated">Retour à Maintenant</target>
+        <alt-trans>
+          <target xml:lang="fr">Aller maintenant</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target xml:lang="fr" state="translated">Les événements de ces calendriers vont être utilisés pour prévoir votre journée</target>
+        <target xml:lang="fr" state="translated">Les événements de ces calendriers seront utilisés pour planifier votre journée</target>
+        <alt-trans>
+          <target xml:lang="fr">Les événements de ces calendriers vont être utilisés pour prévoir votre journée</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="minute">
         <source>1 minute</source>
@@ -152,11 +225,17 @@
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
-        <target xml:lang="fr" state="translated">Emplacement inconnu</target>
+        <target xml:lang="fr" state="translated">Position Inconnue</target>
+        <alt-trans>
+          <target xml:lang="fr">Emplacement inconnu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
-        <target xml:lang="fr" state="translated">Emplacement sélectionné</target>
+        <target xml:lang="fr" state="translated">Position sélectionnée</target>
+        <alt-trans>
+          <target xml:lang="fr">Emplacement sélectionné</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
@@ -168,11 +247,17 @@
       </trans-unit>
       <trans-unit id="no_favourites_saved">
         <source>No favorite locations saved</source>
-        <target xml:lang="fr" state="translated">Aucun favoris sauvegardés</target>
+        <target xml:lang="fr" state="translated">Aucun favori sauvegardé</target>
+        <alt-trans>
+          <target xml:lang="fr">Aucun favoris sauvegardés</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target xml:lang="fr" state="translated">Une erreur est survenu et a été relevé. Veuillez réessayer</target>
+        <target xml:lang="fr" state="translated">Une erreur est survenue et a été relevée. Veuillez réessayer</target>
+        <alt-trans>
+          <target xml:lang="fr">Une erreur est survenu et a été relevé. Veuillez réessayer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
@@ -180,7 +265,13 @@
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target xml:lang="fr" state="translated">Désolé, cet emplacement est en dehors de la portée de TripGo!</target>
+        <target xml:lang="fr" state="translated">Désolé, cet emplacement est hors de la zone TripGo!</target>
+        <alt-trans>
+          <target xml:lang="fr">Désolé, cet emplacement est hors du secteur de TripGo!</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Désolé, cet emplacement est en dehors de la portée de TripGo!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
@@ -200,13 +291,20 @@
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
-        <target xml:lang="fr" state="translated">Enregistrer</target>
+        <target xml:lang="fr" state="translated">Sauvegarder</target>
+        <alt-trans>
+          <target xml:lang="fr">Enregistrer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
         </source>
-        <target xml:lang="fr" state="translated">Les routines sont des notes sur vos mouvements journaliers, mais ce ne sont pas des événements que vous voulez avoir dans votre calendrier (ex. travail). Ils sont importants dans l'Agenda pour vous emmener au bon endroit au bon moment
+        <target xml:lang="fr" state="translated">Les routines font partie de vos déplacements journaliers, mais ce ne sont pas des évènements qui apparaissent dans votre calendrier (ex: travail). L'Agenda s'en sert pour vous emmener au bon endroit à la bonne heure
         </target>
+        <alt-trans>
+          <target xml:lang="fr">Les routines sont des notes sur vos mouvements journaliers, mais ce ne sont pas des événements que vous voulez avoir dans votre calendrier (ex. travail). Ils sont importants dans l'Agenda pour vous emmener au bon endroit au bon moment
+        </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -214,11 +312,17 @@
       </trans-unit>
       <trans-unit id="settings_category_about">
         <source>About</source>
-        <target xml:lang="fr" state="translated">A propos</target>
+        <target xml:lang="fr" state="translated">À propos</target>
+        <alt-trans>
+          <target xml:lang="fr">A propos</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
-        <target xml:lang="fr" state="translated">Définir l'heure</target>
+        <target xml:lang="fr" state="translated">Définir l'horaire</target>
+        <alt-trans>
+          <target xml:lang="fr">Définir l'heure</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="set_start_time">
         <source>Set start time</source>
@@ -226,7 +330,10 @@
       </trans-unit>
       <trans-unit id="set_location">
         <source>Set Location</source>
-        <target xml:lang="fr" state="translated">Définir une position</target>
+        <target xml:lang="fr" state="translated">Définir la position</target>
+        <alt-trans>
+          <target xml:lang="fr">Définir une position</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
@@ -234,15 +341,30 @@
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target xml:lang="fr" state="translated">Afficher une alerte avant l'entrée dans un transport en commun</target>
+        <target xml:lang="fr" state="translated">Afficher une alerte avant tout déplacement en transport collectif</target>
+        <alt-trans>
+          <target xml:lang="fr">Afficher une alerte avant tout transport public lors de votre voyage</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Afficher une alerte avant l'entrée dans un transport en commun</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target xml:lang="fr" state="translated">Afficher les alertes qui affectent vos voyages à venir</target>
+        <target xml:lang="fr" state="translated">Afficher les alertes qui affectent vos trajets à venir</target>
+        <alt-trans>
+          <target xml:lang="fr">Afficher les alertes qui affectent vos voyages à venir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target xml:lang="fr" state="translated">Affiche une alerte lors de la sortie d'un transport en commun sur votre trajet</target>
+        <target xml:lang="fr" state="translated">Afficher une alerte vers la fin de tout déplacement en transport collectif</target>
+        <alt-trans>
+          <target xml:lang="fr">Afficher une alerte vers la fin de tout transport public sur votre voyage</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Affiche une alerte lors de la sortie d'un transport en commun sur votre trajet</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
@@ -254,7 +376,10 @@
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
-        <target xml:lang="fr" state="translated">Début du transport en commun</target>
+        <target xml:lang="fr" state="translated">Début du transport collectif</target>
+        <alt-trans>
+          <target xml:lang="fr">Début du transport en commun</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
@@ -270,7 +395,10 @@
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
-        <target xml:lang="fr" state="translated">Fin du transport en commun</target>
+        <target xml:lang="fr" state="translated">Fin du transport collectif</target>
+        <alt-trans>
+          <target xml:lang="fr">Fin du transport en commun</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
@@ -286,27 +414,48 @@
       </trans-unit>
       <trans-unit id="share_this_result">
         <source>Share this result</source>
-        <target xml:lang="fr" state="translated">Partagez ce résultat</target>
+        <target xml:lang="fr" state="translated">Partager ce résultat</target>
+        <alt-trans>
+          <target xml:lang="fr">Partagez ce résultat</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
-        <target xml:lang="fr" state="translated">Partagez les informations de ce calendrier</target>
+        <target xml:lang="fr" state="translated">Partager les horaires</target>
+        <alt-trans>
+          <target xml:lang="fr">Partagez les informations de ce calendrier</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
-        <target xml:lang="fr" state="translated">Trier Par</target>
+        <target xml:lang="fr" state="translated">Filtrer Par</target>
+        <alt-trans>
+          <target xml:lang="fr">Trier Par</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="sorted_by_arrival">
         <source>Sorted by Arrival</source>
-        <target xml:lang="fr" state="translated">Trié par Arrivée</target>
+        <target xml:lang="fr" state="translated">Filtré par Arrivée</target>
+        <alt-trans>
+          <target xml:lang="fr">Trié par Arrivée</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="sorted_by_departure">
         <source>Sorted by Departure</source>
-        <target xml:lang="fr" state="translated">Trié par Depart</target>
+        <target xml:lang="fr" state="translated">Filtré par Départ</target>
+        <alt-trans>
+          <target xml:lang="fr">Trié par Départ</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Trié par Depart</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="sorted_by_duration">
         <source>Sorted by Duration</source>
-        <target xml:lang="fr" state="translated">Trié par Durée</target>
+        <target xml:lang="fr" state="translated">Filtrer par Durée</target>
+        <alt-trans>
+          <target xml:lang="fr">Trié par Durée</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
@@ -318,17 +467,23 @@
       </trans-unit>
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
-        <target xml:lang="fr" state="translated">Lieu inconnu</target>
+        <target xml:lang="fr" state="translated">Position inconnue</target>
+        <alt-trans>
+          <target xml:lang="fr">Emplacement inconnu</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Lieu inconnu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
         </source>
-        <target xml:lang="fr" state="translated">En attente de signal, si cela échoue, essayer de désactiver/réactiver votre GPS..
+        <target xml:lang="fr" state="translated">En attente de signal. En cas d'échec, désactiver/réactiver votre GPS..
         </target>
-      </trans-unit>
-      <trans-unit id="view_timetable_subtitle">
-        <source>Upcoming services</source>
-        <target xml:lang="fr" state="translated">Services à venir</target>
+        <alt-trans>
+          <target xml:lang="fr">En attente de signal, si cela échoue, essayer de désactiver/réactiver votre GPS..
+        </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
@@ -344,11 +499,17 @@
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
-        <target xml:lang="fr" state="translated">Aucun services trouvés pour cet arrêt</target>
+        <target xml:lang="fr" state="translated">Aucun service disponible pour cet arrêt</target>
+        <alt-trans>
+          <target xml:lang="fr">Aucun services trouvés pour cet arrêt</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
-        <target xml:lang="fr" state="translated">Voyage à %s</target>
+        <target xml:lang="fr" state="translated">Trajet à %s</target>
+        <alt-trans>
+          <target xml:lang="fr">Voyage à %s</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
@@ -369,10 +530,13 @@
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target xml:lang="fr" state="translated">Inclus dans le voyage</target>
+        <target xml:lang="fr" state="translated">Inclure dans les trajets</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
+        <alt-trans>
+          <target xml:lang="fr">Inclus dans le voyage</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
@@ -383,16 +547,25 @@
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target xml:lang="fr" state="translated">%s créneaux horaires disponibles</target>
+        <target xml:lang="fr" state="translated">%s horaire disponible</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
+        <alt-trans>
+          <target xml:lang="fr">%s créneau horaire disponible</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">%s créneaux horaires disponibles</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="fr">%s horaires disponibles</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target xml:lang="fr" state="translated">Aucun créneau horaire disponible</target>
+        <target xml:lang="fr" state="translated">Aucun horaire disponible</target>
         <note>Used for parking slots, when there's no slot available.</note>
+        <alt-trans>
+          <target xml:lang="fr">Aucun créneau horaire disponible</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
@@ -406,22 +579,25 @@
       </trans-unit>
       <trans-unit id="got_it">
         <source>Got it</source>
-        <target xml:lang="fr" state="needs-translation">Got it</target>
+        <target xml:lang="fr" state="translated">J'ai compris</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen">
         <source>See your favourites on your home screen!</source>
-        <target xml:lang="fr" state="needs-translation">See your favourites on your home screen!</target>
+        <target xml:lang="fr" state="translated">Consulter vos favoris sur votre écran d’accueil.</target>
         <note>Add favourite direct access message</note>
+        <alt-trans>
+          <target xml:lang="fr">Voir vos favoris sur votre écran d'accueil!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target xml:lang="fr" state="needs-translation">You can quickly access your favourite locations from your launcher.</target>
+        <target xml:lang="fr" state="translated">Vous pouvez accéder rapidement à vos lieux favoris depuis votre lanceur.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target xml:lang="fr" state="needs-translation">Just tap %1$s then '%2$s'</target>
+        <target xml:lang="fr" state="translated">Il suffit de taper %1$s puis '%2$s »</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>
