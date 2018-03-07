@@ -2,13 +2,13 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="Agenda Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="Agenda Widget/Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" approved="yes">
@@ -17,9 +17,15 @@
       </trans-unit>
     </body>
   </file>
+  <file datatype="plaintext" original="Notification Extension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="de">
+    <header>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+    </header>
+    <body/>
+  </file>
   <file datatype="plaintext" original="Notification Extension/Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -28,9 +34,53 @@
       </trans-unit>
     </body>
   </file>
+  <file datatype="plaintext" original="TripGo Preview/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="de">
+    <header>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="TripGo Preview/Base.lproj/Main.storyboard" source-language="en" target-language="de">
+    <header>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+    </header>
+    <body/>
+  </file>
+  <file datatype="plaintext" original="TripGo Preview/Info.plist" source-language="en" target-language="de">
+    <header>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+    </header>
+    <body>
+      <trans-unit id="NSCalendarsUsageDescription">
+        <source>Get automated trips from and to events in your calendar, and search your calendar for events.</source>
+        <target xml:lang="de" state="translated">Für automatische Routen zu und zwischen Ereignis in deinem Kalendar und zum Suchen nach Ereignissen.</target>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Search from or to your current location. Locate yourself on the map.</source>
+        <target xml:lang="de" state="translated">Für Routen von deinem aktuellen Standort und um deinen Standort auf Karten anzuzeigen.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="TripGo Preview/Localizable.strings" source-language="en" target-language="de">
+    <header>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
+    </header>
+    <body>
+      <trans-unit id="No routes found." approved="yes">
+        <source>No routes found.</source>
+        <target xml:lang="de">Keine Routen gefunden.</target>
+        <note>Error title when routing produced no results (but no specific error was returned from routing).</note>
+      </trans-unit>
+      <trans-unit id="Please adjust your query and try again." approved="yes">
+        <source>Please adjust your query and try again.</source>
+        <target xml:lang="de">Bitte passe deine Suche an und probiere noch einmal.</target>
+        <note>Error recovery suggestion for when routing produced no results (but no specific error was returned from routing).</note>
+      </trans-unit>
+    </body>
+  </file>
   <file datatype="plaintext" original="TripGoAppKit/Base.lproj/OnBoarding.storyboard" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="4Da-23-dIr.text">
@@ -158,7 +208,7 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Classes/controller/Base.lproj/TurkuOnboardingViewController.xib" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="1sJ-hr-VuN.text">
@@ -195,21 +245,21 @@
   </file>
   <file datatype="plaintext" original="TripGoAppKit/Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripGoKit/Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       </body>
   </file>
   <file datatype="plaintext" original="TripPlanner/Localizable.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%.0f minutes">
@@ -306,6 +356,11 @@
         <source>Agenda Setup</source>
         <target xml:lang="de">Agenda-Setup</target>
         <note>Title for agenda screen while its still in setup mode</note>
+      </trans-unit>
+      <trans-unit id="Alert">
+        <source>Alert</source>
+        <target xml:lang="de" state="translated">Warnung</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Alternative routes" approved="yes">
         <source>Alternative routes</source>
@@ -415,7 +470,6 @@
       <trans-unit id="Convenience" approved="yes">
         <source>Convenience</source>
         <target xml:lang="de">Bequem</target>
-        <note>Label for Convenience button to sort trips by their overall total score considering all factors</note>
       </trans-unit>
       <trans-unit id="Could not find your city." approved="yes">
         <source>Could not find your city.</source>
@@ -859,11 +913,6 @@
         <target xml:lang="de">Öffne die TripGo- or Einstellungen-App auf deinem Handy und gebe TripGo Erlaubnis auf die Ortungsdienste zuzugreigen.</target>
         <note>Error recovery suggestion for when watch doesnt have access to location services</note>
       </trans-unit>
-      <trans-unit id="Open notification settings">
-        <source>Open notification settings</source>
-        <target xml:lang="de" state="translated">Mitteilungs-Einstellungen öffnen</target>
-        <note>Button title to open notification settings</note>
-      </trans-unit>
       <trans-unit id="Open website" approved="yes">
         <source>Open website</source>
         <target xml:lang="de">Webseite öffnen</target>
@@ -948,21 +997,6 @@
         <source>Priorities</source>
         <target xml:lang="de">Prioritäten</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Push Notifications">
-        <source>Push Notifications</source>
-        <target xml:lang="de" state="translated">Push Mitteilungen</target>
-        <note>Header for settings and information about push notifications</note>
-      </trans-unit>
-      <trans-unit id="Push notifications are enabled.">
-        <source>Push notifications are enabled.</source>
-        <target xml:lang="de" state="translated">Push-Benachrichtigungen sind aktiviert.</target>
-        <note>Informational text</note>
-      </trans-unit>
-      <trans-unit id="Push notifications are not enabled.">
-        <source>Push notifications are not enabled.</source>
-        <target xml:lang="de" state="translated">Push-Mitteilungen nicht aktiviert.</target>
-        <note>Informational text</note>
       </trans-unit>
       <trans-unit id="Rate TripGo" approved="yes">
         <source>Rate TripGo</source>
@@ -1060,11 +1094,6 @@
         <source>Reset agenda</source>
         <target xml:lang="de">Agenda zurücksetzen</target>
         <note>Action title to reset agenda content</note>
-      </trans-unit>
-      <trans-unit id="Reset notifications">
-        <source>Reset notifications</source>
-        <target xml:lang="de" state="translated">Mitteilungen zurücksetzen</target>
-        <note>Action title to reset notifications, e.g., to work around issues where (push) notifications stop working</note>
       </trans-unit>
       <trans-unit id="Reset tutorial" approved="yes">
         <source>Reset tutorial</source>
@@ -1236,10 +1265,22 @@
         <target xml:lang="de">Straße</target>
         <note>Map mode streets</note>
       </trans-unit>
+      <trans-unit id="Swipe dates to navigate between weeks">
+        <source>Swipe dates to navigate between weeks</source>
+        <target xml:lang="de" state="needs-translation">Swipe dates to navigate between weeks</target>
+      </trans-unit>
       <trans-unit id="Tap and hold title to jump directly to a specified date." approved="yes">
         <source>Tap and hold title to jump directly to a specified date.</source>
         <target xml:lang="de">Um direkt zu einem bestimmten Datum zu gelangen, Titel gedrückt halten.</target>
         <note>Walkthrough</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target xml:lang="de" state="needs-translation">Tap public transport stops for access to timetable</target>
+      </trans-unit>
+      <trans-unit id="Tap title to go to 'today'">
+        <source>Tap title to go to 'today'</source>
+        <target xml:lang="de" state="needs-translation">Tap title to go to 'today'</target>
       </trans-unit>
       <trans-unit id="Tap to confirm hours or swipe to delete" approved="yes">
         <source>Tap to confirm hours or swipe to delete</source>
@@ -1424,7 +1465,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGoKit.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%@ to %@">
@@ -1476,6 +1517,11 @@
         <source>Calendar Event</source>
         <target xml:lang="de" state="translated">Ereignis</target>
         <note>Type for regular events that go in the phone's calendar.</note>
+      </trans-unit>
+      <trans-unit id="Change">
+        <source>Change</source>
+        <target xml:lang="de" state="translated">Ändern</target>
+        <note>Title for a button that intiates edigint of something, e.g., work time</note>
       </trans-unit>
       <trans-unit id="Could not plan the next trip. Better check TripGo.">
         <source>Could not plan the next trip. Better check TripGo.</source>
@@ -1546,6 +1592,11 @@
         <target xml:lang="de" state="translated">Egal</target>
         <note>Refer to users not care about a particular aspect of their travel, e.g., cost, time, convenience</note>
       </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <target xml:lang="de" state="translated">Laden...</target>
+        <note>Inidcating the watch app is loading</note>
+      </trans-unit>
       <trans-unit id="Map">
         <source>Map</source>
         <target xml:lang="de" state="translated">Karte</target>
@@ -1610,6 +1661,10 @@
         <source>Show map</source>
         <target xml:lang="de" state="translated">Karte anzeigen</target>
         <note>Action title to show map for a segment</note>
+      </trans-unit>
+      <trans-unit id="Show trip">
+        <source>Show trip</source>
+        <target xml:lang="de" state="needs-translation">Show trip</target>
       </trans-unit>
       <trans-unit id="Snooze 5 mins">
         <source>Snooze 5 mins</source>
@@ -1677,16 +1732,6 @@
         <target xml:lang="de" state="translated">TripGo konnte auf seine Dateien nicht zugreifen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="TripGo helps you optimise daily trips">
-        <source>TripGo helps you optimise daily trips</source>
-        <target xml:lang="de" state="translated">TripGo hilft deine täglichen Trips zu optimieren.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="TripGo will display results according to your preferences">
-        <source>TripGo will display results according to your preferences</source>
-        <target xml:lang="de" state="translated">TripGo wird Routen deinen Prioritäten entsprechend anpassen</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Trips">
         <source>Trips</source>
         <target xml:lang="de" state="translated">Trips</target>
@@ -1711,13 +1756,13 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Launch Screen.xib" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body/>
   </file>
   <file datatype="plaintext" original="TripPlanner/Base.lproj/Main.storyboard" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="3d9-Hg-2Fe.title" approved="yes">
@@ -1774,23 +1819,13 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Classes/Base.lproj/FromToAtWidget.xib" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
-      <trans-unit id="19.placeholder" approved="yes">
-        <source>From</source>
-        <target xml:lang="de">Von</target>
-        <note>Class = "UISearchBar"; placeholder = "From"; ObjectID = "19";</note>
-      </trans-unit>
       <trans-unit id="30.accessibilityLabel" approved="yes">
         <source>Swap from and to</source>
         <target xml:lang="de">Start und Ziel auswechseln</target>
         <note>Class = "UIButton"; accessibilityLabel = "Swap from and to"; ObjectID = "30";</note>
-      </trans-unit>
-      <trans-unit id="43.placeholder" approved="yes">
-        <source>To</source>
-        <target xml:lang="de">Nach</target>
-        <note>Class = "UISearchBar"; placeholder = "To"; ObjectID = "43";</note>
       </trans-unit>
       <trans-unit id="44.normalTitle" approved="yes">
         <source>Time</source>
@@ -1821,7 +1856,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripGo-Info.plist" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" approved="yes">
@@ -1848,7 +1883,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/Shared.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%@'s">
@@ -1916,6 +1951,11 @@
         <target xml:lang="de" state="translated">Fahrrad</target>
         <note>Type of vehicle : bicycle</note>
       </trans-unit>
+      <trans-unit id="CVC">
+        <source>CVC</source>
+        <target xml:lang="de" state="needs-translation">CVC</target>
+        <note>Credit card CVC</note>
+      </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target xml:lang="de" state="translated">Abbrechen</target>
@@ -1935,6 +1975,11 @@
         <source>Car</source>
         <target xml:lang="de" state="translated">Auto</target>
         <note>Type of vehicle : car</note>
+      </trans-unit>
+      <trans-unit id="Card No.">
+        <source>Card No.</source>
+        <target xml:lang="de" state="needs-translation">Card No.</target>
+        <note>Credit card number</note>
       </trans-unit>
       <trans-unit id="Change">
         <source>Change</source>
@@ -1981,6 +2026,11 @@
         <target xml:lang="de" state="translated">Account wird erstellt...</target>
         <note>Message that indicates the app is creating accounts for users</note>
       </trans-unit>
+      <trans-unit id="Credit card">
+        <source>Credit card</source>
+        <target xml:lang="de" state="needs-translation">Credit card</target>
+        <note>Section title for credit card payment</note>
+      </trans-unit>
       <trans-unit id="Current City">
         <source>Current City</source>
         <target xml:lang="de" state="translated">Aktuelle Stadt</target>
@@ -2019,7 +2069,8 @@
       <trans-unit id="Email">
         <source>Email</source>
         <target xml:lang="de" state="translated">E-Mail</target>
-        <note>For email address</note>
+        <note>Email address where receipt is sent
+   Email used as Facebook username</note>
       </trans-unit>
       <trans-unit id="Every %@">
         <source>Every %@</source>
@@ -2031,6 +2082,11 @@
         <target xml:lang="de" state="translated">Jeden Tag</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
+      <trans-unit id="Expiry Date">
+        <source>Expiry Date</source>
+        <target xml:lang="de" state="needs-translation">Expiry Date</target>
+        <note>Credit card expiry date</note>
+      </trans-unit>
       <trans-unit id="For when to leave">
         <source>For when to leave</source>
         <target xml:lang="de" state="translated">Wenn ich gehen muss</target>
@@ -2040,6 +2096,11 @@
         <source>Free</source>
         <target xml:lang="de" state="translated">Kostenlos</target>
         <note>Free as in beer</note>
+      </trans-unit>
+      <trans-unit id="Full name">
+        <source>Full name</source>
+        <target xml:lang="de" state="needs-translation">Full name</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Getting a lift">
         <source>Getting a lift</source>
@@ -2076,10 +2137,10 @@
         <target xml:lang="de" state="translated">Otto Appleseed</target>
         <note>Name placeholder text</note>
       </trans-unit>
-      <trans-unit id="Later">
-        <source>Later</source>
-        <target xml:lang="de" state="translated">Später</target>
-        <note>Title of button to perform some action at a later time</note>
+      <trans-unit id="Linking Facebook">
+        <source>Linking Facebook</source>
+        <target xml:lang="de" state="needs-translation">Linking Facebook</target>
+        <note>Used when user signs in using Facebook</note>
       </trans-unit>
       <trans-unit id="Loading">
         <source>Loading</source>
@@ -2098,6 +2159,11 @@
         <alt-trans>
           <target xml:lang="de">Ortungsdienste sind für dieses Feature benötigt. Bitte aktiviere sie in der Einstellungen-App unter Datenschutz &gt; Ortungsdiesten &gt; TripGo.</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="Making payment">
+        <source>Making payment</source>
+        <target xml:lang="de" state="needs-translation">Making payment</target>
+        <note>Indicating a payment is in progress</note>
       </trans-unit>
       <trans-unit id="Minutes before trip">
         <source>Minutes before trip</source>
@@ -2122,7 +2188,9 @@
       <trans-unit id="Name">
         <source>Name</source>
         <target xml:lang="de" state="translated">Name</target>
-        <note>Title for name of something (or someone)</note>
+        <note>Name to which receipt is sent
+   Name used in Facebook
+   Title for name of something (or someone)</note>
       </trans-unit>
       <trans-unit id="Never">
         <source>Never</source>
@@ -2132,7 +2200,7 @@
       <trans-unit id="New account">
         <source>New account</source>
         <target xml:lang="de" state="translated">Neuer Account</target>
-        <note>Title of page to create new account</note>
+        <note>Title for sign in view when user does not have an account</note>
       </trans-unit>
       <trans-unit id="Next">
         <source>Next</source>
@@ -2162,7 +2230,7 @@
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target xml:lang="de" state="translated">Einstellungen öffnen</target>
-        <note>Button that goes to the Setting's app</note>
+        <note>Button to open Settings app section for this app</note>
       </trans-unit>
       <trans-unit id="Open in Safari">
         <source>Open in Safari</source>
@@ -2173,6 +2241,16 @@
         <source>Password</source>
         <target xml:lang="de" state="translated">Passwort</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Payment successful">
+        <source>Payment successful</source>
+        <target xml:lang="de" state="needs-translation">Payment successful</target>
+        <note>Indicating a payment is successful</note>
+      </trans-unit>
+      <trans-unit id="Paypal">
+        <source>Paypal</source>
+        <target xml:lang="de" state="needs-translation">Paypal</target>
+        <note>Section title for Paypal payment</note>
       </trans-unit>
       <trans-unit id="Please select a location">
         <source>Please select a location</source>
@@ -2203,6 +2281,11 @@
         <source>Real-time</source>
         <target xml:lang="de" state="translated">Echtzeit</target>
         <note>Indicator for real-time information</note>
+      </trans-unit>
+      <trans-unit id="Receipt">
+        <source>Receipt</source>
+        <target xml:lang="de" state="needs-translation">Receipt</target>
+        <note>Title for section that asks users where payment receipt should be sent</note>
       </trans-unit>
       <trans-unit id="Reminder">
         <source>Reminder</source>
@@ -2269,10 +2352,15 @@
         <target xml:lang="de" state="translated">'%@' suchen...</target>
         <note>Placeholder text while waiting for server response when searching for a location.</note>
       </trans-unit>
+      <trans-unit id="Settings" approved="yes">
+        <source>Settings</source>
+        <target xml:lang="de">Einstellungen</target>
+        <note>Button that goes to the Setting's app</note>
+      </trans-unit>
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target xml:lang="de" state="translated">Einloggen</target>
-        <note>Title of page or button to sign in</note>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sign out">
         <source>Sign out</source>
@@ -2282,7 +2370,7 @@
       <trans-unit id="Sign up">
         <source>Sign up</source>
         <target xml:lang="de" state="translated">Anmelden</target>
-        <note>Title of page or button to sign up</note>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sign up cannot be completed without a valid password">
         <source>Sign up cannot be completed without a valid password</source>
@@ -2297,7 +2385,8 @@
       <trans-unit id="Signing out">
         <source>Signing out</source>
         <target xml:lang="de" state="translated">Ausloggen...</target>
-        <note>Message that indicates the app is signing users out of their accounts</note>
+        <note>Message that indicates the app has successfully completed signing out
+   Message that indicates the app is signing users out of their accounts</note>
       </trans-unit>
       <trans-unit id="Starting %@">
         <source>Starting %@</source>
@@ -2428,6 +2517,11 @@
         <target xml:lang="de" state="translated">name@firma.de</target>
         <note>Email placeholder text</note>
       </trans-unit>
+      <trans-unit id="mm/yy">
+        <source>mm/yy</source>
+        <target xml:lang="de" state="needs-translation">mm/yy</target>
+        <note>Credit card expiry date placeholder, mm/yy</note>
+      </trans-unit>
       <trans-unit id="starts at %@">
         <source>starts at %@</source>
         <target xml:lang="de" state="translated">beginnt um %@</target>
@@ -2442,7 +2536,7 @@
   </file>
   <file datatype="plaintext" original="TripPlanner/TripKit.strings" source-language="en" target-language="de">
     <header>
-      <tool build-num="9C40b" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2"/>
+      <tool build-num="9A1004" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0.1"/>
     </header>
     <body>
       <trans-unit id="%1$@ early" approved="yes">
@@ -2464,11 +2558,6 @@
         <source>%1$@ late (%2$@ service)</source>
         <target xml:lang="de">%1$@ spät (%2$@ Service)</target>
         <note>Format for a service's real-time indicator for a service which is late, e.g., '1 min late (1:10 pm service). This means #1 is replaced with something like '1 min' and #2 is replaced with the original time, e.g., '1:10 pm').</note>
-      </trans-unit>
-      <trans-unit id="%@ ago">
-        <source>%@ ago</source>
-        <target xml:lang="de" state="translated">vor %@</target>
-        <note>Title for something that happened a certain timeframe ago, e.g., '5 mins ago'</note>
       </trans-unit>
       <trans-unit id="%@ alerts">
         <source>%@ alerts</source>
@@ -2547,10 +2636,20 @@
         <target xml:lang="de" state="translated">Bei %@</target>
         <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)</note>
       </trans-unit>
-      <trans-unit id="Book with %@">
-        <source>Book with %@</source>
-        <target xml:lang="de" state="translated">Mit %@ buchen</target>
-        <note>Action title to make a booking using service/app named '@%'</note>
+      <trans-unit id="Book with FlitWays">
+        <source>Book with FlitWays</source>
+        <target xml:lang="de" state="needs-translation">Book with FlitWays</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Book with Uber">
+        <source>Book with Uber</source>
+        <target xml:lang="de" state="needs-translation">Book with Uber</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Calculating trips...">
+        <source>Calculating trips...</source>
+        <target xml:lang="de" state="needs-translation">Calculating trips...</target>
+        <note>Placeholder title while calculating trips</note>
       </trans-unit>
       <trans-unit id="Call" approved="yes">
         <source>Call</source>
@@ -2560,7 +2659,12 @@
       <trans-unit id="Call %@">
         <source>Call %@</source>
         <target xml:lang="de" state="translated">%@ anrufen</target>
-        <note>Action title to make a call to service/company named '@%'</note>
+        <note>Action title for calling provider of name. (old key: CallTaxiFormat)</note>
+      </trans-unit>
+      <trans-unit id="Connect to Internet to get trips">
+        <source>Connect to Internet to get trips</source>
+        <target xml:lang="de" state="needs-translation">Connect to Internet to get trips</target>
+        <note>Single line instruction if device is offline and user needs to reconnect to internet to calculate trips</note>
       </trans-unit>
       <trans-unit id="Could not find transit stop." approved="yes">
         <source>Could not find transit stop.</source>
@@ -2610,15 +2714,25 @@
         <target xml:lang="de" state="translated">Voll</target>
         <note>As in 'this bus/train is full and likely can't accept further passengers'</note>
       </trans-unit>
-      <trans-unit id="Get %@">
-        <source>Get %@</source>
-        <target xml:lang="de" state="translated">%@ herunterladen</target>
-        <note>Action title get/download app of name '@%'</note>
+      <trans-unit id="Get Lyft">
+        <source>Get Lyft</source>
+        <target xml:lang="de" state="needs-translation">Get Lyft</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get Ola">
+        <source>Get Ola</source>
+        <target xml:lang="de" state="needs-translation">Get Ola</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get directions" approved="yes">
         <source>Get directions</source>
         <target xml:lang="de">Navigieren</target>
         <note>Action button title for getting turn-by-turn directions</note>
+      </trans-unit>
+      <trans-unit id="Get ingogo">
+        <source>Get ingogo</source>
+        <target xml:lang="de" state="needs-translation">Get ingogo</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Google Maps" approved="yes">
         <source>Google Maps</source>
@@ -2635,15 +2749,15 @@
         <target xml:lang="de" state="translated">Ich nehme den %@ um %@ von %@.</target>
         <note>Indication of an activity. (old key: ActivityIndication)</note>
       </trans-unit>
-      <trans-unit id="In %@">
-        <source>In %@</source>
-        <target xml:lang="de" state="translated">In %@</target>
-        <note>Title for something to happen in a certain timeframe, e.g., 'In 5 mins'</note>
-      </trans-unit>
       <trans-unit id="In the meantime, let's keep exploring %@ and enjoy your trips">
         <source>In the meantime, let's keep exploring %@ and enjoy your trips</source>
         <target xml:lang="de" state="translated">Bis dahin, erkunde %@ weiter und genieße deine Reise.</target>
         <note>%@ is replaced with app name</note>
+      </trans-unit>
+      <trans-unit id="In the meantime, let's keep exploring and enjoy your trips">
+        <source>In the meantime, let's keep exploring and enjoy your trips</source>
+        <target xml:lang="de" state="needs-translation">In the meantime, let's keep exploring and enjoy your trips</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Leave" approved="yes">
         <source>Leave</source>
@@ -2689,7 +2803,7 @@
       <trans-unit id="Loading...">
         <source>Loading...</source>
         <target xml:lang="de" state="translated">Laden...</target>
-        <note>Indicating when something is loading</note>
+        <note>Title to show while loading/waiting for results</note>
       </trans-unit>
       <trans-unit id="Many seats available">
         <source>Many seats available</source>
@@ -2716,10 +2830,15 @@
         <target xml:lang="de">Pünktlich</target>
         <note>Indicator to show when a service is on time according to real-time data.</note>
       </trans-unit>
-      <trans-unit id="Open %@">
-        <source>Open %@</source>
-        <target xml:lang="de" state="translated">%@ öffnen</target>
-        <note>Action title open app of name '@%'</note>
+      <trans-unit id="Open Lyft">
+        <source>Open Lyft</source>
+        <target xml:lang="de" state="needs-translation">Open Lyft</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open Ola">
+        <source>Open Ola</source>
+        <target xml:lang="de" state="needs-translation">Open Ola</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Opening Hours">
         <source>Opening Hours</source>
@@ -2749,7 +2868,7 @@
       <trans-unit id="Send SMS" approved="yes">
         <source>Send SMS</source>
         <target xml:lang="de">SMS senden</target>
-        <note>Send SMS action button</note>
+        <note>Send SMS action</note>
       </trans-unit>
       <trans-unit id="Setup">
         <source>Setup</source>
@@ -2764,7 +2883,7 @@
       <trans-unit id="Show website" approved="yes">
         <source>Show website</source>
         <target xml:lang="de">Webseite öffnen</target>
-        <note>Show website action button</note>
+        <note>Show website action</note>
       </trans-unit>
       <trans-unit id="Standing room only">
         <source>Standing room only</source>
@@ -2829,7 +2948,7 @@
       <trans-unit id="ingogo a Taxi" approved="yes">
         <source>ingogo a Taxi</source>
         <target xml:lang="de">ingogo nehmen</target>
-        <note>inGogo taxi booking action</note>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>

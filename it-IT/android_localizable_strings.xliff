@@ -41,8 +41,7 @@
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
         <target xml:lang="it" state="translated">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del tuo account</target>
         <alt-trans>
-          <target xml:lang="it">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del conto
-        </target>
+          <target xml:lang="it">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del conto</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
@@ -236,8 +235,7 @@
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
         <target xml:lang="it" state="translated">I viaggi abituali rappresentano la maggior parte del vostro movimento quotidiano, ma non sono gli eventi che desideri nel tuo calendario (per esempio, lavoro). Sono importanti per l'agenda per portarti nel posto giusto al momento giusto</target>
         <alt-trans>
-          <target xml:lang="it">Le routine sono la maggior parte del vostro movimento quotidiano, ma non sono gli eventi che desideri nel tuo calendario (per esempio il lavoro). Sono importanti per l'agenda per portarti nel posto giusto al momento giusto
-        </target>
+          <target xml:lang="it">Le routine sono la maggior parte del vostro movimento quotidiano, ma non sono gli eventi che desideri nel tuo calendario (per esempio il lavoro). Sono importanti per l'agenda per portarti nel posto giusto al momento giusto</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_category_reminders">

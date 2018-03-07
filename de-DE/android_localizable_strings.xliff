@@ -35,10 +35,8 @@
         <target xml:lang="de">Alle Alarme</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible" approved="yes">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
-        </source>
-        <target xml:lang="de">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein
-        </target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target xml:lang="de">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error" approved="yes">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -365,8 +363,7 @@
         <target xml:lang="de" state="translated">Warte auf Signal; falls erfolglos, versuche GPS
           aus- und wieder einzuschalten...</target>
         <alt-trans>
-          <target xml:lang="de">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...
-        </target>
+          <target xml:lang="de">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">

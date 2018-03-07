@@ -41,8 +41,7 @@
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
         <target xml:lang="zh-CN" state="translated">您的所有日历都不可见，请在本机日历应用或帐户设置中切换</target>
         <alt-trans>
-          <target xml:lang="zh-CN">你的所有日历都不可见，请切换到本地日历app或账号设置里
-        </target>
+          <target xml:lang="zh-CN">你的所有日历都不可见，请切换到本地日历app或账号设置里</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">

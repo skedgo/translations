@@ -420,8 +420,7 @@
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
         <target xml:lang="fi" state="translated">Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen päälle..</target>
         <alt-trans>
-          <target xml:lang="fi">Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..
-        </target>
+          <target xml:lang="fi">Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">

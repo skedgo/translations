@@ -367,8 +367,7 @@
         <target xml:lang="es-ES" state="translated">Esperando la señal del GPS, si falla, puede
           intentar desactivando y volviendo a activarel GPS</target>
         <alt-trans>
-          <target xml:lang="es-ES">Esperando la señal del GPS, si falla, puede intentar desactivando y volviendo a activarel GPS
-        </target>
+          <target xml:lang="es-ES">Esperando la señal del GPS, si falla, puede intentar desactivando y volviendo a activarel GPS</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">

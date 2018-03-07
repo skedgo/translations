@@ -131,8 +131,7 @@
         <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
         <target xml:lang="fr" state="translated">Nos Conditions Générales d'Utilisation ont changé. Vous devez les accepter afin de poursuivre l'utilisation du logiciel.</target>
         <alt-trans>
-          <target xml:lang="fr">Nos Conditions Générales d'Utilisation ont changées. Vous devez les accepter afin de poursuivre l'utilisation du logiciel
-        </target>
+          <target xml:lang="fr">Nos Conditions Générales d'Utilisation ont changées. Vous devez les accepter afin de poursuivre l'utilisation du logiciel</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="edit_favourite">
@@ -296,8 +295,7 @@
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
         <target xml:lang="fr" state="translated">Les routines font partie de vos déplacements journaliers, mais ce ne sont pas des évènements qui apparaissent dans votre calendrier (ex: travail). L'Agenda s'en sert pour vous emmener au bon endroit à la bonne heure</target>
         <alt-trans>
-          <target xml:lang="fr">Les routines sont des notes sur vos mouvements journaliers, mais ce ne sont pas des événements que vous voulez avoir dans votre calendrier (ex. travail). Ils sont importants dans l'Agenda pour vous emmener au bon endroit au bon moment
-        </target>
+          <target xml:lang="fr">Les routines sont des notes sur vos mouvements journaliers, mais ce ne sont pas des événements que vous voulez avoir dans votre calendrier (ex. travail). Ils sont importants dans l'Agenda pour vous emmener au bon endroit au bon moment</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
@@ -473,8 +471,7 @@
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
         <target xml:lang="fr" state="translated">En attente de signal. En cas d'échec, désactiver/réactiver votre GPS..</target>
         <alt-trans>
-          <target xml:lang="fr">En attente de signal, si cela échoue, essayer de désactiver/réactiver votre GPS..
-        </target>
+          <target xml:lang="fr">En attente de signal, si cela échoue, essayer de désactiver/réactiver votre GPS..</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
