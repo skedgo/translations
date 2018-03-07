@@ -50,10 +50,8 @@
         </alt-trans>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
-        </source>
-        <target xml:lang="fi" state="translated">Kalenterisi eivät ole saatavilla. Ole hyvä, laita ne päälle laitteesi kalenterin asetuksista
-        </target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target xml:lang="fi" state="translated">Kalenterisi eivät ole saatavilla. Ole hyvä, laita ne päälle laitteesi kalenterin asetuksista</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -121,10 +119,8 @@
         <target xml:lang="fi" state="translated">Muokkaa</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </source>
-        <target xml:lang="fi" state="translated">TripGon käyttäjälisenssi on muuttunut. Sovellusta voi käyttää vain hyväksymällä sen.
-        </target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+        <target xml:lang="fi" state="translated">TripGon käyttäjälisenssi on muuttunut. Sovellusta voi käyttää vain hyväksymällä sen.</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -263,10 +259,8 @@
         <target xml:lang="fi" state="translated">Tallenna</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </source>
-        <target xml:lang="fi" state="translated">Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan
-        </target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target xml:lang="fi" state="translated">Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -423,10 +417,8 @@
         <target xml:lang="fi" state="translated">Tuntematon sijainti</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </source>
-        <target xml:lang="fi" state="translated">Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen päälle..
-        </target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+        <target xml:lang="fi" state="translated">Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen päälle..</target>
         <alt-trans>
           <target xml:lang="fi">Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..
         </target>

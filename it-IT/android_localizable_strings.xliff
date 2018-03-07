@@ -38,10 +38,8 @@
         <target xml:lang="it" state="translated">Tutti avvisi</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
-        </source>
-        <target xml:lang="it" state="translated">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del tuo account
-        </target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target xml:lang="it" state="translated">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del tuo account</target>
         <alt-trans>
           <target xml:lang="it">Tutti i tuoi calendari sono invisibili, si prega di attivarli nelle impostazioni native del calendario app o nelle impostazioni del conto
         </target>
@@ -95,10 +93,8 @@
         <target xml:lang="it" state="translated">Modifica</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </source>
-        <target xml:lang="it" state="translated">Ha cambiato il nostro accordo di licenza utente finale. È necessario accettare prima di continuare l'uso di questa app.
-        </target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+        <target xml:lang="it" state="translated">Ha cambiato il nostro accordo di licenza utente finale. È necessario accettare prima di continuare l'uso di questa app.</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -237,10 +233,8 @@
         <target xml:lang="it" state="translated">Salva</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </source>
-        <target xml:lang="it" state="translated">I viaggi abituali rappresentano la maggior parte del vostro movimento quotidiano, ma non sono gli eventi che desideri nel tuo calendario (per esempio, lavoro). Sono importanti per l'agenda per portarti nel posto giusto al momento giusto
-        </target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target xml:lang="it" state="translated">I viaggi abituali rappresentano la maggior parte del vostro movimento quotidiano, ma non sono gli eventi che desideri nel tuo calendario (per esempio, lavoro). Sono importanti per l'agenda per portarti nel posto giusto al momento giusto</target>
         <alt-trans>
           <target xml:lang="it">Le routine sono la maggior parte del vostro movimento quotidiano, ma non sono gli eventi che desideri nel tuo calendario (per esempio il lavoro). Sono importanti per l'agenda per portarti nel posto giusto al momento giusto
         </target>
@@ -362,10 +356,8 @@
         <target xml:lang="it" state="translated">Posizione sconosciuta</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </source>
-        <target xml:lang="it" state="translated">In attesa di segnale di posizione, se non riesce, puoi provare a spegnere e riaccendere il tuo GPS..
-        </target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+        <target xml:lang="it" state="translated">In attesa di segnale di posizione, se non riesce, puoi provare a spegnere e riaccendere il tuo GPS..</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>

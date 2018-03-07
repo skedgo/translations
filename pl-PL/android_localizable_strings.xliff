@@ -35,10 +35,8 @@
         <target xml:lang="pl" state="translated">Wszystkie powiadomienia</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
-        </source>
-        <target xml:lang="pl" state="translated">Wszystkie Twoje kalendarze są niewidoczne, włącz je w aplikacji kalendarzy lub ustawieniach konta
-        </target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target xml:lang="pl" state="translated">Wszystkie Twoje kalendarze są niewidoczne, włącz je w aplikacji kalendarzy lub ustawieniach konta</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -85,10 +83,8 @@
         <target xml:lang="pl" state="translated">Edytuj</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </source>
-        <target xml:lang="pl" state="translated">Zmieniono umowę licencyjną użytkownika. Musisz się zgodzić przed kontynuacją korzystania z tej aplikacji.
-        </target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+        <target xml:lang="pl" state="translated">Zmieniono umowę licencyjną użytkownika. Musisz się zgodzić przed kontynuacją korzystania z tej aplikacji.</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -206,10 +202,8 @@
         <target xml:lang="pl" state="translated">Zapisz</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </source>
-        <target xml:lang="pl" state="translated">Rutyny są postami codziennego ruchu, ale nie są wydarzeniami, które chcesz w kalendarzu (np. Praca). Są ważne dla agendy, aby dotrzeć do lokalizacji we właściwym czasie
-        </target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target xml:lang="pl" state="translated">Rutyny są postami codziennego ruchu, ale nie są wydarzeniami, które chcesz w kalendarzu (np. Praca). Są ważne dla agendy, aby dotrzeć do lokalizacji we właściwym czasie</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -330,10 +324,8 @@
         <target xml:lang="pl" state="translated">Nieznana lokalizacja</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </source>
-        <target xml:lang="pl" state="translated">Oczekiwanie na sygnał satelity, jeśli się nie powiedzie, możesz spróbować wyłączyć GPS i włącz go ponownie...
-        </target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+        <target xml:lang="pl" state="translated">Oczekiwanie na sygnał satelity, jeśli się nie powiedzie, możesz spróbować wyłączyć GPS i włącz go ponownie...</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>

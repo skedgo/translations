@@ -35,10 +35,8 @@
         <target xml:lang="no" state="needs-translation">All Alerts</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
-        </source>
-        <target xml:lang="no" state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or account settings
-        </target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target xml:lang="no" state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or account settings</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -85,10 +83,8 @@
         <target xml:lang="no" state="needs-translation">Edit</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </source>
-        <target xml:lang="no" state="needs-translation">Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+        <target xml:lang="no" state="needs-translation">Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -203,10 +199,8 @@
         <target xml:lang="no" state="needs-translation">Save</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </source>
-        <target xml:lang="no" state="needs-translation">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target xml:lang="no" state="needs-translation">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -321,10 +315,8 @@
         <target xml:lang="no" state="needs-translation">Unknown location</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </source>
-        <target xml:lang="no" state="needs-translation">Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+        <target xml:lang="no" state="needs-translation">Waiting for location signal, if fails, you can try turning your GPS off and on..</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>

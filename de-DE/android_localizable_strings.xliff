@@ -98,10 +98,8 @@
         <target xml:lang="de">Bearbeiten</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </source>
-        <target xml:lang="de" state="translated">Wir haben unsere EULA aktualisiert. Um die App zu verwenden, muss die neue EULA akzeptiert werden.
-        </target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+        <target xml:lang="de" state="translated">Wir haben unsere EULA aktualisiert. Um die App zu verwenden, muss die neue EULA akzeptiert werden.</target>
       </trans-unit>
       <trans-unit id="edit_favourite" approved="yes">
         <source>Edit favorite</source>
@@ -232,10 +230,8 @@
         <target xml:lang="de" state="translated">Speichern</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </source>
-        <target xml:lang="de" state="translated">Routinen sind Teil deines Tagesablaufs aber nicht Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.
-        </target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target xml:lang="de" state="translated">Routinen sind Teil deines Tagesablaufs aber nicht Ereignisse, die du in deinem Kalender sehen möchtest (z.B. Arbeit). Sie sind wichtig für die Agenda um dich zur richtigen Zeit zum richtigen Ort zu bringen.</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -365,11 +361,9 @@
         <target xml:lang="de" state="translated">Unbekannter Ort</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </source>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
         <target xml:lang="de" state="translated">Warte auf Signal; falls erfolglos, versuche GPS
-          aus- und wieder einzuschalten...
-        </target>
+          aus- und wieder einzuschalten...</target>
         <alt-trans>
           <target xml:lang="de">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...
         </target>

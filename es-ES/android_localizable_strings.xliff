@@ -39,10 +39,8 @@
         <target xml:lang="es-ES" state="translated">Todas las Alertas</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
-        </source>
-        <target xml:lang="es-ES" state="translated">Todos tus calendarios están invisibles, por favor, cambielo en su aplicación nativa de calendario o en la configuración de la cuenta
-        </target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target xml:lang="es-ES" state="translated">Todos tus calendarios están invisibles, por favor, cambielo en su aplicación nativa de calendario o en la configuración de la cuenta</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
@@ -97,10 +95,8 @@
         <target xml:lang="es-ES" state="translated">Editar</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </source>
-        <target xml:lang="es-ES" state="translated">Nuestro Acuerdo de Licencia con el Usuario Final (End User Licence Agreement) ha cambiado. Debe acordar la misma antes de continuar usando esta aplicación.
-        </target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+        <target xml:lang="es-ES" state="translated">Nuestro Acuerdo de Licencia con el Usuario Final (End User Licence Agreement) ha cambiado. Debe acordar la misma antes de continuar usando esta aplicación.</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -235,10 +231,8 @@
         <target xml:lang="es-ES" state="translated">Grabar</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </source>
-        <target xml:lang="es-ES" state="translated">Las rutinas son la mayor parte de su movimiento diario, pero no son eventos que desee en el calendario (por ejemplo, trabajo). Son importantes para la Agenda para obtener la ubicación correcta en el momento adecuado
-        </target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target xml:lang="es-ES" state="translated">Las rutinas son la mayor parte de su movimiento diario, pero no son eventos que desee en el calendario (por ejemplo, trabajo). Son importantes para la Agenda para obtener la ubicación correcta en el momento adecuado</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -369,11 +363,9 @@
         <target xml:lang="es-ES" state="translated">Ubicación desconocida</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </source>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
         <target xml:lang="es-ES" state="translated">Esperando la señal del GPS, si falla, puede
-          intentar desactivando y volviendo a activarel GPS
-        </target>
+          intentar desactivando y volviendo a activarel GPS</target>
         <alt-trans>
           <target xml:lang="es-ES">Esperando la señal del GPS, si falla, puede intentar desactivando y volviendo a activarel GPS
         </target>

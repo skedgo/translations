@@ -38,10 +38,8 @@
         <target xml:lang="zh-CN" state="translated">所有提示</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
-        <source>All your calendars are invisible, please switch them on in native calendar app or account settings
-        </source>
-        <target xml:lang="zh-CN" state="translated">您的所有日历都不可见，请在本机日历应用或帐户设置中切换
-        </target>
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target xml:lang="zh-CN" state="translated">您的所有日历都不可见，请在本机日历应用或帐户设置中切换</target>
         <alt-trans>
           <target xml:lang="zh-CN">你的所有日历都不可见，请切换到本地日历app或账号设置里
         </target>
@@ -95,10 +93,8 @@
         <target xml:lang="zh-CN" state="translated">编辑</target>
       </trans-unit>
       <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.
-        </source>
-        <target xml:lang="zh-CN" state="translated">我们的最终用户许可协议已经更改。在您使用app之前请同意该协议。
-        </target>
+        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
+        <target xml:lang="zh-CN" state="translated">我们的最终用户许可协议已经更改。在您使用app之前请同意该协议。</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
@@ -213,10 +209,8 @@
         <target xml:lang="zh-CN" state="translated">保存</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
-        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time
-        </source>
-        <target xml:lang="zh-CN" state="translated">例行事件是您每天必须要做的事，但是你不想将它们记录在日历中（例如：上班）。例行事件可以让“行程”功能在对的时间带您到对的地方
-        </target>
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target xml:lang="zh-CN" state="translated">例行事件是您每天必须要做的事，但是你不想将它们记录在日历中（例如：上班）。例行事件可以让“行程”功能在对的时间带您到对的地方</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
@@ -331,10 +325,8 @@
         <target xml:lang="zh-CN" state="translated">未知的位置</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
-        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..
-        </source>
-        <target xml:lang="zh-CN" state="translated">正在等待定位信号，如果失败，您可以试着先将GPS关闭再打开..
-        </target>
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+        <target xml:lang="zh-CN" state="translated">正在等待定位信号，如果失败，您可以试着先将GPS关闭再打开..</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
