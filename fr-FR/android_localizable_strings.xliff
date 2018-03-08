@@ -127,13 +127,6 @@
           <target xml:lang="fr">Editer</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="fr" state="translated">Nos Conditions Générales d'Utilisation ont changé. Vous devez les accepter afin de poursuivre l'utilisation du logiciel.</target>
-        <alt-trans>
-          <target xml:lang="fr">Nos Conditions Générales d'Utilisation ont changées. Vous devez les accepter afin de poursuivre l'utilisation du logiciel</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
         <target xml:lang="fr" state="translated">Modifier le favori</target>

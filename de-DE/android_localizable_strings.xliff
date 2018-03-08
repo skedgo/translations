@@ -95,10 +95,6 @@
         <source>Edit</source>
         <target xml:lang="de">Bearbeiten</target>
       </trans-unit>
-      <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="de" state="translated">Wir haben unsere EULA aktualisiert. Um die App zu verwenden, muss die neue EULA akzeptiert werden.</target>
-      </trans-unit>
       <trans-unit id="edit_favourite" approved="yes">
         <source>Edit favorite</source>
         <target xml:lang="de">Favorit bearbeiten</target>

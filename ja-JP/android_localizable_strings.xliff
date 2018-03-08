@@ -82,10 +82,6 @@
         <source>Edit</source>
         <target xml:lang="ja" state="translated">編集</target>
       </trans-unit>
-      <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="ja" state="translated">使用許諾契約書が変更されました。このアプリの使用を続行する前に、それに同意する必要があります。</target>
-      </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
         <target xml:lang="ja" state="translated">お気に入りを編集します。</target>

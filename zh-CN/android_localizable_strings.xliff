@@ -91,10 +91,6 @@
         <source>Edit</source>
         <target xml:lang="zh-CN" state="translated">编辑</target>
       </trans-unit>
-      <trans-unit id="eula_has_changed">
-        <source>Our End User Licence Agreement has changed. You must agree to it before continuing the use of this app.</source>
-        <target xml:lang="zh-CN" state="translated">我们的最终用户许可协议已经更改。在您使用app之前请同意该协议。</target>
-      </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
         <target xml:lang="zh-CN" state="translated">编辑收藏</target>
