@@ -100,9 +100,9 @@
       </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
-        <target xml:lang="fr" state="translated">Coordonnées</target>
+        <target xml:lang="fr" state="translated">Coordonnées : %s</target>
         <alt-trans>
-          <target xml:lang="fr">Coordonnées : %s</target>
+          <target xml:lang="fr">Coordonnées</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">

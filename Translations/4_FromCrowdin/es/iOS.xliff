@@ -1257,7 +1257,7 @@
       </trans-unit>
       <trans-unit id="Swipe dates to navigate between weeks">
         <source>Swipe dates to navigate between weeks</source>
-        <target xml:lang="es" state="needs-translation">Swipe dates to navigate between weeks</target>
+        <target xml:lang="es" state="translated">Deslice los días para navegar entre semanas</target>
       </trans-unit>
       <trans-unit id="Tap and hold title to jump directly to a specified date.">
         <source>Tap and hold title to jump directly to a specified date.</source>
@@ -1266,11 +1266,11 @@
       </trans-unit>
       <trans-unit id="Tap public transport stops for access to timetable">
         <source>Tap public transport stops for access to timetable</source>
-        <target xml:lang="es" state="needs-translation">Tap public transport stops for access to timetable</target>
+        <target xml:lang="es" state="translated">Toca sobre las paradas de transporte público para acceder a los horarios</target>
       </trans-unit>
       <trans-unit id="Tap title to go to 'today'">
         <source>Tap title to go to 'today'</source>
-        <target xml:lang="es" state="needs-translation">Tap title to go to 'today'</target>
+        <target xml:lang="es" state="translated">Toca el título para ir a 'hoy'</target>
       </trans-unit>
       <trans-unit id="Tap to confirm hours or swipe to delete">
         <source>Tap to confirm hours or swipe to delete</source>
@@ -1654,7 +1654,7 @@
       </trans-unit>
       <trans-unit id="Show trip">
         <source>Show trip</source>
-        <target xml:lang="es" state="needs-translation">Show trip</target>
+        <target xml:lang="es" state="translated">Mostrar Viaje</target>
       </trans-unit>
       <trans-unit id="Snooze 5 mins">
         <source>Snooze 5 mins</source>
@@ -1937,7 +1937,7 @@
       </trans-unit>
       <trans-unit id="CVC">
         <source>CVC</source>
-        <target xml:lang="es" state="needs-translation">CVC</target>
+        <target xml:lang="es" state="translated">CVC</target>
         <note>Credit card CVC</note>
       </trans-unit>
       <trans-unit id="Cancel">
@@ -1962,7 +1962,7 @@
       </trans-unit>
       <trans-unit id="Card No.">
         <source>Card No.</source>
-        <target xml:lang="es" state="needs-translation">Card No.</target>
+        <target xml:lang="es" state="translated">Tarjeta Nro</target>
         <note>Credit card number</note>
       </trans-unit>
       <trans-unit id="Change">
@@ -2012,7 +2012,7 @@
       </trans-unit>
       <trans-unit id="Credit card">
         <source>Credit card</source>
-        <target xml:lang="es" state="needs-translation">Credit card</target>
+        <target xml:lang="es" state="translated">Tarjeta de crédito</target>
         <note>Section title for credit card payment</note>
       </trans-unit>
       <trans-unit id="Current City">
@@ -2068,7 +2068,7 @@
       </trans-unit>
       <trans-unit id="Expiry Date">
         <source>Expiry Date</source>
-        <target xml:lang="es" state="needs-translation">Expiry Date</target>
+        <target xml:lang="es" state="translated">Fecha de vencimiento</target>
         <note>Credit card expiry date</note>
       </trans-unit>
       <trans-unit id="For when to leave">
@@ -2083,7 +2083,7 @@
       </trans-unit>
       <trans-unit id="Full name">
         <source>Full name</source>
-        <target xml:lang="es" state="needs-translation">Full name</target>
+        <target xml:lang="es" state="translated">Nombre completo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Getting a lift">
@@ -2123,7 +2123,7 @@
       </trans-unit>
       <trans-unit id="Linking Facebook">
         <source>Linking Facebook</source>
-        <target xml:lang="es" state="needs-translation">Linking Facebook</target>
+        <target xml:lang="es" state="translated">Vincular con Facebook</target>
         <note>Used when user signs in using Facebook</note>
       </trans-unit>
       <trans-unit id="Loading">
@@ -2143,7 +2143,7 @@
       </trans-unit>
       <trans-unit id="Making payment">
         <source>Making payment</source>
-        <target xml:lang="es" state="needs-translation">Making payment</target>
+        <target xml:lang="es" state="translated">Realizando el pago</target>
         <note>Indicating a payment is in progress</note>
       </trans-unit>
       <trans-unit id="Minutes before trip">
@@ -2225,12 +2225,12 @@
       </trans-unit>
       <trans-unit id="Payment successful">
         <source>Payment successful</source>
-        <target xml:lang="es" state="needs-translation">Payment successful</target>
+        <target xml:lang="es" state="translated">Pago exitoso</target>
         <note>Indicating a payment is successful</note>
       </trans-unit>
       <trans-unit id="Paypal">
         <source>Paypal</source>
-        <target xml:lang="es" state="needs-translation">Paypal</target>
+        <target xml:lang="es" state="translated">Paypal</target>
         <note>Section title for Paypal payment</note>
       </trans-unit>
       <trans-unit id="Please select a location">
@@ -2265,7 +2265,7 @@
       </trans-unit>
       <trans-unit id="Receipt">
         <source>Receipt</source>
-        <target xml:lang="es" state="needs-translation">Receipt</target>
+        <target xml:lang="es" state="translated">Recibo</target>
         <note>Title for section that asks users where payment receipt should be sent</note>
       </trans-unit>
       <trans-unit id="Reminder">
@@ -2494,7 +2494,7 @@
       </trans-unit>
       <trans-unit id="mm/yy">
         <source>mm/yy</source>
-        <target xml:lang="es" state="needs-translation">mm/yy</target>
+        <target xml:lang="es" state="translated">mm/aa</target>
         <note>Credit card expiry date placeholder, mm/yy</note>
       </trans-unit>
       <trans-unit id="starts at %@">
@@ -2613,17 +2613,17 @@
       </trans-unit>
       <trans-unit id="Book with FlitWays">
         <source>Book with FlitWays</source>
-        <target xml:lang="es" state="needs-translation">Book with FlitWays</target>
+        <target xml:lang="es" state="translated">Reservar con FlitWays</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Book with Uber">
         <source>Book with Uber</source>
-        <target xml:lang="es" state="needs-translation">Book with Uber</target>
+        <target xml:lang="es" state="translated">Resevar con Uber</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Calculating trips...">
         <source>Calculating trips...</source>
-        <target xml:lang="es" state="needs-translation">Calculating trips...</target>
+        <target xml:lang="es" state="translated">Calculando viajes...</target>
         <note>Placeholder title while calculating trips</note>
       </trans-unit>
       <trans-unit id="Call">
@@ -2638,7 +2638,7 @@
       </trans-unit>
       <trans-unit id="Connect to Internet to get trips">
         <source>Connect to Internet to get trips</source>
-        <target xml:lang="es" state="needs-translation">Connect to Internet to get trips</target>
+        <target xml:lang="es" state="translated">Conéctate a Internet para obtener viajes</target>
         <note>Single line instruction if device is offline and user needs to reconnect to internet to calculate trips</note>
       </trans-unit>
       <trans-unit id="Could not find transit stop.">
@@ -2691,12 +2691,12 @@
       </trans-unit>
       <trans-unit id="Get Lyft">
         <source>Get Lyft</source>
-        <target xml:lang="es" state="needs-translation">Get Lyft</target>
+        <target xml:lang="es" state="translated">Obtener Lyft</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get Ola">
         <source>Get Ola</source>
-        <target xml:lang="es" state="needs-translation">Get Ola</target>
+        <target xml:lang="es" state="translated">Obtener Ola</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get directions">
@@ -2706,7 +2706,7 @@
       </trans-unit>
       <trans-unit id="Get ingogo">
         <source>Get ingogo</source>
-        <target xml:lang="es" state="needs-translation">Get ingogo</target>
+        <target xml:lang="es" state="translated">Obtener ingogo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Google Maps">
@@ -2731,7 +2731,7 @@
       </trans-unit>
       <trans-unit id="In the meantime, let's keep exploring and enjoy your trips">
         <source>In the meantime, let's keep exploring and enjoy your trips</source>
-        <target xml:lang="es" state="needs-translation">In the meantime, let's keep exploring and enjoy your trips</target>
+        <target xml:lang="es" state="translated">Mientras tanto, sigamos explorando y disfrutando de tus viajes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Leave">
@@ -2807,12 +2807,12 @@
       </trans-unit>
       <trans-unit id="Open Lyft">
         <source>Open Lyft</source>
-        <target xml:lang="es" state="needs-translation">Open Lyft</target>
+        <target xml:lang="es" state="translated">Abrir Lyft</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open Ola">
         <source>Open Ola</source>
-        <target xml:lang="es" state="needs-translation">Open Ola</target>
+        <target xml:lang="es" state="translated">Abrir Ola</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Opening Hours">
