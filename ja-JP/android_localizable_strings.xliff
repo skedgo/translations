@@ -242,10 +242,6 @@
         <source>Start of trip</source>
         <target xml:lang="ja" state="translated">旅行の開始</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_service_alerts">
-        <source>Service alerts</source>
-        <target xml:lang="ja" state="translated">サービスの警告</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
         <target xml:lang="ja" state="needs-translation">Start of public transport</target>

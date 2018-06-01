@@ -238,10 +238,6 @@
         <source>Start of trip</source>
         <target xml:lang="sv-SE" state="needs-translation">Start of trip</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_service_alerts">
-        <source>Service alerts</source>
-        <target xml:lang="sv-SE" state="needs-translation">Service alerts</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
         <target xml:lang="sv-SE" state="needs-translation">Start of public transport</target>

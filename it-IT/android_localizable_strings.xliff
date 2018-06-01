@@ -277,10 +277,6 @@
         <source>Start of trip</source>
         <target xml:lang="it" state="translated">Inizio del viaggio</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_service_alerts">
-        <source>Service alerts</source>
-        <target xml:lang="it" state="translated">avvisi di servizio</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
         <target xml:lang="it" state="translated">Inizio del trasporto pubblico</target>

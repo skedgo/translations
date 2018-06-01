@@ -247,10 +247,6 @@
         <source>Start of trip</source>
         <target xml:lang="zh-CN" state="translated">行程开始</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_service_alerts">
-        <source>Service alerts</source>
-        <target xml:lang="zh-CN" state="translated">车次变动</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
         <target xml:lang="zh-CN" state="translated">公共交通即将开始</target>

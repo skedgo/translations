@@ -244,10 +244,6 @@
         <source>Start of trip</source>
         <target xml:lang="ko" state="translated">경로 시작</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_service_alerts">
-        <source>Service alerts</source>
-        <target xml:lang="ko" state="translated">서비스 알림</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
         <target xml:lang="ko" state="translated">대중교통으로 시작하기</target>

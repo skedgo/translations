@@ -310,13 +310,6 @@
         <source>Start of trip</source>
         <target xml:lang="fi" state="translated">Matkan alku</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_service_alerts">
-        <source>Service alerts</source>
-        <target xml:lang="fi" state="translated">Poikkeustiedotteet</target>
-        <alt-trans>
-          <target xml:lang="fi">Palveluhälytykset</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
         <target xml:lang="fi" state="translated">Julkisen liikenteen osio alkaa</target>

@@ -238,10 +238,6 @@
         <source>Start of trip</source>
         <target xml:lang="zh-TW" state="translated">在路程即將開始時</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_service_alerts">
-        <source>Service alerts</source>
-        <target xml:lang="zh-TW" state="translated">在車次有變動時</target>
-      </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
         <target xml:lang="zh-TW" state="translated">在大眾交通路線即將開始時</target>
