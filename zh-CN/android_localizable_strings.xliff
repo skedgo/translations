@@ -4,413 +4,413 @@
     <body>
       <trans-unit id="access_to_your_calendar">
         <source>Access to your calendar is required</source>
-        <target xml:lang="zh-CN" state="translated">需要访问您的日历</target>
+        <target state="translated">需要访问您的日历</target>
       </trans-unit>
       <trans-unit id="access_to_your_contacts">
         <source>Access to your contacts is required</source>
-        <target xml:lang="zh-CN" state="translated">需要访问您的通讯录</target>
+        <target state="translated">需要访问您的通讯录</target>
       </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
-        <target xml:lang="zh-CN" state="translated">添加</target>
+        <target state="translated">添加</target>
       </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
-        <target xml:lang="zh-CN" state="translated">添加位置</target>
+        <target state="translated">添加位置</target>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
-        <target xml:lang="zh-CN" state="translated">添加到通讯录</target>
+        <target state="translated">添加到通讯录</target>
         <alt-trans>
-          <target xml:lang="zh-CN">添加到联系人</target>
+          <target>添加到联系人</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="add_to_home_screen">
         <source>Add to Home screen</source>
-        <target xml:lang="zh-CN" state="translated">添加到主屏幕</target>
+        <target state="translated">添加到主屏幕</target>
       </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target xml:lang="zh-CN" state="translated">点击下方的选项栏查看你的日常行程和收藏</target>
+        <target state="translated">点击下方的选项栏查看你的日常行程和收藏</target>
       </trans-unit>
       <trans-unit id="all_alerts">
         <source>All Alerts</source>
-        <target xml:lang="zh-CN" state="translated">所有提示</target>
+        <target state="translated">所有提示</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target xml:lang="zh-CN" state="translated">您的所有日历都不可见，请在本机日历应用或帐户设置中切换</target>
+        <target state="translated">您的所有日历都不可见，请在本机日历应用或帐户设置中切换</target>
         <alt-trans>
-          <target xml:lang="zh-CN">你的所有日历都不可见，请切换到本地日历app或账号设置里</target>
+          <target>你的所有日历都不可见，请切换到本地日历app或账号设置里</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target xml:lang="zh-CN" state="translated">发生意外的网络错误。请重试。</target>
+        <target state="translated">发生意外的网络错误。请重试。</target>
         <alt-trans>
-          <target xml:lang="zh-CN">您遇到了一个网络错误，请重试</target>
+          <target>您遇到了一个网络错误，请重试</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
-        <target xml:lang="zh-CN" state="translated">走了大约 %s</target>
+        <target state="translated">走了大约 %s</target>
       </trans-unit>
       <trans-unit id="arrivaltimeindication">
         <source>" (arrive "</source>
-        <target xml:lang="zh-CN" state="translated">到达时间</target>
+        <target state="translated">到达时间</target>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
-        <target xml:lang="zh-CN" state="translated">预订</target>
+        <target state="translated">预订</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
-        <target xml:lang="zh-CN" state="translated">无法为过去的行程添加提醒</target>
+        <target state="translated">无法为过去的行程添加提醒</target>
       </trans-unit>
       <trans-unit id="cant_call_error">
         <source>Error placing call</source>
-        <target xml:lang="zh-CN" state="translated">拨号错误</target>
+        <target state="translated">拨号错误</target>
       </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
-        <target xml:lang="zh-CN" state="translated">坐标: %s</target>
+        <target state="translated">坐标: %s</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
-        <target xml:lang="zh-CN" state="translated">无法找到您的当前位置</target>
+        <target state="translated">无法找到您的当前位置</target>
       </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
-        <target xml:lang="zh-CN" state="translated">目的地</target>
+        <target state="translated">目的地</target>
       </trans-unit>
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
-        <target xml:lang="zh-CN" state="translated">删除此车辆</target>
+        <target state="translated">删除此车辆</target>
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
-        <target xml:lang="zh-CN" state="translated">编辑</target>
+        <target state="translated">编辑</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
-        <target xml:lang="zh-CN" state="translated">编辑收藏</target>
+        <target state="translated">编辑收藏</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
-        <target xml:lang="zh-CN" state="translated">无法解析位置</target>
+        <target state="translated">无法解析位置</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link">
         <source>Failed to resolve link</source>
-        <target xml:lang="zh-CN" state="translated">无法解析链接</target>
+        <target state="translated">无法解析链接</target>
       </trans-unit>
       <trans-unit id="get_off">
         <source>Get Off</source>
-        <target xml:lang="zh-CN" state="translated">下车</target>
+        <target state="translated">下车</target>
       </trans-unit>
       <trans-unit id="first">
         <source>First:</source>
-        <target xml:lang="zh-CN" state="translated">首先:</target>
+        <target state="translated">首先:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
-        <target xml:lang="zh-CN" state="translated">通过公交路线名字、号码或者停靠站进行查询</target>
+        <target state="translated">通过公交路线名字、号码或者停靠站进行查询</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
-        <target xml:lang="zh-CN" state="translated">去这里</target>
+        <target state="translated">去这里</target>
       </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
-        <target xml:lang="zh-CN" state="translated">上车</target>
+        <target state="translated">上车</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target xml:lang="zh-CN" state="translated">取得优惠票价的信息是视情况而定的。</target>
+        <target state="translated">取得优惠票价的信息是视情况而定的。</target>
       </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
-        <target xml:lang="zh-CN" state="translated">出发时间到啦!</target>
+        <target state="translated">出发时间到啦!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time">
         <source>Leave now to make it on time</source>
-        <target xml:lang="zh-CN" state="translated">现在出发可以准时到达</target>
+        <target state="translated">现在出发可以准时到达</target>
       </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
-        <target xml:lang="zh-CN" state="translated">现在出发</target>
+        <target state="translated">现在出发</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target xml:lang="zh-CN" state="translated">从日历里获取的这些事件将被用于规划你的行程</target>
+        <target state="translated">从日历里获取的这些事件将被用于规划你的行程</target>
       </trans-unit>
       <trans-unit id="minute">
         <source>1 minute</source>
-        <target xml:lang="zh-CN" state="translated">1分钟</target>
+        <target state="translated">1分钟</target>
       </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
-        <target xml:lang="zh-CN" state="translated">新的车辆</target>
+        <target state="translated">新的车辆</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
-        <target xml:lang="zh-CN" state="translated">无法找到位置</target>
+        <target state="translated">无法找到位置</target>
       </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
-        <target xml:lang="zh-CN" state="translated">选中位置</target>
+        <target state="translated">选中位置</target>
       </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
-        <target xml:lang="zh-CN" state="translated">没有收到任何评分</target>
+        <target state="translated">没有收到任何评分</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
-        <target xml:lang="zh-CN" state="translated">没有可用的车次</target>
+        <target state="translated">没有可用的车次</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved">
         <source>No favorite locations saved</source>
-        <target xml:lang="zh-CN" state="translated">没有被收藏的位置信息</target>
+        <target state="translated">没有被收藏的位置信息</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target xml:lang="zh-CN" state="translated">有一个错误已经反馈给我们。请再试一次</target>
+        <target state="translated">有一个错误已经反馈给我们。请再试一次</target>
       </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
-        <target xml:lang="zh-CN" state="translated">出发地</target>
+        <target state="translated">出发地</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target xml:lang="zh-CN" state="translated">抱歉，该位置不在TripGo服务范围内!</target>
+        <target state="translated">抱歉，该位置不在TripGo服务范围内!</target>
       </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
-        <target xml:lang="zh-CN" state="translated">移出收藏栏</target>
+        <target state="translated">移出收藏栏</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
-        <target xml:lang="zh-CN" state="translated">刷新</target>
+        <target state="translated">刷新</target>
       </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
-        <target xml:lang="zh-CN" state="translated">设置结束时间</target>
+        <target state="translated">设置结束时间</target>
       </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
-        <target xml:lang="zh-CN" state="translated">选取日历</target>
+        <target state="translated">选取日历</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
-        <target xml:lang="zh-CN" state="translated">保存</target>
+        <target state="translated">保存</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target xml:lang="zh-CN" state="translated">例行事件是您每天必须要做的事，但是你不想将它们记录在日历中（例如：上班）。例行事件可以让“行程”功能在对的时间带您到对的地方</target>
+        <target state="translated">例行事件是您每天必须要做的事，但是你不想将它们记录在日历中（例如：上班）。例行事件可以让“行程”功能在对的时间带您到对的地方</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
-        <target xml:lang="zh-CN" state="translated">通知</target>
+        <target state="translated">通知</target>
       </trans-unit>
       <trans-unit id="settings_category_about">
         <source>About</source>
-        <target xml:lang="zh-CN" state="translated">关于</target>
+        <target state="translated">关于</target>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
-        <target xml:lang="zh-CN" state="translated">设置时间</target>
+        <target state="translated">设置时间</target>
       </trans-unit>
       <trans-unit id="set_start_time">
         <source>Set start time</source>
-        <target xml:lang="zh-CN" state="translated">设置开始时间</target>
+        <target state="translated">设置开始时间</target>
       </trans-unit>
       <trans-unit id="set_location">
         <source>Set Location</source>
-        <target xml:lang="zh-CN" state="translated">设置位置</target>
+        <target state="translated">设置位置</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
-        <target xml:lang="zh-CN" state="translated">在行程开始前显示提示</target>
+        <target state="translated">在行程开始前显示提示</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target xml:lang="zh-CN" state="translated">在您行程上任何公共交通路段开始前显示提示</target>
+        <target state="translated">在您行程上任何公共交通路段开始前显示提示</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target xml:lang="zh-CN" state="translated">对任何会对您即将开始的行程造成影响的车次变动显示提示</target>
+        <target state="translated">对任何会对您即将开始的行程造成影响的车次变动显示提示</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target xml:lang="zh-CN" state="translated">在您行程上任何公共交通路段结束前显示提示</target>
+        <target state="translated">在您行程上任何公共交通路段结束前显示提示</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
-        <target xml:lang="zh-CN" state="translated">行程开始</target>
+        <target state="translated">行程开始</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
-        <target xml:lang="zh-CN" state="translated">公共交通即将开始</target>
+        <target state="translated">公共交通即将开始</target>
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
-        <target xml:lang="zh-CN" state="translated">服务器</target>
+        <target state="translated">服务器</target>
       </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
-        <target xml:lang="zh-CN" state="translated">版本</target>
+        <target state="translated">版本</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
-        <target xml:lang="zh-CN" state="translated">自行车骑速</target>
+        <target state="translated">自行车骑速</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
-        <target xml:lang="zh-CN" state="translated">公共交通即将结束</target>
+        <target state="translated">公共交通即将结束</target>
       </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
-        <target xml:lang="zh-CN" state="translated">根据路程费用排序</target>
+        <target state="translated">根据路程费用排序</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
-        <target xml:lang="zh-CN" state="translated">根据您的偏好排序</target>
+        <target state="translated">根据您的偏好排序</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
-        <target xml:lang="zh-CN" state="translated">下载车次信息发生错误</target>
+        <target state="translated">下载车次信息发生错误</target>
       </trans-unit>
       <trans-unit id="share_this_result">
         <source>Share this result</source>
-        <target xml:lang="zh-CN" state="translated">分享此结果</target>
+        <target state="translated">分享此结果</target>
       </trans-unit>
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
-        <target xml:lang="zh-CN" state="translated">分享时刻表</target>
+        <target state="translated">分享时刻表</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
-        <target xml:lang="zh-CN" state="translated">排序方式</target>
+        <target state="translated">排序方式</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival">
         <source>Sorted by Arrival</source>
-        <target xml:lang="zh-CN" state="translated">根据到达时间排序</target>
+        <target state="translated">根据到达时间排序</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure">
         <source>Sorted by Departure</source>
-        <target xml:lang="zh-CN" state="translated">根据出发时间排序</target>
+        <target state="translated">根据出发时间排序</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration">
         <source>Sorted by Duration</source>
-        <target xml:lang="zh-CN" state="translated">根据路程耗时排序</target>
+        <target state="translated">根据路程耗时排序</target>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
-        <target xml:lang="zh-CN" state="translated">在Yelp上查看</target>
+        <target state="translated">在Yelp上查看</target>
       </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
-        <target xml:lang="zh-CN" state="translated">即将到来的车次</target>
+        <target state="translated">即将到来的车次</target>
       </trans-unit>
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
-        <target xml:lang="zh-CN" state="translated">未知的位置</target>
+        <target state="translated">未知的位置</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target xml:lang="zh-CN" state="translated">正在等待定位信号，如果失败，您可以试着先将GPS关闭再打开..</target>
+        <target state="translated">正在等待定位信号，如果失败，您可以试着先将GPS关闭再打开..</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
-        <target xml:lang="zh-CN" state="translated">查阅即将到来的车次的时刻表</target>
+        <target state="translated">查阅即将到来的车次的时刻表</target>
       </trans-unit>
       <trans-unit id="tomorrow">
         <source>Tomorrow</source>
-        <target xml:lang="zh-CN" state="translated">明天</target>
+        <target state="translated">明天</target>
       </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
-        <target xml:lang="zh-CN" state="translated">今天</target>
+        <target state="translated">今天</target>
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
-        <target xml:lang="zh-CN" state="translated">没有找到停靠此站的车次</target>
+        <target state="translated">没有找到停靠此站的车次</target>
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
-        <target xml:lang="zh-CN" state="translated">行程前往 %s</target>
+        <target state="translated">行程前往 %s</target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
-        <target xml:lang="zh-CN" state="translated">昨天</target>
+        <target state="translated">昨天</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
-        <target xml:lang="zh-CN" state="translated">您的行程即将开始</target>
+        <target state="translated">您的行程即将开始</target>
       </trans-unit>
       <trans-unit id="you_are_here">
         <source>You are here</source>
-        <target xml:lang="zh-CN" state="translated">你在这里</target>
+        <target state="translated">你在这里</target>
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target xml:lang="zh-CN" state="translated">消息</target>
+        <target state="translated">消息</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target xml:lang="zh-CN" state="translated">添加到该行程中</target>
+        <target state="translated">添加到该行程中</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
         <alt-trans>
-          <target xml:lang="zh-CN">包含在旅程中</target>
+          <target>包含在旅程中</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target xml:lang="zh-CN" state="translated">%s 个停车位可用</target>
+        <target state="translated">%s 个停车位可用</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
           available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target xml:lang="zh-CN" state="translated">%s 个停车位可用</target>
+        <target state="translated">%s 个停车位可用</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target xml:lang="zh-CN" state="translated">无停车位可用</target>
+        <target state="translated">无停车位可用</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target xml:lang="zh-CN" state="translated">更新于 %s</target>
+        <target state="translated">更新于 %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target xml:lang="zh-CN" state="translated">几乎满位</target>
+        <target state="translated">几乎满位</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="got_it">
         <source>Got it</source>
-        <target xml:lang="zh-CN" state="translated">知道啦</target>
+        <target state="translated">知道啦</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen">
         <source>See your favourites on your home screen!</source>
-        <target xml:lang="zh-CN" state="translated">在主屏幕上查看您的收藏夹！</target>
+        <target state="translated">在主屏幕上查看您的收藏夹！</target>
         <note>Add favourite direct access message</note>
       </trans-unit>
       <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target xml:lang="zh-CN" state="translated">您可以从快捷界面直接访问您喜欢的位置。</target>
+        <target state="translated">您可以从快捷界面直接访问您喜欢的位置。</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target xml:lang="zh-CN" state="translated">只需点击%1$s，然后点击“%2$s”</target>
+        <target state="translated">只需点击%1$s，然后点击“%2$s”</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>

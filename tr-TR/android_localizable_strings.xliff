@@ -1,198 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="input strategy" source-language="en" target-language="vi">
+  <file datatype="plaintext" original="input strategy" source-language="en" target-language="tr">
     <body>
       <trans-unit id="access_to_your_calendar">
         <source>Access to your calendar is required</source>
-        <target state="needs-translation">Access to your calendar is required</target>
+        <target state="translated">Takviminize erişim gerekli</target>
       </trans-unit>
       <trans-unit id="access_to_your_contacts">
         <source>Access to your contacts is required</source>
-        <target state="needs-translation">Access to your contacts is required</target>
+        <target state="translated">Kişilerinize erişim gerekli</target>
       </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
-        <target state="translated">Thêm</target>
+        <target state="translated">Ekle</target>
       </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
-        <target state="needs-translation">Add Location</target>
+        <target state="translated">Konum Ekle</target>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
-        <target state="translated">Thêm vào Danh bạ</target>
+        <target state="translated">Kişilere ekle</target>
       </trans-unit>
       <trans-unit id="add_to_home_screen">
         <source>Add to Home screen</source>
-        <target state="translated">Thêm vào màn hình chính</target>
+        <target state="translated">Ana ekrana ekle</target>
       </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target state="needs-translation">View your daily agenda and favourites in the tabs below</target>
+        <target state="translated">Günlük ajanda ve favorilerinizi aşağıdaki sekmelerde görüntüleyin</target>
       </trans-unit>
       <trans-unit id="all_alerts">
         <source>All Alerts</source>
-        <target state="translated">Tất cả cảnh báo</target>
+        <target state="translated">Tüm Uyarılar</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or account settings</target>
+        <target state="translated">Tüm takvimleriniz görünmez, lütfen onları yerel takvim uygulamasında veya hesap ayarlarında açın</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target state="needs-translation">An unexpected network error has occurred. Please retry.</target>
+        <target state="translated">Beklenmeyen bir ağ hatası oluştu. Lütfen tekrar deneyiniz.</target>
       </trans-unit>
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
-        <target state="translated">Khoảng %s</target>
+        <target state="translated">Yaklaşık %s uzakta</target>
       </trans-unit>
       <trans-unit id="arrivaltimeindication">
         <source>" (arrive "</source>
-        <target state="translated">"(đến"</target>
+        <target state="translated">" (varış "</target>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
-        <target state="needs-translation">Booking</target>
+        <target state="translated">Rezervasyon</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
-        <target state="translated">Không thể tạo nhắc nhở cho chuyến đi vừa qua</target>
+        <target state="translated">Geçmiş yolculuk için hatırlatma eklenemiyor</target>
       </trans-unit>
       <trans-unit id="cant_call_error">
         <source>Error placing call</source>
-        <target state="needs-translation">Error placing call</target>
+        <target state="translated">Arama yapılırken hata oluştu</target>
       </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
-        <target state="needs-translation">Coordinates: %s</target>
+        <target state="translated">Koordinatlar: %s</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
-        <target state="needs-translation">Couldn't find your current location</target>
+        <target state="translated">Geçerli konumunuz bulunamadı</target>
       </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
-        <target state="needs-translation">destination</target>
+        <target state="translated">hedef</target>
       </trans-unit>
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
-        <target state="needs-translation">Delete this vehicle</target>
+        <target state="translated">Bu aracı sil</target>
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
-        <target state="translated">Chỉnh sửa</target>
+        <target state="translated">Düzenle</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
-        <target state="needs-translation">Edit favorite</target>
+        <target state="translated">Favorileri düzenle</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
-        <target state="needs-translation">Failed to resolve location</target>
+        <target state="translated">Konum çözümlenemedi</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link">
         <source>Failed to resolve link</source>
-        <target state="needs-translation">Failed to resolve link</target>
+        <target state="translated">Bağlantı çözümlenemedi</target>
       </trans-unit>
       <trans-unit id="get_off">
         <source>Get Off</source>
-        <target state="needs-translation">Get Off</target>
+        <target state="translated">İn</target>
       </trans-unit>
       <trans-unit id="first">
         <source>First:</source>
-        <target state="needs-translation">First:</target>
+        <target state="translated">İlk:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
-        <target state="needs-translation">Filter by service name, number or stop</target>
+        <target state="translated">Servis adına, numaraya veya durağa göre filtrele</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
-        <target state="needs-translation">Go Here</target>
+        <target state="translated">Buraya gidin</target>
       </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
-        <target state="needs-translation">Get On</target>
+        <target state="translated">Bin</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target state="needs-translation">Information on concession pricing is subject to availability.</target>
+        <target state="translated">Ayrıcalık fiyatlandırmasına ilişkin bilgiler mevcudiyet durumuna bağlıdır.</target>
       </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
-        <target state="needs-translation">It's time to leave!</target>
+        <target state="translated">Ayrılma zamanı!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time">
         <source>Leave now to make it on time</source>
-        <target state="needs-translation">Leave now to make it on time</target>
+        <target state="translated">Zamanında yapmak için şimdi ayrılın</target>
       </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
-        <target state="needs-translation">Go to Now</target>
+        <target state="translated">Şimdi Git</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target state="needs-translation">Events from those calendars will be used in planning your day</target>
+        <target state="translated">Bu takvimlerden gelen etkinlikler günün planlamasında kullanılacak</target>
       </trans-unit>
       <trans-unit id="minute">
         <source>1 minute</source>
-        <target state="translated">1 phút</target>
+        <target state="translated">1 dakika</target>
       </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
-        <target state="needs-translation">New vehicle</target>
+        <target state="translated">Yeni araç</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
-        <target state="needs-translation">Location Not Found</target>
+        <target state="translated">Konum Bulunamadı</target>
       </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
-        <target state="needs-translation">Location selected</target>
+        <target state="translated">Seçilen konum</target>
       </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
-        <target state="needs-translation">No ratings received</target>
+        <target state="translated">Hiç değerlendirme yok</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
-        <target state="needs-translation">No services available</target>
+        <target state="translated">Hizmet yok</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved">
         <source>No favorite locations saved</source>
-        <target state="needs-translation">No favorite locations saved</target>
+        <target state="translated">Favori konum kaydedilmedi</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target state="needs-translation">There was an error and it was reported to us. Please try again</target>
+        <target state="translated">Bir hata oluştu ve bize bildirildi. Lütfen tekrar deneyin</target>
       </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
-        <target state="needs-translation">origin</target>
+        <target state="translated">menşei</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target state="needs-translation">Sorry, that location is outside of TripGo's range!</target>
+        <target state="translated">Üzgünüz, bu konum TripGo'nun menzili dışında!</target>
       </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
-        <target state="needs-translation">Remove from favorites</target>
+        <target state="translated">Favorilerden çıkar</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
-        <target state="needs-translation">Refresh</target>
+        <target state="translated">Yenile</target>
       </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
-        <target state="needs-translation">Set end time</target>
+        <target state="translated">Bitiş saatini ayarla</target>
       </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
-        <target state="needs-translation">Select calendars</target>
+        <target state="translated">Takvimleri seçin</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Kaydet</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
@@ -200,205 +200,205 @@
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
-        <target state="needs-translation">Notifications</target>
+        <target state="translated">Bildirimler</target>
       </trans-unit>
       <trans-unit id="settings_category_about">
         <source>About</source>
-        <target state="needs-translation">About</target>
+        <target state="translated">Hakkında</target>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
-        <target state="needs-translation">Set time</target>
+        <target state="translated">Saati ayarla</target>
       </trans-unit>
       <trans-unit id="set_start_time">
         <source>Set start time</source>
-        <target state="needs-translation">Set start time</target>
+        <target state="translated">Başlangıç zamanını ayarla</target>
       </trans-unit>
       <trans-unit id="set_location">
         <source>Set Location</source>
-        <target state="needs-translation">Set Location</target>
+        <target state="translated">Konumu Ayarla</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
-        <target state="needs-translation">Show an alert to leave at the start of a trip</target>
+        <target state="translated">Yolculuğun başında ayrılmak için bir uyarı göster</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target state="needs-translation">Show an alert before any public transport on your trip</target>
+        <target state="translated">Seyahatinizdeki herhangi bir toplu taşıma aracından önce bir uyarı gösterin</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target state="needs-translation">Show service alerts which affect your upcoming trips</target>
+        <target state="translated">Yaklaşan seyahatlerinizi etkileyen servis uyarılarını gösterin</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target state="needs-translation">Show an alert towards the end of any public transport on your trip</target>
+        <target state="translated">Seyahatinizdeki herhangi bir toplu taşıma aracının sonuna doğru bir uyarı gösterin</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
-        <target state="needs-translation">Start of trip</target>
+        <target state="translated">Yolculuğun başlangıcı</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
-        <target state="needs-translation">Start of public transport</target>
+        <target state="translated">Toplu taşıma başlangıcı</target>
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
-        <target state="needs-translation">Server</target>
+        <target state="translated">Sunucu</target>
       </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Sürüm</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
-        <target state="needs-translation">Cycling speed</target>
+        <target state="translated">Döngü hızı</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
-        <target state="needs-translation">End of public transport</target>
+        <target state="translated">Toplu taşıma bitişi</target>
       </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
-        <target state="needs-translation">Sorted by Price</target>
+        <target state="translated">Fiyata göre sırala</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
-        <target state="needs-translation">Sorted by Preferred</target>
+        <target state="translated">Tercih Edilen Sıralama</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
-        <target state="needs-translation">Error downloading services</target>
+        <target state="translated">Hizmetler indirilirken hata oluştu</target>
       </trans-unit>
       <trans-unit id="share_this_result">
         <source>Share this result</source>
-        <target state="needs-translation">Share this result</target>
+        <target state="translated">Bu sonucu Paylaş</target>
       </trans-unit>
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
-        <target state="needs-translation">Share timetable info</target>
+        <target state="translated">Tarife bilgisini paylaş</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
-        <target state="needs-translation">Sort By</target>
+        <target state="translated">Şuna göre sırala</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival">
         <source>Sorted by Arrival</source>
-        <target state="needs-translation">Sorted by Arrival</target>
+        <target state="translated">Varış noktasına göre sıralandı</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure">
         <source>Sorted by Departure</source>
-        <target state="needs-translation">Sorted by Departure</target>
+        <target state="translated">Kalkışa Göre Sıralandı</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration">
         <source>Sorted by Duration</source>
-        <target state="needs-translation">Sorted by Duration</target>
+        <target state="translated">Süreye Göre Sıralandı</target>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
-        <target state="needs-translation">View on Yelp</target>
+        <target state="translated">Yelp'te görüntüle</target>
       </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
-        <target state="needs-translation">Upcoming Services</target>
+        <target state="translated">Gelecek Hizmetler</target>
       </trans-unit>
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
-        <target state="needs-translation">Unknown location</target>
+        <target state="translated">Bilinmeyen konum</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target state="needs-translation">Waiting for location signal, if fails, you can try turning your GPS off and on..</target>
+        <target state="translated">Konum sinyali bekleniyor, başarısız olursa GPS'inizi açıp açmayı deneyebilirsiniz..</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
-        <target state="needs-translation">View timetable of upcoming services</target>
+        <target state="translated">Yaklaşan servislerin zaman çizelgesini görüntüleyin</target>
       </trans-unit>
       <trans-unit id="tomorrow">
         <source>Tomorrow</source>
-        <target state="needs-translation">Tomorrow</target>
+        <target state="translated">Yarın</target>
       </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
-        <target state="needs-translation">Today</target>
+        <target state="translated">Bugün</target>
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
-        <target state="needs-translation">No services found for this stop</target>
+        <target state="translated">Bu durak için hizmet bulunamadı</target>
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
-        <target state="needs-translation">Trip to %s</target>
+        <target state="translated">%s Seyahati</target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
-        <target state="needs-translation">Yesterday</target>
+        <target state="translated">Dün</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
-        <target state="needs-translation">Your trip is about to start</target>
+        <target state="translated">Seyahatiniz başlamak üzere</target>
       </trans-unit>
       <trans-unit id="you_are_here">
         <source>You are here</source>
-        <target state="needs-translation">You are here</target>
+        <target state="translated">Buradasınız</target>
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target state="needs-translation">News</target>
+        <target state="translated">Haber</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target state="needs-translation">Include in trips</target>
+        <target state="translated">Gezilere dahil et</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target state="needs-translation">%s slots available</target>
+        <target state="translated">%s yer mevcut</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
           available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target state="needs-translation">%s slot available</target>
+        <target state="translated">%s yer mevcut</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target state="needs-translation">No slot available</target>
+        <target state="translated">Kullanılabilir yer yok</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target state="needs-translation">Updated at: %s</target>
+        <target state="translated">Güncelleme: %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target state="needs-translation">Almost full</target>
+        <target state="translated">Hemen hemen dolu</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="got_it">
         <source>Got it</source>
-        <target state="needs-translation">Got it</target>
+        <target state="translated">Anladım</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen">
         <source>See your favourites on your home screen!</source>
-        <target state="needs-translation">See your favourites on your home screen!</target>
+        <target state="translated">Favorilerinizi ana ekranda görün!</target>
         <note>Add favourite direct access message</note>
       </trans-unit>
       <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target state="needs-translation">You can quickly access your favourite locations from your launcher.</target>
+        <target state="translated">Başlatıcıda hızlı bir şekilde favori yerlerinize erişebilirsiniz.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target state="needs-translation">Just tap %1$s then '%2$s'</target>
+        <target state="translated">Sadece %1$s ve '%2$s' öğesine dokunun</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>

@@ -2,515 +2,560 @@
 <xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file datatype="plaintext" original="input strategy" source-language="en" target-language="fi">
     <body>
-      <trans-unit id="access_to_your_calendar">
+      <trans-unit id="access_to_your_calendar" approved="yes">
         <source>Access to your calendar is required</source>
-        <target xml:lang="fi" state="translated">Pääsy kalenteriin tarvitaan</target>
+        <target state="final">Pääsy kalenteriin tarvitaan</target>
       </trans-unit>
-      <trans-unit id="access_to_your_contacts">
+      <trans-unit id="access_to_your_contacts" approved="yes">
         <source>Access to your contacts is required</source>
-        <target xml:lang="fi" state="translated">Pääsy yhteyshenkilöihin tarvitaan</target>
+        <target state="final">Pääsy yhteystietoihin tarvitaan</target>
+        <alt-trans>
+          <target>Pääsy yhteyshenkilöihin tarvitaan</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="add">
+      <trans-unit id="add" approved="yes">
         <source>Add</source>
-        <target xml:lang="fi" state="translated">Lisää</target>
+        <target state="final">Lisää</target>
         <alt-trans>
-          <target xml:lang="fi">Valitse</target>
+          <target>Valitse</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="add_location">
+      <trans-unit id="add_location" approved="yes">
         <source>Add Location</source>
-        <target xml:lang="fi" state="translated">Lisää sijainti</target>
+        <target state="final">Lisää sijainti</target>
       </trans-unit>
-      <trans-unit id="add_to_contacts">
+      <trans-unit id="add_to_contacts" approved="yes">
         <source>Add to contacts</source>
-        <target xml:lang="fi" state="translated">Lisää yhteystietoihin</target>
+        <target state="final">Lisää yhteystietoihin</target>
       </trans-unit>
-      <trans-unit id="add_to_home_screen">
+      <trans-unit id="add_to_home_screen" approved="yes">
         <source>Add to Home screen</source>
-        <target xml:lang="fi" state="translated">Lisää päänäytölle</target>
+        <target state="final">Lisää päänäytölle</target>
         <alt-trans>
-          <target xml:lang="fi">Lisää koti -ruudulle</target>
+          <target>Lisää koti -ruudulle</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="agenda_tip">
+      <trans-unit id="agenda_tip" approved="yes">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target xml:lang="fi" state="translated">Katso päivän agenda ja suosikit allaolevista välilehdistä</target>
+        <target state="final">Katso päivän agenda ja suosikit allaolevista välilehdistä</target>
         <alt-trans>
-          <target xml:lang="fi">Katso päivän asialista ja suosikit allaolevista välilehdistä</target>
+          <target>Katso päivän asialista ja suosikit allaolevista välilehdistä</target>
         </alt-trans>
         <alt-trans>
-          <target xml:lang="fi">Katso päivittäinen agenda ja suosikit allaolevista välilehdistä</target>
+          <target>Katso päivittäinen agenda ja suosikit allaolevista välilehdistä</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="all_alerts">
+      <trans-unit id="all_alerts" approved="yes">
         <source>All Alerts</source>
-        <target xml:lang="fi" state="translated">Kaikki ilmoitukset</target>
+        <target state="final">Kaikki ilmoitukset</target>
         <alt-trans>
-          <target xml:lang="fi">Kaikki hälytykset</target>
+          <target>Kaikki hälytykset</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="all_cals_invisible">
+      <trans-unit id="all_cals_invisible" approved="yes">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target xml:lang="fi" state="translated">Kalenterisi eivät ole saatavilla. Ole hyvä, laita ne päälle laitteesi kalenterin asetuksista</target>
+        <target state="final">Kalenterisi eivät ole saatavilla. Ole hyvä, laita ne päälle laitteesi kalenterin asetuksista</target>
       </trans-unit>
-      <trans-unit id="an_unexpected_network_error">
+      <trans-unit id="an_unexpected_network_error" approved="yes">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target xml:lang="fi" state="translated">Tapahtui odottamaton verkkovirhe. Ole hyvä, yritä uudelleen.</target>
+        <target state="final">Tapahtui odottamaton verkkovirhe. Ole hyvä, ja yritä uudelleen.</target>
+        <alt-trans>
+          <target>Tapahtui odottamaton verkkovirhe. Ole hyvä, yritä uudelleen.</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="approximately_s_away">
+      <trans-unit id="approximately_s_away" approved="yes">
         <source>Approximately %s away</source>
-        <target xml:lang="fi" state="translated">Noin %s etäisyydellä</target>
+        <target state="final">Noin %s etäisyydellä</target>
         <alt-trans>
-          <target xml:lang="fi">Noin %s päässä</target>
+          <target>Noin %s päässä</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="arrivaltimeindication">
+      <trans-unit id="arrivaltimeindication" approved="yes">
         <source>" (arrive "</source>
-        <target xml:lang="fi" state="translated">" (saapuu "</target>
+        <target state="final">" (saapuu "</target>
       </trans-unit>
-      <trans-unit id="booking">
+      <trans-unit id="booking" approved="yes">
         <source>Booking</source>
-        <target xml:lang="fi" state="translated">Varaaminen</target>
+        <target state="final">Varaaminen</target>
         <alt-trans>
-          <target xml:lang="fi">Tilaaminen</target>
+          <target>Tilaaminen</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="cannot_add_reminder_for_past_trip">
+      <trans-unit id="cannot_add_reminder_for_past_trip" approved="yes">
         <source>Cannot add reminder for past trip</source>
-        <target xml:lang="fi" state="translated">Muistutusta ei voida lisätä vanhentuneelle matkalle</target>
+        <target state="final">Muistutusta ei voida lisätä menneelle matkalle</target>
         <alt-trans>
-          <target xml:lang="fi">Ei voitu lisätä muistutusta vanhalle matkalle</target>
+          <target>Ei voitu lisätä muistutusta vanhalle matkalle</target>
+        </alt-trans>
+        <alt-trans>
+          <target>Muistutusta ei voida lisätä vanhentuneelle matkalle</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="cant_call_error">
+      <trans-unit id="cant_call_error" approved="yes">
         <source>Error placing call</source>
-        <target xml:lang="fi" state="translated">Kutsu epäonnistui</target>
+        <target state="final">Kutsu epäonnistui</target>
         <alt-trans>
-          <target xml:lang="fi">Kutsussa ilmeni virhe</target>
+          <target>Kutsussa ilmeni virhe</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="coordinates_s">
+      <trans-unit id="coordinates_s" approved="yes">
         <source>Coordinates: %s</source>
-        <target xml:lang="fi" state="translated">Koordinaatit: %s</target>
+        <target state="final">Koordinaatit: %s</target>
       </trans-unit>
-      <trans-unit id="couldnt_find_curr_loc">
+      <trans-unit id="couldnt_find_curr_loc" approved="yes">
         <source>Couldn't find your current location</source>
-        <target xml:lang="fi" state="translated">Tämänhetkistä sijaintiasi ei löytynyt</target>
+        <target state="final">Tämänhetkistä sijaintiasi ei löytynyt</target>
         <alt-trans>
-          <target xml:lang="fi">Sijaintiasi ei löytynyt</target>
+          <target>Sijaintiasi ei löytynyt</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="destination">
+      <trans-unit id="destination" approved="yes">
         <source>destination</source>
-        <target xml:lang="fi" state="translated">määränpää</target>
+        <target state="final">määränpää</target>
         <alt-trans>
-          <target xml:lang="fi">Kohde</target>
+          <target>Kohde</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="delete_vehicle">
+      <trans-unit id="delete_vehicle" approved="yes">
         <source>Delete this vehicle</source>
-        <target xml:lang="fi" state="translated">Poista tämä ajoneuvo</target>
+        <target state="final">Poista tämä ajoneuvo</target>
         <alt-trans>
-          <target xml:lang="fi">Poista ajoneuvo</target>
+          <target>Poista ajoneuvo</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="edit">
+      <trans-unit id="edit" approved="yes">
         <source>Edit</source>
-        <target xml:lang="fi" state="translated">Muokkaa</target>
+        <target state="final">Muokkaa</target>
       </trans-unit>
-      <trans-unit id="edit_favourite">
+      <trans-unit id="edit_favourite" approved="yes">
         <source>Edit favorite</source>
-        <target xml:lang="fi" state="translated">Muokkaa suosikkia</target>
+        <target state="final">Muokkaa suosikkia</target>
       </trans-unit>
-      <trans-unit id="failed_2_resolve_location">
+      <trans-unit id="failed_2_resolve_location" approved="yes">
         <source>Failed to resolve location</source>
-        <target xml:lang="fi" state="translated">Sijaintia ei voitu selvittää</target>
+        <target state="final">Sijaintia ei voitu selvittää</target>
         <alt-trans>
-          <target xml:lang="fi">Emme voineet selvittää sijaintia</target>
+          <target>Emme voineet selvittää sijaintia</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="failed_2_resolve_link">
+      <trans-unit id="failed_2_resolve_link" approved="yes">
         <source>Failed to resolve link</source>
-        <target xml:lang="fi" state="translated">Linkkiä ei voitu avata</target>
+        <target state="final">Linkkiä ei voitu avata</target>
       </trans-unit>
-      <trans-unit id="get_off">
+      <trans-unit id="get_off" approved="yes">
         <source>Get Off</source>
-        <target xml:lang="fi" state="translated">Jää kyydistä</target>
+        <target state="final">Jää kyydistä</target>
         <alt-trans>
-          <target xml:lang="fi">Jää pois</target>
+          <target>Jää pois</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="first">
+      <trans-unit id="first" approved="yes">
         <source>First:</source>
-        <target xml:lang="fi" state="translated">Ensimmäinen:</target>
+        <target state="final">Ensimmäinen:</target>
       </trans-unit>
-      <trans-unit id="filter_timetable_hint">
+      <trans-unit id="filter_timetable_hint" approved="yes">
         <source>Filter by service name, number or stop</source>
-        <target xml:lang="fi" state="translated">Suodata yhteyden nimen, numeron tai pysäkin mukaan</target>
+        <target state="final">Suodata yhteyden nimen, numeron tai pysäkin mukaan</target>
       </trans-unit>
-      <trans-unit id="go_here">
+      <trans-unit id="go_here" approved="yes">
         <source>Go Here</source>
-        <target xml:lang="fi" state="translated">Mene tänne</target>
+        <target state="final">Mene tänne</target>
       </trans-unit>
-      <trans-unit id="get_on">
+      <trans-unit id="get_on" approved="yes">
         <source>Get On</source>
-        <target xml:lang="fi" state="translated">Hyppää kyytiin</target>
+        <target state="final">Nouse kyytiin</target>
         <alt-trans>
-          <target xml:lang="fi">Hypäää kyytiin</target>
+          <target>Hyppää kyytiin</target>
+        </alt-trans>
+        <alt-trans>
+          <target>Hypäää kyytiin</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
+      <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot" approved="yes">
         <source>Information on concession pricing is subject to availability.</source>
-        <target xml:lang="fi" state="translated">Tiedot erikoishinnoittelusta perustuvat niiden saatavuuteen.</target>
+        <target state="final">Tiedot erikoishinnoittelusta perustuvat niiden saatavuuteen.</target>
       </trans-unit>
-      <trans-unit id="its_time_to_leave">
+      <trans-unit id="its_time_to_leave" approved="yes">
         <source>It's time to leave!</source>
-        <target xml:lang="fi" state="translated">Aika lähteä!</target>
+        <target state="final">Aika lähteä!</target>
       </trans-unit>
-      <trans-unit id="leave_now_to_make_on_time">
+      <trans-unit id="leave_now_to_make_on_time" approved="yes">
         <source>Leave now to make it on time</source>
-        <target xml:lang="fi" state="translated">Lähde nyt ollaksesi ajoissa</target>
+        <target state="final">Lähde nyt ollaksesi ajoissa</target>
+        <alt-trans>
+          <target>Lähde nyt ehtiäksesi ajoissa</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="go_to_now">
+      <trans-unit id="go_to_now" approved="yes">
         <source>Go to Now</source>
-        <target xml:lang="fi" state="translated">Mene kohtaan 'Nyt'</target>
+        <target state="final">Mene kohtaan Nyt</target>
+        <alt-trans>
+          <target>Mene kohtaan 'Nyt'</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="include_cal_explanation">
+      <trans-unit id="include_cal_explanation" approved="yes">
         <source>Events from those calendars will be used in planning your day</source>
-        <target xml:lang="fi" state="translated">Tapahtumia näistä kalentereista käytetään päiväsi suunnitteluun</target>
+        <target state="final">Tapahtumia näistä kalentereista käytetään päiväsi suunnitteluun</target>
       </trans-unit>
-      <trans-unit id="minute">
+      <trans-unit id="minute" approved="yes">
         <source>1 minute</source>
-        <target xml:lang="fi" state="translated">1 minuutti</target>
+        <target state="final">1 minuutti</target>
       </trans-unit>
-      <trans-unit id="new_vehicle">
+      <trans-unit id="new_vehicle" approved="yes">
         <source>New vehicle</source>
-        <target xml:lang="fi" state="translated">Uusi ajoneuvo</target>
+        <target state="final">Uusi ajoneuvo</target>
       </trans-unit>
-      <trans-unit id="location_not_found">
+      <trans-unit id="location_not_found" approved="yes">
         <source>Location Not Found</source>
-        <target xml:lang="fi" state="translated">Sijaintia ei löytynyt</target>
+        <target state="final">Sijaintia ei löytynyt</target>
         <alt-trans>
-          <target xml:lang="fi">Sijaintia ei löydy</target>
+          <target>Sijaintia ei löydy</target>
         </alt-trans>
         <alt-trans>
-          <target xml:lang="fi">Määränpäätä ei löydy</target>
+          <target>Määränpäätä ei löydy</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="location_selected">
+      <trans-unit id="location_selected" approved="yes">
         <source>Location selected</source>
-        <target xml:lang="fi" state="translated">Sijainti valittu</target>
+        <target state="final">Sijainti valittu</target>
       </trans-unit>
-      <trans-unit id="no_ratings_received">
+      <trans-unit id="no_ratings_received" approved="yes">
         <source>No ratings received</source>
-        <target xml:lang="fi" state="translated">Ei vastaanotettuja arvosteluja</target>
+        <target state="final">Ei vastaanotettuja arvosteluja</target>
         <alt-trans>
-          <target xml:lang="fi">Ei vastaanotettuja luokituksia</target>
+          <target>Ei vastaanotettuja luokituksia</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="no_services_available">
+      <trans-unit id="no_services_available" approved="yes">
         <source>No services available</source>
-        <target xml:lang="fi" state="translated">Yhteyksiä ei saatavilla</target>
+        <target state="final">Yhteyksiä ei saatavilla</target>
       </trans-unit>
-      <trans-unit id="no_favourites_saved">
+      <trans-unit id="no_favourites_saved" approved="yes">
         <source>No favorite locations saved</source>
-        <target xml:lang="fi" state="translated">Ei tallennettuja Suosikkisijainteja</target>
+        <target state="final">Ei tallennettuja suosikkisijainteja</target>
+        <alt-trans>
+          <target>Ei tallennettuja Suosikkisijainteja</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="nicely_informed_error">
+      <trans-unit id="nicely_informed_error" approved="yes">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target xml:lang="fi" state="translated">Tapahtui virhe, josta saimme ilmoituksen. Ole hyvä, yritä uudelleen</target>
+        <target state="final">Tapahtui virhe, josta saimme ilmoituksen. Ole hyvä, ja yritä uudelleen</target>
         <alt-trans>
-          <target xml:lang="fi">Tapahtui virhe, josta saimmme ilmoituksen. Ole hyvä, ja kokeile uudestaan.</target>
+          <target>Tapahtui virhe, josta saimmme ilmoituksen. Ole hyvä, ja kokeile uudestaan.</target>
+        </alt-trans>
+        <alt-trans>
+          <target>Tapahtui virhe, josta saimme ilmoituksen. Ole hyvä, yritä uudelleen</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="origin">
+      <trans-unit id="origin" approved="yes">
         <source>origin</source>
-        <target xml:lang="fi" state="translated">Lähtö</target>
+        <target state="final">alkuperä</target>
+        <alt-trans>
+          <target>Lähtö</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="outside_region_error">
+      <trans-unit id="outside_region_error" approved="yes">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target xml:lang="fi" state="translated">Pahoittelut, sijainti on TripGon ulkopuolella!</target>
+        <target state="final">Pahoittelut, sijainti on TripGon ulkopuolella!</target>
       </trans-unit>
-      <trans-unit id="remove_from_favourites">
+      <trans-unit id="remove_from_favourites" approved="yes">
         <source>Remove from favorites</source>
-        <target xml:lang="fi" state="translated">Poista suosikeista</target>
+        <target state="final">Poista suosikeista</target>
       </trans-unit>
-      <trans-unit id="refresh">
+      <trans-unit id="refresh" approved="yes">
         <source>Refresh</source>
-        <target xml:lang="fi" state="translated">Päivitä</target>
+        <target state="final">Päivitä</target>
       </trans-unit>
-      <trans-unit id="set_end_time">
+      <trans-unit id="set_end_time" approved="yes">
         <source>Set end time</source>
-        <target xml:lang="fi" state="translated">Aseta loppumisaika</target>
+        <target state="final">Aseta loppumisaika</target>
         <alt-trans>
-          <target xml:lang="fi">Määritä loppumisaika</target>
+          <target>Määritä loppumisaika</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="select_calendars">
+      <trans-unit id="select_calendars" approved="yes">
         <source>Select calendars</source>
-        <target xml:lang="fi" state="translated">Valitse kalenterit</target>
+        <target state="final">Valitse kalenterit</target>
       </trans-unit>
-      <trans-unit id="save">
+      <trans-unit id="save" approved="yes">
         <source>Save</source>
-        <target xml:lang="fi" state="translated">Tallenna</target>
+        <target state="final">Tallenna</target>
       </trans-unit>
-      <trans-unit id="routine_explanation">
+      <trans-unit id="routine_explanation" approved="yes">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target xml:lang="fi" state="translated">Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan</target>
+        <target state="final">Rutiinit ovat osa päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan</target>
+        <alt-trans>
+          <target>Rutiinit ovat merkintä päivittäisestä liikkumisestasi, mutta ne eivät eivät lukeudu tapahtumiin, jotka merkitset kalenteriisi (esim. töihin meno). Ne ovat tärkeitä Agendaa varten, joka varmistaa että pääset oikeaan paikkaan oikeaan aikaan</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="settings_category_reminders">
+      <trans-unit id="settings_category_reminders" approved="yes">
         <source>Notifications</source>
-        <target xml:lang="fi" state="translated">Muistutukset</target>
+        <target state="final">Muistutukset</target>
       </trans-unit>
-      <trans-unit id="settings_category_about">
+      <trans-unit id="settings_category_about" approved="yes">
         <source>About</source>
-        <target xml:lang="fi" state="translated">Lisätiedot</target>
+        <target state="final">Lisätiedot</target>
       </trans-unit>
-      <trans-unit id="set_time">
+      <trans-unit id="set_time" approved="yes">
         <source>Set time</source>
-        <target xml:lang="fi" state="translated">Aseta aika</target>
+        <target state="final">Aseta aika</target>
       </trans-unit>
-      <trans-unit id="set_start_time">
+      <trans-unit id="set_start_time" approved="yes">
         <source>Set start time</source>
-        <target xml:lang="fi" state="translated">Aseta aloitusaika</target>
+        <target state="final">Aseta aloitusaika</target>
       </trans-unit>
-      <trans-unit id="set_location">
+      <trans-unit id="set_location" approved="yes">
         <source>Set Location</source>
-        <target xml:lang="fi" state="translated">Aseta sijainti</target>
+        <target state="final">Aseta sijainti</target>
       </trans-unit>
-      <trans-unit id="settings_summary_reminder_start_off_trip">
+      <trans-unit id="settings_summary_reminder_start_off_trip" approved="yes">
         <source>Show an alert to leave at the start of a trip</source>
-        <target xml:lang="fi" state="translated">Näytä lähtömuistutus matkan alussa</target>
+        <target state="final">Näytä lähtömuistutus matkan alussa</target>
       </trans-unit>
-      <trans-unit id="settings_summary_reminder_start_pub_trans">
+      <trans-unit id="settings_summary_reminder_start_pub_trans" approved="yes">
         <source>Show an alert before any public transport on your trip</source>
-        <target xml:lang="fi" state="translated">Näytä muistutus aina ennen vaihtamista julkiseen liikenteeseen</target>
+        <target state="final">Näytä muistutus aina ennen vaihtamista julkiseen liikenteeseen</target>
         <alt-trans>
-          <target xml:lang="fi">Näytä ilmoitus julkisesta liikenteestä matkallasi</target>
+          <target>Näytä ilmoitus julkisesta liikenteestä matkallasi</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="settings_summary_reminder_service_alerts">
+      <trans-unit id="settings_summary_reminder_service_alerts" approved="yes">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target xml:lang="fi" state="translated">Näytä poikkeustiedotteet, jotka vaikuttavat tuleviin matkoihin</target>
+        <target state="final">Näytä poikkeustiedotteet, jotka vaikuttavat tuleviin matkoihin</target>
         <alt-trans>
-          <target xml:lang="fi">Näytä yhteysilmoitukset, jotka vaikuttavat tuleviin matkoihin</target>
+          <target>Näytä yhteysilmoitukset, jotka vaikuttavat tuleviin matkoihin</target>
         </alt-trans>
         <alt-trans>
-          <target xml:lang="fi">Näytä yhteyshälytykset, jotka vaikuttavat tuleviin matkoihin</target>
+          <target>Näytä yhteyshälytykset, jotka vaikuttavat tuleviin matkoihin</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="settings_summary_reminder_end_pub_trans">
+      <trans-unit id="settings_summary_reminder_end_pub_trans" approved="yes">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target xml:lang="fi" state="translated">Näytä muistutus julkisella liikenteellä kuljetun etapin loppuessa</target>
+        <target state="final">Näytä muistutus julkisella liikenteellä kuljetun etapin loppuessa</target>
         <alt-trans>
-          <target xml:lang="fi">Näytä muistutus julkisen liikenteen loppuessa matkallasi</target>
+          <target>Näytä muistutus julkisen liikenteen loppuessa matkallasi</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_start_off_trip">
+      <trans-unit id="settings_title_reminder_start_off_trip" approved="yes">
         <source>Start of trip</source>
-        <target xml:lang="fi" state="translated">Matkan alku</target>
+        <target state="final">Matkan alku</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_start_pub_trans">
+      <trans-unit id="settings_title_reminder_start_pub_trans" approved="yes">
         <source>Start of public transport</source>
-        <target xml:lang="fi" state="translated">Julkisen liikenteen osio alkaa</target>
+        <target state="final">Julkisen liikenteen osio alkaa</target>
         <alt-trans>
-          <target xml:lang="fi">Julkisen liikenteen osion alku</target>
+          <target>Julkisen liikenteen osion alku</target>
         </alt-trans>
         <alt-trans>
-          <target xml:lang="fi">Julkisen liikenteen alku</target>
+          <target>Julkisen liikenteen alku</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="settings_title_server">
+      <trans-unit id="settings_title_server" approved="yes">
         <source>Server</source>
-        <target xml:lang="fi" state="translated">Palvelin</target>
+        <target state="final">Palvelin</target>
       </trans-unit>
-      <trans-unit id="settings_title_version">
+      <trans-unit id="settings_title_version" approved="yes">
         <source>Version</source>
-        <target xml:lang="fi" state="translated">Versio</target>
+        <target state="final">Versio</target>
       </trans-unit>
-      <trans-unit id="settings_title_cycling_speed">
+      <trans-unit id="settings_title_cycling_speed" approved="yes">
         <source>Cycling speed</source>
-        <target xml:lang="fi" state="translated">Pyöräilynopeus</target>
+        <target state="final">Pyöräilynopeus</target>
       </trans-unit>
-      <trans-unit id="settings_title_reminder_end_pub_trans">
+      <trans-unit id="settings_title_reminder_end_pub_trans" approved="yes">
         <source>End of public transport</source>
-        <target xml:lang="fi" state="translated">Julkisen liikenteen osio päättyy</target>
+        <target state="final">Julkisen liikenteen osio päättyy</target>
         <alt-trans>
-          <target xml:lang="fi">Julkinen liikenne päättyy</target>
+          <target>Julkinen liikenne päättyy</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="sorted_by_price">
+      <trans-unit id="sorted_by_price" approved="yes">
         <source>Sorted by Price</source>
-        <target xml:lang="fi" state="translated">Lajiteltu hinnan mukaan</target>
+        <target state="final">Lajiteltu hinnan mukaan</target>
       </trans-unit>
-      <trans-unit id="sorted_by_preferred">
+      <trans-unit id="sorted_by_preferred" approved="yes">
         <source>Sorted by Preferred</source>
-        <target xml:lang="fi" state="translated">Lajiteltu suosituksen mukaan</target>
+        <target state="final">Lajiteltu suosituksen mukaan</target>
         <alt-trans>
-          <target xml:lang="fi">Lajiteltu ensisijaisten mukaan</target>
+          <target>Lajiteltu ensisijaisten mukaan</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="timetable_download_error">
+      <trans-unit id="timetable_download_error" approved="yes">
         <source>Error downloading services</source>
-        <target xml:lang="fi" state="translated">Yhteyksien lataamisessa tapahtui virhe</target>
+        <target state="final">Yhteyksien lataamisessa tapahtui virhe</target>
         <alt-trans>
-          <target xml:lang="fi">Yhteyksien lataamisessa havaittiin virhe</target>
+          <target>Yhteyksien lataamisessa havaittiin virhe</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="share_this_result">
+      <trans-unit id="share_this_result" approved="yes">
         <source>Share this result</source>
-        <target xml:lang="fi" state="translated">Jaa hakutulos</target>
+        <target state="final">Jaa hakutulos</target>
       </trans-unit>
-      <trans-unit id="share_timetable">
+      <trans-unit id="share_timetable" approved="yes">
         <source>Share timetable info</source>
-        <target xml:lang="fi" state="translated">Jaa aikataulun tiedot</target>
+        <target state="final">Jaa aikataulun tiedot</target>
       </trans-unit>
-      <trans-unit id="sort_by">
+      <trans-unit id="sort_by" approved="yes">
         <source>Sort By</source>
-        <target xml:lang="fi" state="translated">Lajittele</target>
+        <target state="final">Lajittele</target>
       </trans-unit>
-      <trans-unit id="sorted_by_arrival">
+      <trans-unit id="sorted_by_arrival" approved="yes">
         <source>Sorted by Arrival</source>
-        <target xml:lang="fi" state="translated">Lajiteltu saapumisajan mukaan</target>
+        <target state="final">Lajiteltu saapumisajan mukaan</target>
         <alt-trans>
-          <target xml:lang="fi">Lajittelu saapumisajan mukaan</target>
+          <target>Lajittelu saapumisajan mukaan</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="sorted_by_departure">
+      <trans-unit id="sorted_by_departure" approved="yes">
         <source>Sorted by Departure</source>
-        <target xml:lang="fi" state="translated">Lajiteltu lähtöajan mukaan</target>
+        <target state="final">Lajiteltu lähtöajan mukaan</target>
         <alt-trans>
-          <target xml:lang="fi">Lajittelu lähtöajan mukaan</target>
+          <target>Lajittelu lähtöajan mukaan</target>
         </alt-trans>
         <alt-trans>
-          <target xml:lang="fi">Lajiteltu lähtöajoittain</target>
+          <target>Lajiteltu lähtöajoittain</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="sorted_by_duration">
+      <trans-unit id="sorted_by_duration" approved="yes">
         <source>Sorted by Duration</source>
-        <target xml:lang="fi" state="translated">Lajiteltu keston mukaan</target>
+        <target state="final">Lajiteltu keston mukaan</target>
         <alt-trans>
-          <target xml:lang="fi">Lajittelu keston mukaan</target>
+          <target>Lajittelu keston mukaan</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="view_on_yelp">
+      <trans-unit id="view_on_yelp" approved="yes">
         <source>View on Yelp</source>
-        <target xml:lang="fi" state="translated">Näytä Yelpissä</target>
+        <target state="final">Näytä Yelpissä</target>
       </trans-unit>
-      <trans-unit id="upcoming_services">
+      <trans-unit id="upcoming_services" approved="yes">
         <source>Upcoming Services</source>
-        <target xml:lang="fi" state="translated">Tulevat yhteydet</target>
+        <target state="final">Tulevat yhteydet</target>
       </trans-unit>
-      <trans-unit id="unknown_location">
+      <trans-unit id="unknown_location" approved="yes">
         <source>Unknown location</source>
-        <target xml:lang="fi" state="translated">Tuntematon sijainti</target>
+        <target state="final">Tuntematon sijainti</target>
       </trans-unit>
-      <trans-unit id="waiting_for_gps_fix">
+      <trans-unit id="waiting_for_gps_fix" approved="yes">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target xml:lang="fi" state="translated">Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen päälle..</target>
+        <target state="final">Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen takaisin päälle..</target>
         <alt-trans>
-          <target xml:lang="fi">Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..</target>
+          <target>Odottaa sijaintitietoa. Jos signaalia ei löydy, kytke GPS ensin pois päältä ja jälleen päälle..</target>
+        </alt-trans>
+        <alt-trans>
+          <target>Odottaa sijaintitietoa, jos epäonnistuu, yritä vielä laittamalla GPS pois päältä ja jälleen päälle..</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="view_timetable_for_stop">
+      <trans-unit id="view_timetable_for_stop" approved="yes">
         <source>View timetable of upcoming services</source>
-        <target xml:lang="fi" state="translated">Näytä tulevien yhteyksien aikataulut</target>
+        <target state="final">Näytä tulevien yhteyksien aikataulut</target>
         <alt-trans>
-          <target xml:lang="fi">Näytä tulevien yhteyksien aikataulu</target>
+          <target>Näytä tulevien yhteyksien aikataulu</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="tomorrow">
+      <trans-unit id="tomorrow" approved="yes">
         <source>Tomorrow</source>
-        <target xml:lang="fi" state="translated">Huomenna</target>
+        <target state="final">Huomenna</target>
       </trans-unit>
-      <trans-unit id="today">
+      <trans-unit id="today" approved="yes">
         <source>Today</source>
-        <target xml:lang="fi" state="translated">Tänään</target>
+        <target state="final">Tänään</target>
       </trans-unit>
-      <trans-unit id="timetable_no_data">
+      <trans-unit id="timetable_no_data" approved="yes">
         <source>No services found for this stop</source>
-        <target xml:lang="fi" state="translated">Tälle pysäkille ei löytynyt yhteyksiä</target>
+        <target state="final">Tälle pysäkille ei löytynyt yhteyksiä</target>
         <alt-trans>
-          <target xml:lang="fi">Pysäkiltä ei löytynyt yhteyksiä</target>
+          <target>Pysäkiltä ei löytynyt yhteyksiä</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="trip_to">
+      <trans-unit id="trip_to" approved="yes">
         <source>Trip to %s</source>
-        <target xml:lang="fi" state="translated">Matka kohteeseen %s</target>
+        <target state="final">Matka kohteeseen %s</target>
       </trans-unit>
-      <trans-unit id="yesterday">
+      <trans-unit id="yesterday" approved="yes">
         <source>Yesterday</source>
-        <target xml:lang="fi" state="translated">Eilen</target>
+        <target state="final">Eilen</target>
       </trans-unit>
-      <trans-unit id="your_trip_is_about_to_start">
+      <trans-unit id="your_trip_is_about_to_start" approved="yes">
         <source>Your trip is about to start</source>
-        <target xml:lang="fi" state="translated">Matkasi on alkamassa</target>
+        <target state="final">Matkasi on alkamassa</target>
         <alt-trans>
-          <target xml:lang="fi">Matkasi alkaa</target>
+          <target>Matkasi alkaa</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="you_are_here">
+      <trans-unit id="you_are_here" approved="yes">
         <source>You are here</source>
-        <target xml:lang="fi" state="translated">Olet täällä</target>
+        <target state="final">Olet täällä</target>
       </trans-unit>
-      <trans-unit id="news">
+      <trans-unit id="news" approved="yes">
         <source>News</source>
-        <target xml:lang="fi" state="translated">Uutiset</target>
+        <target state="final">Uutiset</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
-      <trans-unit id="include_in_trips">
+      <trans-unit id="include_in_trips" approved="yes">
         <source>Include in trips</source>
-        <target xml:lang="fi" state="translated">Sisällytä matkat</target>
+        <target state="final">Sisällytä matkat</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
       </trans-unit>
-      <trans-unit id="multiple_slots_available">
+      <trans-unit id="multiple_slots_available" approved="yes">
         <source>%s slots available</source>
-        <target xml:lang="fi" state="translated">%s paikkoja vapaana</target>
+        <target state="final">%s paikkaa vapaana</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
           available
         </note>
+        <alt-trans>
+          <target>%s paikkoja vapaana</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="one_slot_available">
+      <trans-unit id="one_slot_available" approved="yes">
         <source>%s slot available</source>
-        <target xml:lang="fi" state="translated">%s paikka vapaana</target>
+        <target state="final">%s paikka vapaana</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
-      <trans-unit id="no_slots_available">
+      <trans-unit id="no_slots_available" approved="yes">
         <source>No slot available</source>
-        <target xml:lang="fi" state="translated">Ei vapaita parkkipaikkoja</target>
+        <target state="final">Ei vapaita paikkoja</target>
         <note>Used for parking slots, when there's no slot available.</note>
+        <alt-trans>
+          <target>Ei vapaita parkkipaikkoja</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="updated_at">
+      <trans-unit id="updated_at" approved="yes">
         <source>Updated at: %s</source>
-        <target xml:lang="fi" state="translated">Päivitetty: %s</target>
+        <target state="final">Päivitetty: %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
-      <trans-unit id="almost_full">
+      <trans-unit id="almost_full" approved="yes">
         <source>Almost full</source>
-        <target xml:lang="fi" state="translated">Melkein täynnä</target>
+        <target state="final">Melkein täynnä</target>
         <note>Occupancy almost full</note>
       </trans-unit>
-      <trans-unit id="got_it">
+      <trans-unit id="got_it" approved="yes">
         <source>Got it</source>
-        <target xml:lang="fi" state="translated">Ymmärretty</target>
+        <target state="final">Ymmärrän</target>
         <note>"Understood" button label</note>
+        <alt-trans>
+          <target>Ymmärretty</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="see_your_favourites_on_your_home_screen">
+      <trans-unit id="see_your_favourites_on_your_home_screen" approved="yes">
         <source>See your favourites on your home screen!</source>
-        <target xml:lang="fi" state="translated">Suosikkisi näkyvyät koti -näytöllä!</target>
+        <target state="final">Suosikkisi näkyvyät koti -näytöllä!</target>
         <note>Add favourite direct access message</note>
       </trans-unit>
-      <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
+      <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher" approved="yes">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target xml:lang="fi" state="translated">Näet suosikkipaikkasi nopeasti käynnistimestäsi.</target>
+        <target state="final">Näet suosikkipaikkasi nopeasti käynnistimestäsi.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
-      <trans-unit id="just_tap_pattern_then_pattern">
+      <trans-unit id="just_tap_pattern_then_pattern" approved="yes">
         <source>Just tap %1$s then '%2$s'</source>
-        <target xml:lang="fi" state="translated">Klikkaa %1$s ja '%2$s'</target>
+        <target state="final">Napsauta %1$s ja %2$s</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
+        <alt-trans>
+          <target>Klikkaa %1$s ja '%2$s'</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
