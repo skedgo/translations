@@ -1,406 +1,404 @@
-<?xml version='1.0' encoding='utf-8'?>
-<xliff version="1.2"
-  xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="input strategy" source-language="en" target-language="en">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="input strategy" source-language="en" target-language="et">
     <body>
       <trans-unit id="access_to_your_calendar">
         <source>Access to your calendar is required</source>
-        <target>Access to your calendar is required</target>
+        <target state="needs-translation">Access to your calendar is required</target>
       </trans-unit>
       <trans-unit id="access_to_your_contacts">
         <source>Access to your contacts is required</source>
-        <target>Access to your contacts is required</target>
+        <target state="needs-translation">Access to your contacts is required</target>
       </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
-        <target>Add</target>
+        <target state="translated">Lisada</target>
       </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
-        <target>Add Location</target>
+        <target state="needs-translation">Add Location</target>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
-        <target>Add to contacts</target>
+        <target state="needs-translation">Add to contacts</target>
       </trans-unit>
       <trans-unit id="add_to_home_screen">
         <source>Add to Home screen</source>
-        <target>Add to Home screen</target>
+        <target state="needs-translation">Add to Home screen</target>
       </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target>View your daily agenda and favourites in the tabs below</target>
+        <target state="needs-translation">View your daily agenda and favourites in the tabs below</target>
       </trans-unit>
       <trans-unit id="all_alerts">
         <source>All Alerts</source>
-        <target>All Alerts</target>
+        <target state="needs-translation">All Alerts</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target>All your calendars are invisible, please switch them on in native calendar app or account settings</target>
+        <target state="needs-translation">All your calendars are invisible, please switch them on in native calendar app or account settings</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target>An unexpected network error has occurred. Please retry.</target>
+        <target state="needs-translation">An unexpected network error has occurred. Please retry.</target>
       </trans-unit>
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
-        <target>Approximately %s away</target>
+        <target state="needs-translation">Approximately %s away</target>
       </trans-unit>
-      <trans-unit approved="yes" id="arrivaltimeindication">
+      <trans-unit id="arrivaltimeindication">
         <source>" (arrive "</source>
-        <target>" (arrive "</target>
+        <target state="needs-translation">" (arrive "</target>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
-        <target>Booking</target>
+        <target state="needs-translation">Booking</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
-        <target>Cannot add reminder for past trip</target>
+        <target state="needs-translation">Cannot add reminder for past trip</target>
       </trans-unit>
       <trans-unit id="cant_call_error">
         <source>Error placing call</source>
-        <target>Error placing call</target>
+        <target state="needs-translation">Error placing call</target>
       </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
-        <target>Coordinates: %s</target>
+        <target state="needs-translation">Coordinates: %s</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
-        <target>Couldn't find your current location</target>
+        <target state="needs-translation">Couldn't find your current location</target>
       </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
-        <target>destination</target>
+        <target state="needs-translation">destination</target>
       </trans-unit>
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
-        <target>Delete this vehicle</target>
+        <target state="needs-translation">Delete this vehicle</target>
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
-        <target>Edit</target>
+        <target state="needs-translation">Edit</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
-        <target>Edit favorite</target>
+        <target state="needs-translation">Edit favorite</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
-        <target>Failed to resolve location</target>
+        <target state="needs-translation">Failed to resolve location</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link">
         <source>Failed to resolve link</source>
-        <target>Failed to resolve link</target>
+        <target state="needs-translation">Failed to resolve link</target>
       </trans-unit>
       <trans-unit id="get_off">
         <source>Get Off</source>
-        <target>Get Off</target>
+        <target state="needs-translation">Get Off</target>
       </trans-unit>
       <trans-unit id="first">
         <source>First:</source>
-        <target>First:</target>
+        <target state="needs-translation">First:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
-        <target>Filter by service name, number or stop</target>
+        <target state="needs-translation">Filter by service name, number or stop</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
-        <target>Go Here</target>
+        <target state="needs-translation">Go Here</target>
       </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
-        <target>Get On</target>
+        <target state="needs-translation">Get On</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target>Information on concession pricing is subject to availability.</target>
+        <target state="needs-translation">Information on concession pricing is subject to availability.</target>
       </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
-        <target>It's time to leave!</target>
+        <target state="needs-translation">It's time to leave!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time">
         <source>Leave now to make it on time</source>
-        <target>Leave now to make it on time</target>
+        <target state="needs-translation">Leave now to make it on time</target>
       </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
-        <target>Go to Now</target>
+        <target state="needs-translation">Go to Now</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target>Events from those calendars will be used in planning your day</target>
+        <target state="needs-translation">Events from those calendars will be used in planning your day</target>
       </trans-unit>
       <trans-unit id="minute">
         <source>1 minute</source>
-        <target>1 minute</target>
+        <target state="needs-translation">1 minute</target>
       </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
-        <target>New vehicle</target>
+        <target state="needs-translation">New vehicle</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
-        <target>Location Not Found</target>
+        <target state="needs-translation">Location Not Found</target>
       </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
-        <target>Location selected</target>
+        <target state="needs-translation">Location selected</target>
       </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
-        <target>No ratings received</target>
+        <target state="needs-translation">No ratings received</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
-        <target>No services available</target>
+        <target state="needs-translation">No services available</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved">
         <source>No favorite locations saved</source>
-        <target>No favorite locations saved</target>
+        <target state="needs-translation">No favorite locations saved</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target>There was an error and it was reported to us. Please try again</target>
+        <target state="needs-translation">There was an error and it was reported to us. Please try again</target>
       </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
-        <target>origin</target>
+        <target state="needs-translation">origin</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target>Sorry, that location is outside of TripGo's range!</target>
+        <target state="needs-translation">Sorry, that location is outside of TripGo's range!</target>
       </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
-        <target>Remove from favorites</target>
+        <target state="needs-translation">Remove from favorites</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
-        <target>Refresh</target>
+        <target state="needs-translation">Refresh</target>
       </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
-        <target>Set end time</target>
+        <target state="needs-translation">Set end time</target>
       </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
-        <target>Select calendars</target>
+        <target state="needs-translation">Select calendars</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
-        <target>Save</target>
+        <target state="needs-translation">Save</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</target>
+        <target state="needs-translation">Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
-        <target>Notifications</target>
+        <target state="needs-translation">Notifications</target>
       </trans-unit>
       <trans-unit id="settings_category_about">
         <source>About</source>
-        <target>About</target>
+        <target state="needs-translation">About</target>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
-        <target>Set time</target>
+        <target state="needs-translation">Set time</target>
       </trans-unit>
       <trans-unit id="set_start_time">
         <source>Set start time</source>
-        <target>Set start time</target>
+        <target state="needs-translation">Set start time</target>
       </trans-unit>
       <trans-unit id="set_location">
         <source>Set Location</source>
-        <target>Set Location</target>
+        <target state="needs-translation">Set Location</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
-        <target>Show an alert to leave at the start of a trip</target>
+        <target state="needs-translation">Show an alert to leave at the start of a trip</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target>Show an alert before any public transport on your trip</target>
+        <target state="needs-translation">Show an alert before any public transport on your trip</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target>Show service alerts which affect your upcoming trips</target>
+        <target state="needs-translation">Show service alerts which affect your upcoming trips</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target>Show an alert towards the end of any public transport on your trip</target>
+        <target state="needs-translation">Show an alert towards the end of any public transport on your trip</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
-        <target>Start of trip</target>
+        <target state="needs-translation">Start of trip</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
-        <target>Start of public transport</target>
+        <target state="needs-translation">Start of public transport</target>
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
-        <target>Server</target>
+        <target state="needs-translation">Server</target>
       </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
-        <target>Version</target>
+        <target state="needs-translation">Version</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
-        <target>Cycling speed</target>
+        <target state="needs-translation">Cycling speed</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
-        <target>End of public transport</target>
+        <target state="needs-translation">End of public transport</target>
       </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
-        <target>Sorted by Price</target>
+        <target state="needs-translation">Sorted by Price</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
-        <target>Sorted by Preferred</target>
+        <target state="needs-translation">Sorted by Preferred</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
-        <target>Error downloading services</target>
+        <target state="needs-translation">Error downloading services</target>
       </trans-unit>
       <trans-unit id="share_this_result">
         <source>Share this result</source>
-        <target>Share this result</target>
+        <target state="needs-translation">Share this result</target>
       </trans-unit>
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
-        <target>Share timetable info</target>
+        <target state="needs-translation">Share timetable info</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
-        <target>Sort By</target>
+        <target state="needs-translation">Sort By</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival">
         <source>Sorted by Arrival</source>
-        <target>Sorted by Arrival</target>
+        <target state="needs-translation">Sorted by Arrival</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure">
         <source>Sorted by Departure</source>
-        <target>Sorted by Departure</target>
+        <target state="needs-translation">Sorted by Departure</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration">
         <source>Sorted by Duration</source>
-        <target>Sorted by Duration</target>
+        <target state="needs-translation">Sorted by Duration</target>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
-        <target>View on Yelp</target>
+        <target state="needs-translation">View on Yelp</target>
       </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
-        <target>Upcoming Services</target>
+        <target state="needs-translation">Upcoming Services</target>
       </trans-unit>
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
-        <target>Unknown location</target>
+        <target state="needs-translation">Unknown location</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target>Waiting for location signal, if fails, you can try turning your GPS off and on..</target>
+        <target state="needs-translation">Waiting for location signal, if fails, you can try turning your GPS off and on..</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
-        <target>View timetable of upcoming services</target>
+        <target state="needs-translation">View timetable of upcoming services</target>
       </trans-unit>
       <trans-unit id="tomorrow">
         <source>Tomorrow</source>
-        <target>Tomorrow</target>
+        <target state="needs-translation">Tomorrow</target>
       </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
-        <target>Today</target>
+        <target state="needs-translation">Today</target>
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
-        <target>No services found for this stop</target>
+        <target state="needs-translation">No services found for this stop</target>
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
-        <target>Trip to %s</target>
+        <target state="needs-translation">Trip to %s</target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
-        <target>Yesterday</target>
+        <target state="needs-translation">Yesterday</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
-        <target>Your trip is about to start</target>
+        <target state="needs-translation">Your trip is about to start</target>
       </trans-unit>
       <trans-unit id="you_are_here">
         <source>You are here</source>
-        <target>You are here</target>
+        <target state="needs-translation">You are here</target>
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target>News</target>
+        <target state="needs-translation">News</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target>Include in trips</target>
+        <target state="needs-translation">Include in trips</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target>%s slots available</target>
+        <target state="needs-translation">%s slots available</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
           available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target>%s slot available</target>
+        <target state="needs-translation">%s slot available</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target>No slot available</target>
+        <target state="needs-translation">No slot available</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target>Updated at: %s</target>
+        <target state="needs-translation">Updated at: %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target>Almost full</target>
+        <target state="needs-translation">Almost full</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="got_it">
         <source>Got it</source>
-        <target>Got it</target>
+        <target state="needs-translation">Got it</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen">
         <source>See your favourites on your home screen!</source>
-        <target>See your favourites on your home screen!</target>
+        <target state="needs-translation">See your favourites on your home screen!</target>
         <note>Add favourite direct access message</note>
       </trans-unit>
       <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target>You can quickly access your favourite locations from your launcher.</target>
+        <target state="needs-translation">You can quickly access your favourite locations from your launcher.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target>Just tap %1$s then '%2$s'</target>
+        <target state="needs-translation">Just tap %1$s then '%2$s'</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>

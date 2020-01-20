@@ -1,406 +1,407 @@
-<?xml version='1.0' encoding='utf-8'?>
-<xliff version="1.2"
-  xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="input strategy" source-language="en" target-language="en">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="input strategy" source-language="en" target-language="nl">
     <body>
       <trans-unit id="access_to_your_calendar">
         <source>Access to your calendar is required</source>
-        <target>Access to your calendar is required</target>
+        <target state="translated">Toegang tot uw agenda is vereist</target>
       </trans-unit>
       <trans-unit id="access_to_your_contacts">
         <source>Access to your contacts is required</source>
-        <target>Access to your contacts is required</target>
+        <target state="translated">Toegang tot uw contacten is vereist</target>
       </trans-unit>
       <trans-unit id="add">
         <source>Add</source>
-        <target>Add</target>
+        <target state="translated">Toevoegen</target>
       </trans-unit>
       <trans-unit id="add_location">
         <source>Add Location</source>
-        <target>Add Location</target>
+        <target state="translated">Voeg een locatie toe</target>
       </trans-unit>
       <trans-unit id="add_to_contacts">
         <source>Add to contacts</source>
-        <target>Add to contacts</target>
+        <target state="translated">Voeg toe aan contacten</target>
       </trans-unit>
       <trans-unit id="add_to_home_screen">
         <source>Add to Home screen</source>
-        <target>Add to Home screen</target>
+        <target state="translated">Toevoegen aan beginscherm</target>
       </trans-unit>
       <trans-unit id="agenda_tip">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target>View your daily agenda and favourites in the tabs below</target>
+        <target state="translated">Vindt uw agenda en favorieten onderaan in de tabs</target>
       </trans-unit>
       <trans-unit id="all_alerts">
         <source>All Alerts</source>
-        <target>All Alerts</target>
+        <target state="translated">Alle meldingen</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target>All your calendars are invisible, please switch them on in native calendar app or account settings</target>
+        <target state="translated">Alle kalenders zijn uitgeschakeld, schakel kalenders in in uw kalender app of in de account instellingen</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target>An unexpected network error has occurred. Please retry.</target>
+        <target state="translated">Er is onverwachts een netwerk fout opgetreden. Probeer opnieuw.</target>
       </trans-unit>
       <trans-unit id="approximately_s_away">
         <source>Approximately %s away</source>
-        <target>Approximately %s away</target>
+        <target state="translated">Ongeveer % ver weg</target>
       </trans-unit>
-      <trans-unit approved="yes" id="arrivaltimeindication">
+      <trans-unit id="arrivaltimeindication">
         <source>" (arrive "</source>
-        <target>" (arrive "</target>
+        <target state="translated">"(arriveer"</target>
       </trans-unit>
       <trans-unit id="booking">
         <source>Booking</source>
-        <target>Booking</target>
+        <target state="translated">Boeken</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip">
         <source>Cannot add reminder for past trip</source>
-        <target>Cannot add reminder for past trip</target>
+        <target state="translated">Kan geen herinnering instellen voor trip in het verleden</target>
       </trans-unit>
       <trans-unit id="cant_call_error">
         <source>Error placing call</source>
-        <target>Error placing call</target>
+        <target state="translated">Fout bij verbinden</target>
       </trans-unit>
       <trans-unit id="coordinates_s">
         <source>Coordinates: %s</source>
-        <target>Coordinates: %s</target>
+        <target state="translated">Coordinaten: %s</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc">
         <source>Couldn't find your current location</source>
-        <target>Couldn't find your current location</target>
+        <target state="translated">Huidige locatie kan niet gevonden worden</target>
       </trans-unit>
       <trans-unit id="destination">
         <source>destination</source>
-        <target>destination</target>
+        <target state="translated">bestemming</target>
       </trans-unit>
       <trans-unit id="delete_vehicle">
         <source>Delete this vehicle</source>
-        <target>Delete this vehicle</target>
+        <target state="translated">Dit voertuig verwijderen</target>
       </trans-unit>
       <trans-unit id="edit">
         <source>Edit</source>
-        <target>Edit</target>
+        <target state="translated">Wijzig</target>
       </trans-unit>
       <trans-unit id="edit_favourite">
         <source>Edit favorite</source>
-        <target>Edit favorite</target>
+        <target state="translated">Wijzig favoriet</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location">
         <source>Failed to resolve location</source>
-        <target>Failed to resolve location</target>
+        <target state="translated">De locatie kon niet gevonden worden</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link">
         <source>Failed to resolve link</source>
-        <target>Failed to resolve link</target>
+        <target state="translated">De snelkoppeling kon niet gevonden worden</target>
       </trans-unit>
       <trans-unit id="get_off">
         <source>Get Off</source>
-        <target>Get Off</target>
+        <target state="translated">Stap uit</target>
       </trans-unit>
       <trans-unit id="first">
         <source>First:</source>
-        <target>First:</target>
+        <target state="translated">Ten eerste:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint">
         <source>Filter by service name, number or stop</source>
-        <target>Filter by service name, number or stop</target>
+        <target state="translated">Filter op richting, dienstlijn of station</target>
       </trans-unit>
       <trans-unit id="go_here">
         <source>Go Here</source>
-        <target>Go Here</target>
+        <target state="translated">Ga naar hier</target>
       </trans-unit>
       <trans-unit id="get_on">
         <source>Get On</source>
-        <target>Get On</target>
+        <target state="translated">Instappen</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
-        <target>Information on concession pricing is subject to availability.</target>
+        <target state="translated">Informatie over reis kortingen is afhankelijk van de beschikbaarheid.</target>
+        <alt-trans>
+          <target>Reis kortingen informatie is afhankelijk van de beschikbaarheid.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="its_time_to_leave">
         <source>It's time to leave!</source>
-        <target>It's time to leave!</target>
+        <target state="translated">Het is tijd om te vertrekken!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time">
         <source>Leave now to make it on time</source>
-        <target>Leave now to make it on time</target>
+        <target state="translated">Vertrek nu om op tijd te komen</target>
       </trans-unit>
       <trans-unit id="go_to_now">
         <source>Go to Now</source>
-        <target>Go to Now</target>
+        <target state="translated">Ga naar nu</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation">
         <source>Events from those calendars will be used in planning your day</source>
-        <target>Events from those calendars will be used in planning your day</target>
+        <target state="translated">Activiteiten in deze kalenders zijn zichtbaar in uw TripGo agenda</target>
       </trans-unit>
       <trans-unit id="minute">
         <source>1 minute</source>
-        <target>1 minute</target>
+        <target state="translated">1 minuut</target>
       </trans-unit>
       <trans-unit id="new_vehicle">
         <source>New vehicle</source>
-        <target>New vehicle</target>
+        <target state="translated">Nieuw voertuig</target>
       </trans-unit>
       <trans-unit id="location_not_found">
         <source>Location Not Found</source>
-        <target>Location Not Found</target>
+        <target state="translated">Locatie niet gevonden</target>
       </trans-unit>
       <trans-unit id="location_selected">
         <source>Location selected</source>
-        <target>Location selected</target>
+        <target state="translated">Locatie geselecteerd</target>
       </trans-unit>
       <trans-unit id="no_ratings_received">
         <source>No ratings received</source>
-        <target>No ratings received</target>
+        <target state="translated">Geen waarderingen ontvangen</target>
       </trans-unit>
       <trans-unit id="no_services_available">
         <source>No services available</source>
-        <target>No services available</target>
+        <target state="translated">Geen diensten beschikbaar</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved">
         <source>No favorite locations saved</source>
-        <target>No favorite locations saved</target>
+        <target state="translated">Geen favoriete locaties opgeslagen</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target>There was an error and it was reported to us. Please try again</target>
+        <target state="translated">Er is een fout opgetreden waarvan we zojuist op de hoogte zijn gesteld. Probeer opnieuw</target>
       </trans-unit>
       <trans-unit id="origin">
         <source>origin</source>
-        <target>origin</target>
+        <target state="translated">oorsprong</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target>Sorry, that location is outside of TripGo's range!</target>
+        <target state="translated">Sorry, deze locatie bevindt zich buiten het gebied van TripGo!</target>
       </trans-unit>
       <trans-unit id="remove_from_favourites">
         <source>Remove from favorites</source>
-        <target>Remove from favorites</target>
+        <target state="translated">Verwijder uit de favorieten</target>
       </trans-unit>
       <trans-unit id="refresh">
         <source>Refresh</source>
-        <target>Refresh</target>
+        <target state="translated">Herlaad</target>
       </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
-        <target>Set end time</target>
+        <target state="translated">Stel eind tijd in</target>
       </trans-unit>
       <trans-unit id="select_calendars">
         <source>Select calendars</source>
-        <target>Select calendars</target>
+        <target state="translated">Selecteer kalenders</target>
       </trans-unit>
       <trans-unit id="save">
         <source>Save</source>
-        <target>Save</target>
+        <target state="translated">Opslaan</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</target>
+        <target state="translated">"Routines" zijn plaatsen waar u vaak bent maar normaal niet in u uw agenda zet, zoals thuis of het werk. Het is belangrijk voor de agenda om deze locaties te weten zodat alle reizen in uw planning bepaalt kan worden.</target>
       </trans-unit>
       <trans-unit id="settings_category_reminders">
         <source>Notifications</source>
-        <target>Notifications</target>
+        <target state="translated">Notificaties</target>
       </trans-unit>
       <trans-unit id="settings_category_about">
         <source>About</source>
-        <target>About</target>
+        <target state="translated">Over Deze App</target>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
-        <target>Set time</target>
+        <target state="translated">Kies een tijd</target>
       </trans-unit>
       <trans-unit id="set_start_time">
         <source>Set start time</source>
-        <target>Set start time</target>
+        <target state="translated">Vertrektijd instellen</target>
       </trans-unit>
       <trans-unit id="set_location">
         <source>Set Location</source>
-        <target>Set Location</target>
+        <target state="translated">Stel location in</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip">
         <source>Show an alert to leave at the start of a trip</source>
-        <target>Show an alert to leave at the start of a trip</target>
+        <target state="translated">Geef een melding wanneer ik moet vertrekken</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans">
         <source>Show an alert before any public transport on your trip</source>
-        <target>Show an alert before any public transport on your trip</target>
+        <target state="translated">Geef een melding als het tijd is om te vertrekken indien u met het openbaar vervoer reist</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target>Show service alerts which affect your upcoming trips</target>
+        <target state="translated">Geef een melding als er iets aan uw reis veranderd</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target>Show an alert towards the end of any public transport on your trip</target>
+        <target state="translated">Geef een melding vlak voordat ik moet uitstappen</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip">
         <source>Start of trip</source>
-        <target>Start of trip</target>
+        <target state="translated">Begin van de reis</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
-        <target>Start of public transport</target>
+        <target state="translated">Vetrek openbaar vervoer</target>
       </trans-unit>
       <trans-unit id="settings_title_server">
         <source>Server</source>
-        <target>Server</target>
+        <target state="translated">Server</target>
       </trans-unit>
       <trans-unit id="settings_title_version">
         <source>Version</source>
-        <target>Version</target>
+        <target state="translated">Versie</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed">
         <source>Cycling speed</source>
-        <target>Cycling speed</target>
+        <target state="translated">Fietssnelheid</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
-        <target>End of public transport</target>
+        <target state="translated">Verlaten openbaar vervoer</target>
       </trans-unit>
       <trans-unit id="sorted_by_price">
         <source>Sorted by Price</source>
-        <target>Sorted by Price</target>
+        <target state="translated">Gesort. op Prijs</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred">
         <source>Sorted by Preferred</source>
-        <target>Sorted by Preferred</target>
+        <target state="translated">Gesort. op Voorkeuren</target>
       </trans-unit>
       <trans-unit id="timetable_download_error">
         <source>Error downloading services</source>
-        <target>Error downloading services</target>
+        <target state="translated">Fout bij het downloaden van de dienstregeling</target>
       </trans-unit>
       <trans-unit id="share_this_result">
         <source>Share this result</source>
-        <target>Share this result</target>
+        <target state="translated">Deel deze reis</target>
       </trans-unit>
       <trans-unit id="share_timetable">
         <source>Share timetable info</source>
-        <target>Share timetable info</target>
+        <target state="translated">Dienstregeling info delen</target>
       </trans-unit>
       <trans-unit id="sort_by">
         <source>Sort By</source>
-        <target>Sort By</target>
+        <target state="translated">Sorteer op</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival">
         <source>Sorted by Arrival</source>
-        <target>Sorted by Arrival</target>
+        <target state="translated">Gesort. op Aankomst Tijd</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure">
         <source>Sorted by Departure</source>
-        <target>Sorted by Departure</target>
+        <target state="translated">Gesort. op Vertrektijd</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration">
         <source>Sorted by Duration</source>
-        <target>Sorted by Duration</target>
+        <target state="translated">Gesort. op Reisduur</target>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
-        <target>View on Yelp</target>
+        <target state="translated">Bekijk op Yelp</target>
       </trans-unit>
       <trans-unit id="upcoming_services">
         <source>Upcoming Services</source>
-        <target>Upcoming Services</target>
+        <target state="translated">Eerstvolgende diensten</target>
       </trans-unit>
       <trans-unit id="unknown_location">
         <source>Unknown location</source>
-        <target>Unknown location</target>
+        <target state="translated">Onbekende locatie</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target>Waiting for location signal, if fails, you can try turning your GPS off and on..</target>
+        <target state="translated">Wacht op het GPS signaal.. als er geen signaal gevonden wordt kunt u proberen uw GPS uit en aan te zetten.</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
-        <target>View timetable of upcoming services</target>
+        <target state="translated">Bekijk dienstregeling van opkomende diensten</target>
       </trans-unit>
       <trans-unit id="tomorrow">
         <source>Tomorrow</source>
-        <target>Tomorrow</target>
+        <target state="translated">Morgen</target>
       </trans-unit>
       <trans-unit id="today">
         <source>Today</source>
-        <target>Today</target>
+        <target state="translated">Vandaag</target>
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
-        <target>No services found for this stop</target>
+        <target state="translated">Er zijn geen diensten gevonden voor dit station</target>
       </trans-unit>
       <trans-unit id="trip_to">
         <source>Trip to %s</source>
-        <target>Trip to %s</target>
+        <target state="translated">Reis naar %s</target>
       </trans-unit>
       <trans-unit id="yesterday">
         <source>Yesterday</source>
-        <target>Yesterday</target>
+        <target state="translated">Gisteren</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start">
         <source>Your trip is about to start</source>
-        <target>Your trip is about to start</target>
+        <target state="translated">Uw trip staat op het moment om te beginnen</target>
       </trans-unit>
       <trans-unit id="you_are_here">
         <source>You are here</source>
-        <target>You are here</target>
+        <target state="translated">U bent hier</target>
       </trans-unit>
       <trans-unit id="news">
         <source>News</source>
-        <target>News</target>
+        <target state="translated">Nieuws</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips">
         <source>Include in trips</source>
-        <target>Include in trips</target>
+        <target state="translated">Meetellen bij reizen</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available">
         <source>%s slots available</source>
-        <target>%s slots available</target>
+        <target state="translated">%s slots beschikbaar</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
           available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available">
         <source>%s slot available</source>
-        <target>%s slot available</target>
+        <target state="translated">%s slot beschikbaar</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available">
         <source>No slot available</source>
-        <target>No slot available</target>
+        <target state="translated">Geen slot beschikbaar</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at">
         <source>Updated at: %s</source>
-        <target>Updated at: %s</target>
+        <target state="translated">Bijgewerkt op %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full">
         <source>Almost full</source>
-        <target>Almost full</target>
+        <target state="translated">Bijna vol</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="got_it">
         <source>Got it</source>
-        <target>Got it</target>
+        <target state="translated">Ik snap het</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen">
         <source>See your favourites on your home screen!</source>
-        <target>See your favourites on your home screen!</target>
+        <target state="translated">Bekijk je favorieten op je startscherm!</target>
         <note>Add favourite direct access message</note>
       </trans-unit>
       <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target>You can quickly access your favourite locations from your launcher.</target>
+        <target state="translated">U kunt snel bij uw favoriete locaties vanuit uw launcher.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern">
         <source>Just tap %1$s then '%2$s'</source>
-        <target>Just tap %1$s then '%2$s'</target>
+        <target state="translated">Tik op %1$s en daarna op '%2$s</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
     </body>

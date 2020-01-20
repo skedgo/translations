@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="input strategy" source-language="en" target-language="da">
+    <body>
+      <trans-unit id="access_to_your_calendar" approved="yes">
+        <source>Access to your calendar is required</source>
+        <target state="final">Adgang til din kalender er påkrævet</target>
+      </trans-unit>
+      <trans-unit id="access_to_your_contacts" approved="yes">
+        <source>Access to your contacts is required</source>
+        <target state="final">Adgang til dine kontaktpersoner er påkrævet</target>
+      </trans-unit>
+      <trans-unit id="add" approved="yes">
+        <source>Add</source>
+        <target state="final">Tilføj</target>
+      </trans-unit>
+      <trans-unit id="add_location" approved="yes">
+        <source>Add Location</source>
+        <target state="final">Tilføj placering</target>
+      </trans-unit>
+      <trans-unit id="add_to_contacts" approved="yes">
+        <source>Add to contacts</source>
+        <target state="final">Føj til kontaktpersoner</target>
+      </trans-unit>
+      <trans-unit id="add_to_home_screen" approved="yes">
+        <source>Add to Home screen</source>
+        <target state="final">Føj til startskærm</target>
+      </trans-unit>
+      <trans-unit id="agenda_tip" approved="yes">
+        <source>View your daily agenda and favourites in the tabs below</source>
+        <target state="final">Se din daglige dagsorden og foretrukne i fanerne nedenfor</target>
+      </trans-unit>
+      <trans-unit id="all_alerts" approved="yes">
+        <source>All Alerts</source>
+        <target state="final">Alle advarsler</target>
+        <alt-trans>
+          <target>Alle indberetninger</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="all_cals_invisible" approved="yes">
+        <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
+        <target state="final">Alle dine kalendere er usynlige, du bedes aktivere dem i din kalenderapp eller i dine kontoindstillinger</target>
+        <alt-trans>
+          <target>Alle dine kalendere er usynlige, skift dem i din native kalender app eller konto indstillinger</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="an_unexpected_network_error" approved="yes">
+        <source>An unexpected network error has occurred. Please retry.</source>
+        <target state="final">Der opstod en uventet netværksfejl. Prøv igen.</target>
+        <alt-trans>
+          <target>Der opstod en uventet netværksfejl. Prøv venligst igen.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="approximately_s_away" approved="yes">
+        <source>Approximately %s away</source>
+        <target state="final">Ca. %s væk</target>
+      </trans-unit>
+      <trans-unit id="arrivaltimeindication" approved="yes">
+        <source>" (arrive "</source>
+        <target state="final">"(ankom"</target>
+        <alt-trans>
+          <target>"(ankommer"</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="booking" approved="yes">
+        <source>Booking</source>
+        <target state="final">Booking</target>
+        <alt-trans>
+          <target>Bestilling</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="cannot_add_reminder_for_past_trip" approved="yes">
+        <source>Cannot add reminder for past trip</source>
+        <target state="final">Kan ikke tilføje påmindelse for tidligere tur</target>
+        <alt-trans>
+          <target>Kan ikke tilføje påmindelse til en overstået tur</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="cant_call_error" approved="yes">
+        <source>Error placing call</source>
+        <target state="final">Fejl ved opkald</target>
+        <alt-trans>
+          <target>Fejl opkald</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="coordinates_s" approved="yes">
+        <source>Coordinates: %s</source>
+        <target state="final">Koordinater: %s</target>
+      </trans-unit>
+      <trans-unit id="couldnt_find_curr_loc" approved="yes">
+        <source>Couldn't find your current location</source>
+        <target state="final">Kunne ikke finde din aktuelle placering</target>
+        <alt-trans>
+          <target>Kan ikke finde din aktuelle position</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="destination" approved="yes">
+        <source>destination</source>
+        <target state="final">destination</target>
+      </trans-unit>
+      <trans-unit id="delete_vehicle" approved="yes">
+        <source>Delete this vehicle</source>
+        <target state="final">Slet dette køretøj</target>
+      </trans-unit>
+      <trans-unit id="edit" approved="yes">
+        <source>Edit</source>
+        <target state="final">Redigér</target>
+      </trans-unit>
+      <trans-unit id="edit_favourite" approved="yes">
+        <source>Edit favorite</source>
+        <target state="final">Redigér foretrukne</target>
+      </trans-unit>
+      <trans-unit id="failed_2_resolve_location" approved="yes">
+        <source>Failed to resolve location</source>
+        <target state="final">Kunne ikke finde placering</target>
+        <alt-trans>
+          <target>Kunne ikke finde placeringen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="failed_2_resolve_link" approved="yes">
+        <source>Failed to resolve link</source>
+        <target state="final">Kunne ikke finde link</target>
+        <alt-trans>
+          <target>Kan ikke finde link</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="get_off" approved="yes">
+        <source>Get Off</source>
+        <target state="final">Stå af</target>
+      </trans-unit>
+      <trans-unit id="first" approved="yes">
+        <source>First:</source>
+        <target state="final">Først:</target>
+      </trans-unit>
+      <trans-unit id="filter_timetable_hint" approved="yes">
+        <source>Filter by service name, number or stop</source>
+        <target state="final">Filtrér efter tjenestenavn, nummer eller stop</target>
+        <alt-trans>
+          <target>Filtrer efter servicenavn, numre eller stop</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="go_here" approved="yes">
+        <source>Go Here</source>
+        <target state="final">Gå herhen</target>
+        <alt-trans>
+          <target>Gå her</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="get_on" approved="yes">
+        <source>Get On</source>
+        <target state="final">Stå på</target>
+      </trans-unit>
+      <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot" approved="yes">
+        <source>Information on concession pricing is subject to availability.</source>
+        <target state="final">Oplysninger om koncessionspriser er afhængig af tilgængelighed.</target>
+        <alt-trans>
+          <target>Oplysninger om koncessions prissætning er afhængig af tilgængeligheden.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="its_time_to_leave" approved="yes">
+        <source>It's time to leave!</source>
+        <target state="final">Det er tid til at tage afsted!</target>
+        <alt-trans>
+          <target>Det er tid til at forlade!</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="leave_now_to_make_on_time" approved="yes">
+        <source>Leave now to make it on time</source>
+        <target state="final">Tag afsted nu for at ankomme til tiden</target>
+        <alt-trans>
+          <target>Forlad nu for at ankomme til tiden</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="go_to_now" approved="yes">
+        <source>Go to Now</source>
+        <target state="final">Gå til Nu</target>
+        <alt-trans>
+          <target>Gå nu til</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="include_cal_explanation" approved="yes">
+        <source>Events from those calendars will be used in planning your day</source>
+        <target state="final">Begivenheder fra disse kalendere vil blive brugt i planlægningen af din dag</target>
+      </trans-unit>
+      <trans-unit id="minute" approved="yes">
+        <source>1 minute</source>
+        <target state="final">1 minut</target>
+      </trans-unit>
+      <trans-unit id="new_vehicle" approved="yes">
+        <source>New vehicle</source>
+        <target state="final">Nyt køretøj</target>
+      </trans-unit>
+      <trans-unit id="location_not_found" approved="yes">
+        <source>Location Not Found</source>
+        <target state="final">Placering ikke fundet</target>
+        <alt-trans>
+          <target>Placeringen blev ikke fundet</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="location_selected" approved="yes">
+        <source>Location selected</source>
+        <target state="final">Placering valgt</target>
+      </trans-unit>
+      <trans-unit id="no_ratings_received" approved="yes">
+        <source>No ratings received</source>
+        <target state="final">Ingen bedømmelser modtaget</target>
+      </trans-unit>
+      <trans-unit id="no_services_available" approved="yes">
+        <source>No services available</source>
+        <target state="final">Ingen tilgængelige tjenester</target>
+      </trans-unit>
+      <trans-unit id="no_favourites_saved" approved="yes">
+        <source>No favorite locations saved</source>
+        <target state="final">Ingen foretrukne placeringer gemt</target>
+        <alt-trans>
+          <target>Ingen foretrukne placeringer er gemt</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="nicely_informed_error" approved="yes">
+        <source>There was an error and it was reported to us. Please try again</source>
+        <target state="final">Der opstod en fejl og den blev indberettet til os. Prøv igen</target>
+        <alt-trans>
+          <target>Der opstod en fejl og det blev rapporteret til os. Prøv venligst igen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="origin" approved="yes">
+        <source>origin</source>
+        <target state="final">oprindelse</target>
+      </trans-unit>
+      <trans-unit id="outside_region_error" approved="yes">
+        <source>Sorry, that location is outside of TripGo's range!</source>
+        <target state="final">Desværre, er denne placering uden for TripGos område!</target>
+        <alt-trans>
+          <target>Desværre, er denne placering uden for TripGos rækkevidde!</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="remove_from_favourites" approved="yes">
+        <source>Remove from favorites</source>
+        <target state="final">Fjern fra foretrukne</target>
+      </trans-unit>
+      <trans-unit id="refresh" approved="yes">
+        <source>Refresh</source>
+        <target state="final">Opdatér</target>
+        <alt-trans>
+          <target>Opdater</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="set_end_time" approved="yes">
+        <source>Set end time</source>
+        <target state="final">Indstil sluttidspunkt</target>
+      </trans-unit>
+      <trans-unit id="select_calendars" approved="yes">
+        <source>Select calendars</source>
+        <target state="final">Vælg kalendere</target>
+      </trans-unit>
+      <trans-unit id="save" approved="yes">
+        <source>Save</source>
+        <target state="final">Gem</target>
+      </trans-unit>
+      <trans-unit id="routine_explanation" approved="yes">
+        <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
+        <target state="final">Rutiner er en del af din daglige bevægelse, men de er ikke begivenheder, som du ønsker i din kalender (f.eks. arbejde). De er vigtige for, at dagsordenen kan få dig til det rette sted på det rette tidspunkt</target>
+        <alt-trans>
+          <target>Rutiner er en del af din daglige bevægelighed, men de er ikke begivenheder, som du ønsker i din kalender (fx arbejde). De er vigtige for dagsordenen til at få dig det rigtige sted hen, på det rigtige tidspunkt</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_category_reminders" approved="yes">
+        <source>Notifications</source>
+        <target state="final">Meddelelser</target>
+        <alt-trans>
+          <target>Notifikationer</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_category_about" approved="yes">
+        <source>About</source>
+        <target state="final">Om</target>
+        <alt-trans>
+          <target>Omkring</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="set_time" approved="yes">
+        <source>Set time</source>
+        <target state="final">Indstil tid</target>
+        <alt-trans>
+          <target>Indstil tiden</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="set_start_time" approved="yes">
+        <source>Set start time</source>
+        <target state="final">Indstil starttidspunkt</target>
+        <alt-trans>
+          <target>Angiv starttidspunkt</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="set_location" approved="yes">
+        <source>Set Location</source>
+        <target state="final">Indstil placering</target>
+        <alt-trans>
+          <target>Angiv placering</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_summary_reminder_start_off_trip" approved="yes">
+        <source>Show an alert to leave at the start of a trip</source>
+        <target state="final">Vis en advarsel for at tage afsted i begyndelsen af en tur</target>
+        <alt-trans>
+          <target>Vis en advarsel for at forlade i starten af en tur</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_summary_reminder_start_pub_trans" approved="yes">
+        <source>Show an alert before any public transport on your trip</source>
+        <target state="final">Vis en advarsel før eventuel offentlig transport på din tur</target>
+        <alt-trans>
+          <target>Vis en advarsel før enhver offentlig transport på rejsen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_summary_reminder_service_alerts" approved="yes">
+        <source>Show service alerts which affect your upcoming trips</source>
+        <target state="final">Vis tjenesteadvarsler, som påvirker dine kommende ture</target>
+        <alt-trans>
+          <target>Vis service-advarsler, som påvirker dine kommende ture</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_summary_reminder_end_pub_trans" approved="yes">
+        <source>Show an alert towards the end of any public transport on your trip</source>
+        <target state="final">Vis en advarsel i slutningen af eventuel offentlig transport på din tur</target>
+        <alt-trans>
+          <target>Vis en advarsel i slutningen af enhver offentlig transport på rejsen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_title_reminder_start_off_trip" approved="yes">
+        <source>Start of trip</source>
+        <target state="final">Start på tur</target>
+        <alt-trans>
+          <target>Start turen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_title_reminder_start_pub_trans" approved="yes">
+        <source>Start of public transport</source>
+        <target state="final">Start på offentlig transport</target>
+        <alt-trans>
+          <target>Start af offentlig transport</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="settings_title_server" approved="yes">
+        <source>Server</source>
+        <target state="final">Server</target>
+      </trans-unit>
+      <trans-unit id="settings_title_version" approved="yes">
+        <source>Version</source>
+        <target state="final">Version</target>
+      </trans-unit>
+      <trans-unit id="settings_title_cycling_speed" approved="yes">
+        <source>Cycling speed</source>
+        <target state="final">Cykelhastighed</target>
+      </trans-unit>
+      <trans-unit id="settings_title_reminder_end_pub_trans" approved="yes">
+        <source>End of public transport</source>
+        <target state="final">Slutning af offentlig transport</target>
+        <alt-trans>
+          <target>Offentlig transport er overstået</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="sorted_by_price" approved="yes">
+        <source>Sorted by Price</source>
+        <target state="final">Sorteret efter pris</target>
+      </trans-unit>
+      <trans-unit id="sorted_by_preferred" approved="yes">
+        <source>Sorted by Preferred</source>
+        <target state="final">Sorteret efter foretrukne</target>
+      </trans-unit>
+      <trans-unit id="timetable_download_error" approved="yes">
+        <source>Error downloading services</source>
+        <target state="final">Fejl ved download af tjenester</target>
+        <alt-trans>
+          <target>Fejl ved download tjenesten</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="share_this_result" approved="yes">
+        <source>Share this result</source>
+        <target state="final">Del dette resultat</target>
+      </trans-unit>
+      <trans-unit id="share_timetable" approved="yes">
+        <source>Share timetable info</source>
+        <target state="final">Del oplysninger om tidsplan</target>
+        <alt-trans>
+          <target>Del tidsplan info</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="sort_by" approved="yes">
+        <source>Sort By</source>
+        <target state="final">Sortér efter</target>
+      </trans-unit>
+      <trans-unit id="sorted_by_arrival" approved="yes">
+        <source>Sorted by Arrival</source>
+        <target state="final">Sorteret efter ankomst</target>
+        <alt-trans>
+          <target>Sorteret efter ankomsten</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="sorted_by_departure" approved="yes">
+        <source>Sorted by Departure</source>
+        <target state="final">Sorteret efter afgang</target>
+      </trans-unit>
+      <trans-unit id="sorted_by_duration" approved="yes">
+        <source>Sorted by Duration</source>
+        <target state="final">Sorteret efter varighed</target>
+      </trans-unit>
+      <trans-unit id="view_on_yelp" approved="yes">
+        <source>View on Yelp</source>
+        <target state="final">Se på Yelp</target>
+      </trans-unit>
+      <trans-unit id="upcoming_services" approved="yes">
+        <source>Upcoming Services</source>
+        <target state="final">Kommende tjenester</target>
+      </trans-unit>
+      <trans-unit id="unknown_location" approved="yes">
+        <source>Unknown location</source>
+        <target state="final">Ukendt placering</target>
+      </trans-unit>
+      <trans-unit id="waiting_for_gps_fix" approved="yes">
+        <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
+        <target state="final">Afventer placeringssignal, hvis det mislykkes, kan du prøve at tænde og slukke for din GPS..</target>
+        <alt-trans>
+          <target>Afventer placeringens signal, hvis det mislykkes, kan du prøve at tænde og slukke din GPS..</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="view_timetable_for_stop" approved="yes">
+        <source>View timetable of upcoming services</source>
+        <target state="final">Se tidsplan for kommende tjenester</target>
+      </trans-unit>
+      <trans-unit id="tomorrow" approved="yes">
+        <source>Tomorrow</source>
+        <target state="final">I morgen</target>
+        <alt-trans>
+          <target>Imorgen</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="today" approved="yes">
+        <source>Today</source>
+        <target state="final">I dag</target>
+        <alt-trans>
+          <target>Idag</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="timetable_no_data" approved="yes">
+        <source>No services found for this stop</source>
+        <target state="final">Ingen tjenester fundet for dette stop</target>
+      </trans-unit>
+      <trans-unit id="trip_to" approved="yes">
+        <source>Trip to %s</source>
+        <target state="final">Tur til %s</target>
+      </trans-unit>
+      <trans-unit id="yesterday" approved="yes">
+        <source>Yesterday</source>
+        <target state="final">I går</target>
+        <alt-trans>
+          <target>Igår</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="your_trip_is_about_to_start" approved="yes">
+        <source>Your trip is about to start</source>
+        <target state="final">Din rejse er ved at starte</target>
+        <alt-trans>
+          <target>Rejsen skal til at starte</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="you_are_here" approved="yes">
+        <source>You are here</source>
+        <target state="final">Du er her</target>
+      </trans-unit>
+      <trans-unit id="news" approved="yes">
+        <source>News</source>
+        <target state="final">Nyheder</target>
+        <note>Settings option to enable/disable news (notifications).</note>
+      </trans-unit>
+      <trans-unit id="include_in_trips" approved="yes">
+        <source>Include in trips</source>
+        <target state="final">Medtag i ture</target>
+        <note>In transport mode detail, setting to enable that transport mode to be included in
+          trips.
+        </note>
+      </trans-unit>
+      <trans-unit id="multiple_slots_available" approved="yes">
+        <source>%s slots available</source>
+        <target state="final">%s tilgængelige pladser</target>
+        <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
+          available
+        </note>
+        <alt-trans>
+          <target>%s pladser til rådighed</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="one_slot_available" approved="yes">
+        <source>%s slot available</source>
+        <target state="final">%s tilgængelig plads</target>
+        <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
+        <alt-trans>
+          <target>%s plads til rådighed</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="no_slots_available" approved="yes">
+        <source>No slot available</source>
+        <target state="final">Ingen tilgængelig plads</target>
+        <note>Used for parking slots, when there's no slot available.</note>
+        <alt-trans>
+          <target>Ingen tilgængelige pladser</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="updated_at" approved="yes">
+        <source>Updated at: %s</source>
+        <target state="final">Opdateret kl.: %s</target>
+        <note>Parking slots, updated time. Example: Updated at 10am</note>
+        <alt-trans>
+          <target>Opdateret: %s</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="almost_full" approved="yes">
+        <source>Almost full</source>
+        <target state="final">Næsten fuld</target>
+        <note>Occupancy almost full</note>
+      </trans-unit>
+      <trans-unit id="got_it" approved="yes">
+        <source>Got it</source>
+        <target state="final">Forstået</target>
+        <note>"Understood" button label</note>
+      </trans-unit>
+      <trans-unit id="see_your_favourites_on_your_home_screen" approved="yes">
+        <source>See your favourites on your home screen!</source>
+        <target state="final">Se dine favoritter på din startskærm!</target>
+        <note>Add favourite direct access message</note>
+      </trans-unit>
+      <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher" approved="yes">
+        <source>You can quickly access your favourite locations from your launcher.</source>
+        <target state="final">Du kan hurtigt få adgang til dine foretrukne steder fra din launcher.</target>
+        <note>Add favourite direct access description</note>
+      </trans-unit>
+      <trans-unit id="just_tap_pattern_then_pattern" approved="yes">
+        <source>Just tap %1$s then '%2$s'</source>
+        <target state="final">Bare tryk på %1$s derefter '%2$s'</target>
+        <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

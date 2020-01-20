@@ -1,0 +1,13 @@
+project_identifier: tripgo
+api_key: 8d45d9d77285a28189afd03c0f9507ee                          
+base_path: ./
+
+files:
+  -  
+    source: '/en/android_localizable_strings.xliff'                                   
+    translation: '/%locale%/%original_file_name%'
+
+
+  -
+    source: '/Translations/4_FromCrowdin/en/iOS.xliff'
+    translation: '/Translations/4_FromCrowdin/%osx_locale%/iOS.xliff'
