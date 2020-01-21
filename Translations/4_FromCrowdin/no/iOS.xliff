@@ -161,6 +161,11 @@
         <target state="final">Hver dag</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
+      <trans-unit id="My Account" xml:space="preserve">
+        <source>My Account</source>
+        <target state="translated">Min Konto</target>
+        <note>Header for accessing my account</note>
+      </trans-unit>
       <trans-unit id="Repeats daily" xml:space="preserve" approved="yes">
         <source>Repeats daily</source>
         <target state="final">Gjentas daglig</target>
@@ -2129,8 +2134,7 @@ Vi samler de anomymiserte dataene og gir den til forskere, tilsynsmyndigheter og
       <trans-unit id="Take %@ off every trip" xml:space="preserve">
         <source>Take %@ off every trip</source>
         <target state="needs-translation">Take %@ off every trip</target>
-        <note>Format string for displaying the discount user received for a trip. The discount is specified as a percentage. An example: Take 5% off every trip
-   Format string for displaying the discount user received for a trip. The discount is specified in the dollar term (as opposed to a percentage). An example: Take $5 off every trip</note>
+        <note>Format string for displaying the discount user received for a trip. The discount is specified in the dollar term or a percentage. Examples: 'Take $5 off every trip' or 'Take 5% off every trip'</note>
       </trans-unit>
       <trans-unit id="Take photo" xml:space="preserve" approved="yes">
         <source>Take photo</source>
@@ -3337,8 +3341,7 @@ Merk at iCloud-dataene dine ikke vil bli slettet pga dette, men du kan slette de
       <trans-unit id="Arrive" xml:space="preserve" approved="yes">
         <source>Arrive</source>
         <target state="final">Ankommer</target>
-        <note>Prefix for selected 'arrive by' time
-   Single line instruction to arrive</note>
+        <note>Single line instruction to arrive</note>
       <alt-trans><target>Ankomst</target></alt-trans></trans-unit>
       <trans-unit id="Arrive %@" xml:space="preserve">
         <source>Arrive %@</source>
@@ -3353,8 +3356,7 @@ Merk at iCloud-dataene dine ikke vil bli slettet pga dette, men du kan slette de
       <trans-unit id="Arrive at %@" xml:space="preserve" approved="yes">
         <source>Arrive at %@</source>
         <target state="final">Ankommer kl. %@</target>
-        <note>'%@' will be replaced with the arrival time. (old key: ArrivalTime)
-   Arrival time.</note>
+        <note>Arrival time.</note>
       </trans-unit>
       <trans-unit id="Arrive at %@ at %@" xml:space="preserve" approved="yes">
         <source>Arrive at %1$@ at %2$@</source>
@@ -3379,8 +3381,7 @@ Merk at iCloud-dataene dine ikke vil bli slettet pga dette, men du kan slette de
       <trans-unit id="At %@" xml:space="preserve" approved="yes">
         <source>At %@</source>
         <target state="final">Kl. %@</target>
-        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)
-   Filler for a service running at time, e.g., 'At 11:56am'</note>
+        <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
       <alt-trans><target>På %@</target></alt-trans></trans-unit>
       <trans-unit id="Bicycle" xml:space="preserve" approved="yes">
         <source>Bicycle</source>
@@ -3610,8 +3611,7 @@ Merk at iCloud-dataene dine ikke vil bli slettet pga dette, men du kan slette de
       <trans-unit id="Leave" xml:space="preserve" approved="yes">
         <source>Leave</source>
         <target state="final">Forlat</target>
-        <note>Prefix for selected 'leave after' time
-   Single line instruction to leave</note>
+        <note>Single line instruction to leave</note>
       <alt-trans><target>Dra</target></alt-trans></trans-unit>
       <trans-unit id="Leave %@" xml:space="preserve" approved="yes">
         <source>Leave %@</source>

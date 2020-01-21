@@ -161,6 +161,11 @@
         <target state="translated">Tous les jours</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
+      <trans-unit id="My Account" xml:space="preserve">
+        <source>My Account</source>
+        <target state="needs-translation">My Account</target>
+        <note>Header for accessing my account</note>
+      </trans-unit>
       <trans-unit id="Repeats daily" xml:space="preserve">
         <source>Repeats daily</source>
         <target state="translated">Répétition quotidienne</target>
@@ -2127,8 +2132,7 @@ We aggregate the anomymised data and provide it to researchers, regulators, and 
       <trans-unit id="Take %@ off every trip" xml:space="preserve">
         <source>Take %@ off every trip</source>
         <target state="needs-translation">Take %@ off every trip</target>
-        <note>Format string for displaying the discount user received for a trip. The discount is specified as a percentage. An example: Take 5% off every trip
-   Format string for displaying the discount user received for a trip. The discount is specified in the dollar term (as opposed to a percentage). An example: Take $5 off every trip</note>
+        <note>Format string for displaying the discount user received for a trip. The discount is specified in the dollar term or a percentage. Examples: 'Take $5 off every trip' or 'Take 5% off every trip'</note>
       </trans-unit>
       <trans-unit id="Take photo" xml:space="preserve">
         <source>Take photo</source>
@@ -3327,8 +3331,7 @@ Note, your iCloud data will not be deleted by this, but you can delete this in t
       <trans-unit id="Arrive" xml:space="preserve">
         <source>Arrive</source>
         <target state="translated">Arrivée</target>
-        <note>Prefix for selected 'arrive by' time
-   Single line instruction to arrive</note>
+        <note>Single line instruction to arrive</note>
       </trans-unit>
       <trans-unit id="Arrive %@" xml:space="preserve">
         <source>Arrive %@</source>
@@ -3343,8 +3346,7 @@ Note, your iCloud data will not be deleted by this, but you can delete this in t
       <trans-unit id="Arrive at %@" xml:space="preserve">
         <source>Arrive at %@</source>
         <target state="translated">Arrivée à %@</target>
-        <note>'%@' will be replaced with the arrival time. (old key: ArrivalTime)
-   Arrival time.</note>
+        <note>Arrival time.</note>
       </trans-unit>
       <trans-unit id="Arrive at %@ at %@" xml:space="preserve">
         <source>Arrive at %1$@ at %2$@</source>
@@ -3369,8 +3371,7 @@ Note, your iCloud data will not be deleted by this, but you can delete this in t
       <trans-unit id="At %@" xml:space="preserve">
         <source>At %@</source>
         <target state="translated">À %@</target>
-        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)
-   Filler for a service running at time, e.g., 'At 11:56am'</note>
+        <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
       </trans-unit>
       <trans-unit id="Bicycle" xml:space="preserve">
         <source>Bicycle</source>
@@ -3600,8 +3601,7 @@ Note, your iCloud data will not be deleted by this, but you can delete this in t
       <trans-unit id="Leave" xml:space="preserve">
         <source>Leave</source>
         <target state="translated">Partir</target>
-        <note>Prefix for selected 'leave after' time
-   Single line instruction to leave</note>
+        <note>Single line instruction to leave</note>
       </trans-unit>
       <trans-unit id="Leave %@" xml:space="preserve">
         <source>Leave %@</source>

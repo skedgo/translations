@@ -401,6 +401,16 @@
         <target state="needs-translation">Just tap %1$s then '%2$s'</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <target state="needs-translation">Access to location services required.</target>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target state="needs-translation">Tap public transport stops for access to timetable</target>
+        <note>Walkthrough</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

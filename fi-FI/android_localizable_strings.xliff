@@ -557,6 +557,16 @@
           <target>Klikkaa %1$s ja '%2$s'</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <target state="translated">Sovellus tarvitsee oikeuden paikantaa sijaintisi.</target>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target state="translated">Napauttamalla joukkoliikenteen pysäkkejä näet niiden aikataulut</target>
+        <note>Walkthrough</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

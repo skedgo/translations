@@ -404,6 +404,16 @@
         <target state="translated">Tik op %1$s en daarna op '%2$s</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <target state="translated">Toegang tot de locatie service is vereist.</target>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target state="translated">Tik op een bus of treinstation om de dienstregeling te bekijken</target>
+        <note>Walkthrough</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

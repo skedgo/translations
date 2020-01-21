@@ -4,415 +4,415 @@
     <body>
       <trans-unit id="access_to_your_calendar" approved="yes">
         <source>Access to your calendar is required</source>
-        <target state="translated">Åtkomst till din kalender krävs</target>
+        <target state="final">Åtkomst till din kalender krävs</target>
       </trans-unit>
       <trans-unit id="access_to_your_contacts" approved="yes">
         <source>Access to your contacts is required</source>
-        <target state="translated">Åtkomst till dina kontakter krävs</target>
+        <target state="final">Åtkomst till dina kontakter krävs</target>
       </trans-unit>
       <trans-unit id="add" approved="yes">
         <source>Add</source>
-        <target state="translated">Lägg till</target>
+        <target state="final">Lägg till</target>
       </trans-unit>
       <trans-unit id="add_location" approved="yes">
         <source>Add Location</source>
-        <target state="translated">Lägg till plats</target>
+        <target state="final">Lägg till plats</target>
       </trans-unit>
       <trans-unit id="add_to_contacts" approved="yes">
         <source>Add to contacts</source>
-        <target state="translated">Lägg till i kontakter</target>
+        <target state="final">Lägg till i kontakter</target>
       </trans-unit>
       <trans-unit id="add_to_home_screen" approved="yes">
         <source>Add to Home screen</source>
-        <target state="translated">Lägg till på hemskärmen</target>
+        <target state="final">Lägg till på hemskärmen</target>
       </trans-unit>
       <trans-unit id="agenda_tip" approved="yes">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target state="translated">Se din dagliga planering och dina favoriter i flikarna nedan</target>
+        <target state="final">Se din dagliga planering och dina favoriter i flikarna nedan</target>
         <alt-trans>
           <target>Se din dagordning och dina favoriter i flikarna nedan</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="all_alerts" approved="yes">
         <source>All Alerts</source>
-        <target state="translated">Alla aviseringar</target>
+        <target state="final">Alla aviseringar</target>
         <alt-trans>
           <target>Alla larm</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="all_cals_invisible" approved="yes">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target state="translated">Alla dina kalendrar är osynliga. Aktivera dem i den inbyggda kalenderappen eller i kontoinställningarna</target>
+        <target state="final">Alla dina kalendrar är osynliga. Aktivera dem i den inbyggda kalenderappen eller i kontoinställningarna</target>
         <alt-trans>
           <target>Alla dina kalendrar är osynliga, aktivera dem i den inbyggda kalenderappen eller i kontoinställningarna</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error" approved="yes">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target state="translated">Ett oväntat nätverksfel uppstod. Försök igen.</target>
+        <target state="final">Ett oväntat nätverksfel uppstod. Försök igen.</target>
       </trans-unit>
       <trans-unit id="approximately_s_away" approved="yes">
         <source>Approximately %s away</source>
-        <target state="translated">Cirka %s bort</target>
+        <target state="final">Cirka %s bort</target>
       </trans-unit>
       <trans-unit id="arrivaltimeindication" approved="yes">
         <source>" (arrive "</source>
-        <target state="translated">" (anländer "</target>
+        <target state="final">" (anländer "</target>
       </trans-unit>
       <trans-unit id="booking" approved="yes">
         <source>Booking</source>
-        <target state="translated">Bokning</target>
+        <target state="final">Bokning</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip" approved="yes">
         <source>Cannot add reminder for past trip</source>
-        <target state="translated">Kan inte lägga till påminnelse för tidigare resa</target>
+        <target state="final">Kan inte lägga till påminnelse för tidigare resa</target>
       </trans-unit>
       <trans-unit id="cant_call_error" approved="yes">
         <source>Error placing call</source>
-        <target state="translated">Fel vid samtal</target>
+        <target state="final">Fel vid samtal</target>
       </trans-unit>
       <trans-unit id="coordinates_s" approved="yes">
         <source>Coordinates: %s</source>
-        <target state="translated">Koordinater: %s</target>
+        <target state="final">Koordinater: %s</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc" approved="yes">
         <source>Couldn't find your current location</source>
-        <target state="translated">Hittar inte din nuvarande plats</target>
+        <target state="final">Hittar inte din nuvarande plats</target>
         <alt-trans>
           <target>Kan inte hitta din nuvarande plats</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="destination" approved="yes">
         <source>destination</source>
-        <target state="translated">destination</target>
+        <target state="final">destination</target>
       </trans-unit>
       <trans-unit id="delete_vehicle" approved="yes">
         <source>Delete this vehicle</source>
-        <target state="translated">Ta bort det här fordonet</target>
+        <target state="final">Ta bort det här fordonet</target>
       </trans-unit>
       <trans-unit id="edit" approved="yes">
         <source>Edit</source>
-        <target state="translated">Redigera</target>
+        <target state="final">Redigera</target>
       </trans-unit>
       <trans-unit id="edit_favourite" approved="yes">
         <source>Edit favorite</source>
-        <target state="translated">Redigera favorit</target>
+        <target state="final">Redigera favorit</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location" approved="yes">
         <source>Failed to resolve location</source>
-        <target state="translated">Misslyckades att hitta plats</target>
+        <target state="final">Misslyckades att hitta plats</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link" approved="yes">
         <source>Failed to resolve link</source>
-        <target state="translated">Misslyckades att hitta länk</target>
+        <target state="final">Misslyckades att hitta länk</target>
       </trans-unit>
       <trans-unit id="get_off" approved="yes">
         <source>Get Off</source>
-        <target state="translated">Kliv av</target>
+        <target state="final">Kliv av</target>
       </trans-unit>
       <trans-unit id="first" approved="yes">
         <source>First:</source>
-        <target state="translated">Först:</target>
+        <target state="final">Först:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint" approved="yes">
         <source>Filter by service name, number or stop</source>
-        <target state="translated">Filtrera efter tjänstens namn, nummer eller stopp</target>
+        <target state="final">Filtrera efter tjänstens namn, nummer eller stopp</target>
       </trans-unit>
       <trans-unit id="go_here" approved="yes">
         <source>Go Here</source>
-        <target state="translated">Åk hit</target>
+        <target state="final">Åk hit</target>
       </trans-unit>
       <trans-unit id="get_on" approved="yes">
         <source>Get On</source>
-        <target state="translated">Kliv på</target>
+        <target state="final">Kliv på</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot" approved="yes">
         <source>Information on concession pricing is subject to availability.</source>
-        <target state="translated">Information om beviljade priser är beroende av tillgänglighet.</target>
+        <target state="final">Information om beviljade priser är beroende av tillgänglighet.</target>
       </trans-unit>
       <trans-unit id="its_time_to_leave" approved="yes">
         <source>It's time to leave!</source>
-        <target state="translated">Det är dags att åka!</target>
+        <target state="final">Det är dags att åka!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time" approved="yes">
         <source>Leave now to make it on time</source>
-        <target state="translated">Åk nu för att vara i tid</target>
+        <target state="final">Åk nu för att vara i tid</target>
       </trans-unit>
       <trans-unit id="go_to_now" approved="yes">
         <source>Go to Now</source>
-        <target state="translated">Åk nu</target>
+        <target state="final">Åk nu</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation" approved="yes">
         <source>Events from those calendars will be used in planning your day</source>
-        <target state="translated">Händelser från dessa kalendrar kommer att användas för att planera din dag</target>
+        <target state="final">Händelser från dessa kalendrar kommer att användas för att planera din dag</target>
         <alt-trans>
           <target>Händelser från dessa kalendrar kommer att användas i planeringen av din dag</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="minute" approved="yes">
         <source>1 minute</source>
-        <target state="translated">1 minut</target>
+        <target state="final">1 minut</target>
       </trans-unit>
       <trans-unit id="new_vehicle" approved="yes">
         <source>New vehicle</source>
-        <target state="translated">Nytt fordon</target>
+        <target state="final">Nytt fordon</target>
       </trans-unit>
       <trans-unit id="location_not_found" approved="yes">
         <source>Location Not Found</source>
-        <target state="translated">Platsen hittades inte</target>
+        <target state="final">Platsen hittades inte</target>
         <alt-trans>
           <target>Hittade inte platsen</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="location_selected" approved="yes">
         <source>Location selected</source>
-        <target state="translated">Plats vald</target>
+        <target state="final">Plats vald</target>
       </trans-unit>
       <trans-unit id="no_ratings_received" approved="yes">
         <source>No ratings received</source>
-        <target state="translated">Inga betyg mottagna</target>
+        <target state="final">Inga betyg mottagna</target>
       </trans-unit>
       <trans-unit id="no_services_available" approved="yes">
         <source>No services available</source>
-        <target state="translated">Inga tillgängliga tjänster</target>
+        <target state="final">Inga tillgängliga tjänster</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved" approved="yes">
         <source>No favorite locations saved</source>
-        <target state="translated">Inga favoritplatser sparade</target>
+        <target state="final">Inga favoritplatser sparade</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error" approved="yes">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target state="translated">Ett fel uppstod och det rapporterades till oss. Försök igen</target>
+        <target state="final">Ett fel uppstod och det rapporterades till oss. Försök igen</target>
       </trans-unit>
       <trans-unit id="origin" approved="yes">
         <source>origin</source>
-        <target state="translated">startpunkt</target>
+        <target state="final">startpunkt</target>
       </trans-unit>
       <trans-unit id="outside_region_error" approved="yes">
         <source>Sorry, that location is outside of TripGo's range!</source>
-        <target state="translated">Tyvärr ligger platsen utanför TripGos räckvidd!</target>
+        <target state="final">Tyvärr ligger platsen utanför TripGos räckvidd!</target>
       </trans-unit>
       <trans-unit id="remove_from_favourites" approved="yes">
         <source>Remove from favorites</source>
-        <target state="translated">Ta bort från favoriter</target>
+        <target state="final">Ta bort från favoriter</target>
       </trans-unit>
       <trans-unit id="refresh" approved="yes">
         <source>Refresh</source>
-        <target state="translated">Uppdatera</target>
+        <target state="final">Uppdatera</target>
       </trans-unit>
       <trans-unit id="set_end_time" approved="yes">
         <source>Set end time</source>
-        <target state="translated">Ange sluttid</target>
+        <target state="final">Ange sluttid</target>
       </trans-unit>
       <trans-unit id="select_calendars" approved="yes">
         <source>Select calendars</source>
-        <target state="translated">Välj kalendrar</target>
+        <target state="final">Välj kalendrar</target>
       </trans-unit>
       <trans-unit id="save" approved="yes">
         <source>Save</source>
-        <target state="translated">Spara</target>
+        <target state="final">Spara</target>
       </trans-unit>
       <trans-unit id="routine_explanation" approved="yes">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
-        <target state="translated">Rutiner är en del av ditt dagliga rörelsemönster, men de är inte händelser som du vill ha i din kalender (t.ex. arbete). De är viktiga för agendan så att du är på rätt plats vid rätt tidpunkt</target>
+        <target state="final">Rutiner är en del av ditt dagliga rörelsemönster, men de är inte händelser som du vill ha i din kalender (t.ex. arbete). De är viktiga för agendan så att du är på rätt plats vid rätt tidpunkt</target>
         <alt-trans>
           <target>Rutiner är en del av ditt dagliga rörelsemönster, men de är inte händelser som du vill ha i din kalender (t.ex. arbete). De är viktiga för dagordningen så att du är på rätt plats vid rätt tidpunkt</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_category_reminders" approved="yes">
         <source>Notifications</source>
-        <target state="translated">Aviseringar</target>
+        <target state="final">Aviseringar</target>
       </trans-unit>
       <trans-unit id="settings_category_about" approved="yes">
         <source>About</source>
-        <target state="translated">Om</target>
+        <target state="final">Om</target>
       </trans-unit>
       <trans-unit id="set_time" approved="yes">
         <source>Set time</source>
-        <target state="translated">Ställ in tid</target>
+        <target state="final">Ställ in tid</target>
       </trans-unit>
       <trans-unit id="set_start_time" approved="yes">
         <source>Set start time</source>
-        <target state="translated">Ställ in starttid</target>
+        <target state="final">Ställ in starttid</target>
       </trans-unit>
       <trans-unit id="set_location" approved="yes">
         <source>Set Location</source>
-        <target state="translated">Ange plats</target>
+        <target state="final">Ange plats</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_off_trip" approved="yes">
         <source>Show an alert to leave at the start of a trip</source>
-        <target state="translated">Visa en avisering om att åka i början av resan</target>
+        <target state="final">Visa en avisering om att åka i början av resan</target>
         <alt-trans>
           <target>Visa en varning om att åka i början av resan</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans" approved="yes">
         <source>Show an alert before any public transport on your trip</source>
-        <target state="translated">Visa en avisering innan all kollektivtrafik under din resa</target>
+        <target state="final">Visa en avisering innan all kollektivtrafik under din resa</target>
         <alt-trans>
           <target>Visa en varning innan all kollektivtrafik under din resa</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts" approved="yes">
         <source>Show service alerts which affect your upcoming trips</source>
-        <target state="translated">Visa serviceaviseringar som påverkar dina kommande resor</target>
+        <target state="final">Visa serviceaviseringar som påverkar dina kommande resor</target>
         <alt-trans>
           <target>Visa servicevarningar som påverkar dina kommande resor</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_end_pub_trans" approved="yes">
         <source>Show an alert towards the end of any public transport on your trip</source>
-        <target state="translated">Visa en avisering mot slutet av all kollektivtrafik under din resa</target>
+        <target state="final">Visa en avisering mot slutet av all kollektivtrafik under din resa</target>
         <alt-trans>
           <target>Visa en varning mot slutet av all kollektivtrafik under din resa</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip" approved="yes">
         <source>Start of trip</source>
-        <target state="translated">Resans början</target>
+        <target state="final">Resans början</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans" approved="yes">
         <source>Start of public transport</source>
-        <target state="translated">Början av kollektivtrafik</target>
+        <target state="final">Början av kollektivtrafik</target>
       </trans-unit>
       <trans-unit id="settings_title_server" approved="yes">
         <source>Server</source>
-        <target state="translated">Server</target>
+        <target state="final">Server</target>
       </trans-unit>
       <trans-unit id="settings_title_version" approved="yes">
         <source>Version</source>
-        <target state="translated">Version</target>
+        <target state="final">Version</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed" approved="yes">
         <source>Cycling speed</source>
-        <target state="translated">Cykelhastighet</target>
+        <target state="final">Cykelhastighet</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans" approved="yes">
         <source>End of public transport</source>
-        <target state="translated">Slut på kollektivtrafiken</target>
+        <target state="final">Slut på kollektivtrafiken</target>
       </trans-unit>
       <trans-unit id="sorted_by_price" approved="yes">
         <source>Sorted by Price</source>
-        <target state="translated">Sorterat efter pris</target>
+        <target state="final">Sorterat efter pris</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred" approved="yes">
         <source>Sorted by Preferred</source>
-        <target state="translated">Sorterat efter föredragna</target>
+        <target state="final">Sorterat efter föredragna</target>
       </trans-unit>
       <trans-unit id="timetable_download_error" approved="yes">
         <source>Error downloading services</source>
-        <target state="translated">Det gick inte att ladda ned tjänster</target>
+        <target state="final">Det gick inte att ladda ned tjänster</target>
         <alt-trans>
           <target>Fel vid nedladdning av tjänster</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="share_this_result" approved="yes">
         <source>Share this result</source>
-        <target state="translated">Dela det här resultatet</target>
+        <target state="final">Dela det här resultatet</target>
       </trans-unit>
       <trans-unit id="share_timetable" approved="yes">
         <source>Share timetable info</source>
-        <target state="translated">Dela info om tidtabell</target>
+        <target state="final">Dela info om tidtabell</target>
       </trans-unit>
       <trans-unit id="sort_by" approved="yes">
         <source>Sort By</source>
-        <target state="translated">Sortera efter</target>
+        <target state="final">Sortera efter</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival" approved="yes">
         <source>Sorted by Arrival</source>
-        <target state="translated">Sorterat efter ankomst</target>
+        <target state="final">Sorterat efter ankomst</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure" approved="yes">
         <source>Sorted by Departure</source>
-        <target state="translated">Sorterat efter avgång</target>
+        <target state="final">Sorterat efter avgång</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration" approved="yes">
         <source>Sorted by Duration</source>
-        <target state="translated">Sorterat efter varaktighet</target>
+        <target state="final">Sorterat efter varaktighet</target>
       </trans-unit>
       <trans-unit id="view_on_yelp" approved="yes">
         <source>View on Yelp</source>
-        <target state="translated">Visa på Yelp</target>
+        <target state="final">Visa på Yelp</target>
       </trans-unit>
       <trans-unit id="upcoming_services" approved="yes">
         <source>Upcoming Services</source>
-        <target state="translated">Kommande tjänster</target>
+        <target state="final">Kommande tjänster</target>
       </trans-unit>
       <trans-unit id="unknown_location" approved="yes">
         <source>Unknown location</source>
-        <target state="translated">Okänd plats</target>
+        <target state="final">Okänd plats</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix" approved="yes">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target state="translated">Väntar på platssignal. Om det misslyckas kan du försöka stänga av och slå på din GPS.</target>
+        <target state="final">Väntar på platssignal. Om det misslyckas kan du försöka stänga av och slå på din GPS.</target>
         <alt-trans>
           <target>Väntar på platssignal, om det misslyckas kan du försöka stänga av och slå på din GPS.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop" approved="yes">
         <source>View timetable of upcoming services</source>
-        <target state="translated">Visa tidtabell för kommande tjänster</target>
+        <target state="final">Visa tidtabell för kommande tjänster</target>
       </trans-unit>
       <trans-unit id="tomorrow" approved="yes">
         <source>Tomorrow</source>
-        <target state="translated">Imorgon</target>
+        <target state="final">Imorgon</target>
       </trans-unit>
       <trans-unit id="today" approved="yes">
         <source>Today</source>
-        <target state="translated">Idag</target>
+        <target state="final">Idag</target>
       </trans-unit>
       <trans-unit id="timetable_no_data" approved="yes">
         <source>No services found for this stop</source>
-        <target state="translated">Inga tjänster hittades för detta stopp</target>
+        <target state="final">Inga tjänster hittades för detta stopp</target>
       </trans-unit>
       <trans-unit id="trip_to" approved="yes">
         <source>Trip to %s</source>
-        <target state="translated">Resa till %s</target>
+        <target state="final">Resa till %s</target>
       </trans-unit>
       <trans-unit id="yesterday" approved="yes">
         <source>Yesterday</source>
-        <target state="translated">Igår</target>
+        <target state="final">Igår</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start" approved="yes">
         <source>Your trip is about to start</source>
-        <target state="translated">Din resa inleds snart</target>
+        <target state="final">Din resa inleds snart</target>
       </trans-unit>
       <trans-unit id="you_are_here" approved="yes">
         <source>You are here</source>
-        <target state="translated">Du är här</target>
+        <target state="final">Du är här</target>
       </trans-unit>
       <trans-unit id="news" approved="yes">
         <source>News</source>
-        <target state="translated">Nyheter</target>
+        <target state="final">Nyheter</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips" approved="yes">
         <source>Include in trips</source>
-        <target state="translated">Inkludera i resor</target>
+        <target state="final">Inkludera i resor</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available" approved="yes">
         <source>%s slots available</source>
-        <target state="translated">%s lediga platser</target>
+        <target state="final">%s lediga platser</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
           available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available" approved="yes">
         <source>%s slot available</source>
-        <target state="translated">%s ledig plats</target>
+        <target state="final">%s ledig plats</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available" approved="yes">
         <source>No slot available</source>
-        <target state="translated">Inga lediga platser</target>
+        <target state="final">Inga lediga platser</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at" approved="yes">
         <source>Updated at: %s</source>
-        <target state="translated">Uppdaterades kl: %s</target>
+        <target state="final">Uppdaterades kl: %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
         <alt-trans>
           <target>Uppdaterad kl: %s</target>
@@ -420,17 +420,17 @@
       </trans-unit>
       <trans-unit id="almost_full" approved="yes">
         <source>Almost full</source>
-        <target state="translated">Nästan fullt</target>
+        <target state="final">Nästan fullt</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="got_it" approved="yes">
         <source>Got it</source>
-        <target state="translated">Jag fattar</target>
+        <target state="final">Jag fattar</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen" approved="yes">
         <source>See your favourites on your home screen!</source>
-        <target state="translated">Visa dina favoriter på din hemskärm!</target>
+        <target state="final">Visa dina favoriter på din hemskärm!</target>
         <note>Add favourite direct access message</note>
         <alt-trans>
           <target>Se dina favoriter på din hemskärm!</target>
@@ -438,13 +438,23 @@
       </trans-unit>
       <trans-unit id="you_can_quickly_access_your_favourite_locations_from_your_launcher" approved="yes">
         <source>You can quickly access your favourite locations from your launcher.</source>
-        <target state="translated">Du kan snabbt komma åt dina favoritplatser från din launcher.</target>
+        <target state="final">Du kan snabbt komma åt dina favoritplatser från din launcher.</target>
         <note>Add favourite direct access description</note>
       </trans-unit>
       <trans-unit id="just_tap_pattern_then_pattern" approved="yes">
         <source>Just tap %1$s then '%2$s'</source>
-        <target state="translated">Tryck bara på %1$s och sedan '%2$s'</target>
+        <target state="final">Tryck bara på %1$s och sedan '%2$s'</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
+      </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <target state="translated">Tillgång till platstjänster krävs.</target>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target state="needs-translation">Tap public transport stops for access to timetable</target>
+        <note>Walkthrough</note>
       </trans-unit>
     </body>
   </file>

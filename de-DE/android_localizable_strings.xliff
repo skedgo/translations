@@ -4,59 +4,59 @@
     <body>
       <trans-unit id="access_to_your_calendar" approved="yes">
         <source>Access to your calendar is required</source>
-        <target state="translated">Zugriff auf deinen Kalender ist erforderlich</target>
+        <target state="final">Zugriff auf deinen Kalender ist erforderlich</target>
       </trans-unit>
       <trans-unit id="access_to_your_contacts" approved="yes">
         <source>Access to your contacts is required</source>
-        <target state="translated">Zugriff auf deine Kontakte ist erforderlich</target>
+        <target state="final">Zugriff auf deine Kontakte ist erforderlich</target>
       </trans-unit>
       <trans-unit id="add" approved="yes">
         <source>Add</source>
-        <target state="translated">Hinzufügen</target>
+        <target state="final">Hinzufügen</target>
       </trans-unit>
       <trans-unit id="add_location" approved="yes">
         <source>Add Location</source>
-        <target state="translated">Ort hinzufügen</target>
+        <target state="final">Ort hinzufügen</target>
       </trans-unit>
       <trans-unit id="add_to_contacts" approved="yes">
         <source>Add to contacts</source>
-        <target state="translated">Zu Kontakten hinzufügen</target>
+        <target state="final">Zu Kontakten hinzufügen</target>
       </trans-unit>
       <trans-unit id="add_to_home_screen" approved="yes">
         <source>Add to Home screen</source>
-        <target state="translated">Zum Home-Bildschirm hinzufügen</target>
+        <target state="final">Zum Home-Bildschirm hinzufügen</target>
       </trans-unit>
       <trans-unit id="agenda_tip" approved="yes">
         <source>View your daily agenda and favourites in the tabs below</source>
-        <target state="translated">Auf deine Agenda und Favoriten kannst du unten zugreifen</target>
+        <target state="final">Auf deine Agenda und Favoriten kannst du unten zugreifen</target>
       </trans-unit>
       <trans-unit id="all_alerts" approved="yes">
         <source>All Alerts</source>
-        <target state="translated">Alle Alarme</target>
+        <target state="final">Alle Alarme</target>
       </trans-unit>
       <trans-unit id="all_cals_invisible" approved="yes">
         <source>All your calendars are invisible, please switch them on in native calendar app or account settings</source>
-        <target state="translated">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein</target>
+        <target state="final">Alle deine Kalender sind ausgeblendet; bitte schalte sie in der Kalender-App oder den Einstellungen ein</target>
       </trans-unit>
       <trans-unit id="an_unexpected_network_error" approved="yes">
         <source>An unexpected network error has occurred. Please retry.</source>
-        <target state="translated">Unerwarteter Netzwerkfehler. Bitte versuche es noch einmal.</target>
+        <target state="final">Unerwarteter Netzwerkfehler. Bitte versuche es noch einmal.</target>
       </trans-unit>
       <trans-unit id="approximately_s_away" approved="yes">
         <source>Approximately %s away</source>
-        <target state="translated">Etwa %s entfernt</target>
+        <target state="final">Etwa %s entfernt</target>
       </trans-unit>
       <trans-unit id="arrivaltimeindication" approved="yes">
         <source>" (arrive "</source>
-        <target state="translated">" (Ankunft "</target>
+        <target state="final">" (Ankunft "</target>
       </trans-unit>
       <trans-unit id="booking" approved="yes">
         <source>Booking</source>
-        <target state="translated">Buchen</target>
+        <target state="final">Buchen</target>
       </trans-unit>
       <trans-unit id="cannot_add_reminder_for_past_trip" approved="yes">
         <source>Cannot add reminder for past trip</source>
-        <target state="translated">Erinnerungen für Ereignisse in der Vergangenheit können nicht hinzufügen werden</target>
+        <target state="final">Erinnerungen für Ereignisse in der Vergangenheit können nicht hinzufügen werden</target>
         <alt-trans>
           <target>Erinnerungen für Ereignisse in der Vergangenheit
           können nicht hinzufügen werden</target>
@@ -67,65 +67,65 @@
       </trans-unit>
       <trans-unit id="cant_call_error" approved="yes">
         <source>Error placing call</source>
-        <target state="translated">Aufruf fehlgeschlagen</target>
+        <target state="final">Aufruf fehlgeschlagen</target>
       </trans-unit>
       <trans-unit id="coordinates_s" approved="yes">
         <source>Coordinates: %s</source>
-        <target state="translated">Koordinaten: %s</target>
+        <target state="final">Koordinaten: %s</target>
       </trans-unit>
       <trans-unit id="couldnt_find_curr_loc" approved="yes">
         <source>Couldn't find your current location</source>
-        <target state="translated">Ortung fehlgeschlagen</target>
+        <target state="final">Ortung fehlgeschlagen</target>
         <alt-trans>
           <target>Konnte deinen gegenwärtigen Ort nicht bestimmen</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="destination" approved="yes">
         <source>destination</source>
-        <target state="translated">Ziel</target>
+        <target state="final">Ziel</target>
         <alt-trans>
           <target>Reiseziel</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="delete_vehicle" approved="yes">
         <source>Delete this vehicle</source>
-        <target state="translated">Fahrzeug löschen</target>
+        <target state="final">Fahrzeug löschen</target>
       </trans-unit>
       <trans-unit id="edit" approved="yes">
         <source>Edit</source>
-        <target state="translated">Bearbeiten</target>
+        <target state="final">Bearbeiten</target>
       </trans-unit>
       <trans-unit id="edit_favourite" approved="yes">
         <source>Edit favorite</source>
-        <target state="translated">Favorit bearbeiten</target>
+        <target state="final">Favorit bearbeiten</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_location" approved="yes">
         <source>Failed to resolve location</source>
-        <target state="translated">Ort nicht gefunden</target>
+        <target state="final">Ort nicht gefunden</target>
       </trans-unit>
       <trans-unit id="failed_2_resolve_link" approved="yes">
         <source>Failed to resolve link</source>
-        <target state="translated">Link nicht gefunden</target>
+        <target state="final">Link nicht gefunden</target>
       </trans-unit>
       <trans-unit id="get_off" approved="yes">
         <source>Get Off</source>
-        <target state="translated">Aussteigen</target>
+        <target state="final">Aussteigen</target>
       </trans-unit>
       <trans-unit id="first" approved="yes">
         <source>First:</source>
-        <target state="translated">Zuerst:</target>
+        <target state="final">Zuerst:</target>
       </trans-unit>
       <trans-unit id="filter_timetable_hint" approved="yes">
         <source>Filter by service name, number or stop</source>
-        <target state="translated">Nach Name, Nummer oder Haltestelle filtern</target>
+        <target state="final">Nach Name, Nummer oder Haltestelle filtern</target>
       </trans-unit>
       <trans-unit id="go_here" approved="yes">
         <source>Go Here</source>
-        <target state="translated">Hierhin gehen</target>
+        <target state="final">Hierhin gehen</target>
       </trans-unit>
       <trans-unit id="get_on" approved="yes">
         <source>Get On</source>
-        <target state="translated">Einsteigen</target>
+        <target state="final">Einsteigen</target>
       </trans-unit>
       <trans-unit id="information_on_concession_pricing_is_subject_to_availability_dot">
         <source>Information on concession pricing is subject to availability.</source>
@@ -136,55 +136,55 @@
       </trans-unit>
       <trans-unit id="its_time_to_leave" approved="yes">
         <source>It's time to leave!</source>
-        <target state="translated">Es ist Zeit zu gehen!</target>
+        <target state="final">Es ist Zeit zu gehen!</target>
       </trans-unit>
       <trans-unit id="leave_now_to_make_on_time" approved="yes">
         <source>Leave now to make it on time</source>
-        <target state="translated">Gehe jetzt los um pünktlich zu kommen</target>
+        <target state="final">Gehe jetzt los um pünktlich zu kommen</target>
       </trans-unit>
       <trans-unit id="go_to_now" approved="yes">
         <source>Go to Now</source>
-        <target state="translated">Gehe zu Jetzt</target>
+        <target state="final">Gehe zu Jetzt</target>
       </trans-unit>
       <trans-unit id="include_cal_explanation" approved="yes">
         <source>Events from those calendars will be used in planning your day</source>
-        <target state="translated">Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
+        <target state="final">Ereignisse aus diesen Kalendern werden genutzt um deinen Tag zu planen</target>
       </trans-unit>
       <trans-unit id="minute" approved="yes">
         <source>1 minute</source>
-        <target state="translated">1 Minute</target>
+        <target state="final">1 Minute</target>
       </trans-unit>
       <trans-unit id="new_vehicle" approved="yes">
         <source>New vehicle</source>
-        <target state="translated">Neues Fahrzeug</target>
+        <target state="final">Neues Fahrzeug</target>
       </trans-unit>
       <trans-unit id="location_not_found" approved="yes">
         <source>Location Not Found</source>
-        <target state="translated">Ort nicht gefunden</target>
+        <target state="final">Ort nicht gefunden</target>
       </trans-unit>
       <trans-unit id="location_selected" approved="yes">
         <source>Location selected</source>
-        <target state="translated">Ort ausgewählt</target>
+        <target state="final">Ort ausgewählt</target>
       </trans-unit>
       <trans-unit id="no_ratings_received" approved="yes">
         <source>No ratings received</source>
-        <target state="translated">Noch keine Bewertungen</target>
+        <target state="final">Noch keine Bewertungen</target>
       </trans-unit>
       <trans-unit id="no_services_available" approved="yes">
         <source>No services available</source>
-        <target state="translated">Keine Dienste verfügbar</target>
+        <target state="final">Keine Dienste verfügbar</target>
       </trans-unit>
       <trans-unit id="no_favourites_saved" approved="yes">
         <source>No favorite locations saved</source>
-        <target state="translated">Keine Favoriten gespeichert</target>
+        <target state="final">Keine Favoriten gespeichert</target>
       </trans-unit>
       <trans-unit id="nicely_informed_error" approved="yes">
         <source>There was an error and it was reported to us. Please try again</source>
-        <target state="translated">Es ist ein Fehler aufgetreten und wir wurden benachrichtigt. Bitte versuche es noch einmal.</target>
+        <target state="final">Es ist ein Fehler aufgetreten und wir wurden benachrichtigt. Bitte versuche es noch einmal.</target>
       </trans-unit>
       <trans-unit id="origin" approved="yes">
         <source>origin</source>
-        <target state="translated">Startpunkt</target>
+        <target state="final">Startpunkt</target>
       </trans-unit>
       <trans-unit id="outside_region_error">
         <source>Sorry, that location is outside of TripGo's range!</source>
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="refresh" approved="yes">
         <source>Refresh</source>
-        <target state="translated">Aktualisieren</target>
+        <target state="final">Aktualisieren</target>
       </trans-unit>
       <trans-unit id="set_end_time">
         <source>Set end time</source>
@@ -210,11 +210,11 @@
       </trans-unit>
       <trans-unit id="select_calendars" approved="yes">
         <source>Select calendars</source>
-        <target state="translated">Kalendar auswählen</target>
+        <target state="final">Kalendar auswählen</target>
       </trans-unit>
       <trans-unit id="save" approved="yes">
         <source>Save</source>
-        <target state="translated">Speichern</target>
+        <target state="final">Speichern</target>
       </trans-unit>
       <trans-unit id="routine_explanation">
         <source>Routines are post of your daily movement, but they aren't events that you want in your calendar (e.g. work). They are important for the Agenda to get you to the right location at the right time</source>
@@ -225,11 +225,11 @@
       </trans-unit>
       <trans-unit id="settings_category_reminders" approved="yes">
         <source>Notifications</source>
-        <target state="translated">Mitteilungen</target>
+        <target state="final">Mitteilungen</target>
       </trans-unit>
       <trans-unit id="settings_category_about" approved="yes">
         <source>About</source>
-        <target state="translated">Über</target>
+        <target state="final">Über</target>
       </trans-unit>
       <trans-unit id="set_time">
         <source>Set time</source>
@@ -261,7 +261,7 @@
       </trans-unit>
       <trans-unit id="settings_summary_reminder_start_pub_trans" approved="yes">
         <source>Show an alert before any public transport on your trip</source>
-        <target state="translated">Alarm vor jedem öffentlichen Verkehrsmittel auf deinem Trip anzeigen</target>
+        <target state="final">Alarm vor jedem öffentlichen Verkehrsmittel auf deinem Trip anzeigen</target>
       </trans-unit>
       <trans-unit id="settings_summary_reminder_service_alerts">
         <source>Show service alerts which affect your upcoming trips</source>
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_off_trip" approved="yes">
         <source>Start of trip</source>
-        <target state="translated">Trip-Anfang</target>
+        <target state="final">Trip-Anfang</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_start_pub_trans">
         <source>Start of public transport</source>
@@ -281,15 +281,15 @@
       </trans-unit>
       <trans-unit id="settings_title_server" approved="yes">
         <source>Server</source>
-        <target state="translated">Server</target>
+        <target state="final">Server</target>
       </trans-unit>
       <trans-unit id="settings_title_version" approved="yes">
         <source>Version</source>
-        <target state="translated">Version</target>
+        <target state="final">Version</target>
       </trans-unit>
       <trans-unit id="settings_title_cycling_speed" approved="yes">
         <source>Cycling speed</source>
-        <target state="translated">Radfahrgeschwindigkeit</target>
+        <target state="final">Radfahrgeschwindigkeit</target>
       </trans-unit>
       <trans-unit id="settings_title_reminder_end_pub_trans">
         <source>End of public transport</source>
@@ -300,39 +300,39 @@
       </trans-unit>
       <trans-unit id="sorted_by_price" approved="yes">
         <source>Sorted by Price</source>
-        <target state="translated">Nach Preis sortiert</target>
+        <target state="final">Nach Preis sortiert</target>
       </trans-unit>
       <trans-unit id="sorted_by_preferred" approved="yes">
         <source>Sorted by Preferred</source>
-        <target state="translated">Nach Präferenz sortiert</target>
+        <target state="final">Nach Präferenz sortiert</target>
       </trans-unit>
       <trans-unit id="timetable_download_error" approved="yes">
         <source>Error downloading services</source>
-        <target state="translated">Fehler beim Herunterladen</target>
+        <target state="final">Fehler beim Herunterladen</target>
       </trans-unit>
       <trans-unit id="share_this_result" approved="yes">
         <source>Share this result</source>
-        <target state="translated">Ergebnis teilen</target>
+        <target state="final">Ergebnis teilen</target>
       </trans-unit>
       <trans-unit id="share_timetable" approved="yes">
         <source>Share timetable info</source>
-        <target state="translated">Fahrplan-Info teilen</target>
+        <target state="final">Fahrplan-Info teilen</target>
       </trans-unit>
       <trans-unit id="sort_by" approved="yes">
         <source>Sort By</source>
-        <target state="translated">Sortieren nach</target>
+        <target state="final">Sortieren nach</target>
       </trans-unit>
       <trans-unit id="sorted_by_arrival" approved="yes">
         <source>Sorted by Arrival</source>
-        <target state="translated">Nach Ankunft sortiert</target>
+        <target state="final">Nach Ankunft sortiert</target>
       </trans-unit>
       <trans-unit id="sorted_by_departure" approved="yes">
         <source>Sorted by Departure</source>
-        <target state="translated">Nach Abreise sortiert</target>
+        <target state="final">Nach Abreise sortiert</target>
       </trans-unit>
       <trans-unit id="sorted_by_duration" approved="yes">
         <source>Sorted by Duration</source>
-        <target state="translated">Nach Dauer sortiert</target>
+        <target state="final">Nach Dauer sortiert</target>
       </trans-unit>
       <trans-unit id="view_on_yelp">
         <source>View on Yelp</source>
@@ -343,15 +343,15 @@
       </trans-unit>
       <trans-unit id="upcoming_services" approved="yes">
         <source>Upcoming Services</source>
-        <target state="translated">Nächste Abfahrten</target>
+        <target state="final">Nächste Abfahrten</target>
       </trans-unit>
       <trans-unit id="unknown_location" approved="yes">
         <source>Unknown location</source>
-        <target state="translated">Unbekannter Ort</target>
+        <target state="final">Unbekannter Ort</target>
       </trans-unit>
       <trans-unit id="waiting_for_gps_fix" approved="yes">
         <source>Waiting for location signal, if fails, you can try turning your GPS off and on..</source>
-        <target state="translated">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...</target>
+        <target state="final">Warte auf Signal; falls erfolglos, versuche GPS aus- und wieder einzuschalten...</target>
       </trans-unit>
       <trans-unit id="view_timetable_for_stop">
         <source>View timetable of upcoming services</source>
@@ -362,11 +362,11 @@
       </trans-unit>
       <trans-unit id="tomorrow" approved="yes">
         <source>Tomorrow</source>
-        <target state="translated">Morgen</target>
+        <target state="final">Morgen</target>
       </trans-unit>
       <trans-unit id="today" approved="yes">
         <source>Today</source>
-        <target state="translated">Heute</target>
+        <target state="final">Heute</target>
       </trans-unit>
       <trans-unit id="timetable_no_data">
         <source>No services found for this stop</source>
@@ -377,62 +377,62 @@
       </trans-unit>
       <trans-unit id="trip_to" approved="yes">
         <source>Trip to %s</source>
-        <target state="translated">Trip nach %s</target>
+        <target state="final">Trip nach %s</target>
       </trans-unit>
       <trans-unit id="yesterday" approved="yes">
         <source>Yesterday</source>
-        <target state="translated">Gestern</target>
+        <target state="final">Gestern</target>
       </trans-unit>
       <trans-unit id="your_trip_is_about_to_start" approved="yes">
         <source>Your trip is about to start</source>
-        <target state="translated">Dein Trip beginnt gleich</target>
+        <target state="final">Dein Trip beginnt gleich</target>
       </trans-unit>
       <trans-unit id="you_are_here" approved="yes">
         <source>You are here</source>
-        <target state="translated">Du bist hier</target>
+        <target state="final">Du bist hier</target>
       </trans-unit>
       <trans-unit id="news" approved="yes">
         <source>News</source>
-        <target state="translated">Neuigkeiten</target>
+        <target state="final">Neuigkeiten</target>
         <note>Settings option to enable/disable news (notifications).</note>
       </trans-unit>
       <trans-unit id="include_in_trips" approved="yes">
         <source>Include in trips</source>
-        <target state="translated">Für Routen verwenden</target>
+        <target state="final">Für Routen verwenden</target>
         <note>In transport mode detail, setting to enable that transport mode to be included in
           trips.
         </note>
       </trans-unit>
       <trans-unit id="multiple_slots_available" approved="yes">
         <source>%s slots available</source>
-        <target state="translated">%s Parkplätze verfügbar</target>
+        <target state="final">%s Parkplätze verfügbar</target>
         <note>Used for parking slots. Format string for multiple slots. Example: 10 slots
           available
         </note>
       </trans-unit>
       <trans-unit id="one_slot_available" approved="yes">
         <source>%s slot available</source>
-        <target state="translated">%s Parkplatz verfügbar</target>
+        <target state="final">%s Parkplatz verfügbar</target>
         <note>Used for parking slots. Format string for one slots. Example: 1 slot available</note>
       </trans-unit>
       <trans-unit id="no_slots_available" approved="yes">
         <source>No slot available</source>
-        <target state="translated">Keine Parkplätze verfügbar</target>
+        <target state="final">Keine Parkplätze verfügbar</target>
         <note>Used for parking slots, when there's no slot available.</note>
       </trans-unit>
       <trans-unit id="updated_at" approved="yes">
         <source>Updated at: %s</source>
-        <target state="translated">Aktualisiert: %s</target>
+        <target state="final">Aktualisiert: %s</target>
         <note>Parking slots, updated time. Example: Updated at 10am</note>
       </trans-unit>
       <trans-unit id="almost_full" approved="yes">
         <source>Almost full</source>
-        <target state="translated">Fast voll</target>
+        <target state="final">Fast voll</target>
         <note>Occupancy almost full</note>
       </trans-unit>
       <trans-unit id="got_it" approved="yes">
         <source>Got it</source>
-        <target state="translated">Verstanden</target>
+        <target state="final">Verstanden</target>
         <note>"Understood" button label</note>
       </trans-unit>
       <trans-unit id="see_your_favourites_on_your_home_screen">
@@ -458,6 +458,16 @@
         <alt-trans>
           <target>Einfach auf %1$s und dann auf '%2$s' tippen</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <target state="translated">Zugriff zu Ortungsdienst benötigt.</target>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target state="translated">Um den Fahrplan zu sehen, tippe auf eine Haltestelle</target>
+        <note>Walkthrough</note>
       </trans-unit>
     </body>
   </file>

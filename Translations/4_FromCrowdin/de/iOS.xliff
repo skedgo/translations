@@ -161,6 +161,11 @@
         <target state="final">Jeden Tag</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
+      <trans-unit id="My Account" xml:space="preserve" approved="yes">
+        <source>My Account</source>
+        <target state="final">Mein Account</target>
+        <note>Header for accessing my account</note>
+      </trans-unit>
       <trans-unit id="Repeats daily" xml:space="preserve">
         <source>Repeats daily</source>
         <target state="translated">Täglich</target>
@@ -305,7 +310,7 @@
       </trans-unit>
       <trans-unit id="Add Favourite" xml:space="preserve">
         <source>Add Favourite</source>
-        <target state="needs-translation">Add Favourite</target>
+        <target state="translated">Favorit hinzufügen</target>
         <note>Add favourite activity title</note>
       </trans-unit>
       <trans-unit id="Add Reminder" xml:space="preserve" approved="yes">
@@ -1582,22 +1587,22 @@
       </trans-unit>
       <trans-unit id="%@: %@ per month" xml:space="preserve">
         <source>%1$@: %2$@ per month</source>
-        <target state="needs-translation">%1$@: %2$@ per month</target>
+        <target state="translated">%1$@: %2$@ pro Monat</target>
         <note>Format string for displaying the fee users must pay per month to access the discounted rates available in a mobility plan. Example: Subscription (feeType): $50 (value) per month</note>
       </trans-unit>
       <trans-unit id="Active" xml:space="preserve">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Aktiv</target>
         <note>This is to indicate a mobility plan is active and available for users to subscribe to</note>
       </trans-unit>
       <trans-unit id="Activities" xml:space="preserve">
         <source>Activities</source>
-        <target state="needs-translation">Activities</target>
+        <target state="translated">Aktivitäten</target>
         <note>This is a term that describes everything that happens while user is on a mobility plan. There are two types of activities defined: trips and transactions.</note>
       </trans-unit>
       <trans-unit id="Activity history" xml:space="preserve">
         <source>Activity history</source>
-        <target state="needs-translation">Activity history</target>
+        <target state="translated">Aktivitäten-Historie</target>
         <note>Title for screen that shows a list months in which users have activies recorded in their mobility bundles</note>
       </trans-unit>
       <trans-unit id="Add stopover…" xml:space="preserve">
@@ -1652,7 +1657,7 @@
       </trans-unit>
       <trans-unit id="Balance is unknown" xml:space="preserve">
         <source>Balance is unknown</source>
-        <target state="needs-translation">Balance is unknown</target>
+        <target state="translated">Balance ist unbekannt</target>
         <note>Text for a label that would otherwise display the current wallet balance for a user. This usually happens when we cannot fetch a user from our server</note>
       </trans-unit>
       <trans-unit id="By continuing, you are agreeing to our %@ and %@" xml:space="preserve">
@@ -1672,7 +1677,7 @@
       </trans-unit>
       <trans-unit id="Change to this plan" xml:space="preserve">
         <source>Change to this plan</source>
-        <target state="needs-translation">Change to this plan</target>
+        <target state="translated">Zu diesem Paket wechseln</target>
         <note>Title for the button that allows users to change his/her mobility plan for the next month</note>
       </trans-unit>
       <trans-unit id="Clear Photo" xml:space="preserve">
@@ -1697,7 +1702,7 @@
       </trans-unit>
       <trans-unit id="Confirmation is required" xml:space="preserve">
         <source>Confirmation is required</source>
-        <target state="needs-translation">Confirmation is required</target>
+        <target state="translated">Bestätigung erforderlich</target>
         <note>Title for an alert that asks users for confirmation.</note>
       </trans-unit>
       <trans-unit id="Could not plan the next trip. Better check TripGo." xml:space="preserve">
@@ -1707,7 +1712,7 @@
       <alt-trans><target>Trip konnte nicht berechnet werden. Besser öffne TripGo.</target></alt-trans></trans-unit>
       <trans-unit id="Current" xml:space="preserve">
         <source>Current</source>
-        <target state="needs-translation">Current</target>
+        <target state="translated">Ausgewählt</target>
         <note>This is to indicate a mobility plan is the user's current plan</note>
       </trans-unit>
       <trans-unit id="Current Trip" xml:space="preserve" approved="yes">
@@ -1767,22 +1772,22 @@
       </trans-unit>
       <trans-unit id="Empty server response" xml:space="preserve">
         <source>Empty server response</source>
-        <target state="needs-translation">Empty server response</target>
+        <target state="translated">Leere Serverantwort</target>
         <note>Title for an error alert. This error happens when our server returns successfully but the response contains no data.</note>
       </trans-unit>
       <trans-unit id="Error retrieving history" xml:space="preserve">
         <source>Error retrieving history</source>
-        <target state="needs-translation">Error retrieving history</target>
+        <target state="translated">Fehler beim Abrufen der Historie</target>
         <note>Title for an error alert. This error typically occurs the app cannot fetch the activity history for a user.</note>
       </trans-unit>
       <trans-unit id="Error retrieving plans" xml:space="preserve">
         <source>Error retrieving plans</source>
-        <target state="needs-translation">Error retrieving plans</target>
+        <target state="translated">Fehler beim Abrufen der Pakete</target>
         <note>Title for an error alert. This error typically occurs the app cannot fetch the list of available plans.</note>
       </trans-unit>
       <trans-unit id="Error updating bundle details" xml:space="preserve">
         <source>Error updating bundle details</source>
-        <target state="needs-translation">Error updating bundle details</target>
+        <target state="translated">Fehler beim Aktualisieren der Paketdetails</target>
         <note>Title for an error alert. This error typically occurs when the app cannot update/retrieve details of a mobility plan</note>
       </trans-unit>
       <trans-unit id="Favourites" xml:space="preserve" approved="yes">
@@ -1802,7 +1807,7 @@
       </trans-unit>
       <trans-unit id="Full fare" xml:space="preserve">
         <source>Full fare</source>
-        <target state="needs-translation">Full fare</target>
+        <target state="translated">Voller Preis</target>
         <note>This usually means that there's no discount for some service. For instance, a user may need to pay full fare for a transport mode not included in his/her mobility bundle.</note>
       </trans-unit>
       <trans-unit id="Get Started!" xml:space="preserve" approved="yes">
@@ -1863,17 +1868,17 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       <alt-trans><target>Wenn du TripGo Zugriff auf deinen aktuellen Standort, deine Kontakte, Kalender oder mehr gewährt hast, kannst du den Zugriff auf diese Daten über die App "Einstellungen" widerrufen.</target></alt-trans></trans-unit>
       <trans-unit id="Inactive" xml:space="preserve">
         <source>Inactive</source>
-        <target state="needs-translation">Inactive</target>
+        <target state="translated">Inaktiv</target>
         <note>This is to indicate a mobility plan is inactive and unavailable for users to subscribe to</note>
       </trans-unit>
       <trans-unit id="Invalid action" xml:space="preserve">
         <source>Invalid action</source>
-        <target state="needs-translation">Invalid action</target>
+        <target state="translated">Ungültige Aktion</target>
         <note>Title for an error alert. This error is typicall the result of a user performed something that is not expected. For instance, when the user tries to subscribe to a plan that he/she is already subscribed to.</note>
       </trans-unit>
       <trans-unit id="Joined on" xml:space="preserve">
         <source>Joined on</source>
-        <target state="needs-translation">Joined on</target>
+        <target state="translated">Beigetreten</target>
         <note>This indicate when a user joins a mobility plan. Example: Joined on 1st of Sept. 2019.</note>
       </trans-unit>
       <trans-unit id="Managing Your Personal Data" xml:space="preserve">
@@ -1893,12 +1898,12 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="Minimum purchase" xml:space="preserve">
         <source>Minimum purchase</source>
-        <target state="needs-translation">Minimum purchase</target>
+        <target state="translated">Mindestabnahme</target>
         <note>This is a type of mobility bundle. It usually means users have to pay the amount specified to access the benefits included in the bundle. The difference between this and the Subscription type is the fees paid can be used on travel.</note>
       </trans-unit>
       <trans-unit id="Mobility plans" xml:space="preserve">
         <source>Mobility plans</source>
-        <target state="needs-translation">Mobility plans</target>
+        <target state="translated">Mobilitätspaket</target>
         <note>Title for screen that shows a list of mobility plans currently offered.</note>
       </trans-unit>
       <trans-unit id="My Personal Data" xml:space="preserve" approved="yes">
@@ -1908,7 +1913,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="My mobility plan" xml:space="preserve">
         <source>My mobility plan</source>
-        <target state="needs-translation">My mobility plan</target>
+        <target state="translated">Mein Mobilitätspaket</target>
         <note>Title for screen that shows the user's current and upcoming (if applicable) plans</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve" approved="yes">
@@ -1923,7 +1928,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="Next month" xml:space="preserve">
         <source>Next month</source>
-        <target state="needs-translation">Next month</target>
+        <target state="translated">Nächster Monat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Next trip" xml:space="preserve" approved="yes">
@@ -1933,7 +1938,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="No description provided" xml:space="preserve">
         <source>No description provided</source>
-        <target state="needs-translation">No description provided</target>
+        <target state="translated">Keine Beschreibung angegeben</target>
         <note>This is to inform users that no descriptive text has been provided for something. Example, we may miss a description for a money transaction occurred.</note>
       </trans-unit>
       <trans-unit id="Once removed, the device will stop receiving future push notifications" xml:space="preserve">
@@ -1948,7 +1953,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="Only upcoming plan can be removed" xml:space="preserve">
         <source>Only upcoming plan can be removed</source>
-        <target state="needs-translation">Only upcoming plan can be removed</target>
+        <target state="translated">Nur zukünftige Pakete können entfernt werden</target>
         <note>This is a message displayed in an error alert. This error happens when the user tries to remove a non-upcoming plan.</note>
       </trans-unit>
       <trans-unit id="Open Now" xml:space="preserve" approved="yes">
@@ -1968,7 +1973,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="Other plans" xml:space="preserve">
         <source>Other plans</source>
-        <target state="needs-translation">Other plans</target>
+        <target state="translated">Andere Pakete</target>
         <note>Title for a cell that leads users to view a list of plans that are neither current nor upcoming.</note>
       </trans-unit>
       <trans-unit id="Parking" xml:space="preserve" approved="yes">
@@ -1983,27 +1988,27 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="Plan name is unknown" xml:space="preserve">
         <source>Plan name is unknown</source>
-        <target state="needs-translation">Plan name is unknown</target>
+        <target state="translated">Paketname ist unbekannt</target>
         <note>Text for a label that would otherwise display the name of a plan. This usually happens when we cannot fetch a plan from our server</note>
       </trans-unit>
       <trans-unit id="Plan not found" xml:space="preserve">
         <source>Plan not found</source>
-        <target state="needs-translation">Plan not found</target>
+        <target state="translated">Paket nicht gefunden</target>
         <note>Title for an error alert. This error happens during a bundle/plan look up by an identifier.</note>
       </trans-unit>
       <trans-unit id="Plan with the specified ID cannot be found" xml:space="preserve">
         <source>Plan with the specified ID cannot be found</source>
-        <target state="needs-translation">Plan with the specified ID cannot be found</target>
+        <target state="translated">Paket mit der angegebenen ID wurde nicht gefunden</target>
         <note>This is a message displayed in an error alert. The error happens during a bundle/plan look up by an identifier.</note>
       </trans-unit>
       <trans-unit id="Please confirm the request to change plan. The new plan will become effective on the first day of next month." xml:space="preserve">
         <source>Please confirm the request to change plan. The new plan will become effective on the first day of next month.</source>
-        <target state="needs-translation">Please confirm the request to change plan. The new plan will become effective on the first day of next month.</target>
+        <target state="translated">Bitte bestätigen Sie den Antrag auf Änderung des Pakets. Das neue Paket wird am ersten Tag des nächsten Monats in Kraft treten.</target>
         <note>Alert message when users attempt to change their plans in the next month.</note>
       </trans-unit>
       <trans-unit id="Please confirm unsubscribing from this plan. You will remain on the current plan in the next month" xml:space="preserve">
         <source>Please confirm unsubscribing from this plan. You will remain on the current plan in the next month</source>
-        <target state="needs-translation">Please confirm unsubscribing from this plan. You will remain on the current plan in the next month</target>
+        <target state="translated">Bitte bestätigen Sie die Stornierung des Wechsels zu diesem Paket. Sie bleiben damit im nächsten Monat bei Ihren aktuellem Paket.</target>
         <note>Alert message when users attempt to unscribe from their upcoming plans</note>
       </trans-unit>
       <trans-unit id="Please delete the app and re-install from the App Store. Sorry for the inconvenience!" xml:space="preserve" approved="yes">
@@ -2038,7 +2043,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="Recorded on %@" xml:space="preserve">
         <source>Recorded on %@</source>
-        <target state="needs-translation">Recorded on %@</target>
+        <target state="translated">Aufgenommen am: %@</target>
         <note>Format string for displaying the date on which a trip or a transaction was recorded.</note>
       </trans-unit>
       <trans-unit id="Registered devices" xml:space="preserve" approved="yes">
@@ -2103,7 +2108,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       <alt-trans><target>Bis zum nächsten Trip snoozen</target></alt-trans></trans-unit>
       <trans-unit id="Starting from" xml:space="preserve">
         <source>Starting from</source>
-        <target state="needs-translation">Starting from</target>
+        <target state="translated">Ab</target>
         <note>This indicate when an upcoming bundle becomes effective. Example: Starting from 1st of Sept. 2019.</note>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
@@ -2123,14 +2128,13 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       <alt-trans><target>Zwischenstelle</target></alt-trans></trans-unit>
       <trans-unit id="Subscription" xml:space="preserve">
         <source>Subscription</source>
-        <target state="needs-translation">Subscription</target>
+        <target state="translated">Abonnement</target>
         <note>This is a type of mobility bundle. It usually means users have to pay some fees per month to access the benefits included in the bundle. The difference between this and the minimum purchase type is the fees paid cannot be used on any travel.</note>
       </trans-unit>
       <trans-unit id="Take %@ off every trip" xml:space="preserve">
         <source>Take %@ off every trip</source>
-        <target state="needs-translation">Take %@ off every trip</target>
-        <note>Format string for displaying the discount user received for a trip. The discount is specified as a percentage. An example: Take 5% off every trip
-   Format string for displaying the discount user received for a trip. The discount is specified in the dollar term (as opposed to a percentage). An example: Take $5 off every trip</note>
+        <target state="translated">%@ von jedem Trip abziehen</target>
+        <note>Format string for displaying the discount user received for a trip. The discount is specified in the dollar term or a percentage. Examples: 'Take $5 off every trip' or 'Take 5% off every trip'</note>
       </trans-unit>
       <trans-unit id="Take photo" xml:space="preserve" approved="yes">
         <source>Take photo</source>
@@ -2157,14 +2161,14 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
         <target state="needs-translation">There are no %@ recorded for the current month</target>
         <note>Format string for informing users that records of certain activity types aren't found. Example: There are no (trips) recorded for the current month.</note>
       </trans-unit>
-      <trans-unit id="There are no activity records for this month" xml:space="preserve">
+      <trans-unit id="There are no activity records for this month" xml:space="preserve" approved="yes">
         <source>There are no activity records for this month</source>
-        <target state="needs-translation">There are no activity records for this month</target>
+        <target state="final">Keine Aktivitäten für diesen Monat gefunden</target>
         <note>Text informing users we cannot locate any records of activity on his/her plan for a month.</note>
-      </trans-unit>
+      <alt-trans><target>Keine Aktivitäten für diesen Monat vorhanden</target></alt-trans></trans-unit>
       <trans-unit id="These are the fees payable to access discounted rates on included transport modes" xml:space="preserve">
         <source>These are the fees payable to access discounted rates on included transport modes</source>
-        <target state="needs-translation">These are the fees payable to access discounted rates on included transport modes</target>
+        <target state="translated">Dies sind die Gebühren, die zu zahlen sind, um Zugang zu ermäßigten Tarifen der eingeschl. Transportarten zu erhalten</target>
         <note>Explanation for fees charged on a mobility plan</note>
       </trans-unit>
       <trans-unit id="This device" xml:space="preserve" approved="yes">
@@ -2174,7 +2178,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="This feature requires a TripGo account. If you already have one, please sign in, otherwise, please contact your administrator." xml:space="preserve">
         <source>This feature requires a TripGo account. If you already have one, please sign in, otherwise, please contact your administrator.</source>
-        <target state="needs-translation">This feature requires a TripGo account. If you already have one, please sign in, otherwise, please contact your administrator.</target>
+        <target state="translated">Für diese Funktion ist ein TripGo-Account erforderlich. Wenn Sie bereits einen haben, melden Sie sich bitte an, andernfalls wenden Sie sich an Ihren Administrator.</target>
         <note>This is a message displayed in an error alert</note>
       </trans-unit>
       <trans-unit id="This is your %@ plan" xml:space="preserve">
@@ -2184,7 +2188,7 @@ Diese Daten werden anonymisiert und wir stellen sie Forschern, Behörden und Tra
       </trans-unit>
       <trans-unit id="This month" xml:space="preserve">
         <source>This month</source>
-        <target state="needs-translation">This month</target>
+        <target state="translated">Dieser Monat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This will delete your account from TripGo's servers. Continued use of TripGo will create a new empty account.&#10;&#10;Note, your iCloud data will not be deleted by this, but you can delete this in the Settings app." xml:space="preserve">
@@ -2230,7 +2234,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Transactions" xml:space="preserve">
         <source>Transactions</source>
-        <target state="needs-translation">Transactions</target>
+        <target state="translated">Transaktionen</target>
         <note>This is a term that describes all money transactions that have occurred while user is on a mobility plan. \"Transactions\" is a type of \"activity\", which is localized separately</note>
       </trans-unit>
       <trans-unit id="Transport" xml:space="preserve" approved="yes">
@@ -2240,7 +2244,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Transport mode" xml:space="preserve">
         <source>Transport mode</source>
-        <target state="needs-translation">Transport mode</target>
+        <target state="translated">Transportmittel</target>
         <note>Placeholder text for the view that shows what TSP is included in a mobility bundle. This should be replaced by something like \"Uber\" at run time.</note>
       </trans-unit>
       <trans-unit id="Trip selections" xml:space="preserve" approved="yes">
@@ -2270,17 +2274,17 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Unknown destination" xml:space="preserve">
         <source>Unknown destination</source>
-        <target state="needs-translation">Unknown destination</target>
+        <target state="translated">Unbekanntes Ziel</target>
         <note>This is to inform users that we are unable to obtain a descriptive text for the destination for his/her trip</note>
       </trans-unit>
       <trans-unit id="Unknown origin" xml:space="preserve">
         <source>Unknown origin</source>
-        <target state="needs-translation">Unknown origin</target>
+        <target state="translated">Unbekannte Herkunft</target>
         <note>This is to inform users that we are unable to obtain a descriptive text for the origin for his/her trip</note>
       </trans-unit>
       <trans-unit id="Upcoming" xml:space="preserve">
         <source>Upcoming</source>
-        <target state="needs-translation">Upcoming</target>
+        <target state="translated">Bevorstehende</target>
         <note>This is to indicate a mobility plan is the user's future, usually next month, plan</note>
       </trans-unit>
       <trans-unit id="Upcoming Trip" xml:space="preserve">
@@ -2300,17 +2304,17 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="View my plans" xml:space="preserve">
         <source>View my plans</source>
-        <target state="needs-translation">View my plans</target>
+        <target state="translated">Meine Pakete anzeigen</target>
         <note>Title for a button that when tapped, takes users to view his/her current and upcoming (if applicable) plans</note>
       </trans-unit>
       <trans-unit id="View plan" xml:space="preserve">
         <source>View plan</source>
-        <target state="needs-translation">View plan</target>
+        <target state="translated">Paket anzeigen</target>
         <note>Title for a button that when tapped, takes users to view details for a mobility plan</note>
       </trans-unit>
       <trans-unit id="Wallet" xml:space="preserve">
         <source>Wallet</source>
-        <target state="needs-translation">Wallet</target>
+        <target state="translated">Wallet</target>
         <note>Title for the tab bar item whose root view is the month overview for users on a mobility bundle.</note>
       </trans-unit>
       <trans-unit id="Warning" xml:space="preserve" approved="yes">
@@ -2325,17 +2329,17 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       <alt-trans><target>Wir speichern diese Daten auf Servern in Australien, Europa oder den USA. Wir behalten diese Daten unbefristet, um langfristige Trends zu analysieren. Weitere Einzelheiten findest du in unserer Datenschutzerklärung.</target></alt-trans></trans-unit>
       <trans-unit id="You have already subscribed to this plan" xml:space="preserve">
         <source>You have already subscribed to this plan</source>
-        <target state="needs-translation">You have already subscribed to this plan</target>
+        <target state="translated">Sie haben dieses Paket bereits abonniert</target>
         <note>This is a message displayed in an error alert. This error happens when the user tries to subscribe to a plan he/she is already subscribed to.</note>
       </trans-unit>
       <trans-unit id="You will receive discounted rates if the above transport modes are used. For transport modes not shown, full fares apply" xml:space="preserve">
         <source>You will receive discounted rates if the above transport modes are used. For transport modes not shown, full fares apply</source>
-        <target state="needs-translation">You will receive discounted rates if the above transport modes are used. For transport modes not shown, full fares apply</target>
+        <target state="translated">Sie erhalten ermäßigte Tarife, wenn die oben genannten Beförderungsarten benutzt werden. Für nicht angezeigte Beförderungsarten gelten die vollen Tarife.</target>
         <note>Explanation for transport modes included in a mobility plan</note>
       </trans-unit>
       <trans-unit id="applicable discount" xml:space="preserve">
         <source>applicable discount</source>
-        <target state="needs-translation">applicable discount</target>
+        <target state="translated">Rabatt</target>
         <note>Placeholder text for the view that indicates what discount is offered for a TSP included in a mobility bndle. This should be replaced by something liek \"Take 5% off each trip\" at run time.</note>
       </trans-unit>
     </body>
@@ -3035,7 +3039,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Secure passwords are at least five characters long and include numbers and symbols" xml:space="preserve">
         <source>Secure passwords are at least five characters long and include numbers and symbols</source>
-        <target state="needs-translation">Secure passwords are at least five characters long and include numbers and symbols</target>
+        <target state="translated">Sichere Passwörter sind mindestens fünf Zeichen lang und enthalten sowohl Zahlen als auch Symbole</target>
         <note>A footnote that tells recommends the format of a secure password.</note>
       </trans-unit>
       <trans-unit id="Sent" xml:space="preserve">
@@ -3338,24 +3342,22 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       <trans-unit id="Arrive" xml:space="preserve" approved="yes">
         <source>Arrive</source>
         <target state="final">Ankunft</target>
-        <note>Prefix for selected 'arrive by' time
-   Single line instruction to arrive</note>
+        <note>Single line instruction to arrive</note>
       </trans-unit>
       <trans-unit id="Arrive %@" xml:space="preserve">
         <source>Arrive %@</source>
-        <target state="needs-translation">Arrive %@</target>
+        <target state="translated">Ankunft %@</target>
         <note>The place of arrival.</note>
       </trans-unit>
       <trans-unit id="Arrive %@ at %@" xml:space="preserve">
         <source>Arrive %1$@ at %2$@</source>
-        <target state="needs-translation">Arrive %1$@ at %2$@</target>
+        <target state="translated">Ankunft %1$@ um %2$@</target>
         <note>The first '%@' will be replaced with the place of arrival, the second with the arrival time. (old key: ArrivalLocationTime)</note>
       </trans-unit>
       <trans-unit id="Arrive at %@" xml:space="preserve">
         <source>Arrive at %@</source>
         <target state="translated">Ankunft um %@</target>
-        <note>'%@' will be replaced with the arrival time. (old key: ArrivalTime)
-   Arrival time.</note>
+        <note>Arrival time.</note>
       </trans-unit>
       <trans-unit id="Arrive at %@ at %@" xml:space="preserve">
         <source>Arrive at %1$@ at %2$@</source>
@@ -3374,14 +3376,13 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Arrive near %@" xml:space="preserve">
         <source>Arrive near %@</source>
-        <target state="needs-translation">Arrive near %@</target>
+        <target state="translated">Ankunft nahe %@</target>
         <note>Used when the trip does not end at the requested location, but nearby. The '%@' will be replaced with requested destination location.</note>
       </trans-unit>
       <trans-unit id="At %@" xml:space="preserve">
         <source>At %@</source>
         <target state="translated">Bei %@</target>
-        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)
-   Filler for a service running at time, e.g., 'At 11:56am'</note>
+        <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
       </trans-unit>
       <trans-unit id="Bicycle" xml:space="preserve" approved="yes">
         <source>Bicycle</source>
@@ -3420,7 +3421,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Collapse" xml:space="preserve">
         <source>Collapse</source>
-        <target state="needs-translation">Collapse</target>
+        <target state="translated">Einklappen</target>
         <note>Accessibility title for button that points up to collapse a section</note>
       </trans-unit>
       <trans-unit id="Could not find transit stop." xml:space="preserve" approved="yes">
@@ -3440,7 +3441,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Depart near %@" xml:space="preserve">
         <source>Depart near %@</source>
-        <target state="needs-translation">Depart near %@</target>
+        <target state="translated">Abfahrt nahe %@</target>
         <note>Used when the trip does not start at the requested location, but nearby. The '%@' will be replaced with requested departure location.</note>
       </trans-unit>
       <trans-unit id="Departure" xml:space="preserve" approved="yes">
@@ -3495,7 +3496,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Expand" xml:space="preserve">
         <source>Expand</source>
-        <target state="needs-translation">Expand</target>
+        <target state="translated">Ausklappen</target>
         <note>Accessibility title for button that points down to expand a section</note>
       </trans-unit>
       <trans-unit id="Extend" xml:space="preserve">
@@ -3555,7 +3556,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Go" xml:space="preserve">
         <source>Go</source>
-        <target state="needs-translation">Go</target>
+        <target state="translated">Los</target>
         <note>Title of button to start a trip</note>
       </trans-unit>
       <trans-unit id="Google Maps" xml:space="preserve" approved="yes">
@@ -3611,8 +3612,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       <trans-unit id="Leave" xml:space="preserve" approved="yes">
         <source>Leave</source>
         <target state="final">Abfahrt</target>
-        <note>Prefix for selected 'leave after' time
-   Single line instruction to leave</note>
+        <note>Single line instruction to leave</note>
       </trans-unit>
       <trans-unit id="Leave %@" xml:space="preserve">
         <source>Leave %@</source>
@@ -3796,7 +3796,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Scheduled" xml:space="preserve">
         <source>Scheduled</source>
-        <target state="needs-translation">Scheduled</target>
+        <target state="translated">Geplant</target>
         <note>Label to indicate that the time for a service is the scheduled time, i.e., displayed as on the timetable with no real-time data available.</note>
       </trans-unit>
       <trans-unit id="Search for this stop again or try again later.." xml:space="preserve" approved="yes">
@@ -3816,7 +3816,7 @@ Hinweis: Deine iCloud-Daten werden dadurch nicht gelöscht, aber diese kannst du
       </trans-unit>
       <trans-unit id="Service has been cancelled." xml:space="preserve">
         <source>Service has been cancelled.</source>
-        <target state="needs-translation">Service has been cancelled.</target>
+        <target state="translated">Fällt aus.</target>
         <note>Alert if service has been cancelled, meaning that the user can't take it and find an alternative</note>
       </trans-unit>
       <trans-unit id="Setup" xml:space="preserve">

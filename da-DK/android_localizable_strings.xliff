@@ -539,6 +539,16 @@
         <target state="final">Bare tryk på %1$s derefter '%2$s'</target>
         <note>%2$s direct access action label. For example, "Add favourite direct access action label"</note>
       </trans-unit>
+      <trans-unit id="Access to location services required.">
+        <source>Access to location services required.</source>
+        <target state="translated">Adgang til placeringstjenester kræves.</target>
+        <note>Error title when access to location hasn't been granted, but location is required.</note>
+      </trans-unit>
+      <trans-unit id="Tap public transport stops for access to timetable">
+        <source>Tap public transport stops for access to timetable</source>
+        <target state="translated">Tryk på offentlig transport stop for adgang til tidsplan</target>
+        <note>Walkthrough</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -161,6 +161,11 @@
         <target state="final">Varje dag</target>
         <note>Everyday in context of repetitions (especially recurring events)</note>
       </trans-unit>
+      <trans-unit id="My Account" xml:space="preserve">
+        <source>My Account</source>
+        <target state="translated">Mitt konto</target>
+        <note>Header for accessing my account</note>
+      </trans-unit>
       <trans-unit id="Repeats daily" xml:space="preserve" approved="yes">
         <source>Repeats daily</source>
         <target state="final">Upprepas dagligen</target>
@@ -2128,8 +2133,7 @@ Vi sammanställer den anonymiserade datan och skickar den till forskare, tillsyn
       <trans-unit id="Take %@ off every trip" xml:space="preserve">
         <source>Take %@ off every trip</source>
         <target state="needs-translation">Take %@ off every trip</target>
-        <note>Format string for displaying the discount user received for a trip. The discount is specified as a percentage. An example: Take 5% off every trip
-   Format string for displaying the discount user received for a trip. The discount is specified in the dollar term (as opposed to a percentage). An example: Take $5 off every trip</note>
+        <note>Format string for displaying the discount user received for a trip. The discount is specified in the dollar term or a percentage. Examples: 'Take $5 off every trip' or 'Take 5% off every trip'</note>
       </trans-unit>
       <trans-unit id="Take photo" xml:space="preserve" approved="yes">
         <source>Take photo</source>
@@ -3336,8 +3340,7 @@ Obs! Dina iCloud-data kommer inte att raderas men du kan ta bort det i appen Ins
       <trans-unit id="Arrive" xml:space="preserve" approved="yes">
         <source>Arrive</source>
         <target state="final">Ankomst</target>
-        <note>Prefix for selected 'arrive by' time
-   Single line instruction to arrive</note>
+        <note>Single line instruction to arrive</note>
       </trans-unit>
       <trans-unit id="Arrive %@" xml:space="preserve">
         <source>Arrive %@</source>
@@ -3352,8 +3355,7 @@ Obs! Dina iCloud-data kommer inte att raderas men du kan ta bort det i appen Ins
       <trans-unit id="Arrive at %@" xml:space="preserve" approved="yes">
         <source>Arrive at %@</source>
         <target state="final">Anländer kl. %@</target>
-        <note>'%@' will be replaced with the arrival time. (old key: ArrivalTime)
-   Arrival time.</note>
+        <note>Arrival time.</note>
       <alt-trans><target>Ankomst kl. %@</target></alt-trans></trans-unit>
       <trans-unit id="Arrive at %@ at %@" xml:space="preserve" approved="yes">
         <source>Arrive at %1$@ at %2$@</source>
@@ -3378,8 +3380,7 @@ Obs! Dina iCloud-data kommer inte att raderas men du kan ta bort det i appen Ins
       <trans-unit id="At %@" xml:space="preserve" approved="yes">
         <source>At %@</source>
         <target state="final">Kl. %@</target>
-        <note>'At %location' indicator for parts of a trip that happen at a single location, e.g., waiting at a platform, parking at a car park. (old key: PrimaryLocationStationary)
-   Filler for a service running at time, e.g., 'At 11:56am'</note>
+        <note>Filler for a service running at time, e.g., 'At 11:56am'</note>
       </trans-unit>
       <trans-unit id="Bicycle" xml:space="preserve" approved="yes">
         <source>Bicycle</source>
@@ -3609,8 +3610,7 @@ Obs! Dina iCloud-data kommer inte att raderas men du kan ta bort det i appen Ins
       <trans-unit id="Leave" xml:space="preserve" approved="yes">
         <source>Leave</source>
         <target state="final">Avgång</target>
-        <note>Prefix for selected 'leave after' time
-   Single line instruction to leave</note>
+        <note>Single line instruction to leave</note>
       <alt-trans><target>Åk</target></alt-trans></trans-unit>
       <trans-unit id="Leave %@" xml:space="preserve" approved="yes">
         <source>Leave %@</source>
